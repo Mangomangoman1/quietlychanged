@@ -1,0 +1,262 @@
+{
+ "failed_2026-10-13": [
+  [
+   "OpenAI ChatGPT",
+   "pricing",
+   "https://openai.com/chatgpt/pricing/",
+   "HTTP 403"
+  ],
+  [
+   "OpenAI ChatGPT",
+   "terms",
+   "https://openai.com/policies/terms-of-use/",
+   "HTTP 403"
+  ],
+  [
+   "OpenAI ChatGPT",
+   "privacy",
+   "https://openai.com/policies/privacy-policy/",
+   "HTTP 403"
+  ],
+  [
+   "Adobe",
+   "pricing",
+   "https://www.adobe.com/creativecloud/plans.html",
+   "HTTP 403"
+  ],
+  [
+   "Adobe",
+   "terms",
+   "https://www.adobe.com/legal/terms.html",
+   "HTTP 403"
+  ],
+  [
+   "Adobe",
+   "privacy",
+   "https://www.adobe.com/privacy/policy.html",
+   "HTTP 403"
+  ],
+  [
+   "Disney+",
+   "pricing",
+   "https://help.disneyplus.com/article/disneyplus-price",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Disney+",
+   "terms",
+   "https://www.disneyplus.com/legal/subscriber-agreement",
+   "too little text (5 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "YouTube",
+   "pricing",
+   "https://www.youtube.com/premium",
+   "too little text (162 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Notion",
+   "terms",
+   "https://www.notion.com/notion/Personal-Terms-of-Use-3db3d3d5b7c7488f8e3f1a2e3e9e7ccc",
+   "HTTP 404"
+  ],
+  [
+   "Notion",
+   "privacy",
+   "https://www.notion.com/notion/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091",
+   "HTTP 404"
+  ],
+  [
+   "Canva",
+   "pricing",
+   "https://www.canva.com/pricing/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Duolingo",
+   "terms",
+   "https://www.duolingo.com/terms",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Duolingo",
+   "privacy",
+   "https://www.duolingo.com/privacy",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Reddit",
+   "privacy",
+   "https://www.reddit.com/policies/privacy-policy",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "X",
+   "pricing",
+   "https://help.x.com/en/using-x/x-premium",
+   "HTTP 403"
+  ],
+  [
+   "Meta",
+   "terms",
+   "https://www.facebook.com/legal/terms",
+   "HTTP 400"
+  ],
+  [
+   "Meta",
+   "privacy",
+   "https://www.facebook.com/privacy/policy/",
+   "HTTP 400"
+  ],
+  [
+   "Uber",
+   "terms",
+   "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+   "HTTP 406"
+  ],
+  [
+   "Uber",
+   "privacy",
+   "https://www.uber.com/legal/en/document/?name=privacy-notice&country=united-states&lang=en",
+   "HTTP 406"
+  ],
+  [
+   "DoorDash",
+   "pricing",
+   "https://www.doordash.com/dashpass/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "United",
+   "pricing",
+   "https://www.united.com/en/us/fly/baggage/checked-bags.html",
+   "ReadTimeout"
+  ],
+  [
+   "United",
+   "terms",
+   "https://www.united.com/en/us/fly/contract-of-carriage.html",
+   "ReadTimeout"
+  ],
+  [
+   "Southwest",
+   "pricing",
+   "https://www.southwest.com/help/baggage/checked-bags",
+   "HTTP 404"
+  ],
+  [
+   "Southwest",
+   "terms",
+   "https://www.southwest.com/assets/pdfs/corporate-commitments/contract-of-carriage.pdf",
+   "PDF (unsupported)"
+  ],
+  [
+   "American Airlines",
+   "pricing",
+   "https://www.aa.com/i18n/travel-info/baggage/checked-baggage-policy.jsp",
+   "HTTP 403"
+  ],
+  [
+   "American Airlines",
+   "terms",
+   "https://www.aa.com/i18n/customer-service/support/conditions-of-carriage.jsp",
+   "HTTP 403"
+  ],
+  [
+   "Max (HBO)",
+   "terms",
+   "https://www.max.com/terms-of-use/en-us",
+   "too little text (24 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Max (HBO)",
+   "privacy",
+   "https://www.max.com/privacy-policy/en-us",
+   "HTTP 404"
+  ],
+  [
+   "Paramount+",
+   "terms",
+   "https://legal.paramount.com/us/en/pplus/terms-of-use",
+   "too little text (136 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Paramount+",
+   "privacy",
+   "https://privacy.paramount.com/policy",
+   "too little text (136 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Patreon",
+   "privacy",
+   "https://privacy.patreon.com/policies",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Tinder",
+   "privacy",
+   "https://policies.tinder.com/privacy/us/en",
+   "HTTP 404"
+  ],
+  [
+   "Twitch",
+   "terms",
+   "https://www.twitch.tv/p/en/legal/terms-of-service/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Twitch",
+   "privacy",
+   "https://www.twitch.tv/p/en/legal/privacy-notice/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "PlayStation Plus",
+   "pricing",
+   "https://www.playstation.com/en-us/ps-plus/",
+   "too little text (198 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Mailchimp",
+   "terms",
+   "https://www.intuit.com/legal/terms/en-us/mailchimp/",
+   "HTTP 429"
+  ],
+  [
+   "Calendly",
+   "terms",
+   "https://calendly.com/legal/terms",
+   "HTTP 404"
+  ],
+  [
+   "WhatsApp",
+   "terms",
+   "https://www.whatsapp.com/legal/terms-of-service",
+   "HTTP 400"
+  ],
+  [
+   "WhatsApp",
+   "privacy",
+   "https://www.whatsapp.com/legal/privacy-policy",
+   "HTTP 400"
+  ],
+  [
+   "Vimeo",
+   "pricing",
+   "https://vimeo.com/upgrade",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Alaska Airlines",
+   "pricing",
+   "https://www.alaskaair.com/content/travel-info/baggage/checked-bags",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Alaska Airlines",
+   "terms",
+   "https://www.alaskaair.com/content/legal/contract-of-carriage",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ]
+ ]
+}
