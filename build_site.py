@@ -59,6 +59,7 @@ NAV = [("index.html","Latest"),("archive.html","Archive"),("services.html","What
 
 def slug(x): return re.sub(r"[^a-z0-9]+","-",x.lower().replace("+","-plus")).strip("-")
 def slug_tr(x): return re.sub(r"[^a-z0-9]+","-",x.lower()).strip("-")
+def art_slug(d,c): return f"{d}-{slug(c['service'])}-{slug(c.get('headline') or c.get('page','update'))}"[:90].strip("-")
 def nice(d): return datetime.date.fromisoformat(d).strftime("%B %-d, %Y")
 def page(fn, title, body, desc=TAG, depth=0, ld=None, otype="website"):
     p = "../"*depth; url = f"{SITE}/{fn}".replace("/index.html","/")
@@ -99,7 +100,7 @@ def cards(items, d):
     li=[]
     for c in items:
         k=c.get("page","terms")
-        li.append(f'''<li><article class="card"><div>{tag(k)}</div><h3>{E(c["service"])}: {E(c.get("headline") or LABEL.get(k,k)+" page updated")}</h3>
+        li.append(f'''<li><article class="card"><div>{tag(k)}</div><h3><a href="../changes/{art_slug(d,c)}/">{E(c["service"])}: {E(c.get("headline") or LABEL.get(k,k)+" page updated")}</a></h3>
 <dl><dt>What changed</dt><dd>{E(c["what"])}</dd><dt>Who it affects</dt><dd>{E(c.get("who","All users"))}</dd></dl>
 <div class="foot"><time datetime="{d}">{nice(d)}</time><a href="{E(c["url"])}">View source page<span class="sr"> for {E(c["service"])}</span> →</a></div></article></li>''')
     return f'<ul class="cards">{"".join(li)}</ul>'
@@ -156,6 +157,21 @@ feed = "".join(f'<entry><title>Report, {nice(d)}</title><link href="{SITE}/repor
 (D/".nojekyll").write_text("")
 if not (D/"CNAME").exists(): (D/"CNAME").write_text("quietlychanged.com\n")
 
+# ---- standalone change articles ----
+ARTS=[]
+for d in days:
+    for c in data[d]:
+        a=art_slug(d,c); c["_art"]=a; (D/"changes"/a).mkdir(parents=True, exist_ok=True)
+        t=c.get("seo_title") or f'{c["service"]}: {c.get("headline") or "page updated"}'
+        ds=c.get("seo_desc") or (c["what"][:155])
+        k=c.get("page","terms"); sl=slug(c["service"])
+        ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":d+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
+        body=f'''<p class="kicker">{tag(k)} {E(c["service"])}</p><h1>{E(t)}</h1><p class="meta"><time datetime="{d}">{nice(d)}</time> · Detected by QuietlyChanged's daily check</p>
+<p class="lede">{E(c["what"])}</p><h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
+<h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>
+<h2>More</h2><p><a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
+        (D/"changes"/a/"index.html").write_text(page(f"changes/{a}/index.html", t, body, desc=ds, depth=2, ld=ld, otype="article"))
+        ARTS.append((d,c,t))
 # ---- evergreen per-service pages ----
 def svc_name(k): return k
 for k, v in s.items():
@@ -167,7 +183,7 @@ for k, v in s.items():
     kinds = _w[0] if len(_w)==1 else ", ".join(_w[:-1]) + " & " + _w[-1]
     title = f"{k} {kinds} changes (history)"
     srcs = "".join(f'<li>{tag(p)} <a href="{E(u)}">{E(u)}</a></li>' for p,u in v.items())
-    cl = "".join(f'<li><article class="card"><div>{tag(c.get("page","terms"))}</div><h3><a href="../../reports/{d}.html">{E(c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="{E(c["url"])}">Source →</a></div></article></li>' for d,c in log)
+    cl = "".join(f'<li><article class="card"><div>{tag(c.get("page","terms"))}</div><h3><a href="../../changes/{c['_art']}/">{E(c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="{E(c["url"])}">Source →</a></div></article></li>' for d,c in log)
     cl = f'<ul class="cards">{cl}</ul>' if cl else f'<p class="empty">No changes detected since tracking began on {nice(first)}. This page updates automatically when {E(k)} changes a tracked page.</p>'
     others = sorted(s, key=str.lower); i = others.index(k); nb = [others[(i+j)%len(others)] for j in (-1,1)]
     desc = f"A dated history of every change {k} makes to its {kinds} pages, checked daily by QuietlyChanged. Last checked {nice(last)}."
