@@ -31,3 +31,15 @@ Goal: 500 Google impressions/day by 2026-11-13.
 - GSC (sc-domain:quietlychanged.com, last ~7 days via service account): 0 impressions / 0 clicks so far; no queries or pages yet. Sitemap https://quietlychanged.com/sitemap.xml last downloaded 2026-10-14 ~2:17 PM MT, 0 errors, 60 URLs submitted / 0 indexed.
 - Expected effect: RSS readers and syndication partners can discover individual change stories (not just bare daily reports), with usable summaries; IndexNow should speed Bing/Yandex discovery of new change URLs.
 - Next: wait for Google indexing of /changes/ URLs; consider Cash App "Block roadmap context" E-E-A-T line; keep daily change articles flowing so the feed stays fresh for subscribers.
+
+## 2026-10-15: deep dive
+Rotated unusual sources (first deep-dive run): Federal Register / FTC / FCC / CFPB / DOT API; Open Terms Archive GitHub commits; API deprecations (OpenAI, Gemini, Shopify, Reddit); Apple Developer News; Google Play policy deadlines; help centers (Reddit, Xfinity, PayPal, Venmo); carrier/bank fee schedules (Verizon, AT&T, T-Mobile, BofA, Chase, Wells Fargo); forums/X for already-covered noise.
+
+**Solid finds (3), verified against primary sources:**
+1. **Bank of America** Online Banking Service Agreement (effective Oct 19, 2026): narrows error/unauthorized-transaction investigation for transactions that appear on linked external-account statements; 90-day window kept only for Bill Pay to third-party payees. Primary: OBSAUpdateEN.pdf. No news coverage found. Article: /changes/2026-10-15-bank-of-america-narrows-error-and-fraud-protection-for-linked-external-account-transactions-oct-19/. Added to services.json (terms page).
+2. **Verizon** Regulatory Charge $0.21 → $0.26/voice line effective Nov 1, 2026 (support/surcharges page, verbatim). Context: FCC Q4 2026 USF factor 42.0% (record). Niche coverage only (phonebilltracker). Article: /changes/2026-10-15-verizon-regulatory-charge-rises-24-to-0-26-per-voice-line-on-nov-1/. Added to services.json (pricing/fees URL).
+3. **U.S. DOT** FR Doc 2026-21058 (pub Oct 15): delays Section 511(b) airline delay-category rule effective date from Oct 19, 2026 to Feb 1, 2027 (flights from Jan 1, 2027). Original rule had mainstream coverage; the *delay* mostly trade. Article: /changes/2026-10-15-u-s-dot-airline-delay-category-rule-pushed-to-feb-1-2027-flights-from-jan-1/. Not added to tracker (one-off FR docs).
+
+**Rejected:** Reddit RSS shutdown (TechCrunch/TNW already covered); IRS premium tax credit proposed rules (implements widely reported 2025 law); Xfinity Kids/Teens Privacy Notice (protective, low-impact).
+
+**Social:** branded cards under social/2026-10-15/ for BofA, Verizon, DOT. Handed to parent for @QuietlyChanged posts.
