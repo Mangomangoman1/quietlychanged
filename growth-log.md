@@ -43,3 +43,18 @@ Rotated unusual sources (first deep-dive run): Federal Register / FTC / FCC / CF
 **Rejected:** Reddit RSS shutdown (TechCrunch/TNW already covered); IRS premium tax credit proposed rules (implements widely reported 2025 law); Xfinity Kids/Teens Privacy Notice (protective, low-impact).
 
 **Social:** branded cards under social/2026-10-15/ for BofA, Verizon, DOT. Handed to parent for @QuietlyChanged posts.
+
+## 2026-10-15: distribution session
+**Best story:** Bank of America Online Banking Service Agreement effective Oct 19, 2026 — narrows error/unauthorized-transaction investigation for transactions that appear on linked external-account statements (Bill Pay to third-party payees excepted). Article: /changes/2026-10-15-bank-of-america-narrows-error-and-fraud-protection-for-linked-external-account/ (HTTP 200; longer `-transactions-oct-19` slug 404s). Verified against live OBSAUpdateEN.pdf: effective date Oct 19, 2026; key disclaimer and §8.B “apply only to accounts maintained with Bank of America” language match the article.
+
+**Coverage:** No news coverage of the dispute narrowing (WebSearch + X search_news / search_posts_all). Customer awareness only: r/BankOfAmerica thread https://www.reddit.com/r/BankOfAmerica/comments/1wqub7s/boa_changing_tos_for_credit_card_payments/ (Sept 26); X post https://x.com/RemiReliefX/status/2103538304604119106 (~37k impressions) misframed the customer email as a Ripple update. Verizon hike already on phonebilltracker (Oct 11). Cash App auto-sell BTC clause now also summarized on ConductAtlas (Oct 15) — no longer exclusive.
+
+**Live checks:** BofA/Verizon/DOT change URLs, feed.xml, sitemap.xml all 200. Feed and sitemap include today’s three deep-dive articles (plus earlier Oct 15 pricing finds). IndexNow key file live; re-pinged today’s three change URLs + home/feed/sitemap → HTTP 202.
+
+**Self-serve done:** IndexNow ping (202). Submitted Atom feed to RSS Amplifier (no account) — live listing https://rssamplifier.com/quietlychanged with today’s entries. rss.mobi no-login API returned 500 (retry later). Did not use box browser; nothing posted/emailed under Samuel’s name.
+
+**Drafts prepared (approval needed):** Bluesky, LinkedIn, r/BankOfAmerica (comment on existing thread or PDF-only post), r/personalfinance (PDF-only; no self-promo link), HN submission, pitch emails to Kate Berry / American Banker (kate.berry@arizent.com, from americanbanker.com/contact-us) and Katie Kelton / Bankrate (kkelton@bankrate.com, from her Bankrate author page). X angle + RemiReliefX quote note for parent (@QuietlyChanged). Full text: social/2026-10-15/distribution-drafts.md.
+
+**Opportunities:** Samuel posts/emails BofA drafts before Oct 19 while unreported; optional factual quote of RemiReliefX thread; alternate AB reporter Allissa Kline (allissa.kline@arizent.com) if needed. Skip The Markup tips@ (not for pitches). FeedSpot / Show HN site launch still need Samuel accounts (unchanged).
+
+**Next steps:** (1) Samuel approves BofA distribution drafts. (2) Retry rss.mobi when API recovers. (3) Keep watching Google indexing (still 0 indexed). (4) Parent handles @QuietlyChanged X for BofA if not already posted.
