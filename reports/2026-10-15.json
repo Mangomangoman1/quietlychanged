@@ -1,0 +1,685 @@
+{
+ "date": "2026-10-15",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ]
+ ],
+ "failed": [],
+ "changes": [
+  {
+   "service": "Anthropic Claude",
+   "page": "pricing",
+   "url": "https://www.anthropic.com/pricing",
+   "diff": "@@ -304,3 +304,3 @@\n Seat price + usage at API rates\n-US$20/seat/month, billed annually. Usage cost scales with model and task.\n+US$20/seat/month, billed annually, 20 seat minimum. Usage cost scales with model and task.\n All Team plan features, plus:",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Slack",
+   "page": "pricing",
+   "url": "https://slack.com/pricing",
+   "diff": "@@ -97,3 +97,5 @@\n Maximize performance on the most comprehensive work OS\n-Contact sales for pricing\n+$45\n+USD\n+per user / month, when paying annually\n Contact Sales",
+   "added": 3,
+   "removed": 1
+  },
+  {
+   "service": "Shopify",
+   "page": "pricing",
+   "url": "https://www.shopify.com/pricing",
+   "diff": "@@ -15,3 +15,3 @@\n Grow\n-$79\n+$89\n /mo\n@@ -25,3 +25,3 @@\n Advanced\n-$299\n+$359\n /mo\n@@ -251,4 +251,4 @@\n $29 USD/mo\n-$79 USD/mo\n-$299 USD/mo\n+$89 USD/mo\n+$359 USD/mo\n Core features",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "PayPal",
+   "page": "privacy",
+   "url": "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "diff": "@@ -399,6 +399,6 @@\n DPO contact e-mail:\n-[email protected]\n+latamdpo@paypal.com\n Deputy Data Protection Officer: Fabiana Moreira Chaves\n Deputy DPO contact e-mail:\n-[email protected]\n+latamdpo@paypal.com\n Brunei\n@@ -467,3 +467,3 @@\n Address, telephone and e-mail: Regus Samsungdong Limited (World Trade Center), 27th, 30th Floor, Trade Tower, 511 Young Dong Street, Gangnam-gu, Seoul, South Korea 06164, (+82) 02 737 5775,\n-[email protected]\n+skrprivacy@paypal.com\n Malaysia\n@@ -876,3 +876,3 @@\n . For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email:\n-[email protected]\n+Aginfo@ag.nv.gov\n PayPal Privacy Statement",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "Tinder",
+   "page": "terms",
+   "url": "https://policies.tinder.com/terms/us/en",
+   "diff": "@@ -1,240 +1,242 @@\n-Tinder Terms of Use\n-download these Terms of Use as a PDF\n-Here is a short\n-summary\n-of our Terms of Use\n-California subscribers:\n-You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed.\n-External Service Subscriptions:\n-If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service, as set forth in more detail in Section 8a.\n-Apple ID Refunds:\n-If you subscribed through your Apple ID, refunds are handled by Apple, not Tinder. You can request a refund from Apple through your Apple ID account on your phone or at\n+Gebruiksvoorwaarden van Tinder\n+Van kracht vanaf 1 maart 2026.\n+download deze Gebruiksvoorwaarden als pdf\n+Hier is een korte\n+samenvatting\n+van onze Gebruiksvoorwaarden\n+Abonnees in Californi\u00eb:\n+Je kunt je abonnement zonder boete of verplichting annuleren tot middernacht van de derde werkdag na de datum waarop je het abonnement hebt afgesloten.\n+Abonnementen via Externe Diensten:\n+Als je je hebt geabonneerd via een Externe Dienst (bijvoorbeeld Apple ID of Google Play), moet je opzeggen via die Externe Dienst, zoals nader uiteengezet in artikel 8a.\n+Terugbetalingen via Apple ID:\n+Als je je hebt geabonneerd via je Apple ID, worden terugbetalingen afgehandeld door Apple en niet door Tinder. Je kunt een terugbetaling bij Apple aanvragen via je Apple ID-account op je telefoon of via\n https://getsupport.apple.com\n-All Other Refunds:\n-All other users may request a refund by contacting Tinder Customer Service via our Help Center, or by mailing or delivering a signed and dated notice that states that you, the buyer, are canceling this Agreement, or words of similar effect. Please also include your name and the email address, phone number, or other unique identifier you used to sign up for your account.\n-Contact Information for Cancellations/Notices:\n-Tinder, Attn: Cancellations, P.O. Box 25472, Dallas, Texas 75225, USA.\n-Business Address:\n-The Company's business is conducted, in part, at 8750 N. Central Expressway, Suite 1400, Dallas, TX 75231.\n-Terms Inquiries:\n-You may have these Terms of Use (\"Terms\") emailed to you by sending a letter to Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, USA.\n-California Consumer Complaints:\n-In accordance with Cal. Civ. Code \u00a71789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834, or by telephone at (800) 952-5210.\n-Note: We have included brief summaries at the beginning of several sections to make it easier for you to read and understand this Agreement. The summaries are provided for convenience and form a part of, but do not replace, the text of each section, and you should still read each section in its entirety.\n-1. INTRODUCTION\n-By accessing or using Tinder's Services, you agree to be bound by this Terms of Use Agreement (the \"Terms\" or \"Agreement\"), including our\n-Privacy Policy\n-Community Guidelines\n-, and\n-Safety Tips\n-, so it is important that you read this Agreement and these policies and procedures carefully before you create an account.\n-DISPUTE RESOLUTION:\n-PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 15 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED BETWEEN YOU AND TINDER.\n-SECTION 15 REQUIRES WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND TINDER SHALL BE RESOLVED BY BINDING AND FINAL ARBITRATION, INCLUDING DISPUTES RELATED TO ARBITRABILITY. SECTION 15 ALSO INCLUDES A MANDATORY PRE-ARBITRATION INFORMAL DISPUTE RESOLUTION PROCESS, SMALL CLAIMS COURT ELECTION, CLASS ACTION AND JURY TRIAL WAIVERS, AND ADDITIONAL PROCEDURES FOR MASS ARBITRATION FILINGS THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS TYPICALLY LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.\n-We may update these Terms from time to time, so check this page regularly for updates.\n-Contracting Entities:\n-Welcome to Tinder.\n-If you live in the European Economic Area, the United Kingdom, or Switzerland\n-, these Terms of Use are between you and:\n-MTCH Technology Services Limited (\"MTCH Technology\")\n-10 Earlsfort Terrace Dublin 2, D01 T380 Ireland\n-If you live in Japan\n-, these Terms of Use apply between you and:\n-MG Japan Services GK (\"MG Japan\")\n-Sumitomo Fudosan Azabu Bldg. 1-4-1 Mita Minato-ku, Tokyo 108-0073 Japan\n-If you live anywhere else\n-, these Terms of Use apply between you and:\n+Alle overige terugbetalingen:\n+Alle andere gebruikers kunnen een terugbetaling aanvragen door contact op te nemen met Tinder via onze Help Center, of door een ondertekende en gedateerde kennisgeving per post te verzenden of te overhandigen waarin staat dat jij, de koper, deze Overeenkomst opzegt, of woorden van gelijke strekking. Vermeld ook je naam en het e-mailadres, telefoonnummer of een andere unieke identificatie die je hebt gebruikt om je account aan te maken.\n+Contactgegevens voor opzeggingen/kennisgevingen:\n+Tinder, t.a.v. Cancellations, P.O. Box 25472, Dallas, Texas 75225, VS.\n+Vestigingsadres:\n+De Onderneming oefent haar activiteiten onder meer uit op 8750 N. Central Expressway, Suite 1400, Dallas, TX 75231.\n+Vragen over de voorwaarden:\n+Je kunt deze Gebruiksvoorwaarden ('Voorwaarden') per e-mail toegestuurd krijgen door een brief te sturen naar Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, VS.\n+Klachten van consumenten in Californi\u00eb:\n+Overeenkomstig Cal. Civ. Code \u00a71789.3, kun je klachten melden bij de Complaint Assistance Unit van de Division of Consumer Services van het California Department of Consumer Affairs door hen schriftelijk te benaderen via Consumer Information Division, 1625 North Market Blvd., Suite N112, Sacramento, CA 95834, of telefonisch via (800) 952-5210.\n+Opmerking: We hebben aan het begin van verschillende secties korte samenvattingen opgenomen om het voor jou gemakkelijker te maken deze Overeenkomst te lezen en te begrijpen. De samenvattingen zijn opgenomen voor het gemak en maken deel uit van, maar vervangen niet, de tekst van elke sectie; je dient daarom elke sectie volledig te lezen.\n+1. INLEIDING\n+Door toegang te verkrijgen tot of gebruik te maken van de Diensten van Tinder, stem je ermee in gebonden te zijn aan deze Gebruiksvoorwaarden (de 'Voorwaarden' of de 'Overeenkomst'), met inbegrip van ons\n+Privacybeleid\n+Communityrichtlijnen\n+Veiligheidstips\n+. Het is daarom belangrijk dat je deze Overeenkomst en deze beleidsregels en procedures zorgvuldig leest voordat je een account aanmaakt.\n+GESCHILLENBESLECHTING:\n+LEES DE BEPALINGEN OVER GESCHILLENBESLECHTING IN SECTIE 15 HIERONDER ZORGVULDIG DOOR. DEZE BEPALINGEN REGELEN DE WIJZE WAAROP GESCHILLEN TUSSEN JOU EN TINDER WORDEN BEHANDELD.\n+SECTIE 15 VEREIST, BEHOUDENS BEPERKTE UITZONDERINGEN, DAT ALLE GESCHILLEN TUSSEN JOU EN TINDER WORDEN BESLECHT DOOR MIDDEL VAN BINDENDE EN DEFINITIEVE ARBITRAGE, MET INBEGRIP VAN GESCHILLEN MET BETREKKING TOT DE ARBITRABILITEIT. SECTIE 15 OMVAT OOK EEN VERPLICHTE INFORMELE GESCHILLENREGELING VOORAFGAAND AAN ARBITRAGE, DE MOGELIJKHEID OM TE KIEZEN VOOR DE KANTONRECHTER, AFSTAND VAN HET RECHT OP EEN COLLECTIEVE VORDERING EN EEN JURYPROCES, EN AANVULLENDE PROCEDURES VOOR MASSALE ARBITRAGEVERZOEKEN DIE INVLOED HEBBEN OP JOUW RECHTEN. BIJ ARBITRAGE IS DOORGAANS MINDER RUIMTE VOOR BEWIJSVERGARING EN HOGER BEROEP DAN BIJ EEN PROCEDURE VOOR DE RECHTER.\n+We kunnen deze Voorwaarden van tijd tot tijd bijwerken, dus controleer deze pagina regelmatig op updates.\n+Contracterende entiteiten:\n+Welkom bij Tinder.\n+Als je woonachtig bent in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland\n+, worden deze Gebruiksvoorwaarden gesloten tussen jou en:\n+MTCH Technology Services Limited ('MTCH Technology')\n+, 10 Earlsfort Terrace, Dublin 2, D01 T380, Ierland.\n+Als je woonachtig bent in Japan\n+, zijn deze Gebruiksvoorwaarden van toepassing tussen jou en:\n+MG Japan Services GK ('MG Japan')\n+, Sumitomo Fudosan Azabu Bldg. 1-4-1 Mita Minato-ku, Tokio 108-0073 Japan\n+Als je ergens anders woonachtig bent\n+, zijn deze Gebruiksvoorwaarden van toepassing tussen jou en:\n Tinder LLC (\"Tinder\")\n-8750 North Central Expressway, Suite 1400 Dallas, TX 75231, USA\n-The terms \"us\", \"we\", \"Company\" and/or \"Tinder\" refer to MTCH Technology, MG Japan, or Tinder based on your country of residence. Together you and Tinder may be referred to as the \"Parties\" or separately as \"Party\". As used in this Agreement, the terms \"Tinder,\" \"us,\" \"we,\" the \"Company\", and \"our\" shall refer to Tinder LLC and/or MTCH Technology Services Limited, as appropriate.\n-By accessing or using our Services on Tinder.com (the \"Website\"), the Tinder mobile application (the \"App\"), or any other platforms or services Tinder may offer (collectively, the \"Service\" or our \"Services\"), you agree to, and are bound by this Agreement. This Agreement applies to anyone who accesses or uses our Services, regardless of registration or subscription status.\n-Your access and use of our Services is also subject to the\n-Privacy Policy\n-Community Guidelines\n-, and\n-Safety Tips\n-, and any terms disclosed and agreed to by you when you purchase additional features or services from Tinder (\"Additional Terms Upon Purchase\"), which are incorporated into this Agreement by reference. If you do not wish to be bound by this Agreement, do not access or use our Services.\n-Mandatory Features:\n-We reserve the right to introduce mandatory features to our Services at any time. These features may be designed to enhance the functionality, security, safety or overall user experience of our Services. As these features are mandatory, if you do not wish to engage with these features, you may lose access to your account or be required to terminate your account as set forth in Section 9.\n-Changes to Terms:\n-These terms may change from time to time. Notice of material changes will be posted on this page with an updated effective date. We may notify you of a change to the Terms via email, in-app notification, or other means; however, you are responsible for regularly checking this page for any changes. To the maximum extent permitted by applicable law, your continued access or use of our Services after the effective date of the Terms constitutes your consent to any changes, and as a result, you will be legally bound by the updated Terms. If you do not accept a change to the Terms, you must stop accessing or using our Services immediately.\n-Notwithstanding the foregoing, any material changes to the Limitation of Liability in Section 14 and the Dispute Resolution provisions in Section 15, or where otherwise required by law, will require your affirmative acceptance. Further, subject to applicable law, we reserve the right to change the availability of features in our subscription plans in any manner and at any time as we may determine at our sole discretion.\n-2. ACCOUNT ELIGIBILITY; YOUR RESPONSIBILITIES\n-Before you create an account on Tinder, make sure you are eligible to use our Services. This Section also details what you can and can't do when using the Services, as well as the rights you grant Tinder.\n-2a. Eligibility\n-You are not authorized to create an account or use the Services unless all of the following are true, and by using our Services, you represent and warrant that:\n-You are an individual (i.e., not any body corporate, partnership or other business entity) at least 18 years old;\n-You are legally qualified to enter a binding contract with Tinder;\n-You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a \"terrorist supporting\" country;\n-You are not on any list of individuals prohibited from conducting business with the United States (for example, the U.S. Treasury Department's list of Specially Designated Nationals or any similar government agency list) nor do you face any other similar prohibition);\n-You are not prohibited by law from using our Services;\n-You have not committed, been convicted of, or pled no contest to any crime involving violence, the threat of violence, or sexual misconduct;\n-You are not required to register as a sex offender with any state, federal or local sex offender registry;\n-You do not have any other active accounts on our Services; and\n-You have not previously been removed from our Services or our affiliates' services by us or our affiliates, unless you have our express written permission to create a new account.\n-If at any time you cease to meet these requirements, all authorization to access our Services or systems is automatically revoked, and you must immediately delete your account, and we retain the right to delete your account and remove your access to our Services without warning in our sole discretion.\n-2b. Your Responsibilities\n-You agree to:\n-Comply with these Terms, and check this page from time to time to ensure you are aware of any changes;\n-Comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, and regulatory requirements;\n-Use the latest version of the Website and/or App;\n-Treat other users in a courteous and respectful manner, both on and off our Services;\n-Be respectful when communicating with any of our customer care representatives or other employees;\n-Review the\n-Safety Tips\n-Review and comply with the\n-Community Guidelines\n-, as updated from time to time; and\n-Take reasonable measures to protect the security of your account and login information.\n-2c. Prohibited Conduct\n-You agree that you will not:\n-Misrepresent your identity, age, employment (current or previous), qualifications or affiliations with a person or entity;\n-Use the Services in a way that damages the Services or prevents their use by other users;\n-Use our Services in a way to interfere with, disrupt or negatively affect the platform, the servers, or our Services' networks;\n-Use our Services for any harmful, illegal, or nefarious purpose, including, but not limited to, using any Virtual Items for purposes of money laundering or other financial crimes;\n-Harass, bully, stalk, intimidate, assault, defame, harm or otherwise or mistreat any person;\n-Post or share Prohibited Content (see below);\n-Solicit passwords for any purpose, or personal identifying information for commercial or unlawful purposes from other users or disseminate another person's personal information without his or her permission;\n-Solicit money or other items of value from another user, whether as a gift, loan, or form of compensation;\n-Use another user's account or share your account with another person;\n-Use our Services in relation to fraud, a pyramid scheme, or other similar practice;\n-Use our Services in relation to any political campaign financing or for the purpose of influencing any election, other than sharing your own personal political opinions;\n-Violate the terms of the license granted to you by Tinder (see Section 6 below);\n-Disclose private or proprietary information that you do not have the right to disclose;\n-Copy, modify, transmit, distribute, or create any derivative works from, any Member Content or Our Content, or any copyrighted material, images, trademarks, trade names, service marks, or other intellectual property, content or proprietary information accessible through our Services without Tinder's prior written consent;\n-Express or imply that any statements you make are endorsed by Tinder;\n-Use any robot, crawler, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, \"data mine,\" or in any way reproduce or circumvent the navigational structure or presentation of our Services or its contents;\n-Upload viruses or other malicious code or otherwise compromise the security of our Services;\n-Forge headers or otherwise manipulate identifiers to disguise the origin of any information transmitted to or through our Services;\n-\"Frame\" or \"mirror\" any part of our Services without Tinder's prior written authorization;\n-Use meta tags or code or other devices containing any reference to Tinder or the platform (or any trademark, trade name, service mark, logo or slogan of Tinder) to direct any person to any other website for any purpose;\n-Modify, adapt, sublicense, translate, sell, reverse engineer, decipher, decompile or otherwise disassemble any portion of our Services, or cause others to do so;\n-Use or develop any third-party applications or services that directly interact with our Services or Member Content or information without our written consent, including but not limited to artificial intelligence or machine learning systems;\n-Use, access, or publish the Tinder application programming interface without our written consent;\n-Probe, scan or test the vulnerability of our Services or any system or network;\n-Encourage, promote, or agree to engage in any activity that violates these Terms;\n-Create a new account after we suspend or terminate your account, unless you receive our express permission; or\n-Submit a report about a member's behavior or content that is false, misleading, or otherwise manifestly unfounded, or abuse any Tinder reporting or appeals request system made available.\n-The license granted to you under these Terms and any authorization to access the Services is automatically revoked in the event that you do any of the above.\n-2d. Prohibited Content\n-Tinder prohibits uploading or sharing content that:\n-Could reasonably be deemed to be offensive or to harass, upset, embarrass, or alarm any other person;\n-Is obscene, pornographic, violent, or otherwise may offend human dignity, or contains nudity;\n-Is abusive, insulting, threatening, discriminatory or that promotes or encourages racism, sexism, hatred or bigotry;\n-Is illegal or encourages or facilitates any illegal activity including, without limitation, terrorism, human trafficking, money muling, child abuse and exploitation, or the incitement of violence or hatred;\n-Encourages or facilitates any activity that may result in harm to the user or another person, including, but not limited to, promotion of self-harm, eating disorders, dangerous challenges, violent extremism, or harmful misinformation;\n-Is defamatory, libelous, or untrue;\n-Relates to commercial activities (including, without limitation, sales, competitions, employment or investment opportunities, promotions, and advertising, solicitation for services, sex work, \"sugar daddy\" or \"sugar baby\" relationships, links to other websites or premium line telephone numbers);\n-Involves or facilitates the transmission of \"junk mail\" or spam;\n-Contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Tinder or otherwise;\n-Infringes upon any third party's rights (including, without limitation, intellectual property rights and privacy rights);\n-Includes the image or likeness of another person without that person's consent (or in the case of a minor, the minor's parent or guardian);\n-Includes an image or likeness of a minor who is unaccompanied by the minor's parent or guardian or not fully clothed or otherwise depicts or implies a minor engaged in sexual activity;\n-Is inconsistent with the intended use of the Services; or\n-May harm the reputation of Tinder or its affiliates, meaning the uploading or sharing of content on the Tinder platform that is defamatory to Tinder or its affiliates or advocates misuse of the Service or any service provided by Tinder's affiliates.\n-The uploading or sharing of content that violates these Terms (\"Prohibited Content\") may result in the immediate suspension or termination of your account.\n+, 8750 North Central Expressway, Suite 1400, Dallas, TX 75231, Verenigde Staten.\n+De termen \u2018ons\u2019, \u2018wij\u2019, \u2018Onderneming\u2019 en/of \u2018Tinder\u2019 verwijzen naar MTCH Technology, MG Japan of Tinder, afhankelijk van je land van verblijf. Gezamenlijk worden jij en Tinder aangeduid als de \u2018Partijen\u2019 en ieder afzonderlijk als een \u2018Partij\u2019. Zoals gebruikt in deze Overeenkomst verwijzen de termen \u2018Tinder\u2019, \u2018ons\u2019, \u2018wij\u2019, de \u2018Onderneming\u2019 en \u2018onze\u2019 naar Tinder LLC en/of MTCH Technology Services Limited, indien van toepassing.\n+Door toegang te verkrijgen tot of gebruik te maken van onze Diensten via Tinder.com (de \u2018Website\u2019), de mobiele applicatie van Tinder (de \u2018App\u2019) of andere platforms of diensten die Tinder mogelijk aanbiedt (gezamenlijk de \u2018Dienst\u2019 of onze \u2018Diensten\u2019), ga je akkoord met deze Overeenkomst en ben je daaraan gebonden. Deze Overeenkomst is van toepassing op iedereen die toegang verkrijgt tot of gebruikmaakt van onze Diensten, ongeacht registratie- of abonnementsstatus.\n+Je toegang tot en gebruik van onze Diensten is tevens onderworpen aan het\n+Privacybeleid\n+, het\n+, de\n+Communityrichtlijnen\n+en de\n+Veiligheidstips\n+, evenals aan eventuele voorwaarden die aan jou worden meegedeeld en door jou worden aanvaard wanneer je aanvullende functies of diensten van Tinder aanschaft (\u2018Aanvullende Voorwaarden bij Aankoop\u2019), welke door verwijzing deel uitmaken van deze Overeenkomst. Als je niet gebonden wilt zijn aan deze Overeenkomst, verkrijg dan geen toegang tot en maak geen gebruik van onze Diensten.\n+Verplichte functies:\n+Wij behouden ons het recht voor om op elk moment verplichte functies aan onze Diensten toe te voegen. Deze functies kunnen zijn ontworpen om de functionaliteit, beveiliging, veiligheid of de algehele gebruikerservaring van onze Diensten te verbeteren. Aangezien deze functies verplicht zijn, kun je, indien je hiervan geen gebruik wilt maken, de toegang tot je account verliezen of verplicht worden je account te be\u00ebindigen, zoals uiteengezet in Sectie 9.\n+Wijzigingen van de voorwaarden:\n+Deze voorwaarden kunnen van tijd tot tijd worden gewijzigd. Een kennisgeving van wezenlijke wijzigingen wordt op deze pagina geplaatst met een bijgewerkte ingangsdatum. Wij kunnen je via e-mail, een melding in de app of op andere wijze informeren over een wijziging van de Voorwaarden. Je bent echter zelf verantwoordelijk voor het regelmatig controleren van deze pagina op eventuele wijzigingen. Voor zover maximaal toegestaan op grond van het toepasselijke recht, houdt jouw voortgezette toegang tot of gebruik van onze Diensten na de ingangsdatum van de Voorwaarden in dat je instemt met eventuele wijzigingen en daardoor juridisch gebonden bent aan de bijgewerkte Voorwaarden. Als je een wijziging van de Voorwaarden niet aanvaardt, dien je onmiddellijk te stoppen met het verkrijgen van toegang tot of het gebruik van onze Diensten.\n+Onverminderd het voorgaande vereisen wezenlijke wijzigingen in de Aansprakelijkheidsbeperking in Sectie 14 en de bepalingen inzake Geschillenbeslechting in Sectie 15, of indien anderszins wettelijk vereist, jouw uitdrukkelijke aanvaarding. Voorts, met inachtneming van het toepasselijke recht, behouden wij ons het recht voor om de beschikbaarheid van functies binnen onze abonnementen op enigerlei wijze en op ieder moment te wijzigen, naar eigen goeddunken.\n+2. GESCHIKTHEID VOOR EEN ACCOUNT; JOUW VERANTWOORDELIJKHEDEN\n+Voordat je een account op Tinder aanmaakt, dien je ervoor te zorgen dat je in aanmerking komt voor het gebruik van onze Diensten. In dit artikel wordt ook beschreven wat je wel en niet kunt doen als je de Diensten gebruikt en welke rechten je aan Tinder verleent.\n+2a. Geschiktheid",
+   "added": 432,
+   "removed": 399
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -31,22 +31,16 @@\n Annual\n-Try for $0.00\n Auto-renews at $8.99/mo after 30 days. Cancel anytime.\n-Standard 30-day free trial\n-$8.99/mo after free trial\n-Try for $0.00\n+Standard\n+$8.99/mo after 30-day trial\n Auto-renews at $14.95/mo after 30 days. Cancel anytime.\n-Premium 30-day free trial\n-$14.95/mo after free trial\n-Select this plan\n-Auto-renews at $149.50/yr. Cancel anytime.\n Premium\n-12 credits/yr\n+$14.95/mo after 30-day trial\n+Auto-renews at $149.50/yr. Cancel anytime, effective next billing cycle.\n+Premium\n+12 audiobook credits, annually\n $149.50/yr\n-Save 16%\n-Select this plan\n-Auto-renews at $229.50/yr. Cancel anytime.\n+Auto-renews at $229.50/yr. Cancel anytime, effective next billing cycle.\n Premium\n-24 credits/yr\n+24 audiobook credits, annually\n $229.50/yr\n-Save 16%\n Frequently Asked Questions",
+   "added": 8,
+   "removed": 14
+  },
+  {
+   "service": "Figma",
+   "page": "pricing",
+   "url": "https://www.figma.com/pricing/",
+   "diff": "@@ -10,2 +10,3 @@\n Figma Motion\n+Figma Specs\n Figma Sites\n@@ -115,2 +116,4 @@\n beta is available on Full seats.\n+Figma Specs\n+beta is available on paid seats.\n Figma Buzz\n@@ -176,2 +179,3 @@\n Scale design systems across multiple brands and products with extended collections.\n+Create or import code on the canvas to explore prototypes side by side and edit them as design layers or with Figma Make tools.\n Generate a functional prototype or web app via prompt.\n@@ -191,2 +195,4 @@\n Publish custom Make connectors for organizational use.\n+Manage secrets and settings in one place and use them in your Make.\n+Make now natively scaffolds a real Payload backend, including a database, APIs, auth, and an admin panel, so your content and data live in the same place as the designs that shape them.\n Animate on a full timeline with animation styles, custom keyframes, and auto-keyframing.\n@@ -214,3 +220,2 @@\n Access design system component code in Dev Mode.\n-Available for UI kits\n View and copy code properties, an-tations, and measurements. Plus, you can customize dimension units and more.\n@@ -260,2 +265,6 @@\n Use AI to remove backgrounds, expand images, isolate objects, and more.\n+Simply structure your spec with headings, bulleted lists, and tables that your team and agents can easily follow.\n+Add a spec directly on the canvas, right next to the designs and code it describes.\n+Draft a spec in its own space with your team.\n+Pull in your existing context, data, and codebase.\n Chat with an agent to generate and remix designs, automate busywork, and get design feedback\n@@ -337,9 +346,9 @@\n Full seat\n-includes full access to all Figma products, including Figma Design, Figma Make, Figma Draw, Figma Sites, Dev Mode, FigJam, Figma Slides and Figma Buzz.\n+includes full access to all Figma products, including Figma Design, Figma Make, Figma Draw, Figma Motion, Figma Sites, Dev Mode, FigJam, Figma Slides, Figma Buzz, and Figma Specs.\n The\n Dev seat\n-full access to Dev Mode, FigJam, Figma Slides, and Figma Buzz. It also gives users view and comment access in Figma Design files.\n+includes full access to Dev Mode, FigJam, Figma Slides, Figma Buzz, and Figma Specs. It also gives users view and comment access in Figma Design files.\n The\n Collab seat\n-includes full access to FigJam, Figma Slides, and Figma Buzz. It also gives users view and comment access in Figma Design files. It only includes\n+includes full access to FigJam, Figma Slides, Figma Buzz, and Figma Specs. It also gives users view and comment access in Figma Design files. It only includes\n basic inspection",
+   "added": 13,
+   "removed": 4
+  },
+  {
+   "service": "Mailchimp",
+   "page": "pricing",
+   "url": "https://mailchimp.com/pricing/marketing/",
+   "diff": "@@ -64,3 +64,2 @@\n Then, starts at\n-$20\n /month\u2020\n@@ -96,3 +95,3 @@\n Phone & Priority Support\n-Custom-Coded and Pre-built Email Templates\n+Popup Forms\n Multivariate and A/B Testing",
+   "added": 1,
+   "removed": 2
+  },
+  {
+   "service": "Todoist",
+   "page": "pricing",
+   "url": "https://todoist.com/pricing",
+   "diff": "@@ -22,3 +22,3 @@\n Organize your work and life\n-per user/month\n+per month\n Start for free\n@@ -61,3 +61,3 @@\n Pro\n-per user/month\n+per month\n Start for free",
+   "added": 2,
+   "removed": 2
+  }
+ ]
+}

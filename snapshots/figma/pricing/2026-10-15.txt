@@ -1,0 +1,392 @@
+New
+AI add-ons are now available for all plans.
+Pick your plan, choose your seats
+Figma Design
+Figma Make
+Figma Draw
+Dev Mode
+FigJam
+Figma Slides
+Figma Motion
+Figma Specs
+Figma Sites
+Figma Buzz
+Prices in USD
+Plans
+Starter
+Free
+Free limited access to Figma products
+Select plan
+Why choose Starter?
+Includes:
+Unlimited drafts
+UI kits and templates
+150 AI credits/day, up to
+500
+AI credits/mo
+Professional
+Full seat
+$16
+/mo
+3,000
+AI credits/mo
+Dev seat
+$12
+/mo
+500
+AI credits/mo
+Collab seat
+/mo
+500
+AI credits/mo
+Select plan
+Why choose Professional?
+Choose
+Professional
+if you:
+Are a professional working solo or with others
+Need unlimited files and projects for a single team
+Want advanced prototyping tools and easier dev handoff
+Key features:
+Unlimited files and projects
+Team-wide design libraries
+Advanced Dev Mode inspection and MCP Server
+Organization
+Billed annually
+Full seat
+$55
+/mo
+3,500
+AI credits/mo
+Dev seat
+$25
+/mo
+500
+AI credits/mo
+Collab seat
+/mo
+500
+AI credits/mo
+Select plan
+Why choose Organization?
+Choose
+Organization
+if you:
+Are a business that designs products across your organization
+Need basic security
+Want to centralize assets, libraries, and workflows across departments
+Key features:
+Publish resources across teams
+Shared libraries and fonts
+Centralized admin tools
+Want more information?
+Contact sales
+Enterprise
+Billed annually
+Full seat
+$90
+/mo
+4,250
+AI credits/mo
+Dev seat
+$35
+/mo
+500
+AI credits/mo
+Collab seat
+/mo
+500
+AI credits/mo
+Contact sales
+Why choose Enterprise?
+Choose
+Enterprise
+if you:
+Are a business designing for multiple products or brands
+Need enterprise-level security
+Want scalable design systems and simpler admin management
+Key features:
+Custom team workspaces
+Design system theming and APIs
+SCIM seat management
+If you're on a paid plan, you can let others view and comment on your files without purchasing extra seats.
+Figma Motion
+beta is available on Full seats.
+Figma Sites
+beta is available on Full seats.
+Figma Specs
+beta is available on paid seats.
+Figma Buzz
+beta is available on all seats.
+Add-ons
+Customize your plan with optional add-ons
+AI credits
+Purchase additional AI credits for your whole team to share—enable pay-as-you-go for flexibility and/or subscribe to save.
+Learn more
+Governance+
+Manage your organization’s unique security requirements with advanced access, sharing, and compliance tools.
+Only available on Enterprise plan
+Contact sales
+Compare all features
+Seat
+Full seat
+Dev seat
+Collab seat
+Features
+Starter
+Pro
+Professional
+Org
+Organization
+Enterprise
+Create a reusable design component out of any collection of objects or layers.
+All the design features you’re familiar with—canvas, layers, grids, vectors, shapes, text, constraints, and more.
+Create responsive designs with automatically adjusting frames.
+Support for digital illustration with Smart Selection, Vector Networks, and Arc Tool.
+Define colors, text styles, and effects to reuse across objects.
+Create prototypes with interactive overlays that simulate how a user may interact with your design.
+Use Smart Animate or create your own animations with springs, slides, dissolves, and more.
+Choose from a variety of transition animation options.
+Easily prototype an interaction where an element appears above another.
+Add videos to Figma prototypes for richer, more realistic experiences.
+Choose videos from the Figma Community
+Upload your own videos
+Experience your designs on any sized screen with a responsive prototype viewer that adapts to screen size.
+Get designs started quickly with pre-built UI kits available directly in Figma.
+Easily view design specifications and CSS properties.
+Kickoff conversations with hundreds of pre-made templates.
+Define color, number, and more to unlock design theming and more dynamic prototyping.
+Easily apply and switch between multiple design themes.
+10 modes
+20 modes
+Unlimited modes (via extended collections)
+Add annotations and measurements to designs.
+Create design systems with shared assets for your team to use.
+Define multiple actions in a prototyping interaction.
+Create more realistic prototypes powered by variables.
+Use if/else statements in prototyping interactions for more customized flows.
+Use operators in your interactions to generate dynamic number or string values.
+Share prototypes with clients and stakeholders without sharing the underlying design file.
+Rename layers, add interactions, and more with AI.
+Use AI to remove backgrounds, expand images, isolate objects, and more.
+Generate high-quality images in Figma, backed by the power of Figma Weave.
+Access your organization’s shared fonts in Figma—instantly available to all Editors.
+Work in a separate branch and merge changes to the main file when you are ready.
+Analyze design system adoption and efficiency with in-app metrics.
+Manage and share design systems across multiple teams at your organization.
+Designate admin-recommended libraries at the workspace or organization level.
+Enable libraries by default for all files in the workspace.
+Scale design systems across multiple brands and products with extended collections.
+Create or import code on the canvas to explore prototypes side by side and edit them as design layers or with Figma Make tools.
+Generate a functional prototype or web app via prompt.
+Attach existing Figma designs or components to your prompts.
+Connect to Supabase to add user authentication, store user data, connect private APIs, and more.
+Access and build with Figma Make on your mobile device.
+Clarify your intent and create a structured plan before generation starts.
+Publish your functional prototype or web app as a website with a dedicated URL.
+via Figma Community
+Attach reference images, documents, data files, and more to your Make prompts.
+Bring styling context from a Figma library into Make.
+Connect external tools to Make to pull in PRDs, tickets, and other product documentation.
+Turn your Figma Make preview into design layers you can paste and edit in Figma Design.
+Internally publish Make files as a starting point for users in a team or organization.
+Set a password to share your work with more control.
+Package your design system into reusable AI context.
+Publish custom Make connectors for organizational use.
+Manage secrets and settings in one place and use them in your Make.
+Make now natively scaffolds a real Payload backend, including a database, APIs, auth, and an admin panel, so your content and data live in the same place as the designs that shape them.
+Animate on a full timeline with animation styles, custom keyframes, and auto-keyframing.
+Animate components so every instance inherits the motion. Create easing and timing variables and apply them across your animations.
+Export animations as MP4, GIF, WebM, or SVG directly from the file.
+Inspect animations in Dev Mode and copy CSS, JSON, or React.
+Video exports above 30fps or 1080p.
+Publish motion variables to your design system. Swap easing curves and timing across an entire animation at once.
+Design with expressive details by switching your file to Draw in the toolbar.
+Work with precision using new tools like shape builder, multi-edit vector modes, and lasso.
+Use a custom set of vector brushes, or create your own.
+Bump up the detail with new effects and fill types like noise, texture, progressive blur, pattern fill, and more.
+Give strokes more personality with variable width and dynamic settings to alter their frequency and wiggle.
+Bend and curve text along vector paths.
+Design complex shapes or simple patterns more efficiently.
+Drag-and-drop prebuilt web elements instead of starting from scratch.
+Customize your design for different screen sizes.
+Enhance your site by adding animations, transitions, and visual transformations.
+Add custom interactivity to your site by writing code or using AI.
+Manage and update content in a dedicated UI within Figma Sites.
+Add videos to your site for a more engaging experience.
+Set a password to your site to share works publicly with more control.
+Publish your site to the web, with options to personalize your subdomain or set up a custom domain.
+Developers can retrieve variable, property, and measurement information for specific layers from the canvas.
+Access design system component code in Dev Mode.
+View and copy code properties, an-tations, and measurements. Plus, you can customize dimension units and more.
+Mark items ready for dev and view them in a consolidated feed or focus view. Add statuses and get -tifications about design changes, completions, and more.
+Ready for dev on canvas only
+Compare different versions of a frame to quickly see what’s changed.
+View and explore component properties in an interactive playground.
+Add developer links to reference during implementation.
+Easily export assets from design files.
+Use plugins to customize Dev Mode workflows, code gen, and mark/view designs as ready for dev
+Community plugins only
+Run Dev Mode directly in VS Code.
+Use stamps, stickers, and emotes to keep participants engaged.
+Play music with built-in music tracks.
+Set a shared timer in FigJam.
+Create a table to visually organize text.
+Bring code directly into your whiteboard with syntax and highlighting.
+Map out systems and processes with shapes and connectors.
+Get clarity on the key takeaways and next steps by summarizing stickies.
+Generate templates for weekly team syncs, brainstorms, and more
+Quickly sort stickies into groupings.
+Ask participants to vote on ideas.
+Invite anyone to join your jam for 24 hours—login needed. Unlimited sessions.
+Make your brand colors the default for files.
+Make your own templates and share them with your organization.
+Use advanced shapes for technical diagramming, including AWS, Google Cloud Platform, Azure, and Kubernetes.
+Add live Figma Design prototypes to slides.
+Include live polls, alignment scales, and voting.
+Add transitions to individual slides or objects, or apply a single transition to your entire deck.
+Pre-load your deck to present slides offline.
+Import from or export to Powerpoint.
+Adjust the tone of any text with AI to rephrase, condense, or expand content.
+Add presenter notes in a click with AI.
+Generate a slide deck outline from a FigJam board with AI.
+Add Figma Design libraries to access your team’s components, variables, and styles.
+Embed YouTube videos.
+Edit presenter notes in real-time when in presentation mode
+Use AI to remove backgrounds, expand images, isolate objects, and more.
+Create custom templates and publish them to your team or organization.
+5 templates
+Unlimited
+Unlimited
+Use a template published by Figma to get started.
+Unlock a template to edit assets freely and access additional design inserts.
+Publish brand templates so your team can stay on brand.
+Lock elements of a template so only designated images and copy can be edited.
+Use AI to remove backgrounds, expand images, isolate objects, and more.
+Simply structure your spec with headings, bulleted lists, and tables that your team and agents can easily follow.
+Add a spec directly on the canvas, right next to the designs and code it describes.
+Draft a spec in its own space with your team.
+Pull in your existing context, data, and codebase.
+Chat with an agent to generate and remix designs, automate busywork, and get design feedback
+Prompt to build custom shader effects and fills, like blurs, mesh gradients, and more.
+Connect external tools to pull in PRDs, tickets, and other product documentation.
+Attach reference images, documents, data files, and more to your prompts.
+Generate editable animation from a text prompt.
+Build custom tools without writing code.
+Package repeatable workflows into a reusable set of instructions.
+AI credits are used to access Figma AI features. Number of credits used varies by request. Included AI credits are subject to change.
+150 AI credits/day, up to
+500 credits/mo
+3,000 AI credits/mo
+3,500 AI credits/mo
+4,250 AI credits/mo
+Figma enables multiple editors to jump into the same file, live edit, and work together.
+Invite as many people as you want to view, comment, inspect, or export from your Figma files—for free!
+Add comments directly on a prototype or file.
+Spotlight yourself so others can follow your progress through a presentation or find where you’re working on the deck in the editor.
+Click on a specific user to see what they see on their screen—great for user testing and design critiques.
+Send a link to a Figma file or prototype—and control who gets access to view or edit.
+Export your file as PNG, JPG, PDF, or CSV (sticky notes only for CSV).
+Unlimited cloud storage; access files from anywhere.
+Get started faster with imports including .sketch and PNG or JPG files.
+Cursor chat gives you a quick way to share thoughts when jamming live.
+Auto-save and create versions of your file every 30 minutes. You can name and link to versions at any time.
+30 days
+Create invite-only spaces for your team to work privately.
+Option to request a team or project transfer from one company to another.
+Use audio to talk with your collaborators directly in a Figma or FigJam file.
+Generate and edit images, boost resolution, and remove backgrounds with AI. Features vary by product.
+Find the components or assets that you're looking for with AI. Features vary by product.
+Replace content, adjust tone, and more with AI. Features vary by product.
+Create and manage multiple teams within your organization to help groups find and focus on relevant work.
+Organize users and content into multiple, focused workspaces that mirror how your organization is structured.
+Bring multiple teams together under one central Figma account; manage users and billing in one place.
+All files, including user drafts, are owned by your organization and can be recovered when users are de-provisioned.
+Manage users and content for each workspace to scale administration and create a more tailored experience for users.
+Limit the ability to create teams to only admins or all members.
+Automatically add all new workspace members to specific teams to help them onboard and find relevant work.
+Control inspect panel settings and defaults for all your teams.
+Tap into our REST APIs to bring FIgma into your external tools and products. Rate limits vary by seat, plan, and API endpoint.
+Use plugins and widgets built by the Figma community to improve your workflow.
+Figma integrates with tools like Slack, Notion, Jira, and Google Workspace, so you can customize your workflow.
+Let AI agents access Figma context to generate code and make edits to Design, FigJam, Slides, and Make files. Rate limits vary by seat and plan.
+20 tool calls / month
+200 tool calls / day and 10 calls / min
+200 tool calls / day and 15 calls / min
+600 tool calls / day and 20 calls / min
+Embed live Figma designs and prototypes wherever you need them.
+Use verified MCP connectors with the Figma agent and Make to bring in external context and send updates back to those tools.
+Create and use custom MCP connectors in the Figma agent and Make.
+Use our webhooks to automate workflows between Figma and your external tools or products.
+Build your own private plugins and widgets for your team or organization to use.
+Manage which plugins your organization has access to and install plugins on your users' behalf.
+Access dev resources, check on statuses, and integrate external tools via the REST API.
+Use the API to access and update your design systems at scale.
+Fetch your design systems data directly for more granular and custom analysis.
+Retrieve daily AI credit consumption per user across your organization.
+Track what's happening in Figma programmatically via the API and build custom apps.
+View plugin and widget usage analytics to track adoption and more effectively manage apps.
+Set a password on files and Open Sessions to share work publicly with more control.
+Setup SAML single sign-on with your existing identity management system; enforce SSO for all team members and manage provisioning via SCIM.
+Automatically add anyone with a verified email address to your Figma account.
+See a record of actions members have taken in Figma.
+Limit the ability to share files via a link outside your organization, ensuring no one can view files unless explicitly invited.
+Manage access to plugins and widgets for your organization and approval requests from your team.
+Automatically assign users a role in Figma using your identity management provider.
+Limit the ability for external collaborators to join your organization.
+Require that users set a password on files shared outside the organization.
+Choose if members can access content from outside your organization.
+Set a custom time limit to log users out of their session if they’ve been idle.
+Require that users set an expiration on file links shared outside the organization.
+Host key parts of Figma and FigJam files in the EU.
+Pricing FAQs
+See more FAQs
+Seats give users access to Figma’s products. The different seats are designed to support different user workflows.
+The
+Full seat
+includes full access to all Figma products, including Figma Design, Figma Make, Figma Draw, Figma Motion, Figma Sites, Dev Mode, FigJam, Figma Slides, Figma Buzz, and Figma Specs.
+The
+Dev seat
+includes full access to Dev Mode, FigJam, Figma Slides, Figma Buzz, and Figma Specs. It also gives users view and comment access in Figma Design files.
+The
+Collab seat
+includes full access to FigJam, Figma Slides, Figma Buzz, and Figma Specs. It also gives users view and comment access in Figma Design files. It only includes
+basic inspection
+on Dev Mode.
+If you’re on a paid plan, you can also let others view and comment on your files without purchasing extra seats. This view and comment access only includes
+basic inspection
+on Dev Mode.
+Only organization admins and billing group admins are able to view and manage billing. You can view a breakdown of your bill and manage seats from the Admin Dashboard in product.
+Learn more about billing
+This depends on which plan you’re on.
+If you’re on a
+Professional
+plan, if you add new paid seats to your team during your annual subscription term, Figma charges you a separate monthly subscription for those seats at the monthly price.
+Once an admin approves a new seat, it will be automatically added to your next monthly invoice. The cost of the seat will be prorated based on the day it was approved until the end of your current monthly billing term.
+You will continue to get monthly invoices for newly added seats unless you proactively add those seats to your annual subscription or remove the seats.
+If you’re on an
+Organization
+Enterprise
+plan, admins need to approve new seats that incur costs. By default, approved seats are included in your next invoice with prorated pricing, based on the date they were approved until the end of the annual subscription term. You’ll be invoiced quarterly for new seats added during your annual subscription term.
+We don’t offer the option to purchase products individually, but you can choose a plan and seats based on the products you’d like to use.
+Yes, you can access inspect information as a free viewer. While you will have view-only access, you will be able to view measurements and property values, copy CSS, iOS, and Android code, export assets, comment on files, and collaborate via cursor chat.
+Learn more
+Figma AI uses a credit system that is shared across all Figma AI features and products. Every seat in Figma includes a monthly allotment of AI credits. The number of credits and which features you can use them with depends on your plan and seat type.
+Full seats include:
+3,000 credits/month on the Professional plan
+3,500 credits/month on the Organization plan
+4,250 credits/month on the Enterprise plan
+All other seats (Collab, Dev, and View) and users on the Starter plan receive 500 credits/month.
+If you need more credits, you can purchase additional AI credits on your plan. For more details, check out
+our Help Center article
+on how AI credits work.
+Yes! You can learn more on
+figma.com/government
+If you’re on the Professional plan, you can downgrade or cancel your plan your Admin Dashboard. If you’re on an Organization or Enterprise plan, please contact our Sales team to downgrade or cancel your plan.
+Learn more
+We follow extensive security practices to to protect your data and privacy. All plans meet recognized international security, privacy, and compliance standards. Learn more on
+figma.com/security
+Yes! Learn more on
+figma.com/education
+See more FAQs
+Trusted by teams at

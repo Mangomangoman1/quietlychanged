@@ -258,5 +258,13 @@
    "https://www.alaskaair.com/content/legal/contract-of-carriage",
    "too little text (0 chars; JS-rendered or bot wall)"
   ]
+ ],
+ "flaky_2026-10-15": [
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en",
+   "served a Dutch-language version despite en-US Accept-Language; diff ignored as locale noise, watch for flip-back"
+  ]
  ]
 }
