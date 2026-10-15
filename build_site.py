@@ -152,8 +152,7 @@ q.addEventListener("input",go);bs.forEach(b=>b.addEventListener("click",()=>{{f=
 <h2>Limits</h2><p>Some sites block automated readers or load their text with scripts; we only track pages we can read reliably. Summaries are not legal advice. Always check the linked source.</p>'''))
 (D/"style.css").write_text(CSS); (D/"favicon.svg").write_text(FAV)
 (D/"og.svg").write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="#fbfaf7"/><rect y="600" width="1200" height="30" fill="#b3261e"/><text x="600" y="300" font-family="Georgia,serif" font-size="110" font-weight="700" text-anchor="middle" fill="#1a1a1a">Quietly<tspan fill="#b3261e">Changed</tspan></text><text x="600" y="390" font-family="Arial,sans-serif" font-size="34" text-anchor="middle" fill="#5a5a5a">What popular services quietly change in their fine print</text></svg>')
-feed = "".join(f'<entry><title>Report, {nice(d)}</title><link href="{SITE}/reports/{d}.html"/><id>{SITE}/reports/{d}.html</id><updated>{d}T12:00:00Z</updated></entry>' for d in reversed(days))
-(D/"feed.xml").write_text(f'<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>QuietlyChanged</title><link href="{SITE}/"/><id>{SITE}/</id><updated>{(days or [TODAY])[-1]}T12:00:00Z</updated>{feed}</feed>')
+# Atom feed built after change articles (see below)
 (D/".nojekyll").write_text("")
 if not (D/"CNAME").exists(): (D/"CNAME").write_text("quietlychanged.com\n")
 
@@ -172,6 +171,16 @@ for d in days:
 <h2>More</h2><p><a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
         (D/"changes"/a/"index.html").write_text(page(f"changes/{a}/index.html", t, body, desc=ds, depth=2, ld=ld, otype="article"))
         ARTS.append((d,c,t))
+# ---- Atom feed: daily reports + change articles (newest first) ----
+entries = []
+for d in days:
+    entries.append((d, f'<entry><title>Report, {nice(d)}</title><link href="{SITE}/reports/{d}.html"/><id>{SITE}/reports/{d}.html</id><updated>{d}T12:00:00Z</updated></entry>'))
+for d, c, t in ARTS:
+    a = c["_art"]; url = f"{SITE}/changes/{a}/"
+    entries.append((d, f'<entry><title>{E(t)}</title><link href="{url}"/><id>{url}</id><updated>{d}T12:00:00Z</updated><summary>{E(c.get("what",""))}</summary></entry>'))
+entries.sort(key=lambda x: x[0], reverse=True)
+feed = "".join(e for _, e in entries)
+(D/"feed.xml").write_text(f'<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>QuietlyChanged</title><link href="{SITE}/"/><link rel="self" href="{SITE}/feed.xml"/><id>{SITE}/</id><updated>{(days or [TODAY])[-1]}T12:00:00Z</updated>{feed}</feed>')
 # ---- evergreen per-service pages ----
 def svc_name(k): return k
 for k, v in s.items():
@@ -197,5 +206,27 @@ for k, v in s.items():
 (D/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{u}</loc><lastmod>{TODAY}</lastmod></url>" for u in dict.fromkeys(PAGES)) + "</urlset>")
 (D/"robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
 import subprocess, shutil
+
+# ---- IndexNow (Bing/Yandex): key file + ping new/changed URLs ----
+INDEXNOW_KEY = (R/"indexnow.key").read_text().strip() if (R/"indexnow.key").exists() else ""
+if INDEXNOW_KEY:
+    (D/f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
+    try:
+        import urllib.request
+        urls = list(dict.fromkeys(PAGES))  # unique, order preserved
+        # Prefer change articles + latest report + feed/sitemap
+        ping = [u for u in urls if "/changes/" in u][-20:]
+        if days:
+            ping.append(f"{SITE}/reports/{days[-1]}.html")
+            ping.append(f"{SITE}/")
+        ping.append(f"{SITE}/feed.xml")
+        ping = list(dict.fromkeys(ping))
+        body = json.dumps({"host":"quietlychanged.com","key":INDEXNOW_KEY,"keyLocation":f"{SITE}/{INDEXNOW_KEY}.txt","urlList":ping}).encode()
+        req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type":"application/json; charset=utf-8"}, method="POST")
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            print(f"IndexNow: {resp.status} for {len(ping)} URLs")
+    except Exception as ex:
+        print(f"IndexNow ping skipped: {ex}")
+
 if not (D/"og.png").exists() and shutil.which("google-chrome"):
     subprocess.run(["google-chrome","--headless=new","--no-sandbox","--hide-scrollbars","--window-size=1200,630",f"--screenshot={D/'og.png'}",(D/"og.svg").resolve().as_uri()],capture_output=True)

@@ -24,3 +24,10 @@ Goal: 500 Google impressions/day by 2026-11-13.
 **Opportunities (need Samuel's accounts):** FeedSpot publisher submit (feedspot.com/publisher); Show HN; Product Hunt / Indie Hackers launch posts; ask Open Terms Archive / ToS;DR / TOSTracker communities to cross-link. Comparable trackers to watch: tostracker.app, clerica.io, opentermsarchive.org, tosback.org.
 
 **Next steps:** (1) Samuel approves and posts Cash App drafts today while the story is unreported. (2) Add change articles plus summaries to feed.xml. (3) Add an IndexNow key file and ping on each build. (4) Add a "Block roadmap context" line plus a link to the article (stronger E-E-A-T, more search terms: "cash app pay bills with bitcoin").
+
+## 2026-10-15: SEO session
+- Shipped: Atom feed now includes every change article (`/changes/<slug>/`) with title (seo_title or service+headline), absolute link/id, updated date, and an HTML-escaped `<summary>` from the `what` field. Daily report entries remain; all entries sorted newest-first. Regenerated `docs/feed.xml` (was 3 report-only entries → 3 reports + 7 change articles with summaries: Shopify, Slack, Anthropic Claude, Figma, Audible, Cash App, Squarespace).
+- Shipped (stretch): IndexNow — `indexnow.key` + `docs/<key>.txt`; build pings Bing IndexNow for recent change URLs + home/feed (got HTTP 202 for 10 URLs).
+- GSC (sc-domain:quietlychanged.com, last ~7 days via service account): 0 impressions / 0 clicks so far; no queries or pages yet. Sitemap https://quietlychanged.com/sitemap.xml last downloaded 2026-10-14 ~2:17 PM MT, 0 errors, 60 URLs submitted / 0 indexed.
+- Expected effect: RSS readers and syndication partners can discover individual change stories (not just bare daily reports), with usable summaries; IndexNow should speed Bing/Yandex discovery of new change URLs.
+- Next: wait for Google indexing of /changes/ URLs; consider Cash App "Block roadmap context" E-E-A-T line; keep daily change articles flowing so the feed stays fresh for subscribers.
