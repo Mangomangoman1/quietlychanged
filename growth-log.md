@@ -87,3 +87,13 @@ Rotated to sources not used Oct 15: Open Terms Archive *version datasets* (vlops
 **Social (prepared, not posted):** story-specific images under social/2026-10-16/ (make_deepdive.py): robinhood-class-action-20.png (big number + $80/$20 payout bar), doordash-arbitration-vendors.png (highlighted fine-print crop), proton-discontinue-without-notice.png (before/after strike-through).
 
 **Gaps noticed:** /changes/2026-10-15-u-s-dot-.../ links to /services/u-s-dot/, which doesn't exist (404). Build should skip the service link for services not in services.json.
+
+## 2026-10-16: distribution session
+**Best story:** Robinhood Customer Agreement §36A "Class Action Service" (auto-enrollment from Nov 18, 2026; RHF Fee Schedule: 20% of settlement proceeds). Re-verified the 20% line in the live fee schedule PDF. Article: /changes/2026-10-16-robinhood-auto-enrolls-accounts-in-class-action-claims-keeps-20-of-payouts/ (HTTP 200).
+- Coverage: still no news coverage (WebSearch + X search_news). On X only @justsomeguy741 (~270 views, Oct 6) and our own post at 2:53 PM MT (https://x.com/QuietlyChanged/status/2111198783971225741). No Reddit thread found.
+- Article improved: replaced the vague "other brokers run similar services" line with sourced peer fees, all checked today: E*TRADE vendor 6%, Edward Jones/Broadridge 15%, Interactive Brokers 20%. Rebuilt; IndexNow 200 for 21 URLs.
+- DoorDash and Proton (also Oct 16): no coverage found during the deep dive; lower priority than Robinhood for outreach.
+
+**Drafts prepared (approval needed, nothing sent):** X thread follow-up with the fee comparison, Bluesky, r/RobinHood PSA, r/personalfinance/r/investing PSA (PDF links only), HN submission, pitch emails to Jennifer Sor / Business Insider (jsor@businessinsider.com, from her LinkedIn) and Andrew Cohen / InvestmentNews (andrew.cohen@keymedia.com, from his LinkedIn). Full text: social/2026-10-16/distribution-drafts.md. Skipped Sherwood News (Robinhood-owned).
+
+**Next steps:** (1) Samuel approves Robinhood drafts; best window is before Nov 18. (2) Still pending from earlier: rss.mobi retry, FeedSpot / Show HN (need accounts), GSC URL Inspection if still 0 indexed by ~Oct 20.
