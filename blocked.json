@@ -266,5 +266,13 @@
    "https://policies.tinder.com/terms/us/en",
    "served a Dutch-language version despite en-US Accept-Language; diff ignored as locale noise, watch for flip-back"
   ]
+ ],
+ "flaky_2026-10-16": [
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en",
+   "too little text (0 chars; JS-rendered or bot wall); first failure, fetched fine Oct 14-15, keep watching"
+  ]
  ]
 }

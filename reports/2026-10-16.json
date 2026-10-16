@@ -1,0 +1,697 @@
+{
+ "date": "2026-10-16",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ]
+ ],
+ "failed": [
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Grammarly",
+   "page": "pricing",
+   "url": "https://www.grammarly.com/plans",
+   "diff": "@@ -24,3 +24,3 @@\n Detect plagiarism and AI generated text\n-Generate text with 2,000 AI prompts\n+2,000 AI prompts for text generation\n For larger organizations",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Cloudflare",
+   "page": "pricing",
+   "url": "https://www.cloudflare.com/plans/",
+   "diff": "@@ -522,16 +522,73 @@\n Paid\n-Ingestion\n-Not available\n-TBD (free during beta)\n-Delivery to R2\n-Not available\n-TBD (free during beta)\n-Ingestion\n-Free\n-Paid\n-TBD (free during beta)\n-Delivery to R2\n-Free\n-Paid\n-TBD (free during beta)\n+Stream ingress\n+Unlimited\n+Free\n+SQL transforms\n+50 GB / month\n+$0.04 / GB\n+Sink delivery, JSON\n+50 GB / month shared across sinks\n+$0.03 / GB\n+Sink delivery, Parquet or Iceberg\n+50 GB / month shared across sinks\n+$0.06 / GB\n+Stream ingress\n+Free\n+Unlimited\n+Paid\n+Free\n+SQL transforms\n+Free\n+50 GB / month\n+Paid\n+$0.04 / GB\n+Sink delivery, JSON\n+Free\n+50 GB / month shared across sinks\n+Paid\n+$0.03 / GB\n+Sink delivery, Parquet or Iceberg\n+Free\n+50 GB / month shared across sinks\n+Paid\n+$0.06 / GB\n+Component\n+Free\n+Paid\n+Catalog operations\n+1 million / month\n+$9 / million operations\n+Compaction data processed\n+10 GB / month\n+$0.005 / GB\n+Compaction objects processed\n+1 million / month\n+$2 / million objects\n+Catalog operations\n+Free\n+1 million / month\n+Paid\n+$9 / million operations\n+Compaction data processed\n+Free\n+10 GB / month\n+Paid\n+$0.005 / GB\n+Compaction objects processed\n+Free\n+1 million / month\n+Paid\n+$2 / million objects\n+Component\n+Free\n+Paid\n+Compressed data scanned\n+10 GB / month\n+$0.0025 / GB\n+Compressed data scanned\n+Free\n+10 GB / month\n+Paid\n+$0.0025 / GB\n+R2 storage and operations are billed separately. Sink delivery is billed by uncompressed data sent to each destination. Basin SQL is $2.50 / TB with a 10 MB minimum billable scan per query. Compaction charges apply only when enabled.\n Component",
+   "added": 71,
+   "removed": 14
+  },
+  {
+   "service": "Squarespace",
+   "page": "pricing",
+   "url": "https://www.squarespace.com/pricing",
+   "diff": "@@ -3,11 +3,5 @@\n Pay annually to save up to 36%.\n-All plans include:\n-Built-in AI tools\n-Secure hosting\n-Unlimited bandwidth\n-Selling functionality\n-Industry-leading design\n Basic\n 20% off\n-Publish your personal or business website with the essentials.\n+Create your own custom website and get discovered online.\n $25\n@@ -20,15 +14,28 @@\n Buy Now\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n-2 contributors\n-Built-in SEO & mobile-optimization\n-Card rates from\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n+Up to 2 contributors\n+The number of contributors allowed on your website.\n+Accept payments\n+Credit card rates starting at\n 2.9% + $0.30\n-AI credits\n-10 (one-time)\n-2% online store transaction fee\n+Online store transaction fee of\n+Applied when selling online products, services, or donations. Upgrade your plan for 0% transaction fees.\n+Digital Content and Memberships transaction fee of\n+Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n+Sell products and services\n+Sell products and services\n+There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n+Send invoices for free\n+Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n+Sell content and memberships\n+Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n Core\n 20% off\n-Start selling with a foundation for service businesses.\n+Unlock our full array of business features as you grow your business.\n $39\n@@ -41,19 +48,43 @@\n Buy Now\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n Unlimited contributors\n-Built-in SEO & mobile-optimization\n-Free year of professional email from Google Workspace\n-No fees on online store transactions\n-Card rates from\n+The number of contributors allowed on your website.\n+Advanced website analytics\n+All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n+Professional email from Google Workspace**\n+If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n+**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n+Accept payments\n+Credit card rates starting at\n 2.9% + $0.30\n-AI credits\n-20 / mo\n-Advanced discount and promotion tools\n-Advanced lead capture tools\n-Automated taxes and shipping\n+Online store transaction fee of\n+Applied when selling online products, services, or donations.\n+Digital Content and Memberships transaction fee of\n+Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n+Sell products and services\n+Sell products and services\n+There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n+Send invoices for free\n+Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n+Sell content and memberships\n+Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n+Professional shipping and tax services\n+Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.15% (maximum $0.99) per transaction.\n+Sales funnel analytics\n+Access to ecommerce analytics including form and button conversion insights.\n+API integrations for advanced sales functionality\n+Build custom integrations to third party systems to handle your back office and ecommerce needs, from order fulfillment to inventory management and much more.\n+Basic functionality for selling in releases\n+Enable one-click checkout and set purchase limits on products and services.\n Plus\n 20% off\n-Power an expanding inventory and grow your revenue.\n+Enjoy\n+lower payment processing fees\n+as your business grows.\n $65\n@@ -66,21 +97,43 @@\n Buy Now\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n Unlimited contributors\n-Built-in SEO & mobile-optimization\n-Free year of professional email from Google Workspace\n-No fees on online store transactions\n-Card rates from\n+The number of contributors allowed on your website.\n+Advanced website analytics\n+All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n+Professional email from Google Workspace**\n+If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n+**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n+Accept payments\n+Credit card rates starting at\n 2.7% + $0.30\n-AI credits\n-40 / mo\n-Advanced discount and promotion tools\n-Advanced lead capture tools\n-Automated taxes and shipping\n-Reserved cart & countdown timer\n-Elevated support\n+Online store transaction fee of\n+Applied when selling online products, services, or donations.\n+Digital Content and Memberships transaction fee of\n+Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n+Sell products and services\n+Sell products and services\n+There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n+Send invoices for free\n+Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n+Sell content and memberships\n+Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n+Professional shipping and tax services\n+Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.10% (maximum $0.99) per transaction.\n+Sales funnel analytics\n+Access to ecommerce analytics including form and button conversion insights.\n+API integrations for advanced sales functionality\n+Build custom integrations to third party systems to handle your back office and ecommerce needs, from order fulfillment to inventory management and much more.\n+Advanced functionality for selling in releases\n+Enable one-click checkout, set purchase limits on products and services, and enable cart reservations and countdown timer.\n Advanced\n 20% off\n-Scale with the lowest fees to optimize operations.\n+Maximize your revenue with our\n+lowest payment processing fees\n+and our most advanced commerce tools.\n $139\n@@ -93,20 +146,38 @@\n Buy Now\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n Unlimited contributors\n-Built-in SEO & mobile-optimization\n-Free year of professional email from Google Workspace\n-No fees on online store transactions\n-Card rates from\n+The number of contributors allowed on your website.\n+Advanced website analytics\n+All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n+Professional email from Google Workspace**\n+If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n+**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n+Accept payments\n+Credit card rates starting at\n 2.5% + $0.30\n-AI credits\n-120 / mo\n-Advanced discount and promotion tools\n-Advanced lead capture tools\n-Automated taxes and shipping\n-Reserved cart & countdown timer\n-Elevated support\n-High-traffic checkout\n-No fees on digital content and memberships transactions\n+Online store transaction fee of",
+   "added": 128,
+   "removed": 57
+  },
+  {
+   "service": "PayPal",
+   "page": "privacy",
+   "url": "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "diff": "@@ -399,6 +399,6 @@\n DPO contact e-mail:\n-latamdpo@paypal.com\n+[email protected]\n Deputy Data Protection Officer: Fabiana Moreira Chaves\n Deputy DPO contact e-mail:\n-latamdpo@paypal.com\n+[email protected]\n Brunei\n@@ -467,3 +467,3 @@\n Address, telephone and e-mail: Regus Samsungdong Limited (World Trade Center), 27th, 30th Floor, Trade Tower, 511 Young Dong Street, Gangnam-gu, Seoul, South Korea 06164, (+82) 02 737 5775,\n-skrprivacy@paypal.com\n+[email protected]\n Malaysia\n@@ -876,3 +876,3 @@\n . For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email:\n-Aginfo@ag.nv.gov\n+[email protected]\n PayPal Privacy Statement",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "Cash App",
+   "page": "terms",
+   "url": "https://cash.app/legal/us/en-us/tos",
+   "diff": "@@ -713,3 +713,3 @@\n The Company does not guarantee the availability of \u201cSell\u201d transactions, or your ability to sell Virtual Currency held in your Hosted Balance. The act of selling Virtual Currency to the Company does not create a guarantee that you may sell Virtual Currency to the Company at a later time.\n-(c) Automatic Bitcoin Sale to Support ACH Debits.\n+Automatic Bitcoin Sale to Support ACH Debits.\n You may be able to enable a feature that instructs us to automatically sell Virtual Currency from your Hosted Balance and make the proceeds available as Fiat Currency in connection with eligible ACH debit payments from your Cash App Balance account and routing number. If you enable this feature, you authorize and instruct the Company, when we receive an eligible ACH debit request, to execute a Sell transaction in the amount of Virtual Currency that we determine is needed to make sufficient Fiat Currency available for the ACH debit, at the then-effective Conversion Rate. The ACH debit will continue to be processed from your Cash App Balance account and routing number, and will remain subject to the terms applicable to ACH debit payments from your Cash App Balance. You acknowledge that you may not receive a separate notice or be asked to confirm each Sell transaction before it occurs, and that the price of Virtual Currency may change between the time an ACH debit is requested, the time any Sell transaction is executed, and the time the ACH debit is completed. If we determine that your Hosted Balance is insufficient or otherwise unavailable, we may process the ACH debit using your available Cash App Balance instead; if sufficient Fiat Currency is not available, the ACH debit may be declined and we are not required to retry it. Any ACH debit, return, refund, dispute, or adjustment will be handled in Fiat Currency based on the dollar amount of the ACH debit, and you will not be entitled to any adjustment based on changes in the value of Virtual Currency. You may disable this feature at any time in Cash App, but we may be unable to stop any ACH debit or related Sell transaction that is already pending or in process. We may modify, suspend, or discontinue this feature, or impose limits, conditions, or restrictions on its use, at any time subject to these Cash App Terms.",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Tinder",
+   "page": "terms",
+   "url": "https://policies.tinder.com/terms/us/en",
+   "diff": "@@ -1,242 +1,240 @@\n-Gebruiksvoorwaarden van Tinder\n-Van kracht vanaf 1 maart 2026.\n-download deze Gebruiksvoorwaarden als pdf\n-Hier is een korte\n-samenvatting\n-van onze Gebruiksvoorwaarden\n-Abonnees in Californi\u00eb:\n-Je kunt je abonnement zonder boete of verplichting annuleren tot middernacht van de derde werkdag na de datum waarop je het abonnement hebt afgesloten.\n-Abonnementen via Externe Diensten:\n-Als je je hebt geabonneerd via een Externe Dienst (bijvoorbeeld Apple ID of Google Play), moet je opzeggen via die Externe Dienst, zoals nader uiteengezet in artikel 8a.\n-Terugbetalingen via Apple ID:\n-Als je je hebt geabonneerd via je Apple ID, worden terugbetalingen afgehandeld door Apple en niet door Tinder. Je kunt een terugbetaling bij Apple aanvragen via je Apple ID-account op je telefoon of via\n+Tinder Terms of Use\n+download these Terms of Use as a PDF\n+Here is a short\n+summary\n+of our Terms of Use\n+California subscribers:\n+You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed.\n+External Service Subscriptions:\n+If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service, as set forth in more detail in Section 8a.\n+Apple ID Refunds:\n+If you subscribed through your Apple ID, refunds are handled by Apple, not Tinder. You can request a refund from Apple through your Apple ID account on your phone or at\n https://getsupport.apple.com\n-Alle overige terugbetalingen:\n-Alle andere gebruikers kunnen een terugbetaling aanvragen door contact op te nemen met Tinder via onze Help Center, of door een ondertekende en gedateerde kennisgeving per post te verzenden of te overhandigen waarin staat dat jij, de koper, deze Overeenkomst opzegt, of woorden van gelijke strekking. Vermeld ook je naam en het e-mailadres, telefoonnummer of een andere unieke identificatie die je hebt gebruikt om je account aan te maken.\n-Contactgegevens voor opzeggingen/kennisgevingen:\n-Tinder, t.a.v. Cancellations, P.O. Box 25472, Dallas, Texas 75225, VS.\n-Vestigingsadres:\n-De Onderneming oefent haar activiteiten onder meer uit op 8750 N. Central Expressway, Suite 1400, Dallas, TX 75231.\n-Vragen over de voorwaarden:\n-Je kunt deze Gebruiksvoorwaarden ('Voorwaarden') per e-mail toegestuurd krijgen door een brief te sturen naar Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, VS.\n-Klachten van consumenten in Californi\u00eb:\n-Overeenkomstig Cal. Civ. Code \u00a71789.3, kun je klachten melden bij de Complaint Assistance Unit van de Division of Consumer Services van het California Department of Consumer Affairs door hen schriftelijk te benaderen via Consumer Information Division, 1625 North Market Blvd., Suite N112, Sacramento, CA 95834, of telefonisch via (800) 952-5210.\n-Opmerking: We hebben aan het begin van verschillende secties korte samenvattingen opgenomen om het voor jou gemakkelijker te maken deze Overeenkomst te lezen en te begrijpen. De samenvattingen zijn opgenomen voor het gemak en maken deel uit van, maar vervangen niet, de tekst van elke sectie; je dient daarom elke sectie volledig te lezen.\n-1. INLEIDING\n-Door toegang te verkrijgen tot of gebruik te maken van de Diensten van Tinder, stem je ermee in gebonden te zijn aan deze Gebruiksvoorwaarden (de 'Voorwaarden' of de 'Overeenkomst'), met inbegrip van ons\n-Privacybeleid\n-Communityrichtlijnen\n-Veiligheidstips\n-. Het is daarom belangrijk dat je deze Overeenkomst en deze beleidsregels en procedures zorgvuldig leest voordat je een account aanmaakt.\n-GESCHILLENBESLECHTING:\n-LEES DE BEPALINGEN OVER GESCHILLENBESLECHTING IN SECTIE 15 HIERONDER ZORGVULDIG DOOR. DEZE BEPALINGEN REGELEN DE WIJZE WAAROP GESCHILLEN TUSSEN JOU EN TINDER WORDEN BEHANDELD.\n-SECTIE 15 VEREIST, BEHOUDENS BEPERKTE UITZONDERINGEN, DAT ALLE GESCHILLEN TUSSEN JOU EN TINDER WORDEN BESLECHT DOOR MIDDEL VAN BINDENDE EN DEFINITIEVE ARBITRAGE, MET INBEGRIP VAN GESCHILLEN MET BETREKKING TOT DE ARBITRABILITEIT. SECTIE 15 OMVAT OOK EEN VERPLICHTE INFORMELE GESCHILLENREGELING VOORAFGAAND AAN ARBITRAGE, DE MOGELIJKHEID OM TE KIEZEN VOOR DE KANTONRECHTER, AFSTAND VAN HET RECHT OP EEN COLLECTIEVE VORDERING EN EEN JURYPROCES, EN AANVULLENDE PROCEDURES VOOR MASSALE ARBITRAGEVERZOEKEN DIE INVLOED HEBBEN OP JOUW RECHTEN. BIJ ARBITRAGE IS DOORGAANS MINDER RUIMTE VOOR BEWIJSVERGARING EN HOGER BEROEP DAN BIJ EEN PROCEDURE VOOR DE RECHTER.\n-We kunnen deze Voorwaarden van tijd tot tijd bijwerken, dus controleer deze pagina regelmatig op updates.\n-Contracterende entiteiten:\n-Welkom bij Tinder.\n-Als je woonachtig bent in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland\n-, worden deze Gebruiksvoorwaarden gesloten tussen jou en:\n-MTCH Technology Services Limited ('MTCH Technology')\n-, 10 Earlsfort Terrace, Dublin 2, D01 T380, Ierland.\n-Als je woonachtig bent in Japan\n-, zijn deze Gebruiksvoorwaarden van toepassing tussen jou en:\n-MG Japan Services GK ('MG Japan')\n-, Sumitomo Fudosan Azabu Bldg. 1-4-1 Mita Minato-ku, Tokio 108-0073 Japan\n-Als je ergens anders woonachtig bent\n-, zijn deze Gebruiksvoorwaarden van toepassing tussen jou en:\n+All Other Refunds:\n+All other users may request a refund by contacting Tinder Customer Service via our Help Center, or by mailing or delivering a signed and dated notice that states that you, the buyer, are canceling this Agreement, or words of similar effect. Please also include your name and the email address, phone number, or other unique identifier you used to sign up for your account.\n+Contact Information for Cancellations/Notices:\n+Tinder, Attn: Cancellations, P.O. Box 25472, Dallas, Texas 75225, USA.\n+Business Address:\n+The Company's business is conducted, in part, at 8750 N. Central Expressway, Suite 1400, Dallas, TX 75231.\n+Terms Inquiries:\n+You may have these Terms of Use (\"Terms\") emailed to you by sending a letter to Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, USA.\n+California Consumer Complaints:\n+In accordance with Cal. Civ. Code \u00a71789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834, or by telephone at (800) 952-5210.\n+Note: We have included brief summaries at the beginning of several sections to make it easier for you to read and understand this Agreement. The summaries are provided for convenience and form a part of, but do not replace, the text of each section, and you should still read each section in its entirety.\n+1. INTRODUCTION\n+By accessing or using Tinder's Services, you agree to be bound by this Terms of Use Agreement (the \"Terms\" or \"Agreement\"), including our\n+Privacy Policy\n+Community Guidelines\n+, and\n+Safety Tips\n+, so it is important that you read this Agreement and these policies and procedures carefully before you create an account.\n+DISPUTE RESOLUTION:\n+PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 15 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED BETWEEN YOU AND TINDER.\n+SECTION 15 REQUIRES WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND TINDER SHALL BE RESOLVED BY BINDING AND FINAL ARBITRATION, INCLUDING DISPUTES RELATED TO ARBITRABILITY. SECTION 15 ALSO INCLUDES A MANDATORY PRE-ARBITRATION INFORMAL DISPUTE RESOLUTION PROCESS, SMALL CLAIMS COURT ELECTION, CLASS ACTION AND JURY TRIAL WAIVERS, AND ADDITIONAL PROCEDURES FOR MASS ARBITRATION FILINGS THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS TYPICALLY LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.\n+We may update these Terms from time to time, so check this page regularly for updates.\n+Contracting Entities:\n+Welcome to Tinder.\n+If you live in the European Economic Area, the United Kingdom, or Switzerland\n+, these Terms of Use are between you and:\n+MTCH Technology Services Limited (\"MTCH Technology\")\n+10 Earlsfort Terrace Dublin 2, D01 T380 Ireland\n+If you live in Japan\n+, these Terms of Use apply between you and:\n+MG Japan Services GK (\"MG Japan\")\n+Sumitomo Fudosan Azabu Bldg. 1-4-1 Mita Minato-ku, Tokyo 108-0073 Japan\n+If you live anywhere else\n+, these Terms of Use apply between you and:\n Tinder LLC (\"Tinder\")\n-, 8750 North Central Expressway, Suite 1400, Dallas, TX 75231, Verenigde Staten.\n-De termen \u2018ons\u2019, \u2018wij\u2019, \u2018Onderneming\u2019 en/of \u2018Tinder\u2019 verwijzen naar MTCH Technology, MG Japan of Tinder, afhankelijk van je land van verblijf. Gezamenlijk worden jij en Tinder aangeduid als de \u2018Partijen\u2019 en ieder afzonderlijk als een \u2018Partij\u2019. Zoals gebruikt in deze Overeenkomst verwijzen de termen \u2018Tinder\u2019, \u2018ons\u2019, \u2018wij\u2019, de \u2018Onderneming\u2019 en \u2018onze\u2019 naar Tinder LLC en/of MTCH Technology Services Limited, indien van toepassing.\n-Door toegang te verkrijgen tot of gebruik te maken van onze Diensten via Tinder.com (de \u2018Website\u2019), de mobiele applicatie van Tinder (de \u2018App\u2019) of andere platforms of diensten die Tinder mogelijk aanbiedt (gezamenlijk de \u2018Dienst\u2019 of onze \u2018Diensten\u2019), ga je akkoord met deze Overeenkomst en ben je daaraan gebonden. Deze Overeenkomst is van toepassing op iedereen die toegang verkrijgt tot of gebruikmaakt van onze Diensten, ongeacht registratie- of abonnementsstatus.\n-Je toegang tot en gebruik van onze Diensten is tevens onderworpen aan het\n-Privacybeleid\n-, het\n-, de\n-Communityrichtlijnen\n-en de\n-Veiligheidstips\n-, evenals aan eventuele voorwaarden die aan jou worden meegedeeld en door jou worden aanvaard wanneer je aanvullende functies of diensten van Tinder aanschaft (\u2018Aanvullende Voorwaarden bij Aankoop\u2019), welke door verwijzing deel uitmaken van deze Overeenkomst. Als je niet gebonden wilt zijn aan deze Overeenkomst, verkrijg dan geen toegang tot en maak geen gebruik van onze Diensten.\n-Verplichte functies:\n-Wij behouden ons het recht voor om op elk moment verplichte functies aan onze Diensten toe te voegen. Deze functies kunnen zijn ontworpen om de functionaliteit, beveiliging, veiligheid of de algehele gebruikerservaring van onze Diensten te verbeteren. Aangezien deze functies verplicht zijn, kun je, indien je hiervan geen gebruik wilt maken, de toegang tot je account verliezen of verplicht worden je account te be\u00ebindigen, zoals uiteengezet in Sectie 9.\n-Wijzigingen van de voorwaarden:\n-Deze voorwaarden kunnen van tijd tot tijd worden gewijzigd. Een kennisgeving van wezenlijke wijzigingen wordt op deze pagina geplaatst met een bijgewerkte ingangsdatum. Wij kunnen je via e-mail, een melding in de app of op andere wijze informeren over een wijziging van de Voorwaarden. Je bent echter zelf verantwoordelijk voor het regelmatig controleren van deze pagina op eventuele wijzigingen. Voor zover maximaal toegestaan op grond van het toepasselijke recht, houdt jouw voortgezette toegang tot of gebruik van onze Diensten na de ingangsdatum van de Voorwaarden in dat je instemt met eventuele wijzigingen en daardoor juridisch gebonden bent aan de bijgewerkte Voorwaarden. Als je een wijziging van de Voorwaarden niet aanvaardt, dien je onmiddellijk te stoppen met het verkrijgen van toegang tot of het gebruik van onze Diensten.\n-Onverminderd het voorgaande vereisen wezenlijke wijzigingen in de Aansprakelijkheidsbeperking in Sectie 14 en de bepalingen inzake Geschillenbeslechting in Sectie 15, of indien anderszins wettelijk vereist, jouw uitdrukkelijke aanvaarding. Voorts, met inachtneming van het toepasselijke recht, behouden wij ons het recht voor om de beschikbaarheid van functies binnen onze abonnementen op enigerlei wijze en op ieder moment te wijzigen, naar eigen goeddunken.\n-2. GESCHIKTHEID VOOR EEN ACCOUNT; JOUW VERANTWOORDELIJKHEDEN\n-Voordat je een account op Tinder aanmaakt, dien je ervoor te zorgen dat je in aanmerking komt voor het gebruik van onze Diensten. In dit artikel wordt ook beschreven wat je wel en niet kunt doen als je de Diensten gebruikt en welke rechten je aan Tinder verleent.\n-2a. Geschiktheid\n-Je bent niet bevoegd om een account aan te maken of de Diensten te gebruiken tenzij al het volgende waar is, en door onze Diensten te gebruiken verklaar en garandeer je het volgende:\n-Je bent een individu (d.w.z. geen rechtspersoon, partnerschap of andere zakelijke entiteit) van ten minste 18 jaar oud;\n-Je bent wettelijk gekwalificeerd om een bindend contract met Tinder aan te gaan;\n-Je bevindt je niet in een land dat onderworpen is aan een embargo van de Amerikaanse regering of dat door de Amerikaanse regering is aangewezen als een land dat terrorisme ondersteunt;\n-Je staat niet op een lijst van personen die verboden zijn om zaken te doen met de Verenigde Staten (bijvoorbeeld de lijst van Specially Designated Nationals van het Amerikaanse ministerie van Financi\u00ebn of een soortgelijke lijst van een andere overheidsinstantie) en je ondervindt geen ander vergelijkbaar verbod.\n-Het is je bij wet niet verboden om onze Diensten te gebruiken;\n-Je hebt geen misdrijf gepleegd, bent niet veroordeeld voor, en hebt ook geen 'no contest'-verklaring afgelegd met betrekking tot enig misdrijf dat geweld, de dreiging van geweld of seksuele wangedrag betreft;\n-Je bent niet verplicht om je als zedendelinquent te registreren bij een staats-, federaal of lokaal register van zedendelinquenten;\n-Je hebt geen andere actieve accounts op onze Diensten; en\n-Je bent eerder niet door ons of onze gelieerde diensten van onze Diensten of die van onze gelieerde partijen verwijderd, tenzij je onze uitdrukkelijke schriftelijke toestemming hebt om een nieuw account aan te maken.\n-Indien je op enig moment niet meer aan deze vereisten voldoet, wordt alle toestemming om toegang te krijgen tot onze Diensten of systemen automatisch ingetrokken, dien je onmiddellijk je account te verwijderen, en behouden wij ons het recht voor je account te verwijderen en je toegang tot onze Diensten naar eigen uitsluitend oordeel zonder waarschuwing te be\u00ebindigen.\n-2b. Jouw verantwoordelijkheden\n-Je gaat akkoord met:\n-Het voldoen aan deze Voorwaarden en het van tijd tot tijd controleren van deze pagina om er zeker van te zijn dat je op de hoogte bent van eventuele wijzigingen;\n-Het voldoen aan alle toepasselijke wetten, inclusief maar niet beperkt tot privacywetten, wetten op intellectueel eigendom, anti-spamwetten en wettelijke vereisten;\n-Het gebruiken van de nieuwste versie van de Website en/of App;\n-Behandel andere gebruikers op een fatsoenlijke en respectvolle manier, zowel binnen als buiten onze Diensten;\n-Wees respectvol bij de communicatie met onze klantenservice of andere medewerkers;\n-Het bekijken van de\n-Veiligheidstips\n-Het controleren en volgen van de\n-Communityrichtlijnen\n-, zoals van tijd tot tijd bijgewerkt; en\n-Neem redelijke maatregelen om de veiligheid van je account en inloggegevens te beschermen.\n-2c. Verboden Gedrag\n-Je gaat ermee akkoord dat je je zult onthouden van:\n-Je identiteit, leeftijd, werk (huidig of eerder), kwalificaties of verbondenheid met een persoon of organisatie onjuist weer te geven;\n-Het gebruiken van de Diensten op een manier die de Diensten schade toebrengt of het gebruik ervan door andere gebruikers verhindert;\n-Het gebruiken van onze Diensten op een manier die het platform, de servers of de netwerken van onze Diensten verstoort, onderbreekt of negatief be\u00efnvloedt;\n-Het gebruiken van onze Diensten voor schadelijke, illegale of snode doeleinden, inclusief, maar niet beperkt tot, het gebruik van Virtuele Items voor het witwassen van geld of andere financi\u00eble misdrijven;\n-Pesten, intimideren, volgen, bedreigen, aanvallen, lasteren, schade toebrengen of anderszins een persoon mishandelen;\n-Het plaatsen of delen van verboden Content (zie hieronder);\n-Het opvragen van wachtwoorden voor welk doel dan ook, dan wel het opvragen van persoonlijk identificeerbare informatie voor commerci\u00eble of onwettige doeleinden van andere gebruikers, of de persoonlijke informatie van iemand anders verspreiden zonder zijn of haar toestemming;\n-Het vragen van geld of andere waardevolle voorwerpen aan een andere gebruiker, hetzij als geschenk of lening of in de vorm van compensatie;\n-Het account van een andere gebruiker gebruiken of je eigen account met een ander delen;\n-Het gebruiken van onze Diensten in verband met fraude, piramidespelen of andere soortgelijke praktijken;\n-Onze Diensten gebruiken in verband met enige politieke campagnefinanciering of met het doel een verkiezing te be\u00efnvloeden, anders dan het delen van je eigen persoonlijke politieke opvattingen;\n-De voorwaarden van de licentie die Tinder jou heeft verleend schenden (zie Artikel 6 hieronder);\n-Het openbaar maken van priv\u00e9- of bedrijfseigen informatie waarvan je niet het recht hebt deze openbaar te maken;\n-Het kopi\u00ebren, wijzigen, verzenden, distribueren of cre\u00ebren van afgeleide werken van Content van gebruikers of Onze Content, of auteursrechtelijk beschermd materiaal, afbeeldingen, handelsmerken, handelsnamen, dienstmerken of andere intellectuele eigendommen, content of bedrijfseigen informatie die toegankelijk is via onze Diensten, zonder voorafgaande schriftelijke toestemming van Tinder;\n-Het uitdrukking geven aan of impliceren dat jouw uitspraken worden onderschreven door Tinder;\n-Het gebruik maken van een robot, crawler, applicatie voor het zoeken/opvragen van sites, een proxy of ander handmatig of automatisch apparaat, methode of proces om toegang te krijgen tot de navigatiestructuur of presentatie van onze Diensten of de content daarvan, deze op te halen, te indexeren, te \"dataminen\" of op enigerlei wijze te reproduceren of omzeilen;\n-Het uploaden van virussen of andere kwaadaardige code, of het op een andere manier in gevaar brengen van de veiligheid van onze Diensten;\n-Het vervalsen van headers of anderszins manipuleren van identificatiemiddelen om de oorsprong van informatie die naar of via onze Diensten wordt verzonden te verhullen;\n-\"Framing\" of \"mirroring\" van enig deel van onze Diensten zonder voorafgaande schriftelijke toestemming van Tinder;\n-Het gebruiken van metatags of code of andere apparaten met een verwijzing naar Tinder of het platform (of een handelsmerk, handelsnaam, dienstmerk, logo of slogan van Tinder) om een persoon naar een andere website te leiden, ongeacht voor welk doel;\n-Het wijzigen, aanpassen, in sublicentie geven, vertalen, verkopen, reverse-engineeren, ontcijferen, decompileren of anderszins demonteren van enig deel van de Diensten of ervoor zorgen dat anderen dat doen;\n-Derdenapplicaties of -diensten gebruiken of ontwikkelen die direct interacteren met onze Diensten of Ledencontent of informatie zonder onze schriftelijke toestemming, waaronder begrepen, maar niet beperkt tot, systemen voor kunstmatige intelligentie of machinelearning;\n-De application programming interface van Tinder gebruiken, openen of publiceren zonder onze schriftelijke toestemming;\n-Het peilen, scannen of testen van de kwetsbaarheid van onze Diensten of enig systeem of netwerk;\n-Het aanmoedigen, promoten of ermee instemmen om deel te nemen aan enige activiteit die deze Voorwaarden schendt;\n-Het aanmaken van een nieuw account nadat wij je account hebben opgeschort of be\u00ebindigd, tenzij je hiervoor onze uitdrukkelijke toestemming hebt gekregen; of\n-Een rapport indienen over het gedrag of de content van een lid dat onjuist, misleidend of anderszins kennelijk ongegrond is, of misbruik maken van enig door Tinder beschikbaar gesteld meldings- of beroepssysteem.\n-De licentie die je op grond van deze Voorwaarden wordt verleend en elke autorisatie voor toegang tot de Diensten wordt automatisch ingetrokken als je een van de bovenstaande handelingen verricht.\n-2d. Verboden content\n-Tinder verbiedt het uploaden of delen van content die:\n-Redelijkerwijs als aanstootgevend kan worden beschouwd of bedoeld is om een andere persoon te intimideren, van streek te maken, te beschamen of te verontrusten;\n-Obsceen, pornografisch, gewelddadig is, anderszins de menselijke waardigheid kan schenden, of naaktheid bevat;\n-Misbruikend, beledigend, bedreigend, discriminerend is of racisme, seksisme, haat of vooroordelen bevordert of aanmoedigt;\n-Onwettig is of enige illegale activiteit aanmoedigt of faciliteert, waaronder maar niet beperkt tot terrorisme, mensenhandel, witwassen, kindermishandeling en -uitbuiting, of het aanzetten tot geweld of haat;\n-Het aanmoedigen of faciliteren van enige activiteit die schade kan veroorzaken aan de gebruiker of een andere persoon, waaronder begrepen, maar niet beperkt tot, het promoten van zelfbeschadiging, eetstoornissen, gevaarlijke uitdagingen, gewelddadig extremisme of schadelijke desinformatie;\n-Lasterlijk, smadelijk of onwaar is;\n-Betreft commerci\u00eble activiteiten (waaronder, maar niet beperkt tot, verkoop, wedstrijden, werk- of investeringsmogelijkheden, promoties en reclame, het vragen om diensten, sekswerk, 'sugar daddy'- of 'sugar baby'-relaties, links naar andere websites of premium-telefoonnummers);\n-De overdracht van 'junk mail' of spam betreft of faciliteert;\n-Enige spyware, adware, virussen, corrupte bestanden, wormprogramma's of andere kwaadaardige code bevat die is ontworpen om de functionaliteit van software, hardware, telecommunicatie, netwerken, servers of andere apparatuur te onderbreken, te beschadigen of te beperken of de werking ervan te verstoren. Of enig ander materiaal dat is ontworpen om enige gegevens of persoonsgegevens te beschadigen, te verstoren, ten onrechte te onderscheppen of te onteigenen, hetzij van Tinder, hetzij anderszins;\n-Inbreuk maakt op de rechten van derden (met inbegrip van, maar niet beperkt tot, intellectuele eigendomsrechten en privacyrechten);\n-De afbeelding of gelijkenis van een andere persoon bevat zonder toestemming van die persoon (of in het geval van een minderjarige, de ouder of voogd van de minderjarige);\n-Een afbeelding of gelijkenis van een minderjarige bevat die niet wordt begeleid door de ouder of voogd van de minderjarige, of die niet volledig gekleed is, of anderszins een minderjarige afbeeldt of suggereert die seksuele handelingen verricht;\n-Inconsistent is met het beoogde gebruik van de Diensten; of\n-De reputatie van Tinder of aan Tinder gelieerde ondernemingen kan schaden, dat wil zeggen het uploaden of delen van content op het Tinder-platform dat lasterlijk is voor Tinder of aan Tinder gelieerde ondernemingen of die voor misbruik pleit van de Dienst of enige dienst die door aan Tinder gelieerde ondernemingen wordt aangeboden.\n-Het uploaden of delen van content die in strijd is met deze Voorwaarden (\"Verboden Content\") kan leiden tot de onmiddellijke opschorting of be\u00ebindiging van je account.\n+8750 North Central Expressway, Suite 1400 Dallas, TX 75231, USA\n+The terms \"us\", \"we\", \"Company\" and/or \"Tinder\" refer to MTCH Technology, MG Japan, or Tinder based on your country of residence. Together you and Tinder may be referred to as the \"Parties\" or separately as \"Party\". As used in this Agreement, the terms \"Tinder,\" \"us,\" \"we,\" the \"Company\", and \"our\" shall refer to Tinder LLC and/or MTCH Technology Services Limited, as appropriate.\n+By accessing or using our Services on Tinder.com (the \"Website\"), the Tinder mobile application (the \"App\"), or any other platforms or services Tinder may offer (collectively, the \"Service\" or our \"Services\"), you agree to, and are bound by this Agreement. This Agreement applies to anyone who accesses or uses our Services, regardless of registration or subscription status.\n+Your access and use of our Services is also subject to the\n+Privacy Policy\n+Community Guidelines\n+, and\n+Safety Tips\n+, and any terms disclosed and agreed to by you when you purchase additional features or services from Tinder (\"Additional Terms Upon Purchase\"), which are incorporated into this Agreement by reference. If you do not wish to be bound by this Agreement, do not access or use our Services.\n+Mandatory Features:\n+We reserve the right to introduce mandatory features to our Services at any time. These features may be designed to enhance the functionality, security, safety or overall user experience of our Services. As these features are mandatory, if you do not wish to engage with these features, you may lose access to your account or be required to terminate your account as set forth in Section 9.\n+Changes to Terms:\n+These terms may change from time to time. Notice of material changes will be posted on this page with an updated effective date. We may notify you of a change to the Terms via email, in-app notification, or other means; however, you are responsible for regularly checking this page for any changes. To the maximum extent permitted by applicable law, your continued access or use of our Services after the effective date of the Terms constitutes your consent to any changes, and as a result, you will be legally bound by the updated Terms. If you do not accept a change to the Terms, you must stop accessing or using our Services immediately.\n+Notwithstanding the foregoing, any material changes to the Limitation of Liability in Section 14 and the Dispute Resolution provisions in Section 15, or where otherwise required by law, will require your affirmative acceptance. Further, subject to applicable law, we reserve the right to change the availability of features in our subscription plans in any manner and at any time as we may determine at our sole discretion.\n+2. ACCOUNT ELIGIBILITY; YOUR RESPONSIBILITIES\n+Before you create an account on Tinder, make sure you are eligible to use our Services. This Section also details what you can and can't do when using the Services, as well as the rights you grant Tinder.\n+2a. Eligibility",
+   "added": 399,
+   "removed": 432
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -45,2 +45,4 @@\n $229.50/yr\n+LIMITED TIME OFFER | $99 for a year of Premium\n+That's like $8.25/mo. Terms apply.\n Frequently Asked Questions",
+   "added": 2,
+   "removed": 0
+  },
+  {
+   "service": "Wix",
+   "page": "pricing",
+   "url": "https://www.wix.com/plans",
+   "diff": "@@ -12,3 +12,3 @@\n No credit card required\n-Accessibility Text\n+0$ per month.\n Start for Free\n@@ -20,5 +20,4 @@\n Get the basics\n-Accessibility Text\n-.77\n-Price includes GST\n+17$ per month.\n+17/\n Start for Free\n@@ -33,7 +32,4 @@\n Engage your audience\n-Accessibility Text\n-.77\n-159/\n-(Save 50%)\n-Price includes GST\n+29$ per month.\n+29/\n Start for Free\n@@ -53,7 +49,4 @@\n Grow your brand\n-Accessibility Text\n-.77\n-159/\n-(Save 50%)\n-Price includes GST\n+39$ per month.\n+39/\n Start for Free\n@@ -72,8 +65,4 @@\n Scale your business\n-Accessibility Text\n-159\n-.77\n+159$ per month.\n 159/\n-(Save 50%)\n-Price includes GST\n Start for Free\n@@ -93,47 +82,211 @@\n site collaborators\n-Prices and currency vary by location. USD prices displayed for reference only. Displayed prices are for yearly subscriptions, paid in full at the time of purchase. Additional subscription periods are available. Prices do not include applicable taxes, which are determined according to your billing address. The final price can be seen on the purchase page, before payment is completed.\n+Displayed prices are for yearly subscriptions, paid in full at the time of purchase. Additional subscription periods are available. Prices do not include applicable taxes, which are determined according to your billing address. The final price can be seen on the purchase page, before payment is completed.\n Business Elite\n-Accessibility Text\n-159\n-.77\n+159$ per month.\n 159/\n-(Save 50%)\n-Price includes GST\n RECOMMENDED\n Business\n-Accessibility Text\n-.77\n-159/\n-(Save 50%)\n-Price includes GST\n+39$ per month.\n+39/\n Core\n-Accessibility Text\n-.77\n-159/\n-(Save 50%)\n-Price includes GST\n+29$ per month.\n+29/\n Light\n-Accessibility Text\n-.77\n-Price includes GST\n+17$ per month.\n+17/\n Site features\n-Accessibility Text\n-Accessibility Text\n-Accessibility Text\n-Accessibility Text\n+Custom domain\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Included in Light plan\n+Free domain for 1 year\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Included in Light plan\n+Remove Wix branding from your site\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Included in Light plan\n+Collaborators\n+100 in Business Elite plan.\n+100\n+10 in Business plan.\n+5 in Core plan.\n+2 in Light plan.\n+Storage space\n+Unlimited in Business Elite plan.\n+Unlimited\n+100 GB in Business plan.\n+100 GB\n+50 GB in Core plan.\n+50 GB\n+2 GB in Light plan.\n+2 GB\n+Customer Care\n+Priority\n+customer care in Business Elite plan.\n+Priority\n+customer care\n+24/7\n+customer care in Business plan.\n+24/7\n+customer care\n+24/7\n+customer care in Core plan.\n+24/7\n+customer care\n+24/7\n+customer care in Light plan.\n+24/7\n+customer care\n Full marketing suite\n-Accessibility Text\n-Accessibility Text\n-Accessibility Text\n-Accessibility Text\n+Lead-capture forms\n+75 in Business Elite plan.\n+25 in Business plan.\n+10 in Core plan.\n+4 in Light plan.\n+Fields per form\n+100 in Business Elite plan.\n+100\n+75 in Business plan.\n+50 in Core plan.\n+10 in Light plan.\n+Google Ads with Wix\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Included in Light plan\n+Customer accounts\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Not included in Light plan\n Payment tools\n-Accessibility Text\n-Accessibility Text\n-Accessibility Text\n-Accessibility Text\n+Accept payments\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Not included in Light plan\n+Pay links\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Not included in Light plan\n+Invoices\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Not included in Light plan\n+Sell on marketplaces\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Not included in Light plan\n+Sell on social channels\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Not included in Light plan\n+Charge deposits for services\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Accessibility Text\n+Pricing Plans\n+Included in Business Elite plan\n+Included in Business plan\n+Included in Core plan\n+Accessibility Text\n+Pricing Plans transaction fee\n+0% in Business Elite plan.\n+2% in Business plan.\n+4% in Core plan.",
+   "added": 207,
+   "removed": 62
+  },
+  {
+   "service": "Mailchimp",
+   "page": "pricing",
+   "url": "https://mailchimp.com/pricing/marketing/",
+   "diff": "@@ -64,2 +64,3 @@\n Then, starts at\n+$20\n /month\u2020\n@@ -95,3 +96,3 @@\n Phone & Priority Support\n-Popup Forms\n+Custom-Coded and Pre-built Email Templates\n Multivariate and A/B Testing",
+   "added": 2,
+   "removed": 1
+  }
+ ]
+}

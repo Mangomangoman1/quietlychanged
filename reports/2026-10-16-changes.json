@@ -1,0 +1,22 @@
+[
+  {
+    "service": "Cloudflare",
+    "page": "pricing",
+    "headline": "Data pipeline pricing replaces \"free during beta\"",
+    "what": "Cloudflare's plans page used to list Pipelines ingestion and delivery to R2 as \"TBD (free during beta)\". It now shows real prices for the product, now part of the Cloudflare Basin family. Stream ingress is free and unlimited. SQL transforms include 50 GB a month, then $0.04 per GB. Sink delivery includes 50 GB a month shared across sinks, then $0.03 per GB for JSON or $0.06 per GB for Parquet or Iceberg. The page also adds catalog pricing (1 million operations a month included, then $9 per million; compaction at $0.005 per GB after 10 GB and $2 per million objects after 1 million) and query pricing (10 GB of compressed data scanned a month included, then $0.0025 per GB, which is $2.50 per TB, with a 10 MB minimum per query). R2 storage and operations are billed separately.",
+    "who": "Developers and companies streaming events or logs through Cloudflare Pipelines into R2, especially anyone who set it up while it was free during beta",
+    "url": "https://www.cloudflare.com/plans/",
+    "seo_title": "Cloudflare Pipelines is no longer free: Basin pricing is $0.04/GB transforms, $0.03-$0.06/GB delivery",
+    "seo_desc": "Cloudflare's plans page swapped \"TBD (free during beta)\" for real Basin prices: $0.04/GB SQL transforms and $0.03-$0.06/GB sink delivery after 50 GB, plus catalog and $2.50/TB query fees."
+  },
+  {
+    "service": "Audible",
+    "page": "pricing",
+    "headline": "Limited-time offer: $99 for a year of Premium",
+    "what": "Audible's membership plans page added a new banner: \"LIMITED TIME OFFER | $99 for a year of Premium. That's like $8.25/mo. Terms apply.\" The regular annual Premium prices listed on the same page are unchanged at $149.50 a year for 12 credits and $229.50 a year for 24 credits, and monthly Premium is still $14.95. The page doesn't spell out the offer's terms or end date.",
+    "who": "Audible members and anyone considering an annual Audible Premium plan, who should check the offer's terms before renewing or signing up",
+    "url": "https://www.audible.com/ep/memberbenefits",
+    "seo_title": "Audible offer: $99 for a year of Premium (vs. $149.50 regular annual price)",
+    "seo_desc": "Audible's plans page now shows a limited-time $99-a-year Premium offer, about $8.25 a month. Regular annual Premium is $149.50 for 12 credits or $229.50 for 24. Terms apply."
+  }
+]
