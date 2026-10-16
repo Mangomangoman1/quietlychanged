@@ -56,16 +56,18 @@ footer .wrap{display:grid;gap:.8rem}footer nav a{margin-right:1rem}
 FAV = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="8" fill="#1a1a1a"/><text x="32" y="45" font-family="Georgia,serif" font-size="38" font-weight="700" text-anchor="middle" fill="#fff">Q</text><rect x="14" y="50" width="36" height="4" fill="#b3261e"/></svg>'
 PAGES = []
 ORG = {"@context":"https://schema.org","@type":"Organization","name":"QuietlyChanged","url":SITE+"/","logo":SITE+"/og.png"}
+HUB_FOR = {"pricing":("price-changes/","Price changes"),"terms":("terms-of-service-changes/","Terms of service changes"),"privacy":("privacy-policy-changes/","Privacy policy changes")}
 NAV = [("index.html","Latest"),("archive.html","Archive"),("services.html","What we track"),("about.html","How it works")]
 
 def slug(x): return re.sub(r"[^a-z0-9]+","-",x.lower().replace("+","-plus")).strip("-")
 def slug_tr(x): return re.sub(r"[^a-z0-9]+","-",x.lower()).strip("-")
 def art_slug(d,c): return f"{d}-{slug(c['service'])}-{slug(c.get('headline') or c.get('page','update'))}"[:90].strip("-")
 def nice(d): return datetime.date.fromisoformat(d).strftime("%B %-d, %Y")
-def page(fn, title, body, desc=TAG, depth=0, ld=None, otype="website"):
+def page(fn, title, body, desc=TAG, depth=0, ld=None, otype="website", lastmod=None, crumbs=None):
     p = "../"*depth; url = f"{SITE}/{fn}".replace("/index.html","/")
-    PAGES.append(url)
+    PAGES.append((url, lastmod))
     lds = [ORG] + ([ld] if ld else [])
+    if crumbs: lds.append({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":i+1,"name":n,"item":u} for i,(n,u) in enumerate(crumbs+[(title,url)])]})
     ldh = "".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)
     nav = "".join(f'<li><a href="{p}{h}"{" aria-current=page" if fn==h else ""}>{t}</a></li>' for h,t in NAV)
     full = "QuietlyChanged: daily pricing, terms & privacy policy changes" if fn=="index.html" else f"{title} · QuietlyChanged"
@@ -78,7 +80,7 @@ def page(fn, title, body, desc=TAG, depth=0, ld=None, otype="website"):
 <div class="wrap"><a class="brand" href="{p}index.html"><b>Quietly<i>Changed</i></b></a><p class="tagline">{TAG}</p>
 <nav class="main" aria-label="Main"><ul>{nav}</ul></nav></div></header>
 <main id="main"><div class="wrap">{body}</div></main>
-<footer><div class="wrap"><nav aria-label="Footer"><a href="{p}about.html">How it works</a><a href="{p}archive.html">Archive</a><a href="{p}services.html">Tracked services</a><a href="{p}feed.xml">Feed</a></nav>
+<footer><div class="wrap"><nav aria-label="Footer"><a href="{p}about.html">How it works</a><a href="{p}archive.html">Archive</a><a href="{p}services.html">Tracked services</a><a href="{p}price-changes/">Price changes</a><a href="{p}terms-of-service-changes/">Terms changes</a><a href="{p}privacy-policy-changes/">Privacy changes</a><a href="{p}feed.xml">Feed</a></nav>
 <p>QuietlyChanged is an independent project. We snapshot public pages daily and summarize the differences. Always check the linked source; summaries are not legal advice.</p><p>© {TODAY[:4]} QuietlyChanged</p></div></footer></body></html>'''
 
 def md(t):
@@ -126,13 +128,13 @@ for d in days:
     if d == days[0] and not items: desc = f"Day 0: QuietlyChanged starts tracking {len(json.loads((R/'services.json').read_text()))} popular services' pricing, terms of service, and privacy policies."
     hl = (R/"reports"/f"{d}-summary.md").read_text().splitlines()[0].lstrip("# ").strip() or f"Report, {nice(d)}"
     ld = {"@context":"https://schema.org","@type":"NewsArticle","headline":hl[:110],"datePublished":d+"T06:00:00-06:00","dateModified":d+"T06:00:00-06:00","url":f"{SITE}/reports/{d}.html","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":desc}
-    (D/"reports"/f"{d}.html").write_text(page(f"reports/{d}.html", f"{hl} ({nice(d)})", day_body(d, R/"reports"/f"{d}-summary.md", items), desc=desc, depth=1, ld=ld, otype="article"))
+    (D/"reports"/f"{d}.html").write_text(page(f"reports/{d}.html", f"{hl} ({nice(d)})", day_body(d, R/"reports"/f"{d}-summary.md", items), desc=desc, depth=1, ld=ld, otype="article", lastmod=d, crumbs=[("Home",SITE+"/"),("Archive",SITE+"/archive.html")]))
 if days:
     L = days[-1]
     WEB = {"@context":"https://schema.org","@type":"WebSite","name":"QuietlyChanged","url":SITE+"/","description":TAG}
-    (D/"index.html").write_text(page("index.html","Latest", ld=WEB, body= day_body(L, R/"reports"/f"{L}-summary.md", data[L]).replace('href="../','href="') + f'<p class="meta"><a href="reports/{L}.html">Permalink</a> · <a href="archive.html">Earlier reports</a></p>'))
+    (D/"index.html").write_text(page("index.html","Latest", ld=WEB, lastmod=L, body= day_body(L, R/"reports"/f"{L}-summary.md", data[L]).replace('href="../','href="') + f'<p class="meta"><a href="reports/{L}.html">Permalink</a> · <a href="archive.html">Earlier reports</a></p><h2>Browse by type</h2><p><a href="price-changes/">Price increases and pricing changes</a> · <a href="terms-of-service-changes/">Terms of service changes</a> · <a href="privacy-policy-changes/">Privacy policy changes</a></p>'))
 arch = "".join(f'<li><a href="reports/{d}.html">{nice(d)}</a><span class="n">{len(data[d])} change{"s"*(len(data[d])!=1)}</span></li>' for d in reversed(days))
-(D/"archive.html").write_text(page("archive.html","Archive", desc="Archive of every QuietlyChanged daily report on pricing, terms of service, and privacy policy changes, by date.", body= f'<p class="kicker">Archive</p><h1>Every report, by date</h1><ul class="archive">{arch}</ul>'))
+(D/"archive.html").write_text(page("archive.html","Archive", lastmod=(days or [TODAY])[-1], desc="Archive of every QuietlyChanged daily report on pricing, terms of service, and privacy policy changes, by date.", body= f'<p class="kicker">Archive</p><h1>Every report, by date</h1><ul class="archive">{arch}</ul>'))
 s = json.loads((R/"services.json").read_text())
 rows = "".join(f'<tr data-k="{" ".join(v)}"><td><strong><a href="services/{slug(k)}/">{E(k)}</a></strong></td><td>{"".join(tag(p) for p in v)}</td><td>{" · ".join(f"<a href=\"{E(u)}\">{LABEL[p]}</a>" for p,u in v.items())}</td></tr>' for k,v in sorted(s.items(), key=lambda x:x[0].lower()))
 btn = "".join(f'<button type="button" data-f="{k}" aria-pressed="false">{v}</button>' for k,v in LABEL.items())
@@ -165,14 +167,49 @@ for d in days:
         t=c.get("seo_title") or f'{c["service"]}: {c.get("headline") or "page updated"}'
         ds=c.get("seo_desc") or (c["what"][:155])
         k=c.get("page","terms"); sl=slug(c["service"])
-        ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":d+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
+        ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":c.get("modified",d)+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
         note_html = f'<aside class="note" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
         body=f'''<p class="kicker">{tag(k)} {E(c["service"])}</p><h1>{E(t)}</h1><p class="meta"><time datetime="{d}">{nice(d)}</time> · Detected by QuietlyChanged's daily check</p>
 <p class="lede">{E(c["what"])}</p>{note_html}<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
 <h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>
-<h2>More</h2><p><a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
-        (D/"changes"/a/"index.html").write_text(page(f"changes/{a}/index.html", t, body, desc=ds, depth=2, ld=ld, otype="article"))
+<h2>More</h2><p><a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · <a href="../../{HUB_FOR[k][0]}">All {HUB_FOR[k][1].lower()}</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
+        (D/"changes"/a/"index.html").write_text(page(f"changes/{a}/index.html", t, body, desc=ds, depth=2, ld=ld, otype="article", lastmod=c.get("modified",d), crumbs=[("Home",SITE+"/"),(HUB_FOR.get(k,("",""))[1] or "Changes",f"{SITE}/{HUB_FOR.get(k,('archive.html',''))[0]}"),(c["service"],f"{SITE}/services/{sl}/")]))
         ARTS.append((d,c,t))
+
+# ---- evergreen category hubs (price / terms / privacy changes) ----
+HUBS = {
+ "pricing": ("Subscription price increases & pricing changes in {Y} (tracker)", "Every price increase, new fee, plan limit, and pricing-page change QuietlyChanged has detected at popular subscriptions and apps in {Y}, dated and linked to the source.",
+             "Price hikes rarely come with a press release. They show up as a new number on a pricing page, a fee line on a support page, or a plan that quietly loses a feature. This page collects every pricing change our daily check has caught, newest first, with the date we saw it and a link to the source."),
+ "terms": ("Terms of service changes in {Y}: dated tracker", "A dated list of every terms of service, user agreement, and contract change QuietlyChanged has detected at popular apps, banks, and services in {Y}, with plain-English summaries.",
+           "Terms of service updates decide what you can dispute, what a company can do with your money, and how disagreements get settled. This page lists every terms change our daily check has caught, newest first, in plain English with a link to the source text."),
+ "privacy": ("Privacy policy changes in {Y}: dated tracker", "A dated list of every privacy policy change QuietlyChanged detects at popular apps and services in {Y}: new data uses, sharing, AI training, and retention changes.",
+             "Privacy policies change more often than most people realize, and the edits that matter (new data sharing, AI training, longer retention) are usually buried in long documents. This page lists every privacy policy change our daily check catches, newest first, with a link to the source."),
+}
+for k,(tt,dd,lede) in HUBS.items():
+    fn, short = HUB_FOR[k]; Y = TODAY[:4]; tt=tt.format(Y=Y); dd=dd.format(Y=Y)
+    items = [(d,c) for d in reversed(days) for c in data[d] if c.get("page","terms")==k]
+    by_month = {}
+    for d,c in items: by_month.setdefault(d[:7], []).append((d,c))
+    sec = ""
+    for m, its in by_month.items():
+        mname = datetime.date.fromisoformat(m+"-01").strftime("%B %Y")
+        li = "".join(f'<li><article class="card"><div>{tag(k)} <strong>{E(c["service"])}</strong></div><h3><a href="../changes/{c["_art"]}/">{E(c.get("seo_title") or c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="../services/{slug(c["service"])}/">{E(c["service"])} history →</a></div></article></li>' for d,c in its)
+        sec += f'<h2>{mname}</h2><ul class="cards">{li}</ul>'
+    if not sec: sec = f'<p class="empty">No {short.lower()} detected yet since tracking began. This page updates automatically the day one is found.</p>'
+    tracked = sorted([n for n,v in s.items() if k in v], key=str.lower)
+    tl = " · ".join(f'<a href="../services/{slug(n)}/">{E(n)}</a>' for n in tracked)
+    other = " · ".join(f'<a href="../{HUB_FOR[o][0]}">{HUB_FOR[o][1]}</a>' for o in HUBS if o!=k)
+    lm = max([c.get("modified",d) for d,c in items] or [(days or [TODAY])[-1]])
+    url = f"{SITE}/{fn}"
+    ld = {"@context":"https://schema.org","@type":"CollectionPage","name":tt,"url":url,"description":dd,"dateModified":lm,"publisher":ORG,
+          "mainEntity":{"@type":"ItemList","numberOfItems":len(items),"itemListElement":[{"@type":"ListItem","position":i+1,"url":f'{SITE}/changes/{c["_art"]}/',"name":c.get("seo_title") or c.get("headline") or c["service"]} for i,(d,c) in enumerate(items)]}}
+    nlog = f'{len(items)} change{"s"*(len(items)!=1)} logged'
+    body = (f'<p class="kicker">{tag(k)} Tracker</p><h1>{E(tt)}</h1><p class="meta">{nlog} · Updated <time datetime="{lm}">{nice(lm)}</time></p>'
+            f'<p class="lede">{E(lede)}</p>{sec}'
+            f'<h2>Services we check for {short.lower()}</h2><p>{len(tracked)} services, checked every morning: {tl}</p>'
+            f'<h2>More trackers</h2><p>{other} · <a href="../archive.html">Daily reports</a> · <a href="../about.html">How we detect changes</a></p>')
+    (D/fn).mkdir(parents=True, exist_ok=True)
+    (D/fn/"index.html").write_text(page(fn+"index.html", tt, body, desc=dd, depth=1, ld=ld, lastmod=lm, crumbs=[("Home",SITE+"/")]))
 # ---- Atom feed: daily reports + change articles (newest first) ----
 entries = []
 for d in days:
@@ -203,9 +240,9 @@ for k, v in s.items():
 <p class="lede">QuietlyChanged checks {E(k)}'s public {kinds} pages every day and records what changes, in plain English.</p>
 <h2>Pages we monitor</h2><ul>{srcs}</ul><h2>Changelog</h2>{cl}
 <h2>Related</h2><p><a href="../{slug(nb[0])}/">{E(nb[0])}</a> · <a href="../{slug(nb[1])}/">{E(nb[1])}</a> · <a href="../../services.html">All tracked services</a> · <a href="../../about.html">How it works</a></p>'''
-    (D/"services"/sl/"index.html").write_text(page(f"services/{sl}/index.html", title, body, desc=desc, depth=2, ld=ld))
+    (D/"services"/sl/"index.html").write_text(page(f"services/{sl}/index.html", title, body, desc=desc, depth=2, ld=ld, lastmod=max([last]+[c.get("modified",d) for d,c in log]), crumbs=[("Home",SITE+"/"),("What we track",SITE+"/services.html")]))
 # ---- sitemap / robots ----
-(D/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{u}</loc><lastmod>{TODAY}</lastmod></url>" for u in dict.fromkeys(PAGES)) + "</urlset>")
+(D/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{u}</loc><lastmod>{m}</lastmod></url>" for u,m in {u:(m or TODAY) for u,m in PAGES}.items()) + "</urlset>")
 (D/"robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
 import subprocess, shutil
 
@@ -215,13 +252,14 @@ if INDEXNOW_KEY:
     (D/f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
     try:
         import urllib.request
-        urls = list(dict.fromkeys(PAGES))  # unique, order preserved
+        urls = list(dict.fromkeys(u for u,_ in PAGES))  # unique, order preserved
         # Prefer change articles + latest report + feed/sitemap
         ping = [u for u in urls if "/changes/" in u][-20:]
         if days:
             ping.append(f"{SITE}/reports/{days[-1]}.html")
             ping.append(f"{SITE}/")
         ping.append(f"{SITE}/feed.xml")
+        ping += [f"{SITE}/{h[0]}" for h in HUB_FOR.values()]
         ping = list(dict.fromkeys(ping))
         body = json.dumps({"host":"quietlychanged.com","key":INDEXNOW_KEY,"keyLocation":f"{SITE}/{INDEXNOW_KEY}.txt","urlList":ping}).encode()
         req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type":"application/json; charset=utf-8"}, method="POST")
