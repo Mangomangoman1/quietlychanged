@@ -58,3 +58,9 @@ Rotated unusual sources (first deep-dive run): Federal Register / FTC / FCC / CF
 **Opportunities:** Samuel posts/emails BofA drafts before Oct 19 while unreported; optional factual quote of RemiReliefX thread; alternate AB reporter Allissa Kline (allissa.kline@arizent.com) if needed. Skip The Markup tips@ (not for pitches). FeedSpot / Show HN site launch still need Samuel accounts (unchanged).
 
 **Next steps:** (1) Samuel approves BofA distribution drafts. (2) Retry rss.mobi when API recovers. (3) Keep watching Google indexing (still 0 indexed). (4) Parent handles @QuietlyChanged X for BofA if not already posted.
+
+## 2026-10-16: Audible article notes
+- Added optional `note` field support in `build_site.py` (rendered as a visible Update callout on change articles).
+- Oct 16 Audible $99 Premium offer article: follow-up note that a 6:16 AM MT browser check of audible.com/ep/memberbenefits did not show the $99 banner (saw $149.50 / $229.50 annual and a Prime $0.99/mo deal); offer appears A/B tested or audience-gated.
+- Oct 15 Audible annual-plan cancellation article: correction note that the live page still showed "Cancel anytime" and "Save 16%" on Oct 15, so those claims could not be confirmed.
+- Notes live in `reports/2026-10-15-changes.json` and `reports/2026-10-16-changes.json` so rebuilds keep them.

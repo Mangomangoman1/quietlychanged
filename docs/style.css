@@ -29,6 +29,7 @@ h1{font-size:clamp(1.7rem,4.5vw,2.3rem);margin:.2rem 0 .6rem}h2{font-size:1.4rem
 .tag{display:inline-block;font:700 .7rem/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;padding:.3rem .5rem;border:1px solid currentColor;border-radius:2px;color:var(--ink);margin-right:.35rem}
 .tag.pricing{color:#1d4f91}.tag.terms{color:#5b3a00}.tag.privacy{color:#6a1b9a}
 .empty{background:var(--card);border:1px dashed var(--rule);padding:1rem 1.2rem;font-family:var(--sans)}
+.note{background:#fff8e8;border:1px solid #d4a017;border-left:4px solid #b3261e;padding:.9rem 1rem;margin:1.2rem 0;font:.95rem/1.55 var(--sans);border-radius:2px}.note strong{display:block;font:700 .75rem/1 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:#b3261e;margin-bottom:.45rem}
 .filters{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin:1rem 0;font-family:var(--sans)}
 .filters input{flex:1 1 14rem;font:1rem var(--sans);padding:.6rem .7rem;border:1px solid #8a8780;border-radius:2px;background:#fff}
 .filters button{font:600 .8rem var(--sans);padding:.5rem .8rem;border:1px solid var(--ink);background:#fff;color:var(--ink);border-radius:2px;cursor:pointer}

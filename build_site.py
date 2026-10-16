@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Builds docs/ (GitHub Pages root). Inputs per day in reports/:
   DATE-summary.md   – intro/lede in light markdown (required)
-  DATE-changes.json – optional list of {"service","page":"pricing|terms|privacy","what","who","url"}
+  DATE-changes.json – optional list of {"service","page":"pricing|terms|privacy","what","who","url","note?"}
 """
 import json, pathlib, html, re, datetime
 R = pathlib.Path(__file__).parent; D = R/"docs"; (D/"reports").mkdir(parents=True, exist_ok=True)
@@ -39,6 +39,7 @@ h1{font-size:clamp(1.7rem,4.5vw,2.3rem);margin:.2rem 0 .6rem}h2{font-size:1.4rem
 .tag{display:inline-block;font:700 .7rem/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;padding:.3rem .5rem;border:1px solid currentColor;border-radius:2px;color:var(--ink);margin-right:.35rem}
 .tag.pricing{color:#1d4f91}.tag.terms{color:#5b3a00}.tag.privacy{color:#6a1b9a}
 .empty{background:var(--card);border:1px dashed var(--rule);padding:1rem 1.2rem;font-family:var(--sans)}
+.note{background:#fff8e8;border:1px solid #d4a017;border-left:4px solid #b3261e;padding:.9rem 1rem;margin:1.2rem 0;font:.95rem/1.55 var(--sans);border-radius:2px}.note strong{display:block;font:700 .75rem/1 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:#b3261e;margin-bottom:.45rem}
 .filters{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin:1rem 0;font-family:var(--sans)}
 .filters input{flex:1 1 14rem;font:1rem var(--sans);padding:.6rem .7rem;border:1px solid #8a8780;border-radius:2px;background:#fff}
 .filters button{font:600 .8rem var(--sans);padding:.5rem .8rem;border:1px solid var(--ink);background:#fff;color:var(--ink);border-radius:2px;cursor:pointer}
@@ -165,8 +166,9 @@ for d in days:
         ds=c.get("seo_desc") or (c["what"][:155])
         k=c.get("page","terms"); sl=slug(c["service"])
         ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":d+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
+        note_html = f'<aside class="note" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
         body=f'''<p class="kicker">{tag(k)} {E(c["service"])}</p><h1>{E(t)}</h1><p class="meta"><time datetime="{d}">{nice(d)}</time> · Detected by QuietlyChanged's daily check</p>
-<p class="lede">{E(c["what"])}</p><h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
+<p class="lede">{E(c["what"])}</p>{note_html}<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
 <h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>
 <h2>More</h2><p><a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
         (D/"changes"/a/"index.html").write_text(page(f"changes/{a}/index.html", t, body, desc=ds, depth=2, ld=ld, otype="article"))
