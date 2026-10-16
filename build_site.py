@@ -136,6 +136,7 @@ if days:
 arch = "".join(f'<li><a href="reports/{d}.html">{nice(d)}</a><span class="n">{len(data[d])} change{"s"*(len(data[d])!=1)}</span></li>' for d in reversed(days))
 (D/"archive.html").write_text(page("archive.html","Archive", lastmod=(days or [TODAY])[-1], desc="Archive of every QuietlyChanged daily report on pricing, terms of service, and privacy policy changes, by date.", body= f'<p class="kicker">Archive</p><h1>Every report, by date</h1><ul class="archive">{arch}</ul>'))
 s = json.loads((R/"services.json").read_text())
+TRACKED_SLUGS = {slug(k) for k in s}
 rows = "".join(f'<tr data-k="{" ".join(v)}"><td><strong><a href="services/{slug(k)}/">{E(k)}</a></strong></td><td>{"".join(tag(p) for p in v)}</td><td>{" · ".join(f"<a href=\"{E(u)}\">{LABEL[p]}</a>" for p,u in v.items())}</td></tr>' for k,v in sorted(s.items(), key=lambda x:x[0].lower()))
 btn = "".join(f'<button type="button" data-f="{k}" aria-pressed="false">{v}</button>' for k,v in LABEL.items())
 (D/"services.html").write_text(page("services.html","What we track", desc=f"Search the {len(s)} services QuietlyChanged monitors daily for pricing, terms of service, and privacy policy changes.", body=f'''<p class="kicker">Coverage</p><h1>What we track</h1><p>{len(s)} services and {sum(map(len,s.values()))} pages, checked every day.</p>
@@ -166,14 +167,17 @@ for d in days:
         a=art_slug(d,c); c["_art"]=a; (D/"changes"/a).mkdir(parents=True, exist_ok=True)
         t=c.get("seo_title") or f'{c["service"]}: {c.get("headline") or "page updated"}'
         ds=c.get("seo_desc") or (c["what"][:155])
-        k=c.get("page","terms"); sl=slug(c["service"])
+        k=c.get("page","terms"); sl=slug(c["service"]); has_svc = sl in TRACKED_SLUGS
         ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":c.get("modified",d)+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
         note_html = f'<aside class="note" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
+        more_svc = f'<a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · ' if has_svc else ""
         body=f'''<p class="kicker">{tag(k)} {E(c["service"])}</p><h1>{E(t)}</h1><p class="meta"><time datetime="{d}">{nice(d)}</time> · Detected by QuietlyChanged's daily check</p>
 <p class="lede">{E(c["what"])}</p>{note_html}<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
 <h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>
-<h2>More</h2><p><a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · <a href="../../{HUB_FOR[k][0]}">All {HUB_FOR[k][1].lower()}</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
-        (D/"changes"/a/"index.html").write_text(page(f"changes/{a}/index.html", t, body, desc=ds, depth=2, ld=ld, otype="article", lastmod=c.get("modified",d), crumbs=[("Home",SITE+"/"),(HUB_FOR.get(k,("",""))[1] or "Changes",f"{SITE}/{HUB_FOR.get(k,('archive.html',''))[0]}"),(c["service"],f"{SITE}/services/{sl}/")]))
+<h2>More</h2><p>{more_svc}<a href="../../{HUB_FOR[k][0]}">All {HUB_FOR[k][1].lower()}</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
+        crumbs=[("Home",SITE+"/"),(HUB_FOR.get(k,("",""))[1] or "Changes",f"{SITE}/{HUB_FOR.get(k,('archive.html',''))[0]}")]
+        if has_svc: crumbs.append((c["service"],f"{SITE}/services/{sl}/"))
+        (D/"changes"/a/"index.html").write_text(page(f"changes/{a}/index.html", t, body, desc=ds, depth=2, ld=ld, otype="article", lastmod=c.get("modified",d), crumbs=crumbs))
         ARTS.append((d,c,t))
 
 # ---- evergreen category hubs (price / terms / privacy changes) ----
@@ -193,7 +197,11 @@ for k,(tt,dd,lede) in HUBS.items():
     sec = ""
     for m, its in by_month.items():
         mname = datetime.date.fromisoformat(m+"-01").strftime("%B %Y")
-        li = "".join(f'<li><article class="card"><div>{tag(k)} <strong>{E(c["service"])}</strong></div><h3><a href="../changes/{c["_art"]}/">{E(c.get("seo_title") or c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="../services/{slug(c["service"])}/">{E(c["service"])} history →</a></div></article></li>' for d,c in its)
+        def _hist(c,d):
+            slc=slug(c["service"])
+            foot=f'<a href="../services/{slc}/">{E(c["service"])} history →</a>' if slc in TRACKED_SLUGS else ""
+            return f'<li><article class="card"><div>{tag(k)} <strong>{E(c["service"])}</strong></div><h3><a href="../changes/{c["_art"]}/">{E(c.get("seo_title") or c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time>{foot}</div></article></li>'
+        li = "".join(_hist(c,d) for d,c in its)
         sec += f'<h2>{mname}</h2><ul class="cards">{li}</ul>'
     if not sec: sec = f'<p class="empty">No {short.lower()} detected yet since tracking began. This page updates automatically the day one is found.</p>'
     tracked = sorted([n for n,v in s.items() if k in v], key=str.lower)
