@@ -233,5 +233,9 @@
   },
   "Verizon": {
     "pricing": "https://www.verizon.com/support/surcharges/"
+  },
+  "Robinhood": {
+    "terms": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
+    "pricing": "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
   }
 }

@@ -19,5 +19,35 @@
     "seo_title": "Audible offer: $99 for a year of Premium (vs. $149.50 regular annual price)",
     "seo_desc": "Audible's plans page now shows a limited-time $99-a-year Premium offer, about $8.25 a month. Regular annual Premium is $149.50 for 12 credits or $229.50 for 24. Terms apply.",
     "note": "Follow-up (Oct 16, 2026, 6:16 AM MT): a browser check of audible.com/ep/memberbenefits did not show the $99 offer. The page showed $149.50 and $229.50 annual Premium prices and a Prime $0.99/mo deal instead. The $99 offer appears to be A/B tested or shown only to some visitors."
+  },
+  {
+    "service": "Robinhood",
+    "page": "terms",
+    "headline": "Auto-enrolls accounts in class-action claims, keeps 20% of payouts",
+    "what": "Robinhood's Customer Agreement (revised October 1, 2026) adds Section 36A, a \"Class Action Service\" whose terms take effect \"on or after November 18, 2026.\" It reads: \"Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.\" Robinhood and a third-party vendor will automatically file claims for you in securities class-action settlements involving stocks held in your account, and the RHF Fee Schedule sets the Class Action Service Fee at \"20% of the class action settlement proceeds received on your behalf.\" Enrollment lets Robinhood appoint the vendor \"as your agent and attorney-in-fact,\" binds you to the settlement's releases, and means \"you cannot separately bring a lawsuit, at any time, against any named defendant\" in a case where a claim was filed for you. You also can't submit your own claim form for that settlement. Robinhood says it will notify you before each filing. You get seven business days to exclude that case, and you can unenroll from the service at any time through the app or Robinhood Customer Service. The September 1, 2026 version of the agreement had no such section. Settlement administrators don't usually charge anything to file your own claim form, so staying enrolled by default costs you a fifth of any payout. Some other brokers run similar opt-out services.",
+    "who": "Robinhood brokerage customers, especially anyone holding individual stocks that later become part of securities class-action settlements",
+    "url": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
+    "seo_title": "Robinhood Class Action Service: auto-enrollment on Nov 18, 2026 and a 20% fee (how to opt out)",
+    "seo_desc": "Robinhood's Oct 1, 2026 Customer Agreement auto-enrolls accounts in a Class Action Service from Nov 18. It files settlement claims for you and keeps 20%. You can unenroll in the app."
+  },
+  {
+    "service": "DoorDash",
+    "page": "terms",
+    "headline": "Arbitration now covers vendors like Stripe; robot deliveries added",
+    "what": "DoorDash's Consumer Terms and Conditions now read \"Effective: October 16, 2026,\" replacing the August 13, 2026 version. The new text went live on Oct 16, after our early-morning check that day. A new \"Related Third Parties\" clause extends the arbitration agreement to disputes with DoorDash's \"affiliates, subsidiaries, successors, related entities, agents, employees, contractors, subcontractors, insurers, licensees, assignees, vendors, and suppliers,\" and names \"Amplitude, Persona, Checkr, Blue Star, Stripe, Payfare.\" All U.S. arbitrations move to JAMS. The old terms used ADR Services for California residents and National Arbitration and Mediation (NAM) for everyone else. The arbitration agreement now survives \"until the expiration of all applicable statutes of limitations.\" Opting out of arbitration is still limited to new accounts, which must email opt-out@doordash.com within 30 days. Each opt-out notice must now come from you personally, not an agent, and can't cover more than one user. \"Contractors\" are renamed \"Delivery Providers,\" a term that now covers \"technology, including autonomous vehicles.\" A new \"Autonomous Deliveries\" section says DoorDash \"may, in its sole discretion, utilize autonomous vehicles or other technology to facilitate deliveries.\" Some changes favor customers. U.S. orders are now governed by the law of the state where you live instead of Delaware law. The damages limits no longer cover death or bodily injury caused by DoorDash's own negligence, gross negligence or willful misconduct, sexual assault or harassment claims, or refunds of what you paid. The terms also add \"Pay with Rewards\" (paying with credit-card points) and rewrite the marketing-text section.",
+    "who": "U.S. DoorDash and Caviar customers. The vendor clause matters if you ever have a claim against a company DoorDash works with, such as Stripe (payments) or Persona (ID checks)",
+    "url": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+    "seo_title": "DoorDash terms update (Oct 16, 2026): arbitration now covers Stripe, Persona and other vendors; JAMS; robot deliveries",
+    "seo_desc": "DoorDash's Oct 16, 2026 consumer terms extend arbitration to vendors like Stripe and Persona, move U.S. cases to JAMS, add autonomous deliveries, and apply your home state's law."
+  },
+  {
+    "service": "Proton",
+    "page": "terms",
+    "headline": "Terms now let Proton discontinue any service or feature without notice",
+    "what": "Proton's Terms of Service now say \"Last modified: October 09, 2026,\" replacing the June 23, 2026 version, and Section 4 (\"Limited warranties and liability\") opens differently. The old opening said Proton \"does not make any warranty about the reliability of the Services or the security of user data, despite best efforts,\" and that the Service is provided \"as is\" and \"as available.\" That paragraph is gone. In its place: \"The Company reserves the right, at its sole discretion, to modify, suspend, or discontinue any of our Services, or any feature or component thereof, with or without notice to you.\" Proton says it \"will endeavor to provide reasonable advance notice of a material discontinuation\" where practicable, but \"has no obligation to provide such notice, and is not liable to you or any third party\" for any modification, suspension, or discontinuation, to the extent the law allows. The terms cover Proton Mail, Calendar, Drive, VPN, Pass, Meet, and Docs. Nothing else in the document changed, including the liability cap of $100 or the amount you paid.",
+    "who": "Proton Mail, Drive, VPN, Pass, and other Proton users, especially paid subscribers and anyone who relies on a specific Proton app or feature",
+    "url": "https://proton.me/legal/terms",
+    "seo_title": "Proton terms update (Oct 9, 2026): Proton can discontinue services or features with or without notice",
+    "seo_desc": "Proton's Oct 9, 2026 Terms of Service add a clause letting it modify, suspend, or discontinue any service or feature with or without notice, and drop its old 'as is' warranty paragraph."
   }
 ]

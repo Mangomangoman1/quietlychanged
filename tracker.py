@@ -26,13 +26,26 @@ def extract(html):
         lines.append(DATE.sub("<DATE>", ln))
     return "\n".join(lines)
 
+def extract_pdf(data):
+    """PDF -> text via poppler's pdftotext, with the same line filtering as HTML pages."""
+    import subprocess, tempfile
+    with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
+        f.write(data); f.flush()
+        raw = subprocess.run(["pdftotext", "-q", f.name, "-"], capture_output=True, timeout=60).stdout.decode("utf-8", "ignore")
+    lines = []
+    for ln in raw.splitlines():
+        ln = re.sub(r"\s+", " ", ln).strip()
+        if len(ln) < 3 or any(p.search(ln) for p in NOISE) or re.fullmatch(r"\d{1,3}", ln): continue
+        lines.append(DATE.sub("<DATE>", ln))
+    return "\n".join(lines)
+
 def fetch(job):
     svc, kind, url = job
     try:
         r = requests.get(url, headers=UA, timeout=25)
         if r.status_code != 200: return job, None, f"HTTP {r.status_code}"
-        if "pdf" in r.headers.get("content-type",""): return job, None, "PDF (unsupported)"
-        txt = extract(r.text)
+        is_pdf = "pdf" in r.headers.get("content-type","") or r.content[:5] == b"%PDF-"
+        txt = extract_pdf(r.content) if is_pdf else extract(r.text)
         if len(txt) < 300: return job, None, f"too little text ({len(txt)} chars; JS-rendered or bot wall)"
         return job, txt, None
     except Exception as e: return job, None, type(e).__name__
