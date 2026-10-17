@@ -66,7 +66,7 @@ def nice(d): return datetime.date.fromisoformat(d).strftime("%B %-d, %Y")
 def page(fn, title, body, desc=TAG, depth=0, ld=None, otype="website", lastmod=None, crumbs=None):
     p = "../"*depth; url = f"{SITE}/{fn}".replace("/index.html","/")
     PAGES.append((url, lastmod))
-    lds = [ORG] + ([ld] if ld else [])
+    lds = [ORG] + (ld if isinstance(ld,list) else [ld] if ld else [])
     if crumbs: lds.append({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":i+1,"name":n,"item":u} for i,(n,u) in enumerate(crumbs+[(title,url)])]})
     ldh = "".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)
     nav = "".join(f'<li><a href="{p}{h}"{" aria-current=page" if fn==h else ""}>{t}</a></li>' for h,t in NAV)
@@ -181,6 +181,31 @@ for d in days:
         ARTS.append((d,c,t))
 
 # ---- evergreen category hubs (price / terms / privacy changes) ----
+# ---- sourced US price histories (price_history.json) ----
+PH = {k:v for k,v in json.loads((R/"price_history.json").read_text()).items() if not k.startswith("_")} if (R/"price_history.json").exists() else {}
+def _pd(x): return datetime.date.fromisoformat(x).strftime("%b %-d, %Y") if len(x)==10 else datetime.date.fromisoformat(x+"-01").strftime("%b %Y")
+def _cur(rows): return rows[-1][1]
+def ph_section(k, h):
+    first_year = min(r[0][:4] for rows in h["plans"].values() for r in rows)
+    tabs = ""
+    for plan, rows in h["plans"].items():
+        tr = "".join(f'<tr><td><time datetime="{d}">{_pd(d)}</time></td><td>${p:.2f}</td><td>{"Launch" if i==0 else f"+${p-rows[i-1][1]:.2f} ({(p/rows[i-1][1]-1)*100:.0f}%)"}</td></tr>' for i,(d,p) in enumerate(rows))
+        tabs += f'<h3>{E(k)} {E(plan)}</h3><table><thead><tr><th scope="col">Effective</th><th scope="col">Price / month</th><th scope="col">Change</th></tr></thead><tbody>{tr}</tbody></table>'
+    now = "".join(f'<li><strong>{E(pl)}</strong>: ${_cur(r):.2f}/month</li>' for pl,r in h["plans"].items() if "discontinued" not in pl)
+    L = h["latest"]; fl = h["plans"][h["flagship"]]
+    notes = "".join(f"<li>{E(n)}</li>" for n in h.get("notes",[]))
+    srcs = "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n,u in h["sources"])
+    html_ = (f'<h2 id="price-history">{E(k)} price history (US, {first_year} to {h["verified"][:4]})</h2><p>{E(h["intro"])}</p>'
+             f'<h3>What {E(k)} costs now</h3><ul>{now}</ul><p class="note"><strong>Latest change</strong>On {_pd(L["date"])}, {E(L["what"])} (<a href="{E(L["source"])}">{E(L["source_name"])}</a>)</p>'
+             f'{tabs}' + (f'<ul class="meta">{notes}</ul>' if notes else "") +
+             f'<p class="meta">US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified {nice(h["verified"])}. Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="meta">{srcs}</ul>')
+    pct = (fl[-1][1]/fl[0][1]-1)*100
+    faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is ${_cur(r):.2f}" for pl,r in h["plans"].items() if "discontinued" not in pl) + "."),
+           (f"When did {k} last raise prices?", f"On {_pd(L['date'])}: {L['what']}"),
+           (f"How much has {k} gone up?", f"{k} {h['flagship']} went from ${fl[0][1]:.2f} {"on" if len(fl[0][0])==10 else "in"} {_pd(fl[0][0])} to ${fl[-1][1]:.2f}, an increase of {pct:.0f}% across {len(fl)-1} price changes.")]
+    html_ += '<h3>Quick answers</h3>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(a)}</p>" for q,a in faq)
+    ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faq]}
+    return html_, ld, pct, fl
 HUBS = {
  "pricing": ("Subscription price increases & pricing changes in {Y} (tracker)", "Every price increase, new fee, plan limit, and pricing-page change QuietlyChanged has detected at popular subscriptions and apps in {Y}, dated and linked to the source.",
              "Price hikes rarely come with a press release. They show up as a new number on a pricing page, a fee line on a support page, or a plan that quietly loses a feature. This page collects every pricing change our daily check has caught, newest first, with the date we saw it and a link to the source."),
@@ -214,7 +239,7 @@ for k,(tt,dd,lede) in HUBS.items():
     nlog = f'{len(items)} change{"s"*(len(items)!=1)} logged'
     body = (f'<p class="kicker">{tag(k)} Tracker</p><h1>{E(tt)}</h1><p class="meta">{nlog} · Updated <time datetime="{lm}">{nice(lm)}</time></p>'
             f'<p class="lede">{E(lede)}</p>{sec}'
-            f'<h2>Services we check for {short.lower()}</h2><p>{len(tracked)} services, checked every morning: {tl}</p>'
+            + (f'<h2>Price history by service</h2><p>Full US price histories, every increase with dates and sources: ' + ' · '.join(f'<a href="../services/{slug(n)}/#price-history">{E(n)} price history</a>' for n in PH) + '</p>' if k=='pricing' and PH else '') + f'<h2>Services we check for {short.lower()}</h2><p>{len(tracked)} services, checked every morning: {tl}</p>'
             f'<h2>More trackers</h2><p>{other} · <a href="../archive.html">Daily reports</a> · <a href="../about.html">How we detect changes</a></p>')
     (D/fn).mkdir(parents=True, exist_ok=True)
     (D/fn/"index.html").write_text(page(fn+"index.html", tt, body, desc=dd, depth=1, ld=ld, lastmod=lm, crumbs=[("Home",SITE+"/")]))
@@ -238,17 +263,21 @@ for k, v in s.items():
     _w = [{"pricing":"price","terms":"terms","privacy":"privacy policy"}[p] for p in v]
     kinds = _w[0] if len(_w)==1 else ", ".join(_w[:-1]) + " & " + _w[-1]
     title = f"{k} {kinds} changes (history)"
+    phtml, phld, phpct, phfl = ph_section(k, PH[k]) if k in PH else ("", None, 0, None)
+    if k in PH:
+        title = f"{k} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
     srcs = "".join(f'<li>{tag(p)} <a href="{E(u)}">{E(u)}</a></li>' for p,u in v.items())
     cl = "".join(f'<li><article class="card"><div>{tag(c.get("page","terms"))}</div><h3><a href="../../changes/{c['_art']}/">{E(c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="{E(c["url"])}">Source →</a></div></article></li>' for d,c in log)
     cl = f'<ul class="cards">{cl}</ul>' if cl else f'<p class="empty">No changes detected since tracking began on {nice(first)}. This page updates automatically when {E(k)} changes a tracked page.</p>'
     others = sorted(s, key=str.lower); i = others.index(k); nb = [others[(i+j)%len(others)] for j in (-1,1)]
     desc = f"A dated history of every change {k} makes to its {kinds} pages, checked daily by QuietlyChanged. Last checked {nice(last)}."
+    if k in PH: desc = f"Every {k} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from ${phfl[0][1]:.2f} to ${phfl[-1][1]:.2f} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
     ld = {"@context":"https://schema.org","@type":"WebPage","name":title,"url":f"{SITE}/services/{sl}/","dateModified":last,"publisher":ORG,"about":{"@type":"Organization","name":k}}
     body = f'''<p class="kicker">Service history</p><h1>{E(title)}</h1><p class="meta">Tracked since <time datetime="{first}">{nice(first)}</time> · Last snapshot <time datetime="{last}">{nice(last)}</time></p>
 <p class="lede">QuietlyChanged checks {E(k)}'s public {kinds} pages every day and records what changes, in plain English.</p>
-<h2>Pages we monitor</h2><ul>{srcs}</ul><h2>Changelog</h2>{cl}
+{phtml}<h2>Pages we monitor</h2><ul>{srcs}</ul><h2>Changelog</h2>{cl}
 <h2>Related</h2><p><a href="../{slug(nb[0])}/">{E(nb[0])}</a> · <a href="../{slug(nb[1])}/">{E(nb[1])}</a> · <a href="../../services.html">All tracked services</a> · <a href="../../about.html">How it works</a></p>'''
-    (D/"services"/sl/"index.html").write_text(page(f"services/{sl}/index.html", title, body, desc=desc, depth=2, ld=ld, lastmod=max([last]+[c.get("modified",d) for d,c in log]), crumbs=[("Home",SITE+"/"),("What we track",SITE+"/services.html")]))
+    (D/"services"/sl/"index.html").write_text(page(f"services/{sl}/index.html", title, body, desc=desc, depth=2, ld=([ld, phld] if phld else ld), lastmod=max([last]+[c.get("modified",d) for d,c in log]+([PH[k]["verified"]] if k in PH else [])), crumbs=[("Home",SITE+"/"),("What we track",SITE+"/services.html")]))
 # ---- sitemap / robots ----
 (D/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{u}</loc><lastmod>{m}</lastmod></url>" for u,m in {u:(m or TODAY) for u,m in PAGES}.items()) + "</urlset>")
 (D/"robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
@@ -268,6 +297,7 @@ if INDEXNOW_KEY:
             ping.append(f"{SITE}/")
         ping.append(f"{SITE}/feed.xml")
         ping += [f"{SITE}/{h[0]}" for h in HUB_FOR.values()]
+        ping += [f"{SITE}/services/{slug(n)}/" for n in PH]
         ping = list(dict.fromkeys(ping))
         body = json.dumps({"host":"quietlychanged.com","key":INDEXNOW_KEY,"keyLocation":f"{SITE}/{INDEXNOW_KEY}.txt","urlList":ping}).encode()
         req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type":"application/json; charset=utf-8"}, method="POST")
