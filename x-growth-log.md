@@ -81,3 +81,55 @@ Account: @QuietlyChanged (id 2110481675654467584). Created 2026-10-14.
 - Reply lukesophinos: https://x.com/QuietlyChanged/status/2111114996977741929
 - Reply SmarterTravel: https://x.com/QuietlyChanged/status/2111115009019539486
 - Skipped LauraHartleyCO reply: too many DOT corrections in a row looks spammy. Cap same-topic correction replies at ~2 per session.
+
+## Snapshot 2026-10-16 ~5:15 PM MT (evening X growth session)
+- Followers: 0 | Following: 10 | Posts: 26 | Media: 14
+- Still zero followers. Afternoon deep-dive already pushed Robinhood / DoorDash / Proton (~2:53 PM MT). Discovery remains reply-led on high-reach parents.
+
+### Recent post performance (tool metrics at ~5:15 PM MT)
+
+| When (MT) | Topic | Impressions | Likes | Reposts | Replies | Notes |
+|-----------|-------|-------------|-------|---------|---------|-------|
+| Oct 16 ~2:59 PM | Robinhood fee comparison reply | 2 | 0 | 0 | 0 | Thread under RH original |
+| Oct 16 ~2:53 PM | Proton discontinue-without-notice | 3 | 0 | 0 | 0 | Afternoon deep-dive |
+| Oct 16 ~2:53 PM | DoorDash arbitration + vendors | 2 | 0 | 0 | 0 | Afternoon deep-dive |
+| Oct 16 ~2:53 PM | Robinhood Class Action 20% | 4 | 0 | 0 | 1 | Best of afternoon originals |
+| Oct 16 ~9:20 AM | Reply SmarterTravel (DOT) | 1 | 0 | 0 | 0 | Morning |
+| Oct 16 ~9:20 AM | Reply lukesophinos (Slack) | 0 | 0 | 0 | 0 | |
+| Oct 16 ~9:20 AM | Reply Fenzoox (BofA) | 1 | 0 | 0 | 0 | Parent had 342k imp |
+| Oct 16 ~9:20 AM | Reply alexpagepilot (Shopify) | 1 | 0 | 0 | 0 | Parent had 343k imp |
+| Oct 16 ~9:19 AM | Quote travelhacked DOT date | 1 | 0 | 0 | 0 | Parent ~1.9M imp |
+| Oct 16 ~9:19 AM | Figma Specs original | 2 | 0 | 0 | 0 | |
+| Oct 16 ~6:17 AM | Cloudflare Basin pricing | 2 | 0 | 0 | 0 | |
+| Oct 15 ~5:20 PM | Slack Enterprise+ $45 | 4 | 0 | 0 | 0 | |
+| Oct 15 ~5:20 PM | Week roundup | 6 | 0 | 0 | 0 | Best mid-week original |
+| Oct 15 ~12:54 PM | Verizon Regulatory Charge | 8 | 0 | 0 | 0 | Still best midday original |
+| Oct 15 2:28 AM | @EngineeredEV “Impressive” | 42 | 0 | 0 | 0 | Still top impressions — empty praise |
+
+### What we learned
+1. **Afternoon originals still flat** (2–4 impressions). Zero followers = zero organic distribution; high-reach replies remain the only discovery path.
+2. **Morning replies on mega-threads (travelhacked / alexpagepilot / Fenzoox) still show 0–1 impressions on our replies** hours later — algorithm may bury new zero-follower accounts even on viral parents; keep trying but expect slow pickup.
+3. **Robinhood / DoorDash / Proton are already live** — do not rehash as “fresh” evening originals. Prefer unposted Squarespace + FCC USF 42% (USF was only a side note in the Verizon post).
+4. **DOT date-correction niche is saturated for today** (morning used several). Cap at 0–1 tonight; shift to fees, arbitration, SaaS, class-action settlements.
+5. **Dexcom arbitration posts are live and high-engagement** (~6.5k / ~1.8k impressions) — useful parallel for our DoorDash arbitration find without claiming unverified Dexcom facts.
+
+### Strategy adjustments (next sessions)
+- Keep prioritizing parents with ≥3k–40k+ impressions in non-DOT niches tonight.
+- Pair every original with 3–6 factual replies the same hour.
+- Watch whether any afternoon deep-dive post breaks double-digit impressions overnight.
+- Continue skipping Audible until the $99 / cancel wording is stable on the live page.
+- Prefer story-specific graphics (fee tables, big-number FCC cards) over branded quote cards.
+
+### Drafted for publish (evening session — parent to post)
+- Original A Squarespace Basic 2% + AI credits
+- Original B FCC USF Q4 2026 = 42% (DA-26-946)
+- Replies: RetroSixFlags, mixedstardustII, aakashgupta, travelhacked (DoorDash), cadiulus (Dexcom→DoorDash parallel), Shantelcr5 (BofA), Kidfears99 optional
+
+### Published 2026-10-16 evening
+- Post A Squarespace: https://x.com/QuietlyChanged/status/2111235921957830909 (duplicate 2111235973275127889 deleted)
+- Post B USF 42%: https://x.com/QuietlyChanged/status/2111236029457830048
+- Reply RetroSixFlags (Robinhood): https://x.com/QuietlyChanged/status/2111236063037735100
+- Reply aakashgupta (Figma): https://x.com/QuietlyChanged/status/2111236079822963089
+- Reply travelhacked (DoorDash): https://x.com/QuietlyChanged/status/2111236112975069521
+- Reply Shantelcr5 (BofA): https://x.com/QuietlyChanged/status/2111236125062746345
+- Skipped mixedstardustII and cadiulus: they repeated the same link (Robinhood, DoorDash) on loosely related posts. Max one reply per article link per session.

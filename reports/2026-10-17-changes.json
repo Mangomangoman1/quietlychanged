@@ -1,0 +1,20 @@
+[
+  {
+    "service": "Google",
+    "page": "privacy",
+    "headline": "Gmail, Photos and Drive data you share with Search or Gemini can now shape ads",
+    "what": "Google's privacy policy now reads \"Effective October 16, 2026.\" It used to say flatly: \"We don't show you personalized ads based on your content from Drive, Gmail, or Photos.\" That line now ends \"unless you choose to make data from these services available to other Google services that support personalized ads.\" A new passage says you \"may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive,\" and that \"Search may process some of the data that you allow Search to access to personalize content, including ads.\" Personalized ads are now described as based on \"your interests, activity, or personalized content from Google services.\" The policy also adds a definition tied to features such as \"Personal Intelligence,\" with the example of Search using hotel booking details from an email to suggest things to do nearby. The access is opt-in: the policy frames it as something you choose to allow, subject to each service's own settings.",
+    "who": "Anyone with a Google account who turns on, or is offered, features that let Search or Gemini read Gmail, Google Photos, or Drive, such as Personal Intelligence",
+    "url": "https://policies.google.com/privacy?hl=en",
+    "seo_title": "Google privacy policy (Oct 16, 2026): Gmail, Photos and Drive data shared with Search or Gemini can personalize ads",
+    "seo_desc": "Google's Oct 16, 2026 privacy policy drops its flat promise not to use Gmail, Drive or Photos content for ads: if you let Search or Gemini access that data, it can personalize content, including ads."
+  },
+  {
+    "service": "GitHub",
+    "page": "pricing",
+    "headline": "AI secret detection now covers push protection, billed by usage",
+    "what": "In the GitHub Secret Protection section of GitHub's pricing page, the \"Copilot secret scanning\" row is renamed \"AI detection for alerts\" (\"Use AI to detect unstructured secrets, like passwords, in existing code\"). A new row, \"AI detection for push protection,\" uses AI to \"detect unstructured secrets, like passwords, and block pushes that contain them,\" and is listed as \"Usage-based\" rather than included in the plan price.",
+    "who": "Teams paying for GitHub Secret Protection, especially admins who want AI-based password detection to block pushes and need to budget for usage charges",
+    "url": "https://github.com/pricing"
+  }
+]
