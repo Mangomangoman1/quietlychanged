@@ -237,5 +237,11 @@
   "Robinhood": {
     "terms": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
     "pricing": "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  },
+  "Oura": {
+    "terms": "https://ouraring.com/terms-and-conditions"
+  },
+  "Rocket Money": {
+    "terms": "https://www.rocketmoney.com/terms"
   }
 }
