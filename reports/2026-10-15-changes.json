@@ -17,7 +17,8 @@
     "who": "Organizations evaluating or negotiating Slack Enterprise+ plans",
     "url": "https://slack.com/pricing",
     "seo_title": "Slack Enterprise+ price is now public: $45 per user per month (annual)",
-    "seo_desc": "Slack's pricing page now lists Enterprise+ at $45 per user per month billed annually, replacing the old 'Contact sales for pricing' line."
+    "seo_desc": "Slack's pricing page now lists Enterprise+ at $45 per user per month billed annually, replacing the old 'Contact sales for pricing' line.",
+    "note": "Update (Oct 18, 2026): on Oct 18, Slack's pricing page alternated between showing the $45 Enterprise+ price and \"Contact sales for pricing\" across repeated checks, so the public price appears to be shown to some visitors and not others."
   },
   {
     "service": "Anthropic Claude",
