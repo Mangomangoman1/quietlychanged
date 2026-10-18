@@ -1,15 +1,13 @@
 # X posts prepared 2026-10-18 (DO NOT POST from deep-dive session)
 
-## Evernote
-Evernote quietly rewrote its Terms (Oct 1). If you signed up before then, they hit Dec 1.
+X counts each https URL as 23 characters. Weighted length must be ≤280.
 
-Your contract moves to an Italian Bending Spoons affiliate. Brazil users lose Brazilian law and get arbitration. Buried line: you can't use Evernote as a password manager or to store sensitive financial info.
+## Evernote (182 weighted chars)
+Evernote Terms (Oct 1) hit older accounts Dec 1: contract → Italian Bending Spoons affiliate; Brazil gets arbitration; can't use notes as a password manager.
 
 https://quietlychanged.com/changes/2026-10-18-evernote-contract-moves-to-italian-affiliate-dec-1-brazil-users-lose-local-law/
 
-## Roblox
-From Nov 1, Roblox's Terms say you're buying from Roblox — not from the creator — for most platform purchases. "Principal distributor and merchant of record."
-
-Parents must accept the update for kids under 18. EEA users get a withdrawal right.
+## Roblox (154 weighted chars)
+From Nov 1, Roblox says you buy from Roblox—not creators—for most purchases ("merchant of record"). Parents must accept for kids.
 
 https://quietlychanged.com/changes/2026-10-18-roblox-from-nov-1-roblox-says-it-is-merchant-of-record-for-most-platform-purcha/
