@@ -8,5 +8,25 @@
     "url": "https://www.wix.com/plans",
     "seo_title": "Wix plans now list AI agents, donations and fundraising, and a rental platform",
     "seo_desc": "Wix's plan comparison added three features on Oct 18, 2026: AI agents and tools, donations and fundraising, and a rental platform. Prices did not change."
+  },
+  {
+    "service": "Evernote",
+    "page": "terms",
+    "headline": "Contract moves to Italian affiliate Dec 1; Brazil users lose local law and get arbitration; no password-manager use",
+    "what": "Evernote posted Terms of Service dated \"Last update: October 1, 2026,\" replacing the January 1, 2026 version. An Evernote help article updated the same day says that if you signed up before October 1, 2026, the changes take effect on December 1, 2026; for everyone else they are already in force. The help article's main points: your contract transfers to Bending Spoons Operations S.p.A., an Italian company in Milan; legal terms now come in two versions (EEA/UK/Switzerland vs everywhere else, with Evernote Enterprise always on the second); Brazil users no longer contract with Evernote do Brasil or use Brazilian law, and instead get the non-EEA terms \"including their governing law and arbitration agreement\"; EEA/UK/Switzerland users get Italian law and no arbitration agreement; software license terms are folded into the Terms of Service; Evernote Points are no longer issued. The live Terms also add an AI clause: what you provide to AI features, and the results, are yours, and \"We do not use what you provide to, or receive from, those features to train artificial intelligence models or tools.\" Buried in the conduct rules is a new ban that was not in the January 1, 2026 Terms: \"you will not use the Evernote Service to back up your hard drive or to store or archive files\" and \"you will not use the Evernote Service as a password manager or to store sensitive financial information.\" The Terms also newly say Evernote \"may use human and automated means to screen, monitor, and detect Content\" that may be unlawful or violate the Terms. Coverage: no news articles found; only Evernote's own help page.",
+    "who": "Anyone with an Evernote account created before Oct 1, 2026 (changes hit Dec 1), new sign-ups already under the new terms, Brazilians who lose Brazilian law and pick up arbitration, and anyone who has been storing passwords or sensitive financial details in notes",
+    "url": "https://evernote.com/legal/terms-of-service",
+    "seo_title": "Evernote terms (Dec 1, 2026 for existing users): Italian affiliate, Brazil arbitration, no password-manager use",
+    "seo_desc": "Evernote's Oct 1, 2026 Terms take effect Dec 1 for older accounts. Contract moves to Bending Spoons Operations in Milan. Brazil users get arbitration. Notes can't be used as a password manager."
+  },
+  {
+    "service": "Roblox",
+    "page": "terms",
+    "headline": "From Nov 1, Roblox says it is merchant of record for most platform purchases; parents must accept for minors",
+    "what": "Roblox's Terms of Use now carry \"Effective Date: November 1, 2026.\" A Roblox Support article and an Oct 1 Developer Forum post say the update simplifies wording, and clarifies that \"Roblox acts as the principal distributor and merchant of record for purchases made through Roblox,\" so \"when you access or purchase any content on the Roblox Platform, you are obtaining the content from Roblox\" and \"Users and Creators do not enter into a direct transaction with each other for those purchases,\" with related clarifications on Robux, payments, tax, and Creator payment. EEA users get a consumer right of withdrawal. The User Terms state that for U.S. and Canadian residents (except Quebec), disputes go through mandatory informal dispute resolution and then binding individual arbitration with a class action waiver; minors need a parent or legal guardian to accept the updated terms to keep using Roblox. The published terms also add a dedicated AI Features section: Outputs may be wrong, and creators' license to Roblox includes use \"in connection with developing, improving, or training any AI or machine learning models\" (language that already appeared in an earlier draft capture). Niche coverage: an Oct 8 blog post focused on a viral VPN-ban rumor; Roblox's own DevForum and Support pages are the primary sources. No major news outlet found covering the merchant-of-record change.",
+    "who": "Roblox players who buy Robux or paid items, parents of players under 18 who must accept the new terms, and creators whose sales run through Roblox as merchant of record (with exceptions such as Creator Store fiat sales)",
+    "url": "https://en.help.roblox.com/hc/en-us/articles/14663412502676-Roblox-is-Updating-our-Terms-of-Use",
+    "seo_title": "Roblox terms (Nov 1, 2026): Roblox is merchant of record for most purchases; parents must accept for kids",
+    "seo_desc": "From Nov 1, 2026, Roblox says you buy content from Roblox, not from creators, for most platform purchases. Parents must accept the updated terms for minors. EEA users get a withdrawal right."
   }
 ]
