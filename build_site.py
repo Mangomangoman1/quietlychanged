@@ -44,6 +44,7 @@ h1{font-size:clamp(1.7rem,4.5vw,2.3rem);margin:.2rem 0 .6rem}h2{font-size:1.4rem
 .filters input{flex:1 1 14rem;font:1rem var(--sans);padding:.6rem .7rem;border:1px solid #8a8780;border-radius:2px;background:#fff}
 .filters button{font:600 .8rem var(--sans);padding:.5rem .8rem;border:1px solid var(--ink);background:#fff;color:var(--ink);border-radius:2px;cursor:pointer}
 .filters button[aria-pressed=true]{background:var(--ink);color:#fff}
+.tablewrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
 table{width:100%;border-collapse:collapse;font:.92rem/1.45 var(--sans);background:var(--card)}
 th,td{text-align:left;padding:.6rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}th{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
 .archive{list-style:none;padding:0;font-family:var(--sans)}.archive li{display:flex;justify-content:space-between;gap:1rem;padding:.7rem 0;border-bottom:1px solid var(--rule)}
@@ -80,7 +81,7 @@ def page(fn, title, body, desc=TAG, depth=0, ld=None, otype="website", lastmod=N
 <div class="wrap"><a class="brand" href="{p}index.html"><b>Quietly<i>Changed</i></b></a><p class="tagline">{TAG}</p>
 <nav class="main" aria-label="Main"><ul>{nav}</ul></nav></div></header>
 <main id="main"><div class="wrap">{body}</div></main>
-<footer><div class="wrap"><nav aria-label="Footer"><a href="{p}about.html">How it works</a><a href="{p}archive.html">Archive</a><a href="{p}services.html">Tracked services</a><a href="{p}price-changes/">Price changes</a><a href="{p}terms-of-service-changes/">Terms changes</a><a href="{p}privacy-policy-changes/">Privacy changes</a><a href="{p}feed.xml">Feed</a></nav>
+<footer><div class="wrap"><nav aria-label="Footer"><a href="{p}about.html">How it works</a><a href="{p}archive.html">Archive</a><a href="{p}services.html">Tracked services</a><a href="{p}price-changes/">Price changes</a><a href="{p}subscription-price-history/">Price history</a><a href="{p}terms-of-service-changes/">Terms changes</a><a href="{p}privacy-policy-changes/">Privacy changes</a><a href="{p}feed.xml">Feed</a></nav>
 <p>QuietlyChanged is an independent project. We snapshot public pages daily and summarize the differences. Always check the linked source; summaries are not legal advice.</p><p>© {TODAY[:4]} QuietlyChanged</p></div></footer></body></html>'''
 
 def md(t):
@@ -132,7 +133,7 @@ for d in days:
 if days:
     L = days[-1]
     WEB = {"@context":"https://schema.org","@type":"WebSite","name":"QuietlyChanged","url":SITE+"/","description":TAG}
-    (D/"index.html").write_text(page("index.html","Latest", ld=WEB, lastmod=L, body= day_body(L, R/"reports"/f"{L}-summary.md", data[L]).replace('href="../','href="') + f'<p class="meta"><a href="reports/{L}.html">Permalink</a> · <a href="archive.html">Earlier reports</a></p><h2>Browse by type</h2><p><a href="price-changes/">Price increases and pricing changes</a> · <a href="terms-of-service-changes/">Terms of service changes</a> · <a href="privacy-policy-changes/">Privacy policy changes</a></p>'))
+    (D/"index.html").write_text(page("index.html","Latest", ld=WEB, lastmod=L, body= day_body(L, R/"reports"/f"{L}-summary.md", data[L]).replace('href="../','href="') + f'<p class="meta"><a href="reports/{L}.html">Permalink</a> · <a href="archive.html">Earlier reports</a></p><h2>Browse by type</h2><p><a href="price-changes/">Price increases and pricing changes</a> · <a href="subscription-price-history/">Streaming and subscription price history compared</a> · <a href="terms-of-service-changes/">Terms of service changes</a> · <a href="privacy-policy-changes/">Privacy policy changes</a></p>'))
 arch = "".join(f'<li><a href="reports/{d}.html">{nice(d)}</a><span class="n">{len(data[d])} change{"s"*(len(data[d])!=1)}</span></li>' for d in reversed(days))
 (D/"archive.html").write_text(page("archive.html","Archive", lastmod=(days or [TODAY])[-1], desc="Archive of every QuietlyChanged daily report on pricing, terms of service, and privacy policy changes, by date.", body= f'<p class="kicker">Archive</p><h1>Every report, by date</h1><ul class="archive">{arch}</ul>'))
 s = json.loads((R/"services.json").read_text())
@@ -185,24 +186,29 @@ for d in days:
 PH = {k:v for k,v in json.loads((R/"price_history.json").read_text()).items() if not k.startswith("_")} if (R/"price_history.json").exists() else {}
 def _pd(x): return datetime.date.fromisoformat(x).strftime("%b %-d, %Y") if len(x)==10 else datetime.date.fromisoformat(x+"-01").strftime("%b %Y")
 def _cur(rows): return rows[-1][1]
+def _chg(p,q):
+    dlt=p-q; sg="+" if dlt>=0 else "−"; return f"{sg}${abs(dlt):.2f} ({sg}{abs(p/q-1)*100:.0f}%)"
+def _u(h,pl): return h.get("units",{}).get(pl,"month")
+def _amt(h,pl,p): return f"${p:.2f}/{_u(h,pl)}" if p!=int(p) or _u(h,pl)=="month" else f"${p:.0f}/{_u(h,pl)}"
 def ph_section(k, h):
+    k = h.get("name", k)
     first_year = min(r[0][:4] for rows in h["plans"].values() for r in rows)
     tabs = ""
     for plan, rows in h["plans"].items():
-        tr = "".join(f'<tr><td><time datetime="{d}">{_pd(d)}</time></td><td>${p:.2f}</td><td>{"Launch" if i==0 else f"+${p-rows[i-1][1]:.2f} ({(p/rows[i-1][1]-1)*100:.0f}%)"}</td></tr>' for i,(d,p) in enumerate(rows))
-        tabs += f'<h3>{E(k)} {E(plan)}</h3><table><thead><tr><th scope="col">Effective</th><th scope="col">Price / month</th><th scope="col">Change</th></tr></thead><tbody>{tr}</tbody></table>'
-    now = "".join(f'<li><strong>{E(pl)}</strong>: ${_cur(r):.2f}/month</li>' for pl,r in h["plans"].items() if "discontinued" not in pl)
+        tr = "".join(f'<tr><td><time datetime="{d}">{_pd(d)}</time></td><td>{_amt(h,plan,p).split("/")[0]}</td><td>{"Launch" if i==0 else _chg(p,rows[i-1][1])}</td></tr>' for i,(d,p) in enumerate(rows))
+        tabs += f'<h3>{E(k)} {E(plan)}</h3><table><thead><tr><th scope="col">Effective</th><th scope="col">Price / {_u(h,plan)}</th><th scope="col">Change</th></tr></thead><tbody>{tr}</tbody></table>'
+    now = "".join(f'<li><strong>{E(pl)}</strong>: {_amt(h,pl,_cur(r))}</li>' for pl,r in h["plans"].items() if "discontinued" not in pl)
     L = h["latest"]; fl = h["plans"][h["flagship"]]
     notes = "".join(f"<li>{E(n)}</li>" for n in h.get("notes",[]))
     srcs = "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n,u in h["sources"])
     html_ = (f'<h2 id="price-history">{E(k)} price history (US, {first_year} to {h["verified"][:4]})</h2><p>{E(h["intro"])}</p>'
              f'<h3>What {E(k)} costs now</h3><ul>{now}</ul><p class="note"><strong>Latest change</strong>On {_pd(L["date"])}, {E(L["what"])} (<a href="{E(L["source"])}">{E(L["source_name"])}</a>)</p>'
              f'{tabs}' + (f'<ul class="meta">{notes}</ul>' if notes else "") +
-             f'<p class="meta">US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified {nice(h["verified"])}. Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="meta">{srcs}</ul>')
+             f'<p class="meta">US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified {nice(h["verified"])}. Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="meta">{srcs}</ul><p><a href="../../subscription-price-history/">Compare {E(k)} with other streaming and subscription price increases</a></p>')
     pct = (fl[-1][1]/fl[0][1]-1)*100
-    faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is ${_cur(r):.2f}" for pl,r in h["plans"].items() if "discontinued" not in pl) + "."),
+    faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is {_amt(h,pl,_cur(r))}" for pl,r in h["plans"].items() if "discontinued" not in pl) + "."),
            (f"When did {k} last raise prices?", f"On {_pd(L['date'])}: {L['what']}"),
-           (f"How much has {k} gone up?", f"{k} {h['flagship']} went from ${fl[0][1]:.2f} {"on" if len(fl[0][0])==10 else "in"} {_pd(fl[0][0])} to ${fl[-1][1]:.2f}, an increase of {pct:.0f}% across {len(fl)-1} price changes.")]
+           (f"How much has {k} gone up?", f"{k} {h['flagship']} went from {_amt(h,h['flagship'],fl[0][1])} {"on" if len(fl[0][0])==10 else "in"} {_pd(fl[0][0])} to {_amt(h,h['flagship'],fl[-1][1])}, an increase of {pct:.0f}% across {len(fl)-1} price changes.")]
     html_ += '<h3>Quick answers</h3>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(a)}</p>" for q,a in faq)
     ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faq]}
     return html_, ld, pct, fl
@@ -239,10 +245,38 @@ for k,(tt,dd,lede) in HUBS.items():
     nlog = f'{len(items)} change{"s"*(len(items)!=1)} logged'
     body = (f'<p class="kicker">{tag(k)} Tracker</p><h1>{E(tt)}</h1><p class="meta">{nlog} · Updated <time datetime="{lm}">{nice(lm)}</time></p>'
             f'<p class="lede">{E(lede)}</p>{sec}'
-            + (f'<h2>Price history by service</h2><p>Full US price histories, every increase with dates and sources: ' + ' · '.join(f'<a href="../services/{slug(n)}/#price-history">{E(n)} price history</a>' for n in PH) + '</p>' if k=='pricing' and PH else '') + f'<h2>Services we check for {short.lower()}</h2><p>{len(tracked)} services, checked every morning: {tl}</p>'
+            + (f'<h2>Price history by service</h2><p>Full US price histories, every increase with dates and sources: ' + ' · '.join(f'<a href="../services/{slug(n)}/#price-history">{E(PH[n].get("name",n))} price history</a>' for n in PH) + ' · <a href="../subscription-price-history/">All services compared</a></p>' if k=='pricing' and PH else '') + f'<h2>Services we check for {short.lower()}</h2><p>{len(tracked)} services, checked every morning: {tl}</p>'
             f'<h2>More trackers</h2><p>{other} · <a href="../archive.html">Daily reports</a> · <a href="../about.html">How we detect changes</a></p>')
     (D/fn).mkdir(parents=True, exist_ok=True)
     (D/fn/"index.html").write_text(page(fn+"index.html", tt, body, desc=dd, depth=1, ld=ld, lastmod=lm, crumbs=[("Home",SITE+"/")]))
+# ---- comparison page: every sourced price history side by side ----
+if PH:
+    rows=[]
+    for n,h in PH.items():
+        nm=h.get("name",n); fl=h["plans"][h["flagship"]]; pct=(fl[-1][1]/fl[0][1]-1)*100
+        yrs=max(1,int(h["verified"][:4])-int(fl[0][0][:4]))
+        rows.append((pct,n,nm,h,fl,yrs))
+    rows.sort(key=lambda r:-r[0])
+    tr="".join(f'<tr><th scope="row"><a href="../services/{slug(n)}/#price-history">{E(nm)}</a></th><td>{E(h["flagship"])}</td><td>{_amt(h,h["flagship"],fl[0][1])} ({fl[0][0][:4]})</td><td>{_amt(h,h["flagship"],fl[-1][1])}</td><td>+{pct:.0f}%</td><td>{len(fl)-1}</td><td><time datetime="{h["latest"]["date"]}">{_pd(h["latest"]["date"])}</time></td></tr>' for pct,n,nm,h,fl,yrs in rows)
+    lm=max(h["verified"] for h in PH.values())
+    top=rows[0]; recent=sorted(rows,key=lambda r:r[3]["latest"]["date"],reverse=True)
+    tt=f"Streaming & subscription price history compared ({lm[:4]}): {', '.join(r[2] for r in rows[:4])} and more"
+    dd=f"Every US price increase at {len(rows)} major subscriptions side by side: launch price, today's price, total increase and the date of the last hike. {top[2]} {top[3]['flagship']} is up {top[0]:.0f}% since {top[4][0][0][:4]}. Sourced and dated."
+    lede=(f"How much have streaming and subscription prices gone up? This table compares the main US plan at {len(rows)} big subscriptions, from launch price to today, using the same sourced, dated price histories that sit on each service page. "
+          f"The biggest total increase is {top[2]} {top[3]['flagship']}, up {top[0]:.0f}% since {top[4][0][0][:4]}. The most recent increase was {recent[0][2]} on {_pd(recent[0][3]['latest']['date'])}.")
+    lastn="".join(f'<li><strong>{E(r[2])}</strong>, {_pd(r[3]["latest"]["date"])}: {E(r[3]["latest"]["what"])} (<a href="{E(r[3]["latest"]["source"])}">{E(r[3]["latest"]["source_name"])}</a>)</li>' for r in recent)
+    faq=[("Which streaming service has raised prices the most?", f"Of the services compared here, {top[2]} {top[3]['flagship']} has gone up the most: from {_amt(top[3],top[3]['flagship'],top[4][0][1])} in {top[4][0][0][:4]} to {_amt(top[3],top[3]['flagship'],top[4][-1][1])}, a {top[0]:.0f}% increase."),
+         ("Which subscription raised prices most recently?", f"{recent[0][2]}, on {_pd(recent[0][3]['latest']['date'])}. Before that, {recent[1][2]} on {_pd(recent[1][3]['latest']['date'])}."),
+         ("How often do streaming prices go up?", "Most of these services have raised their main plan every one to two years since 2022, often in the summer or fall. Amazon Prime has been the exception, with increases about every four years.")]
+    body=(f'<p class="kicker">Price history</p><h1>{E(tt)}</h1><p class="meta">{len(rows)} services · Last verified <time datetime="{lm}">{nice(lm)}</time></p><p class="lede">{E(lede)}</p>'
+          f'<h2>Price increases compared (US, main plan)</h2><div class="tablewrap"><table><thead><tr><th scope="col">Service</th><th scope="col">Plan</th><th scope="col">Launch price</th><th scope="col">Price now</th><th scope="col">Total increase</th><th scope="col">Increases</th><th scope="col">Last increase</th></tr></thead><tbody>{tr}</tbody></table></div>'
+          f'<p class="meta">US list prices for new subscribers, before tax, not adjusted for inflation. Click a service for every plan, every dated change, and the sources.</p>'
+          f'<h2>Latest increase at each service</h2><ul>{lastn}</ul><h2>Quick answers</h2>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(a)}</p>" for q,a in faq) +
+          f'<h2>More</h2><p><a href="../price-changes/">Every pricing change we detect, as it happens</a> · <a href="../services.html">All tracked services</a> · <a href="../about.html">How we detect changes</a></p>')
+    ld=[{"@context":"https://schema.org","@type":"WebPage","name":tt,"url":f"{SITE}/subscription-price-history/","description":dd,"dateModified":lm,"publisher":ORG},
+        {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faq]}]
+    (D/"subscription-price-history").mkdir(parents=True, exist_ok=True)
+    (D/"subscription-price-history"/"index.html").write_text(page("subscription-price-history/index.html", tt, body, desc=dd, depth=1, ld=ld, lastmod=lm, crumbs=[("Home",SITE+"/"),("Price changes",SITE+"/price-changes/")]))
 # ---- Atom feed: daily reports + change articles (newest first) ----
 entries = []
 for d in days:
@@ -265,13 +299,13 @@ for k, v in s.items():
     title = f"{k} {kinds} changes (history)"
     phtml, phld, phpct, phfl = ph_section(k, PH[k]) if k in PH else ("", None, 0, None)
     if k in PH:
-        title = f"{k} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
+        title = f"{PH[k].get('name',k)} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
     srcs = "".join(f'<li>{tag(p)} <a href="{E(u)}">{E(u)}</a></li>' for p,u in v.items())
     cl = "".join(f'<li><article class="card"><div>{tag(c.get("page","terms"))}</div><h3><a href="../../changes/{c['_art']}/">{E(c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="{E(c["url"])}">Source →</a></div></article></li>' for d,c in log)
     cl = f'<ul class="cards">{cl}</ul>' if cl else f'<p class="empty">No changes detected since tracking began on {nice(first)}. This page updates automatically when {E(k)} changes a tracked page.</p>'
     others = sorted(s, key=str.lower); i = others.index(k); nb = [others[(i+j)%len(others)] for j in (-1,1)]
     desc = f"A dated history of every change {k} makes to its {kinds} pages, checked daily by QuietlyChanged. Last checked {nice(last)}."
-    if k in PH: desc = f"Every {k} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from ${phfl[0][1]:.2f} to ${phfl[-1][1]:.2f} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
+    if k in PH: desc = f"Every {PH[k].get('name',k)} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
     ld = {"@context":"https://schema.org","@type":"WebPage","name":title,"url":f"{SITE}/services/{sl}/","dateModified":last,"publisher":ORG,"about":{"@type":"Organization","name":k}}
     body = f'''<p class="kicker">Service history</p><h1>{E(title)}</h1><p class="meta">Tracked since <time datetime="{first}">{nice(first)}</time> · Last snapshot <time datetime="{last}">{nice(last)}</time></p>
 <p class="lede">QuietlyChanged checks {E(k)}'s public {kinds} pages every day and records what changes, in plain English.</p>
@@ -297,7 +331,7 @@ if INDEXNOW_KEY:
             ping.append(f"{SITE}/")
         ping.append(f"{SITE}/feed.xml")
         ping += [f"{SITE}/{h[0]}" for h in HUB_FOR.values()]
-        ping += [f"{SITE}/services/{slug(n)}/" for n in PH]
+        ping += [f"{SITE}/services/{slug(n)}/" for n in PH] + ([f"{SITE}/subscription-price-history/"] if PH else [])
         ping = list(dict.fromkeys(ping))
         body = json.dumps({"host":"quietlychanged.com","key":INDEXNOW_KEY,"keyLocation":f"{SITE}/{INDEXNOW_KEY}.txt","urlList":ping}).encode()
         req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type":"application/json; charset=utf-8"}, method="POST")
