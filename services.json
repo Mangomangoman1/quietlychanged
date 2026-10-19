@@ -232,7 +232,9 @@
     "terms": "https://www.bankofamerica.com/online-banking/service-agreement.go"
   },
   "Verizon": {
-    "pricing": "https://www.verizon.com/support/surcharges/"
+    "pricing": "https://www.verizon.com/support/surcharges/",
+    "terms": "https://www.verizon.com/support/verizon-dollars-legal/",
+    "privacy": "https://www.verizon.com/about/privacy/full-privacy-policy"
   },
   "Robinhood": {
     "terms": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",

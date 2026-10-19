@@ -8,5 +8,53 @@
     "url": "https://www.shopify.com/pricing",
     "seo_title": "Shopify yearly prices: Grow shows $79 or $89/mo, Advanced $299 or $359/mo (price test)",
     "seo_desc": "Shopify's pricing page is rotating two sets of pay-yearly prices: Grow at $79 or $89/mo and Advanced at $299 or $359/mo. Monthly prices are the same in both versions."
+  },
+  {
+    "service": "USPS",
+    "page": "terms",
+    "headline": "Senders now billed for unpaid foreign duties on packages, even if disputed, with 6% interest",
+    "what": "The U.S. Postal Service published an interim final rule in the Federal Register on October 19, 2026 (FR Doc. 2026-21310, \"Customs Requirements and Payment Procedures for Certain Customs Charges\") that took effect the same day. It rewrites the International Mail Manual so the person who mails a package abroad can be billed later for the destination country's duties, taxes and import fees. A new section 424, \"Unpaid Destination Customs Charges,\" says that if a customs authority, postal operator or broker in the destination country \"seeks to collect duties, taxes, or import fees from the mailer or the Postal Service\" and they \"have not been paid in full, the Postal Service (or its representative) will send an invoice to the mailer for such amounts.\" The mailer \"must pay the Postal Service ... the entire amount due in accordance with the invoice terms, even if the mailer disputes the assessment,\" and is not relieved of the charge \"regardless of whether the item is delivered, lost, damaged, or returned.\" Late payment accrues \"interest ... at a rate of 6 percent per annum,\" and USPS can recover its collection costs and may treat the unpaid amount as a postage revenue deficiency. You can dispute only USPS accounting errors. Any challenge to the foreign charge itself \"must be addressed directly to such party without involvement from the Postal Service,\" and USPS says it \"is not responsible for the accuracy\" of those charges. The rule also says that where a destination country requires a delivered duty paid (DDP) shipment, \"the mailer must send the mailpiece on a delivered duty paid basis,\" and that duties and fees \"are not included in the postage paid by the mailer.\" USPS says the trigger is the European Union ending its de minimis exemption for most low-value goods on July 1, 2026. Under the new EU rules, some EU postal operators require prepaid duties, charge fees when customs data is wrong, or go after the sender when the recipient doesn't pay. USPS's own prepaid-duties page says EU countries now charge a flat, nonrefundable €3 duty on merchandise up to €150 and on gifts worth over €45 up to €150, and that USPS Delivered Duty Paid is built into retail counters and Click-N-Ship. The rule text itself isn't limited to the EU: it applies wherever a destination party seeks unpaid charges. USPS is taking comments until November 18, 2026. Coverage so far: a legal-news summary (LexVira) and one personal-finance blog. We found no major news outlet reporting it.",
+    "who": "Anyone who mails gifts or goods abroad with USPS, especially to EU countries ahead of the holidays; eBay, Etsy and other small sellers who ship internationally through USPS; and senders whose recipients refuse or fail to pay duties on delivery",
+    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21310/customs-requirements-and-payment-procedures-for-certain-customs-charges",
+    "seo_title": "USPS rule (Oct 19, 2026): senders billed for unpaid foreign duties on packages, even if disputed, 6% interest",
+    "seo_desc": "New USPS interim final rule, effective Oct 19, 2026: if foreign duties, taxes or import fees on a package go unpaid, USPS invoices the sender. Pay even if you dispute it, whether the item was delivered, lost or returned. 6% interest if late.",
+    "sources": [
+      [
+        "Federal Register: FR Doc. 2026-21310 (full text)",
+        "https://www.federalregister.gov/documents/full_text/text/2026/10/19/2026-21310.txt"
+      ],
+      [
+        "govinfo.gov copy of the rule",
+        "https://www.govinfo.gov/content/pkg/FR-2026-10-19/html/2026-21310.htm"
+      ],
+      [
+        "USPS: Prepaid Import Duties (EU €3 duty, DDP)",
+        "https://www.usps.com/international/prepaid-import-duties.htm"
+      ]
+    ]
+  },
+  {
+    "service": "Verizon",
+    "page": "privacy",
+    "headline": "$5 a month in Verizon Dollars if you keep Do Not Sell off and let Glance lock-screen ads track you",
+    "what": "Verizon's privacy policy, now marked \"Updated October 2026,\" adds a new paragraph: \"Verizon Wireless customers participating in Verizon Dollars may be offered an opportunity to earn Verizon Dollars through use of the Glance lockscreen app.\" It goes on: \"If you consent, Glance may collect, use and share personal information, including sensitive personal information, as described in the Glance AI privacy policy, for purposes such as delivering interest-based advertising.\" An Open Terms Archive capture first recorded the paragraph on the evening of October 16, 2026 (Mountain time), and the previous version didn't have it. The deal itself is spelled out in section 4, \"Glance Lock screen Rewards,\" of the Verizon Dollars Program terms. Postpaid account owners and managers \"may earn $5 in Verizon Dollars each calendar month by actively engaging with the Glance Platform for at least 60 minutes during that month.\" To qualify, you must grant and keep Glance location access, provide a selfie (or a gallery image or a stock avatar), keep \"Do not sell or share my personal information\" disabled (toggled off), keep \"Limit use or disclosure of my sensitive personal information\" disabled (toggled off), and keep \"Enhanced browsing\" on. On iPhone, you also need three Glance widgets on the Lock Screen and one on the Home Screen, and you can't select \"Ask App Not to Track\" for the Glance AI app. On Android, Glance must be your active lock screen with notification access. Section 10.2 says it plainly: \"Glance requires you to share personal information, including sensitive personal information, which it uses to serve you personalized ads,\" and \"If you stop sharing information with Glance or opt out of sale or sharing or targeted advertising with Glance, you will no longer qualify.\" Verizon calls the program a \"financial incentive under California law\" and a possible \"bona fide loyalty program\" under Colorado law. Those are the legal labels for paying people in exchange for their data. Verizon's FAQ adds that precise location should be set to \"Only while using the app\" and that you must \"Grant permission to use your content for Glance AI features.\" The engagement timer runs only while you actively read, scroll, tap or ask the AI questions. It stops if you go idle, switch apps or turn on \"Do not sell.\" The most you can earn is $60 a year. For anyone without a Verizon Visa Card, Verizon Dollars expire 12 months after they're issued and can't be used as a bill credit; they go toward gift cards, Verizon Store items and devices. The program terms page carries an effective date of June 16, 2026. We couldn't find an archived copy showing when the Glance section was added. To leave, uninstall Glance or delete your account in the Glance app settings. We found no news coverage of the program's data conditions.",
+    "who": "Verizon postpaid account owners and managers enrolled in Verizon Dollars, especially Android users (Samsung, Motorola, TCL, Pixel on Android 13+) whose phones may already have Glance, and iPhone users on iOS 18.4+ invited to the offer in the My Verizon app",
+    "url": "https://www.verizon.com/about/privacy/full-privacy-policy",
+    "seo_title": "Verizon Lock Screen Rewards: $5/month for keeping \"Do not sell or share\" off so Glance can target ads",
+    "seo_desc": "Verizon's privacy policy (Updated October 2026) adds Glance Lock Screen Rewards: $5 in Verizon Dollars a month for 60 minutes of Glance, if you keep Do Not Sell and sensitive-data limits off, share location and a selfie, and allow tracking.",
+    "sources": [
+      [
+        "Verizon Dollars Program terms (section 4, Glance Lock screen Rewards; section 10.2)",
+        "https://www.verizon.com/support/verizon-dollars-legal/"
+      ],
+      [
+        "Verizon: Lock Screen Rewards FAQs",
+        "https://www.verizon.com/support/lock-screen-rewards-faqs/"
+      ],
+      [
+        "Open Terms Archive: Verizon Privacy Policy change recorded Oct 17, 2026 (UTC)",
+        "https://github.com/OpenTermsArchive/contrib-versions/commit/48e238eff1346ef94a787d9359cf898870d45e56"
+      ]
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Builds docs/ (GitHub Pages root). Inputs per day in reports/:
   DATE-summary.md   – intro/lede in light markdown (required)
-  DATE-changes.json – optional list of {"service","page":"pricing|terms|privacy","what","who","url","note?"}
+  DATE-changes.json – optional list of {"service","page":"pricing|terms|privacy","what","who","url","note?","sources?":[[name,url],...]}
 """
 import json, pathlib, html, re, datetime
 R = pathlib.Path(__file__).parent; D = R/"docs"; (D/"reports").mkdir(parents=True, exist_ok=True)
@@ -172,10 +172,11 @@ for d in days:
         k=c.get("page","terms"); sl=slug(c["service"]); has_svc = sl in TRACKED_SLUGS
         ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":c.get("modified",d)+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
         note_html = f'<aside class="note" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
+        srcs_html = ("<p>Other sources:</p><ul>" + "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n,u in c["sources"]) + "</ul>") if c.get("sources") else ""
         more_svc = (f'<a href="../../services/{sl}/#price-history">{E(c["service"])} price history: every increase, with dates</a> · ' if has_svc and c["service"] in _PHK else "") + (f'<a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · ' if has_svc else "")
         body=f'''<p class="kicker">{tag(k)} {E(c["service"])}</p><h1>{E(t)}</h1><p class="meta"><time datetime="{d}">{nice(d)}</time> · Detected by QuietlyChanged's daily check</p>
 <p class="lede">{E(c["what"])}</p>{note_html}<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
-<h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>
+<h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>{srcs_html}
 <h2>More</h2><p>{more_svc}<a href="../../{HUB_FOR[k][0]}">All {HUB_FOR[k][1].lower()}</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
         crumbs=[("Home",SITE+"/"),(HUB_FOR.get(k,("",""))[1] or "Changes",f"{SITE}/{HUB_FOR.get(k,('archive.html',''))[0]}")]
         if has_svc: crumbs.append((c["service"],f"{SITE}/services/{sl}/"))
