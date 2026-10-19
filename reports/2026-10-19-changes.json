@@ -1,0 +1,12 @@
+[
+  {
+    "service": "Shopify",
+    "page": "pricing",
+    "headline": "Two sets of yearly prices for Grow and Advanced are rotating on the pricing page",
+    "what": "Shopify's pricing page is showing visitors two different pay-yearly prices for the same plans. On October 19, 2026, ten back-to-back checks of shopify.com/pricing returned Grow at $79/mo and Advanced at $299/mo six times, and Grow at $89/mo and Advanced at $359/mo four times. Pay-monthly prices were the same in every version ($105/mo for Grow, $399/mo for Advanced), and Basic stayed at $29/mo yearly and $39/mo monthly. Our daily snapshots showed the higher $89/$359 yearly prices every morning from October 15 through 18 and the older $79/$299 prices again today, so the higher prices look like a price test shown to some visitors, not a completed price increase. Over a year, the gap is $120 on Grow ($948 vs $1,068) and $720 on Advanced ($3,588 vs $4,308).",
+    "who": "Anyone signing up for or renewing Shopify Grow or Advanced on yearly billing, who may be quoted either price depending on which version of the page they see",
+    "url": "https://www.shopify.com/pricing",
+    "seo_title": "Shopify yearly prices: Grow shows $79 or $89/mo, Advanced $299 or $359/mo (price test)",
+    "seo_desc": "Shopify's pricing page is rotating two sets of pay-yearly prices: Grow at $79 or $89/mo and Advanced at $299 or $359/mo. Monthly prices are the same in both versions."
+  }
+]

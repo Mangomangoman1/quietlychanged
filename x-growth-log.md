@@ -133,3 +133,179 @@ Account: @QuietlyChanged (id 2110481675654467584). Created 2026-10-14.
 - Reply travelhacked (DoorDash): https://x.com/QuietlyChanged/status/2111236112975069521
 - Reply Shantelcr5 (BofA): https://x.com/QuietlyChanged/status/2111236125062746345
 - Skipped mixedstardustII and cadiulus: they repeated the same link (Robinhood, DoorDash) on loosely related posts. Max one reply per article link per session.
+
+- 2026-10-17 06:16 MT: Google privacy (Gmail/Photos/Drive data and ads) post with before/after image: https://x.com/QuietlyChanged/status/2111431129865896236 (X redirected to x.com/i/graduated-access afterward, watch for new-account limits)
+
+## Snapshot 2026-10-17 ~9:25 AM MT (Saturday morning X growth session)
+- Followers: 0 | Following: 10 | Posts: 34 | Media: 18 | Likes given: 0
+- Three days in, still zero followers. Best original ever = 8 impressions (Verizon). Replies on 300k–1.9M-impression parents still sit at 0–2 impressions.
+- X redirected to x.com/i/graduated-access after the 6:16 AM Google post → account is almost certainly in new-account reduced-reach mode.
+- The 6:16 AM Google post went out TWICE (2111431079580037222 = 0 imp, 2111431129865896236 = 2 imp). Second duplicate in two days (Squarespace dup on Oct 16).
+
+### Recent post performance (tool metrics ~9:25 AM MT)
+
+| When (MT) | Topic | Impressions | Likes | Reposts | Replies | Notes |
+|-----------|-------|-------------|-------|---------|---------|-------|
+| Oct 17 6:16 AM | Google privacy asterisk (kept copy) | 2 | 0 | 0 | 0 | before/after image |
+| Oct 17 6:16 AM | Google privacy (duplicate) | 0 | 0 | 0 | 0 | delete |
+| Oct 16 5:21 PM | USF 42% big-number | 5 | 0 | 0 | 0 | best of evening |
+| Oct 16 5:20 PM | Squarespace 2% + AI credits | 2 | 0 | 0 | 0 | |
+| Oct 16 5:21 PM | Replies RetroSixFlags / aakashgupta / travelhacked / Shantelcr5 | 2 / 1 / 0 / 2 | 0 | 0 | 0 | parents 4k–42k imp |
+| Oct 16 2:53 PM | Robinhood 20% / DoorDash / Proton | 4 / 2 / 4 | 0 | 0 | 1 / 0 / 0 | |
+
+### What we learned
+1. **Reach is throttled, not just small.** Even replies under 1.9M-impression posts get 0–2 views, which is below what a normal zero-follower reply gets. Combined with the graduated-access redirect, the account is being rate-limited as new/untrusted.
+2. **Burst posting probably hurts.** Every session so far has fired 6–8 posts within ~3 minutes, plus two accidental duplicates. That is exactly the pattern new-account spam filters look for.
+3. **Big-number and before/after images still lead** (USF 42% = 5, Verizon = 8), but the differences are noise at this scale.
+
+### Strategy adjustments (starting this session)
+- **Slow down and space out**: max 2 originals + 4–5 replies per session, at least 5–10 minutes apart, never a burst. After each post, confirm on the profile that exactly one copy exists before doing anything else (no blind retries).
+- **Replies only where we add a sourced fact the thread lacks**, with a link in at most half of them.
+- Keep varying image formats (git-diff, tall "fine print receipts", before/after, big number). Weekend = roundup-style post.
+- Give graduated access ~1 week of clean, low-volume behaviour before judging content; consider pinning the best post and checking the bio/header are complete.
+
+### Drafted for publish (Saturday morning — parent to post)
+- Original A GitHub Secret Protection: AI push-protection detection now usage-based (git-diff image)
+- Original B "Fine print that changed this week" roundup: Robinhood / DoorDash / Proton / Google (tall receipt image)
+- Replies: glenngabe (Google AI Mode ads), mitchjackson (Gmail smart features, no link), MontyBoa99 (class-action waivers → Robinhood §36A), HomeFreeHatGuy (leaked keys → GitHub push protection), simonAI_X (subscription creep → Shopify yearly)
+- Housekeeping: delete duplicate Google post 2111431079580037222
+
+## Published 2026-10-17 morning (spaced ~6 min apart, one-copy check each)
+- Deleted duplicate Google post 2111431079580037222 (kept 2111431129865896236)
+- Original A, GitHub usage-based diff: https://x.com/QuietlyChanged/status/2111479933805441468
+- Reply 1, @glenngabe: https://x.com/QuietlyChanged/status/2111481683794923863
+- Reply 2, @mitchjackson: https://x.com/QuietlyChanged/status/2111483274107236612
+- Original B, fine-print week: https://x.com/QuietlyChanged/status/2111484859788955695
+- Reply 3, @MontyBoa99 (dropped the unverified "unenroll in app" line): https://x.com/QuietlyChanged/status/2111486441511694784
+- Reply 4, @HomeFreeHatGuy: https://x.com/QuietlyChanged/status/2111488048756297897
+- Reply 5, @simonAI_X: https://x.com/QuietlyChanged/status/2111489672614473957
+- Note: after each post X redirected to an "Unlock more on X" page about verifying a human runs the account (graduated access). It didn't block anything. Phone verification may lift the new-account limits, so consider it if reach stays near zero.
+
+## Published 2026-10-17 deep dive (about 8.5 min apart, one copy each)
+- Oura, app locks Nov 4 unless you accept new arbitration terms: https://x.com/QuietlyChanged/status/2111532859588751559
+- Rocket Money, bill negotiation moves to $15/mo Premium+ on Nov 2: https://x.com/QuietlyChanged/status/2111534970783334601
+
+## Snapshot 2026-10-17 ~5:20 PM MT (Saturday evening X growth session)
+- Followers: 0 | Following: 10 | Posts: 43 | Media: 22 | Likes given: 0
+- Still zero followers after ~3 days. No post has broken 10 impressions; best today = Oura original (6) and Google privacy (5).
+
+### Recent post performance (tool metrics ~5:20 PM MT)
+
+| When (MT) | Topic | Impressions | Likes | Reposts | Replies | Notes |
+|-----------|-------|-------------|-------|---------|---------|-------|
+| Oct 17 3:02 PM | Self-reply under Oura: WHOOP/Eight Sleep opt-out comparison | 2 | 0 | 0 | 0 | distribution session |
+| Oct 17 1:09 PM | Rocket Money Premium+ (before/after + bar chart) | 3 | 0 | 0 | 0 | deep dive |
+| Oct 17 1:00 PM | Oura accept-or-lose-app (fine-print crop) | 6 | 0 | 0 | 1 | best of day |
+| Oct 17 10:09 AM | Reply simonAI_X (Shopify yearly) | 2 | 0 | 0 | 0 | parent 41 imp |
+| Oct 17 10:02 AM | Reply HomeFreeHatGuy (GitHub push protection) | 3 | 0 | 0 | 0 | parent 296 imp |
+| Oct 17 9:56 AM | Reply MontyBoa99 (Robinhood §36A) | 3 | 0 | 0 | 0 | parent 381 imp |
+| Oct 17 9:49 AM | Fine-print week roundup (tall receipt) | 4 | 0 | 0 | 0 | |
+| Oct 17 9:43 AM | Reply mitchjackson (Google policy) | 3 | 0 | 0 | 0 | |
+| Oct 17 9:37 AM | Reply glenngabe (Google AI Mode ads) | 2 | 0 | 0 | 0 | parent 2.7k imp |
+| Oct 17 9:30 AM | GitHub usage-based diff | 2 | 0 | 0 | 0 | |
+| Oct 17 6:16 AM | Google privacy before/after | 5 | 0 | 0 | 0 | up from 2 this morning |
+
+### What we learned
+1. Spacing posts 6–8 minutes apart (morning) didn't change reach: replies still 2–3 impressions, originals 2–6. Throttling looks account-level, not burst-level, so pacing alone won't fix it.
+2. Replies on small parents (41–381 imp) did as well as replies on 300k–1.9M parents yesterday, which again points to the account being filtered rather than to target choice.
+3. Today already had 10 posts before this session. Keep volume low tonight (1 original + 3 replies) so total daily volume stays modest while graduated access lasts.
+4. Phone verification on the X account is the most likely real unlock (X's "Unlock more on X" prompt after each post). It needs Samuel's phone, so it's worth raising with him if reach is still flat by ~Oct 20.
+
+### Strategy adjustments
+- New format tonight: a calendar/timeline "deadline" graphic (1080x1350) of upcoming effective dates, reusing already-verified finds. Weekend-friendly and save-worthy (bookmarks may help reach).
+- Reply to the day's biggest relevant story (Verizon $10 iPhone Handoff fee, 9to5mac ~31.5k imp) with a sourced, different Verizon fact rather than repeating our older replies.
+- Keep max one reply per article link per session; no link in 2 of 3 replies.
+
+### Drafted for publish (Saturday evening), text in social/2026-10-17/xgrowth-pm-drafts.md
+- Original: "Fine-print deadlines, next 32 days" calendar (deadline-calendar.png). Facts re-checked: Verizon surcharges page still says $0.21→$0.26 on Nov 1 (curl, 5:20 PM MT); BofA Oct 19, Rocket Money Nov 2, Oura Nov 4, Robinhood Nov 18 from articles verified Oct 15–17.
+- Reply @9to5mac (Verizon Handoff fee): Regulatory Charge Nov 1 + USF 42%, link to verizon.com/support/surcharges
+- Reply @cadiulus (Dexcom forced terms): Oura parallel + Wayback tip, no link
+- Reply @DragonOfVEN (ToS-email meme, ~1k imp): three ToS changes "translated", no link
+
+## Published 2026-10-17 evening (about 5–6 min apart, one copy each, no duplicates)
+- Original, deadline calendar: https://x.com/QuietlyChanged/status/2111598628351729940
+- Reply @9to5mac (Verizon Regulatory Charge + USF): https://x.com/QuietlyChanged/status/2111600057065545728
+- Reply @cadiulus (Oura parallel to Dexcom forced terms): https://x.com/QuietlyChanged/status/2111601371896066365
+- Reply @DragonOfVEN (ToS emails translated): https://x.com/QuietlyChanged/status/2111602703550038395
+- Profile now shows an "Under review" badge and a "Let's get you set up" prompt; "Unlock more on X" graduated-access page still appears after replies. No errors, rate limits or phone prompts. Followers 0, Following 10, Posts 44.
+- Next session: check whether "Under review" persists. If it does, or reach stays near zero by ~Oct 20, raise phone verification and completing the setup prompt with Samuel, and keep volume low until then.
+
+
+## Snapshot 2026-10-18 ~9:20 AM MT (Sunday morning X growth session)
+- Followers: 0 | Following: 10 | Posts: 47 | Media: 23
+- Profile still shows "Under review" badge + "Let's get you set up" prompt (first noted Oct 17 evening). Graduated-access / unlock prompts after posting remain likely.
+
+### Recent post performance (tool metrics ~9:20 AM MT)
+
+| When (MT) | Topic | Impressions | Likes | Reposts | Replies | Notes |
+|-----------|-------|-------------|-------|---------|---------|-------|
+| Oct 17 ~5:38 PM | Reply @DragonOfVEN (ToS emails translated) | **89** | 0 | 0 | 0 | **BREAKTHROUGH** vs usual 0–6; parent ~15.7k imp |
+| Oct 17 ~1:00 PM | Oura accept-or-lose-app original | 9 | 0 | 0 | 1 | best original this week |
+| Oct 17 ~1:09 PM | Rocket Money Premium+ original | 7 | 0 | 0 | 0 | |
+| Oct 17 ~6:16 AM | Google privacy asterisk | 5 | 0 | 0 | 0 | |
+| Oct 17 ~5:20 PM | Deadline calendar original | 4 | 0 | 0 | 0 | |
+| Oct 17 evening | Most other replies | 2–4 | 0 | 0 | 0 | still throttled |
+
+### What we learned
+1. **Relatable "translate the ToS email" format on a viral meme parent finally got distribution** (89 impressions under @DragonOfVEN's ~15.7k-impression inbox meme). That is ~10–40× our usual reply reach.
+2. Prefer short, listy, plain-English translations over dry fee tables when the parent is a lifestyle/meme post about spam, banks, or ToS emails.
+3. Account still at 0 followers; Under review + graduated access continue. Keep volume modest (max 2 originals + 4–5 replies, 5–10 min spacing, one-copy check). Phone verification / finishing X setup still worth raising with Samuel if Under review persists by ~Oct 20.
+4. Strongest timely hook today: **BofA Online Banking Agreement change effective Oct 19 (tomorrow)** — re-verified live on OBSAUpdateEN.pdf.
+
+### Strategy adjustments (this session)
+- Lead with high-reach replies (≥1k parent impressions; prefer ≥3k), including one in the breakthrough "inbox translation" voice.
+- Originals: (A) BofA Oct 19 tomorrow deadline graphic; (B) "fine-print emails this week, decoded" list in the format that worked.
+- Skip Wix (feature rows only, no price change) and Audible (still flipping). Slack Enterprise+ still A/B — do not treat as settled.
+- Link in at most ~half of replies; never reuse the same article URL twice this session.
+- Avoid parents already replied to recently (9to5mac, cadiulus, DragonOfVEN, glenngabe, mitchjackson, MontyBoa99, HomeFreeHatGuy, simonAI_X, RetroSixFlags, aakashgupta, travelhacked, Shantelcr5, etc.).
+
+### Drafted for publish (Sunday morning — parent to post)
+- Full packet: `social/2026-10-18/xgrowth-am-drafts.md`
+- Do not self-publish from this subagent run.
+
+## Published 2026-10-18 morning (~5-6 min apart, one copy each; item 7 FuluFoundation skipped)
+- Reply @coinbureau (BofA Oct 19): https://x.com/QuietlyChanged/status/2111841233442070598
+- Original A, BofA tomorrow: https://x.com/QuietlyChanged/status/2111843333169356889
+- Reply @Met4CastUK (Rocket Money): https://x.com/QuietlyChanged/status/2111843583879950549
+- Original B, fine-print emails translated: https://x.com/QuietlyChanged/status/2111846384659730684
+- Reply @BamaSaltyMarine: https://x.com/QuietlyChanged/status/2111846603862474831
+- Reply @halsinger (Oura): https://x.com/QuietlyChanged/status/2111848086695772165
+- Note: the image-post Post button sometimes needs a native desktop click. A leftover draft of Original A may be sitting in X Drafts (never published).
+
+## Published 2026-10-18 deep dive (~8 min apart, one copy each)
+- Evernote, contract moves to Italian Bending Spoons affiliate Dec 1: https://x.com/QuietlyChanged/status/2111901241911689687
+- Roblox, merchant of record from Nov 1: https://x.com/QuietlyChanged/status/2111903298097721677
+
+## Snapshot 2026-10-18 ~5:20 PM MT (Sunday evening X growth session)
+- Followers: 0 | Following: 10 | Posts: 56 | Media: 27 | Likes given: 0
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 17 5:38 PM | Reply @DragonOfVEN (ToS emails translated) | **201** | 0 | 0 | up from 89; parent 35.4k imp but only 1 reply |
+| Oct 17 1:00 PM | Oura original | 11 | 0 | 1 | best original |
+| Oct 17 | Rocket Money original / deadline calendar | 8 / 8 | 0 | 0 | |
+| Oct 18 AM | 2 originals + 4 replies (BofA, translated list, coinbureau, Met4CastUK, BamaSaltyMarine, halsinger) | 4–6 each | 0 | 0 | parents had 13–105 replies |
+| Oct 18 deep dive | Evernote / Roblox originals | 4 / 2 | 0 | 0–1 | |
+| Oct 18 3:08 PM | Evernote self-reply | 2 | 0 | 0 | |
+
+### What we learned
+1. The one breakout reply sat under a parent with huge reach and almost no replies (35k imp, 1 reply), so it was effectively the top reply. Every reply under crowded parents (13+ replies) stayed at 2–6. **Reply-count-to-impression ratio matters more than raw parent reach.**
+2. Originals still cap at ~2–11 impressions; account-level throttling (Under review) is unchanged. Still 0 followers on day 4.
+3. Biggest story on X today is "sites are blocking AI agents" (trikcode ~2.6M imp). Most posts say Delta "blocks" agents; Delta's actual Terms of Use say something more specific (you're liable, Delta can refuse, you indemnify), and the clause appeared between Apr 17 and Oct 13, 2026 per Wayback. That's a sourced angle nobody in the thread has.
+
+### Strategy adjustments
+- Rank reply targets by impressions per existing reply; prefer parents with under ~10 replies and 1k+ impressions, plus at most one shot at a mega-thread per session.
+- Lean into the news cycle with primary-source "what the terms actually say" corrections.
+- Tonight's volume: 1 original + 3–4 replies (9 posts already today).
+- Still raise phone verification / X setup prompt with Samuel if Under review persists ~Oct 20.
+- Idea for the content session: write the Delta "Third-Party Agent" clause up as a site article (old/new via Wayback).
+
+### Drafted for publish (Sunday evening, parent to post)
+- Packet: social/2026-10-18/pm/xgrowth-pm-drafts.md (image: social/2026-10-18/pm/delta-ai-agent-clause.png)
+
+## Published 2026-10-18 evening
+1. Reply @trikcode (Delta AI-agent clause): https://x.com/QuietlyChanged/status/2111961626270470559
+2. Original + image (Delta AI-agent clause): https://x.com/QuietlyChanged/status/2111963202963570699
+3. Reply @TheStreet (Verizon Regulatory Charge $0.21→$0.26 Nov 1): https://x.com/QuietlyChanged/status/2111963353799168077 (posted only ~36s after #2; spacing slip, single copy confirmed)
+4. Reply @6ixxtar (Rocket Money Premium+ Nov 2): https://x.com/QuietlyChanged/status/2111966574169165959
+Skipped: optional @AGTPinsights reply (repeat of Delta theme).

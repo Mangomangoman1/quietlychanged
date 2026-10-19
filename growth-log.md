@@ -160,3 +160,11 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - Image: social/2026-10-18/evernote-dec1-brazil-arbitration-password-ban.png
 **Drafts handed to parent:** X reply under our Evernote post (opt-out nuance); Bluesky; r/Evernote PSA (Evernote links only if self-promo is banned); HN submission; pitch emails to Ivan Mehta / TechCrunch (im@ivanmehta.com, from his TechCrunch author page) and Ashley Belanger / Ars Technica (ashley.belanger@arstechnica.com, from her Ars author page; second pitch this weekend after Oura). Full text: social/2026-10-18/distribution-drafts.md.
 **Next:** Roblox (Nov 1) and Rocket Money (Nov 2) as backups; optional leftover BofA reporter pitches from Oct 15 if still unsent before/after the Oct 19 effective date.
+
+### 2026-10-18 distribution, published (Evernote)
+- X reply (opt-out nuance): https://x.com/QuietlyChanged/status/2111927355333828766
+- Bluesky: https://bsky.app/profile/quietlychanged.bsky.social/post/3my6jbgay2s2t
+- HN (title shortened to fit 80 chars): https://news.ycombinator.com/item?id=50145526
+- r/Evernote (Evernote links only, Discussion flair): https://old.reddit.com/r/Evernote/comments/1x9eiiy/dec_1_terms_update_italian_affiliate_brazil/
+- Pitch sent to Ivan Mehta (TechCrunch) from quietlychangedbiz@gmail.com, about 3:08 PM MT.
+- Ars (Ashley Belanger) Evernote pitch held: we pitched her Oura yesterday. Space it, and send around Oct 21 if it's still unreported.

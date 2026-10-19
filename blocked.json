@@ -274,5 +274,25 @@
    "https://www.tiktok.com/legal/page/us/terms-of-service/en",
    "too little text (0 chars; JS-rendered or bot wall); first failure, fetched fine Oct 14-15, keep watching"
   ]
+ ],
+ "flaky_2026-10-19": [
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en",
+   "served a Spanish-language version despite the en-US URL (Dutch on Oct 15); diff ignored as locale noise"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing",
+   "Enterprise+ alternates between $45 and 'Contact sales for pricing' across requests; treat flips as page testing"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing",
+   "yearly Grow/Advanced prices rotate between $79/$299 and $89/$359 across requests (6/4 split in 10 checks Oct 19)"
+  ]
  ]
 }
