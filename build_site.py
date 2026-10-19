@@ -163,6 +163,7 @@ if not (D/"CNAME").exists(): (D/"CNAME").write_text("quietlychanged.com\n")
 
 # ---- standalone change articles ----
 ARTS=[]
+_PHK = {k for k in json.loads((R/"price_history.json").read_text()) if not k.startswith("_")} if (R/"price_history.json").exists() else set()
 for d in days:
     for c in data[d]:
         a=art_slug(d,c); c["_art"]=a; (D/"changes"/a).mkdir(parents=True, exist_ok=True)
@@ -171,7 +172,7 @@ for d in days:
         k=c.get("page","terms"); sl=slug(c["service"]); has_svc = sl in TRACKED_SLUGS
         ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":c.get("modified",d)+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
         note_html = f'<aside class="note" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
-        more_svc = f'<a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · ' if has_svc else ""
+        more_svc = (f'<a href="../../services/{sl}/#price-history">{E(c["service"])} price history: every increase, with dates</a> · ' if has_svc and c["service"] in _PHK else "") + (f'<a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · ' if has_svc else "")
         body=f'''<p class="kicker">{tag(k)} {E(c["service"])}</p><h1>{E(t)}</h1><p class="meta"><time datetime="{d}">{nice(d)}</time> · Detected by QuietlyChanged's daily check</p>
 <p class="lede">{E(c["what"])}</p>{note_html}<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
 <h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>
@@ -184,31 +185,31 @@ for d in days:
 # ---- evergreen category hubs (price / terms / privacy changes) ----
 # ---- sourced US price histories (price_history.json) ----
 PH = {k:v for k,v in json.loads((R/"price_history.json").read_text()).items() if not k.startswith("_")} if (R/"price_history.json").exists() else {}
-def _pd(x): return datetime.date.fromisoformat(x).strftime("%b %-d, %Y") if len(x)==10 else datetime.date.fromisoformat(x+"-01").strftime("%b %Y")
+def _pd(x): return x if len(x)==4 else datetime.date.fromisoformat(x).strftime("%b %-d, %Y") if len(x)==10 else datetime.date.fromisoformat(x+"-01").strftime("%b %Y")
 def _cur(rows): return rows[-1][1]
 def _chg(p,q):
     dlt=p-q; sg="+" if dlt>=0 else "−"; return f"{sg}${abs(dlt):.2f} ({sg}{abs(p/q-1)*100:.0f}%)"
 def _u(h,pl): return h.get("units",{}).get(pl,"month")
 def _amt(h,pl,p): return f"${p:.2f}/{_u(h,pl)}" if p!=int(p) or _u(h,pl)=="month" else f"${p:.0f}/{_u(h,pl)}"
 def ph_section(k, h):
-    k = h.get("name", k)
+    k = h.get("name", k); tk = h.get("title_name", k)
     first_year = min(r[0][:4] for rows in h["plans"].values() for r in rows)
     tabs = ""
     for plan, rows in h["plans"].items():
-        tr = "".join(f'<tr><td><time datetime="{d}">{_pd(d)}</time></td><td>{_amt(h,plan,p).split("/")[0]}</td><td>{"Launch" if i==0 else _chg(p,rows[i-1][1])}</td></tr>' for i,(d,p) in enumerate(rows))
+        tr = "".join(f'<tr><td><time datetime="{r[0]}">{_pd(r[0])}</time></td><td>{_amt(h,plan,r[1]).split("/")[0]}</td><td>{E(r[2]) if len(r)>2 else "Launch" if i==0 else _chg(r[1],rows[i-1][1])}</td></tr>' for i,r in enumerate(rows))
         tabs += f'<h3>{E(k)} {E(plan)}</h3><table><thead><tr><th scope="col">Effective</th><th scope="col">Price / {_u(h,plan)}</th><th scope="col">Change</th></tr></thead><tbody>{tr}</tbody></table>'
     now = "".join(f'<li><strong>{E(pl)}</strong>: {_amt(h,pl,_cur(r))}</li>' for pl,r in h["plans"].items() if "discontinued" not in pl)
     L = h["latest"]; fl = h["plans"][h["flagship"]]
     notes = "".join(f"<li>{E(n)}</li>" for n in h.get("notes",[]))
     srcs = "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n,u in h["sources"])
-    html_ = (f'<h2 id="price-history">{E(k)} price history (US, {first_year} to {h["verified"][:4]})</h2><p>{E(h["intro"])}</p>'
+    html_ = (f'<h2 id="price-history">{E(tk)} price history (US, {first_year} to {h["verified"][:4]})</h2><p>{E(h["intro"])}</p>'
              f'<h3>What {E(k)} costs now</h3><ul>{now}</ul><p class="note"><strong>Latest change</strong>On {_pd(L["date"])}, {E(L["what"])} (<a href="{E(L["source"])}">{E(L["source_name"])}</a>)</p>'
              f'{tabs}' + (f'<ul class="meta">{notes}</ul>' if notes else "") +
-             f'<p class="meta">US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified {nice(h["verified"])}. Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="meta">{srcs}</ul><p><a href="../../subscription-price-history/">Compare {E(k)} with other streaming and subscription price increases</a></p>')
+             f'<p class="meta">{E(h["basis"].format(verified=nice(h["verified"]))) if h.get("basis") else "US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified " + nice(h["verified"]) + "."} Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="meta">{srcs}</ul><p><a href="../../subscription-price-history/">' + (f'Compare {E(k)} with other streaming and subscription price increases' if h.get("compare",True) else 'Compare streaming and subscription price increases') + '</a> · <a href="../../price-changes/">All price changes we track</a></p>')
     pct = (fl[-1][1]/fl[0][1]-1)*100
     faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is {_amt(h,pl,_cur(r))}" for pl,r in h["plans"].items() if "discontinued" not in pl) + "."),
            (f"When did {k} last raise prices?", f"On {_pd(L['date'])}: {L['what']}"),
-           (f"How much has {k} gone up?", f"{k} {h['flagship']} went from {_amt(h,h['flagship'],fl[0][1])} {"on" if len(fl[0][0])==10 else "in"} {_pd(fl[0][0])} to {_amt(h,h['flagship'],fl[-1][1])}, an increase of {pct:.0f}% across {len(fl)-1} price changes.")]
+           (f"How much has {k} gone up?", f"{k} {h['flagship']} went from {_amt(h,h['flagship'],fl[0][1])} {"on" if len(fl[0][0])==10 else "in"} {_pd(fl[0][0])} to {_amt(h,h['flagship'],fl[-1][1])}, an increase of {pct:.0f}% across {len(fl)-1} price change{"s"*(len(fl)!=2)}.")]
     html_ += '<h3>Quick answers</h3>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(a)}</p>" for q,a in faq)
     ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faq]}
     return html_, ld, pct, fl
@@ -253,12 +254,13 @@ for k,(tt,dd,lede) in HUBS.items():
 if PH:
     rows=[]
     for n,h in PH.items():
+        if not h.get("compare",True): continue
         nm=h.get("name",n); fl=h["plans"][h["flagship"]]; pct=(fl[-1][1]/fl[0][1]-1)*100
         yrs=max(1,int(h["verified"][:4])-int(fl[0][0][:4]))
         rows.append((pct,n,nm,h,fl,yrs))
     rows.sort(key=lambda r:-r[0])
     tr="".join(f'<tr><th scope="row"><a href="../services/{slug(n)}/#price-history">{E(nm)}</a></th><td>{E(h["flagship"])}</td><td>{_amt(h,h["flagship"],fl[0][1])} ({fl[0][0][:4]})</td><td>{_amt(h,h["flagship"],fl[-1][1])}</td><td>+{pct:.0f}%</td><td>{len(fl)-1}</td><td><time datetime="{h["latest"]["date"]}">{_pd(h["latest"]["date"])}</time></td></tr>' for pct,n,nm,h,fl,yrs in rows)
-    lm=max(h["verified"] for h in PH.values())
+    lm=max(r[3]["verified"] for r in rows)
     top=rows[0]; recent=sorted(rows,key=lambda r:r[3]["latest"]["date"],reverse=True)
     tt=f"Streaming & subscription price history compared ({lm[:4]}): {', '.join(r[2] for r in rows[:4])} and more"
     dd=f"Every US price increase at {len(rows)} major subscriptions side by side: launch price, today's price, total increase and the date of the last hike. {top[2]} {top[3]['flagship']} is up {top[0]:.0f}% since {top[4][0][0][:4]}. Sourced and dated."
@@ -299,13 +301,13 @@ for k, v in s.items():
     title = f"{k} {kinds} changes (history)"
     phtml, phld, phpct, phfl = ph_section(k, PH[k]) if k in PH else ("", None, 0, None)
     if k in PH:
-        title = f"{PH[k].get('name',k)} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
+        title = PH[k].get("title") or f"{PH[k].get('title_name',PH[k].get('name',k))} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
     srcs = "".join(f'<li>{tag(p)} <a href="{E(u)}">{E(u)}</a></li>' for p,u in v.items())
     cl = "".join(f'<li><article class="card"><div>{tag(c.get("page","terms"))}</div><h3><a href="../../changes/{c['_art']}/">{E(c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="{E(c["url"])}">Source →</a></div></article></li>' for d,c in log)
     cl = f'<ul class="cards">{cl}</ul>' if cl else f'<p class="empty">No changes detected since tracking began on {nice(first)}. This page updates automatically when {E(k)} changes a tracked page.</p>'
     others = sorted(s, key=str.lower); i = others.index(k); nb = [others[(i+j)%len(others)] for j in (-1,1)]
     desc = f"A dated history of every change {k} makes to its {kinds} pages, checked daily by QuietlyChanged. Last checked {nice(last)}."
-    if k in PH: desc = f"Every {PH[k].get('name',k)} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
+    if k in PH: desc = f"Every {PH[k].get('title_name',PH[k].get('name',k))} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
     ld = {"@context":"https://schema.org","@type":"WebPage","name":title,"url":f"{SITE}/services/{sl}/","dateModified":last,"publisher":ORG,"about":{"@type":"Organization","name":k}}
     body = f'''<p class="kicker">Service history</p><h1>{E(title)}</h1><p class="meta">Tracked since <time datetime="{first}">{nice(first)}</time> · Last snapshot <time datetime="{last}">{nice(last)}</time></p>
 <p class="lede">QuietlyChanged checks {E(k)}'s public {kinds} pages every day and records what changes, in plain English.</p>
@@ -321,24 +323,27 @@ import subprocess, shutil
 INDEXNOW_KEY = (R/"indexnow.key").read_text().strip() if (R/"indexnow.key").exists() else ""
 if INDEXNOW_KEY:
     (D/f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
-    try:
-        import urllib.request
-        urls = list(dict.fromkeys(u for u,_ in PAGES))  # unique, order preserved
-        # Prefer change articles + latest report + feed/sitemap
-        ping = [u for u in urls if "/changes/" in u][-20:]
-        if days:
-            ping.append(f"{SITE}/reports/{days[-1]}.html")
-            ping.append(f"{SITE}/")
-        ping.append(f"{SITE}/feed.xml")
-        ping += [f"{SITE}/{h[0]}" for h in HUB_FOR.values()]
-        ping += [f"{SITE}/services/{slug(n)}/" for n in PH] + ([f"{SITE}/subscription-price-history/"] if PH else [])
-        ping = list(dict.fromkeys(ping))
-        body = json.dumps({"host":"quietlychanged.com","key":INDEXNOW_KEY,"keyLocation":f"{SITE}/{INDEXNOW_KEY}.txt","urlList":ping}).encode()
-        req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type":"application/json; charset=utf-8"}, method="POST")
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            print(f"IndexNow: {resp.status} for {len(ping)} URLs")
-    except Exception as ex:
-        print(f"IndexNow ping skipped: {ex}")
+    import os
+    if os.environ.get("QC_NO_INDEXNOW"): print("IndexNow ping skipped (QC_NO_INDEXNOW set; ping after deploy)")
+    else:
+     try:
+         import urllib.request
+         urls = list(dict.fromkeys(u for u,_ in PAGES))  # unique, order preserved
+         # Prefer change articles + latest report + feed/sitemap
+         ping = [u for u in urls if "/changes/" in u][-20:]
+         if days:
+             ping.append(f"{SITE}/reports/{days[-1]}.html")
+             ping.append(f"{SITE}/")
+         ping.append(f"{SITE}/feed.xml")
+         ping += [f"{SITE}/{h[0]}" for h in HUB_FOR.values()]
+         ping += [f"{SITE}/services/{slug(n)}/" for n in PH] + ([f"{SITE}/subscription-price-history/"] if PH else [])
+         ping = list(dict.fromkeys(ping))
+         body = json.dumps({"host":"quietlychanged.com","key":INDEXNOW_KEY,"keyLocation":f"{SITE}/{INDEXNOW_KEY}.txt","urlList":ping}).encode()
+         req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type":"application/json; charset=utf-8"}, method="POST")
+         with urllib.request.urlopen(req, timeout=15) as resp:
+             print(f"IndexNow: {resp.status} for {len(ping)} URLs")
+     except Exception as ex:
+         print(f"IndexNow ping skipped: {ex}")
 
 if not (D/"og.png").exists() and shutil.which("google-chrome"):
     subprocess.run(["google-chrome","--headless=new","--no-sandbox","--hide-scrollbars","--window-size=1200,630",f"--screenshot={D/'og.png'}",(D/"og.svg").resolve().as_uri()],capture_output=True)

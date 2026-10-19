@@ -646,5 +646,424 @@
     "https://streamingpricetracker.com/history/"
    ]
   ]
+ },
+ "HBO Max": {
+  "verified": "2026-10-19",
+  "intro": "HBO Max launched in May 2020 at $14.99 a month with no ads. It became Max in May 2023 and HBO Max again in July 2025. The ad-free Standard plan is now $18.49, the 4K Premium plan $22.99, and the ad-supported plan $10.99, after the latest increase on October 21, 2025.",
+  "flagship": "Standard",
+  "latest": {
+   "date": "2025-10-21",
+   "what": "HBO Max raised every plan: Basic with Ads from $9.99 to $10.99, Standard from $16.99 to $18.49 and Premium from $20.99 to $22.99 a month. New subscribers paid the new prices right away; existing monthly subscribers moved over at their first billing date on or after November 20, 2025.",
+   "source": "https://www.cnbc.com/2025/10/21/hbo-max-raising-prices-all-plans.html",
+   "source_name": "CNBC"
+  },
+  "plans": {
+   "Basic with Ads": [
+    [
+     "2021-06-02",
+     9.99
+    ],
+    [
+     "2025-10-21",
+     10.99
+    ]
+   ],
+   "Standard": [
+    [
+     "2020-05",
+     14.99
+    ],
+    [
+     "2023-01-12",
+     15.99
+    ],
+    [
+     "2024-06-04",
+     16.99
+    ],
+    [
+     "2025-10-21",
+     18.49
+    ]
+   ],
+   "Premium": [
+    [
+     "2023-05-23",
+     19.99
+    ],
+    [
+     "2024-06-04",
+     20.99
+    ],
+    [
+     "2025-10-21",
+     22.99
+    ]
+   ],
+   "Standard (annual)": [
+    [
+     "2023-05-23",
+     149.99
+    ],
+    [
+     "2024-06-04",
+     169.99
+    ],
+    [
+     "2025-10-21",
+     184.99
+    ]
+   ]
+  },
+  "units": {
+   "Standard (annual)": "year"
+  },
+  "notes": [
+   "Plan names have changed with the brand: the ad-supported plan was HBO Max With Ads, then Max Ad-Lite, now Basic with Ads; Standard was the Ad-Free plan; Premium was Max Ultimate Ad Free, added when Max launched on May 23, 2023.",
+   "Max was renamed back to HBO Max on July 9, 2025, with no change to plans or prices.",
+   "After Paramount Skydance completed its merger with Warner Bros. Discovery, David Ellison said on October 7, 2026 that HBO Max and Paramount+ will be run separately for now and combined over time. No price change for HBO Max has been announced.",
+   "Current prices from HBO Max's own plans page: Basic with Ads $10.99/month or $109.99/year, Standard $18.49 or $184.99, Premium $22.99 or $229.99, before tax."
+  ],
+  "sources": [
+   [
+    "HBO Max help: plans and prices (current prices)",
+    "https://help.hbomax.com/plans"
+   ],
+   [
+    "CNBC, Oct 21, 2025",
+    "https://www.cnbc.com/2025/10/21/hbo-max-raising-prices-all-plans.html"
+   ],
+   [
+    "HBO Max help: price changes, Oct 2025 (annual prices, dates)",
+    "https://help.hbomax.com/us-es/answer/detail/000002580"
+   ],
+   [
+    "Variety, Jun 4, 2024",
+    "https://variety.com/2024/tv/news/max-price-increase-hike-1236024561/"
+   ],
+   [
+    "Warner Bros. Discovery, Apr 12, 2023 (Max launch prices)",
+    "https://www.wbd.com/warner-bros-discovery-unveils-max-streaming-service-launching-may-23"
+   ],
+   [
+    "TechCrunch, Jan 12, 2023 ($14.99 to $15.99, first increase since May 2020)",
+    "https://techcrunch.com/2023/01/12/hbo-maxs-ad-free-monthly-subscription-price-is-increasing-by-1/"
+   ],
+   [
+    "TechCrunch, Jun 2, 2021 (ad-supported plan at $9.99)",
+    "https://techcrunch.com/2021/06/02/hbo-max-launches-ad-supported-subscription-for-9-99-per-month/"
+   ],
+   [
+    "WBD Pressroom: HBO Max is back (Jul 2025)",
+    "https://press.wbd.com/us/media-release/hbo-max/hbo-max-back"
+   ],
+   [
+    "ComingSoon citing Deadline, Oct 13, 2026 (post-merger plans)",
+    "https://www.comingsoon.net/movies/news/2206527-skydance-raises-price-streaming-service-paramount-wb-merger"
+   ]
+  ]
+ },
+ "Paramount+": {
+  "verified": "2026-10-19",
+  "intro": "Paramount+ replaced CBS All Access on March 4, 2021, with an ad-free plan at $9.99 a month, and added a $4.99 ad-supported Essential plan that June. After three increases to each plan, Essential is $8.99 and the ad-free Premium plan is $13.99, both raised on January 15, 2026.",
+  "flagship": "Premium",
+  "latest": {
+   "date": "2026-01-15",
+   "what": "Paramount+ Essential went from $7.99 to $8.99 and Premium from $12.99 to $13.99 a month. Annual plans rose more: Essential from $59.99 to $89.99 a year and Premium from $119.99 to $139.99.",
+   "source": "https://variety.com/2025/tv/news/paramount-to-hike-prices-in-early-2026-1236574467/",
+   "source_name": "Variety"
+  },
+  "plans": {
+   "Essential": [
+    [
+     "2021-06-07",
+     4.99
+    ],
+    [
+     "2023-06-27",
+     5.99
+    ],
+    [
+     "2024-08-20",
+     7.99
+    ],
+    [
+     "2026-01-15",
+     8.99
+    ]
+   ],
+   "Premium": [
+    [
+     "2021-03-04",
+     9.99
+    ],
+    [
+     "2023-06-27",
+     11.99
+    ],
+    [
+     "2024-08-20",
+     12.99
+    ],
+    [
+     "2026-01-15",
+     13.99
+    ]
+   ],
+   "Essential (annual)": [
+    [
+     "2023-06-27",
+     59.99,
+     "Annual price with the 2023 change"
+    ],
+    [
+     "2026-01-15",
+     89.99
+    ]
+   ],
+   "Premium (annual)": [
+    [
+     "2024-08-20",
+     119.99,
+     "Unchanged in Aug 2024"
+    ],
+    [
+     "2026-01-15",
+     139.99
+    ]
+   ]
+  },
+  "units": {
+   "Essential (annual)": "year",
+   "Premium (annual)": "year"
+  },
+  "notes": [
+   "Premium was called Paramount+ with Showtime from June 27, 2023 (it replaced the $9.99 ad-free plan at $11.99) until 2025, when it was renamed Paramount+ Premium.",
+   "The $4.99 Essential plan replaced CBS All Access's $5.99 plan with commercials and, unlike it, left out live local CBS stations.",
+   "In August 2024, existing monthly Essential subscribers kept $5.99; the $7.99 price applied to new subscribers.",
+   "After Paramount Skydance completed its merger with Warner Bros. Discovery, David Ellison said on October 7, 2026 that Paramount+ and HBO Max will be run separately for now and combined over time. No new Paramount+ price has been announced.",
+   "Current monthly prices ($8.99 Essential, $13.99 Premium) confirmed on paramountplus.com on October 19, 2026."
+  ],
+  "sources": [
+   [
+    "Variety, Nov 2025 (Jan 15, 2026 prices)",
+    "https://variety.com/2025/tv/news/paramount-to-hike-prices-in-early-2026-1236574467/"
+   ],
+   [
+    "CNET, Jan 2026",
+    "https://www.cnet.com/tech/services-and-software/paramount-plus-price-hike-2026/"
+   ],
+   [
+    "Variety, Jun 24, 2024 (Aug 20, 2024 prices)",
+    "https://variety.com/2024/tv/news/paramount-plus-price-streaming-increase-1236046774/"
+   ],
+   [
+    "The Verge, Jun 27, 2023",
+    "https://www.theverge.com/2023/6/27/23775370/paramount-plus-price-increase-showtime"
+   ],
+   [
+    "TechCrunch, Jun 3, 2021 ($4.99 Essential, $9.99 Premium)",
+    "https://techcrunch.com/2021/06/03/paramount-will-launch-a-4-99-monthly-ad-supported-subscription/"
+   ],
+   [
+    "Variety, Feb 24, 2021 (Mar 4, 2021 launch)",
+    "https://variety.com/2021/digital/news/paramount-plus-content-lineup-price-availability-1234914434/"
+   ],
+   [
+    "Paramount+ plans (current prices)",
+    "https://www.paramountplus.com/"
+   ],
+   [
+    "ComingSoon citing Deadline, Oct 13, 2026 (post-merger plans)",
+    "https://www.comingsoon.net/movies/news/2206527-skydance-raises-price-streaming-service-paramount-wb-merger"
+   ]
+  ]
+ },
+ "Apple TV": {
+  "verified": "2026-10-19",
+  "title_name": "Apple TV (Apple TV+)",
+  "intro": "Apple TV+ launched in November 2019 at $4.99 a month and was renamed Apple TV in October 2025. It has now gone up four times, most recently to $14.99 a month and $119 a year on August 28, 2026, three times its launch price.",
+  "flagship": "Monthly",
+  "latest": {
+   "date": "2026-08-28",
+   "what": "Apple TV went from $12.99 to $14.99 a month and from $99 to $119 a year, and Apple One Individual from $19.95 to $21.95. New subscribers paid the new price right away; Apple said existing subscribers would be notified about a month before being charged it.",
+   "source": "https://www.macrumors.com/2026/08/28/apple-tv-price-increase/",
+   "source_name": "MacRumors"
+  },
+  "plans": {
+   "Monthly": [
+    [
+     "2019-11",
+     4.99
+    ],
+    [
+     "2022-10-24",
+     6.99
+    ],
+    [
+     "2023-10-25",
+     9.99
+    ],
+    [
+     "2025-08-21",
+     12.99
+    ],
+    [
+     "2026-08-28",
+     14.99
+    ]
+   ],
+   "Annual": [
+    [
+     "2022-10-24",
+     69,
+     "Annual price after the 2022 change"
+    ],
+    [
+     "2023-10-25",
+     99
+    ],
+    [
+     "2026-08-28",
+     119
+    ]
+   ]
+  },
+  "units": {
+   "Annual": "year"
+  },
+  "notes": [
+   "Apple dropped the plus and renamed Apple TV+ to Apple TV on October 13, 2025. Prices didn't change with the rename.",
+   "The annual plan stayed at $99 when the monthly price went to $12.99 in August 2025, then rose to $119 in August 2026.",
+   "Apple TV is also included in Apple One bundles, which start at $21.95 a month (Individual) as of October 2026.",
+   "Current $14.99 monthly price confirmed on apple.com on October 19, 2026."
+  ],
+  "sources": [
+   [
+    "MacRumors, Aug 28, 2026",
+    "https://www.macrumors.com/2026/08/28/apple-tv-price-increase/"
+   ],
+   [
+    "CNBC, Aug 28, 2026",
+    "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html"
+   ],
+   [
+    "TechCrunch, Aug 21, 2025 ($9.99 to $12.99)",
+    "https://techcrunch.com/2025/08/21/apple-tv-price-jumps-30-to-12-99-monthly/"
+   ],
+   [
+    "MacRumors, Oct 25, 2023 ($6.99 to $9.99, $69 to $99 a year)",
+    "https://www.macrumors.com/2023/10/25/apple-services-price-increases/"
+   ],
+   [
+    "CNBC, Oct 24, 2022 ($4.99 to $6.99)",
+    "https://www.cnbc.com/2022/10/24/apple-raises-prices-on-apple-tv-and-apple-music.html"
+   ],
+   [
+    "The New York Times, Oct 13, 2025 (rename to Apple TV)",
+    "https://www.nytimes.com/2025/10/13/business/apple-tv-no-plus.html"
+   ],
+   [
+    "Apple TV on apple.com (current price)",
+    "https://www.apple.com/apple-tv-plus/"
+   ]
+  ]
+ },
+ "Slack": {
+  "verified": "2026-10-19",
+  "title": "Slack pricing history (2014–2026): every Pro and Business+ price increase",
+  "compare": false,
+  "basis": "US list prices per active user per month, before tax, in nominal dollars, for buying on Slack's website. Annual-billing prices are Slack's per-month equivalent. Compiled from the sources below and our daily snapshots of slack.com/pricing; last verified {verified}.",
+  "intro": "Slack kept its Pro plan (originally called Standard) at $8 per user a month, or $6.67 billed annually, from its 2014 launch until September 1, 2022. Business+ went from $12.50 to $15 per user a month in 2025, when Salesforce folded AI features into it. Today Pro is $8.75 monthly or $7.25 annually, and Business+ is $18 monthly or $15 annually.",
+  "flagship": "Pro (billed monthly)",
+  "latest": {
+   "date": "2025-06-17",
+   "what": "Slack raised Business+ from $12.50 to $15 per user a month on annual billing, and from $15 to $18 on monthly billing, adding AI features and Salesforce integrations. Pro prices stayed the same. Business+ customers who bought on Slack's website moved to the new plan at their first renewal after August 17, 2025.",
+   "source": "https://slack.com/blog/news/june-2025-pricing-and-packaging-announcement",
+   "source_name": "Slack"
+  },
+  "plans": {
+   "Pro (billed monthly)": [
+    [
+     "2014",
+     8
+    ],
+    [
+     "2022-09-01",
+     8.75
+    ]
+   ],
+   "Pro (billed annually)": [
+    [
+     "2014",
+     6.67
+    ],
+    [
+     "2022-09-01",
+     7.25
+    ]
+   ],
+   "Business+ (billed monthly)": [
+    [
+     "2022-09-01",
+     15,
+     "Unchanged in 2022 (that increase was Pro-only)"
+    ],
+    [
+     "2025-06-17",
+     18
+    ]
+   ],
+   "Business+ (billed annually)": [
+    [
+     "2022-09-01",
+     12.5,
+     "Unchanged in 2022 (that increase was Pro-only)"
+    ],
+    [
+     "2025-06-17",
+     15
+    ]
+   ]
+  },
+  "units": {
+   "Pro (billed monthly)": "user/mo",
+   "Pro (billed annually)": "user/mo",
+   "Business+ (billed monthly)": "user/mo",
+   "Business+ (billed annually)": "user/mo"
+  },
+  "notes": [
+   "The September 1, 2022 Pro increase was Slack's first since launching in 2014. Annual Pro customers could lock in $6.67 for another year by renewing before that date.",
+   "The same day, the Free plan switched from the last 10,000 messages and 5GB of files to the last 90 days of messages and files.",
+   "Enterprise+ was added in June 2025 as a contact-sales plan. Since October 15, 2026, Slack's pricing page has sometimes shown it at $45 per user a month and sometimes as 'Contact sales', which looks like a test (see our Slack changelog below).",
+   "Turning AI features off doesn't lower the price of a Slack plan, according to Slack's help center.",
+   "Enterprise Grid and contracts signed through Slack sales aren't covered here; pricing for those is negotiated."
+  ],
+  "sources": [
+   [
+    "Slack blog, Jun 17, 2025 (Business+ $12.50 to $15; monthly $15 to $18)",
+    "https://slack.com/blog/news/june-2025-pricing-and-packaging-announcement"
+   ],
+   [
+    "Slack help: updates to feature availability and pricing (Aug 17, 2025 renewals)",
+    "https://slack.com/help/articles/39264531104275-Updates-to-feature-availability-and-pricing-for-Slack-plans"
+   ],
+   [
+    "The Verge, Jul 19, 2022 (Pro $8 to $8.75, $6.67 to $7.25; Free 90-day limit)",
+    "https://www.theverge.com/2022/7/19/23269717/slack-price-changes-increase-september-free-plan-changes"
+   ],
+   [
+    "Computerworld, Jul 2022",
+    "https://www.computerworld.com/article/1612355/slack-pro-is-getting-more-expensive-from-september.html"
+   ],
+   [
+    "TechSpot, Jun 2025",
+    "https://www.techspot.com/news/108366-salesforce-latest-price-increase-comes-promise-more-ai.html"
+   ],
+   [
+    "Slack pricing page (current prices)",
+    "https://slack.com/pricing"
+   ]
+  ]
  }
 }
