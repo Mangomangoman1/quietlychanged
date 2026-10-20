@@ -257,5 +257,8 @@
   },
   "Apple TV": {
     "pricing": "https://www.apple.com/apple-tv-plus/"
+  },
+  "Google Play": {
+    "terms": "https://play.google.com/intl/en_us/about/play-terms/index.html"
   }
 }

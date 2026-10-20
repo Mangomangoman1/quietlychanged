@@ -28,5 +28,89 @@
     "url": "https://slack.com/pricing",
     "seo_title": "Slack adds a Frontline teams add-on for Enterprise+ (Oct 2026)",
     "seo_desc": "Slack's pricing page now lists a new Frontline teams add-on for Enterprise+, for field workers' tasks, AI support and Salesforce access. No price is shown."
+  },
+  {
+    "service": "Pinterest",
+    "page": "terms",
+    "headline": "Nov 12 terms: mass claims go to one arbitrator, ads follow you to your TV, and a 30-day opt-out",
+    "what": "Pinterest is replacing its Terms of Service and Privacy Policy on November 12, 2026. Both new versions have been posted as previews since about September 1. Pinterest's help page says \"Your Pinterest experience won't change\" and \"By continuing to use Pinterest after November 12, 2026, you accept the updates to the Terms.\" The biggest change is to Section 11, the arbitration agreement that covers everyone outside the EEA, Switzerland and the UK, which has been rewritten from scratch. Arbitration moves from the American Arbitration Association to JAMS. The new agreement \"applies to any Claim you have not filed in court or in arbitration before the date you agreed to these Terms, and supersedes and amends any prior arbitration agreement between you and Pinterest, including as to Claims that arose before this or any prior arbitration agreement.\" Each case is \"a single, confidential arbitration.\" Mass claims are squeezed harder. Today, if 25 or more similar demands are filed within 60 days or with the same law firms, AAA groups them into batches and appoints \"one arbitrator to resolve each batch.\" Under the new text, when 25 or more claimants file similar claims within 90 days or through coordinated lawyers, \"all of those Claims will be consolidated into one arbitration before one arbitrator.\" If a lawyer or litigation funder is advancing a claimant's costs, the arbitrator \"may also divide all fees and costs (including all arbitrator's fees) between that funder and Pinterest.\" In the final decision, the arbitrator can divide fees \"among Pinterest, the claimants, and the claimants' lawyers.\" Either side can also make a written settlement offer under California Code of Civil Procedure section 998. Under that rule, a party who turns down an offer and then does worse can be made to pay the other side's costs from the date of the offer. Requests for public injunctive relief go to a court. One change works in users' favor: the terms add a 30-day opt-out. \"You may opt out of this Section 11 within 30 days of first becoming subject to it by emailing litigation@pinterest.com with your name, account email, and a statement that you're opting out.\" The current terms (effective April 30, 2025) have no opt-out. The new terms also say that, for users outside the EEA, Switzerland and the UK, \"your acceptance of these Terms constitutes your consent to the processing activities described in our Privacy Policy under the laws of your jurisdiction,\" and that \"By accessing YouTube content on Pinterest, you also agree to be bound by YouTube's Terms of Service.\" The new Privacy Policy, also effective November 12, describes ads that follow you off Pinterest. Its example: if you look at camping gear, \"we may show you ads for other outdoor products on Pinterest, or, for example, depending on your location, when you're streaming a show on your connected TV.\" Ad targeting now includes \"associating devices that may relate to the same person or household.\" Pinterest says it may get information \"from partners that help us power the ads we show to you on and off Pinterest\" and, \"Depending on where you live,\" \"from data providers.\" \"Voice transcripts\" join the activity Pinterest uses \"to make inferences about you and your preferences.\" A new line says Pinterest \"may also use, or work with vendors who use automated tools to scan and analyze your messages to detect harmful or unlawful content.\" According to PPC Land, Pinterest bought the connected-TV ad company tvScientific in February 2026. Coverage so far (checked October 20): PPC Land covered the advertiser-side changes (ad guidelines and connected-TV ad contracts) on September 12. We found no reporting on the user arbitration rewrite, the new opt-out, or the household and TV ad language. What you can do: to keep your right to go to court, email litigation@pinterest.com with your name, your account email and a statement that you're opting out of Section 11. For existing users the new terms take effect November 12, so the safest window is November 12 to December 12, 2026. Keep a copy of your email. If you use Global Privacy Control in a U.S. state that honors it, the new policy says to \"log into your Pinterest account from a web browser with the Global Privacy Control enabled to link that opt-out choice to your account.\" It also says \"Your connected TV may allow you to manage or limit the use of data for advertising.\"",
+    "who": "Pinterest users in the U.S. and everywhere outside the EEA, Switzerland and the UK (the arbitration section doesn't apply to consumers there), plus any Pinterest user who sees ads on other sites, apps or connected TVs, or who sends messages on Pinterest",
+    "url": "https://policy.pinterest.com/terms-of-service-preview",
+    "seo_title": "Pinterest terms change Nov 12, 2026: one arbitrator for mass claims, TV ads by household, 30-day arbitration opt-out",
+    "seo_desc": "Pinterest's new Terms and Privacy Policy take effect Nov 12, 2026. The arbitration rewrite (JAMS, retroactive, mass claims to one arbitrator) adds a 30-day opt-out via litigation@pinterest.com, and the privacy update adds connected-TV ads and household device matching.",
+    "sources": [
+      [
+        "Pinterest Privacy Policy (preview, effective Nov 12, 2026)",
+        "https://policy.pinterest.com/privacy-policy-preview"
+      ],
+      [
+        "Pinterest Terms of Service (current, effective Apr 30, 2025, with Nov 12 notice)",
+        "https://policy.pinterest.com/en/terms-of-service"
+      ],
+      [
+        "Pinterest Privacy Policy (current)",
+        "https://policy.pinterest.com/en/privacy-policy"
+      ],
+      [
+        "Pinterest Help: Changes to our policies",
+        "https://help.pinterest.com/en/article/changes-to-our-policies"
+      ],
+      [
+        "Open Terms Archive capture showing the Nov 12 notice (Sep 1, 2026)",
+        "https://github.com/OpenTermsArchive/vlopses-us-versions/commit/1ec017b3"
+      ],
+      [
+        "PPC Land: advertiser-side changes, tvScientific acquisition (Sep 12, 2026)",
+        "https://ppc.land/pinterest-bans-binary-options-ads-under-new-scam-and-deception-rules/"
+      ],
+      [
+        "California Code of Civil Procedure section 998",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=998"
+      ]
+    ]
+  },
+  {
+    "service": "Google Play",
+    "page": "terms",
+    "headline": "Nov 17 terms: report broken purchases to the developer, not Google; Play services now covered",
+    "what": "Google is replacing the Google Play Terms of Service on November 17, 2026. The current terms page, dated July 29, 2026, now says: \"We're updating our Play Terms of Service on November 17, 2026. Until then, the Terms below continue to apply.\" It links to a preview dated November 17, 2026. According to Open Terms Archive's captures, the notice first appeared around October 5 with a November 5 date and was changed to November 17 on October 20. We compared the preview with the current terms line by line. The edits are small, and most of them shift responsibility away from Google. Defective purchases: today the terms tell you to check what you bought and \"notify us or the Provider as soon as reasonably possible if you find any errors or defect.\" The new version says to \"notify the Provider,\" so Google drops itself as a contact. In the cancellation clause, the line that you won't get a refund for the current billing period \"except as otherwise provided in Google Play's Refund Policy (for example where Content is defective)\" loses its \"(for example where Content is defective)\" example. Scope: the \"Content\" the Play terms cover now includes \"system services (including, but not limited to, those provided by Google Play services),\" in addition to the apps, games, books and other content \"available through the Play Store.\" So the rules for Content now apply to Google's background system software too. The July 29 update already made you responsible for carrier data charges from system services, including in the background when the screen is locked. Free trials: the trial clause now covers access \"at no charge for a specified trial period\" and drops the words \"or at a reduced price,\" so discounted intro offers are no longer described as trials there. Taxes can now be charged if \"the Provider or Google or its affiliates\" must collect them (it used to say \"the seller of Content or Google\"). \"Google may allow you to download, view or use Content free of charge\" becomes \"You may be permitted to.\" Unchanged: at least 30 days' notice of terms changes, at least 30 days' notice before a subscription price increase applies, and charges up to 48 hours before each billing period. Coverage (checked October 20): ConductAtlas logged the November 5 notice on October 6, and Android Authority covered the July 29 update. We found no reporting on what the November 17 version changes. What you can do: if something you bought on Google Play doesn't work, report it to the developer and also request a refund through Google Play's refund process, keeping records of both. Under the new wording, the developer is the party you're told to notify.",
+    "who": "Everyone who uses the Google Play Store or an Android device with Google Play services, especially people who buy apps, games, movies, books or subscriptions on Google Play",
+    "url": "https://play.google.com/intl/ALL_us/about/play-terms/index-update.html",
+    "seo_title": "Google Play Terms of Service update Nov 17, 2026: what changes (defective content, Play services, trials)",
+    "seo_desc": "Google Play's new Terms of Service take effect Nov 17, 2026 (moved from Nov 5). Defective purchases go to the developer, not Google; Google Play services now count as covered Content; reduced-price trials are dropped from the trial clause.",
+    "sources": [
+      [
+        "Google Play Terms of Service (current, July 29, 2026, with Nov 17 notice)",
+        "https://play.google.com/intl/en_us/about/play-terms/index.html"
+      ],
+      [
+        "Open Terms Archive: Nov 5 to Nov 17 date change (Oct 20, 2026)",
+        "https://github.com/OpenTermsArchive/contrib-versions/commit/19cf710a"
+      ],
+      [
+        "Android Authority: the July 29, 2026 Play terms update",
+        "https://www.androidauthority.com/google-play-terms-of-service-update-3685119/"
+      ],
+      [
+        "ConductAtlas: Google Play Store change log",
+        "https://conductatlas.com/platform/google-play-store/"
+      ]
+    ]
+  },
+  {
+    "service": "IKEA",
+    "page": "terms",
+    "headline": "Gift Registry shuts down after Dec 27, 2026, and saved registries will be deleted",
+    "what": "IKEA is shutting down its gift registry. IKEA's U.S. registry page now opens with \"IKEA Gift Registry is going away\" and says: \"After December 27th, 2026, IKEA Gift Registry will no longer be available.\" The FAQ on the same page says new registries could no longer be created starting in May 2026 and that after the shutdown \"registry accounts will no longer be accessible.\" \"Items saved in your registry will be fully deleted. Items will not be automatically transferred or saved elsewhere.\" Until then, friends and family can still buy from an existing registry. After that, \"others will not be able to view or purchase from your registry through IKEA.\" Purchases already made aren't affected, and returns follow IKEA's standard return policy. IKEA says it \"typically sends notifications via email in advance of the decommission date\" and that \"there's no official confirmation about a replacement registry tool.\" On your data, it says only: \"You will still have access to your data temporarily.\" IKEA Canada's help center also says the registry \"is currently being decommissioned\" and that existing registries \"will remain available for the time being.\" The people most exposed are couples and parents-to-be whose wedding, shower or housewarming falls after December 27, 2026, and anyone whose guests are still using an old registry link. What to do: log in, add each item to a Favorites list (IKEA says hearting an item in your registry brings up Favorites), share the new list link with guests, update links on wedding websites and invitations, and screenshot your registry details before the end date, as IKEA suggests. Coverage (checked October 20): we found no news reports or social posts about the shutdown date.",
+    "who": "Anyone with an IKEA Gift Registry in the U.S. or Canada, especially couples and parents-to-be with events after December 27, 2026, and the friends and family shopping from those registries",
+    "url": "https://www.ikea.com/us/en/gift-registry/",
+    "seo_title": "IKEA Gift Registry is going away: shuts down after Dec 27, 2026 (items deleted, what to do)",
+    "seo_desc": "IKEA is discontinuing its Gift Registry. After December 27, 2026, registries can't be accessed and saved items are deleted, not transferred. How to save your list to Favorites and re-share it.",
+    "sources": [
+      [
+        "IKEA Canada: Does IKEA have a gift registry?",
+        "https://www.ikea.com/ca/en/customer-service/knowledge/articles/d5bcc712-405g-4235-8086-337c3fc9e15e.html"
+      ]
+    ]
   }
 ]
