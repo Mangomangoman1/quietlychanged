@@ -1,0 +1,772 @@
+{
+ "date": "2026-10-20",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ]
+ ],
+ "failed": [
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP",
+   "SSLError"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+   "SSLError"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Spotify",
+   "page": "pricing",
+   "url": "https://www.spotify.com/us/premium/",
+   "diff": "@@ -6,6 +6,7 @@\n videos\n-Try 1 month for $0\n+Try 2 months for $0\n View all plans\n-Premium Individual only. $0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.\n-Terms apply.\n+Premium Individual only. Free for 2 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.\n+Terms apply\n+. Offer ends <DATE>.\n Premium\n@@ -24,6 +25,7 @@\n Repeat songs, play albums in any order, and skip as many times as you want.\n-Try 1 month for $0\n+Try 2 months for $0\n View all plans\n-$0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.\n-Terms apply.\n+Premium Individual only. Free for 2 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.\n+Terms apply\n+. Offer ends <DATE>.\n Premium\n@@ -56,6 +58,6 @@\n Marshmello pumping up the crowd at Spotify House in Nashville.\n-$0 for 1 month\n+$0 for 2 months\n Premium\n Individual\n-$0 for 1 month\n+$0 for 2 months\n $12.99 / month after\n@@ -64,5 +66,6 @@\n Cancel anytime\n-Try 1 month for $0\n-$0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.\n-Terms apply.\n+Try 2 months for $0\n+Premium Individual only. Free for 2 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.\n+Terms apply\n+. Offer ends <DATE>.\n $0 for 1 month",
+   "added": 14,
+   "removed": 11
+  },
+  {
+   "service": "Slack",
+   "page": "pricing",
+   "url": "https://slack.com/pricing",
+   "diff": "@@ -16,2 +16,3 @@\n Securely work alongside people outside of your company through one-to-one direct messages using Slack Connect.\n+Frontline teams (add-on)\n Basic AI\n@@ -44,2 +45,3 @@\n Work securely with outside partners via DMs, group chats, or dedicated channels with up to 250 orgs.\n+Frontline teams (add-on)\n Basic AI\n@@ -74,2 +76,3 @@\n Work securely with outside partners via DMs, group chats, or dedicated channels with up to 250 orgs.\n+Frontline teams (add-on)\n Advanced AI\n@@ -109,2 +112,5 @@\n Work securely with outside partners via DMs, group chats, or dedicated channels with up to 250 orgs.\n+Frontline teams (add-on)\n+New\n+Enterprise+ add-on giving field workers Slack for task management, agentic support & secure Salesforce access.\n Enterprise-Grade AI\n@@ -182,2 +188,6 @@\n Admin-created\n+Add your frontline teams\n+New\n+Enterprise+ add-on giving field workers Slack for task management, agentic support & secure Salesforce access.\n+Add-on\n AI-powered work\n@@ -346,2 +356,6 @@\n Admin-created\n+Add your frontline teams\n+New\n+Enterprise+ add-on giving field workers Slack for task management, agentic support & secure Salesforce access.\n+Add-on\n AI-powered work",
+   "added": 14,
+   "removed": 0
+  },
+  {
+   "service": "Canva",
+   "page": "terms",
+   "url": "https://www.canva.com/policies/terms-of-use/",
+   "diff": "@@ -291,2 +291,3 @@\n Other policies\n+[Placeholder]\n Print Marketplace Seller Terms",
+   "added": 1,
+   "removed": 0
+  },
+  {
+   "service": "Canva",
+   "page": "privacy",
+   "url": "https://www.canva.com/policies/privacy-policy/",
+   "diff": "@@ -433,2 +433,3 @@\n Other policies\n+[Placeholder]\n Print Marketplace Seller Terms",
+   "added": 1,
+   "removed": 0
+  },
+  {
+   "service": "Grammarly",
+   "page": "pricing",
+   "url": "https://www.grammarly.com/plans",
+   "diff": "@@ -24,3 +24,3 @@\n Detect plagiarism and AI generated text\n-2,000 AI prompts for text generation\n+Generate text with 2,000 AI prompts\n For larger organizations",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Proton",
+   "page": "terms",
+   "url": "https://proton.me/legal/terms",
+   "diff": "@@ -48,3 +48,3 @@\n 12 months or more\n-, access to your Account and all or part of the data associated with your Account (including but not limited to emails stored in Proton Mail, files stored on Proton Drive, calendar entries in Proton Calendar and passwords in Proton Pass) may be deleted. You will receive notices 30, 15 and 7 days in advance before such action is taken on the recovery email associated with your Account.\n+, access to your Account and all or part of the data associated with your Account (including but not limited to emails stored in Proton Mail, files stored on Proton Drive, calendar entries in Proton Calendar and passwords in Proton Pass) may be deleted. As a mere courtesy, the Company will aim to send notice to the recovery email associated with your Account 30, 15 and 7 days in advance before such action is taken.\n Accounts under an active paid subscription are always considered active and no action will be taken against your paid Account under this section. Terminating your active paid subscription (or being downgraded to free due to a failure to pay for the subscription) will make your Account subject to this section again.",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Squarespace",
+   "page": "pricing",
+   "url": "https://www.squarespace.com/pricing",
+   "diff": "@@ -4,3 +4,2 @@\n Basic\n-20% off\n Create your own custom website and get discovered online.\n@@ -10,6 +9,4 @@\n /mo\n-Start Free Trial\n-Buy Now\n-Start Free Trial\n-Buy Now\n+Get started\n+Get started\n Build your website\n@@ -38,3 +35,3 @@\n Core\n-20% off\n+Recommended\n Unlock our full array of business features as you grow your business.\n@@ -44,6 +41,4 @@\n /mo\n-Start Free Trial\n-Buy Now\n-Start Free Trial\n-Buy Now\n+Get started\n+Get started\n Build your website\n@@ -85,3 +80,2 @@\n Plus\n-20% off\n Enjoy\n@@ -93,6 +87,4 @@\n /mo\n-Start Free Trial\n-Buy Now\n-Start Free Trial\n-Buy Now\n+Get started\n+Get started\n Build your website\n@@ -134,3 +126,2 @@\n Advanced\n-20% off\n Maximize your revenue with our\n@@ -142,6 +133,4 @@\n /mo\n-Start Free Trial\n-Buy Now\n-Start Free Trial\n-Buy Now\n+Get started\n+Get started\n Build your website\n@@ -193,4 +182,4 @@\n /mo\n-Buy Now\n-Buy Now\n+Get started\n+Get started\n Core\n@@ -201,4 +190,4 @@\n /mo\n-Buy Now\n-Buy Now\n+Get started\n+Get started\n Plus\n@@ -208,4 +197,4 @@\n /mo\n-Buy Now\n-Buy Now\n+Get started\n+Get started\n Advanced\n@@ -215,4 +204,4 @@\n /mo\n-Buy Now\n-Buy Now\n+Get started\n+Get started\n Build your website",
+   "added": 17,
+   "removed": 28
+  },
+  {
+   "service": "Shopify",
+   "page": "pricing",
+   "url": "https://www.shopify.com/pricing",
+   "diff": "@@ -15,3 +15,3 @@\n Grow\n-$79\n+$89\n /mo\n@@ -25,3 +25,3 @@\n Advanced\n-$299\n+$359\n /mo\n@@ -251,4 +251,4 @@\n $29 USD/mo\n-$79 USD/mo\n-$299 USD/mo\n+$89 USD/mo\n+$359 USD/mo\n Core features",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "PayPal",
+   "page": "privacy",
+   "url": "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "diff": "@@ -399,6 +399,6 @@\n DPO contact e-mail:\n-latamdpo@paypal.com\n+[email protected]\n Deputy Data Protection Officer: Fabiana Moreira Chaves\n Deputy DPO contact e-mail:\n-latamdpo@paypal.com\n+[email protected]\n Brunei\n@@ -467,3 +467,3 @@\n Address, telephone and e-mail: Regus Samsungdong Limited (World Trade Center), 27th, 30th Floor, Trade Tower, 511 Young Dong Street, Gangnam-gu, Seoul, South Korea 06164, (+82) 02 737 5775,\n-skrprivacy@paypal.com\n+[email protected]\n Malaysia\n@@ -876,3 +876,3 @@\n . For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email:\n-Aginfo@ag.nv.gov\n+[email protected]\n PayPal Privacy Statement",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "Tinder",
+   "page": "terms",
+   "url": "https://policies.tinder.com/terms/us/en",
+   "diff": "@@ -1,453 +1,418 @@\n-T\u00e9rminos de uso de Tinder\n-En vigor a partir del 1 de marzo de 2026.\n-descargar estos T\u00e9rminos de uso en formato PDF\n-Aqu\u00ed puedes encontrar un breve\n-resumen\n-de nuestros T\u00e9rminos de uso\n-Suscriptores de California:\n-puedes cancelar tu suscripci\u00f3n, sin sanci\u00f3n ni obligaci\u00f3n alguna, en cualquier momento antes de la medianoche del tercer d\u00eda h\u00e1bil siguiente a la fecha en que te suscribiste.\n-Suscripci\u00f3n a Servicios externos:\n-si te suscribiste a trav\u00e9s de un Servicio externo (p. ej., Apple ID o Google Play), puedes realizar la cancelaci\u00f3n a trav\u00e9s de dicho Servicio externo, tal como se estipula de forma m\u00e1s detallada en la Secci\u00f3n 8a.\n-Reembolsos del Apple ID:\n-si te suscribiste a trav\u00e9s de tu Apple ID, los reembolsos se gestionan a trav\u00e9s de Apple, no de Tinder. Puedes solicitar un reembolso a Apple a trav\u00e9s de tu cuenta de Apple ID desde tu tel\u00e9fono o en\n+Tinder Terms of Use\n+download these Terms of Use as a PDF\n+Here is a short\n+summary\n+of our Terms of Use\n+California subscribers:\n+You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed.\n+External Service Subscriptions:\n+If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service, as set forth in more detail in Section 8a.\n+Apple ID Refunds:\n+If you subscribed through your Apple ID, refunds are handled by Apple, not Tinder. You can request a refund from Apple through your Apple ID account on your phone or at\n https://getsupport.apple.com\n-Todos los dem\u00e1s reembolsos:\n-todos los dem\u00e1s usuarios pueden solicitar un reembolso a trav\u00e9s del servicio de a Atenci\u00f3n al cliente de Tinder mediante nuestro Centro de ayuda o enviando una notificaci\u00f3n firmada y fechada, por correo postal o personalmente, en la que t\u00fa, el comprador, indicas que deseas cancelar este Acuerdo o palabras de efecto similar. Tambi\u00e9n incluye tu nombre y direcci\u00f3n de correo electr\u00f3nico, n\u00famero de tel\u00e9fono u otro identificador \u00fanico que hayas usado a fin de registrarte para obtener tu cuenta.\n-Informaci\u00f3n de contacto para cancelaciones/avisos:\n-Tinder, a la atenci\u00f3n de: \"Cancellations\", P.O. Box 25472, Dallas, Texas 75225, USA.\n-Direcci\u00f3n comercial:\n-los negocios de la Empresa se llevan a cabo, de forma parcial, en 8750 N. Central Expressway, Suite 1400, Dallas, TX 75231.\n-Consultas sobre los T\u00e9rminos\n-: si deseas recibir estos T\u00e9rminos de uso (los \"T\u00e9rminos\") por correo electr\u00f3nico, puedes enviar una carta a Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, USA.\n-Reclamos de consumidores de California:\n-de conformidad con la secci\u00f3n 1789.3 del C\u00f3digo Civil de California, puedes enviar reclamos a la Unidad de Asistencia de Reclamos (Complaint Assistance Unit) de la Divisi\u00f3n de Servicios al Consumidor del Departamento de Asuntos del Consumidor de California. Para ello, puedes comunicarte por escrito a Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834 o por tel\u00e9fono al (800) 952-5210.\n-Nota: Incluimos res\u00famenes breves al inicio de varias de las secciones para facilitarte la lectura y comprensi\u00f3n del presente Acuerdo. Los res\u00famenes se proporcionan para mayor comodidad y forman parte de las secciones, pero no reemplazan el texto de cada secci\u00f3n, por lo que de igual modo debes leer cada secci\u00f3n en su totalidad.\n-1. INTRODUCCI\u00d3N\n-Al acceder o utilizar los Servicios de Tinder, aceptas estar sujeto a este Acuerdo de T\u00e9rminos de Uso (los \u201cT\u00e9rminos\u201d o el \u201cAcuerdo\u201d), lo que incluye nuestra\n-Pol\u00edtica de privacidad\n-Reglas de la comunidad\n-Consejos de seguridad\n-, por lo que es importante que leas este Acuerdo y estas pol\u00edticas y procedimientos con atenci\u00f3n antes de crear una cuenta.\n-RESOLUCI\u00d3N DE DISPUTAS:\n-REVISA DETENIDAMENTE LAS DISPOSICIONES SOBRE RESOLUCI\u00d3N DE DISPUTAS EN LA SECCI\u00d3N 15 A CONTINUACI\u00d3N. DICHAS DISPOSICIONES REGIR\u00c1N LA MANERA EN QUE SE ABORDAR\u00c1N LAS DISPUTAS ENTRE T\u00da Y TINDER.\n-LA SECCI\u00d3N 15 EXIGE, SALVO EXCEPCIONES LIMITADAS, QUE TODAS LAS DISPUTAS ENTRE T\u00da Y TINDER SE RESUELVAN MEDIANTE UN ARBITRAJE VINCULANTE Y DEFINITIVO, INCLUSO EN CASO DE DISPUTAS RELACIONADAS CON LA ARBITRABILIDAD. LA SECCI\u00d3N 15 TAMBI\u00c9N INCLUYE UN PROCESO INFORMAL OBLIGATORIO DE RESOLUCI\u00d3N DE DISPUTAS PREVIO AL ARBITRAJE, ELECCI\u00d3N DEL TRIBUNAL DE RECLAMOS MENORES, RENUNCIA A ACCIONES COLECTIVAS Y JUICIO POR JURADO, Y PROCEDIMIENTOS ADICIONALES PARA LA PRESENTACI\u00d3N DE ARBITRAJES COLECTIVOS QUE AFECTAN TUS DERECHOS. EN LOS ARBITRAJES, NORMALMENTE HAY MENOS DESCUBRIMIENTO Y REVISI\u00d3N DE APELACI\u00d3N QUE EN TRIBUNALES.\n-Es posible que actualicemos estos T\u00e9rminos de manera peri\u00f3dica, por lo que debes revisar esta p\u00e1gina con frecuencia para conocer las actualizaciones.\n-Entidades contratantes:\n-Te damos la bienvenida a Tinder.\n-Si vives en el Espacio Econ\u00f3mico Europeo, el Reino Unido o en Suiza\n-, estos T\u00e9rminos de uso se celebran entre t\u00fa y:\n+All Other Refunds:\n+All other users may request a refund by contacting Tinder Customer Service via our Help Center, or by mailing or delivering a signed and dated notice that states that you, the buyer, are canceling this Agreement, or words of similar effect. Please also include your name and the email address, phone number, or other unique identifier you used to sign up for your account.\n+Contact Information for Cancellations/Notices:\n+Tinder, Attn: Cancellations, P.O. Box 25472, Dallas, Texas 75225, USA.\n+Business Address:\n+The Company's business is conducted, in part, at 8750 N. Central Expressway, Suite 1400, Dallas, TX 75231.\n+Terms Inquiries:\n+You may have these Terms of Use (\"Terms\") emailed to you by sending a letter to Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, USA.\n+California Consumer Complaints:\n+In accordance with Cal. Civ. Code \u00a71789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834, or by telephone at (800) 952-5210.\n+Note: We have included brief summaries at the beginning of several sections to make it easier for you to read and understand this Agreement. The summaries are provided for convenience and form a part of, but do not replace, the text of each section, and you should still read each section in its entirety.\n+1. INTRODUCTION\n+By accessing or using Tinder's Services, you agree to be bound by this Terms of Use Agreement (the \"Terms\" or \"Agreement\"), including our\n+Privacy Policy\n+Community Guidelines\n+, and\n+Safety Tips\n+, so it is important that you read this Agreement and these policies and procedures carefully before you create an account.\n+DISPUTE RESOLUTION:\n+PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 15 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED BETWEEN YOU AND TINDER.\n+SECTION 15 REQUIRES WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND TINDER SHALL BE RESOLVED BY BINDING AND FINAL ARBITRATION, INCLUDING DISPUTES RELATED TO ARBITRABILITY. SECTION 15 ALSO INCLUDES A MANDATORY PRE-ARBITRATION INFORMAL DISPUTE RESOLUTION PROCESS, SMALL CLAIMS COURT ELECTION, CLASS ACTION AND JURY TRIAL WAIVERS, AND ADDITIONAL PROCEDURES FOR MASS ARBITRATION FILINGS THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS TYPICALLY LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.\n+We may update these Terms from time to time, so check this page regularly for updates.\n+Contracting Entities:\n+Welcome to Tinder.\n+If you live in the European Economic Area, the United Kingdom, or Switzerland\n+, these Terms of Use are between you and:\n MTCH Technology Services Limited (\"MTCH Technology\")\n 10 Earlsfort Terrace Dublin 2, D01 T380 Ireland\n-Si vives en Jap\u00f3n\n-, estos T\u00e9rminos de uso se celebran entre t\u00fa y:\n+If you live in Japan\n+, these Terms of Use apply between you and:\n MG Japan Services GK (\"MG Japan\")\n Sumitomo Fudosan Azabu Bldg. 1-4-1 Mita Minato-ku, Tokyo 108-0073 Japan\n-Si vives en cualquier otro lugar\n-, estos T\u00e9rminos de uso se celebran entre t\u00fa y:\n+If you live anywhere else\n+, these Terms of Use apply between you and:\n Tinder LLC (\"Tinder\")\n 8750 North Central Expressway, Suite 1400 Dallas, TX 75231, USA\n-Los t\u00e9rminos \"nos\", \"nosotros\", \"la Compa\u00f1\u00eda\" y/o \"Tinder\" se refieren a MTCH Technology, MG Japan o Tinder en funci\u00f3n de tu pa\u00eds de residencia. En conjunto, t\u00fa y Tinder podr\u00e1n denominarse las \"Partes\" o, de forma individual, la \"Parte\". Del modo utilizado en este Acuerdo, los t\u00e9rminos \"Tinder\", \"nos\", \"nosotros\", la \"Compa\u00f1\u00eda\" y \"nuestro(a)\" har\u00e1n referencia a Tinder LLC y/o MTCH Technology Services Limited, seg\u00fan corresponda.\n-Al acceder a o usar nuestros Servicios en Tinder.com (el \u201cSitio web\u201d), la aplicaci\u00f3n m\u00f3vil de Tinder (la \u201cApp\u201d) o cualquier otro servicio o plataforma que Tinder pudiera ofrecer (en conjunto, el \u201cServicio\u201d o nuestros \u201cServicios\u201d), aceptas el presente Acuerdo y est\u00e1s legalmente vinculado mediante \u00e9l. El presente Acuerdo se aplica a cualquier persona que use nuestros Servicios o acceda a ellos, independientemente del estado de registro o suscripci\u00f3n.\n-El acceso a nuestros Servicios y el uso que hagas de ellos tambi\u00e9n est\u00e1 sujeto a la\n-Pol\u00edtica de privacidad\n-, la\n-, las\n-Reglas de la comunidad\n-y los\n-Consejos de seguridad\n-, as\u00ed como a cualquier t\u00e9rmino divulgado y aceptado por ti si compras funciones, productos o servicios adicionales de Tinder (\u201cT\u00e9rminos adicionales al momento de la compra\u201d), los cuales se anexan a este Acuerdo a modo de referencia. Si no deseas estar legalmente vinculado por este Acuerdo, no accedas a nuestros Servicios ni hagas uso de ellos.\n-Funciones obligatorias:\n-Nos reservamos el derecho de introducir funciones obligatorias a nuestros Servicios en cualquier momento. Estas funciones pueden estar dise\u00f1adas para optimizar la funcionalidad, la seguridad o la experiencia general del usuario de nuestros Servicios. Como esas funciones ser\u00e1n obligatorias, si no deseas interactuar con ellas, es posible que pierdas el acceso a tu cuenta o te veas obligado a rescindir tu cuenta seg\u00fan lo dispuesto en la Secci\u00f3n 9.\n-Cambios en los t\u00e9rminos:\n-estos t\u00e9rminos pueden sufrir cambios peri\u00f3dicamente. Las notificaciones sobre cambios sustanciales se publicar\u00e1n en esta p\u00e1gina con una fecha de entrada en vigor actualizada. Podemos notificarte sobre un cambio en los T\u00e9rminos por correo electr\u00f3nico, notificaciones dentro de la aplicaci\u00f3n o cualquier otro medio; no obstante, eres responsable de revisar frecuentemente esta p\u00e1gina para conocer cualquier cambio. En la medida m\u00e1xima permitida por la ley aplicable, si accedes de forma continua a nuestros Servicios o los utilizas de forma continua despu\u00e9s de la entrada en vigor de los T\u00e9rminos, eso implica que das tu consentimiento a cualquier cambio, y, como resultado, estar\u00e1s legalmente sujeto a los T\u00e9rminos actualizados. Si no aceptas un cambio realizado a los T\u00e9rminos, debes dejar de acceder a nuestros Servicios o dejar de usarlos de inmediato.\n-Sin perjuicio de lo anterior, cualquier cambio sustancial a la Limitaci\u00f3n de responsabilidad de la Secci\u00f3n 14 y las disposiciones de Resoluci\u00f3n de disputas de la Secci\u00f3n 15, o si as\u00ed lo exige la ley, requerir\u00e1 tu aceptaci\u00f3n expl\u00edcita. Adem\u00e1s, seg\u00fan la legislaci\u00f3n aplicable, nos reservamos el derecho de cambiar la disponibilidad de funciones en nuestros planes de suscripci\u00f3n de cualquier manera y en cualquier momento, seg\u00fan podamos determinarlo a nuestra entera discreci\u00f3n.\n-2. ELEGIBILIDAD DE LA CUENTA; TUS RESPONSABILIDADES\n-Antes de crear una cuenta en Tinder, aseg\u00farate de cumplir con los requisitos necesarios para usar nuestros Servicios. En esta secci\u00f3n tambi\u00e9n se detalla lo que puedes y no puedes hacer a la hora de utilizar los Servicios, as\u00ed como los derechos que le concedes a Tinder.\n-2a. Elegibilidad\n-No est\u00e1s autorizado para crear una cuenta ni usar los Servicios, salvo que todas las siguientes afirmaciones sean verdaderas. Asimismo, al usar nuestros servicios, declaras y garantizas que:\n-Eres una persona natural (es decir, ning\u00fan tipo de persona jur\u00eddica, asociaci\u00f3n ni ning\u00fan otro tipo de entidad comercial) de, al menos, 18 a\u00f1os de edad;\n-Est\u00e1s legalmente habilitado para celebrar un contrato vinculante con Tinder;\n-No est\u00e1s ubicado en ning\u00fan pa\u00eds sujeto a prohibici\u00f3n por parte del Gobierno de EE.UU. o que haya sido designado por el Gobierno de EE.UU. como un pa\u00eds \u201cque apoya al terrorismo\u201d;\n-No est\u00e1s en ninguna lista de personas que tiene prohibido llevar a cabo negocios con los Estados Unidos (por ejemplo, la lista de Nacionales Especialmente Designados del Departamento del Tesoro de EE. UU. o cualquier otra lista de un ente gubernamental similar) ni est\u00e1s sujeto a ning\u00fan otro tipo de prohibici\u00f3n similar);\n-No tienes prohibido por ley el uso de nuestros Servicios;\n-No has cometido, recibido una condena ni has sido declarado culpable ni has aceptado cargos sin reconocer responsabilidad penal por ning\u00fan delito que implique violencia, la amenaza de violencia o conducta sexual inapropiada;\n-No est\u00e1s obligado a registrarte como agresor sexual en ning\u00fan registro de agresores sexuales estatal, federal o local;\n-No tienes ninguna otra cuenta activa en nuestros Servicios; ni\n-No has sido eliminado anteriormente de nuestros Servicios o los servicios de nuestros afiliados, ya sea por nosotros o nuestros afiliados, salvo que hayas obtenido nuestro permiso expl\u00edcito por escrito para crear una nueva cuenta.\n-Si en alg\u00fan momento dejas de cumplir con estos requisitos, se revocar\u00e1 autom\u00e1ticamente toda autorizaci\u00f3n para acceder a nuestros Servicios o sistemas y deber\u00e1s eliminar tu cuenta de inmediato. Adem\u00e1s, nos reservamos el derecho de eliminar tu cuenta y quitarte el acceso a nuestros Servicios, sin previo aviso y a nuestra total discreci\u00f3n.\n-2b. Tus responsabilidades\n-Aceptas:\n-Cumplir con estos T\u00e9rminos y revisar esta p\u00e1gina peri\u00f3dicamente para asegurarte de estar al tanto de cualquier cambio;\n-Cumplir con todas las leyes aplicables, lo que incluye, a modo de ejemplo, leyes de privacidad, leyes de propiedad intelectual, leyes antispam y requisitos normativos;\n-Utilizar la \u00faltima versi\u00f3n del sitio web y/o la aplicaci\u00f3n;\n-Tratar a otros usuarios de manera cort\u00e9s y respetuosa, tanto en nuestros Servicios como fuera de ellos;\n-Comunicarte con respeto hacia nuestros representantes de atenci\u00f3n al cliente o cualquiera de nuestros empleados;\n-Revisar los\n-Consejos de seguridad\n-Revisar y cumplir con las\n-Pautas de la Comunidad\n-, actualizadas de vez en cuando; y\n-Tomar medidas razonables para proteger la seguridad de tu cuenta y tu informaci\u00f3n de inicio de sesi\u00f3n.\n-2c. Conductas prohibidas\n-Acuerdas que no:\n-Tergiversar\u00e1s tu identidad, edad, empleo (actual o anterior), credenciales o afiliaciones con una persona o entidad;\n-Usar\u00e1s los Servicios de una manera que genere da\u00f1os en los Servicios o impida que otros usuarios hagan uso de ellos;\n-Usar\u00e1s nuestros Servicios de una manera que interfiera con la plataforma, los servicios o las redes de nuestros Servicios, o bien que los interrumpa o afecte negativamente;\n-Usar\u00e1s nuestros Servicios con ning\u00fan prop\u00f3sito da\u00f1ino, ilegal o nefario, lo que incluye, a modo de ejemplo, usar alg\u00fan Elemento virtual con el fin de lavar dinero o cometer otros delitos financieros;\n-Acosar\u00e1s, intimidar\u00e1s, acechar\u00e1s, agredir\u00e1s, difamar\u00e1s, da\u00f1ar\u00e1s o de cualquier modo maltratar\u00e1s a ninguna persona;\n-Publicar\u00e1s o compartir\u00e1s contenido prohibido (ver m\u00e1s abajo);\n-Solicitar\u00e1s contrase\u00f1as para cualquier prop\u00f3sito, o informaci\u00f3n de identificaci\u00f3n personal para fines comerciales o ilegales de otros usuarios o difundir la informaci\u00f3n personal de otra persona sin su permiso.\n-Solicitar\u00e1s dinero ni otros art\u00edculos de valor a otro usuario, ya sea a modo de obsequio, pr\u00e9stamo u otra forma de compensaci\u00f3n;\n-Utilizar\u00e1s la cuenta de otro usuario ni compartir\u00e1s tu cuenta con otra persona;\n-Usar\u00e1s nuestros Servicios en relaci\u00f3n con pr\u00e1cticas de fraude, esquemas piramidales u otras similares;\n-Usar\u00e1s nuestros Servicios en relaci\u00f3n con el financiamiento de alguna campa\u00f1a pol\u00edtica o con el prop\u00f3sito de influir en alguna elecci\u00f3n, salvo compartir tus propias opiniones pol\u00edticas;\n-Infringir\u00e1s los t\u00e9rminos de la licencia que Tinder te ha otorgado (consulta la Secci\u00f3n 6 a continuaci\u00f3n);\n-Divulgar\u00e1s informaci\u00f3n privada o de propiedad exclusiva sobre la que no tengas el derecho de divulgaci\u00f3n;\n-Copiar\u00e1s, modificar\u00e1s, transmitir\u00e1s, distribuir\u00e1s ni crear\u00e1s ninguna obra derivada de ning\u00fan Contenido de miembros o Nuestro contenido o de alg\u00fan tipo de material, im\u00e1genes, marcas comerciales, nombres comerciales o marcas de servicio protegidos por derechos de autor, como tampoco ning\u00fan contenido o informaci\u00f3n de propiedad exclusiva accesible a trav\u00e9s de nuestros Servicios, sin el consentimiento previo por escrito de Tinder;\n-Expresar\u00e1s o insinuar\u00e1s que cualquiera de tus declaraciones est\u00e1 avalada por Tinder.\n-Usar\u00e1s ning\u00fan tipo de robot, rastreador, aplicaci\u00f3n de b\u00fasqueda/recuperaci\u00f3n de sitios, proxy ni ning\u00fan otro dispositivo, m\u00e9todo o proceso, manual o autom\u00e1tico, para acceder a, recuperar, indexar, \u201cminar datos\u201d o, de alg\u00fan otro modo, reproducir o eludir la estructura de navegaci\u00f3n o presentaci\u00f3n de nuestros Servicios o su contenido;\n-Cargar\u00e1s virus u otro c\u00f3digo malicioso ni pondr\u00e1s en peligro la seguridad de nuestros Servicios;\n-Falsificar\u00e1s encabezados o, de alg\u00fan otro modo, manipular\u00e1s identificadores para ocultar el origen de cualquier informaci\u00f3n transmitida a nuestros Servicios o a trav\u00e9s de ellos;\n-Incriminar\u00e1s o replicar\u00e1s ninguna parte de nuestros Servicios sin la autorizaci\u00f3n previa por escrito de Tinder;\n-Utilizar\u00e1s metaetiquetas o c\u00f3digos u otros dispositivos que contengan cualquier referencia a Tinder o a la plataforma (o cualquier marca comercial, nombre comercial, marca de servicio, logotipo o eslogan de Tinder) para dirigir a cualquier persona a cualquier otro sitio web para cualquier prop\u00f3sito;\n-Modificar\u00e1s, adaptar\u00e1s, sublicenciar\u00e1s, traducir\u00e1s, vender\u00e1s, realizar\u00e1s ingenier\u00eda inversa, descifrar\u00e1s, descompilar\u00e1s o desensamblar\u00e1s ninguna parte del Servicio, ni provocar\u00e1s que otros lo hagan.\n-Usar\u00e1s o desarrollar\u00e1s aplicaciones o servicios de terceros que interact\u00faen directamente con nuestros Servicios, Contenido de usuarios o informaci\u00f3n sin nuestro consentimiento por escrito, lo que incluye, a modo de ejemplo, sistemas de inteligencia artificial o aprendizaje autom\u00e1tico;\n-Utilizar\u00e1s, acceder\u00e1s o publicar\u00e1s la interfaz de programaci\u00f3n de la aplicaci\u00f3n de Tinder sin nuestro consentimiento por escrito;\n-Sondear\u00e1s, escanear\u00e1s o probar\u00e1s la vulnerabilidad de nuestros Servicios o de cualquier sistema o red.\n-Alentar\u00e1s, promover\u00e1s o aceptar\u00e1s involucrarte en alguna actividad que infrinja estos T\u00e9rminos;\n-Crear\u00e1s ninguna cuenta nueva despu\u00e9s de que hayamos suspendido o rescindido tu cuenta, salvo que recibas nuestro permiso expreso para ello; ni\n-Enviar\u00e1s ninguna denuncia sobre el comportamiento o contenido de un usuario que sea falsa, enga\u00f1osa o que est\u00e9 de alguna otra forma evidentemente infundada, como tampoco abusar\u00e1s de ning\u00fan sistema de denuncias o solicitud de apelaciones de Tinder que est\u00e9 a disposici\u00f3n.\n-La licencia que se te concede en virtud de estas Condiciones y cualquier autorizaci\u00f3n para acceder a los Servicios se revocar\u00e1 autom\u00e1ticamente si realizas cualquiera de los actos mencionados con anterioridad.\n-2d. Contenido prohibido\n-Tinder proh\u00edbe subir o compartir contenido que:\n-Podr\u00eda considerarse razonablemente ofensivo o que pudiera acosar, molestar, avergonzar o alarmar a otra persona;\n-Sea obsceno, pornogr\u00e1fico, violento o que de otra manera pudiera ofender la dignidad humana, o que contenga im\u00e1genes de desnudos;\n-Sea abusivo, insultante, amenazante, discriminatorio o que promueva o fomente el racismo, el sexismo, el odio o la intolerancia;\n-Sea ilegal o promueva o facilite cualquier actividad ilegal, lo que incluye, entre otras, el terrorismo, la trata de personas, el uso de \"mulas\" de dinero, el abuso y la explotaci\u00f3n infantil o la incitaci\u00f3n a la violencia o el odio;\n-Fomente o facilite alguna actividad que pueda derivar en da\u00f1os al usuario u otra persona, lo que incluye, por ejemplo, promover autolesiones, trastornos alimentarios, desaf\u00edos peligrosos, extremismo violento o informaci\u00f3n err\u00f3nea que pueda ser da\u00f1ina;\n-Sea difamatorio, injurioso o falso;\n-Se relacione con actividades comerciales (lo que incluye, por ejemplo, ventas, competencias, empleo u oportunidades de inversi\u00f3n, promociones y publicidad, solicitud de servicios, trabajo sexual, relaciones del tipo \u201csugar daddy\u201d o \u201csugar baby\u201d, enlaces a otros sitios web o n\u00fameros de tel\u00e9fono de l\u00ednea pr\u00e9mium);\n-Implique o facilite la transmisi\u00f3n de \"correo basura\" o spam;\n-Contenga alg\u00fan tipo de programa esp\u00eda; programas publicitarios maliciosos; virus; archivos da\u00f1ados; gusanos inform\u00e1ticos o cualquier otro c\u00f3digo malicioso dise\u00f1ado para interrumpir o da\u00f1ar alg\u00fan software, hardware, sistema de telecomunicaciones, redes, servidores u otros equipos, o bien limitar su funcionalidad; caballos de Troya o alg\u00fan otro material dise\u00f1ado para da\u00f1ar, interceptar maliciosamente o expropiar cualquier dato o informaci\u00f3n personal, o bien interferir con estos, ya sea de Tinder o de alg\u00fan otro tipo;\n-Infrinja los derechos de terceros (lo que incluye, sin car\u00e1cter limitante, derechos de propiedad intelectual y derechos de privacidad);\n-Incluya la imagen de otra persona o sea similar a esta sin el consentimiento de dicha persona (o, en el caso de los menores de edad, sin el consentimiento de sus padres o tutores);\n-Incluya una imagen de un menor de edad, o que sea similar a este, sin estar acompa\u00f1ado de los padres o tutores del menor de edad o sin que est\u00e9 completamente vestido, o que de alguna otra forma represente o implique un menor de edad involucrado en actividades sexuales;\n-Sea inconsecuente con el uso previsto de los Servicios; o\n-Pueda da\u00f1ar la reputaci\u00f3n de Tinder o sus afiliados, lo que significa cargar o compartir contenido en la plataforma de Tinder que difame a Tinder o sus afiliados, o que promueva el uso inapropiado del Servicio o de cualquier servicio prestado por los afiliados de Tinder.\n-Subir o compartir contenido que infrinja estos T\u00e9rminos (\u201cContenido prohibido\u201d) derivar\u00e1 en la suspensi\u00f3n o rescisi\u00f3n inmediata de tu cuenta.\n-3. CONTENIDO\n-Es importante que comprendas tus derechos y responsabilidades respecto del contenido presente en nuestros Servicios, lo que incluye cualquier contenido que proporciones o publiques. Tienes expl\u00edcitamente prohibido publicar contenido inapropiado.\n-Mientras usas nuestros Servicios, tendr\u00e1s acceso a: (i) contenido que subas o proporciones durante el uso de nuestros Servicios, incluso si es sugerido por nuestros Servicios (\u201cTu contenido\u201d); (ii) contenido que otros usuarios suban o proporcionen durante el uso de nuestros Servicios (\u201cContenido de usuarios\u201d); y (iii) contenido que Tinder proporciona en nuestros Servicios y mediante ellos (\u201cNuestro contenido\u201d).\n-Peri\u00f3dicamente, Tinder puede usar, o bien ofrecerte cierta tecnolog\u00eda habilitada por software que utiliza inteligencia artificial o sistemas de aprendizaje autom\u00e1tico (\u201cTecnolog\u00eda de IA\u201d), como parte de los Servicios. Eres exclusivamente responsable de todo el contenido generado por dicha Tecnolog\u00eda de IA que crees, subas o compartas. En este Acuerdo, \u201ccontenido\u201d incluye, sin car\u00e1cter limitante, cualquier texto, imagen, video, audio u otro material presente en nuestros Servicios, lo que incluye la informaci\u00f3n de los perfiles de los usuarios y los mensajes directos entre usuarios, y cualquier contenido generado por la Tecnolog\u00eda de IA que crees, subas o compartas.\n-3a. TU CONTENIDO\n-Eres responsable de Tu contenido. No compartas nada que no quieras que otras personas vean, que pueda infringir este Acuerdo o que pueda exponerte a ti o a nosotros a responsabilidades jur\u00eddicas.\n-Eres exclusivamente responsable de Tu contenido y, por lo tanto, aceptas indemnizarnos, defendernos, liberarnos y eximirnos de cualquier reclamo realizado en relaci\u00f3n con Tu contenido.\n-Declaras y nos garantizas que la informaci\u00f3n que nos proporcionas a nosotros o a cualquier otro usuario es precisa, incluida la informaci\u00f3n que se env\u00eda a trav\u00e9s de fuentes de terceros (si corresponde), y que actualizar\u00e1s la informaci\u00f3n de tu cuenta seg\u00fan sea necesario para garantizar su precisi\u00f3n. El contenido incluido en tu perfil individual debe ser relevante para el uso previsto de nuestros Servicios. No debes subir ning\u00fan tipo de Contenido prohibido, y tu contenido, adem\u00e1s, debe cumplir con las\n-Reglas de la comunidad\n-No debes mostrar ning\u00fan tipo de informaci\u00f3n de contacto personal, bancaria ni de pago entre personas, ya sea tuya o de cualquier otra persona (por ejemplo, nombres, direcciones de casa o c\u00f3digos postales, n\u00fameros de tel\u00e9fono, correos electr\u00f3nicos, URL, tarjetas de cr\u00e9dito o d\u00e9bito, nombres de usuario de pagos entre personas u otros detalles bancarios). Si decides revelar alg\u00fan tipo de informaci\u00f3n personal sobre ti a otros usuarios, lo haces bajo tu propio riesgo. Te recomendamos encarecidamente tener cuidado con la divulgaci\u00f3n de cualquier informaci\u00f3n personal en l\u00ednea.\n-Tu perfil individual estar\u00e1 visible para otras personas del mundo, por lo que debes asegurarte de sentirte c\u00f3modo con compartir Tu contenido antes de publicarlo. Declaras y aceptas que Tu contenido puede ser visto por otros usuarios y que, sin perjuicio de estos T\u00e9rminos, otros usuarios podr\u00edan compartir Tu contenido con terceros. Al subir Tu contenido, nos declaras y garantizas que cuentas con todas las licencias y los derechos necesarios para ello y nos concedes autom\u00e1ticamente una licencia para usar Tu contenido seg\u00fan lo estipulado en la Secci\u00f3n 7 a continuaci\u00f3n.\n-Podemos proporcionar herramientas y funciones para mejorar la expresi\u00f3n individual a trav\u00e9s de Tu contenido y el Contenido de usuarios y estamos desarrollando nuevas tecnolog\u00edas constantemente para mejorar nuestros Servicios. Algunas herramientas o funciones pueden permitirte generar o mejorar contenido en funci\u00f3n de Tu contenido, lo que incluye con el uso de Tecnolog\u00eda de IA. Este a\u00fan seguir\u00e1 siendo Tu contenido y ser\u00e1s responsable de \u00e9l y su exactitud, as\u00ed como del uso que hagas de este en nuestros Servicios, y de cualquier decisi\u00f3n tomada, acciones realizadas o no realizadas en funci\u00f3n de Tu contenido. Ten cuidado a la hora de elegir y compartir Tu contenido.\n-Entiendes y aceptas que podemos analizar, acceder, almacenar y usar Tu contenido, incluidos mensajes y otras comunicaciones, para monitorear, desarrollar, personalizar y mejorar nuestros Servicios, incluso mediante el uso de aprendizaje autom\u00e1tico y otras tecnolog\u00edas automatizadas, de acuerdo con las leyes aplicables.\n-Comprendes y aceptas que podemos supervisar o revisar Tu contenido, y que tenemos el derecho de quitar, eliminar, editar, limitar o bloquear cualquier parte de Tu contenido o evitar el acceso a este, en cualquier momento y a nuestra absoluta discreci\u00f3n. Si Tu contenido est\u00e1 prohibido conforme a las leyes de alguna jurisdicci\u00f3n en la que nuestros Servicios est\u00e9n disponibles, podemos eliminarlo aunque no sea ilegal en tu ubicaci\u00f3n. Asimismo, comprendes y aceptas que no tenemos ninguna obligaci\u00f3n de mostrar ni revisar Tu contenido.\n-3b. CONTENIDO DE MIEMBROS\n-A pesar de que tendr\u00e1s acceso a Contenido de usuarios, este no te pertenece, por lo que no copiar\u00e1s ni usar\u00e1s Contenido de usuarios con ning\u00fan prop\u00f3sito salvo lo que se contempla en estos T\u00e9rminos.\n-Los dem\u00e1s usuarios tambi\u00e9n compartir\u00e1n contenido en nuestros Servicios. El Contenido de miembros pertenece al usuario que public\u00f3 el contenido y se almacena en nuestros servidores, adem\u00e1s de mostrarse seg\u00fan las instrucciones de ese usuario.\n-Debes revisar cuidadosamente y verificar de forma independiente el Contenido de usuarios para comprobar su exactitud. Los dem\u00e1s usuarios pueden usar herramientas para generar o mejorar contenido en funci\u00f3n del Contenido de usuarios que proporcionen. El Contenido de usuarios puede incluir informaci\u00f3n sesgada, incorrecta, da\u00f1ina, ofensiva o enga\u00f1osa. Los dem\u00e1s usuarios son responsables de su Contenido de usuarios, as\u00ed como de todas las decisiones tomadas, acciones realizadas o no realizadas seg\u00fan el uso que hagan del Contenido de usuarios. Tinder renuncia expresamente a toda responsabilidad por dicho Contenido de usuarios.\n-No tienes ning\u00fan derecho relacionado con el Contenido de usuarios y, salvo que Tinder lo autorice expl\u00edcitamente, solo puedes usar el Contenido de usuarios en la medida en que dicho uso est\u00e9 alineado con el prop\u00f3sito de nuestros Servicios de permitirte comunicarte y conocer otras personas. No debes copiar el Contenido de usuarios ni usarlo con fines comerciales, como tampoco para enviar spam, acosar ni realizar amenazas il\u00edcitas. Nos reservamos el derecho de dar de baja tu cuenta si haces uso inapropiado del Contenido de usuarios. Las limitaciones de uso establecidas en la Secci\u00f3n 2 con respecto al Contenido prohibido se aplican al uso que hagas del Contenido de usuarios, as\u00ed como a cualquier otro contenido. Para obtener informaci\u00f3n sobre c\u00f3mo se ordenan los perfiles recomendados, consulta el art\u00edculo\n-El m\u00e9todo detr\u00e1s de nuestro matching\n-3c. NUESTRO CONTENIDO",
+   "added": 400,
+   "removed": 435
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -48,3 +48,3 @@\n Premium\n-24 credits/yr\n+12 creditos/a\u00f1o\n $229.50/yr",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Bank of America",
+   "page": "terms",
+   "url": "https://www.bankofamerica.com/online-banking/service-agreement.go",
+   "diff": "@@ -11,4 +11,2 @@\n Bank of America Online Banking Service Agreement\n-WE\u2019RE UPDATING OUR ONLINE BANKING SERVICE AGREEMENT EFFECTIVE <DATE>. Preview our new\n-Online Banking Service Agreement\n Table of Contents:\n@@ -83,2 +81,3 @@\n D. Our Liability for ACH and Wire Transfers\n+E. Bill Pay Transactions Using External Accounts\n Show Topics for\n@@ -696,3 +695,3 @@\n Someone has transferred or may transfer money from your account without your permission\n-We must hear from you no later than 60 days after we have sent the FIRST statement on which the problem or error appeared (or 90 days if the problem or error relates to a transfer from an account maintained at another financial institution). Please see Section 8.B below regarding reporting an error involving an unauthorized transaction.\n+We must hear from you no later than 60 days after we have sent the FIRST statement on which the problem or error appeared (or 90 days if the problem or error relates to a transfer initiated through the Bill Pay Service and funded from an account maintained at another financial institution for payment to an external, third-party Payee). Please see Section 8.B below regarding reporting an error involving an unauthorized transaction.\n If you tell us verbally, we may require you to send us your complaint or question in writing or via email within ten (10) business days. When you contact us, please provide the following information:\n@@ -707,2 +706,3 @@\n If your transaction was a Remittance Transfer (transfer of funds initiated by a consumer primarily for personal, family or household purposes to a designated recipient in a foreign country), please see the error resolution procedures in Section 6.F.\n+Except for transfers initiated through the Bill Pay Service that are funded from an account maintained at another financial institution (\u201cExternal Account\u201d) for payment to an external, third-party Payee, Bank of America is not responsible for investigating or resolving errors or other disputes for electronic transactions that appear on your External Account statement. Please contact the financial institution that provided such statement to you in accordance with the terms and conditions of your External Account.\n B. Limitation of Liability for Online Banking Transactions\n@@ -710,3 +710,3 @@\n overdraft protection service.\n-You will have no liability for unauthorized transactions if you notify us within 60 days after the statement showing the transaction has been sent to you (or 90 days if the transaction was from an account maintained at another financial institution). If you do not, you may not get back any of the money you lost from any unauthorized transaction that occurs after the close of the 60-day period (or 90 day period if the transaction was from an account maintained at another financial institution), if we can show that we could have stopped the transaction if you had notified us in time. If qualifying extenuating circumstances (such as a long trip or hospital stay) kept you from telling us, we may extend the time periods.\n+You will have no liability for unauthorized transactions if you notify us within 60 days after the statement showing the transaction has been sent to you (or 90 days if the transaction was initiated through the Bill Pay Service and funded from an account maintained at another financial institution for payment to an external, third-party Payee). If you do not, you may not get back any of the money you lost from any unauthorized transaction that occurs after the close of the 60-day period (or 90 day period if the transaction was initiated through the Bill Pay Service and funded from an account maintained at another financial institution for payment to an external, third-party Payee), if we can show that we could have stopped the transaction if you had notified us in time. If qualifying extenuating circumstances (such as a long trip or hospital stay) kept you from telling us, we may extend the time periods.\n A transaction is unauthorized for purposes of this Section, if it is initiated from your account by someone other than you, who does not have actual authority to initiate that transaction and from which you receive no benefit. Transactions resulting from the following situations are considered \u201cunauthorized\u201d for purposes of this Section:\n@@ -719,2 +719,3 @@\n Note: These liability rules are established by Regulation E, which implements the federal Electronic Fund Transfer Act and does not apply to business accounts. All terms in this Section not defined in this Agreement but defined in Regulation E will have the meaning given in Regulation E. Our liability policy regarding unauthorized transactions on consumer deposit accounts may give you more protection, provided you report the transactions promptly. Also, the state law applicable to your account may give you more time to report an unauthorized transaction or may give you more protection than Regulation E.\n+Except for transfers initiated through the Bill Pay Service that are funded from an External Account for payment to an external, third-party Payee, the unauthorized transaction provisions of this Section 8.B apply only to accounts maintained with Bank of America.\n C. Our Liability for Failure to Complete Transactions\n@@ -729,2 +730,4 @@\n For the provisions governing our liability for Same-Business Day Outbound wire transfers and international transfers please see Section 6. Our liability for Three-Business Day ACH transfers and Next Business Day ACH transfers involving a transfer to or from a Bank of America consumer account is as described in Section 8.\n+E. Bill Pay Transactions Using External Accounts\n+For transfers initiated through the Bill Pay Service that are funded from an External Account and paid to an external, third-party payee, you should contact us directly regarding any questions or errors concerning the transaction. Bank of America is responsible for this Service and for investigating and resolving any errors in accordance with this Agreement. We do not provide a separate periodic statement for these transfers. The transactions will appear on the account statement provided by the financial institution that maintains the External Account.\n 9. Additional Provisions Only Applicable to Small Business Accounts",
+   "added": 7,
+   "removed": 4
+  }
+ ]
+}

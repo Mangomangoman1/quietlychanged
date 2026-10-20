@@ -294,5 +294,19 @@
    "https://www.shopify.com/pricing",
    "yearly Grow/Advanced prices rotate between $79/$299 and $89/$359 across requests (6/4 split in 10 checks Oct 19)"
   ]
+ ],
+ "failed_2026-10-20": [
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP",
+   "SSLError"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+   "SSLError"
+  ]
  ]
 }

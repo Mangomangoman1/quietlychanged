@@ -1,0 +1,32 @@
+[
+  {
+    "service": "Proton",
+    "page": "terms",
+    "headline": "Inactive free accounts: deletion warnings are now only a \"courtesy\"",
+    "what": "Proton edited the inactive-accounts section of its Terms of Service, and the page still says \"Last modified: October 09, 2026.\" Free accounts inactive for 12 months or more can have the account and some or all of its data deleted, including Proton Mail emails, Proton Drive files, Proton Calendar entries and Proton Pass passwords. Until yesterday the terms promised: \"You will receive notices 30, 15 and 7 days in advance before such action is taken on the recovery email associated with your Account.\" As of October 20, 2026 that sentence reads: \"As a mere courtesy, the Company will aim to send notice to the recovery email associated with your Account 30, 15 and 7 days in advance before such action is taken.\" The warnings went from a promise to a best effort. Paid accounts are still always treated as active, and logging in on the web, desktop or mobile apps at least once every 12 months still counts as activity.",
+    "who": "Anyone with a free Proton Mail, Drive, Calendar or Pass account they rarely use, especially backup or secondary accounts, and anyone whose recovery email is missing or out of date",
+    "url": "https://proton.me/legal/terms",
+    "seo_title": "Proton terms: deletion warnings for inactive free accounts are now 'a mere courtesy' (Oct 2026)",
+    "seo_desc": "Proton's terms used to promise 30-, 15- and 7-day warnings before deleting inactive free accounts. Now it only 'will aim to' send them, 'as a mere courtesy.'"
+  },
+  {
+    "service": "Spotify",
+    "page": "pricing",
+    "headline": "Premium free trial doubled to 2 months for new users, until November 1",
+    "what": "Spotify's US Premium page changed its free trial from \"Try 1 month for $0\" to \"Try 2 months for $0\" on October 20, 2026. The offer covers Premium Individual only and is \"only available if you haven't tried Premium before.\" After the two free months it costs $12.99 per month. The page now adds \"Offer ends November 1, 2026.\"",
+    "who": "People in the US who have never had Spotify Premium; past or current subscribers don't qualify",
+    "url": "https://www.spotify.com/us/premium/",
+    "seo_title": "Spotify Premium free trial is 2 months until Nov 1, 2026, then $12.99/mo",
+    "seo_desc": "Spotify doubled its US Premium Individual free trial to 2 months for first-time users. The offer ends November 1, 2026; after that it's $12.99 a month."
+  },
+  {
+    "service": "Slack",
+    "page": "pricing",
+    "headline": "New \"Frontline teams\" add-on for Enterprise+",
+    "what": "Slack's pricing page now lists a new \"Frontline teams\" add-on, marked \"New.\" Slack describes it as an \"Enterprise+ add-on giving field workers Slack for task management, agentic support & secure Salesforce access.\" It appears in the feature list of every plan and in the comparison table as an add-on. The page shows no price for it.",
+    "who": "Companies on Slack Enterprise+ with field, retail or other frontline staff",
+    "url": "https://slack.com/pricing",
+    "seo_title": "Slack adds a Frontline teams add-on for Enterprise+ (Oct 2026)",
+    "seo_desc": "Slack's pricing page now lists a new Frontline teams add-on for Enterprise+, for field workers' tasks, AI support and Salesforce access. No price is shown."
+  }
+]
