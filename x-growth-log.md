@@ -309,3 +309,119 @@ Account: @QuietlyChanged (id 2110481675654467584). Created 2026-10-14.
 3. Reply @TheStreet (Verizon Regulatory Charge $0.21→$0.26 Nov 1): https://x.com/QuietlyChanged/status/2111963353799168077 (posted only ~36s after #2; spacing slip, single copy confirmed)
 4. Reply @6ixxtar (Rocket Money Premium+ Nov 2): https://x.com/QuietlyChanged/status/2111966574169165959
 Skipped: optional @AGTPinsights reply (repeat of Delta theme).
+
+## Snapshot 2026-10-19 ~9:45 AM MT (Monday morning X growth session)
+- Followers: 0 | Following: 10 | Posts: 61 | Media: 29 | Likes given: 0 (day 5, still zero followers)
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 17 5:38 PM | Reply @DragonOfVEN (ToS emails translated) | **210** | 0 | 0 | still climbing slowly (201 last night) |
+| Oct 18 5:24 PM | Reply @trikcode (Delta AI-agent clause) | **41** | 0 | 0 | 2nd-best reply ever; mega-thread (~2.6M) |
+| Oct 18 5:30 PM | Delta clause original | 4 | 0 | 0 | |
+| Oct 18 5:31 / 5:44 PM | Replies @TheStreet, @6ixxtar | 2 / 2 | 0 | 0 | |
+| Oct 18 AM + deep dive | BofA, translated list, Evernote, Roblox, 4 replies | 3–6 | 0 | 0–1 | |
+| Oct 19 6:23 AM | Shopify two-yearly-prices correction (daily report) | 2 | 0 | 0 | |
+
+### What we learned
+1. Only replies that are early or near the top of a big thread break out (DragonOfVEN 210, trikcode 41). Everything else, originals included, sits at 2–6 impressions. Originals have never passed 11.
+2. Still 0 followers after 61 posts over 5 days. Throttling looks account-level. Per the Oct 17 plan, it's time to raise phone verification and finishing X's "Let's get you set up" prompt with Samuel (it needs his phone, so the parent has to ask).
+3. Today's best opening is a primary-source correction on the Meta Commercial Terms story. Headlines say Meta "removed" the scraping language. The live Oct 30 preview drops the "train" sentence, but it still has businesses authorize Meta's "web scrapers, bots, robots, spiders, crawlers" on their linked sites and lets it "create test credentials". Almost nobody in the coverage mentions that second part.
+4. Watch reply_settings before drafting: the best ratio target today (@Alvin1492840, 5.5k imp / 1 reply) only lets verified accounts reply.
+
+### Strategy adjustments
+- Target posts that have 0–1 replies and 1k+ impressions, ideally within a few hours of posting; one mega-thread shot per session at most.
+- New image format today: a typeset fine-print strike-through vs highlight, labeled with sources (1080x1350).
+- Volume: 1 original + 3 replies this session (light, since reach is throttled).
+- Link in 1 of 3 replies (the primary-source one under the news post).
+
+### Drafted for publish (Monday morning, parent to post)
+- Packet: social/2026-10-19/am/xgrowth-am-drafts.md (image: social/2026-10-19/am/meta-crawler-clause-oct30-v3.png)
+
+## Published 2026-10-19 morning
+(Shopify correction original posted 6:23 AM: https://x.com/QuietlyChanged/status/2112157798599381405)
+1. Reply @OwenGregorian (Meta crawl grant): https://x.com/QuietlyChanged/status/2112209963799994382
+2. Original + image (Meta Oct 30 crawler clause): https://x.com/QuietlyChanged/status/2112211608046911947
+3. Reply @suraj_sharma14 (FTC 2024 retroactive amendment warning): https://x.com/QuietlyChanged/status/2112213218340794510
+4. Reply @ethanwalkerman (Meta bots in fine print): https://x.com/QuietlyChanged/status/2112214789871276151
+Profile after: 0 followers, 10 following, 65 posts, "Under review" badge still shown. Phone verification approved by Samuel Oct 19.
+
+## Snapshot 2026-10-19 ~5:25 PM MT (Monday evening X growth session)
+- Followers: 0 | Following: 10 | Posts: 68 | Media: 33 | Likes given: 0 (day 5; first session since phone verification at 10:14 AM)
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 17 5:38 PM | Reply @DragonOfVEN (ToS emails translated) | **210** | 0 | 0 | flat since this morning |
+| Oct 18 5:24 PM | Reply @trikcode (Delta AI-agent clause) | **42** | 0 | 0 | |
+| Oct 19 3:16 PM | USPS sender-billed-duties original | 6 | 0 | 1 (self) | posted after phone verification |
+| Oct 19 10:04 AM | Reply @suraj_sharma14 (FTC retroactive amendment) | 6 | 0 | 0 | parent now 41.7k imp, 39 replies |
+| Oct 19 9:57 AM | Meta Oct 30 crawler-clause original | 4 | 0 | 0 | |
+| Oct 19 10:10 AM | Reply @ethanwalkerman | 3 | 0 | 0 | |
+| Oct 19 3:23 / 3:30 PM | USPS self-reply / Verizon Glance original | 2 / 2 | 0 | 0 | |
+| Oct 19 6:23 AM / 9:51 AM | Shopify correction / Reply @OwenGregorian | 2 / 2 | 0 | 0 | |
+
+### What we learned
+1. Phone verification hasn't changed reach yet: the three posts after it got 2–6 impressions, the same as before. Give it 2–3 more days before calling it, and check whether the "Under review" badge clears.
+2. Today's 9 posts, 4 of them on one story (Meta), averaged ~3 impressions. Repeating a story across posts isn't helping; spread topics.
+3. The best reply targets tonight are people asking a direct question or naming a specific price ("what's the real price of Disney+?", "$20 a month for Peacock"). A factual answer can become the top reply on a 1–2k-impression post with only a few replies, which is the pattern behind the DragonOfVEN result.
+4. Our price-history data (10 services, sourced) is now a ready content bank for consumer complaint replies, and hasn't been used on X yet.
+
+### Strategy adjustments
+- New image format: dark, bold bar chart (1080x1350), unlike the cream serif cards and fine-print crops used so far.
+- Lead with consumer streaming price questions tonight (Disney+, Peacock); keep the Meta crawl grant to one reply, under the 828k-follower @socialmedia2day post with 0 replies.
+- Volume: 1 original (+ optional self-reply with link) and 3 replies.
+- Next sessions: mine price_history.json for quick-answer replies when people complain about Netflix, Spotify, YouTube Premium, Apple TV or HBO Max prices. Keep the Xfinity deals-page quote ready for internet-bill complaints.
+- If reach is still at 2–6 per post by Oct 21–22 despite verification, consider dropping to one strong original a day plus replies only to question-style posts, and ask whether X's "Let's get you set up" prompt needs finishing.
+
+### Drafted for publish (Monday evening, parent to post)
+- Packet: social/2026-10-19/pm/xgrowth-pm-drafts.md (image: social/2026-10-19/pm/streaming-launch-vs-today.png; generator make_pm.py)
+
+## Published 2026-10-19 evening
+- 5:25 PM MDT reply to @mr_notblah_ (Disney+ bundle prices): https://x.com/QuietlyChanged/status/2112324354751226212
+- 5:31 PM MDT original, streaming launch-vs-today chart: https://x.com/QuietlyChanged/status/2112325923169268124
+- 5:32 PM MDT self-reply, link to /subscription-price-history/: https://x.com/QuietlyChanged/status/2112326065591091382
+- 5:38 PM MDT reply to @hoopslikegirls (YouTube Premium Plus): https://x.com/QuietlyChanged/status/2112327517348729016
+- 5:43 PM MDT reply to @socialmedia2day (Meta business terms crawl grant): https://x.com/QuietlyChanged/status/2112328926068715912
+All one-copy checks passed.
+
+## Snapshot 2026-10-20 ~9:20 AM MT (Tuesday morning X growth session)
+- Followers: 0 | Following: 10 | Posts: 73 | Media: 34 | Likes given: 0 (day 6; nothing posted yet today because the site is down and the Proton/Spotify posts were held)
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 19 3:16 PM | USPS sender-billed-duties original | 7 | 0 | 1 (self) | best of yesterday |
+| Oct 19 5:31 PM | Streaming launch-vs-today chart original | 4 | 0 | 1 (self) | new dark bar-chart format, no lift |
+| Oct 19 3:30 PM | Verizon Glance original | 4 | 0 | 0 | |
+| Oct 19 5:38 PM | Reply @hoopslikegirls (YouTube Premium) | 3 | 0 | 0 | parent 1.0k imp |
+| Oct 19 5:25 / 5:43 PM | Replies @mr_notblah_, @socialmedia2day | 2 / 2 | 0 | 0 | |
+| Oct 19 5:32 PM | Self-reply with site link | 0 | 0 | 0 | site now 404 anyway |
+
+### What we learned
+1. Day two after phone verification and reach is unchanged: every post from yesterday got 0–7 impressions, and question-style reply targets didn't break out either (2–3). Throttling still looks account-level.
+2. The live consumer story today is Disney+/Hulu: existing subscribers start paying the Sep 23 prices on bills dated Oct 21 or later (confirmed on both help-center price pages), and people are getting the notices now. @adrianachechik's complaint is at 43k impressions; lots of smaller angry Hulu posts this morning.
+3. Disney's own price page puts an asterisk on every "No Ads" plan ("Ads will be served in select live and linear programming" plus "promotional or sponsored content"), which answers the "why do I see ads while paying" complaints with a primary source.
+4. With quietlychanged.com down (GitHub account issue), every link has to be a primary source for now.
+
+### Strategy adjustments
+- New image format: high-contrast yellow "deadline notice" with a giant date and old/new price table (1080x1350), unlike the cream serif cards, fine-print crops and dark chart.
+- Lead with a time-bound hook ("tomorrow") and a concrete action (check your billing date).
+- Volume: 2 originals (Disney/Hulu Oct 21, Proton with primary-source link) + 3 replies, all different angles on different threads.
+- Spotify trial post stays held until the site is back (it's weaker without the article).
+- Checkpoint: if Oct 21–22 still shows 2–7 impressions per post, cut to one original a day plus 2–3 replies, and raise X's "Let's get you set up" prompt / "Under review" badge with Samuel.
+
+### Drafted for publish (Tuesday morning, parent to post)
+- Packet: social/2026-10-20/am/xgrowth-am-drafts.md (images: social/2026-10-20/am/disney-hulu-oct21-bill.png, social/2026-10-20/am/proton-inactive-deletion-notice.png)
+
+## Published 2026-10-20 morning (posted ~12:07-12:31 PM MDT, delayed by approval)
+- Original, Disney+/Hulu Oct 21 bill image: https://x.com/QuietlyChanged/status/2112606756018983233
+- Reply @adrianachechik: https://x.com/QuietlyChanged/status/2112608346205483141
+- Reply @StrwbyCourtCake: https://x.com/QuietlyChanged/status/2112609764710736179
+- Reply @amyjeeneacomb: https://x.com/QuietlyChanged/status/2112611218271973389
+- Original, Proton "mere courtesy" (links proton.me): https://x.com/QuietlyChanged/status/2112612698152370398
+All one-copy checks passed.
+
+- 12:40 PM MDT original, Spotify 2-month trial (held for outage, site link live again): https://x.com/QuietlyChanged/status/2112614908743618730
+
+## Published 2026-10-20 deep dive
+- Pinterest Nov 12 terms (mass arbitration + CTV ads), ~13:10 MDT, image pinterest-arbitration-optout.png: https://x.com/QuietlyChanged/status/2112622382947164333
+- IKEA Gift Registry ends after Dec 27, ~13:20 MDT, image ikea-gift-registry-deleted-dec27.png: https://x.com/QuietlyChanged/status/2112625075136631104 (an earlier 13:17 attempt never appeared; one copy on profile)
+- Google Play Nov 17 terms: site only, no X post.
