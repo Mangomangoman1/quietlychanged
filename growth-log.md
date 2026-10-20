@@ -236,3 +236,10 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 **Drafts handed to parent** (social/2026-10-20/distribution-drafts.md): X reply under our 1:10 PM post with the opt-out template (261 weighted); Bluesky with the deep-dive image (276); HN with the Pinterest preview as URL (78-char title) plus optional comment; r/Pinterest PSA with Pinterest links only (confirm rules in the browser; Reddit 403s the box); pitch email to Sarah Perez / TechCrunch (sarahp@techcrunch.com, from her author page; she wrote Pinterest's Oct 6 AI beauty-pins story).
 - Skipped: a second X original (already posted today); Ashley Belanger (Evernote pitch still held to ~Oct 21; don't stack pitches).
 **Next:** On Nov 12 the daily run should link to this article; consider a reminder post on Nov 12 that the opt-out window is open, and another ~Dec 8 before it closes.
+
+## 2026-10-20: distribution (Pinterest Nov 12 terms)
+- X reply (opt-out template): https://x.com/QuietlyChanged/status/2112651934842884235
+- Bluesky: https://bsky.app/profile/quietlychanged.bsky.social/post/3mydkbf7lzs2d
+- HN: https://news.ycombinator.com/item?id=50172734 (no comment yet; add optional comment only if it gets traction)
+- Pitch: Sarah Perez (TechCrunch) sarahp@techcrunch.com, sent ~3:06 PM MT from quietlychangedbiz@gmail.com
+- Reddit r/Pinterest: skipped (sub is for marketers, bans self-promo; box not logged in to old.reddit)
