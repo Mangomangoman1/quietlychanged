@@ -425,3 +425,32 @@ All one-copy checks passed.
 - Pinterest Nov 12 terms (mass arbitration + CTV ads), ~13:10 MDT, image pinterest-arbitration-optout.png: https://x.com/QuietlyChanged/status/2112622382947164333
 - IKEA Gift Registry ends after Dec 27, ~13:20 MDT, image ikea-gift-registry-deleted-dec27.png: https://x.com/QuietlyChanged/status/2112625075136631104 (an earlier 13:17 attempt never appeared; one copy on profile)
 - Google Play Nov 17 terms: site only, no X post.
+
+## Snapshot 2026-10-20 ~5:25 PM MT (Tuesday evening X growth session)
+- Followers: **1** (first follower) | Following: 10 | Posts: 82 | Media: 39 (day 6)
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 20 1:10 PM | Pinterest Nov 12 arbitration original | **10** | 0 | 1 (self) | best of today; deadline + "how to opt out" |
+| Oct 20 12:40 PM | Spotify 2-month trial original | 6 | 0 | 0 | |
+| Oct 20 12:25 PM | Reply @amyjeeneacomb (Hulu history) | 5 | 0 | 0 | parent 333 imp |
+| Oct 20 12:07 PM | Disney+/Hulu Oct 21 yellow notice original | 4 | 0 | 0 | |
+| Oct 20 12:31 PM / 1:20 PM | Proton / IKEA originals | 3 / 3 | 0 | 0 | |
+| Oct 20 12:19 PM | Reply @StrwbyCourtCake | 3 | 0 | 0 | parent 1.5k imp |
+| Oct 20 12:14 PM / 3:07 PM | Reply @adrianachechik / Pinterest opt-out self-reply | 2 / 2 | 0 | 0 | parent 50k imp, 54 replies |
+
+### What we learned
+1. Still 2–10 impressions per post on day three after phone verification, but the first follower arrived. Reach remains account-level throttled.
+2. The best performer was again an actionable, deadline-driven post (Pinterest opt-out window). Pure price facts on consumer complaint threads still get 2–5.
+3. Replying deep in a 50k-impression thread (54 replies) got 2 impressions; late replies to mega-threads are worthless at our size.
+4. Tonight's live hook is Netflix Q3 earnings (after the close). Finance accounts with 30–40k followers have threads with only 1–3 replies, which is a better reply surface than crowded consumer rants.
+
+### Strategy adjustments
+- New audience test: finance/investor threads on earnings nights, using our price data as the consumer-side angle (pricing power, ad-tier gap). Track whether these replies beat consumer threads.
+- New image format: white step chart with giant "8 / 0" numbers (1200x675), unlike yellow notices, dark bar chart, cream cards and fine-print crops.
+- Reply only where the parent has fewer than ~15 replies.
+- Volume tonight: 1 original + self-reply link + 4 replies.
+- Checkpoint unchanged: if Oct 21–22 still shows 2–10 per post, cut to one original a day plus 2–3 replies and raise the "Under review" badge / setup prompt with Samuel.
+
+### Drafted for publish (Tuesday evening, parent to post)
+- Packet: social/2026-10-20/pm/xgrowth-pm-drafts.md (image: social/2026-10-20/pm/netflix-8-up-0-down.png; generator make_netflix_steps.py)
