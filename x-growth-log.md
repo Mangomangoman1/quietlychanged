@@ -454,3 +454,12 @@ All one-copy checks passed.
 
 ### Drafted for publish (Tuesday evening, parent to post)
 - Packet: social/2026-10-20/pm/xgrowth-pm-drafts.md (image: social/2026-10-20/pm/netflix-8-up-0-down.png; generator make_netflix_steps.py)
+
+## Published 2026-10-20 evening (Netflix Q3 earnings)
+- 1 original (8 up / 0 down chart), ~5:33 PM MDT: https://x.com/QuietlyChanged/status/2112687552268484819
+- 1b self-reply (subscription price history link), ~5:34 PM: https://x.com/QuietlyChanged/status/2112687675933438417
+- 2 reply @RealNickMugalli, ~5:41 PM: https://x.com/QuietlyChanged/status/2112689180287680772
+- 3 reply @Kaizen_Investor, ~5:47 PM: https://x.com/QuietlyChanged/status/2112690866796290073
+- 4 reply @MsReippuert, ~5:54 PM: https://x.com/QuietlyChanged/status/2112692464486342970
+- 5 reply @Blank1268338, ~6:00 PM: https://x.com/QuietlyChanged/status/2112694063300592026
+- All confirmed single copies; no duplicates.
