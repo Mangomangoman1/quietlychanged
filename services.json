@@ -260,5 +260,8 @@
   },
   "Google Play": {
     "terms": "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  },
+  "Shein": {
+    "terms": "https://m.shein.com/us/Terms-and-Conditions-a-399.html"
   }
 }

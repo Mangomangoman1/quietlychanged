@@ -22,5 +22,49 @@
   "what": "Figma's pricing page added \"Audio imports\" to its list of motion and animation features, next to motion variables and easing controls. Plan prices didn't change.",
   "who": "Figma users working on motion design and prototypes",
   "url": "https://www.figma.com/pricing/"
+ },
+ {
+  "service": "Shein",
+  "page": "terms",
+  "headline": "New Oct 21 terms call customer support \"a courtesy,\" not an obligation, when carriers, banks or sellers are at fault",
+  "what": "Shein updated its U.S. Terms of Use today. The top of the page now reads \"Effective Date: October 21st, 2026\" (the previous version was dated September 3, 2026). Open Terms Archive recorded the new version on October 21, and the only substantive edit is a new Section 17, \"Customer Support\": \"SHEIN may, in its discretion, assist with questions about the shipment, delivery, return, refund, or payment of an order, and will handle customer service inquiries in a reasonable manner. Unless a SHEIN policy expressly states otherwise, any such assistance is a courtesy and does not create a contractual obligation for SHEIN to resolve issues caused by carriers, banks, payment processors, Third-Party Sellers, or other third parties. Where a third party's involvement is necessary to resolve your issue, we may refer you to that third party.\" The old Section 17, \"International Users,\" becomes Section 18. Nothing else in the U.S. terms changed. What it means: when a problem traces back to someone other than Shein, such as a delivery company losing or delaying a package, a bank or payment processor declining or double-charging a payment, or one of the marketplace sellers whose items Shein lists, the terms now say Shein's help is voluntary and that it can send you to that company instead. This matters because Shein is also a marketplace. Its terms already say the Services \"enable users in the United States to purchase products from third-party sellers\" and that \"SHEIN neither owns nor takes title to any product sold by a Third-Party Seller\" and \"is not an auctioneer, seller, or carrier of any items that are listed for sale by Third-Party Sellers.\" The new wording has a limit: \"Unless a SHEIN policy expressly states otherwise.\" Shein's existing written promises still apply. For example, the same terms still say claims for \"loss or damage during delivery of the order by the carrier\" must be made to Customer Service \"within fourteen (14) days\" of when you received the goods or should have received them, and that if Shein finds the claim valid it will replace the item or reimburse the purchase price and shipping. Returns still follow Shein's Return Policy. So the change mainly covers everything those policies don't spell out, and it gives Shein written backing for telling you to contact the carrier, your bank or the seller. Like all changes to Shein's terms, it applies as soon as it's posted: Section 1.2 says \"By continuing to use or access any of the Services ... after the posting of changes, you accept and agree to any such changes.\" The arbitration agreement and its 30-day opt-out (written notice to us_legal@sheingroup.com within 30 days \"after first becoming subject to this Arbitration Agreement\") are unchanged. Coverage (checked October 21): we found no news reports or social posts about the new section. What you can do: for a lost or damaged package, file with Shein Customer Service within 14 days, since that promise is written into the terms. Save order pages, chat transcripts and tracking screenshots. If Shein or a seller won't fix a charge for something you never got or that wasn't delivered as agreed, you can dispute it with your card issuer. For credit cards, the FTC says the Fair Credit Billing Act dispute letter must reach the issuer \"within 60 days after the first bill with the error was sent to you.\"",
+  "who": "Anyone who shops on Shein's U.S. website or app, especially buyers of items sold by Third-Party Sellers on Shein's marketplace and anyone dealing with a lost package or a payment problem",
+  "url": "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+  "seo_title": "Shein terms change Oct 21, 2026: customer support is now \"a courtesy,\" not an obligation, for carrier, bank and seller problems",
+  "seo_desc": "Shein's U.S. Terms of Use (effective Oct 21, 2026) add a Customer Support section: help with shipping, refunds or payments is \"a courtesy\" with no contractual obligation when carriers, banks, payment processors or Third-Party Sellers caused the issue. What still applies and what to do.",
+  "sources": [
+   [
+    "Shein U.S. Terms of Use (desktop page)",
+    "https://us.shein.com/Terms-and-Conditions-a-399.html"
+   ],
+   [
+    "Open Terms Archive: Shein Terms of Service change recorded Oct 21, 2026",
+    "https://github.com/OpenTermsArchive/vlopses-us-versions/commit/34dedf82"
+   ],
+   [
+    "FTC: Using Credit Cards and Disputing Charges",
+    "https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges"
+   ]
+  ]
+ },
+ {
+  "service": "IPL",
+  "page": "terms",
+  "headline": "ipl.org shuts down Nov 9, 2026: logins end, uploads and public pages go offline, nothing is migrated",
+  "what": "IPL, the essay and study-help site at ipl.org, is closing. A help-center article titled \"Important Update: IPL is Retiring. Everything You Need to Know.\" (dated September 28, 2026) says: \"Effective November 9, 2026, IPL will be officially retired\" and \"After that date, the site will be taken offline permanently.\" Nothing moves elsewhere: \"We are not migrating any content or product features from IPL to a new platform.\" The article says the shutdown lets the company \"channel our energy into other Learneo businesses\" and points students to Course Hero, QuillBot, Scribbr and LitCharts. Accounts: \"After this date, logins will be disabled and you will no longer have access to your user account.\" If you can't log in, IPL says to email support@ipl.org \"before November 9, 2026. We may not be able to help after support winds down.\" Your uploads: \"You can download everything you've uploaded to IPL before it closes on November 9, 2026. We'd recommend doing this sooner than later.\" After that, \"you won't be able to access your account or retrieve your content.\" Public pages: \"Public pages on IPL will stop being available after November 9, 2026,\" though \"search engines and third-party archive sites may keep cached copies for a while, which is outside our control.\" Data: \"we will delete user accounts and data,\" but \"we may retain certain user information for a limited period of time following November 9, 2026.\" IPL also says it isn't \"selling, transferring, or licensing user-uploaded content to anyone, and we won't use it to train models or build other products.\" Billing: \"All recurring charges will be stopped before November 9, 2026.\" Subscribers with time left past that date \"may be eligible for a prorated refund,\" and IPL says support \"will reach out to you directly.\" Some history: the ipl.org domain once belonged to the Internet Public Library, a nonprofit online library that opened on March 17, 1995, was later run by a consortium headed by Drexel University, and stopped operating in 2015. The site that reopened on the domain around 2020 is a commercial essay repository, which is the service now closing. Coverage (checked October 21): apart from IPL's own help page, we found no news reports or social posts about the shutdown. What to do: log in and download anything you uploaded, especially essays you wrote yourself and don't have elsewhere; if you link to your public IPL pages from a portfolio or class site, save copies now; if you're a paying subscriber, watch the email tied to your account for the refund notice, and contact support@ipl.org before November 9 if you can't get in.",
+  "who": "Students and other users with IPL (ipl.org) accounts, especially anyone who uploaded essays or files, shares public IPL pages, or pays for an IPL subscription",
+  "url": "https://ipl-support.zendesk.com/hc/en-us/articles/43831334972695-Important-Update-IPL-is-Retiring-Everything-You-Need-to-Know",
+  "seo_title": "IPL (ipl.org) is shutting down Nov 9, 2026: download your uploads first (accounts and data deleted)",
+  "seo_desc": "ipl.org is being retired on November 9, 2026. Logins end, uploaded files and public pages go offline, nothing is migrated, and accounts are deleted. How to download your content and get a prorated refund.",
+  "sources": [
+   [
+    "ipl.org",
+    "https://www.ipl.org/"
+   ],
+   [
+    "Wikipedia: Internet Public Library (history of the ipl.org domain)",
+    "https://en.wikipedia.org/wiki/Internet_Public_Library"
+   ]
+  ]
  }
 ]
