@@ -44,7 +44,7 @@ Hi Ernie,
 
 A Tedium-shaped one, we think: ipl.org is shutting down for the second time.
 
-The Internet Public Library opened in March 1995 out of a graduate seminar Joseph Janes led, became ipl2 under a Drexel-led consortium, and closed in 2015 (Joseph Janes wrote "RIP, IPL" for American Libraries at the time). Around 2020 the domain came back as a commercial student-essay site, owned by Barnes & Noble Education as of 2020 per Wikipedia and now one of the "Learneo businesses" alongside Course Hero, QuillBot and Scribbr.
+The Internet Public Library opened in March 1995 out of a graduate seminar Joseph Janes led, became ipl2 under a Drexel-led consortium, and closed in 2015 (Janes wrote "RIP, IPL" for American Libraries at the time). Around 2020 the domain came back as a commercial student-essay site, owned by Barnes & Noble Education as of 2020 per Wikipedia and now one of the "Learneo businesses" alongside Course Hero, QuillBot and Scribbr.
 
 That site now has a quiet retirement notice, dated Sep 28: "Effective November 9, 2026, IPL will be officially retired," "We are not migrating any content or product features," public pages "will stop being available," and accounts and data will be deleted. We haven't found any coverage.
 
