@@ -5,7 +5,7 @@ Image: /workspace/quietlychanged/social/2026-10-20/proton-inactive-deletion-noti
 
 Proton just softened a promise in its terms.
 
-Free accounts inactive 12+ months can be deleted, including mail, Drive files and Pass passwords.
+Free accounts inactive 12+ months can be deleted, mail, files and passwords included.
 
 The old terms: "You will receive notices" 30, 15 and 7 days before.
 Now: "As a mere courtesy," Proton "will aim to."
