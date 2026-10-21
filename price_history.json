@@ -1065,5 +1065,104 @@
     "https://slack.com/pricing"
    ]
   ]
+ },
+ "Audible": {
+  "verified": "2026-10-21",
+  "title": "Audible price history (2020–2026): Premium Plus, Standard and Plus prices",
+  "desc": "Audible US price history since 2020: Premium Plus has stayed $14.95 a month, the $7.95 Plus plan closed to new members on Mar 3, 2026, and Standard launched at $8.99. Dated tables, sources, and daily pricing-page tracking.",
+  "compare": false,
+  "basis": "US list prices for new members, before tax, in nominal dollars, from Audible's announcements, coverage linked below, and our daily snapshots of Audible's membership page; last verified {verified}. Introductory offers (such as Prime member trials or limited-time annual deals) are left out.",
+  "intro": "Audible has not raised the price of its main plan in years: Premium Plus, with one credit a month, has been $14.95 since Audible renamed its Gold plan in August 2020, and Gold cost the same before that. What changed in 2026 was the cheapest way in. On March 3, 2026, Audible launched a $8.99 Standard plan and stopped selling the $7.95 Audible Plus plan to new members, so the lowest price a new customer can pay went up by $1.04, while existing Plus members kept their plan.",
+  "flagship": "Premium Plus (1 credit a month)",
+  "latest": {
+   "date": "2026-03-03",
+   "what": "Audible launched a Standard plan at $8.99 a month in the US (one audiobook a month that you can listen to while you stay a member, plus an unlimited catalog) and closed the $7.95 Audible Plus plan to new members. Premium Plus stayed at $14.95.",
+   "source": "https://www.audible.com/about/newsroom/audible-expands-subscription-offerings-with-new-standard-membership-plan",
+   "source_name": "Audible newsroom"
+  },
+  "faq_last": "Audible has not raised Premium Plus, which has been $14.95 a month since August 2020. The closest thing to an increase came on March 3, 2026, when Audible stopped selling the $7.95 Audible Plus plan to new members and launched an $8.99 Standard plan, so the cheapest plan for new members went from $7.95 to $8.99.",
+  "faq_up": "Premium Plus has not gone up: it was $14.95 a month when it replaced Audible Gold in August 2020 and is still $14.95. The entry price for new members rose from $7.95 (Audible Plus) to $8.99 (Standard) on March 3, 2026.",
+  "plans": {
+   "Premium Plus (1 credit a month)": [
+    [
+     "2020-08-24",
+     14.95,
+     "Renamed from Audible Gold at the same price"
+    ]
+   ],
+   "Premium Plus (2 credits a month)": [
+    [
+     "2020-08-24",
+     22.95,
+     "Renamed from Audible Platinum at the same price"
+    ]
+   ],
+   "Premium Plus annual (12 credits)": [
+    [
+     "2022-01",
+     149.5,
+     "Earliest price on record we found; unchanged since"
+    ]
+   ],
+   "Premium Plus annual (24 credits)": [
+    [
+     "2022-01",
+     229.5,
+     "Earliest price on record we found; unchanged since"
+    ]
+   ],
+   "Standard": [
+    [
+     "2026-03-03",
+     8.99
+    ]
+   ],
+   "Plus (discontinued for new members)": [
+    [
+     "2020-08-27",
+     7.95
+    ],
+    [
+     "2026-03-03",
+     7.95,
+     "Closed to new members; existing members keep it"
+    ]
+   ]
+  },
+  "units": {
+   "Premium Plus annual (12 credits)": "year",
+   "Premium Plus annual (24 credits)": "year"
+  },
+  "notes": [
+   "Audible Plus launched in preview on August 24, 2020, with sign-ups for new customers starting August 27. The same day, Audible Gold and Platinum were folded into Premium Plus, keeping their prices.",
+   "Standard does not give credits. The Verge corrected its launch story to say so: you pick one audiobook a month and lose access to it if you cancel, unlike Premium Plus credits, which buy titles you keep.",
+   "Our daily snapshot of Audible's US membership page on October 21, 2026 shows Standard at $8.99 a month, Premium Plus at $14.95 a month, and annual Premium Plus at $149.50 and $229.50 a year. Since October 16, 2026, it has also shown a limited-time offer of $99 for a year of Premium."
+  ],
+  "sources": [
+   [
+    "Audible newsroom, Mar 3, 2026 (Standard plan)",
+    "https://www.audible.com/about/newsroom/audible-expands-subscription-offerings-with-new-standard-membership-plan"
+   ],
+   [
+    "Audible newsroom, Aug 24, 2020 (Audible Plus and Premium Plus)",
+    "https://www.audible.com/about/newsroom/all-you-can-listen-membership-option-audible-plus-rolls-out-in-preview"
+   ],
+   [
+    "The Verge, Aug 24, 2020",
+    "https://www.theverge.com/2020/8/24/21398875/audible-plus-premium-subscription-membership-plan-credit"
+   ],
+   [
+    "The Verge, Mar 3, 2026",
+    "https://www.theverge.com/entertainment/888560/audibles-new-subscription-option-is-less-expensive-but-lacks-a-major-perk"
+   ],
+   [
+    "Bloomberg, Mar 3, 2026",
+    "https://www.bloomberg.com/news/articles/2026-03-03/audible-launches-cheaper-plan-to-appeal-to-streaming-audiences"
+   ],
+   [
+    "Duskalo Audible price history (annual plan prices on record since Jan 2022)",
+    "https://www.duskalo.com/audible"
+   ]
+  ]
  }
 }
