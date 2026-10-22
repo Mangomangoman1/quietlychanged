@@ -1,0 +1,18 @@
+[
+ {
+  "service": "Shopify",
+  "page": "pricing",
+  "headline": "Plan cards now list in-person selling features instead of a one-line blurb",
+  "what": "On Shopify's pricing page, the \"In-person sales\" row of the plan cards used to read \"Casual, in-person sales at pop-ups and events\" and \"POS Pro: Advanced tools for brick-and-mortar retailers.\" It now lists features instead: \"Accept payments with a phone or card reader,\" \"Customer profiles\" (marked Simple), and \"Returns: At purchase location,\" followed by POS Pro, which is still $89/mo per location. No prices on the cards changed.",
+  "who": "Shopify merchants and shoppers comparing plans for selling in person",
+  "url": "https://www.shopify.com/pricing"
+ },
+ {
+  "service": "Figma",
+  "page": "pricing",
+  "headline": "Enterprise plan now notes you can connect multiple GitHub organizations",
+  "what": "Figma's pricing page added a line under its organization-wide features: \"You can now connect multiple GitHub organizations to a single Figma plan, making it easier to work with code across teams and projects.\" Prices didn't change.",
+  "who": "Teams on Figma's Organization and Enterprise plans that use GitHub",
+  "url": "https://www.figma.com/pricing/"
+ }
+]
