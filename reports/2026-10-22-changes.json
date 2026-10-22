@@ -14,5 +14,49 @@
   "what": "Figma's pricing page added a line under its organization-wide features: \"You can now connect multiple GitHub organizations to a single Figma plan, making it easier to work with code across teams and projects.\" Prices didn't change.",
   "who": "Teams on Figma's Organization and Enterprise plans that use GitHub",
   "url": "https://www.figma.com/pricing/"
+ },
+ {
+  "service": "Fitbit",
+  "page": "terms",
+  "headline": "Third-party apps stop getting your Fitbit data Oct 30 unless you reconnect them in Google Health",
+  "what": "Google is switching off the old Fitbit Web API, the connection that lets other apps read data from your Fitbit account, on October 30, 2026. Google's developer site says: \"On October 30, 2026, the Fitbit Web API will be turned off and will no longer function or sync data to or from Fitbit users.\" The original cutoff was the end of September. On September 28 Google posted a \"one-time 30-day extension\" to developers, and it says that on October 30 \"the legacy Fitbit Web API infrastructure will be decommissioned and permanently turned off.\" Apps have to move to the new Google Health API, and the switch can't happen silently. Google's migration guide says \"existing access and refresh tokens cannot be transferred, requiring users to re-consent to your updated integration.\" In other words, every app you once linked to Fitbit needs you to sign in and approve it again. What it means: if you use a Fitbit with a calorie counter, a training app, an employer or insurance wellness program, or a research study, that app stops receiving new steps, sleep, heart rate and workouts after October 30 unless you reconnect it. The Google Health app (the Fitbit app's new name since May) now warns: \"To keep syncing your fitness, sleep, or wellness data without interruption, reconnect your account through the partner app before October 30, 2026.\" Google also says it can't fix a missed connection for you: \"Google Health Support can't restore or fix your broken connection once Fitbit connections retired on October 30, 2026. Reconnection must be enabled by the partner app's developer.\" If an app shows no reconnect option, Google says \"the app developer hasn't released their updated integration yet.\" Apps that sync through Health Connect on Android or Apple Health on iPhone are not affected; Google says \"your data will continue to sync as usual.\" Data already in your Google Health account is not deleted, according to Google. What the apps are telling users: MyFitnessPal (help article updated October 19) says members \"will need to reconnect the integration in order for data to continue syncing,\" and warns that \"If you already reconnected MyFitnessPal and Google Health after receiving communication from Google, you will still need to complete this reconnection again when prompted by MyFitnessPal.\" The same page lists a known issue, status \"Investigating\": \"Some members are reporting exercise and Step data is not syncing from Google Health after disconnecting and reconnecting.\" Personify Health, an employer wellness platform, tells members: \"The deadline for reconnecting is October 30. After that, syncing through the Fitbit connection stops.\" The University of Minnesota's HR office warned employees on October 8 that anyone who uses a tracker to \"earn wellness points\" needs to reconnect \"by October 30 to continue syncing your activity data.\" Strava has changed too. Google's help page says \"Activities logged in Strava will no longer sync to Google Health via the Strava integration,\" and if you don't update the Strava connection, \"only bikes, runs, hikes, and walks with GPS will continue to sync\" from Google Health to Strava. For research participants, Fitabase, a platform many Fitbit studies use, says the reconnect option stays in the Google Health app \"Through November 30, 2026\" for people who miss the deadline. Google also extended demo accounts used in studies through December 31. Coverage (checked October 22): tech sites covered the Fitbit app becoming Google Health and Google forcing the last holdouts onto the new app (Android Authority, The Verge and TechRadar, around October 12). We found no news story about the October 30 cutoff for connected apps. It appears on Google's developer pages and help center, app help pages, and one small review site's X post. What you can do: open the Google Health app, tap Connections at the top left, then Partner Apps, and look under \"Needs Action.\" Tap \"Tap to reconnect\" where it appears. For apps marked \"Reconnect in partner app,\" open that app, go to its connected apps or integrations settings, choose Google Health or Fitbit, sign in with the Google Account you use for Google Health, and grant the permissions it asks for. If your wellness program pays rewards for steps, check after reconnecting that new days are showing up. A gap could cost you points.",
+  "who": "Anyone who uses a Fitbit device or the Google Health app (formerly the Fitbit app) and has linked it to another app, such as MyFitnessPal, an employer or insurer wellness program (for example Personify Health), a training app, or a research study",
+  "url": "https://developers.google.com/health/about",
+  "seo_title": "Fitbit API shutdown Oct 30, 2026: reconnect MyFitnessPal, wellness and other apps in Google Health or they stop syncing",
+  "seo_desc": "Google turns off the Fitbit Web API on October 30, 2026. Apps linked to your Fitbit (MyFitnessPal, wellness programs, research studies) stop syncing unless you re-approve them in Google Health. Google says it can't fix missed connections. How to check and reconnect.",
+  "sources": [
+   [
+    "Google Health Help: Connect third-party devices & apps (reconnect before Oct 30, 2026)",
+    "https://support.google.com/googlehealth/answer/14236613?hl=en"
+   ],
+   [
+    "Google Health API migration guide (users must re-consent)",
+    "https://developers.google.com/health/migration"
+   ],
+   [
+    "Google Health Community: One-Time 30-Day Extension for Fitbit Web API Shutdown (Sep 28, 2026)",
+    "https://support.google.com/googlehealth/thread/470464840/one-time-30-day-extension-for-fitbit-web-api-shutdown-and-demo-account-lifetime-adjustments?hl=en"
+   ],
+   [
+    "MyFitnessPal Help: October 2026 - Reconnecting Your Google Health (formerly Fitbit) Integration",
+    "https://support.myfitnesspal.com/hc/en-us/articles/49173971348365"
+   ],
+   [
+    "Personify Health: Fitbit is now Google Health",
+    "https://personifyhealth.zendesk.com/hc/en-us/articles/54113714547739-Fitbit-is-now-Google-Health"
+   ],
+   [
+    "University of Minnesota OHR: Attention Fitbit and Personify Health Users (Oct 8, 2026)",
+    "https://hr.umn.edu/HR-Updates/Attention-Fitbit-and-Personify-Health-Users-Its-Time-Move-over-Google-Health"
+   ],
+   [
+    "Fitabase: Key Dates and Timeline (updated Oct 14, 2026)",
+    "https://www.fitabase.com/resources/knowledge-base/google-health-api-migration/key-dates/"
+   ],
+   [
+    "Android Authority: Fitbit holdouts are finally being pushed to Google Health (Oct 12, 2026)",
+    "https://www.androidauthority.com/fitbit-old-app-forced-google-health-update-3721759/"
+   ]
+  ]
  }
 ]
