@@ -463,3 +463,110 @@ All one-copy checks passed.
 - 4 reply @MsReippuert, ~5:54 PM: https://x.com/QuietlyChanged/status/2112692464486342970
 - 5 reply @Blank1268338, ~6:00 PM: https://x.com/QuietlyChanged/status/2112694063300592026
 - All confirmed single copies; no duplicates.
+
+## Snapshot 2026-10-21 ~9:30 AM MT (Wednesday morning X growth session)
+- Followers: **2** (+1 overnight) | Following: 10 | Posts: 88 | Media: 40 (day 7)
+- First organic reply to us: @MsReippuert (1.7k followers) answered our Netflix reply ("8 price hikes and zero rollbacks is honestly some elite confidence").
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 20 1:10 PM | Pinterest Nov 12 arbitration original | **10** | 0 | 1 (self) | still the best of the week |
+| Oct 20 5:48 PM | Reply @MsReippuert (Netflix "bluff") | **8** | 0 | 1 | got an organic reply back |
+| Oct 20 5:33 PM | Netflix 8-up/0-down step chart original | 7 | 0 | 1 (self) | |
+| Oct 20 12:40 PM / 12:25 PM | Spotify trial original / Reply @amyjeeneacomb | 6 / 6 | 0 | 0 | |
+| Oct 20 5:41 PM | Reply @RealNickMugalli (finance, 14.9k-imp parent) | 5 | 0 | 0 | |
+| Oct 20 12:07 / 1:20 PM | Disney+/Hulu notice / IKEA originals | 4 / 4 | 0 | 0 | |
+| Oct 20 5:47 PM / 6:00 PM | Replies @Kaizen_Investor (finance) / @Blank1268338 | 3 / 3 | 0 | 0 | |
+| Oct 20 12:19 PM / 12:31 PM | Reply @StrwbyCourtCake / Proton original | 3 / 3 | 0 | 0 | |
+| Oct 20 12:14 PM / 5:34 PM | Reply @adrianachechik / Netflix self-reply link | 2 / 2 | 0 | 0 | |
+
+### What we learned
+1. Checkpoint triggered: on day 4 after phone verification, all 14 posts from Oct 20 sit at 2–10 impressions (median ~4). Reach is still throttled at the account level.
+2. The finance/earnings test didn't beat consumer threads. The two finance replies got 5 and 3 (parents had 14.9k and 6.2k impressions), and the consumer replies got 2–8. The best reply was on a small (118-imp) consumer post, because the author engaged. Parent reach doesn't carry over to us at this size.
+3. Signs of life: follower #2 and the first organic reply. Small, conversational parents where the author might answer beat big threads.
+4. Today's live story: "Disney+ will now have ads on every plan" (1.97M-imp quote post). The new terms only went to Europe, but the live US agreement (updated 2/5/2026) already says "no ads" plans are only "generally" ad-free. That's a primary-source correction, our best format.
+
+### Strategy adjustments
+- **Volume cut, per checkpoint:** 1 original a day + 2–3 replies, starting this session. No more 5–9-post days while throttled.
+- **Raise with Samuel (parent):** the "Under review" badge and X's "Let's get you set up" prompt are still unresolved a week in, and phone verification didn't help. Ask whether he wants to finish the setup prompt or contact X support/appeal, and whether to keep investing in X or shift effort to Bluesky/Reddit/SEO for now.
+- Reply targets: question-style or small posts where the author is likely to reply back, plus at most one finance post a session. Drop the "big parent = reach" assumption.
+- New image format: highlighted real screenshot of the live page (headless Chrome capture, red boxes on the clause, red headline band), 1080x1350.
+- Reply back when someone engages with us (e.g. @MsReippuert).
+
+### Drafted for publish (Wednesday morning, parent to post)
+- Packet: social/2026-10-21/am/xgrowth-am-drafts.md (image: social/2026-10-21/am/disney-no-ads-fine-print-us.png; generator make_disney_fineprint.py + shot3.mjs)
+
+## Published 2026-10-21 morning (Disney+ no-ads fine print, Netflix/Hulu replies)
+- R1 reply to @rebound_capital (Netflix hikes): https://x.com/QuietlyChanged/status/2112930500222636218
+- O1 original, Disney+ US "no ads" fine print (image disney-no-ads-fine-print-us.png): https://x.com/QuietlyChanged/status/2112932008112628222
+- O1b self-reply, Section 2(k) carve-outs: https://x.com/QuietlyChanged/status/2112933533220032745
+- R2 reply to @TigersDD (Hulu + Live TV $109.99 vs $99.99): https://x.com/QuietlyChanged/status/2112935034185290190
+- R3 reply to @princessleee999 (Disney+ ads plan since Dec 8, 2022): https://x.com/QuietlyChanged/status/2112936466838073684
+- R4 reply to @MsReippuert: https://x.com/QuietlyChanged/status/2112937915114311838
+- One copy each confirmed. Followers 2; O1 had 2 views at ~8 min. "Under review" label still showing. New cadence: 1 original/day + 2-3 replies on small threads.
+
+## Published 2026-10-21 deep dive
+- Shein "support is a courtesy" terms original (image shein-support-a-courtesy.png): https://x.com/QuietlyChanged/status/2112982128908792097
+- ipl.org Nov 9 shutdown: held for Oct 22 original slot (social/2026-10-22/held-ipl-post.md)
+
+## Snapshot 2026-10-21 ~5:25 PM MT (Wednesday evening X growth session)
+- Followers: **2** (flat) | Following: 10 | Posts: 95 | Media: 42 (day 7). No new mentions since this morning.
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 21 9:40 AM | Disney+ US "no ads" fine print original (red-box screenshot) | **7** | 0 | 1 (self) | best of today |
+| Oct 21 9:34 AM | Reply @rebound_capital (Netflix finance) | 5 | 0 | 0 | parent 1.3k imp |
+| Oct 21 10:03 AM | Reply-back @MsReippuert | 3 | 0 | 0 | no further reply |
+| Oct 21 9:46 / 9:52 / 9:58 AM | Self-reply 2(k) / @TigersDD / @princessleee999 | 2 / 2 / 2 | 0 | 0 | |
+| Oct 21 12:59 PM | Shein "support is a courtesy" original | 1 | 0 | 0 | at ~4.5 h |
+| Oct 20 5:48 PM | Reply @MsReippuert (Netflix bluff) | 10 | 0 | 1 | best reply of the week |
+
+### What we learned
+1. Day 7, still throttled: today's posts sit at 1–7 impressions. The Shein original has 1 view after 4.5 hours, the weakest original yet; a non-streaming, legal-text topic with no hot thread behind it gets nothing at our size.
+2. The red-box real-screenshot format (Disney) matched the best formats so far (7), so it stays in rotation; format isn't the bottleneck, distribution is.
+3. Live consumer story is still Disney+/Hulu: today is the first billing date for existing subscribers, and small "unexpected price increase" complaints are appearing all day. Clownfish TV (47k followers) posted about the hike with 0 replies, a rare early slot on a big account.
+
+### Strategy adjustments
+- Keep the cut cadence (Samuel's call, Oct 21: probation, no X support contact): 1 original/day + 2–3 replies. Tonight is replies only; Thursday's original is the held ipl.org post.
+- Reply targets tonight: one early reply on a mid-size creator post with 0 replies, plus two small complaint posts where the author may answer.
+- Favor streaming/price topics for originals while reach is throttled; route legal-text finds (Shein-type) to the site, Bluesky and Reddit first.
+
+### Drafted for publish (Wednesday evening, parent to post)
+- Packet: social/2026-10-21/pm/xgrowth-pm-drafts.md (3 replies, no images)
+
+## Published 2026-10-21 evening
+- R1 (reply to @ClownfishTVcom, Disney+ price history): https://x.com/QuietlyChanged/status/2113048240929296435
+- R2 (reply to @robynrokn1, Hulu + bundle tip): https://x.com/QuietlyChanged/status/2113049518518444152
+- R3 (reply to @BetukerTina, billing-date explainer): https://x.com/QuietlyChanged/status/2113050745297911963
+- No original tonight (Shein used today's slot). Next original: held ipl.org post, Thu Oct 22 ~9–11 AM MT.
+
+## Snapshot 2026-10-22 ~9:30 AM MT (Thursday morning X growth session)
+- Followers: **2** (flat) | Following: 10 | Posts: 98 | Media: 42 (day 8). No new replies to us since Oct 21 morning.
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 21 9:40 AM | Disney+ US "no ads" fine print original | 7 | 0 | 1 (self) | flat since last night |
+| Oct 21 9:34 AM | Reply @rebound_capital | 5 | 0 | 0 | |
+| Oct 21 10:03 AM | Reply-back @MsReippuert | 4 | 0 | 0 | |
+| Oct 21 5:27 PM | Reply @robynrokn1 (Hulu bundle tip) | 3 | 0 | 0 | best of last night |
+| Oct 21 12:59 PM / 5:32 PM | Shein original / Reply @BetukerTina | 2 / 2 | 0 | 0 | |
+| Oct 21 5:22 PM | Reply @ClownfishTVcom (47k account) | 1 | 0 | 0 | early slot on a big account did nothing |
+
+### What we learned
+1. Day 8, still 1–7 impressions per post. Being the first reply on a 47k-follower creator's post got 1 view, so parent size truly doesn't carry over while the account is throttled.
+2. Nothing beat the small, money-saving tips (bundle math) and direct-answer replies; those stay the reply format.
+3. Fresh small targets today: Peacock "116% in 3 years" (our data confirms ~117%), a Disney+ cancel threat, and a "too many terms-update emails" post that fits our own October numbers (19 companies since Oct 14).
+
+### Strategy adjustments
+- No change to cadence (1 original + 2–3 replies). Today's original is the held ipl.org shutdown (deadline + "download now" action, our best-performing type).
+- New reply angle: use our aggregate count of terms changes on generic "terms update" complaints, which can come up daily.
+- If the account is still at single digits on Monday's weekly report (day 12), fold that into the weekly growth report for Samuel rather than escalating mid-week.
+
+### Drafted for publish (Thursday morning, parent to post)
+- Packet: social/2026-10-22/am/xgrowth-am-drafts.md (1 original with image social/2026-10-21/deepdive/ipl-org-offline-nov9.png, 3 replies)
+
+## Published 2026-10-22 morning
+- O1 (ipl.org offline Nov 9, image ipl-org-offline-nov9.png): https://x.com/QuietlyChanged/status/2113290489516400759
+- R1 (reply to @jwgonsalves, Peacock +117%): https://x.com/QuietlyChanged/status/2113291869488828659
+- R2 (reply to @LastOTinSpace, Disney+/Hulu bundle math): https://x.com/QuietlyChanged/status/2113293179818831964
+- R3 (reply to @Manager_Josh, 19 companies' terms rewrites since Oct 14): https://x.com/QuietlyChanged/status/2113294452769095779

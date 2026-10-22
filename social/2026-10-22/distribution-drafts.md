@@ -31,7 +31,7 @@ Old connections can't be carried over, so every linked app has to be approved ag
 How to check: Google Health app, Connections (top left), Partner Apps, and look under "Needs Action." Some apps say "Reconnect in partner app," which means you do it from inside that app.
 
 Things worth knowing:
-- MyFitnessPal says that even if you already reconnected through Google's prompt, you may need to do it again when MyFitnessPal asks, and it lists a known issue with steps/exercise not syncing: https://support.myfitnesspal.com/hc/en-us/search?query=google%20health
+- MyFitnessPal says that even if you already reconnected through Google's prompt, you may need to do it again when MyFitnessPal asks, and it lists a known issue with steps/exercise not syncing (see MyFitnessPal Help, "Reconnecting Your Google Health (formerly Fitbit) Integration").
 - If an employer or insurer wellness program pays points for steps, check that new days show up after you reconnect.
 - Apple Health and Health Connect links aren't affected, per Google's help page.
 - Your data already in Google Health isn't deleted.
