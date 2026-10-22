@@ -60,6 +60,11 @@ ORG = {"@context":"https://schema.org","@type":"Organization","name":"QuietlyCha
 HUB_FOR = {"pricing":("price-changes/","Price changes"),"terms":("terms-of-service-changes/","Terms of service changes"),"privacy":("privacy-policy-changes/","Privacy policy changes")}
 NAV = [("index.html","Latest"),("archive.html","Archive"),("services.html","What we track"),("about.html","How it works")]
 
+def _home_ph():
+    f = R/"price_history.json"
+    if not f.exists(): return ""
+    ph = {k:v for k,v in json.loads(f.read_text()).items() if not k.startswith("_")}
+    return '<h2>Price histories</h2><p>Every US price change, dated and sourced: ' + ' · '.join(f'<a href="services/{slug(n)}/#price-history">{E(v.get("name",n))}</a>' for n,v in ph.items()) + '</p>'
 def slug(x): return re.sub(r"[^a-z0-9]+","-",x.lower().replace("+","-plus")).strip("-")
 def slug_tr(x): return re.sub(r"[^a-z0-9]+","-",x.lower()).strip("-")
 def art_slug(d,c): return f"{d}-{slug(c['service'])}-{slug(c.get('headline') or c.get('page','update'))}"[:90].strip("-")
@@ -133,7 +138,7 @@ for d in days:
 if days:
     L = days[-1]
     WEB = {"@context":"https://schema.org","@type":"WebSite","name":"QuietlyChanged","url":SITE+"/","description":TAG}
-    (D/"index.html").write_text(page("index.html","Latest", ld=WEB, lastmod=L, body= day_body(L, R/"reports"/f"{L}-summary.md", data[L]).replace('href="../','href="') + f'<p class="meta"><a href="reports/{L}.html">Permalink</a> · <a href="archive.html">Earlier reports</a></p><h2>Browse by type</h2><p><a href="price-changes/">Price increases and pricing changes</a> · <a href="subscription-price-history/">Streaming and subscription price history compared</a> · <a href="terms-of-service-changes/">Terms of service changes</a> · <a href="privacy-policy-changes/">Privacy policy changes</a></p>'))
+    (D/"index.html").write_text(page("index.html","Latest", ld=WEB, lastmod=L, body= day_body(L, R/"reports"/f"{L}-summary.md", data[L]).replace('href="../','href="') + f'<p class="meta"><a href="reports/{L}.html">Permalink</a> · <a href="archive.html">Earlier reports</a></p><h2>Browse by type</h2><p><a href="price-changes/">Price increases and pricing changes</a> · <a href="subscription-price-history/">Streaming and subscription price history compared</a> · <a href="terms-of-service-changes/">Terms of service changes</a> · <a href="privacy-policy-changes/">Privacy policy changes</a></p>' + _home_ph()))
 arch = "".join(f'<li><a href="reports/{d}.html">{nice(d)}</a><span class="n">{len(data[d])} change{"s"*(len(data[d])!=1)}</span></li>' for d in reversed(days))
 (D/"archive.html").write_text(page("archive.html","Archive", lastmod=(days or [TODAY])[-1], desc="Archive of every QuietlyChanged daily report on pricing, terms of service, and privacy policy changes, by date.", body= f'<p class="kicker">Archive</p><h1>Every report, by date</h1><ul class="archive">{arch}</ul>'))
 s = json.loads((R/"services.json").read_text())
@@ -197,7 +202,7 @@ def ph_section(k, h):
     first_year = min(r[0][:4] for rows in h["plans"].values() for r in rows)
     tabs = ""
     for plan, rows in h["plans"].items():
-        tr = "".join(f'<tr><td><time datetime="{r[0]}">{_pd(r[0])}</time></td><td>{_amt(h,plan,r[1]).split("/")[0]}</td><td>{E(r[2]) if len(r)>2 else "Launch" if i==0 else _chg(r[1],rows[i-1][1])}</td></tr>' for i,r in enumerate(rows))
+        tr = "".join(f'<tr><td><time datetime="{r[0]}">{_pd(r[0])}</time></td><td>{_amt(h,plan,r[1]).split("/")[0]}</td><td>{(_chg(r[1],rows[i-1][1]) + ". " + E(r[2]) if i>0 and r[1]!=rows[i-1][1] else E(r[2])) if len(r)>2 else "Launch" if i==0 else _chg(r[1],rows[i-1][1])}</td></tr>' for i,r in enumerate(rows))
         tabs += f'<h3>{E(k)} {E(plan)}</h3><table><thead><tr><th scope="col">Effective</th><th scope="col">Price / {_u(h,plan)}</th><th scope="col">Change</th></tr></thead><tbody>{tr}</tbody></table>'
     now = "".join(f'<li><strong>{E(pl)}</strong>: {_amt(h,pl,_cur(r))}</li>' for pl,r in h["plans"].items() if "discontinued" not in pl)
     L = h["latest"]; fl = h["plans"][h["flagship"]]
@@ -258,9 +263,10 @@ if PH:
         if not h.get("compare",True): continue
         nm=h.get("name",n); fl=h["plans"][h["flagship"]]; pct=(fl[-1][1]/fl[0][1]-1)*100
         yrs=max(1,int(h["verified"][:4])-int(fl[0][0][:4]))
+        h=dict(h, latest=h.get("last_up", h["latest"]), _ups=sum(1 for i in range(1,len(fl)) if fl[i][1]>fl[i-1][1]))
         rows.append((pct,n,nm,h,fl,yrs))
     rows.sort(key=lambda r:-r[0])
-    tr="".join(f'<tr><th scope="row"><a href="../services/{slug(n)}/#price-history">{E(nm)}</a></th><td>{E(h["flagship"])}</td><td>{_amt(h,h["flagship"],fl[0][1])} ({fl[0][0][:4]})</td><td>{_amt(h,h["flagship"],fl[-1][1])}</td><td>+{pct:.0f}%</td><td>{len(fl)-1}</td><td><time datetime="{h["latest"]["date"]}">{_pd(h["latest"]["date"])}</time></td></tr>' for pct,n,nm,h,fl,yrs in rows)
+    tr="".join(f'<tr><th scope="row"><a href="../services/{slug(n)}/#price-history">{E(nm)}</a></th><td>{E(h["flagship"])}</td><td>{_amt(h,h["flagship"],fl[0][1])} ({fl[0][0][:4]})</td><td>{_amt(h,h["flagship"],fl[-1][1])}</td><td>+{pct:.0f}%</td><td>{h["_ups"]}</td><td><time datetime="{h["latest"]["date"]}">{_pd(h["latest"]["date"])}</time></td></tr>' for pct,n,nm,h,fl,yrs in rows)
     lm=max(r[3]["verified"] for r in rows)
     top=rows[0]; recent=sorted(rows,key=lambda r:r[3]["latest"]["date"],reverse=True)
     tt=f"Streaming & subscription price history compared ({lm[:4]}): {', '.join(r[2] for r in rows[:4])} and more"

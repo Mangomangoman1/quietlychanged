@@ -1164,5 +1164,280 @@
     "https://www.duskalo.com/audible"
    ]
   ]
+ },
+ "Xbox Game Pass": {
+  "verified": "2026-10-22",
+  "title": "Xbox Game Pass price history (2017–2026): Ultimate from $14.99 to $29.99, now $22.99",
+  "desc": "Every Xbox Game Pass US price change: Ultimate went from $14.99 (2019) to $29.99 on Oct 1, 2025, then Microsoft cut it to $22.99 on Apr 21, 2026. PC Game Pass, Premium and Essential too, plus the November 2026 cloud gaming hour limits. Dated and sourced.",
+  "basis": "US list prices for new members, monthly, before tax, in nominal dollars, from Xbox Wire, Microsoft's US store listings and the coverage linked below; last verified {verified}. Introductory and targeted offers ($1 trials, win-back deals) are left out.",
+  "intro": "Xbox Game Pass Ultimate cost $14.99 a month from its June 2019 launch until July 2023. Microsoft then raised it three times in a little over two years: to $16.99 in July 2023, $19.99 in July 2024 and $29.99 on October 1, 2025, a 50% jump in one step. On April 21, 2026, Microsoft reversed part of that, cutting Ultimate to $22.99 and PC Game Pass from $16.49 to $13.99, and said new Call of Duty games would join those plans about a year after launch instead of on day one. The next change is not a price: from November 2026, cloud gaming on every plan gets a monthly hour limit.",
+  "flagship": "Ultimate",
+  "latest": {
+   "date": "2026-04-21",
+   "what": "Microsoft cut Game Pass Ultimate from $29.99 to $22.99 a month and PC Game Pass from $16.49 to $13.99, and said future Call of Duty games would join both plans about a year after launch rather than on day one. Premium ($14.99) and Essential ($9.99) did not change.",
+   "source": "https://news.xbox.com/en-us/2026/04/21/xbox-game-pass-update/",
+   "source_name": "Xbox Wire"
+  },
+  "last_up": {
+   "date": "2025-10-01",
+   "what": "Xbox Game Pass Ultimate went from $19.99 to $29.99 a month and PC Game Pass from $11.99 to $16.49 (Microsoft cut them to $22.99 and $13.99 on Apr 21, 2026).",
+   "source": "https://www.theverge.com/news/789424/xbox-game-pass-premium-essentials-ultimate-price-increase-changes",
+   "source_name": "The Verge"
+  },
+  "faq_last": "The last increase was on October 1, 2025, when Ultimate went from $19.99 to $29.99 a month and PC Game Pass from $11.99 to $16.49. Since then prices have come down: on April 21, 2026, Microsoft cut Ultimate to $22.99 and PC Game Pass to $13.99. From November 2026, each plan also includes only a set number of cloud gaming hours a month (15 on Ultimate, 10 on Premium, 5 on Essential).",
+  "faq_up": "Game Pass Ultimate launched at $14.99 a month in June 2019 and costs $22.99 today, up 53%. It rose to $16.99 in July 2023, $19.99 in July 2024 and $29.99 on October 1, 2025, then was cut to $22.99 on April 21, 2026.",
+  "plans": {
+   "Ultimate": [
+    [
+     "2019-06-09",
+     14.99,
+     "Launch price"
+    ],
+    [
+     "2023-07-06",
+     16.99
+    ],
+    [
+     "2024-07",
+     19.99,
+     "New members first; existing members from Sep 12, 2024"
+    ],
+    [
+     "2025-10-01",
+     29.99
+    ],
+    [
+     "2026-04-21",
+     22.99,
+     "Price cut"
+    ]
+   ],
+   "PC Game Pass": [
+    [
+     "2019-06-09",
+     9.99,
+     "Launch list price of Xbox Game Pass for PC (beta), sold at $4.99 a month as a limited-time launch offer"
+    ],
+    [
+     "2023-07-06",
+     9.99,
+     "Unchanged in the July 2023 increase"
+    ],
+    [
+     "2024-07",
+     11.99,
+     "New members first; existing members from Sep 12, 2024"
+    ],
+    [
+     "2025-10-01",
+     16.49
+    ],
+    [
+     "2026-04-21",
+     13.99,
+     "Price cut"
+    ]
+   ],
+   "Premium (formerly Standard)": [
+    [
+     "2024-09-10",
+     14.99,
+     "Launched as Game Pass Standard"
+    ],
+    [
+     "2025-10-01",
+     14.99,
+     "Renamed Game Pass Premium at the same price; PC games and cloud gaming added"
+    ]
+   ],
+   "Essential (formerly Core)": [
+    [
+     "2025-10-01",
+     9.99,
+     "Renamed from Game Pass Core at the same price"
+    ]
+   ],
+   "for Console (discontinued for new members)": [
+    [
+     "2017",
+     9.99,
+     "Launch price"
+    ],
+    [
+     "2023-07-06",
+     10.99
+    ],
+    [
+     "2024-07",
+     10.99,
+     "Closed to new members; existing members could keep renewing"
+    ]
+   ]
+  },
+  "notes": [
+   "Cloud gaming limits from November 2026: Xbox Wire said on September 3, 2026 that Ultimate will include 15 hours of cloud gaming a month, Premium 10 and Essential 5, with extra hours sold through the Xbox Store; Microsoft expects it to affect 4% of subscribers and said that \"for some players the practical result is a higher cost.\" On October 21, 2026, Xbox Insiders got introductory cloud playtime packs at 10 hours for $3.99, 25 hours for $7.99 and 50 hours for $11.99.",
+   "Microsoft's US store listings on October 22, 2026 show Ultimate at $22.99 a month (prepaid: $68.99 for 3 months, $137.99 for 6 months, $275.99 for 12 months), PC Game Pass $13.99, Premium $14.99 and Essential $9.99 (12 months prepaid: $79.99).",
+   "In July 2024, Microsoft raised the 12-month Game Pass Core price from $59.99 to $74.99 while the monthly price stayed $9.99.",
+   "In September 2026, some lapsed and current members reported account-specific Ultimate offers below list price, such as $16.09 a month for 12 months; Microsoft still lists $22.99.",
+   "The October 2025 changes renamed Core to Essential and Standard to Premium and added Fortnite Crew and Ubisoft+ Classics to Ultimate."
+  ],
+  "sources": [
+   [
+    "Xbox Wire, Apr 21, 2026 (Ultimate and PC Game Pass price cut)",
+    "https://news.xbox.com/en-us/2026/04/21/xbox-game-pass-update/"
+   ],
+   [
+    "Xbox Wire, Sep 3, 2026 (cloud gaming hour limits)",
+    "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/"
+   ],
+   [
+    "Xbox Wire, Oct 21, 2026 (cloud playtime pack prices)",
+    "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/"
+   ],
+   [
+    "The Verge, Oct 1, 2025 (Ultimate to $29.99)",
+    "https://www.theverge.com/news/789424/xbox-game-pass-premium-essentials-ultimate-price-increase-changes"
+   ],
+   [
+    "Gematsu, Oct 1, 2025 (PC Game Pass to $16.49, Essential and Premium)",
+    "https://www.gematsu.com/2025/10/xbox-game-pass-introduces-upgraded-essential-premium-and-ultimate-plans-including-price-increases"
+   ],
+   [
+    "Polygon, Jul 10, 2024 (2024 increases, Game Pass for Console closed)",
+    "https://www.polygon.com/xbox/24195533/game-pass-price-increase-console-standard-ultimate-2024/"
+   ],
+   [
+    "The Verge, Sep 10, 2024 (Game Pass Standard launch)",
+    "https://www.theverge.com/2024/9/10/24241171/xbox-game-pass-standard-launch-pricing"
+   ],
+   [
+    "The Verge, Jun 21, 2023 (July 6, 2023 increases)",
+    "https://www.theverge.com/2023/6/21/23768400/microsoft-xbox-series-x-xbox-game-pass-price-increase"
+   ],
+   [
+    "Xbox Wire, Jun 9, 2019 (Ultimate and Game Pass for PC launch)",
+    "https://news.xbox.com/en-us/2019/06/09/xbox-game-pass-ultimate-now-available/"
+   ],
+   [
+    "Game Rant, Sep 7, 2026 (account-specific Ultimate offers)",
+    "https://gamerant.com/xbox-game-pass-dynamic-pricing-subscription/"
+   ]
+  ]
+ },
+ "PlayStation Plus": {
+  "verified": "2026-10-22",
+  "title": "PlayStation Plus price history (2022–2026): Essential, Extra and Premium, every increase",
+  "desc": "PS Plus US price history since the June 2022 relaunch: 12-month plans rose by up to $40 on Sep 6, 2023, and 1- and 3-month plans rose on May 20, 2026 (Essential $10.99, Extra $16.99, Premium $19.99 a month). Dated tables and sources.",
+  "basis": "US list prices for new subscribers, before tax, in nominal dollars, from Sony's announcements, PlayStation's US PS Plus page and the coverage linked below; last verified {verified}. Sales and discounted upgrade offers are left out.",
+  "intro": "Sony has raised PlayStation Plus prices twice since it relaunched the service with three tiers in June 2022. On September 6, 2023, 12-month plans went up by $20 to $40 (Essential from $59.99 to $79.99 a year). On May 20, 2026, the 1- and 3-month plans went up for new subscribers: Essential to $10.99 a month, Extra to $16.99 and Premium to $19.99, while 12-month prices stayed where they were. Sony said existing subscribers keep their price unless \"the existing subscription changes or lapses.\"",
+  "flagship": "Essential (1 month)",
+  "latest": {
+   "date": "2026-05-20",
+   "what": "1-month and 3-month PlayStation Plus plans went up for new subscribers: Essential $9.99 to $10.99 a month ($24.99 to $27.99 for 3 months), Extra $14.99 to $16.99 ($39.99 to $43.99) and Premium $17.99 to $19.99 ($49.99 to $54.99). 12-month plans did not change.",
+   "source": "https://www.polygon.com/playstation-plus-price-hike-may-2026-extra-premium-annual-cost/",
+   "source_name": "Polygon"
+  },
+  "faq_up": "Since the June 2022 relaunch, the 1-month Essential plan has gone from $9.99 to $10.99 (+10%), Extra from $14.99 to $16.99 and Premium from $17.99 to $19.99. The bigger jumps were on 12-month plans in September 2023: Essential $59.99 to $79.99 (+33%), Extra $99.99 to $134.99 (+35%) and Premium $119.99 to $159.99 (+33%).",
+  "plans": {
+   "Essential (1 month)": [
+    [
+     "2022-06-13",
+     9.99,
+     "Relaunch; same price as PlayStation Plus before"
+    ],
+    [
+     "2026-05-20",
+     10.99
+    ]
+   ],
+   "Extra (1 month)": [
+    [
+     "2022-06-13",
+     14.99,
+     "Launch"
+    ],
+    [
+     "2026-05-20",
+     16.99
+    ]
+   ],
+   "Premium (1 month)": [
+    [
+     "2022-06-13",
+     17.99,
+     "Launch"
+    ],
+    [
+     "2026-05-20",
+     19.99
+    ]
+   ],
+   "Essential (12 months)": [
+    [
+     "2022-06-13",
+     59.99,
+     "Relaunch; same price as PlayStation Plus before"
+    ],
+    [
+     "2023-09-06",
+     79.99
+    ]
+   ],
+   "Extra (12 months)": [
+    [
+     "2022-06-13",
+     99.99,
+     "Launch"
+    ],
+    [
+     "2023-09-06",
+     134.99
+    ]
+   ],
+   "Premium (12 months)": [
+    [
+     "2022-06-13",
+     119.99,
+     "Launch"
+    ],
+    [
+     "2023-09-06",
+     159.99
+    ]
+   ]
+  },
+  "units": {
+   "Essential (12 months)": "year",
+   "Extra (12 months)": "year",
+   "Premium (12 months)": "year"
+  },
+  "notes": [
+   "3-month plans: Essential $24.99, Extra $39.99 and Premium $49.99 at the 2022 relaunch; since May 20, 2026 they are $27.99, $43.99 and $54.99.",
+   "Sony announced the May 2026 increase in a post on X on May 18, citing \"ongoing market conditions\" and naming only the Essential prices; Extra and Premium went up when the change took effect on May 20.",
+   "For the September 2023 increase, existing 12-month subscribers paid the old price until their first renewal on or after November 6, 2023; upgrades, downgrades or added time from September 6 used the new prices.",
+   "PlayStation's US PS Plus page on October 22, 2026 lists Essential at $10.99 / $27.99 / $79.99, Extra at $16.99 / $43.99 / $134.99 and Premium at $19.99 / $54.99 / $159.99 for 1, 3 and 12 months."
+  ],
+  "sources": [
+   [
+    "Sony Interactive Entertainment press release, Jun 13, 2022 (US launch prices)",
+    "https://sonyinteractive.com/en/press-releases/2022/all-new-playstation-plus-game-subscription-service-from-sony-interactive-entertainment-launches-in-north-and-south-america-today/"
+   ],
+   [
+    "PlayStation Blog, Aug 30, 2023 (12-month price increase from Sep 6)",
+    "https://blog.playstation.com/2023/08/30/playstation-plus-monthly-games-for-september-saints-row-black-desert-traveler-edition-generation-zero/"
+   ],
+   [
+    "Engadget, May 18, 2026 (Sony's announcement)",
+    "https://www.engadget.com/2175751/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/"
+   ],
+   [
+    "Polygon, May 21, 2026 (Extra and Premium also rose)",
+    "https://www.polygon.com/playstation-plus-price-hike-may-2026-extra-premium-annual-cost/"
+   ],
+   [
+    "PlayStation Plus US plans page",
+    "https://www.playstation.com/en-us/ps-plus/"
+   ]
+  ]
  }
 }
