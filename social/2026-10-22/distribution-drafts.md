@@ -16,8 +16,8 @@ The user-facing part is in the migration guide: tokens can't be carried over, so
 
 ## 2. Bluesky (quietlychanged.bsky.social), image: social/2026-10-22/deepdive/fitbit-api-off-oct30.png
 Alt text: Timeline: Sep 30 support ends, Oct 30 Fitbit Web API turned off, Nov 30 last reconnect window for studies. Quote from Google: "will no longer function or sync data to or from Fitbit users."
-Post (under 300 chars):
-Fitbit linked to MyFitnessPal, a workplace wellness program or a study? Google turns off the old Fitbit Web API Oct 30. Linked apps stop syncing unless you re-approve them in Google Health, and Google says it can't fix broken connections after that.
+Post (298 chars incl. link; limit 300):
+Fitbit linked to MyFitnessPal, a wellness program or a study? Google turns off the old Fitbit Web API Oct 30. Linked apps stop syncing unless you re-approve them in Google Health.
 https://quietlychanged.com/changes/2026-10-22-fitbit-third-party-apps-stop-getting-your-fitbit-data-oct-30-unless-you-reconne/
 
 ## 3. Reddit r/fitbit (text post, primary links only, NO quietlychanged.com link)
