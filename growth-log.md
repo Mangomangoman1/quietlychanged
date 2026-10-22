@@ -307,3 +307,11 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 **Social prepared (NOT posted):** social/2026-10-22/deepdive/x-posts-deepdive.md (280 weighted chars) with image fitbit-api-off-oct30.png (timeline Sep 30 → Oct 30 → Nov 30, highlighted Google quote, needs-reconnecting / not-affected panel), generator make_deepdive.py. Held for the Oct 23 original slot because of the Oct 30 deadline.
 
 **Gaps / watch:** Firefox Privacy Notice preview (mozilla/legal-docs; /privacy/firefox/next not live yet); Verizon, Comcast, T-Mobile and BofA Q3 10-Qs not filed yet, so compare Item 1A next week; MyFitnessPal's Google Health sync issue (status "Investigating"); after Oct 30, check for user reports of broken Fitbit-linked wellness programs (possible follow-up).
+
+## 2026-10-22: distribution session (Fitbit Web API off Oct 30)
+**Best story:** Fitbit Web API turned off Oct 30, 2026; apps linked to Fitbit (MyFitnessPal, wellness programs, studies) stop syncing unless users re-consent in Google Health. Picked for the 8-day deadline and zero news coverage. Re-verified https://developers.google.com/health/about (last updated Sep 29) at ~3:05 PM MT.
+- Coverage (3 PM MT): none on the connected-app cutoff (WebSearch: Google dev pages, Sep 28 extension thread, Terra dev blog; HN Algolia: nothing).
+- Article unchanged (already thorough); no rebuild or IndexNow needed.
+**Drafts handed to parent** (social/2026-10-22/distribution-drafts.md): HN (developers.google.com/health/about as URL, optional comment); Bluesky with fitbit-api-off-oct30.png; r/fitbit PSA text post with primary links only (check rules and existing threads first); tip to 9to5Google gtips@9to5g.com (from their contact page).
+- Skipped: X (Fitbit original held for Oct 23), r/MyFitnessPal, extra pitches.
+**Next:** Oct 23 X original; Oct 30–31 confirm the API is off and add an update note; watch MyFitnessPal's sync issue.
