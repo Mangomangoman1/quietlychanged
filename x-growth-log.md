@@ -570,3 +570,90 @@ All one-copy checks passed.
 - R1 (reply to @jwgonsalves, Peacock +117%): https://x.com/QuietlyChanged/status/2113291869488828659
 - R2 (reply to @LastOTinSpace, Disney+/Hulu bundle math): https://x.com/QuietlyChanged/status/2113293179818831964
 - R3 (reply to @Manager_Josh, 19 companies' terms rewrites since Oct 14): https://x.com/QuietlyChanged/status/2113294452769095779
+
+## Snapshot 2026-10-22 ~5:25 PM MT (Thursday evening X growth session)
+- Followers: **2** (flat) | Following: 10 | Posts: 102 | Media: 43 (day 8). No new mentions.
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 22 9:35 AM | Reply @LastOTinSpace (Disney+/Hulu bundle math) | **5** | 0 | 0 | best of today |
+| Oct 22 9:24 AM | ipl.org Nov 9 shutdown original (image) | 4 | 0 | 0 | at ~8 h |
+| Oct 22 9:30 / 9:40 AM | Reply @jwgonsalves (Peacock +117%) / @Manager_Josh (19 companies) | 3 / 3 | 0 | 0 | |
+| Oct 21 5:27 PM | Reply @robynrokn1 | 4 | 0 | 0 | +1 overnight |
+| Oct 21 5:22 / 5:32 PM | Reply @ClownfishTVcom / @BetukerTina | 1 / 3 | 0 | 0 | |
+
+### What we learned
+1. Day 8, still 1–7 impressions on everything; the ipl.org original (our "deadline + action" type) got 4, no better than replies. Throttle, not content, is the limit.
+2. Bundle/money-saving math is again the top reply (5). Keep leading with concrete numbers people can act on.
+3. Today's big consumer stories in our lane: Xbox's cloud playtime packs ($3.99/10h, Dexerto 100k views) and Game Pass restructure chatter; our Xbox Game Pass price history (shipped today) gives sourced replies there.
+
+### Strategy adjustments
+- No cadence change. Tonight replies only; Friday's original is the Fitbit Oct 30 API cutoff (deadline + action).
+- Gaming is a new reply lane now that Game Pass and PS Plus histories are live; use per-hour/per-month math, not opinions.
+- Monday weekly report (day 12) is the checkpoint for raising the throttle with Samuel.
+
+### Drafted for publish (Thursday evening, parent to post)
+- Packet: social/2026-10-22/pm/xgrowth-pm-drafts.md (3 replies, no images)
+
+## Published 2026-10-22 evening
+- R1 (reply to @Dexerto, Xbox cloud pack per-hour math): https://x.com/QuietlyChanged/status/2113410294144020527
+- R2 (reply to @pocketjoe, Game Pass price history + cloud caps): https://x.com/QuietlyChanged/status/2113411117968138623
+- R3 (reply to @Ryanhelou_, Fitbit API Oct 30 + Strava): https://x.com/QuietlyChanged/status/2113411864306807086
+- No original tonight (ipl.org used today's slot). Next original: held Fitbit Oct 30 post, Fri Oct 23 ~9–11 AM MT.
+
+## Snapshot 2026-10-23 ~9:20 AM MT (Friday morning X growth session)
+- Followers: **2** (flat) | Following: 10 | Posts: 105 | Media: 43 (day 9). No new mentions.
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 22 9:35 AM | Reply @LastOTinSpace (Disney+/Hulu bundle math) | 5 | 0 | 0 | still best |
+| Oct 22 9:24 AM | ipl.org Nov 9 original (image) | 4 | 0 | 0 | flat overnight |
+| Oct 22 9:30 / 9:40 AM | Reply @jwgonsalves / @Manager_Josh | 3 / 3 | 0 | 0 | |
+| Oct 22 5:20 PM | Reply @Dexerto (Xbox cloud per-hour math) | 2 | 0 | 0 | 131k-view parent, no carryover |
+| Oct 22 5:24 / 5:27 PM | Reply @pocketjoe / @Ryanhelou_ | 1 / 1 | 0 | 0 | |
+
+### What we learned
+1. Day 9, still 1–5 impressions on everything, including replies under a 131k-view Dexerto post. Throttle unchanged.
+2. Bundle math remains the top reply format, so it leads again today.
+3. New live story: Hulu is now sending price-increase emails and TV pop-ups (existing subscribers' Sept 23 hike, plus legacy Hulu + Live TV bundles going +$10 on or after Nov 19, per a subscriber's screenshot). Lots of small-to-mid complaint posts overnight (Greg McManus 816 views, Geoff Wolfe 525).
+4. Amazon rebranded Kindle Unlimited to Kindle+ on Oct 22 with audiobooks, same $11.99. Possible future original or reply lane once verified on Amazon's own page.
+
+### Strategy adjustments
+- No cadence change: 1 original (held Fitbit Oct 30 post) + 3 replies on the Hulu email wave.
+- Weekly report Monday (day 12) remains the checkpoint for raising the throttle with Samuel.
+
+### Drafted for publish (Friday morning)
+- Packet: social/2026-10-23/am/xgrowth-am-drafts.md (1 original with image fitbit-api-off-oct30.png, 3 replies)
+
+## Published 2026-10-23 morning
+- O1 (Fitbit Web API off Oct 30, image fitbit-api-off-oct30.png): https://x.com/QuietlyChanged/status/2113651685742834084
+- R1 (reply to @gregmclnk, Hulu/Disney+ bundle math): https://x.com/QuietlyChanged/status/2113652311683924200
+- R2 (reply to @geoffwolfe, legacy Live TV bundle +$10 Nov 19): https://x.com/QuietlyChanged/status/2113652936144220295
+- R3 (reply to @Fireandknife, Hulu price history): https://x.com/QuietlyChanged/status/2113653544696091014
+- Note: after each post X showed a "You've unlocked more on X" / graduated-access screen (not a lock; nothing clicked). Possibly the new-account probation lifting; compare tonight's impressions against the 1–5 baseline.
+- Followers: 2. Next original: none held; tonight replies only unless a fresh find lands.
+
+## Snapshot 2026-10-23 ~5:20 PM MT (Friday evening X growth session)
+- Followers: **2** (flat) | Following: 10 | Posts: 109 | Media: 44 (day 9). Verified badge reported by Samuel today (API still shows verified=false).
+- Mentions: first-ever reply back from a real person (@Fireandknife, "There are occasionally good original shows on it like Furious…").
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 23 9:27 AM | Reply @Fireandknife (Hulu price history) | **14** | **1** | **1** | best ever, first like + reply-back |
+| Oct 23 9:22 AM | Reply @gregmclnk (Hulu/Disney+ bundle math) | 9 | 0 | 0 | |
+| Oct 23 9:25 AM | Reply @geoffwolfe (legacy Live TV +$10) | 8 | 0 | 0 | |
+| Oct 23 9:20 AM | Fitbit Oct 30 original (image) | 5 | 0 | 0 | |
+| Oct 22 9:24 AM | ipl.org original | 6 | 0 | 0 | +2 |
+
+### What we learned
+1. Today's replies did 8–14 impressions vs the 1–5 baseline, right after the "unlocked more on X" screens and the verified badge. Throttle looks like it is starting to lift. Still tiny, but first like and first conversation.
+2. The best one was a short, conversational price-history reply on a post with real engagement (131 views, small creator), not the big-account replies.
+3. Originals still lag replies (5–6). Tonight's original is a bold big-number chart on a story with no mainstream coverage (Verizon Nov 15 fee), to test whether the lifted throttle helps originals too.
+
+### Strategy adjustments
+- Keep 1 original + 3–4 replies. Reply back to people who answer us (conversation depth is now possible).
+- Verizon fee lane: reply on Verizon bill complaints with the Nov 15 number for the next 3 weeks.
+- Monday weekly report: compare post-badge week vs pre-badge.
+
+### Drafted for publish (Friday evening, parent to post)
+- Packet: social/2026-10-23/pm/xgrowth-pm-drafts.md (1 original with image verizon-admin-charge-4-69.png, 4 replies)
