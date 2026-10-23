@@ -360,3 +360,12 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - Amazon holiday return window (routine, seller forum).
 
 **Gaps:** Wayback is still unreliable from the box (curl 000; WebFetch works but truncates long pages). Etsy and Amazon return 403 to curl. Reddit JSON is blocked.
+
+## 2026-10-23: distribution session (Verizon admin charge $4.69 on Nov 15)
+**Best story:** Verizon's Administrative and Telco Recovery Charge goes from $3.78 to $4.69 per voice line on Nov 15, 2026 (Regulatory Charge $0.21 to $0.26 on Nov 1; both flat charges $3.99 to $4.95). Re-verified on https://www.verizon.com/support/important-plan-information/ ("As of October 1, 2026" section) at ~3:00 PM MT via curl.
+- Coverage (3 PM MT): no major outlet. Niche/SEO only: phonebilltracker.com (Oct 16), US Mobile blog, Akros event index. HN Algolia: nothing. X: one 38-view post.
+- Article strengthened (note extended): sourced comparison with T-Mobile $5.49/voice line (whats-impacting-your-bill) and AT&T $4.99/line (otherWirelessFeeSchedule), plus a four-line example ($15.96 to $19.80/mo). Commit 62c8b76, Vercel dpl_E86rhgB81S5eu7nc1oGsgnjW7QLX (READY, aliased to quietlychanged.com); live page shows the new text. IndexNow 200 (article, /services/verizon/, sitemap).
+- Image: social/2026-10-23/distribution/verizon-admin-charge-4-69.png (big "$3.78 → $4.69" plus fee-history bars 2005–2026), generator make_verizon_card.py.
+**Drafts handed to parent** (social/2026-10-23/distribution-drafts.md): pitch to Scott Younker, Tom's Guide (scott.younker@futurenet.com from his author page; wrote the Aug 2025 Verizon fee story); Bluesky with the image; r/verizon text post with Verizon links only (check rules and existing threads in the signed-in browser first).
+- Skipped: HN (weak fit, niche coverage exists), extra pitches (one a day; backups The Verge, Droid Life have no listed tips email in curl output), X (separate schedule).
+**Next:** Nov 1 and Nov 15: confirm the charges took effect (surcharges page and IPI) and add rows to the Verizon tables; watch r/verizon for bill screenshots after Nov 15 (possible follow-up).
