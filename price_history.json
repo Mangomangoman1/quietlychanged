@@ -1439,5 +1439,112 @@
     "https://www.playstation.com/en-us/ps-plus/"
    ]
   ]
+ },
+ "Verizon": {
+  "verified": "2026-10-23",
+  "name": "Verizon",
+  "title_name": "Verizon surcharge",
+  "title": "Verizon fee history (2005–2026): the Administrative and Telco Recovery Charge, from $0.40 to $4.69 a line",
+  "desc": "Every Verizon Administrative and Telco Recovery Charge increase: $0.40 a line in 2005, $1.95 in 2020, $3.30 in 2022, $3.78 now and $4.69 from Nov 15, 2026. Plus the Regulatory Charge rise to $0.26 on Nov 1. Dated and sourced.",
+  "compare": false,
+  "basis": "Verizon's own flat per-line monthly surcharges on US postpaid mobile bills, in nominal dollars. These are Verizon charges, not taxes; the Federal Universal Service Charge, state fees and taxes come on top and vary by location. Compiled from Verizon's support pages, our daily snapshots of verizon.com/support/surcharges/, news reports and a 2022 class action complaint; last verified {verified}.",
+  "intro": "Verizon started adding an Administrative Charge to postpaid bills in September 2005 at $0.40 a line. It stayed under a dollar until December 2015, was renamed the Administrative and Telco Recovery Charge in June 2022, and is $3.78 per voice line today. Verizon's Important Plan Information page says it rises to $4.69 on November 15, 2026, two weeks after the Regulatory Charge goes from $0.21 to $0.26. Together, the two flat charges go from $3.99 to $4.95 per voice line a month. The 3-year myPlan price lock doesn't cover them, because it excludes taxes, fees and surcharges.",
+  "flagship": "Administrative and Telco Recovery Charge (voice line)",
+  "latest": {
+   "date": "2026-11-15",
+   "what": "the Administrative and Telco Recovery Charge is scheduled to rise from $3.78 to $4.69 per voice line a month (+$0.91, +24%), according to Verizon's Important Plan Information page (figures \"as of October 1, 2026\"). Data-only lines stay at $3.97. Two weeks earlier, on November 1, the Regulatory Charge goes from $0.21 to $0.26 per voice line.",
+   "source": "https://www.verizon.com/support/important-plan-information/",
+   "source_name": "Verizon"
+  },
+  "plans": {
+   "Administrative and Telco Recovery Charge (voice line)": [
+    [
+     "2015-12",
+     1.23,
+     "Up from $0.95, the first time it topped a dollar"
+    ],
+    [
+     "2019-08",
+     1.78
+    ],
+    [
+     "2020-08",
+     1.95
+    ],
+    [
+     "2022-06-23",
+     3.3,
+     "Renamed from Administrative Charge"
+    ],
+    [
+     "2024-12-18",
+     3.5
+    ],
+    [
+     "2025-09",
+     3.78
+    ]
+   ],
+   "Administrative and Telco Recovery Charge (data-only line)": [
+    [
+     "2024-12-18",
+     1.6,
+     "Up from $1.40"
+    ],
+    [
+     "2025-09",
+     3.97
+    ]
+   ],
+   "Regulatory Charge (voice line)": [
+    [
+     "2025-09",
+     0.21,
+     "Up from $0.19"
+    ]
+   ]
+  },
+  "units": {
+   "Administrative and Telco Recovery Charge (voice line)": "line/mo",
+   "Administrative and Telco Recovery Charge (data-only line)": "line/mo",
+   "Regulatory Charge (voice line)": "line/mo"
+  },
+  "notes": [
+   "Scheduled: the Regulatory Charge rises to $0.26 per voice line on November 1, 2026, and the Administrative and Telco Recovery Charge to $4.69 per voice line on November 15, 2026. The tables will show them once they take effect.",
+   "Before 2015: the Administrative Charge started at $0.40 a line in September 2005, went to $0.70 in March 2007, and stayed under a dollar ($0.95 just before the increase) until December 2015, according to the 2022 Corsi v. Cellco class action complaint.",
+   "The 2022 Corsi v. Cellco class action over the charge was settled for $100 million; Verizon denied wrongdoing and said it would keep charging it and could raise it.",
+   "Verizon Home Internet isn't subject to these charges, and Verizon One plans include them in the plan price, according to Verizon's Important Plan Information page.",
+   "September 2025 dates come from Verizon's statement to Tom's Guide and The Verge that fee adjustments started in September; the exact day isn't confirmed."
+  ],
+  "sources": [
+   [
+    "Verizon, Important Plan Information (as of Oct 1, 2026: $3.78, rising to $4.69 Nov 15; Regulatory Charge $0.21, rising to $0.26 Nov 1)",
+    "https://www.verizon.com/support/important-plan-information/"
+   ],
+   [
+    "Verizon, Government taxes and fees and Verizon mobile surcharges (rename effective 6/3/22; Regulatory Charge to $0.26 Nov 1, 2026)",
+    "https://www.verizon.com/support/surcharges/"
+   ],
+   [
+    "Corsi et al. v. Cellco Partnership, complaint filed Jul 18, 2022 (2005 to 2022 history)",
+    "https://www.classaction.org/media/corsi-et-al-v-cellco-partnership-et-al.pdf"
+   ],
+   [
+    "The Verge, May 16, 2022 ($1.95 to $3.30 per voice line in June 2022)",
+    "https://www.theverge.com/2022/5/16/23075448/verizon-phone-bill-increase-administrative-fee"
+   ],
+   [
+    "The Verge, Dec 4, 2024 ($3.30 to $3.50 voice, $1.40 to $1.60 data, from Dec 18)",
+    "https://www.theverge.com/2024/12/4/24313251/verizon-admin-and-telco-recovery-charge-fee-increase"
+   ],
+   [
+    "Tom's Guide, 2025 (September 2025: $3.50 to $3.78 voice, $1.60 to $3.97 data, Regulatory Charge $0.19 to $0.21)",
+    "https://www.tomsguide.com/phones/network-carriers/verizon-just-confirmed-its-raising-fees-again-heres-what-youll-pay-now"
+   ],
+   [
+    "Ars Technica, Jan 2024 (settlement notice: Verizon will keep charging the fee)",
+    "https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/"
+   ]
+  ]
  }
 }

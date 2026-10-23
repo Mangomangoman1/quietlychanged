@@ -315,3 +315,19 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 **Drafts handed to parent** (social/2026-10-22/distribution-drafts.md): HN (developers.google.com/health/about as URL, optional comment); Bluesky with fitbit-api-off-oct30.png; r/fitbit PSA text post with primary links only (check rules and existing threads first); tip to 9to5Google gtips@9to5g.com (from their contact page).
 - Skipped: X (Fitbit original held for Oct 23), r/MyFitnessPal, extra pitches.
 **Next:** Oct 23 X original; Oct 30–31 confirm the API is off and add an update note; watch MyFitnessPal's sync issue.
+
+- 9to5Google tip to gtips@9to5g.com sent by Samuel from quietlychangedbiz@gmail.com at ~3:06 PM MT Oct 22
+### 2026-10-22: distribution session (published links)
+- HN: https://news.ycombinator.com/item?id=50201015 (no comment; add optional comment only if traction)
+- Bluesky: https://bsky.app/profile/quietlychanged.bsky.social/post/3myikxz7q322i (image + alt text)
+- r/fitbit: https://www.reddit.com/r/fitbit/comments/1xcuvbi/psa_apps_linked_to_your_fitbit_myfitnesspal/ (News flair)
+- 9to5Google tip sent (see above)
+
+## 2026-10-23: SEO session
+- GSC (service account; data through Oct 21): **Oct 21: 75 impressions (record), 2 clicks**, avg pos 5.5. Trend Oct 17–21: 13, 29, 52, 48, 75. Top pages (14 days): BofA article 37 (3 clicks), Oura arbitration article 35, /services/oura/ 30, Shopify yearly 23, Verizon regulatory charge article 17 (pos 11.5), DOT rule 16, Gemini 16. New Verizon queries Oct 21: "verizon price increase 2026" (pos 5, Verizon article), "verizon price change" (pos 11, /services/verizon/). /services/peacock/ moved to "Discovered - currently not indexed"; /price-changes/ still unknown to Google. Fixed gsc_pull.py's Disney+ URL (it's indexed).
+- Found while researching: Verizon's Important Plan Information page (as of Oct 1, 2026) says the **Administrative and Telco Recovery Charge goes from $3.78 to $4.69 per voice line on Nov 15, 2026**; our tracked surcharges page doesn't mention it yet.
+- Shipped:
+  - **Verizon fee history** on /services/verizon/ (price_history.json, compare false): Administrative Charge $0.40 (Sep 2005), $0.70 (Mar 2007), $1.23 (Dec 2015), $1.78 (Aug 2019), $1.95 (Aug 2020), $3.30 (Jun 23, 2022, renamed), $3.50 (Dec 18, 2024), $3.78 (Sep 2025), $4.69 scheduled Nov 15, 2026; data-only $1.60 to $3.97; Regulatory Charge $0.19 to $0.21 to $0.26 (Nov 1). Notes on the $100M Corsi v. Cellco settlement and the myPlan lock excluding surcharges. Sources: Verizon IPI and surcharges pages, the 2022 complaint, The Verge (2022, 2024), Tom's Guide (2025), Ars Technica (2024). Title "Verizon fee history (2005–2026): the Administrative and Telco Recovery Charge, from $0.40 to $4.69 a line".
+  - **Oct 15 Verizon article updated** (modified 2026-10-23): Update note on the Nov 15 $4.69 admin charge ($3.99 to $4.95 total per voice line), IPI source, new title "Verizon price increase 2026: fees rise to $4.95 a line (Regulatory Charge Nov 1, admin charge $4.69 Nov 15)" to match the query it already ranks 5th for.
+- Expected effect: "verizon price increase 2026", "verizon administrative charge", "verizon fee increase", "verizon telco recovery charge" are high-volume and will spike as Nov bills land; the article already has impressions, so a better title should lift CTR.
+- Next: consider tracking verizon.com/support/important-plan-information/ (it carried the Nov 15 change before the surcharges page); add the Nov 1 and Nov 15 rows to the Verizon tables once effective; Oura (65 impressions across two pages) could use an evergreen "Oura arbitration opt-out" section before Nov 4; get Peacock and /price-changes/ crawled.
