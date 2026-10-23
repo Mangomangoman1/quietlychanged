@@ -657,3 +657,10 @@ All one-copy checks passed.
 
 ### Drafted for publish (Friday evening, parent to post)
 - Packet: social/2026-10-23/pm/xgrowth-pm-drafts.md (1 original with image verizon-admin-charge-4-69.png, 4 replies)
+
+## Published 2026-10-23 evening
+- O1 Verizon admin charge $3.78→$4.69 Nov 15 (image + alt): https://x.com/QuietlyChanged/status/2113772189229220219
+- R1 TheStreet (Verizon fee): https://x.com/QuietlyChanged/status/2113772408146629113
+- R2 WantedNow (Verizon vs T-Mobile fees): https://x.com/QuietlyChanged/status/2113772481442132190
+- R3 MazdakSafaei (Peacock price history): https://x.com/QuietlyChanged/status/2113772557895880879
+- R4 Fireandknife (follow-up to his reply): https://x.com/QuietlyChanged/status/2113772582201860534
