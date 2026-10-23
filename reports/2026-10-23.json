@@ -1,0 +1,765 @@
+{
+ "date": "2026-10-23",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ]
+ ],
+ "failed": [],
+ "changes": [
+  {
+   "service": "Canva",
+   "page": "terms",
+   "url": "https://www.canva.com/policies/terms-of-use/",
+   "diff": "@@ -291,3 +291,2 @@\n Other policies\n-[Placeholder]\n Print Marketplace Seller Terms",
+   "added": 0,
+   "removed": 1
+  },
+  {
+   "service": "Canva",
+   "page": "privacy",
+   "url": "https://www.canva.com/policies/privacy-policy/",
+   "diff": "@@ -433,3 +433,2 @@\n Other policies\n-[Placeholder]\n Print Marketplace Seller Terms",
+   "added": 0,
+   "removed": 1
+  },
+  {
+   "service": "Airbnb",
+   "page": "terms",
+   "url": "https://www.airbnb.com/help/article/2908",
+   "diff": "@@ -24,5 +24,5 @@\n , which describes how Airbnb service fees are charged to Hosts and Guests.\n-Offline Fee Policy\n+Our policy on pricing and payment transparency\n , which describes the circumstances in which a Host can charge additional fees or charges outside the Airbnb Platform.\n-Off-Platform Policy\n+Our policy on limiting host-imposed contracts and other requirements\n , which prohibits certain actions from occurring outside of the Airbnb Platform.\n@@ -210,5 +210,5 @@\n You are responsible and liable for your own acts and omissions and are also responsible for the acts and omissions of anyone you allow to participate in providing your Host Services. You are responsible for setting your price and establishing rules and requirements for your Listing. You must describe any and all additional fees and charges in your Listing description. You are also responsible for ensuring that all mandatory fees and charges applicable to your Listing are included in your price breakdown. You may not collect any fees or charges outside the Airbnb Platform except as expressly authorized by our\n-Offline Fee Policy\n+policy on pricing and payment transparency\n . Do not encourage Guests to create third-party accounts, submit reviews, provide their contact information, or take other actions outside the Airbnb Platform in violation of our\n-Off-Platform Policy\n+policy on limiting host-imposed contracts and other requirements\n 5.5 Hosting as a Team or Organization.\n@@ -300,3 +300,3 @@\n Do not request, make, or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our\n-Offline Fee Policy\n+policy on pricing and payment transparency\n for exceptions.\n@@ -639,5 +639,5 @@\n , which describes how Airbnb service fees are charged to Hosts and Guests.\n-Offline Fee Policy\n+Our policy on pricing and payment transparency\n , which describes the circumstances in which a Host can charge additional fees or charges outside the Airbnb Platform.\n-Off-Platform Policy\n+Our policy on limiting host-imposed contracts and other requirements\n , which prohibits certain actions from occurring outside of the Airbnb Platform.\n@@ -825,5 +825,5 @@\n You are responsible for your own acts and omissions and are also responsible for the acts and omissions of anyone you allow to participate in providing your Host Services. You are responsible for setting your price and establishing rules and requirements for your Listing. You must describe any and all additional fees and charges in your Listing description. You are also responsible for ensuring that all mandatory fees and charges applicable to your listing are included in your price breakdown. You may not collect any fees or charges outside the Airbnb Platform except as expressly authorized by our\n-Offline Fee Policy\n+policy on pricing and payment transparency\n . Do not encourage Guests to create third-party accounts, submit reviews, provide their contact information, or take other actions outside the Airbnb Platform in violation of our\n-Off-Platform Policy\n+policy on limiting host-imposed contracts and other requirements\n 5.5 Hosting as a Team or Organization.\n@@ -914,3 +914,3 @@\n Do not request, make or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our\n-Offline Fee Policy\n+policy on pricing and payment transparency\n for exceptions.\n@@ -1216,5 +1216,5 @@\n , which describes how Airbnb service fees are charged to Hosts and Guests.\n-Offline Fee Policy\n+Our policy on pricing and payment transparency\n , which describes the circumstances in which a Host can charge additional fees or charges outside the Airbnb Platform.\n-Off-Platform Policy\n+Our policy on limiting host-imposed contracts and other requirements\n , which prohibits certain actions from occurring outside of the Airbnb Platform.\n@@ -1393,5 +1393,5 @@\n To the maximum extent permitted by law, you are responsible and liable for your own acts and omissions and are also responsible for the acts and omissions of anyone you allow to participate in providing your Host Services. You are responsible for setting your price and establishing rules and requirements for your Listing. You must describe any and all additional fees and charges in your Listing description. You are also responsible for ensuring that all mandatory fees and charges applicable to your Listing are included in your price breakdown. You may not collect any fees or charges outside the Airbnb Platform except as expressly authorized by our\n-Offline Fee Policy\n+policy on pricing and payment transparency\n . Do not encourage Guests to create third-party accounts, submit reviews, provide their contact information, or take other actions outside the Airbnb Platform in violation of our\n-Off-Platform Policy\n+policy on limiting host-imposed contracts and other requirements\n 5.5 Hosting as a Team or Organization.\n@@ -1485,3 +1485,3 @@\n Do not request, make or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our\n-Offline Fee Policy\n+policy on pricing and payment transparency\n for exceptions.",
+   "added": 15,
+   "removed": 15
+  },
+  {
+   "service": "Grammarly",
+   "page": "pricing",
+   "url": "https://www.grammarly.com/plans",
+   "diff": "@@ -1,2 +1,2 @@\n-Try Pro for $0 today\n+Great Writing Starts With a Plan\n Trusted by over 40 million people and 50,000 organizations",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Squarespace",
+   "page": "pricing",
+   "url": "https://www.squarespace.com/pricing",
+   "diff": "@@ -3,10 +3,4 @@\n Pay annually to save up to 36%.\n-All plans include:\n-Built-in AI tools\n-Secure hosting\n-Unlimited bandwidth\n-Selling functionality\n-Industry-leading design\n Basic\n-Publish your personal or business website with the essentials.\n+Create your own custom website and get discovered online.\n $25\n@@ -17,15 +11,28 @@\n Get started\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n-2 contributors\n-Built-in SEO & mobile-optimization\n-Card rates from\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n+Up to 2 contributors\n+The number of contributors allowed on your website.\n+Accept payments\n+Credit card rates starting at\n 2.9% + $0.30\n-AI credits\n-10 (one-time)\n-2% online store transaction fee\n+Online store transaction fee of\n+Applied when selling online products, services, or donations. Upgrade your plan for 0% transaction fees.\n+Digital Content and Memberships transaction fee of\n+Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n+Sell products and services\n+Sell products and services\n+There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n+Send invoices for free\n+Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n+Sell content and memberships\n+Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n Core\n Recommended\n-Start selling with a foundation for service businesses.\n+Unlock our full array of business features as you grow your business.\n $39\n@@ -36,18 +43,42 @@\n Get started\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n Unlimited contributors\n-Built-in SEO & mobile-optimization\n-Free year of professional email from Google Workspace\n-No fees on online store transactions\n-Card rates from\n+The number of contributors allowed on your website.\n+Advanced website analytics\n+All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n+Professional email from Google Workspace**\n+If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n+**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n+Accept payments\n+Credit card rates starting at\n 2.9% + $0.30\n-AI credits\n-20 / mo\n-Advanced discount and promotion tools\n-Advanced lead capture tools\n-Automated taxes and shipping\n+Online store transaction fee of\n+Applied when selling online products, services, or donations.\n+Digital Content and Memberships transaction fee of\n+Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n+Sell products and services\n+Sell products and services\n+There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n+Send invoices for free\n+Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n+Sell content and memberships\n+Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n+Professional shipping and tax services\n+Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.15% (maximum $0.99) per transaction.\n+Sales funnel analytics\n+Access to ecommerce analytics including form and button conversion insights.\n+API integrations for advanced sales functionality\n+Build custom integrations to third party systems to handle your back office and ecommerce needs, from order fulfillment to inventory management and much more.\n+Basic functionality for selling in releases\n+Enable one-click checkout and set purchase limits on products and services.\n Plus\n-Power an expanding inventory and grow your revenue.\n+Enjoy\n+lower payment processing fees\n+as your business grows.\n $65\n@@ -58,19 +89,42 @@\n Get started\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n Unlimited contributors\n-Built-in SEO & mobile-optimization\n-Free year of professional email from Google Workspace\n-No fees on online store transactions\n-Card rates from\n+The number of contributors allowed on your website.\n+Advanced website analytics\n+All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n+Professional email from Google Workspace**\n+If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n+**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n+Accept payments\n+Credit card rates starting at\n 2.7% + $0.30\n-AI credits\n-40 / mo\n-Advanced discount and promotion tools\n-Advanced lead capture tools\n-Automated taxes and shipping\n-Reserved cart & countdown timer\n+Online store transaction fee of\n+Applied when selling online products, services, or donations.\n+Digital Content and Memberships transaction fee of\n+Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n+Sell products and services\n+Sell products and services\n+There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n+Send invoices for free\n+Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n+Sell content and memberships\n+Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n+Professional shipping and tax services\n+Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.10% (maximum $0.99) per transaction.\n+Sales funnel analytics\n+Access to ecommerce analytics including form and button conversion insights.\n+API integrations for advanced sales functionality\n+Build custom integrations to third party systems to handle your back office and ecommerce needs, from order fulfillment to inventory management and much more.\n+Advanced functionality for selling in releases\n+Enable one-click checkout, set purchase limits on products and services, and enable cart reservations and countdown timer.\n Advanced\n-Scale with the lowest fees to optimize operations.\n+Maximize your revenue with our\n+lowest payment processing fees\n+and our most advanced commerce tools.\n $139\n@@ -81,19 +135,38 @@\n Get started\n+Build your website\n+Beautiful templates and powerful tools for any website\n+Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n-*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+Built-in AI Tools\n+Generate professional content with powerful AI tools built right into Squarespace\n Unlimited contributors\n-Built-in SEO & mobile-optimization\n-Free year of professional email from Google Workspace\n-No fees on online store transactions\n-Card rates from\n+The number of contributors allowed on your website.\n+Advanced website analytics\n+All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n+Professional email from Google Workspace**\n+If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n+**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n+Accept payments\n+Credit card rates starting at\n 2.5% + $0.30\n-AI credits\n-120 / mo\n-Advanced discount and promotion tools\n-Advanced lead capture tools\n-Automated taxes and shipping\n-Reserved cart & countdown timer\n-High-traffic checkout\n-No fees on digital content and memberships transactions\n+Online store transaction fee of\n+Applied when selling online products, services, or donations.\n+Digital Content and Memberships transaction fee of\n+Build your business and your community with Courses, Memberships, and more.\n+Sell products and services\n+Sell products and services",
+   "added": 128,
+   "removed": 55
+  },
+  {
+   "service": "Shopify",
+   "page": "pricing",
+   "url": "https://www.shopify.com/pricing",
+   "diff": "@@ -7,8 +7,11 @@\n /mo\n+Basic\n+$29\n+/mo\n For solo entrepreneurs\n Start for free\n-Sell online, in person, and in AI chats\n-Card rates from 2.9% + 30\u00a2 USD\n Built-in AI assistant\n Millions of tokens\n+24/7 local chat support\n+10 inventory locations\n Earn up to $5,000 in credits\n@@ -17,2 +20,5 @@\n /mo\n+Grow\n+$89\n+/mo\n For small teams\n@@ -20,5 +26,4 @@\n Everything in Basic\n-Card rates from 2.7% + 30\u00a2 USD\n Up to 5 staff accounts\n-Up to 87% off shipping\n+Up to 87% shipping discount\n Earn up to $7,500 in credits\n@@ -27,2 +32,5 @@\n /mo\n+Advanced\n+$359\n+/mo\n For global reach\n@@ -30,4 +38,4 @@\n Everything in Grow\n-Card rates from 2.5% + 30\u00a2 USD\n Up to 15 staff accounts\n+Enhanced 24/7 chat support\n Live 3rd-party shipping rates\n@@ -39,2 +47,6 @@\n /mo\n+Plus\n+from\n+$2,300\n+/mo\n For complex businesses\n@@ -42,8 +54,7 @@\n Everything in Advanced\n-Card rates from 2.25% + 30\u00a2 USD\n Unlimited staff accounts\n+Priority 24/7 phone support\n+200 inventory locations\n+Unlimited B2B catalogs\n Fully customizable checkout\n-Up to 200 POS Pro locations\n-Unlimited B2B catalogs\n-Priority 24/7 phone support\n Compare all features",
+   "added": 20,
+   "removed": 9
+  },
+  {
+   "service": "PayPal",
+   "page": "privacy",
+   "url": "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "diff": "@@ -399,6 +399,6 @@\n DPO contact e-mail:\n-latamdpo@paypal.com\n+[email protected]\n Deputy Data Protection Officer: Fabiana Moreira Chaves\n Deputy DPO contact e-mail:\n-latamdpo@paypal.com\n+[email protected]\n Brunei\n@@ -467,3 +467,3 @@\n Address, telephone and e-mail: Regus Samsungdong Limited (World Trade Center), 27th, 30th Floor, Trade Tower, 511 Young Dong Street, Gangnam-gu, Seoul, South Korea 06164, (+82) 02 737 5775,\n-skrprivacy@paypal.com\n+[email protected]\n Malaysia\n@@ -876,3 +876,3 @@\n . For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email:\n-Aginfo@ag.nv.gov\n+[email protected]\n PayPal Privacy Statement",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -27,3 +27,3 @@\n Accessibility\n-Choose the plan that's right for you\n+Access our 1M+ catalog with membership\n Switch plans or cancel anytime.\n@@ -32,20 +32,19 @@\n Try for $0.00\n-Auto-renews at $8.99/mo after 30 days. Cancel anytime.\n-Standard 30-day free trial\n-$8.99/mo after free trial\n+Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.\n+Standard\n+1 audiobook a month\n+$8.99/mo after 30 days\n Try for $0.00\n Auto-renews at $14.95/mo after 30 days. Cancel anytime.\n-Premium 30-day free trial\n-$14.95/mo after free trial\n+Premium\n+150k+ included titles\n+$14.95/mo after 30 days\n Sign up for Premium Annual\n Auto-renews at $149.50/yr. Cancel anytime.\n-Premium\n 12 audiobooks\n-$149.50 a year\n-Select this plan\n+$149.50/year\n+Sign up for Premium Annual\n Auto-renews at $229.50/yr. Cancel anytime.\n-Premium\n-12 creditos/a\u00f1o\n-$229.50/yr\n-Save 16%\n+24 audiobooks\n+$229.50/year\n LIMITED TIME OFFER | $99 for a year of Premium",
+   "added": 12,
+   "removed": 13
+  },
+  {
+   "service": "Mailchimp",
+   "page": "pricing",
+   "url": "https://mailchimp.com/pricing/marketing/",
+   "diff": "@@ -64,3 +64,2 @@\n Then, starts at\n-$20\n /month\u2020\n@@ -96,3 +95,3 @@\n Phone & Priority Support\n-Custom-Coded and Pre-built Email Templates\n+Popup Forms\n Multivariate and A/B Testing",
+   "added": 1,
+   "removed": 2
+  }
+ ]
+}
