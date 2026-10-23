@@ -332,3 +332,31 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - Commit 78aad64, Vercel dpl_EceVJq2jv3Swi1DTASKgXaGnZ4bL, both pages live with the new titles; IndexNow 200 (build, 42 URLs) and post-deploy.
 - Expected effect: "verizon price increase 2026", "verizon administrative charge", "verizon fee increase", "verizon telco recovery charge" are high-volume and will spike as Nov bills land; the article already has impressions, so a better title should lift CTR.
 - Next: consider tracking verizon.com/support/important-plan-information/ (it carried the Nov 15 change before the surcharges page); add the Nov 1 and Nov 15 rows to the Verizon tables once effective; Oura (65 impressions across two pages) could use an evergreen "Oura arbitration opt-out" section before Nov 4; get Peacock and /price-changes/ crawled.
+
+## 2026-10-23: deep dive
+
+**Result: no solid find. Nothing was published, there is no X post and services.json is unchanged.**
+
+**Sources checked (rotated away from Oct 18–22):** Zendesk Help Center APIs across about 160 consumer subdomains, using newest-created lists plus full-text search ("no longer", "discontinue", "changes to") for articles updated since Oct 14, then reading the hits (Zumper, Sezzle, Current, Upwork, Substack, Ting, Wealthfront, OfferUp, Box, Tidal, Etsy); a loyalty-program terms sweep (mostly 403 or JS-only pages); Etsy listing-image policy, help article 44297885802647 and seller handbook (Etsy returns 403 to the box); Google, Amazon and Microsoft support "will no longer / retiring" searches; a bulk "last updated" sweep of 39 consumer legal pages (Coinbase Oct 21, Costco Oct 7, eBay privacy Nov 26, Apple Media Services Sep 14, Best Buy Sep 2, Walmart Sep 21, Steam Sep 10, Spotify Sep 4, Cash App Sep 11, PayPal Sep 28 and others); Coinbase user agreement (live page compared with the Wayback July 22 text and ConductAtlas); Current/Cross River deposit agreement compared with the Choice agreement (PDF fee tables); SEC 10-Q (Comcast); DC AG; WV PSC; Automattic/legalmattic, basecamp/policies and mozilla/legal-docs repos; HN Algolia; X search_posts_all and search_news; WebSearch for coverage.
+
+**Rejected:**
+- Gmail ending "Send as" for third-party addresses in January 2027 (support.google.com/mail/answer/17101213). Big, but already covered by Android Authority, Lifehacker, Proton and HN in September.
+- Etsy requiring at least one unedited photo per listing. Covered by The Verge.
+- Substack collecting sales tax/VAT from Dec 1 (existing subscribers see it at their next renewal). Already rejected Oct 21 (Subscription Insider Oct 9, Substack's Oct 7 X post).
+- Zumper in-app messaging removal. The help article was created Nov 24, 2025, so the "Nov 25 / Dec 22" dates are 2025 and it's old news.
+- Current moving members to Cross River Bank account and routing numbers from Nov 2. The fee schedule ($5/mo inactivity, $10 closure, $20 escheatment, $5/$30 card) is identical to the Choice agreement, and old numbers keep working. Not a worse change.
+- Coinbase user agreement Oct 21. No meaningful delta found in sections 1–9 and Appendices 1–2 compared with July 22. Appendices 4–5 weren't compared because Wayback curl failed from the box.
+- Sezzle Balance moving to WebBank (opt-in, adds features).
+- Reddit RSS ending Nov 13 (TechCrunch).
+- EarnIn Live Pay (Business Wire).
+- Arc browser shutdown.
+- Fubo FOX Nation +$1.
+- Patreon guidelines.
+- Sittercity/Checkr continuous monitoring.
+- DC v. Amazon (2 zip codes).
+- WV Verizon landline notice.
+- WordPress.com beta terms.
+- Upwork fee pages (wording refresh).
+- Amazon holiday return window (routine, seller forum).
+
+**Gaps:** Wayback is still unreliable from the box (curl 000; WebFetch works but truncates long pages). Etsy and Amazon return 403 to curl. Reddit JSON is blocked.
