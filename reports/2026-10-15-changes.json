@@ -70,11 +70,19 @@
     "url": "https://www.verizon.com/support/surcharges/",
     "seo_title": "Verizon price increase 2026: fees rise to $4.95 a line (Regulatory Charge Nov 1, admin charge $4.69 Nov 15)",
     "seo_desc": "Verizon's Regulatory Charge goes from $0.21 to $0.26 per voice line on Nov 1, 2026, and its Administrative and Telco Recovery Charge from $3.78 to $4.69 on Nov 15.",
-    "note": "October 23, 2026: Verizon's Important Plan Information page (figures as of October 1, 2026) now also lists a bigger increase: the Administrative and Telco Recovery Charge goes from $3.78 to $4.69 per voice line on November 15, 2026 (+$0.91). With the Regulatory Charge change, Verizon's two flat per-line surcharges go from $3.99 to $4.04 on November 1 and to $4.95 on November 15. Data-only lines stay at $3.97 plus $0.02. The myPlan 3-year price lock excludes surcharges, so it doesn't stop either increase.",
+    "note": "October 23, 2026: Verizon's Important Plan Information page (figures as of October 1, 2026) now also lists a bigger increase: the Administrative and Telco Recovery Charge goes from $3.78 to $4.69 per voice line on November 15, 2026 (+$0.91). With the Regulatory Charge change, Verizon's two flat per-line surcharges go from $3.99 to $4.04 on November 1 and to $4.95 on November 15. Data-only lines stay at $3.97 plus $0.02. The myPlan 3-year price lock excludes surcharges, so it doesn't stop either increase. How it compares (each carrier's own page, checked October 23, 2026): T-Mobile charges a Regulatory Programs & Telco Recovery Fee of \"$5.49 per line every month\" on voice lines (plans that bill fees separately), and AT&T's Mobility fee schedule lists its Administrative & Regulatory Cost Recovery Fee at \"$4.99 per line per month.\" After November 15, Verizon's $4.95 sits between the two. On a four-line Verizon account the two flat charges go from $15.96 to $19.80 a month, $3.84 more, or about $46 a year, before universal service charges and taxes.",
     "sources": [
       [
         "Verizon, Important Plan Information ($4.69 effective Nov 15, 2026)",
         "https://www.verizon.com/support/important-plan-information/"
+      ],
+      [
+        "T-Mobile, Your bill and what's impacting it ($5.49 per voice line)",
+        "https://www.t-mobile.com/support/account/whats-impacting-your-bill"
+      ],
+      [
+        "AT&T, Wireless fee schedule ($4.99 per line per month)",
+        "https://www.att.com/legal/terms.otherWirelessFeeSchedule.html"
       ]
     ],
     "modified": "2026-10-23"
