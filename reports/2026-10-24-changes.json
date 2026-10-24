@@ -22,6 +22,10 @@
     "November 25, 2026. The FCC adopted the order (FCC 26-67) on September 30, 2026, and it is published in the Federal Register on October 26, 2026, with an effective date of November 25."
    ],
    [
+    "What's the difference between the old rule and the new one?",
+    "Today's rule (47 CFR 64.1200(a)(10), in effect since April 2025) lets you revoke consent \"by using any reasonable method,\" and a reply in other words must count \"if a reasonable person would understand those words to have conveyed a request to revoke consent.\" From November 25, a company may designate a key-press opt-out, one of seven reply words, or its own website or phone number as the exclusive method, and then \"is not required to process revocation requests made by any other means.\" Companies that don't designate one must still accept any reasonable request."
+   ],
+   [
     "Will texting \"please stop\" still work?",
     "Only if the company hasn't designated an exclusive opt-out method, or your reply uses one of the seven standard words. From November 25, a company that names reply-STOP (or a key-press, website or phone number) as its exclusive method doesn't have to process requests made any other way. Replying with exactly STOP, QUIT, END, REVOKE, OPT OUT, CANCEL or UNSUBSCRIBE always counts for texts."
    ],
@@ -36,6 +40,10 @@
    [
     "Can my bank call or text a number I never gave it?",
     "For certain fraud and security alerts, yes, from November 25: a number supplied by an authorized spouse or family member, captured when you call the bank, or in records from another financial institution. You can still opt out of those messages."
+   ],
+   [
+    "How do I comment on the FCC's follow-up proposal?",
+    "Use the FCC's ECFS Express form (fcc.gov/ecfs/filings/express). Enter 02-278 under Proceeding(s) and pick CG Docket No. 02-278, add your name and mailing address, type your view in Brief Comments (for example, whether you want a required one-step \"revoke all\" option, two-way texting, or a seven-business-day deadline), and submit. Comments are due November 25, 2026, by midnight Eastern, and replies December 28. Comments filed with the FCC are made public."
    ]
   ],
   "sources": [
@@ -62,6 +70,14 @@
    [
     "FCC ECFS: file a comment (CG Docket No. 02-278)",
     "https://www.fcc.gov/ecfs/"
+   ],
+   [
+    "FCC ECFS Express: submit a brief comment (enter proceeding 02-278)",
+    "https://www.fcc.gov/ecfs/filings/express"
+   ],
+   [
+    "FCC consumer guide: How to comment on FCC proceedings",
+    "https://www.fcc.gov/consumers/guides/how-comment"
    ]
   ]
  }
