@@ -8,7 +8,7 @@ Alt text: Redline of Google's privacy policy, effective Oct 16, 2026. "We don't 
 Text:
 Google's privacy policy used to say flatly: "We don't show you personalized ads based on your content from Drive, Gmail, or Photos."
 
-Since Oct 16 it keeps going: "unless you choose to make data from these services available to other Google services that support personalized ads."
+Since Oct 16 it continues: "unless you choose to make data from these services available to other Google services that support personalized ads."
 
 ## R1 reply to https://x.com/Pirat_Nation/status/2114009020952461599 (posted 9:00 AM MT, 5.7k views at 9:20)
 The switch is "Connected Content apps" under Personal Intelligence: Google Account > Data & privacy > Personalization settings > Manage Personalized Recommendations in Search Services.

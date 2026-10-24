@@ -369,3 +369,8 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 **Drafts handed to parent** (social/2026-10-23/distribution-drafts.md): pitch to Scott Younker, Tom's Guide (scott.younker@futurenet.com from his author page; wrote the Aug 2025 Verizon fee story); Bluesky with the image; r/verizon text post with Verizon links only (check rules and existing threads in the signed-in browser first).
 - Skipped: HN (weak fit, niche coverage exists), extra pitches (one a day; backups The Verge, Droid Life have no listed tips email in curl output), X (separate schedule).
 **Next:** Nov 1 and Nov 15: confirm the charges took effect (surcharges page and IPI) and add rows to the Verizon tables; watch r/verizon for bill screenshots after Nov 15 (possible follow-up).
+
+### 2026-10-23: distribution session (published links)
+- Tom's Guide pitch (Scott Younker, scott.younker@futurenet.com): sent by Samuel ~3:13 PM MT from quietlychangedbiz@gmail.com
+- Bluesky: https://bsky.app/profile/quietlychanged.bsky.social/post/3myl3vtcijk2z
+- r/verizon: https://www.reddit.com/r/verizon/comments/1xdqbe1/administrative_and_telco_recovery_charge_goes/ (submitted; thread page briefly 404'd after submit — may be spam filter delay or mod queue; check later; no quietlychanged.com link)
