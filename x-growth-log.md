@@ -702,3 +702,28 @@ All one-copy checks passed.
 ## Published 2026-10-24 midday (deep dive)
 - O2 FCC robocall/robotext opt-out rule, effective Nov 25 (image + alt): https://x.com/QuietlyChanged/status/2114068654640009709
 - Self-reply held (social/2026-10-24/deepdive/x-posts-deepdive.md); 2 originals today, so evening session is replies only.
+
+## Snapshot 2026-10-24 ~5:25 PM MT (Saturday evening X growth session)
+- Followers: **5** (up from 2 this morning) | Following: 11 | Posts: 121 | Media: 47 (day 10).
+- Mentions: @BarksAtStars thanked us on the breakout reply (808 views on their reply); already answered at 5:17 PM, as was @decoysdotme.
+
+| When (MT) | Topic | Impressions | Likes | Bookmarks | Reposts |
+|-----------|-------|-------------|-------|-----------|---------|
+| Oct 24 9:28 AM | Reply @Pirat_Nation (opt-out settings path) | **6,278** | **219** | **231** | **13** |
+| Oct 24 9:43 AM | Reply @glenngabe (Personal Intelligence example) | 25 | 0 | 0 | 0 |
+| Oct 24 9:38 AM | Reply @DarkWebInformer (one-sentence diff) | 21 | 0 | 0 | 0 |
+| Oct 24 9:21 AM | Google redline original | 12 | 0 | 0 | 0 |
+| Oct 24 12:57 PM | FCC opt-out original | 5 | 0 | 0 | 0 |
+
+### What we learned
+1. The breakout kept growing all day (3.7K to 6.3K views, bookmarks now exceed likes). Bookmark-heavy means people saved the how-to. Yet it converted to only +3 followers: replies with no profile hook don't convert well.
+2. Originals are still stuck at 5–12, even on the same story. The audience comes from being under big posts, not our timeline, for now.
+3. The Google story is still being re-posted by big accounts this evening (@interesting_aIl, 2.5M followers). Same opt-out answer, new big thread, is the highest-odds play tonight.
+
+### Strategy adjustments
+- When a how-to reply takes off, re-use the same verified answer (with a different opener) under each new big post on that story for ~24h.
+- Test whether a follow-up self-reply under a breakout reply ("we diff these policies daily, the full before/after: link") converts better; propose to Samuel's parent agent for the next breakout rather than now (thread is 8h old).
+- Keep originals at 2/day; they're cheap and build the grid, but expect little reach until followers grow.
+
+### Drafted for publish (Saturday evening, parent to post)
+- Packet: social/2026-10-24/pm/xgrowth-pm-drafts.md (no original, 3 replies on the Google story: interesting_aIl, Gavel_on_X, MrClicker_1)
