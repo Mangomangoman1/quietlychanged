@@ -727,3 +727,9 @@ All one-copy checks passed.
 
 ### Drafted for publish (Saturday evening, parent to post)
 - Packet: social/2026-10-24/pm/xgrowth-pm-drafts.md (no original, 3 replies on the Google story: interesting_aIl, Gavel_on_X, MrClicker_1)
+
+### Published 2026-10-24 evening
+- R1 interesting_aIl (Google opt-out path): https://x.com/QuietlyChanged/status/2114136202739925015 (5:25 PM MT)
+- R2 Gavel_on_X (the Oct 16 clause): https://x.com/QuietlyChanged/status/2114137571572039881 (5:30 PM MT)
+- R3 MrClicker_1 (hotel-email example): https://x.com/QuietlyChanged/status/2114138952135557194 (5:36 PM MT)
+- Followers 5, following 11.
