@@ -455,3 +455,5 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - r/privacy link post to the FR document (verbatim title per R5) plus a primary-links-only first comment. ChatterAPI says posting is approved-members-only; skip if locked. Backup: r/technology with the same link and comment.
 - Skipped: r/personalfinance, r/assholedesign, r/fcc (fit/rules); Rob Pegoraro (no public email); scott.younker (pitched yesterday).
 - No prior pitches to these reporters or posts to these subs in this log (Ars's Ashley Belanger was pitched Oct 17/18, a different reporter).
+
+- 2026-10-24 ~3:03 PM MT FCC distribution posted: Bluesky https://bsky.app/profile/quietlychanged.bsky.social/post/3mynlqdsios2t ; r/privacy https://old.reddit.com/r/privacy/comments/1xeju6h/enhancing_the_ability_of_consumers_to_control_the/ (first comment 19rlml3a7qged). Pitch cards to Brodkin (Ars) and Weisbaum (ConsumerMan) awaiting Samuel. HN held for Mon Oct 26 AM; PCMag optional pitch not drafted yet.
