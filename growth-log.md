@@ -374,3 +374,13 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - Tom's Guide pitch (Scott Younker, scott.younker@futurenet.com): sent by Samuel ~3:13 PM MT from quietlychangedbiz@gmail.com
 - Bluesky: https://bsky.app/profile/quietlychanged.bsky.social/post/3myl3vtcijk2z
 - r/verizon: https://www.reddit.com/r/verizon/comments/1xdqbe1/administrative_and_telco_recovery_charge_goes/ (submitted; thread page briefly 404'd after submit — may be spam filter delay or mod queue; check later; no quietlychanged.com link)
+
+## 2026-10-24: SEO session
+- GSC (service account; data through Oct 22): **Oct 22: 104 impressions (first 100+ day), 3 clicks**, avg pos 6.4. Trend Oct 18–22: 29, 52, 48, 75, 104. Top pages (14 days): Oura arbitration article 55 (pos 4.3), /services/oura/ 52 (1 click, pos 6.2), BofA 42 (3 clicks), Shopify yearly 24, Google Gmail/Gemini data 21, Verizon regulatory article 19 (pos 11.3), DOT 17, /services/robinhood/ 9 (3 clicks). New query Oct 22: "oura new terms and conditions" (pos 7, /services/oura/). Sitemap: 126 submitted. /price-changes/ still unknown to Google; /services/peacock/ still discovered-not-indexed. Raw output: /workspace/seo/gsc-2026-10-24.txt.
+- Shipped (commit 38599ba, Vercel dpl_F9CKtVFknCE5ebAjGaEKw1hCQQ3J, live):
+  - build_site.py: optional `faq` field on change entries renders a "Quick answers" section plus FAQPage JSON-LD on the article; service pages show the latest article's Q&A with a link to the full breakdown. New service_seo.json for per-service title/desc overrides.
+  - Oura article: 5 Q&As (effective date, what happens if you don't accept, no arbitration opt-out — rechecked live terms Oct 24, how U.S. disputes change, data use). /services/oura/ retitled "Oura terms and conditions changes: Nov 4, 2026 update, arbitration, and history" with a new description.
+  - Verizon article: 4 Q&As (Nov 1/Nov 15 increases to $4.95/line, myPlan lock doesn't cover surcharges, four-line math, AT&T/T-Mobile comparison).
+  - IndexNow 200 (build, 42 URLs; post-deploy for the 4 pages + sitemap).
+- Expected effect: Oura pages are our top two by impressions and searches will peak around the Nov 4 lock date; question-style answers should catch "can I opt out of Oura arbitration", "what happens if I don't accept Oura terms", "oura new terms and conditions" and lift CTR. Verizon Q&As target "verizon fee increase november 2026" style queries as bills land.
+- Next: add `faq` to BofA (3 clicks) and Google Gmail/Gemini articles; after Nov 4 add an Oura update note; get /price-changes/ and Peacock crawled.
