@@ -1,41 +1,63 @@
 [
-  {
-    "service": "Google",
-    "page": "privacy",
-    "headline": "Gmail, Photos and Drive data you share with Search or Gemini can now shape ads",
-    "what": "Google's privacy policy now reads \"Effective October 16, 2026.\" It used to say flatly: \"We don't show you personalized ads based on your content from Drive, Gmail, or Photos.\" That line now ends \"unless you choose to make data from these services available to other Google services that support personalized ads.\" A new passage says you \"may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive,\" and that \"Search may process some of the data that you allow Search to access to personalize content, including ads.\" Personalized ads are now described as based on \"your interests, activity, or personalized content from Google services.\" The policy also adds a definition tied to features such as \"Personal Intelligence,\" with the example of Search using hotel booking details from an email to suggest things to do nearby. The access is opt-in: the policy frames it as something you choose to allow, subject to each service's own settings.",
-    "who": "Anyone with a Google account who turns on, or is offered, features that let Search or Gemini read Gmail, Google Photos, or Drive, such as Personal Intelligence",
-    "url": "https://policies.google.com/privacy?hl=en",
-    "seo_title": "Google privacy policy (Oct 16, 2026): Gmail, Photos and Drive data shared with Search or Gemini can personalize ads",
-    "seo_desc": "Google's Oct 16, 2026 privacy policy drops its flat promise not to use Gmail, Drive or Photos content for ads: if you let Search or Gemini access that data, it can personalize content, including ads."
-  },
-  {
-    "service": "GitHub",
-    "page": "pricing",
-    "headline": "AI secret detection now covers push protection, billed by usage",
-    "what": "In the GitHub Secret Protection section of GitHub's pricing page, the \"Copilot secret scanning\" row is renamed \"AI detection for alerts\" (\"Use AI to detect unstructured secrets, like passwords, in existing code\"). A new row, \"AI detection for push protection,\" uses AI to \"detect unstructured secrets, like passwords, and block pushes that contain them,\" and is listed as \"Usage-based\" rather than included in the plan price.",
-    "who": "Teams paying for GitHub Secret Protection, especially admins who want AI-based password detection to block pushes and need to budget for usage charges",
-    "url": "https://github.com/pricing"
-  },
-  {
-    "service": "Oura",
-    "page": "terms",
-    "headline": "App locks Nov 4 unless you accept new arbitration terms",
-    "what": "Oura's Terms of Use now read \"Last Updated: October 2, 2026\" and \"Effective Date: November 4, 2026,\" replacing the April 20, 2026 version. An Oura help-center article (last updated October 13) says members must accept the new terms in the Oura App by November 4: \"After that date, you can't use the Oura App until you accept.\" The biggest rewrite is the U.S. dispute section. The old terms had one paragraph requiring arbitration and waiving class actions. The new Section XVI has 12 numbered parts. Disputes go to the American Arbitration Association (AAA), the provision \"includes a class action and jury trial waiver,\" it covers any dispute \"regardless of when it accrued,\" and it \"supersedes all prior versions.\" Before filing, you must mail a written \"Pre-Dispute Notice\" to Oura's agent for service of process in Sacramento and negotiate for 30 days. Claims of $50,000 or less are decided on written submissions unless the arbitrator decides to hold a hearing. A new \"Mass Arbitration Procedures\" section applies when 25 or more similar claims are filed by people whose lawyers work together: 20 randomly picked cases go first, the rest are paused (with deadlines tolled) until those are decided and a mediation is held, then the next batch of 20 proceeds. Claims exempt from arbitration include small-claims cases, public injunctive relief under California law, and \"any claim or cause of action for vexatious litigation.\" Neither version offers an arbitration opt-out. Other changes: the old promise to email you \"at least thirty (30) days in advance\" of a fee change is replaced by notice \"in advance of the effective date and within the timeframe required by applicable law,\" plus a new right to cancel before a new fee applies. The liability cap changes from $100 to \"the amount paid to Oura in the prior twelve (12) months.\" The old one-year deadline for filing claims is gone. Renewal charges move from one day before your billing anniversary to the anniversary itself, and you must cancel at least one day before renewal. The data section now says Oura \"disclaims all liability that arises out of or in any way relates to any information that you provide or direct to be provided to Oura, even if that information constitutes electronic patient health records,\" and that Oura \"may use, process, or share it, consistent with\" the terms and its Privacy Policy. Oura says the update \"does not change how Oura collects, uses, or protects member data,\" and its Privacy Policy is still dated June 15, 2026. The terms also add a \"Regulated Features\" section that names the Fertile Window feature in Cycle Insights as a medical device in the EU. How it compares (checked October 17, 2026): WHOOP's Terms of Use (last updated August 3, 2026) also require arbitration with a class action and jury trial waiver, but say \"UNLESS YOU OPT OUT OF THE AGREEMENT TO ARBITRATE WITHIN 30 DAYS,\" and let members reject an updated agreement by emailing support@whoop.com within 30 days, keeping the prior terms until their current membership ends. Eight Sleep's Terms of Service (last updated September 16, 2026) say \"YOU MAY OPT OUT OF ARBITRATION WITHIN 30 DAYS OF FIRST AGREEING TO THESE TERMS\" by writing to legal@eightsleep.com. Oura's new terms offer no arbitration opt-out and no way to reject the update except to stop using the app (\"your only recourse is to cease using the Services\").",
-    "who": "Oura Ring owners and Oura Membership subscribers, especially in the U.S., where the new arbitration rules apply. Everyone has to accept in the app by November 4, 2026 to keep using it",
-    "url": "https://ouraring.com/terms-and-conditions",
-    "seo_title": "Oura terms update (Nov 4, 2026): accept in the app or lose access; jury waiver and mass-arbitration batches added",
-    "seo_desc": "Oura's new Terms of Use take effect Nov 4, 2026. You must accept them in the app to keep using it. They add a jury trial waiver, AAA mass-arbitration batches of 20, and a 30-day pre-dispute notice.",
-    "modified": "2026-10-17"
-  },
-  {
-    "service": "Rocket Money",
-    "page": "terms",
-    "headline": "Bill negotiation moves to $15/month Premium+ on Nov 2",
-    "what": "Rocket Money's Terms of Service now read \"Effective 10/02/2026,\" replacing the June 29, 2026 version. The Bill Negotiation section adds: \"As of November 2, 2026, Bill Negotiation is exclusively a Premium+ feature. Negotiations already in progress or on a payment plan will continue. Auto-renegotiations will sunset on November 2, 2026.\" Until now, members on other plans, including the free tier, could have Rocket Money negotiate a bill and pay only if it worked: a success fee \"decided by the user, anywhere between 35-60% of the 12-month savings achieved.\" The terms' own example: at a 40% fee, a $10-a-month reduction costs $48. That pay-per-success option ends for negotiations started after November 2. Rocket Money's help center says Premium+ is \"$15/month plus tax,\" that \"there's no paid, a la carte option,\" and that Premium+ members can have one negotiation in progress at a time. Members who don't upgrade keep the rest of their plan but \"won't be able to submit new Bill Negotiations after November 2.\" Automatic renegotiations, the ones Rocket Money scheduled through its TrueProtect feature, end November 1 according to the help center: \"the one you had scheduled through TrueProtect won't happen,\" so you have to ask for each new negotiation yourself. At $15 a month, Premium+ costs $180 a year before tax, whether or not any bill gets lowered. The same terms update adds a \"Conversation memory\" clause for Rowan, Rocket Money's AI assistant, which \"may retain summarized information from your conversations, such as your goals, preferences, and communication style,\" and a new section on reading Gmail content if you connect a Google account.",
-    "who": "Rocket Money members on the free or Premium plans who use bill negotiation, and anyone with an automatic renegotiation scheduled for November or later",
-    "url": "https://www.rocketmoney.com/terms",
-    "seo_title": "Rocket Money bill negotiation moves to Premium+ ($15/month) on Nov 2, 2026; 35-60% success fee option ends",
-    "seo_desc": "From Nov 2, 2026, Rocket Money only negotiates bills for Premium+ members ($15/month plus tax). The 35-60% pay-if-it-works fee option and automatic renegotiations end."
-  }
+ {
+  "service": "Google",
+  "page": "privacy",
+  "headline": "Gmail, Photos and Drive data you share with Search or Gemini can now shape ads",
+  "what": "Google's privacy policy now reads \"Effective October 16, 2026.\" It used to say flatly: \"We don't show you personalized ads based on your content from Drive, Gmail, or Photos.\" That line now ends \"unless you choose to make data from these services available to other Google services that support personalized ads.\" A new passage says you \"may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive,\" and that \"Search may process some of the data that you allow Search to access to personalize content, including ads.\" Personalized ads are now described as based on \"your interests, activity, or personalized content from Google services.\" The policy also adds a definition tied to features such as \"Personal Intelligence,\" with the example of Search using hotel booking details from an email to suggest things to do nearby. The access is opt-in: the policy frames it as something you choose to allow, subject to each service's own settings.",
+  "who": "Anyone with a Google account who turns on, or is offered, features that let Search or Gemini read Gmail, Google Photos, or Drive, such as Personal Intelligence",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "seo_title": "Google privacy policy (Oct 16, 2026): Gmail, Photos and Drive data shared with Search or Gemini can personalize ads",
+  "seo_desc": "Google's Oct 16, 2026 privacy policy drops its flat promise not to use Gmail, Drive or Photos content for ads: if you let Search or Gemini access that data, it can personalize content, including ads."
+ },
+ {
+  "service": "GitHub",
+  "page": "pricing",
+  "headline": "AI secret detection now covers push protection, billed by usage",
+  "what": "In the GitHub Secret Protection section of GitHub's pricing page, the \"Copilot secret scanning\" row is renamed \"AI detection for alerts\" (\"Use AI to detect unstructured secrets, like passwords, in existing code\"). A new row, \"AI detection for push protection,\" uses AI to \"detect unstructured secrets, like passwords, and block pushes that contain them,\" and is listed as \"Usage-based\" rather than included in the plan price.",
+  "who": "Teams paying for GitHub Secret Protection, especially admins who want AI-based password detection to block pushes and need to budget for usage charges",
+  "url": "https://github.com/pricing"
+ },
+ {
+  "service": "Oura",
+  "page": "terms",
+  "headline": "App locks Nov 4 unless you accept new arbitration terms",
+  "what": "Oura's Terms of Use now read \"Last Updated: October 2, 2026\" and \"Effective Date: November 4, 2026,\" replacing the April 20, 2026 version. An Oura help-center article (last updated October 13) says members must accept the new terms in the Oura App by November 4: \"After that date, you can't use the Oura App until you accept.\" The biggest rewrite is the U.S. dispute section. The old terms had one paragraph requiring arbitration and waiving class actions. The new Section XVI has 12 numbered parts. Disputes go to the American Arbitration Association (AAA), the provision \"includes a class action and jury trial waiver,\" it covers any dispute \"regardless of when it accrued,\" and it \"supersedes all prior versions.\" Before filing, you must mail a written \"Pre-Dispute Notice\" to Oura's agent for service of process in Sacramento and negotiate for 30 days. Claims of $50,000 or less are decided on written submissions unless the arbitrator decides to hold a hearing. A new \"Mass Arbitration Procedures\" section applies when 25 or more similar claims are filed by people whose lawyers work together: 20 randomly picked cases go first, the rest are paused (with deadlines tolled) until those are decided and a mediation is held, then the next batch of 20 proceeds. Claims exempt from arbitration include small-claims cases, public injunctive relief under California law, and \"any claim or cause of action for vexatious litigation.\" Neither version offers an arbitration opt-out. Other changes: the old promise to email you \"at least thirty (30) days in advance\" of a fee change is replaced by notice \"in advance of the effective date and within the timeframe required by applicable law,\" plus a new right to cancel before a new fee applies. The liability cap changes from $100 to \"the amount paid to Oura in the prior twelve (12) months.\" The old one-year deadline for filing claims is gone. Renewal charges move from one day before your billing anniversary to the anniversary itself, and you must cancel at least one day before renewal. The data section now says Oura \"disclaims all liability that arises out of or in any way relates to any information that you provide or direct to be provided to Oura, even if that information constitutes electronic patient health records,\" and that Oura \"may use, process, or share it, consistent with\" the terms and its Privacy Policy. Oura says the update \"does not change how Oura collects, uses, or protects member data,\" and its Privacy Policy is still dated June 15, 2026. The terms also add a \"Regulated Features\" section that names the Fertile Window feature in Cycle Insights as a medical device in the EU. How it compares (checked October 17, 2026): WHOOP's Terms of Use (last updated August 3, 2026) also require arbitration with a class action and jury trial waiver, but say \"UNLESS YOU OPT OUT OF THE AGREEMENT TO ARBITRATE WITHIN 30 DAYS,\" and let members reject an updated agreement by emailing support@whoop.com within 30 days, keeping the prior terms until their current membership ends. Eight Sleep's Terms of Service (last updated September 16, 2026) say \"YOU MAY OPT OUT OF ARBITRATION WITHIN 30 DAYS OF FIRST AGREEING TO THESE TERMS\" by writing to legal@eightsleep.com. Oura's new terms offer no arbitration opt-out and no way to reject the update except to stop using the app (\"your only recourse is to cease using the Services\").",
+  "who": "Oura Ring owners and Oura Membership subscribers, especially in the U.S., where the new arbitration rules apply. Everyone has to accept in the app by November 4, 2026 to keep using it",
+  "url": "https://ouraring.com/terms-and-conditions",
+  "seo_title": "Oura terms update (Nov 4, 2026): accept in the app or lose access; jury waiver and mass-arbitration batches added",
+  "seo_desc": "Oura's new Terms of Use take effect Nov 4, 2026. You must accept them in the app to keep using it. They add a jury trial waiver, AAA mass-arbitration batches of 20, and a 30-day pre-dispute notice.",
+  "modified": "2026-10-24",
+  "faq": [
+   [
+    "When do Oura's new terms and conditions take effect?",
+    "Oura's new Terms of Use are dated \"Last Updated: October 2, 2026\" and take effect on November 4, 2026. They replace the April 20, 2026 version."
+   ],
+   [
+    "What happens if I don't accept Oura's new terms?",
+    "An Oura help-center article (updated October 13, 2026) says members must accept the new terms in the Oura App by November 4, and \"After that date, you can't use the Oura App until you accept.\" The terms themselves say that if a change isn't acceptable, \"your only recourse is to cease using the Services.\""
+   ],
+   [
+    "Can I opt out of Oura's arbitration agreement?",
+    "No. When we rechecked the live terms on October 24, 2026, the only opt-outs mentioned were for marketing emails and texts; there is no way to opt out of arbitration. The exceptions are small-claims court cases, claims for public injunctive relief under California law, and intellectual-property claims. By comparison, WHOOP and Eight Sleep both let members opt out of arbitration within 30 days."
+   ],
+   [
+    "What changes for U.S. disputes with Oura?",
+    "Disputes go to individual arbitration with the American Arbitration Association, with a class action and jury trial waiver. You must first mail a written Pre-Dispute Notice and negotiate for 30 days. Claims of $50,000 or less are decided on written submissions unless the arbitrator orders a hearing. If 25 or more similar claims are filed by coordinated lawyers, 20 are picked at random to go first and the rest wait."
+   ],
+   [
+    "Do the new terms change how Oura uses my data?",
+    "Oura says the update \"does not change how Oura collects, uses, or protects member data,\" and its Privacy Policy was still dated June 15, 2026 when we checked on October 17. The terms do add a broad disclaimer of liability for information you share with Oura, including electronic patient health records."
+   ]
+  ]
+ },
+ {
+  "service": "Rocket Money",
+  "page": "terms",
+  "headline": "Bill negotiation moves to $15/month Premium+ on Nov 2",
+  "what": "Rocket Money's Terms of Service now read \"Effective 10/02/2026,\" replacing the June 29, 2026 version. The Bill Negotiation section adds: \"As of November 2, 2026, Bill Negotiation is exclusively a Premium+ feature. Negotiations already in progress or on a payment plan will continue. Auto-renegotiations will sunset on November 2, 2026.\" Until now, members on other plans, including the free tier, could have Rocket Money negotiate a bill and pay only if it worked: a success fee \"decided by the user, anywhere between 35-60% of the 12-month savings achieved.\" The terms' own example: at a 40% fee, a $10-a-month reduction costs $48. That pay-per-success option ends for negotiations started after November 2. Rocket Money's help center says Premium+ is \"$15/month plus tax,\" that \"there's no paid, a la carte option,\" and that Premium+ members can have one negotiation in progress at a time. Members who don't upgrade keep the rest of their plan but \"won't be able to submit new Bill Negotiations after November 2.\" Automatic renegotiations, the ones Rocket Money scheduled through its TrueProtect feature, end November 1 according to the help center: \"the one you had scheduled through TrueProtect won't happen,\" so you have to ask for each new negotiation yourself. At $15 a month, Premium+ costs $180 a year before tax, whether or not any bill gets lowered. The same terms update adds a \"Conversation memory\" clause for Rowan, Rocket Money's AI assistant, which \"may retain summarized information from your conversations, such as your goals, preferences, and communication style,\" and a new section on reading Gmail content if you connect a Google account.",
+  "who": "Rocket Money members on the free or Premium plans who use bill negotiation, and anyone with an automatic renegotiation scheduled for November or later",
+  "url": "https://www.rocketmoney.com/terms",
+  "seo_title": "Rocket Money bill negotiation moves to Premium+ ($15/month) on Nov 2, 2026; 35-60% success fee option ends",
+  "seo_desc": "From Nov 2, 2026, Rocket Money only negotiates bills for Premium+ members ($15/month plus tax). The 35-60% pay-if-it-works fee option and automatic renegotiations end."
+ }
 ]

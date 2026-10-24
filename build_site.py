@@ -176,11 +176,13 @@ for d in days:
         ds=c.get("seo_desc") or (c["what"][:155])
         k=c.get("page","terms"); sl=slug(c["service"]); has_svc = sl in TRACKED_SLUGS
         ld={"@context":"https://schema.org","@type":"NewsArticle","headline":t[:110],"datePublished":d+"T06:00:00-06:00","dateModified":c.get("modified",d)+"T06:00:00-06:00","url":f"{SITE}/changes/{a}/","image":[SITE+"/og.png"],"author":{"@type":"Organization","name":"QuietlyChanged","url":SITE+"/"},"publisher":ORG,"description":ds,"about":{"@type":"Organization","name":c["service"]}}
+        faq_html = ('<h2>Quick answers</h2>' + "".join(f"<h3>{E(q)}</h3><p>{E(a)}</p>" for q,a in c["faq"])) if c.get("faq") else ""
+        if c.get("faq"): ld=[ld,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in c["faq"]]}]
         note_html = f'<aside class="note" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
         srcs_html = ("<p>Other sources:</p><ul>" + "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n,u in c["sources"]) + "</ul>") if c.get("sources") else ""
         more_svc = (f'<a href="../../services/{sl}/#price-history">{E(c["service"])} price history: every increase, with dates</a> · ' if has_svc and c["service"] in _PHK else "") + (f'<a href="../../services/{sl}/">Full {E(c["service"])} change history</a> · ' if has_svc else "")
         body=f'''<p class="kicker">{tag(k)} {E(c["service"])}</p><h1>{E(t)}</h1><p class="meta"><time datetime="{d}">{nice(d)}</time> · Detected by QuietlyChanged's daily check</p>
-<p class="lede">{E(c["what"])}</p>{note_html}<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>
+<p class="lede">{E(c["what"])}</p>{note_html}<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>{faq_html}
 <h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>{srcs_html}
 <h2>More</h2><p>{more_svc}<a href="../../{HUB_FOR[k][0]}">All {HUB_FOR[k][1].lower()}</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p>'''
         crumbs=[("Home",SITE+"/"),(HUB_FOR.get(k,("",""))[1] or "Changes",f"{SITE}/{HUB_FOR.get(k,('archive.html',''))[0]}")]
@@ -297,6 +299,7 @@ entries.sort(key=lambda x: x[0], reverse=True)
 feed = "".join(e for _, e in entries)
 (D/"feed.xml").write_text(f'<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>QuietlyChanged</title><link href="{SITE}/"/><link rel="self" href="{SITE}/feed.xml"/><id>{SITE}/</id><updated>{(days or [TODAY])[-1]}T12:00:00Z</updated>{feed}</feed>')
 # ---- evergreen per-service pages ----
+SVC_SEO = {k:v for k,v in json.loads((R/"service_seo.json").read_text()).items() if not k.startswith("_")} if (R/"service_seo.json").exists() else {}
 def svc_name(k): return k
 for k, v in s.items():
     sl = slug(k); (D/"services"/sl).mkdir(parents=True, exist_ok=True)
@@ -309,17 +312,21 @@ for k, v in s.items():
     phtml, phld, phpct, phfl = ph_section(k, PH[k]) if k in PH else ("", None, 0, None)
     if k in PH:
         title = PH[k].get("title") or f"{PH[k].get('title_name',PH[k].get('name',k))} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
+    if k in SVC_SEO: title = SVC_SEO[k].get("title", title)
     srcs = "".join(f'<li>{tag(p)} <a href="{E(u)}">{E(u)}</a></li>' for p,u in v.items())
     cl = "".join(f'<li><article class="card"><div>{tag(c.get("page","terms"))}</div><h3><a href="../../changes/{c['_art']}/">{E(c.get("headline") or "Page updated")}</a></h3><p>{E(c["what"])}</p><div class="foot"><time datetime="{d}">{nice(d)}</time><a href="{E(c["url"])}">Source →</a></div></article></li>' for d,c in log)
     cl = f'<ul class="cards">{cl}</ul>' if cl else f'<p class="empty">No changes detected since tracking began on {nice(first)}. This page updates automatically when {E(k)} changes a tracked page.</p>'
     others = sorted(s, key=str.lower); i = others.index(k); nb = [others[(i+j)%len(others)] for j in (-1,1)]
     desc = f"A dated history of every change {k} makes to its {kinds} pages, checked daily by QuietlyChanged. Last checked {nice(last)}."
     if k in PH and PH[k].get("desc"): desc = PH[k]["desc"]
+    if k in SVC_SEO and SVC_SEO[k].get("desc"): desc = SVC_SEO[k]["desc"]
     elif k in PH: desc = f"Every {PH[k].get('title_name',PH[k].get('name',k))} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
     ld = {"@context":"https://schema.org","@type":"WebPage","name":title,"url":f"{SITE}/services/{sl}/","dateModified":last,"publisher":ORG,"about":{"@type":"Organization","name":k}}
+    _fq = next(((d,c) for d,c in log if c.get("faq")), None)
+    svc_faq = (f'<h2>What changed recently: {E(_fq[1].get("headline",""))}</h2>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(a)}</p>" for q,a in _fq[1]["faq"]) + f'<p><a href="../../changes/{_fq[1]["_art"]}/">Read the full breakdown, with sources</a></p>') if _fq else ""
     body = f'''<p class="kicker">Service history</p><h1>{E(title)}</h1><p class="meta">Tracked since <time datetime="{first}">{nice(first)}</time> · Last snapshot <time datetime="{last}">{nice(last)}</time></p>
 <p class="lede">QuietlyChanged checks {E(k)}'s public {kinds} pages every day and records what changes, in plain English.</p>
-{phtml}<h2>Pages we monitor</h2><ul>{srcs}</ul><h2>Changelog</h2>{cl}
+{phtml}{svc_faq}<h2>Pages we monitor</h2><ul>{srcs}</ul><h2>Changelog</h2>{cl}
 <h2>Related</h2><p><a href="../{slug(nb[0])}/">{E(nb[0])}</a> · <a href="../{slug(nb[1])}/">{E(nb[1])}</a> · <a href="../../services.html">All tracked services</a> · <a href="../../about.html">How it works</a></p>'''
     (D/"services"/sl/"index.html").write_text(page(f"services/{sl}/index.html", title, body, desc=desc, depth=2, ld=([ld, phld] if phld else ld), lastmod=max([last]+[c.get("modified",d) for d,c in log]+([PH[k]["verified"]] if k in PH else [])), crumbs=[("Home",SITE+"/"),("What we track",SITE+"/services.html")]))
 # ---- sitemap / robots ----

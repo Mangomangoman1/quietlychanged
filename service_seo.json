@@ -1,0 +1,7 @@
+{
+ "_doc": "Optional per-service title/desc overrides for /services/<slug>/ pages.",
+ "Oura": {
+  "title": "Oura terms and conditions changes: Nov 4, 2026 update, arbitration, and history",
+  "desc": "Oura's new terms take effect Nov 4, 2026: accept them in the app or lose access. No arbitration opt-out, jury waiver, mass-arbitration batches. Dated history of every Oura terms and privacy change."
+ }
+}
