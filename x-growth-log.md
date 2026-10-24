@@ -698,3 +698,7 @@ All one-copy checks passed.
 - R2 DarkWebInformer (exact one-sentence diff): https://x.com/QuietlyChanged/status/2114018680359297484
 - R3 glenngabe (Personal Intelligence example): https://x.com/QuietlyChanged/status/2114019981226598564
 - Replies spaced ~5+ min apart per new pacing rule. Strategy: re-surface past finds when they trend.
+
+## Published 2026-10-24 midday (deep dive)
+- O2 FCC robocall/robotext opt-out rule, effective Nov 25 (image + alt): https://x.com/QuietlyChanged/status/2114068654640009709
+- Self-reply held (social/2026-10-24/deepdive/x-posts-deepdive.md); 2 originals today, so evening session is replies only.
