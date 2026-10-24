@@ -6,5 +6,63 @@
   "what": "Doist's privacy policy (which covers Todoist) used to promise it doesn't use information collected from you, including via AI tools, to develop, improve, or train \"generalized/non-personalized\" artificial intelligence or machine learning models. That qualifier is gone: the sentence now says it doesn't use your information to develop, improve, or train artificial intelligence or machine learning models at all. The old wording left room for personalized models; the new wording doesn't.",
   "who": "Todoist users concerned about their tasks and data being used for AI training",
   "url": "https://doist.com/privacy"
+ },
+ {
+  "service": "FCC",
+  "page": "terms",
+  "headline": "From Nov 25, companies can choose the only way you're allowed to stop their robocalls and texts",
+  "what": "The Federal Communications Commission has rewritten how you can stop automated calls and texts, and the change has a start date. The final rule (FCC 26-67, \"Enhancing the Ability of Consumers To Control the Robocalls\") went on public inspection on October 23 and is published in the Federal Register on October 26, 2026 (FR Doc. 2026-21821), with this line: \"Effective November 25, 2026.\" The FCC adopted it on September 30 and released it October 1. It covers the robocalls and robotexts that need your consent: autodialed or prerecorded calls and automated texts to your phone, such as payment reminders, delivery and appointment alerts, bank notices and marketing texts. Change 1: the company can choose the only way to opt out. Today's rule, in effect since April 2025, says you can revoke consent \"by using any reasonable method to clearly express a desire not to receive further calls or text messages,\" that a reply in other words must count \"if a reasonable person would understand those words to have conveyed a request to revoke consent,\" that a voicemail or email to the company creates a presumption you opted out, and that callers \"may not designate an exclusive means to request revocation of consent.\" From November 25, the rule says \"Callers may designate any of the following methods as the exclusive means to revoke consent\": an automated voice or key-press opt-out on the call; replying to a text with one of seven words (\"stop,\" \"quit,\" \"end,\" \"revoke,\" \"opt out,\" \"cancel,\" or \"unsubscribe\"); or a website or phone number the company picks. A company that does this \"is not required to process revocation requests made by any other means.\" In practice, if a sender has named reply-STOP as its method, a text like \"please take me off your list\" or \"no more messages,\" an email to customer service, or telling a phone agent may no longer legally count. The company has to disclose its chosen method \"clearly and conspicuously\" on the call or in each text, and texts only need to mention one of the seven words, but the sender must still honor all seven. Companies that don't pick an exclusive method must keep accepting any reasonable request. Change 2: stopping one kind of alert no longer stops the rest. The rule now says callers \"may interpret a revocation request made in response to an informational call or text message ... as applying only to the specific category of informational robocalls and text messages to which the revocation was directed and not to all communications.\" Replying STOP to a payment reminder can leave the same company's appointment, delivery or account texts running, and you may have to opt out of each type separately. The FCC's example is a consumer who stops payment reminders but still wants fraud alerts. This replaces the 2024 \"revoke all\" rule, which would have made one opt-out cover everything from that sender. That rule never took effect: it was put on hold by waiver, most recently until January 31, 2027, according to Nixon Peabody. Marketing is different: a STOP to a telemarketing or advertising message still revokes consent to all future marketing robocalls and texts from that caller. Change 3: banks get more numbers to call without asking. Under the FCC's exemption for fraud and security alerts, banks could send these to a cell number only if \"provided by the customer.\" From November 25 they can also use a wireless number \"obtained from a reliable source,\" meaning one \"supplied by a spouse or other family member who is authorized to be on the account; obtained when the customer calls the financial institution; or included in records obtained from another financial institution.\" Opt-outs and the exemption's limits on how many calls and texts can be sent still apply. What stays the same: companies must still honor an opt-out \"within a reasonable time not to exceed ten business days,\" a one-line confirmation text is still allowed, and senders that use texting systems that can't receive replies must say so in each text and offer another way to opt out. More could change. In a companion proposal (FR Doc. 2026-21820, also published October 26), the FCC asks whether to cut the ten-business-day deadline (it floats seven), require two-way texting, require a one-step \"revoke all\" option, and how opt-outs should apply to a company's affiliates. Comments are due November 25, 2026, and replies December 28, 2026, in CG Docket No. 02-278. Coverage (checked October 24): law firms and industry groups (Nixon Peabody, DLA Piper, Manatt, Crowell & Moring, Orrick, the ABA Banking Journal and the Ecommerce Innovation Alliance) wrote it up for businesses in late September and October. We found no consumer news story explaining what it means for people who want the calls and texts to stop, and on X only a handful of small posts. What you can do: from November 25, read the opt-out line at the bottom of an automated text and use exactly that word (STOP is the safest), or the number or link it names. On robocalls, use the key-press option if one is offered. If you want all of a company's automated messages to stop, reply to each type you get (reminders, alerts, promos), or ask the company to stop everything through its named method and keep a screenshot. Opt-outs must be honored within ten business days, so keep a record of the date. To weigh in on the follow-up proposal (for example, asking the FCC to require a one-step \"revoke all\" option or a shorter deadline), file a comment by November 25 in CG Docket No. 02-278 through the FCC's ECFS system.",
+  "who": "Anyone in the U.S. who gets automated calls or texts that need consent: payment and appointment reminders, delivery and account alerts, bank fraud alerts and marketing texts. That's nearly everyone with a cell phone. It applies to autodialed and prerecorded calls and automated texts, not to ordinary calls from a person.",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls",
+  "seo_title": "FCC robocall and text opt-out rule changes Nov 25, 2026: companies can require STOP only, and one STOP no longer stops every alert",
+  "seo_desc": "From November 25, 2026, companies can name one exclusive way to opt out of robocalls and robotexts (like reply STOP) and ignore other requests. A STOP to one type of alert no longer stops the rest. What changed and how to opt out.",
+  "faq": [
+   [
+    "When do the new FCC robocall opt-out rules take effect?",
+    "November 25, 2026. The FCC adopted the order (FCC 26-67) on September 30, 2026, and it is published in the Federal Register on October 26, 2026, with an effective date of November 25."
+   ],
+   [
+    "Will texting \"please stop\" still work?",
+    "Only if the company hasn't designated an exclusive opt-out method, or your reply uses one of the seven standard words. From November 25, a company that names reply-STOP (or a key-press, website or phone number) as its exclusive method doesn't have to process requests made any other way. Replying with exactly STOP, QUIT, END, REVOKE, OPT OUT, CANCEL or UNSUBSCRIBE always counts for texts."
+   ],
+   [
+    "Does replying STOP to one text stop all texts from that company?",
+    "Not necessarily. For informational messages such as payment reminders or delivery alerts, a company can treat your STOP as applying only to that category. A STOP to a marketing text still ends all marketing robocalls and texts from that sender."
+   ],
+   [
+    "How long does a company have to honor my opt-out?",
+    "Up to ten business days. The FCC is asking in a separate proposal whether to shorten that, possibly to seven business days. Comments are due November 25, 2026."
+   ],
+   [
+    "Can my bank call or text a number I never gave it?",
+    "For certain fraud and security alerts, yes, from November 25: a number supplied by an authorized spouse or family member, captured when you call the bank, or in records from another financial institution. You can still opt out of those messages."
+   ]
+  ],
+  "sources": [
+   [
+    "FCC Report and Order FCC 26-67 (adopted Sep 30, released Oct 1, 2026)",
+    "https://docs.fcc.gov/public/attachments/FCC-26-67A1.pdf"
+   ],
+   [
+    "Federal Register: Modernizing the Ability of Consumers To Control Robocalls (proposal; comments due Nov 25, 2026)",
+    "https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls"
+   ],
+   [
+    "eCFR: 47 CFR 64.1200 (current rule text, 'any reasonable method')",
+    "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-B/part-64/subpart-L/section-64.1200"
+   ],
+   [
+    "Nixon Peabody: FCC scraps \"revoke all\" and lets businesses pick how consumers opt out (Oct 7, 2026)",
+    "https://www.nixonpeabody.com/insights/alerts/2026/10/07/fcc-scraps-revoke-all-and-lets-businesses-pick-how-consumers-opt-out"
+   ],
+   [
+    "ABA Banking Journal: FCC votes to revise 'revoke all' rule and 'provided number' condition",
+    "https://bankingjournal.aba.com/2026/09/fcc-votes-to-revise-revoke-all-rule-and-provided-number-condition/"
+   ],
+   [
+    "FCC ECFS: file a comment (CG Docket No. 02-278)",
+    "https://www.fcc.gov/ecfs/"
+   ]
+  ]
  }
 ]
