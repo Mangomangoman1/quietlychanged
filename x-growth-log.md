@@ -664,3 +664,30 @@ All one-copy checks passed.
 - R2 WantedNow (Verizon vs T-Mobile fees): https://x.com/QuietlyChanged/status/2113772481442132190
 - R3 MazdakSafaei (Peacock price history): https://x.com/QuietlyChanged/status/2113772557895880879
 - R4 Fireandknife (follow-up to his reply): https://x.com/QuietlyChanged/status/2113772582201860534
+
+## Snapshot 2026-10-24 ~9:20 AM MT (Saturday morning X growth session)
+- Followers: **2** (flat) | Following: 10 | Posts: 114 | Media: 45 (day 10). No new mentions since Friday evening.
+
+| When (MT) | Topic | Impressions | Likes | Replies | Notes |
+|-----------|-------|-------------|-------|---------|-------|
+| Oct 23 9:27 AM | Reply @Fireandknife (Hulu price history) | 27 | 1 | 1 | still best of the week |
+| Oct 23 5:20 PM | Reply @WantedNow (Verizon vs T-Mobile fees) | 15 | 0 | 0 | |
+| Oct 23 5:20 PM | Follow-up reply @Fireandknife | 11 | 0 | 0 | conversation reply |
+| Oct 23 9:22 AM | Reply @gregmclnk (bundle math) | 11 | 0 | 0 | |
+| Oct 23 9:20 AM | Fitbit Oct 30 original (image) | 10 | 0 | 0 | +5 overnight |
+| Oct 23 9:25 AM | Reply @geoffwolfe | 9 | 0 | 0 | |
+| Oct 23 5:19 PM | Verizon admin charge original (bar chart) | 5 | 0 | 0 | |
+| Oct 23 5:20 PM | Reply @MazdakSafaei (Peacock) / @TheStreet | 5 / 2 | 0 | 0 | big outlet again ~0 |
+
+### What we learned
+1. The post-badge lift is holding but small: Friday's replies 5–27, originals 5–10 (baseline 1–5). Big outlet replies (@TheStreet) still near zero; replies to people mid-conversation do best.
+2. Today our own Oct 17 find went viral elsewhere: Google's Oct 16 privacy policy exception letting Gmail/Drive/Photos data shared via Personal Intelligence shape ads. Pirat_Nation (369k) 5.7k views in 20 min, DarkWebInformer 4.6k, glenngabe 1k, The Verge and Android Authority coverage. Our Oct 17 post on it got 2–5 impressions. Lesson: our finds lead the news by about a week, so when a story breaks we should be the receipts account in the first hour, and an original should restate the exact quote, not a summary.
+3. Media Mango's baseline flags batching (author-diversity penalty) and templated openers. Keep spacing ≥5 min and varied first lines.
+
+### Strategy adjustments
+- New play: "receipts when it breaks." Keep a short list of our past finds; when one trends, post the exact before/after quote plus a redline image within the hour, and reply on the top 2–3 posts with the specific missing detail (exact sentence, effective date, where the switch is).
+- Image style this time: document redline (strikethrough plus red insert), new for the grid.
+- Mutuals still the bottleneck (2 followers). Weekly report Monday should raise Media Mango's follow-20-niche-peers and "under the hood" check with Samuel.
+
+### Drafted for publish (Saturday morning, parent to post)
+- Packet: social/2026-10-24/am/xgrowth-am-drafts.md (1 original with image google-gmail-ads-18-words.png, 3 replies on the Google story)
