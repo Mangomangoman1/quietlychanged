@@ -440,3 +440,18 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - Verizon, T-Mobile and BofA Q3 10-Qs not out yet. Re-check next week.
 - Firefox privacy preview not live. Amazon pages 403 to curl. Wix terms JS-rendered.
 - No second find attempted after publishing. Coinbase appendices and bank/carrier fee schedules are still open.
+
+## 2026-10-24: distribution session (FCC robocall/robotext opt-out rule)
+
+**Pick:** today's deep-dive find, FCC 26-67 / FR Doc. 2026-21821 (effective Nov 25, 2026) plus FNPRM 2026-21820 (comments Nov 25, replies Dec 28, CG Docket 02-278).
+- Verification (~3 PM MT): FR API and full text confirm "Effective November 25, 2026", the new §64.1200(a)(10) language ("Callers may designate any of the following methods as the exclusive means to revoke consent"; "is not required to process revocation requests made by any other means"), category-only informational opt-outs, the "reliable source" bank exemption, and the FNPRM dates plus ECFS filing. FCC PDF 200 (Adopted Sep 30, Released Oct 1). eCFR still shows "any reasonable method".
+- Coverage re-check: still law-firm/trade only (adds Bass Berry & Sims, NatLawReview). No consumer outlet; nothing on HN.
+- Article strengthened: two new Q&As, "What's the difference between the old rule and the new one?" (quotes eCFR vs new text) and "How do I comment on the FCC's follow-up proposal?" (ECFS Express steps, deadline midnight ET, comments are public). Sources added for ECFS Express and the FCC how-to-comment guide. Commit 019c877, Vercel dpl_26gGoXaiKk267uNKQaR691ZvaFUS READY and aliased to quietlychanged.com, live 200 with the new text. IndexNow 200.
+
+**Drafts handed to parent** (social/2026-10-24/distribution-drafts.md):
+- Pitch emails: Jon Brodkin / Ars Technica (jon.brodkin@arstechnica.com, from his Ars author page); Herb Weisbaum / The ConsumerMan (herb@consumerman.com, mailto on consumerman.com homepage); optional third, Michael Kan / PCMag (michael_kan@pcmag.com, from his PCMag author page).
+- Bluesky with fcc-robotext-opt-out-nov25.png (300 chars incl. link) plus alt text.
+- HN: FR 2026-21821 as URL, title "FCC lets robocallers designate an exclusive means to revoke consent" (67 chars), optional comment. Best on Mon Oct 26 morning.
+- r/privacy link post to the FR document (verbatim title per R5) plus a primary-links-only first comment. ChatterAPI says posting is approved-members-only; skip if locked. Backup: r/technology with the same link and comment.
+- Skipped: r/personalfinance, r/assholedesign, r/fcc (fit/rules); Rob Pegoraro (no public email); scott.younker (pitched yesterday).
+- No prior pitches to these reporters or posts to these subs in this log (Ars's Ashley Belanger was pitched Oct 17/18, a different reporter).
