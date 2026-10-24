@@ -691,3 +691,10 @@ All one-copy checks passed.
 
 ### Drafted for publish (Saturday morning, parent to post)
 - Packet: social/2026-10-24/am/xgrowth-am-drafts.md (1 original with image google-gmail-ads-18-words.png, 3 replies on the Google story)
+
+## Published 2026-10-24 morning
+- O1 Google privacy policy Gmail/Drive/Photos ads exception (redline image + alt): https://x.com/QuietlyChanged/status/2114014532892787035
+- R1 Pirat_Nation (opt-out setting path): https://x.com/QuietlyChanged/status/2114016069337694661
+- R2 DarkWebInformer (exact one-sentence diff): https://x.com/QuietlyChanged/status/2114018680359297484
+- R3 glenngabe (Personal Intelligence example): https://x.com/QuietlyChanged/status/2114019981226598564
+- Replies spaced ~5+ min apart per new pacing rule. Strategy: re-surface past finds when they trend.
