@@ -336,5 +336,31 @@
    "https://www.wix.com/about/terms-of-use",
    "first full capture (549 lines vs 53 before); the +496 diff is a capture improvement, not a terms change"
   ]
+ ],
+ "flaky_2026-10-24": [
+  [
+   "Delta",
+   "pricing+terms",
+   "delta.com",
+   "ReadTimeout during run; retry returned 200; transient, kept"
+  ],
+  [
+   "Pinterest",
+   "terms+privacy",
+   "policy.pinterest.com",
+   "SSLError during run; retry returned 200; transient, kept"
+  ],
+  [
+   "Verizon",
+   "pricing+terms+privacy",
+   "verizon.com",
+   "SSLError during run; retry returned 200; transient, kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; no working replacement yet; kept"
+  ]
  ]
 }

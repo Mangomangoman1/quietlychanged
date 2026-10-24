@@ -1,0 +1,99 @@
+Pricing and plans for
+Enterprise
+Enterprise
+Enterprise
+Business
+Personal
+Enterprise
+Business
+Personal
+Enterprise
+Enterprise
+Business
+Personal
+PLATFORM
+Unified Access
+Identity security for humans, AI agents, and machines.
+Request a quote
+Pricing built for you
+One vault for every identity
+Shadow AI and SaaS discovery
+Just-in-time Privileged Access
+Runtime credentials for AI agents
+Full-attribution audit trail
+PRODUCT
+Enterprise Password Manager
+Protect every credential that keeps your business running.
+Request a quote
+Pricing built for you
+Protect apps outside SSO
+Granular vault permissions
+Multi-tenant support
+Developer toolkit
+Audit-ready activity logs
+PRODUCT
+SaaS Manager
+Discover, secure access, and optimize AI and SaaS spend.
+Request a quote
+Pricing built for you
+Control variable AI spend
+SaaS & AI app discovery
+Automate on/offboarding
+Optimize SaaS spend
+No-code workflows
+400+ integrations
+PRODUCT
+Privileged Access
+Just-in-time and just-enough privileged access.
+Request a quote
+Pricing built for you
+Zero standing privileges
+Cloud, K8s, and database support
+Intent-based dynamic guardrails
+Audit-ready session logs
+AI agent privilege control enforced at runtime
+PRODUCT
+Device Trust
+Ensure only trusted devices access company resources.
+Request a quote
+Pricing built for you
+Device health monitoring
+Pre-built check library
+Guided self-remediation
+IdP Integrations
+Cross-platform support
+Additional ways to buy
+Purchase 1Password via AWS Marketplace
+Buy with AWS
+The benefits of Buy with AWS:
+Simplified procurement
+Consolidated billing
+Scalable and flexible deployment
+Unleash productivity without compromising security
+Passwordless
+Uncover password risk and guide your team’s journey toward a passwordless future.
+Device security
+Verify every device is trusted. Let users self-remediate to restore compliance and access.
+Credential risk management
+Protect credentials with a zero-knowledge password manager and reduce shadow IT exposure.
+SaaS and shadow IT discovery
+Discover all apps, managed or unmanaged, used across your organization.
+SaaS governance
+Automate access, cut spend, and stay compliant across every SaaS app.
+Cybersecurity compliance
+Enforce strong access policies, secure devices, and meet audit and regulatory needs.
+Frequently Asked Questions
+Can I buy Unified Access as a platform or purchase individual products separately?
+Yes. Unified Access can be purchased as an integrated platform, and individual products within the platform can also be purchased separately based on your organization’s needs.
+Which products are included in the Unified Access platform?
+Unified Access brings together Enterprise Password Manager, Device Trust, SaaS Manager, and Privileged Access in one platform.
+How is Unified Access different from Enterprise Password Manager?
+Enterprise Password Manager helps organizations protect and manage credentials. Unified Access builds on those capabilities to help govern access across people, AI agents, and machines.
+Does Unified Access work with existing identity and security tools?
+Yes. Unified Access is designed to work with your existing identity and security environment. Explore available integrations in the
+1Password Marketplace
+, or contact our sales team to discuss your specific tools and requirements.
+How do I get pricing for Unified Access?
+Unified Access pricing is tailored to your organization’s needs and the capabilities you require.
+Contact our sales team
+to discuss your environment and receive a quote.

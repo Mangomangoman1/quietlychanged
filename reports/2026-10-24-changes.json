@@ -1,0 +1,10 @@
+[
+ {
+  "service": "Todoist",
+  "page": "privacy",
+  "headline": "Privacy policy now says user data isn't used to train any AI models",
+  "what": "Doist's privacy policy (which covers Todoist) used to promise it doesn't use information collected from you, including via AI tools, to develop, improve, or train \"generalized/non-personalized\" artificial intelligence or machine learning models. That qualifier is gone: the sentence now says it doesn't use your information to develop, improve, or train artificial intelligence or machine learning models at all. The old wording left room for personalized models; the new wording doesn't.",
+  "who": "Todoist users concerned about their tasks and data being used for AI training",
+  "url": "https://doist.com/privacy"
+ }
+]
