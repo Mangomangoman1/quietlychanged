@@ -382,8 +382,8 @@ def main():
         if k in SVC_SEO and SVC_SEO[k].get("desc"): desc = SVC_SEO[k]["desc"]
         elif k in PH: desc = f"Every {PH[k].get('title_name',PH[k].get('name',k))} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
         ld = {"@context": "https://schema.org", "@type": "WebPage", "name": title, "url": f"{SITE}/services/{sl}/", "dateModified": last, "publisher": ORG, "about": {"@type": "Organization", "name": k}}
-        _fq = next(((d, c) for d, c in log if c.get("faq")), None)
-        svc_faq = (f'<h2>What changed recently: {E(_fq[1].get("headline",""))}</h2>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(an)}</p>" for q, an in _fq[1]["faq"]) + f'<p><a href="../../changes/{_fq[1]["_art"]}/">Read the full breakdown, with sources</a></p>') if _fq else ""
+        _fqs = [(d, c) for d, c in log if c.get("faq")][:2]  # the two most recent changes with Quick answers
+        svc_faq = "".join(f'<h2>What changed recently: {E(c_.get("headline",""))}</h2>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(an)}</p>" for q, an in c_["faq"]) + f'<p><a href="../../changes/{c_["_art"]}/">Read the full breakdown, with sources</a></p>' for _, c_ in _fqs)
         latest_rl = next(((d, c) for d, c in log if c.get("redline")), None)
         latest_ex = ""
         if latest_rl:

@@ -90,7 +90,30 @@
     "src": "quoted",
     "before": ""
    }
-  ]
+  ],
+  "faq": [
+   [
+    "What is Robinhood's Class Action Service?",
+    "A new section of Robinhood's Customer Agreement (Section 36A, revised October 1, 2026) under which Robinhood and a third-party vendor automatically file claims for you in securities class-action settlements involving stocks you held. Its terms are effective on or after November 18, 2026."
+   ],
+   [
+    "How much does the Robinhood Class Action Service cost?",
+    "Robinhood's fee schedule sets the Class Action Service Fee at 20% of the settlement proceeds received on your behalf. Filing your own claim form with a settlement administrator usually costs nothing."
+   ],
+   [
+    "Am I automatically enrolled?",
+    "Yes. The agreement says: \"Your Account is automatically enrolled in Robinhood's Class Action Service ... unless you unenroll.\" Closed accounts are not included."
+   ],
+   [
+    "How do I opt out of Robinhood's Class Action Service?",
+    "You can cancel your enrollment at any time in the Robinhood app or by contacting Robinhood Customer Service. To skip a single case while staying enrolled, decline within seven business days of Robinhood's notice about that lawsuit; otherwise the claim is filed for you. Unenrolling after a claim is filed doesn't pull you out of that case."
+   ],
+   [
+    "Do I give up any rights if Robinhood files a claim for me?",
+    "Yes. Once a claim is filed for you, you \"cannot separately bring a lawsuit, at any time, against any named defendant\" in that case, and you're bound by the settlement's releases. If you unenroll, you can still submit a claim form directly to the claims administrator yourself."
+   ]
+  ],
+  "modified": "2026-10-25"
  },
  {
   "service": "DoorDash",

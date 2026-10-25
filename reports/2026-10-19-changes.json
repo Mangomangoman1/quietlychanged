@@ -154,6 +154,29 @@
     "src": "quoted",
     "before": ""
    }
-  ]
+  ],
+  "faq": [
+   [
+    "What is Verizon Lock Screen Rewards?",
+    "It's a Verizon Dollars offer for Verizon Wireless postpaid account owners and managers: you can earn $5 in Verizon Dollars each calendar month by actively engaging with the Glance lock-screen app for at least 60 minutes that month. The most you can earn is $60 a year."
+   ],
+   [
+    "What do I have to give up to get the $5 a month?",
+    "Verizon's program terms require you to grant and keep Glance location access, provide a selfie (or a gallery image or stock avatar), keep \"Do not sell or share my personal information\" and \"Limit use or disclosure of my sensitive personal information\" toggled off, and keep \"Enhanced browsing\" on. On iPhone you also can't select \"Ask App Not to Track\" for the Glance AI app. Glance uses the data, including sensitive personal information, for personalized ads."
+   ],
+   [
+    "What happens if I turn on Do Not Sell?",
+    "You stop qualifying. Verizon's terms say that if you stop sharing information with Glance or opt out of sale, sharing or targeted advertising with Glance, \"you will no longer qualify.\" The engagement timer also stops if you turn on \"Do not sell.\""
+   ],
+   [
+    "Can I use Verizon Dollars to pay my bill?",
+    "Not unless you have a Verizon Visa Card. Otherwise Verizon Dollars can't be used as a bill credit, expire 12 months after they're issued, and go toward gift cards, Verizon Store items and devices."
+   ],
+   [
+    "How do I leave Lock Screen Rewards?",
+    "Uninstall the Glance app or delete your account in the Glance app settings."
+   ]
+  ],
+  "modified": "2026-10-25"
  }
 ]

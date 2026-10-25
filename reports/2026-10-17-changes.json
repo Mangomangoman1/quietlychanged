@@ -34,6 +34,35 @@
     "label": "Privacy Policy · How ads are chosen",
     "src": "raw"
    }
+  ],
+  "faq": [
+   [
+    "Can Google use my Gmail, Photos or Drive content for ads now?",
+    "Only if you let other Google services access that data. Google's privacy policy, effective October 16, 2026, still says \"We don't show you personalized ads based on your content from Drive, Gmail, or Google Photos,\" but now adds \"unless you choose to make data from these services available to other Google services that support personalized ads.\" It gives Search as the example: Search \"may process some of the data that you allow Search to access to personalize content, including ads.\""
+   ],
+   [
+    "When did the Google privacy policy change?",
+    "The new version is marked \"Effective October 16, 2026.\" QuietlyChanged recorded the new wording on October 17, 2026, and it was still live when rechecked on October 25, 2026."
+   ],
+   [
+    "Does Google read my Gmail inbox to show me ads?",
+    "Google's Search Help says ads \"will not be based directly on your Gmail inbox or your Google Photos library.\" But if you connect those apps to Search, Search \"may reference summaries, excerpts and inferences from these sources,\" and \"That same info may be used to show you ads.\" Google also says advertisers won't get access to your inbox or Photos library."
+   ],
+   [
+    "How do I stop Search from using my Gmail and Google Photos?",
+    "In your Google Account, open Search Services Personalization (Data & privacy, then Personalization settings, then Manage Personalized Recommendations in Search Services). Under Additional Personal Intelligence, open Connected Content Apps and disconnect Google Workspace and Google Photos. You can also turn off Personalized Recommendations entirely."
+   ],
+   [
+    "If I disconnect, is the data Google already used deleted?",
+    "No. Google's Search Help says disconnecting a connected content app \"doesn't delete any data from your Search Services History,\" and that data can still be used for product improvement, including training generative AI models. You have to delete Search Services History separately."
+   ]
+  ],
+  "modified": "2026-10-25",
+  "sources": [
+   [
+    "Google Search Help: Connect your Google content apps (Personal Intelligence, ads FAQ)",
+    "https://support.google.com/websearch/answer/16859283?hl=en"
+   ]
   ]
  },
  {

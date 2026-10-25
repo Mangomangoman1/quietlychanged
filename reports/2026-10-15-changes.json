@@ -162,7 +162,30 @@
     "src": "quoted",
     "before": ""
    }
-  ]
+  ],
+  "faq": [
+   [
+    "When did Bank of America's new Online Banking Service Agreement take effect?",
+    "October 19, 2026. The new agreement (Effective Date: October 19, 2026) replaced the August 27, 2026 version."
+   ],
+   [
+    "Will Bank of America investigate a problem with a payment made from my account at another bank?",
+    "Mostly no. The agreement says that, except for Bill Pay payments funded from an outside account to an external, third-party payee, \"Bank of America is not responsible for investigating or resolving errors or other disputes for electronic transactions that appear on your External Account statement.\" It tells you to contact the bank that sent you that statement."
+   ],
+   [
+    "Does Bank of America's unauthorized-transaction protection cover my linked external account?",
+    "No, with one exception. The unauthorized-transaction provisions in Section 8.B \"apply only to accounts maintained with Bank of America,\" except for Bill Pay payments funded from an outside account to an external, third-party payee."
+   ],
+   [
+    "How long do I have to report an online banking error to Bank of America?",
+    "60 days after Bank of America sent the first statement showing the problem. The 90-day window now applies only to Bill Pay payments funded from an account at another bank and sent to an external, third-party payee. The old agreement gave 90 days for any problem with a transfer from an account at another financial institution."
+   ],
+   [
+    "What should I do if I pay my Bank of America card or loan from another bank?",
+    "If you want Bank of America to handle disputes, pay from a Bank of America account. If you keep paying from an outside account, report any problem with those payments to the other bank, and do it quickly."
+   ]
+  ],
+  "modified": "2026-10-25"
  },
  {
   "service": "Verizon",
