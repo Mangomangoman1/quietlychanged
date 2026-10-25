@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fitbit · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-22-fitbit-third-party-apps-stop-getting-your-fitbit-data-oct-3
+ 0-unless-you-reconne@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Fitbit: Reconnect apps by
+DESCRIPTION:Apps linked to your Fitbit stop getting new data on Oct 30 unl
+ ess you reconnect each one through Google Health.\n\nhttps://quietlychang
+ ed.com/changes/2026-10-22-fitbit-third-party-apps-stop-getting-your-fitbi
+ t-data-oct-30-unless-you-reconne/
+URL:https://quietlychanged.com/changes/2026-10-22-fitbit-third-party-apps-
+ stop-getting-your-fitbit-data-oct-30-unless-you-reconne/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Fitbit — Reconnect apps by
+END:VALARM
+END:VEVENT
+END:VCALENDAR

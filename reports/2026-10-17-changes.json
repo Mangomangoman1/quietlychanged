@@ -7,7 +7,34 @@
   "who": "Anyone with a Google account who turns on, or is offered, features that let Search or Gemini read Gmail, Google Photos, or Drive, such as Personal Intelligence",
   "url": "https://policies.google.com/privacy?hl=en",
   "seo_title": "Google privacy policy (Oct 16, 2026): Gmail, Photos and Drive data shared with Search or Gemini can personalize ads",
-  "seo_desc": "Google's Oct 16, 2026 privacy policy drops its flat promise not to use Gmail, Drive or Photos content for ads: if you let Search or Gemini access that data, it can personalize content, including ads."
+  "seo_desc": "Google's Oct 16, 2026 privacy policy drops its flat promise not to use Gmail, Drive or Photos content for ads: if you let Search or Gemini access that data, it can personalize content, including ads.",
+  "tldr": "Google's promise not to use Gmail, Drive and Photos content for ads now has an exception: if you let Search or Gemini read that data, it can shape your ads.",
+  "impact": 3,
+  "themes": [
+   "ads-and-tracking",
+   "ai-and-your-data"
+  ],
+  "effective": "2026-10-16",
+  "deadline": "Took effect",
+  "actions": [
+   "Think before letting Search or Gemini connect to Gmail, Photos or Drive (Personal Intelligence)",
+   "Check what's switched on in your Google ad settings"
+  ],
+  "redline": [
+   {
+    "before": "We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.",
+    "after": "We don’t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads.",
+    "label": "Privacy Policy · Personalized ads",
+    "note": "A flat promise becomes a promise with an opt-in exception.",
+    "src": "raw"
+   },
+   {
+    "before": "based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in",
+    "after": "based on your interests, activity, or personalized content from Google services. For example, if you search for “mountain bikes,” in Search you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in",
+    "label": "Privacy Policy · How ads are chosen",
+    "src": "raw"
+   }
+  ]
  },
  {
   "service": "GitHub",
@@ -15,7 +42,21 @@
   "headline": "AI secret detection now covers push protection, billed by usage",
   "what": "In the GitHub Secret Protection section of GitHub's pricing page, the \"Copilot secret scanning\" row is renamed \"AI detection for alerts\" (\"Use AI to detect unstructured secrets, like passwords, in existing code\"). A new row, \"AI detection for push protection,\" uses AI to \"detect unstructured secrets, like passwords, and block pushes that contain them,\" and is listed as \"Usage-based\" rather than included in the plan price.",
   "who": "Teams paying for GitHub Secret Protection, especially admins who want AI-based password detection to block pushes and need to budget for usage charges",
-  "url": "https://github.com/pricing"
+  "url": "https://github.com/pricing",
+  "tldr": "GitHub's AI password detection can now block pushes, but that feature is billed by usage instead of being included in Secret Protection.",
+  "impact": 1,
+  "themes": [
+   "price-creep"
+  ],
+  "redline": [
+   {
+    "after": "Use AI to detect unstructured secrets, like passwords, and block pushes that contain them.",
+    "label": "Pricing · Secret Protection",
+    "note": "Listed as \"Usage-based.\"",
+    "src": "raw",
+    "before": ""
+   }
+  ]
  },
  {
   "service": "Oura",
@@ -48,6 +89,41 @@
     "Do the new terms change how Oura uses my data?",
     "Oura says the update \"does not change how Oura collects, uses, or protects member data,\" and its Privacy Policy was still dated June 15, 2026 when we checked on October 17. The terms do add a broad disclaimer of liability for information you share with Oura, including electronic patient health records."
    ]
+  ],
+  "tldr": "Oura's app stops working Nov 4 unless you accept new terms: arbitration with a jury waiver, mass claims handled 20 at a time, and no opt-out.",
+  "impact": 3,
+  "themes": [
+   "forced-arbitration",
+   "accept-or-else"
+  ],
+  "effective": "2026-11-04",
+  "deadline": "Accept in the app by",
+  "actions": [
+   "Read Section XVI before you tap Accept",
+   "There's no arbitration opt-out. WHOOP and Eight Sleep offer 30-day ones, if that matters to you",
+   "Cancel at least one day before your renewal date"
+  ],
+  "redline": [
+   {
+    "before": "at least thirty (30) days in advance",
+    "after": "in advance of the effective date and within the timeframe required by applicable law",
+    "label": "Terms of Use · Fee changes",
+    "note": "A fixed 30-day email promise becomes \"whatever the law requires.\"",
+    "src": "quoted"
+   },
+   {
+    "before": "$100",
+    "after": "the amount paid to Oura in the prior twelve (12) months",
+    "label": "Terms of Use · Liability cap",
+    "src": "quoted"
+   },
+   {
+    "after": "your only recourse is to cease using the Services",
+    "label": "Terms of Use · If you don't agree",
+    "note": "No way to keep the old terms.",
+    "src": "quoted",
+    "before": ""
+   }
   ]
  },
  {
@@ -58,6 +134,26 @@
   "who": "Rocket Money members on the free or Premium plans who use bill negotiation, and anyone with an automatic renegotiation scheduled for November or later",
   "url": "https://www.rocketmoney.com/terms",
   "seo_title": "Rocket Money bill negotiation moves to Premium+ ($15/month) on Nov 2, 2026; 35-60% success fee option ends",
-  "seo_desc": "From Nov 2, 2026, Rocket Money only negotiates bills for Premium+ members ($15/month plus tax). The 35-60% pay-if-it-works fee option and automatic renegotiations end."
+  "seo_desc": "From Nov 2, 2026, Rocket Money only negotiates bills for Premium+ members ($15/month plus tax). The 35-60% pay-if-it-works fee option and automatic renegotiations end.",
+  "tldr": "From Nov 2, Rocket Money only negotiates bills for $15-a-month Premium+ members. The pay-only-if-it-works option and automatic renegotiations end.",
+  "impact": 2,
+  "themes": [
+   "price-creep"
+  ],
+  "effective": "2026-11-02",
+  "deadline": "Moves to Premium+",
+  "actions": [
+   "Start any bill negotiation you want before November 2",
+   "Decide whether $180 a year for Premium+ beats negotiating yourself"
+  ],
+  "redline": [
+   {
+    "after": "As of November 2, 2026, Bill Negotiation is exclusively a Premium+ feature. Negotiations already in progress or on a payment plan will continue. Auto-renegotiations will sunset on November 2, 2026.",
+    "label": "Terms of Service · Bill Negotiation",
+    "note": "It used to cost 35–60% of the first year's savings, only if it worked.",
+    "src": "quoted",
+    "before": ""
+   }
+  ]
  }
 ]

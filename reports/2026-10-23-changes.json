@@ -5,7 +5,26 @@
   "headline": "Terms rename the Offline Fee and Off-Platform policies",
   "what": "Airbnb's Terms of Service now refer to the \"Offline Fee Policy\" as its \"policy on pricing and payment transparency\" and to the \"Off-Platform Policy\" as its \"policy on limiting host-imposed contracts and other requirements.\" The rules around them read the same: hosts must describe all additional fees in the listing, and guests and hosts must not request, make, or accept bookings or payments outside Airbnb to avoid fees or taxes. The new names suggest a broader focus on price transparency and on extra contracts or requirements hosts impose on guests.",
   "who": "Airbnb hosts who charge extra fees or ask guests to sign agreements, and guests booking stays",
-  "url": "https://www.airbnb.com/help/article/2908"
+  "url": "https://www.airbnb.com/help/article/2908",
+  "tldr": "Two Airbnb policies get new names in the terms, the Offline Fee Policy and the Off-Platform Policy. The rules read the same.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "Off-Platform Policy",
+    "after": "policy on limiting host-imposed contracts and other requirements",
+    "label": "Terms of Service · Policy names",
+    "src": "quoted"
+   },
+   {
+    "before": "Offline Fee Policy",
+    "after": "policy on pricing and payment transparency",
+    "label": "Terms of Service · Policy names",
+    "src": "quoted"
+   }
+  ]
  },
  {
   "service": "Audible",
@@ -13,6 +32,19 @@
   "headline": "Standard plan card now says unused monthly picks don't roll over",
   "what": "Audible's membership page now states on the Standard plan card ($8.99/mo after a 30-day trial, 1 audiobook a month): \"Unused monthly audiobook selections don't roll over.\" The same rule was already in the page's FAQ. The $229.50-a-year Premium plan is now labeled \"24 audiobooks\" (it previously showed a Spanish \"12 creditos/año\" label). Prices are unchanged: Premium $14.95/mo, Premium Annual $149.50/yr for 12 audiobooks.",
   "who": "People choosing between Audible Standard and Premium",
-  "url": "https://www.audible.com/ep/memberbenefits"
+  "url": "https://www.audible.com/ep/memberbenefits",
+  "tldr": "Audible's Standard plan card now says unused monthly picks don't roll over, a rule that was already in the FAQ.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "Auto-renews at $8.99/mo after 30 days. Cancel anytime.",
+    "after": "Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.",
+    "label": "Plans · Standard",
+    "src": "raw"
+   }
+  ]
  }
 ]

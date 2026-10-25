@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Google Play · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-20-google-play-nov-17-terms-report-broken-purchases-to-the-dev
+ eloper-not-google-pl@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Google Play: New terms take effect
+DESCRIPTION:From Nov 17\, Google Play's terms tell you to report broken pu
+ rchases to the developer instead of Google\, and drop "defective" content
+  as a refund example.\n\nhttps://quietlychanged.com/changes/2026-10-20-go
+ ogle-play-nov-17-terms-report-broken-purchases-to-the-developer-not-googl
+ e-pl/
+URL:https://quietlychanged.com/changes/2026-10-20-google-play-nov-17-terms
+ -report-broken-purchases-to-the-developer-not-google-pl/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Google Play — New terms take effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oura · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-17-oura-app-locks-nov-4-unless-you-accept-new-arbitration-term
+ s@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Oura: Accept in the app by
+DESCRIPTION:Oura's app stops working Nov 4 unless you accept new terms: ar
+ bitration with a jury waiver\, mass claims handled 20 at a time\, and no 
+ opt-out.\n\nhttps://quietlychanged.com/changes/2026-10-17-oura-app-locks-
+ nov-4-unless-you-accept-new-arbitration-terms/
+URL:https://quietlychanged.com/changes/2026-10-17-oura-app-locks-nov-4-unl
+ ess-you-accept-new-arbitration-terms/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Oura — Accept in the app by
+END:VALARM
+END:VEVENT
+END:VCALENDAR

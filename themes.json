@@ -1,0 +1,43 @@
+{
+ "_doc": "Threads: cross-company stories. Each change lists theme slugs in its \"themes\" field. Order here is the order on the site. intro is plain text; blank line = new paragraph.",
+ "forced-arbitration": {
+  "title": "Forced arbitration",
+  "dek": "Who has quietly taken away your day in court.",
+  "intro": "Most consumer contracts already say you can't sue the company in court or join a class action. What keeps changing is the fine print around that: who the arbitrator is, how mass claims get batched, whether you can opt out, and how long you have to do it.\n\nThis thread follows every arbitration change we catch. Watch for two things: a new opt-out window (usually 30 days, easy to miss) and changes that make it harder for many people with the same complaint to act together."
+ },
+ "ai-and-your-data": {
+  "title": "AI and your data",
+  "dek": "Who trains on what you write, and who just promised not to.",
+  "intro": "Privacy policies are being rewritten around AI: what assistants remember, whether your files and messages can train models, and whether AI features can read data from other products.\n\nSome changes here are good news, like a company closing a loophole in its no-training promise. Others widen what an AI feature is allowed to see. Each one is quoted word for word."
+ },
+ "ads-and-tracking": {
+  "title": "Ads and tracking",
+  "dek": "When your data starts paying for someone else's ads.",
+  "intro": "Ad targeting rarely changes with an announcement. It changes with a new sentence in a privacy policy: an exception to an old promise, a new data partner, ads that follow you to another device.\n\nThis thread collects those sentences, and the deals some companies now offer in exchange for your data."
+ },
+ "shutdowns": {
+  "title": "Shutdowns and deletions",
+  "dek": "Services that are ending, and the data that disappears with them.",
+  "intro": "When a service shuts down or a company reserves the right to delete inactive accounts, the deadline is usually on a help page nobody reads.\n\nEvery item here has a date and a list of what to save before it passes."
+ },
+ "price-creep": {
+  "title": "Prices, fees and renewals",
+  "dek": "Price rises, new fees, and the rules for leaving.",
+  "intro": "Some price changes are headline news. Most aren't: a yearly discount shrinks, a per-line fee goes up a few cents, a feature moves to a pricier tier, a cancellation now waits until the next billing cycle.\n\nThis thread tracks all of them, with the old and new numbers side by side."
+ },
+ "accept-or-else": {
+  "title": "Agree or lose access",
+  "dek": "New terms you have to accept to keep using something you already paid for.",
+  "intro": "\"By continuing to use the service, you agree.\" Sometimes it's harder than that: an app that locks until you tap Accept, or a connection that stops working unless you sign in again.\n\nThese are the changes where doing nothing has a consequence, so each one leads with its deadline."
+ },
+ "not-our-problem": {
+  "title": "Not our problem",
+  "dek": "Companies passing responsibility to someone else.",
+  "intro": "A quieter kind of change: the company stops promising to fix things. Disputes go to another bank, broken purchases go to the developer, support becomes \"a courtesy,\" or the business gets to decide the only way you're allowed to say stop.\n\nNone of these raise a price. All of them make it harder to get something put right."
+ },
+ "plan-shuffles": {
+  "title": "Pricing-page shuffles",
+  "dek": "Small edits to plans and pricing pages.",
+  "intro": "Not every change is a scandal. Plans gain and lose features, labels get rewritten, prices appear where there used to be a \"Contact sales\" button.\n\nWe log them anyway. Small edits are often how bigger changes start, and a dated record is the only way to show it."
+ }
+}

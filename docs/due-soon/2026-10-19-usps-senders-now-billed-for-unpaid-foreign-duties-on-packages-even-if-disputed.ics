@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:USPS · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-19-usps-senders-now-billed-for-unpaid-foreign-duties-on-packag
+ es-even-if-disputed@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:USPS: Comments close
+DESCRIPTION:If a foreign country says duties weren't paid on your package\
+ , USPS can now bill you for them\, even if you dispute it or the package 
+ is lost\, with 6% interest.\n\nhttps://quietlychanged.com/changes/2026-10
+ -19-usps-senders-now-billed-for-unpaid-foreign-duties-on-packages-even-if
+ -disputed/
+URL:https://quietlychanged.com/changes/2026-10-19-usps-senders-now-billed-
+ for-unpaid-foreign-duties-on-packages-even-if-disputed/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: USPS — Comments close
+END:VALARM
+END:VEVENT
+END:VCALENDAR

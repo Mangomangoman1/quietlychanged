@@ -9,7 +9,28 @@
   "seo_title": "Shopify raised annual prices: Grow now $89/mo, Advanced $359/mo (pricing update)",
   "seo_desc": "Shopify's pay-yearly prices rose to $89/mo for Grow (from $79) and $359/mo for Advanced (from $299). Monthly prices are unchanged, so the annual discount shrank to roughly 10-15%.",
   "note": "Update (Oct 19, 2026): on October 19, Shopify's pricing page showed the older $79/mo Grow and $299/mo Advanced yearly prices again, and repeated checks returned both versions (six of ten checks showed $79/$299, four showed $89/$359). The higher yearly prices look like a price test shown to some visitors rather than a completed increase. See our Oct 19 update.",
-  "modified": "2026-10-19"
+  "modified": "2026-10-19",
+  "tldr": "Paying yearly for Shopify Grow or Advanced now shows $89 or $359 a month instead of $79 or $299. Monthly prices didn't move.",
+  "impact": 2,
+  "themes": [
+   "price-creep"
+  ],
+  "redline": [
+   {
+    "before": "$79 USD/mo",
+    "after": "$89 USD/mo",
+    "label": "Pricing · Grow, billed yearly",
+    "note": "About $120 more a year on Grow.",
+    "src": "raw"
+   },
+   {
+    "before": "$299 USD/mo",
+    "after": "$359 USD/mo",
+    "label": "Pricing · Advanced, billed yearly",
+    "note": "About $720 more a year on Advanced.",
+    "src": "raw"
+   }
+  ]
  },
  {
   "service": "Slack",
@@ -21,7 +42,21 @@
   "seo_title": "Slack Enterprise+ price is now public: $45 per user per month (annual)",
   "seo_desc": "Slack's pricing page now lists Enterprise+ at $45 per user per month billed annually, replacing the old 'Contact sales for pricing' line.",
   "note": "Update (Oct 18, 2026): on Oct 18, Slack's pricing page alternated between showing the $45 Enterprise+ price and \"Contact sales for pricing\" across repeated checks, so the public price appears to be shown to some visitors and not others. On Oct 19 the page again showed $45 in our morning snapshot, and later checks still returned both versions.",
-  "modified": "2026-10-19"
+  "modified": "2026-10-19",
+  "tldr": "Slack Enterprise+ used to say \"Contact sales.\" It now shows a price: $45 per user a month, billed annually.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "Contact sales for pricing",
+    "after": "$45 USD per user / month, when paying annually",
+    "label": "Pricing · Enterprise+",
+    "note": "The first public price for Slack's top plan.",
+    "src": "raw"
+   }
+  ]
  },
  {
   "service": "Anthropic Claude",
@@ -31,7 +66,21 @@
   "who": "Small companies and teams considering Claude Enterprise instead of the Team plan",
   "url": "https://www.anthropic.com/pricing",
   "seo_title": "Claude Enterprise now requires 20 seats minimum (Anthropic pricing update)",
-  "seo_desc": "Anthropic's pricing page now says Claude Enterprise is US$20/seat/month billed annually with a 20 seat minimum, plus usage at API rates."
+  "seo_desc": "Anthropic's pricing page now says Claude Enterprise is US$20/seat/month billed annually with a 20 seat minimum, plus usage at API rates.",
+  "tldr": "Claude Enterprise now requires at least 20 seats, which means at least $4,800 a year before any usage.",
+  "impact": 1,
+  "themes": [
+   "price-creep"
+  ],
+  "redline": [
+   {
+    "before": "US$20/seat/month, billed annually. Usage cost scales with model and task.",
+    "after": "US$20/seat/month, billed annually, 20 seat minimum. Usage cost scales with model and task.",
+    "label": "Pricing · Enterprise",
+    "note": "Three words that set a $4,800-a-year floor.",
+    "src": "raw"
+   }
+  ]
  },
  {
   "service": "Figma",
@@ -39,7 +88,20 @@
   "headline": "New Figma Specs beta added to paid seats",
   "what": "Figma's pricing page adds Figma Specs, a beta for writing structured specs on the canvas, available on paid seats. Full, Dev, and Collab seat descriptions now all include Figma Specs, and Full seats now explicitly list Figma Motion. Figma Make also gains secrets management and a scaffolded Payload backend (database, APIs, auth, admin panel).",
   "who": "Figma customers on paid Full, Dev, or Collab seats",
-  "url": "https://www.figma.com/pricing/"
+  "url": "https://www.figma.com/pricing/",
+  "tldr": "Paid Figma seats now include Figma Specs (beta), and Figma Make gets secrets management and a built-in backend. Prices didn't change.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "after": "Add a spec directly on the canvas, right next to the designs and code it describes.",
+    "label": "Pricing · Figma Specs (beta)",
+    "src": "raw",
+    "before": ""
+   }
+  ]
  },
  {
   "service": "Audible",
@@ -49,7 +111,21 @@
   "who": "Audible members on, or considering, annual Premium plans",
   "url": "https://www.audible.com/ep/memberbenefits",
   "note": "Correction (Oct 15, 2026): a later check of the live Audible plans page still showed \"Cancel anytime\" and the \"Save 16%\" labels on annual plans. We could not confirm that those phrases were removed or that cancellation wording changed to \"effective next billing cycle.\"",
-  "modified": "2026-10-16"
+  "modified": "2026-10-16",
+  "tldr": "Audible's annual Premium plans now say cancellation takes effect at the next billing cycle, not right away.",
+  "impact": 2,
+  "themes": [
+   "price-creep"
+  ],
+  "redline": [
+   {
+    "before": "Auto-renews at $229.50/yr. Cancel anytime.",
+    "after": "Auto-renews at $229.50/yr. Cancel anytime, effective next billing cycle.",
+    "label": "Plans · Premium Annual",
+    "note": "Cancel mid-year and you keep paying through the year you already bought.",
+    "src": "raw"
+   }
+  ]
  },
  {
   "service": "Bank of America",
@@ -59,7 +135,34 @@
   "who": "Bank of America online and mobile banking customers who link accounts at other banks, especially those who pay BofA credit cards, mortgages, or HELOCs from an outside account",
   "url": "https://www.bankofamerica.com/content/documents/agreement/OBSAUpdateEN.pdf",
   "seo_title": "Bank of America's new online banking agreement limits disputes on linked external accounts (Oct 19, 2026)",
-  "seo_desc": "From Oct 19, BofA says it won't investigate errors on transactions that show on your other bank's statement, except Bill Pay. The 90-day window shrinks too."
+  "seo_desc": "From Oct 19, BofA says it won't investigate errors on transactions that show on your other bank's statement, except Bill Pay. The 90-day window shrinks too.",
+  "tldr": "If you pay a Bank of America card or loan from an account at another bank, BofA no longer investigates most errors or fraud on those payments. The other bank has to.",
+  "impact": 3,
+  "themes": [
+   "not-our-problem"
+  ],
+  "effective": "2026-10-19",
+  "deadline": "Took effect",
+  "actions": [
+   "Pay BofA bills from a BofA account if you want BofA to handle disputes",
+   "Report a problem with an outside-funded payment to the other bank, and quickly"
+  ],
+  "redline": [
+   {
+    "before": "if the problem or error relates to a transfer from an account maintained at another financial institution",
+    "label": "Online Banking Service Agreement · Aug 27 version",
+    "note": "The old 90-day window for outside-account transfers.",
+    "src": "quoted",
+    "after": ""
+   },
+   {
+    "after": "Bank of America is not responsible for investigating or resolving errors or other disputes for electronic transactions that appear on your External Account statement.",
+    "label": "Online Banking Service Agreement · Oct 19 version",
+    "note": "Only Bill Pay payments to outside payees keep BofA's protection.",
+    "src": "quoted",
+    "before": ""
+   }
+  ]
  },
  {
   "service": "Verizon",
@@ -103,6 +206,22 @@
     "How do Verizon's fees compare with AT&T and T-Mobile?",
     "As of October 23, 2026, T-Mobile charges $5.49 per voice line for its Regulatory Programs & Telco Recovery Fee, and AT&T charges $4.99 per line for its Administrative & Regulatory Cost Recovery Fee. After November 15, Verizon's $4.95 sits just below AT&T."
    ]
+  ],
+  "tldr": "Verizon's own Regulatory Charge goes from $0.21 to $0.26 per voice line on Nov 1. It's a Verizon fee, not a government tax.",
+  "impact": 2,
+  "themes": [
+   "price-creep"
+  ],
+  "effective": "2026-11-01",
+  "deadline": "Charge rises",
+  "redline": [
+   {
+    "after": "Effective November 1, 2026, the monthly Verizon Wireless Regulatory Charge for voice-capable devices will increase from $0.21 to $0.26 per line.",
+    "label": "Surcharges page",
+    "note": "A 24% jump. With the $3.78 admin charge, flat per-line fees reach $4.04.",
+    "src": "quoted",
+    "before": ""
+   }
   ]
  },
  {
@@ -113,6 +232,14 @@
   "who": "U.S. air travelers; meal and hotel help still depends on each airline's voluntary customer-service commitments",
   "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21058/cause-of-airline-delay-and-cancellation-categories-under-section-511b-of-the-faa-reauthorization-act",
   "seo_title": "DOT delays airline \"controllable delay\" change to Feb 1, 2027: maintenance, medical, unruly-passenger delays",
-  "seo_desc": "The DOT rule taking 10 delay causes, including unscheduled maintenance, out of airline-caused categories now applies to flights from Jan 1, 2027, not Oct 19."
+  "seo_desc": "The DOT rule taking 10 delay causes, including unscheduled maintenance, out of airline-caused categories now applies to flights from Jan 1, 2027, not Oct 19.",
+  "tldr": "DOT's rule letting airlines stop counting ten kinds of disruptions as their fault now starts Feb 1, 2027, so holiday flights stay under the old categories.",
+  "impact": 2,
+  "themes": [
+   "not-our-problem"
+  ],
+  "effective": "2027-02-01",
+  "deadline": "Rule takes effect",
+  "redline": []
  }
 ]

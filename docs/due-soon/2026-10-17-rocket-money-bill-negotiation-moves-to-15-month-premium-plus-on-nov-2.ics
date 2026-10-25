@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rocket Money · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-17-rocket-money-bill-negotiation-moves-to-15-month-premium-plu
+ s-on-nov-2@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Rocket Money: Moves to Premium+
+DESCRIPTION:From Nov 2\, Rocket Money only negotiates bills for $15-a-mont
+ h Premium+ members. The pay-only-if-it-works option and automatic renegot
+ iations end.\n\nhttps://quietlychanged.com/changes/2026-10-17-rocket-mone
+ y-bill-negotiation-moves-to-15-month-premium-plus-on-nov-2/
+URL:https://quietlychanged.com/changes/2026-10-17-rocket-money-bill-negoti
+ ation-moves-to-15-month-premium-plus-on-nov-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Rocket Money — Moves to Premium+
+END:VALARM
+END:VEVENT
+END:VCALENDAR

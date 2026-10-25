@@ -5,7 +5,21 @@
   "headline": "Privacy policy now says user data isn't used to train any AI models",
   "what": "Doist's privacy policy (which covers Todoist) used to promise it doesn't use information collected from you, including via AI tools, to develop, improve, or train \"generalized/non-personalized\" artificial intelligence or machine learning models. That qualifier is gone: the sentence now says it doesn't use your information to develop, improve, or train artificial intelligence or machine learning models at all. The old wording left room for personalized models; the new wording doesn't.",
   "who": "Todoist users concerned about their tasks and data being used for AI training",
-  "url": "https://doist.com/privacy"
+  "url": "https://doist.com/privacy",
+  "tldr": "Todoist's privacy policy now says your data isn't used to train any AI models. It used to rule out only \"generalized\" ones.",
+  "impact": 2,
+  "themes": [
+   "ai-and-your-data"
+  ],
+  "redline": [
+   {
+    "before": "…help us better improve our Services for you. However, we do not use information we collect from you, including via artificial intelligence tools, to develop, improve, or train generalized/non-personalized artificial intelligence or machine learning models.",
+    "after": "…help us better improve our Services for you. However, we do not use information we collect from you, including via artificial intelligence tools, to develop, improve, or train artificial intelligence or machine learning models.",
+    "label": "Privacy Policy · How we use information",
+    "note": "The old promise only covered \"generalized\" models, which left room to train personalized ones on your tasks.",
+    "src": "raw"
+   }
+  ]
  },
  {
   "service": "FCC",
@@ -79,6 +93,27 @@
     "FCC consumer guide: How to comment on FCC proceedings",
     "https://www.fcc.gov/consumers/guides/how-comment"
    ]
+  ],
+  "tldr": "From Nov 25, a company can name the only way you're allowed to stop its robocalls and texts, and replying STOP to one kind of alert may not stop the others.",
+  "impact": 3,
+  "themes": [
+   "not-our-problem"
+  ],
+  "effective": "2026-11-25",
+  "deadline": "Rule takes effect",
+  "actions": [
+   "Use exactly the opt-out word or link named in each text (STOP is safest)",
+   "Reply STOP to each type of message you want gone",
+   "To ask for a one-step \"revoke all,\" comment by Nov 25 in CG Docket No. 02-278"
+  ],
+  "redline": [
+   {
+    "before": "may not designate an exclusive means to request revocation of consent",
+    "after": "Callers may designate any of the following methods as the exclusive means to revoke consent",
+    "label": "FCC robocall rule · How you opt out",
+    "note": "Other ways of saying stop may no longer count.",
+    "src": "quoted"
+   }
   ]
  }
 ]

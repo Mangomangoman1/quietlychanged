@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FCC · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-24-fcc-from-nov-25-companies-can-choose-the-only-way-you-re-al
+ lowed-to-stop-their@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:FCC: Rule takes effect
+DESCRIPTION:From Nov 25\, a company can name the only way you're allowed t
+ o stop its robocalls and texts\, and replying STOP to one kind of alert m
+ ay not stop the others.\n\nhttps://quietlychanged.com/changes/2026-10-24-
+ fcc-from-nov-25-companies-can-choose-the-only-way-you-re-allowed-to-stop-
+ their/
+URL:https://quietlychanged.com/changes/2026-10-24-fcc-from-nov-25-companie
+ s-can-choose-the-only-way-you-re-allowed-to-stop-their/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: FCC — Rule takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

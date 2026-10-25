@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shein · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-21-shein-new-oct-21-terms-call-customer-support-a-courtesy-not
+ -an-obligation-when@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Shein: Took effect
+DESCRIPTION:Shein's new terms say helping with problems caused by carriers
+ \, banks or marketplace sellers is "a courtesy\," not an obligation.\n\nh
+ ttps://quietlychanged.com/changes/2026-10-21-shein-new-oct-21-terms-call-
+ customer-support-a-courtesy-not-an-obligation-when/
+URL:https://quietlychanged.com/changes/2026-10-21-shein-new-oct-21-terms-c
+ all-customer-support-a-courtesy-not-an-obligation-when/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Shein — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

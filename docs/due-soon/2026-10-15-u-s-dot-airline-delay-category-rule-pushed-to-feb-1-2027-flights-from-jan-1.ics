@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U.S. DOT · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-15-u-s-dot-airline-delay-category-rule-pushed-to-feb-1-2027-fl
+ ights-from-jan-1@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:U.S. DOT: Rule takes effect
+DESCRIPTION:DOT's rule letting airlines stop counting ten kinds of disrupt
+ ions as their fault now starts Feb 1\, 2027\, so holiday flights stay und
+ er the old categories.\n\nhttps://quietlychanged.com/changes/2026-10-15-u
+ -s-dot-airline-delay-category-rule-pushed-to-feb-1-2027-flights-from-jan-
+ 1/
+URL:https://quietlychanged.com/changes/2026-10-15-u-s-dot-airline-delay-ca
+ tegory-rule-pushed-to-feb-1-2027-flights-from-jan-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: U.S. DOT — Rule takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

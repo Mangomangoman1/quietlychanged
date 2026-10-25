@@ -1,53 +1,155 @@
 [
-  {
-    "service": "Cloudflare",
-    "page": "pricing",
-    "headline": "Data pipeline pricing replaces \"free during beta\"",
-    "what": "Cloudflare's plans page used to list Pipelines ingestion and delivery to R2 as \"TBD (free during beta)\". It now shows real prices for the product, now part of the Cloudflare Basin family. Stream ingress is free and unlimited. SQL transforms include 50 GB a month, then $0.04 per GB. Sink delivery includes 50 GB a month shared across sinks, then $0.03 per GB for JSON or $0.06 per GB for Parquet or Iceberg. The page also adds catalog pricing (1 million operations a month included, then $9 per million; compaction at $0.005 per GB after 10 GB and $2 per million objects after 1 million) and query pricing (10 GB of compressed data scanned a month included, then $0.0025 per GB, which is $2.50 per TB, with a 10 MB minimum per query). R2 storage and operations are billed separately.",
-    "who": "Developers and companies streaming events or logs through Cloudflare Pipelines into R2, especially anyone who set it up while it was free during beta",
-    "url": "https://www.cloudflare.com/plans/",
-    "seo_title": "Cloudflare Pipelines is no longer free: Basin pricing is $0.04/GB transforms, $0.03-$0.06/GB delivery",
-    "seo_desc": "Cloudflare's plans page swapped \"TBD (free during beta)\" for real Basin prices: $0.04/GB SQL transforms and $0.03-$0.06/GB sink delivery after 50 GB, plus catalog and $2.50/TB query fees."
-  },
-  {
-    "service": "Audible",
-    "page": "pricing",
-    "headline": "Limited-time offer: $99 for a year of Premium",
-    "what": "Audible's membership plans page added a new banner: \"LIMITED TIME OFFER | $99 for a year of Premium. That's like $8.25/mo. Terms apply.\" The regular annual Premium prices listed on the same page are unchanged at $149.50 a year for 12 credits and $229.50 a year for 24 credits, and monthly Premium is still $14.95. The page doesn't spell out the offer's terms or end date.",
-    "who": "Audible members and anyone considering an annual Audible Premium plan, who should check the offer's terms before renewing or signing up",
-    "url": "https://www.audible.com/ep/memberbenefits",
-    "seo_title": "Audible offer: $99 for a year of Premium (vs. $149.50 regular annual price)",
-    "seo_desc": "Audible's plans page now shows a limited-time $99-a-year Premium offer, about $8.25 a month. Regular annual Premium is $149.50 for 12 credits or $229.50 for 24. Terms apply.",
-    "note": "Follow-up (Oct 16, 2026, 6:16 AM MT): a browser check of audible.com/ep/memberbenefits did not show the $99 offer. The page showed $149.50 and $229.50 annual Premium prices and a Prime $0.99/mo deal instead. The $99 offer appears to be A/B tested or shown only to some visitors."
-  },
-  {
-    "service": "Robinhood",
-    "page": "terms",
-    "headline": "Auto-enrolls accounts in class-action claims, keeps 20% of payouts",
-    "what": "Robinhood's Customer Agreement (revised October 1, 2026) adds Section 36A, a \"Class Action Service\" whose terms take effect \"on or after November 18, 2026.\" It reads: \"Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.\" Robinhood and a third-party vendor will automatically file claims for you in securities class-action settlements involving stocks held in your account, and the RHF Fee Schedule sets the Class Action Service Fee at \"20% of the class action settlement proceeds received on your behalf.\" Enrollment lets Robinhood appoint the vendor \"as your agent and attorney-in-fact,\" binds you to the settlement's releases, and means \"you cannot separately bring a lawsuit, at any time, against any named defendant\" in a case where a claim was filed for you. You also can't submit your own claim form for that settlement. Robinhood says it will notify you before each filing. You get seven business days to exclude that case, and you can unenroll from the service at any time through the app or Robinhood Customer Service. The September 1, 2026 version of the agreement had no such section. Settlement administrators don't usually charge anything to file your own claim form, so staying enrolled by default costs you a fifth of any payout. Other brokers run similar auto-enrolled services, but the cut varies: E*TRADE from Morgan Stanley's vendor deducts 6% of payments (etrade.com class action terms), Edward Jones' administrator Broadridge deducts 15% (Edward Jones service disclosure), and Interactive Brokers charges a 20% contingency fee (IBKR Securities Class Action Recovery page), so Robinhood's 20% sits at the top of that range. Checked October 16, 2026.",
-    "who": "Robinhood brokerage customers, especially anyone holding individual stocks that later become part of securities class-action settlements",
-    "url": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
-    "seo_title": "Robinhood Class Action Service: auto-enrollment on Nov 18, 2026 and a 20% fee (how to opt out)",
-    "seo_desc": "Robinhood's Oct 1, 2026 Customer Agreement auto-enrolls accounts in a Class Action Service from Nov 18. It files settlement claims for you and keeps 20%. You can unenroll in the app."
-  },
-  {
-    "service": "DoorDash",
-    "page": "terms",
-    "headline": "Arbitration now covers vendors like Stripe; robot deliveries added",
-    "what": "DoorDash's Consumer Terms and Conditions now read \"Effective: October 16, 2026,\" replacing the August 13, 2026 version. The new text went live on Oct 16, after our early-morning check that day. A new \"Related Third Parties\" clause extends the arbitration agreement to disputes with DoorDash's \"affiliates, subsidiaries, successors, related entities, agents, employees, contractors, subcontractors, insurers, licensees, assignees, vendors, and suppliers,\" and names \"Amplitude, Persona, Checkr, Blue Star, Stripe, Payfare.\" All U.S. arbitrations move to JAMS. The old terms used ADR Services for California residents and National Arbitration and Mediation (NAM) for everyone else. The arbitration agreement now survives \"until the expiration of all applicable statutes of limitations.\" Opting out of arbitration is still limited to new accounts, which must email opt-out@doordash.com within 30 days. Each opt-out notice must now come from you personally, not an agent, and can't cover more than one user. \"Contractors\" are renamed \"Delivery Providers,\" a term that now covers \"technology, including autonomous vehicles.\" A new \"Autonomous Deliveries\" section says DoorDash \"may, in its sole discretion, utilize autonomous vehicles or other technology to facilitate deliveries.\" Some changes favor customers. U.S. orders are now governed by the law of the state where you live instead of Delaware law. The damages limits no longer cover death or bodily injury caused by DoorDash's own negligence, gross negligence or willful misconduct, sexual assault or harassment claims, or refunds of what you paid. The terms also add \"Pay with Rewards\" (paying with credit-card points) and rewrite the marketing-text section.",
-    "who": "U.S. DoorDash and Caviar customers. The vendor clause matters if you ever have a claim against a company DoorDash works with, such as Stripe (payments) or Persona (ID checks)",
-    "url": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
-    "seo_title": "DoorDash terms update (Oct 16, 2026): arbitration now covers Stripe, Persona and other vendors; JAMS; robot deliveries",
-    "seo_desc": "DoorDash's Oct 16, 2026 consumer terms extend arbitration to vendors like Stripe and Persona, move U.S. cases to JAMS, add autonomous deliveries, and apply your home state's law."
-  },
-  {
-    "service": "Proton",
-    "page": "terms",
-    "headline": "Terms now let Proton discontinue any service or feature without notice",
-    "what": "Proton's Terms of Service now say \"Last modified: October 09, 2026,\" replacing the June 23, 2026 version, and Section 4 (\"Limited warranties and liability\") opens differently. The old opening said Proton \"does not make any warranty about the reliability of the Services or the security of user data, despite best efforts,\" and that the Service is provided \"as is\" and \"as available.\" That paragraph is gone. In its place: \"The Company reserves the right, at its sole discretion, to modify, suspend, or discontinue any of our Services, or any feature or component thereof, with or without notice to you.\" Proton says it \"will endeavor to provide reasonable advance notice of a material discontinuation\" where practicable, but \"has no obligation to provide such notice, and is not liable to you or any third party\" for any modification, suspension, or discontinuation, to the extent the law allows. The terms cover Proton Mail, Calendar, Drive, VPN, Pass, Meet, and Docs. Nothing else in the document changed, including the liability cap of $100 or the amount you paid.",
-    "who": "Proton Mail, Drive, VPN, Pass, and other Proton users, especially paid subscribers and anyone who relies on a specific Proton app or feature",
-    "url": "https://proton.me/legal/terms",
-    "seo_title": "Proton terms update (Oct 9, 2026): Proton can discontinue services or features with or without notice",
-    "seo_desc": "Proton's Oct 9, 2026 Terms of Service add a clause letting it modify, suspend, or discontinue any service or feature with or without notice, and drop its old 'as is' warranty paragraph."
-  }
+ {
+  "service": "Cloudflare",
+  "page": "pricing",
+  "headline": "Data pipeline pricing replaces \"free during beta\"",
+  "what": "Cloudflare's plans page used to list Pipelines ingestion and delivery to R2 as \"TBD (free during beta)\". It now shows real prices for the product, now part of the Cloudflare Basin family. Stream ingress is free and unlimited. SQL transforms include 50 GB a month, then $0.04 per GB. Sink delivery includes 50 GB a month shared across sinks, then $0.03 per GB for JSON or $0.06 per GB for Parquet or Iceberg. The page also adds catalog pricing (1 million operations a month included, then $9 per million; compaction at $0.005 per GB after 10 GB and $2 per million objects after 1 million) and query pricing (10 GB of compressed data scanned a month included, then $0.0025 per GB, which is $2.50 per TB, with a 10 MB minimum per query). R2 storage and operations are billed separately.",
+  "who": "Developers and companies streaming events or logs through Cloudflare Pipelines into R2, especially anyone who set it up while it was free during beta",
+  "url": "https://www.cloudflare.com/plans/",
+  "seo_title": "Cloudflare Pipelines is no longer free: Basin pricing is $0.04/GB transforms, $0.03-$0.06/GB delivery",
+  "seo_desc": "Cloudflare's plans page swapped \"TBD (free during beta)\" for real Basin prices: $0.04/GB SQL transforms and $0.03-$0.06/GB sink delivery after 50 GB, plus catalog and $2.50/TB query fees.",
+  "tldr": "Cloudflare Pipelines is no longer free during beta. It now has real prices, with monthly free allowances before per-GB charges start.",
+  "impact": 1,
+  "themes": [
+   "price-creep"
+  ],
+  "redline": [
+   {
+    "before": "TBD (free during beta)",
+    "label": "Plans · Pipelines",
+    "note": "The beta price line is gone.",
+    "src": "quoted",
+    "after": ""
+   },
+   {
+    "after": "R2 storage and operations are billed separately. Sink delivery is billed by uncompressed data sent to each destination. Basin SQL is $2.50 / TB with a 10 MB minimum billable scan per query. Compaction charges apply only when enabled.",
+    "label": "Plans · Basin",
+    "src": "raw",
+    "before": ""
+   }
+  ]
+ },
+ {
+  "service": "Audible",
+  "page": "pricing",
+  "headline": "Limited-time offer: $99 for a year of Premium",
+  "what": "Audible's membership plans page added a new banner: \"LIMITED TIME OFFER | $99 for a year of Premium. That's like $8.25/mo. Terms apply.\" The regular annual Premium prices listed on the same page are unchanged at $149.50 a year for 12 credits and $229.50 a year for 24 credits, and monthly Premium is still $14.95. The page doesn't spell out the offer's terms or end date.",
+  "who": "Audible members and anyone considering an annual Audible Premium plan, who should check the offer's terms before renewing or signing up",
+  "url": "https://www.audible.com/ep/memberbenefits",
+  "seo_title": "Audible offer: $99 for a year of Premium (vs. $149.50 regular annual price)",
+  "seo_desc": "Audible's plans page now shows a limited-time $99-a-year Premium offer, about $8.25 a month. Regular annual Premium is $149.50 for 12 credits or $229.50 for 24. Terms apply.",
+  "note": "Follow-up (Oct 16, 2026, 6:16 AM MT): a browser check of audible.com/ep/memberbenefits did not show the $99 offer. The page showed $149.50 and $229.50 annual Premium prices and a Prime $0.99/mo deal instead. The $99 offer appears to be A/B tested or shown only to some visitors.",
+  "tldr": "A banner offers a year of Audible Premium for $99, about $8.25 a month. The page doesn't say when the offer ends or what its terms are.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "after": "LIMITED TIME OFFER | $99 for a year of Premium",
+    "label": "Plans · Banner",
+    "note": "\"Terms apply,\" but the page doesn't link them.",
+    "src": "raw",
+    "before": ""
+   }
+  ]
+ },
+ {
+  "service": "Robinhood",
+  "page": "terms",
+  "headline": "Auto-enrolls accounts in class-action claims, keeps 20% of payouts",
+  "what": "Robinhood's Customer Agreement (revised October 1, 2026) adds Section 36A, a \"Class Action Service\" whose terms take effect \"on or after November 18, 2026.\" It reads: \"Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.\" Robinhood and a third-party vendor will automatically file claims for you in securities class-action settlements involving stocks held in your account, and the RHF Fee Schedule sets the Class Action Service Fee at \"20% of the class action settlement proceeds received on your behalf.\" Enrollment lets Robinhood appoint the vendor \"as your agent and attorney-in-fact,\" binds you to the settlement's releases, and means \"you cannot separately bring a lawsuit, at any time, against any named defendant\" in a case where a claim was filed for you. You also can't submit your own claim form for that settlement. Robinhood says it will notify you before each filing. You get seven business days to exclude that case, and you can unenroll from the service at any time through the app or Robinhood Customer Service. The September 1, 2026 version of the agreement had no such section. Settlement administrators don't usually charge anything to file your own claim form, so staying enrolled by default costs you a fifth of any payout. Other brokers run similar auto-enrolled services, but the cut varies: E*TRADE from Morgan Stanley's vendor deducts 6% of payments (etrade.com class action terms), Edward Jones' administrator Broadridge deducts 15% (Edward Jones service disclosure), and Interactive Brokers charges a 20% contingency fee (IBKR Securities Class Action Recovery page), so Robinhood's 20% sits at the top of that range. Checked October 16, 2026.",
+  "who": "Robinhood brokerage customers, especially anyone holding individual stocks that later become part of securities class-action settlements",
+  "url": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
+  "seo_title": "Robinhood Class Action Service: auto-enrollment on Nov 18, 2026 and a 20% fee (how to opt out)",
+  "seo_desc": "Robinhood's Oct 1, 2026 Customer Agreement auto-enrolls accounts in a Class Action Service from Nov 18. It files settlement claims for you and keeps 20%. You can unenroll in the app.",
+  "tldr": "Robinhood will file class-action claims for you by default and keep 20% of the payout. In those cases you also lose the right to sue. You can unenroll.",
+  "impact": 3,
+  "themes": [
+   "forced-arbitration",
+   "price-creep"
+  ],
+  "effective": "2026-11-18",
+  "deadline": "Auto-enrollment starts",
+  "actions": [
+   "Unenroll in the Robinhood app or through Customer Service if you'd rather file claims yourself (it's usually free)",
+   "If you stay in, watch for the notice before each filing: you get seven business days to exclude a case"
+  ],
+  "redline": [
+   {
+    "after": "Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.",
+    "label": "Customer Agreement · new Section 36A",
+    "note": "Opt-out, not opt-in. The Sept 1 agreement had no such section.",
+    "src": "quoted",
+    "before": ""
+   },
+   {
+    "after": "20% of the class action settlement proceeds received on your behalf",
+    "label": "RHF Fee Schedule · Class Action Service Fee",
+    "note": "E*TRADE's vendor takes 6%, Edward Jones' 15%.",
+    "src": "quoted",
+    "before": ""
+   }
+  ]
+ },
+ {
+  "service": "DoorDash",
+  "page": "terms",
+  "headline": "Arbitration now covers vendors like Stripe; robot deliveries added",
+  "what": "DoorDash's Consumer Terms and Conditions now read \"Effective: October 16, 2026,\" replacing the August 13, 2026 version. The new text went live on Oct 16, after our early-morning check that day. A new \"Related Third Parties\" clause extends the arbitration agreement to disputes with DoorDash's \"affiliates, subsidiaries, successors, related entities, agents, employees, contractors, subcontractors, insurers, licensees, assignees, vendors, and suppliers,\" and names \"Amplitude, Persona, Checkr, Blue Star, Stripe, Payfare.\" All U.S. arbitrations move to JAMS. The old terms used ADR Services for California residents and National Arbitration and Mediation (NAM) for everyone else. The arbitration agreement now survives \"until the expiration of all applicable statutes of limitations.\" Opting out of arbitration is still limited to new accounts, which must email opt-out@doordash.com within 30 days. Each opt-out notice must now come from you personally, not an agent, and can't cover more than one user. \"Contractors\" are renamed \"Delivery Providers,\" a term that now covers \"technology, including autonomous vehicles.\" A new \"Autonomous Deliveries\" section says DoorDash \"may, in its sole discretion, utilize autonomous vehicles or other technology to facilitate deliveries.\" Some changes favor customers. U.S. orders are now governed by the law of the state where you live instead of Delaware law. The damages limits no longer cover death or bodily injury caused by DoorDash's own negligence, gross negligence or willful misconduct, sexual assault or harassment claims, or refunds of what you paid. The terms also add \"Pay with Rewards\" (paying with credit-card points) and rewrite the marketing-text section.",
+  "who": "U.S. DoorDash and Caviar customers. The vendor clause matters if you ever have a claim against a company DoorDash works with, such as Stripe (payments) or Persona (ID checks)",
+  "url": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+  "seo_title": "DoorDash terms update (Oct 16, 2026): arbitration now covers Stripe, Persona and other vendors; JAMS; robot deliveries",
+  "seo_desc": "DoorDash's Oct 16, 2026 consumer terms extend arbitration to vendors like Stripe and Persona, move U.S. cases to JAMS, add autonomous deliveries, and apply your home state's law.",
+  "tldr": "DoorDash's arbitration clause now covers its vendors too, like Stripe and Persona. All U.S. cases move to JAMS, and robot deliveries are written in.",
+  "impact": 2,
+  "themes": [
+   "forced-arbitration"
+  ],
+  "effective": "2026-10-16",
+  "deadline": "Took effect",
+  "actions": [
+   "New accounts can opt out of arbitration by emailing opt-out@doordash.com within 30 days, and must send it personally"
+  ],
+  "redline": [
+   {
+    "after": "affiliates, subsidiaries, successors, related entities, agents, employees, contractors, subcontractors, insurers, licensees, assignees, vendors, and suppliers",
+    "label": "Consumer Terms · Related Third Parties",
+    "note": "Disputes with any of these now go to arbitration too.",
+    "src": "quoted",
+    "before": ""
+   },
+   {
+    "after": "may, in its sole discretion, utilize autonomous vehicles or other technology to facilitate deliveries",
+    "label": "Consumer Terms · Autonomous Deliveries",
+    "src": "quoted",
+    "before": ""
+   }
+  ]
+ },
+ {
+  "service": "Proton",
+  "page": "terms",
+  "headline": "Terms now let Proton discontinue any service or feature without notice",
+  "what": "Proton's Terms of Service now say \"Last modified: October 09, 2026,\" replacing the June 23, 2026 version, and Section 4 (\"Limited warranties and liability\") opens differently. The old opening said Proton \"does not make any warranty about the reliability of the Services or the security of user data, despite best efforts,\" and that the Service is provided \"as is\" and \"as available.\" That paragraph is gone. In its place: \"The Company reserves the right, at its sole discretion, to modify, suspend, or discontinue any of our Services, or any feature or component thereof, with or without notice to you.\" Proton says it \"will endeavor to provide reasonable advance notice of a material discontinuation\" where practicable, but \"has no obligation to provide such notice, and is not liable to you or any third party\" for any modification, suspension, or discontinuation, to the extent the law allows. The terms cover Proton Mail, Calendar, Drive, VPN, Pass, Meet, and Docs. Nothing else in the document changed, including the liability cap of $100 or the amount you paid.",
+  "who": "Proton Mail, Drive, VPN, Pass, and other Proton users, especially paid subscribers and anyone who relies on a specific Proton app or feature",
+  "url": "https://proton.me/legal/terms",
+  "seo_title": "Proton terms update (Oct 9, 2026): Proton can discontinue services or features with or without notice",
+  "seo_desc": "Proton's Oct 9, 2026 Terms of Service add a clause letting it modify, suspend, or discontinue any service or feature with or without notice, and drop its old 'as is' warranty paragraph.",
+  "tldr": "Proton can now change, suspend or shut down any service or feature, with or without notice. It says it will try to warn you but isn't obliged to.",
+  "impact": 2,
+  "themes": [
+   "shutdowns",
+   "not-our-problem"
+  ],
+  "redline": [
+   {
+    "before": "does not make any warranty about the reliability of the Services or the security of user data, despite best efforts",
+    "after": "The Company reserves the right, at its sole discretion, to modify, suspend, or discontinue any of our Services, or any feature or component thereof, with or without notice to you.",
+    "label": "Terms of Service · Section 4",
+    "note": "The new opening of the liability section. Proton \"has no obligation to provide such notice.\"",
+    "src": "quoted"
+   }
+  ]
+ }
 ]

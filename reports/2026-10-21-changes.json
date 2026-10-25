@@ -5,7 +5,21 @@
   "headline": "Plan cards rewritten; prices unchanged, Basic's 2% store fee now spelled out",
   "what": "Squarespace redesigned the plan cards on its pricing page. Monthly prices are unchanged at $25 (Basic), $39 (Core), $65 (Plus) and $139 (Advanced), or $19, $29, $49 and $99 a month billed yearly, and card rates still start at 2.9% + $0.30 (2.7% on Plus, 2.5% on Advanced). The Basic card now states a \"2% online store transaction fee\" directly, while Core and up say \"No fees on online store transactions.\" Each card now lists its AI credits (10 one-time on Basic, 20, 40 and 120 per month on the higher plans), which were previously shown only in the comparison table. The cards dropped the line that priced automated tax calculation at 0.15%, 0.10% or 0.05% per transaction (maximum $0.99) and now just say \"Automated taxes and shipping\"; the page doesn't say whether that fee itself changed.",
   "who": "People choosing a Squarespace plan, especially sellers deciding between Basic and Core",
-  "url": "https://www.squarespace.com/pricing"
+  "url": "https://www.squarespace.com/pricing",
+  "tldr": "Squarespace rewrote its plan cards: Basic's 2% store fee and each plan's AI credits now appear on the cards, and the automated-tax fee line is gone. Prices didn't change.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.05% (maximum $0.99) per transaction.",
+    "label": "Pricing · Plan cards",
+    "note": "The per-transaction tax fee no longer appears on the cards.",
+    "src": "raw",
+    "after": ""
+   }
+  ]
  },
  {
   "service": "Shopify",
@@ -13,7 +27,20 @@
   "headline": "Tax tools now fall under one Shopify Tax terms document",
   "what": "Shopify's Terms of Service used to say that tools that help you calculate or estimate taxes were covered by the Shopify Tax Terms of Service, and that tools that help you file taxes (\"Shopify Tax Automated Filing\") were covered by separate Automated Filing terms. The section now says access to \"any tax-related tools that Shopify offers to you\" is subject to the Shopify Tax Terms of Service, and the Automated Filing reference is gone.",
   "who": "Shopify merchants who use Shopify Tax or its automated tax filing",
-  "url": "https://www.shopify.com/legal/terms"
+  "url": "https://www.shopify.com/legal/terms",
+  "tldr": "All of Shopify's tax tools now fall under one Shopify Tax terms document. The separate Automated Filing terms are gone.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "Your access to and use of any tools that Shopify offers to you that help you calculate or estimate taxes that arise from or as a result of a sale on your Store",
+    "after": "Your access to and use of any tax-related tools that Shopify offers to you",
+    "label": "Terms of Service · Tax tools",
+    "src": "raw"
+   }
+  ]
  },
  {
   "service": "Figma",
@@ -21,7 +48,20 @@
   "headline": "\"Audio imports\" added to motion design features",
   "what": "Figma's pricing page added \"Audio imports\" to its list of motion and animation features, next to motion variables and easing controls. Plan prices didn't change.",
   "who": "Figma users working on motion design and prototypes",
-  "url": "https://www.figma.com/pricing/"
+  "url": "https://www.figma.com/pricing/",
+  "tldr": "Figma's motion features now include audio imports. Prices didn't change.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "after": "Audio imports",
+    "label": "Pricing · Motion",
+    "src": "quoted",
+    "before": ""
+   }
+  ]
  },
  {
   "service": "Shein",
@@ -45,6 +85,27 @@
     "FTC: Using Credit Cards and Disputing Charges",
     "https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges"
    ]
+  ],
+  "tldr": "Shein's new terms say helping with problems caused by carriers, banks or marketplace sellers is \"a courtesy,\" not an obligation.",
+  "impact": 2,
+  "themes": [
+   "not-our-problem"
+  ],
+  "effective": "2026-10-21",
+  "deadline": "Took effect",
+  "actions": [
+   "File lost or damaged package claims with Shein within 14 days",
+   "Save order pages, chats and tracking screenshots",
+   "Dispute unresolved charges with your card issuer within 60 days of the statement"
+  ],
+  "redline": [
+   {
+    "after": "Unless a SHEIN policy expressly states otherwise, any such assistance is a courtesy and does not create a contractual obligation for SHEIN to resolve issues caused by carriers, banks, payment processors, Third-Party Sellers, or other third parties.",
+    "label": "Terms of Use · new Section 17, Customer Support",
+    "note": "Shein's written promises, like the 14-day damage claim, still apply.",
+    "src": "quoted",
+    "before": ""
+   }
   ]
  },
  {
@@ -75,6 +136,32 @@
    ]
   ],
   "modified": "2026-10-21",
-  "note": "How to save public pages before Nov 9: IPL warns its public pages \"will stop being available after November 9, 2026\" and that any cached copies elsewhere are \"outside our control.\" If you link to an IPL page from a portfolio, syllabus or reading list, paste its URL into the Internet Archive's Save Page Now form (web.archive.org/save) to keep a dated copy, and download your own uploads from your account. This is the second time ipl.org has gone dark: the original Internet Public Library ended in 2015, and its founder Joseph Janes wrote a farewell in American Libraries in November 2014 (\"RIP, IPL\"). Wikipedia says Barnes & Noble Education owned the relaunched site as of 2020; the retirement notice now calls it one of the \"Learneo businesses.\""
+  "note": "How to save public pages before Nov 9: IPL warns its public pages \"will stop being available after November 9, 2026\" and that any cached copies elsewhere are \"outside our control.\" If you link to an IPL page from a portfolio, syllabus or reading list, paste its URL into the Internet Archive's Save Page Now form (web.archive.org/save) to keep a dated copy, and download your own uploads from your account. This is the second time ipl.org has gone dark: the original Internet Public Library ended in 2015, and its founder Joseph Janes wrote a farewell in American Libraries in November 2014 (\"RIP, IPL\"). Wikipedia says Barnes & Noble Education owned the relaunched site as of 2020; the retirement notice now calls it one of the \"Learneo businesses.\"",
+  "tldr": "ipl.org goes offline for good on Nov 9. Logins end, uploads and public pages disappear, and nothing moves elsewhere.",
+  "impact": 2,
+  "themes": [
+   "shutdowns"
+  ],
+  "effective": "2026-11-09",
+  "deadline": "Site shuts down",
+  "actions": [
+   "Log in and download everything you uploaded",
+   "Save copies of public IPL pages you link to",
+   "Email support@ipl.org before Nov 9 if you can't log in"
+  ],
+  "redline": [
+   {
+    "after": "Effective November 9, 2026, IPL will be officially retired",
+    "label": "Help center · IPL is Retiring",
+    "src": "quoted",
+    "before": ""
+   },
+   {
+    "after": "We are not migrating any content or product features from IPL to a new platform.",
+    "label": "Help center · IPL is Retiring",
+    "src": "quoted",
+    "before": ""
+   }
+  ]
  }
 ]
