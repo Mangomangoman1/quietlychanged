@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-21-ipl-ipl-org-shuts-down-nov-9-2026-logins-end-uploads-and-pu
+ blic-pages-go-offlin@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:IPL: Site shuts down
+DESCRIPTION:ipl.org goes offline for good on Nov 9. Logins end\, uploads a
+ nd public pages disappear\, and nothing moves elsewhere.\n\nhttps://quiet
+ lychanged.com/changes/2026-10-21-ipl-ipl-org-shuts-down-nov-9-2026-logins
+ -end-uploads-and-public-pages-go-offlin/
+URL:https://quietlychanged.com/changes/2026-10-21-ipl-ipl-org-shuts-down-n
+ ov-9-2026-logins-end-uploads-and-public-pages-go-offlin/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: IPL — Site shuts down
+END:VALARM
+END:VEVENT
+END:VCALENDAR

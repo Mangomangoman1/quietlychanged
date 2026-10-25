@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Roblox · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-18-roblox-from-nov-1-roblox-says-it-is-merchant-of-record-for-
+ most-platform-purcha@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Roblox: Takes effect
+DESCRIPTION:From Nov 1\, purchases on Roblox are bought from Roblox itself
+ \, not from creators\, and players under 18 need a parent to accept the n
+ ew terms to keep playing.\n\nhttps://quietlychanged.com/changes/2026-10-1
+ 8-roblox-from-nov-1-roblox-says-it-is-merchant-of-record-for-most-platfor
+ m-purcha/
+URL:https://quietlychanged.com/changes/2026-10-18-roblox-from-nov-1-roblox
+ -says-it-is-merchant-of-record-for-most-platform-purcha/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Roblox — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DoorDash · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-16-doordash-arbitration-now-covers-vendors-like-stripe-robot-d
+ eliveries-added@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:DoorDash: Took effect
+DESCRIPTION:DoorDash's arbitration clause now covers its vendors too\, lik
+ e Stripe and Persona. All U.S. cases move to JAMS\, and robot deliveries 
+ are written in.\n\nhttps://quietlychanged.com/changes/2026-10-16-doordash
+ -arbitration-now-covers-vendors-like-stripe-robot-deliveries-added/
+URL:https://quietlychanged.com/changes/2026-10-16-doordash-arbitration-now
+ -covers-vendors-like-stripe-robot-deliveries-added/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: DoorDash — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

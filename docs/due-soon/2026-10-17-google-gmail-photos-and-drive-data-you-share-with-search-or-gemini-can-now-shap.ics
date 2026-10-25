@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Google · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-17-google-gmail-photos-and-drive-data-you-share-with-search-or
+ -gemini-can-now-shap@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Google: Took effect
+DESCRIPTION:Google's promise not to use Gmail\, Drive and Photos content f
+ or ads now has an exception: if you let Search or Gemini read that data\,
+  it can shape your ads.\n\nhttps://quietlychanged.com/changes/2026-10-17-
+ google-gmail-photos-and-drive-data-you-share-with-search-or-gemini-can-no
+ w-shap/
+URL:https://quietlychanged.com/changes/2026-10-17-google-gmail-photos-and-
+ drive-data-you-share-with-search-or-gemini-can-now-shap/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Google — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

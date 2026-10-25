@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bank of America · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-15-bank-of-america-narrows-error-and-fraud-protection-for-link
+ ed-external-account@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Bank of America: Took effect
+DESCRIPTION:If you pay a Bank of America card or loan from an account at a
+ nother bank\, BofA no longer investigates most errors or fraud on those p
+ ayments. The other bank has to.\n\nhttps://quietlychanged.com/changes/202
+ 6-10-15-bank-of-america-narrows-error-and-fraud-protection-for-linked-ext
+ ernal-account/
+URL:https://quietlychanged.com/changes/2026-10-15-bank-of-america-narrows-
+ error-and-fraud-protection-for-linked-external-account/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Bank of America — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

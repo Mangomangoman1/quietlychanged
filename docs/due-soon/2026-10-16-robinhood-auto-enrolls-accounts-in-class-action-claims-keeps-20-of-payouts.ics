@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Robinhood · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-16-robinhood-auto-enrolls-accounts-in-class-action-claims-keep
+ s-20-of-payouts@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Robinhood: Auto-enrollment starts
+DESCRIPTION:Robinhood will file class-action claims for you by default and
+  keep 20% of the payout. In those cases you also lose the right to sue. Y
+ ou can unenroll.\n\nhttps://quietlychanged.com/changes/2026-10-16-robinho
+ od-auto-enrolls-accounts-in-class-action-claims-keeps-20-of-payouts/
+URL:https://quietlychanged.com/changes/2026-10-16-robinhood-auto-enrolls-a
+ ccounts-in-class-action-claims-keeps-20-of-payouts/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Robinhood — Auto-enrollment starts
+END:VALARM
+END:VEVENT
+END:VCALENDAR

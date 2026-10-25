@@ -5,7 +5,20 @@
   "headline": "Plan cards now list in-person selling features instead of a one-line blurb",
   "what": "On Shopify's pricing page, the \"In-person sales\" row of the plan cards used to read \"Casual, in-person sales at pop-ups and events\" and \"POS Pro: Advanced tools for brick-and-mortar retailers.\" It now lists features instead: \"Accept payments with a phone or card reader,\" \"Customer profiles\" (marked Simple), and \"Returns: At purchase location,\" followed by POS Pro, which is still $89/mo per location. No prices on the cards changed.",
   "who": "Shopify merchants and shoppers comparing plans for selling in person",
-  "url": "https://www.shopify.com/pricing"
+  "url": "https://www.shopify.com/pricing",
+  "tldr": "Shopify's plan cards swap a one-line blurb about in-person selling for a feature list. POS Pro is still $89 a month per location.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "Casual, in-person sales at pop-ups and events",
+    "after": "Accept payments with a phone or card reader",
+    "label": "Pricing · In-person sales",
+    "src": "quoted"
+   }
+  ]
  },
  {
   "service": "Figma",
@@ -13,7 +26,20 @@
   "headline": "Enterprise plan now notes you can connect multiple GitHub organizations",
   "what": "Figma's pricing page added a line under its organization-wide features: \"You can now connect multiple GitHub organizations to a single Figma plan, making it easier to work with code across teams and projects.\" Prices didn't change.",
   "who": "Teams on Figma's Organization and Enterprise plans that use GitHub",
-  "url": "https://www.figma.com/pricing/"
+  "url": "https://www.figma.com/pricing/",
+  "tldr": "Figma's Enterprise plan now notes you can connect multiple GitHub organizations to one plan.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "after": "You can now connect multiple GitHub organizations to a single Figma plan, making it easier to work with code across teams and projects.",
+    "label": "Pricing · Organization-wide features",
+    "src": "raw",
+    "before": ""
+   }
+  ]
  },
  {
   "service": "Fitbit",
@@ -57,6 +83,35 @@
     "Android Authority: Fitbit holdouts are finally being pushed to Google Health (Oct 12, 2026)",
     "https://www.androidauthority.com/fitbit-old-app-forced-google-health-update-3721759/"
    ]
+  ],
+  "tldr": "Apps linked to your Fitbit stop getting new data on Oct 30 unless you reconnect each one through Google Health.",
+  "impact": 3,
+  "themes": [
+   "shutdowns",
+   "accept-or-else"
+  ],
+  "effective": "2026-10-30",
+  "deadline": "Reconnect apps by",
+  "actions": [
+   "Open Google Health, tap Connections, then Partner Apps, and reconnect anything under \"Needs Action\"",
+   "For apps marked \"Reconnect in partner app,\" reconnect from inside that app",
+   "Afterwards, check that new days show up in your wellness program"
+  ],
+  "redline": [
+   {
+    "after": "On October 30, 2026, the Fitbit Web API will be turned off and will no longer function or sync data to or from Fitbit users.",
+    "label": "Google developer site",
+    "note": "Health Connect and Apple Health syncing aren't affected.",
+    "src": "quoted",
+    "before": ""
+   },
+   {
+    "after": "existing access and refresh tokens cannot be transferred, requiring users to re-consent to your updated integration.",
+    "label": "Google Health API migration guide",
+    "note": "Every linked app needs you to sign in again.",
+    "src": "quoted",
+    "before": ""
+   }
   ]
  }
 ]

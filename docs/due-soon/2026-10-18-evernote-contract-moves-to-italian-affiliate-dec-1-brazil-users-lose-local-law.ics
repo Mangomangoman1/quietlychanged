@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Evernote · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-18-evernote-contract-moves-to-italian-affiliate-dec-1-brazil-u
+ sers-lose-local-law@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Evernote: Takes effect for existing users
+DESCRIPTION:On Dec 1 your Evernote contract moves to an Italian company\, 
+ Brazil users get arbitration\, and storing passwords or financial info is
+  banned.\n\nhttps://quietlychanged.com/changes/2026-10-18-evernote-contra
+ ct-moves-to-italian-affiliate-dec-1-brazil-users-lose-local-law/
+URL:https://quietlychanged.com/changes/2026-10-18-evernote-contract-moves-
+ to-italian-affiliate-dec-1-brazil-users-lose-local-law/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Evernote — Takes effect for existing users
+END:VALARM
+END:VEVENT
+END:VCALENDAR

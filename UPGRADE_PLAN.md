@@ -1,5 +1,7 @@
 # QuietlyChanged upgrade plan
 
+> **Status (Oct 25, 2026):** phases 0–4 are built on branch `claude/quietly-changed-upgrade-plan-9szdhg`, except the weekly email digest, which needs an email provider account. One change from the plan: the build stays standard-library Python (no Jinja2), so the daily run can't break on a missing package. Pages live in `qc/`, styles and scripts in `static/`. The writing rules for new fields are in `EDITORIAL.md`.
+
 **Goal:** a visitor who lands on any page (usually from search or X, usually on a change article or a service page) should want to read the next thing, then the next. Today the site is a well-written daily blog. It should feel like a living record of corporate fine print, with a memory.
 
 **Thesis:** *Show the change, don't describe it.* The repo already keeps a daily snapshot of every tracked page and a raw diff of every change (`snapshots/`, `reports/*-raw.md`). The site never shows them. The struck-through sentence is the most gripping thing this topic has, and it's the one thing nobody else publishes.

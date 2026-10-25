@@ -1,22 +1,40 @@
 [
-  {
-    "service": "Cash App",
-    "page": "terms",
-    "headline": "Optional auto-sell of bitcoin to fund ACH debits",
-    "what": "Cash App’s terms now describe an optional feature that, when enabled, automatically sells Virtual Currency from your Hosted Balance at the then-effective Conversion Rate to cover eligible ACH debit payments from your Cash App Balance. You may not get a separate notice before each sale; bitcoin price can move between the debit request and the sale; and you can turn the feature off, though pending sales may still complete.",
-    "who": "Cash App users who hold bitcoin in a Hosted Balance and enable the feature for ACH debit payments",
-    "url": "https://cash.app/legal/us/en-us/tos",
-    "seo_title": "Cash App can now auto-sell your bitcoin to cover ACH debits (terms update)",
-    "seo_desc": "Cash App's terms of service now describe an optional feature that automatically sells bitcoin from your balance to pay ACH debits. What changed, the risks, and how to turn it off."
-  },
-  {
-    "service": "Squarespace",
-    "page": "pricing",
-    "headline": "AI credits and Basic’s 2% store fee spelled out",
-    "what": "The Squarespace pricing page now lists AI credit allotments by plan (Basic: 10 one-time; Core: 20/mo; Plus: 40/mo) and shows a 2% online store transaction fee on Basic, while Core and above advertise no online-store transaction fees. Listed plan prices ($25 / $39 / $65 / $139) and card rates were unchanged in the snapshot.",
-    "who": "Current and prospective Squarespace website plan subscribers, especially anyone selling online on Basic or using built-in AI tools",
-    "url": "https://www.squarespace.com/pricing",
-    "seo_title": "Squarespace pricing now lists AI credits by plan, and Basic's 2% store fee",
-    "seo_desc": "Squarespace's pricing page now shows AI credit allotments per plan (Basic 10, Core 20/mo, Plus 40/mo) and a 2% online store transaction fee on Basic. Prices unchanged at $25/$39/$65/$139."
-  }
+ {
+  "service": "Cash App",
+  "page": "terms",
+  "headline": "Optional auto-sell of bitcoin to fund ACH debits",
+  "what": "Cash App’s terms now describe an optional feature that, when enabled, automatically sells Virtual Currency from your Hosted Balance at the then-effective Conversion Rate to cover eligible ACH debit payments from your Cash App Balance. You may not get a separate notice before each sale; bitcoin price can move between the debit request and the sale; and you can turn the feature off, though pending sales may still complete.",
+  "who": "Cash App users who hold bitcoin in a Hosted Balance and enable the feature for ACH debit payments",
+  "url": "https://cash.app/legal/us/en-us/tos",
+  "seo_title": "Cash App can now auto-sell your bitcoin to cover ACH debits (terms update)",
+  "seo_desc": "Cash App's terms of service now describe an optional feature that automatically sells bitcoin from your balance to pay ACH debits. What changed, the risks, and how to turn it off.",
+  "tldr": "Cash App can now sell your bitcoin automatically to cover ACH debits, if you turn the feature on. You may not get a notice before each sale.",
+  "impact": 2,
+  "themes": [],
+  "redline": [
+   {
+    "after": "You may be able to enable a feature that instructs us to automatically sell Virtual Currency from your Hosted Balance and make the proceeds available as Fiat Currency in connection with eligible ACH debit payments from your Cash App Balance account and routing number. If you enable this…",
+    "label": "Terms · Automatic Bitcoin Sale to Support ACH Debits",
+    "note": "A new opt-in feature. The sale happens at whatever bitcoin's price is when the debit arrives.",
+    "src": "raw",
+    "before": ""
+   }
+  ]
+ },
+ {
+  "service": "Squarespace",
+  "page": "pricing",
+  "headline": "AI credits and Basic’s 2% store fee spelled out",
+  "what": "The Squarespace pricing page now lists AI credit allotments by plan (Basic: 10 one-time; Core: 20/mo; Plus: 40/mo) and shows a 2% online store transaction fee on Basic, while Core and above advertise no online-store transaction fees. Listed plan prices ($25 / $39 / $65 / $139) and card rates were unchanged in the snapshot.",
+  "who": "Current and prospective Squarespace website plan subscribers, especially anyone selling online on Basic or using built-in AI tools",
+  "url": "https://www.squarespace.com/pricing",
+  "seo_title": "Squarespace pricing now lists AI credits by plan, and Basic's 2% store fee",
+  "seo_desc": "Squarespace's pricing page now shows AI credit allotments per plan (Basic 10, Core 20/mo, Plus 40/mo) and a 2% online store transaction fee on Basic. Prices unchanged at $25/$39/$65/$139.",
+  "tldr": "The pricing page now lists AI credits for each plan and spells out Basic's 2% online-store transaction fee. Prices didn't change.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": []
+ }
 ]

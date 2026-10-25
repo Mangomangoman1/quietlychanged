@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spotify · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-20-spotify-premium-free-trial-doubled-to-2-months-for-new-user
+ s-until-november-1@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Spotify: Offer ends
+DESCRIPTION:New Spotify Premium Individual subscribers get two free months
+  instead of one\, until Nov 1. Then it's $12.99 a month.\n\nhttps://quiet
+ lychanged.com/changes/2026-10-20-spotify-premium-free-trial-doubled-to-2-
+ months-for-new-users-until-november-1/
+URL:https://quietlychanged.com/changes/2026-10-20-spotify-premium-free-tri
+ al-doubled-to-2-months-for-new-users-until-november-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Spotify — Offer ends
+END:VALARM
+END:VEVENT
+END:VCALENDAR

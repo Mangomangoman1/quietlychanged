@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Verizon · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-15-verizon-regulatory-charge-rises-24-to-0-26-per-voice-line-o
+ n-nov-1@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Verizon: Charge rises
+DESCRIPTION:Verizon's own Regulatory Charge goes from $0.21 to $0.26 per v
+ oice line on Nov 1. It's a Verizon fee\, not a government tax.\n\nhttps:/
+ /quietlychanged.com/changes/2026-10-15-verizon-regulatory-charge-rises-24
+ -to-0-26-per-voice-line-on-nov-1/
+URL:https://quietlychanged.com/changes/2026-10-15-verizon-regulatory-charg
+ e-rises-24-to-0-26-per-voice-line-on-nov-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Verizon — Charge rises
+END:VALARM
+END:VEVENT
+END:VCALENDAR

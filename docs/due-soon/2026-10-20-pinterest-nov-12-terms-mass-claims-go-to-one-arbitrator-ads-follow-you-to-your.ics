@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pinterest · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-20-pinterest-nov-12-terms-mass-claims-go-to-one-arbitrator-ads
+ -follow-you-to-your@quietlychanged.com
+DTSTAMP:20261025T051225Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Pinterest: New terms take effect
+DESCRIPTION:From Nov 12\, 25 or more similar claims against Pinterest go t
+ o one arbitrator\, and its ads can follow you to your TV. You get a 30-da
+ y window to opt out of arbitration.\n\nhttps://quietlychanged.com/changes
+ /2026-10-20-pinterest-nov-12-terms-mass-claims-go-to-one-arbitrator-ads-f
+ ollow-you-to-your/
+URL:https://quietlychanged.com/changes/2026-10-20-pinterest-nov-12-terms-m
+ ass-claims-go-to-one-arbitrator-ads-follow-you-to-your/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Pinterest — New terms take effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
