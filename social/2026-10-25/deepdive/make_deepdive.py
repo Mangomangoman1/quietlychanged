@@ -66,6 +66,6 @@ new="\u201cAny arbitration or small claims court proceeding cannot begin until a
 for ln in wrap(d,new,bt,rx1-rx0-44):
     lw=d.textlength(ln,font=bt); d.rectangle([rx0+20,yy-1,rx0+24+lw,yy+29],fill=HL)
     d.text((rx0+22,yy),ln,font=bt,fill=INK); yy+=34
-d.text((rx0+22,ry1-40),"Informal Resolution Period = at least 60 days after they get it",font=sans("Medium",18),fill=GREY)
+d.text((rx0+22,ry1-40),"Informal Resolution Period = at least 60 days after they get your notice",font=sans("Medium",18),fill=GREY)
 d.text((56,618),"Cricket also drops online dispute notices (mail only). You can reject by mail within 30 days of the change notice.",font=sans("Regular",18),fill=GREY)
 im.save("att-cricket-small-claims-60-days.png"); print("saved")
