@@ -1,1 +1,156 @@
-[]
+[
+ {
+  "service": "AT&T",
+  "page": "terms",
+  "headline": "From Nov 1, you must send a notice and wait 60 days before taking AT&T to small claims court",
+  "tldr": "From Nov 1, AT&T customers must send a dispute notice and wait 60 days before suing in small claims, and AT&T can make its settlement offer later in arbitration.",
+  "impact": 2,
+  "effective": "2026-11-01",
+  "deadline": "New terms take effect",
+  "themes": [
+   "forced-arbitration",
+   "accept-or-else"
+  ],
+  "actions": [
+   "Submit a Notice of Dispute now if you plan to go to small claims (att.com/noticeofdispute)",
+   "If AT&T's notice reached you in the last 30 days, mail a signed rejection to Legal Department – Revised Arbitration Opt-Out, AT&T, 208 S. Akard, Office #2900.13, Dallas, TX 75202",
+   "Keep proof of the date AT&T received your notice"
+  ],
+  "redline": [
+   {
+    "before": "Any arbitration proceeding cannot be commenced until after the Informal Resolution Period has ended.",
+    "after": "Any arbitration or small claims court proceeding cannot begin until after the Informal Resolution Period has ended.",
+    "label": "Consumer Service Agreement · 1.3.2.2 Informal dispute resolution",
+    "note": "Small claims court now needs a signed notice and a 60-day wait first.",
+    "src": "quoted"
+   },
+   {
+    "before": "our last written settlement offer made before the arbitrator was selected",
+    "after": "our last written settlement offer made before the arbitration record closes",
+    "label": "Consumer Service Agreement · 1.3.2.5 $10,000 Alternative Payment",
+    "note": "AT&T can wait until late in the case to make the offer that decides whether it owes you $10,000.",
+    "src": "quoted"
+   },
+   {
+    "before": "any arbitration hearings will take place in the county (or parish) of your billing address",
+    "after": "any arbitration hearings will take place in a location reasonably convenient to you",
+    "label": "Consumer Service Agreement · 1.3.2.3 Hearings",
+    "src": "quoted"
+   }
+  ],
+  "what": "AT&T is replacing the dispute-resolution rules in its Consumer Service Agreement, the single contract that covers AT&T wireless (postpaid and prepaid), AT&T Internet and Fiber, Internet Air and AT&T Phone. AT&T's summary page says: \"the updated AT&T Consumer Service Agreement will apply to you starting on November 1, 2026,\" and \"By using or paying for AT&T services on or after November 1, 2026, you are agreeing to the terms.\" Anyone who got or changed an AT&T product on or after September 1, 2026 and agreed to the new terms is already on them. Customers say AT&T emailed the notice in mid-September. AT&T keeps the old text at att.com/priorcsa, titled \"AT&T Consumer Service Agreement (Prior to September 1, 2026)\". We compared it with the new agreement line by line.\n\nChange 1: small claims court now comes with a 60-day wait. The old agreement's plain-English summary said: \"you can choose to file your individual claim in small claims court or send us a Notice of Dispute, which is required before starting arbitration.\" The Notice and its 60-day \"Informal Resolution Period\" only gated arbitration: \"Any arbitration proceeding cannot be commenced until after the Informal Resolution Period has ended.\" The new text reads: \"Any arbitration or small claims court proceeding cannot begin until after the Informal Resolution Period has ended.\" So before filing in small claims over a bill dispute, you now have to send AT&T a signed Notice of Dispute and give it 60 days (longer if either side asks for a settlement call). If you skip it, \"a court of competent jurisdiction can enjoin the filing or prosecution of an arbitration or small claims court proceeding.\"\n\nChange 2: AT&T gets more time to make the offer that decides whether it owes you $10,000. If you win in arbitration and the award beats AT&T's last written settlement offer, AT&T pays at least $10,000 plus double your lawyer's fees. That offer used to count only if made \"before the arbitrator was selected.\" Now it counts if made \"before the arbitration record closes,\" and the comparison is \"not counting attorneys' fees, costs, and expenses.\" AT&T can wait until late in the case, after it has seen your evidence, to make the offer that sets the bar.\n\nChange 3: a new arbitration provider and a new place for hearings. JAMS replaces the American Arbitration Association, under the \"JAMS Streamlined Arbitration Rules and Procedures.\" Hearings used to be \"in the county (or parish) of your billing address\"; now they \"will take place in a location reasonably convenient to you.\" An arbitration demand must now include \"a certification of compliance with the Informal Dispute Resolution Process\" signed by you and your lawyer, and \"must disclose any person or entity that is funding or has a financial stake in any aspect of the arbitration.\"\n\nChange 4: mass claims can end up in court, still one person at a time. When 25 or more customers with the same or coordinated lawyers bring similar claims, each side now picks 20 test cases instead of 25, followed by mediation, twice. After the second mediation, either you or AT&T can \"opt out of arbitration and elect to have your dispute heard in a court.\" You must send a signed notice \"within 30 days after the second mediation ends.\" A new Section 1.12 makes the class-action and jury-trial waivers apply in court too: \"each party may bring claims (whether in court or in arbitration) against the other only in an individual capacity.\" The old line pointing Puerto Rico customers' small-claims cases to the Telecommunications Regulatory Board is gone from the arbitration section.\n\nWhat stays the same: AT&T still pays JAMS fees on claims of $75,000 or less that you start (as long as \"there is no dispute that you have fully complied\" with the notice step), you can still bring issues to the FCC or other agencies, and the Notice of Dispute can still be submitted online (att.com/noticeofdispute). (Cricket, which AT&T owns, is making the same changes on December 1 but has dropped its online Notice option.)\n\nCan you reject it? Subsection 1.3.2.8 lets you reject a change to the arbitration provision \"by sending us written notice via U.S. Mail within 30 days of the first notice of the change\" to Legal Department – Revised Arbitration Opt-Out, AT&T, 208 S. Akard, Office #2900.13, Dallas, Texas 75202, with your name, address, phone number, account number and \"a statement personally signed by you.\" Rejecting keeps the prior version, which lets you go straight to small claims. If your first notice was the mid-September email, that window has likely closed. Rejecting does not get you out of arbitration altogether. The only other choice AT&T offers existing customers is to cancel all AT&T services before November 1.\n\nCoverage (checked October 25): a few customers posted the AT&T email on X in mid-September (the largest got about 100 views) and r/ConsumerArbitration noted the switch to JAMS. We found no news coverage of the small-claims wait or the settlement-offer change.\n\nWhat you can do: if you have a billing dispute with AT&T that you planned to take to small claims, submit a Notice of Dispute now, online at att.com/noticeofdispute or by mail to Legal Department - Notice of Dispute, AT&T, 208 S. Akard, Office #2900.13, Dallas, Texas 75202, so the 60 days start running. Keep a copy and the date AT&T received it. If you got AT&T's notice in the last 30 days, mail the rejection letter above and keep proof of mailing.",
+  "who": "AT&T consumer and small-business customers under the AT&T Consumer Service Agreement: postpaid and prepaid wireless, AT&T Internet and Fiber, Internet Air, fixed wireless and AT&T Phone. Existing customers are covered from November 1, 2026; anyone who signed up or changed service since September 1 may already be on it.",
+  "url": "https://www.att.com/legal/terms.consumerServiceAgreementInformation.html",
+  "sources": [
+   [
+    "AT&T Consumer Service Agreement (new version)",
+    "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+   ],
+   [
+    "AT&T Consumer Service Agreement (Prior to September 1, 2026)",
+    "https://www.att.com/legal/terms.consumerServiceAgreementPrior260901.html"
+   ],
+   [
+    "AT&T: Resolving issues and submitting a Notice of Dispute",
+    "https://www.att.com/support/how-to/notice-of-dispute/"
+   ]
+  ],
+  "seo_title": "AT&T arbitration and terms change Nov 1, 2026: 60-day wait before small claims, JAMS replaces AAA",
+  "seo_desc": "AT&T's updated Consumer Service Agreement takes effect November 1, 2026. You must now send a Notice of Dispute and wait 60 days before small claims court, AT&T can make its settlement offer later, and JAMS replaces AAA. Exact wording and what you can do.",
+  "faq": [
+   [
+    "When do AT&T's new terms take effect?",
+    "November 1, 2026, for existing customers who keep using or paying for AT&T service. If you got or changed an AT&T product on or after September 1, 2026 and agreed to the new agreement, it already applies to you."
+   ],
+   [
+    "Can I still take AT&T to small claims court?",
+    "Yes, but not right away. The new agreement says \"Any arbitration or small claims court proceeding cannot begin until after the Informal Resolution Period has ended.\" You first send a signed Notice of Dispute and give AT&T 60 days (longer if a settlement call is requested). Before, that wait applied only to arbitration."
+   ],
+   [
+    "Can I reject AT&T's arbitration changes?",
+    "Only within 30 days of the first notice of the change, by U.S. Mail to Legal Department – Revised Arbitration Opt-Out, AT&T, 208 S. Akard, Office #2900.13, Dallas, Texas 75202, with your name, address, phone, account number and a signed statement. Rejecting keeps the prior arbitration terms; it doesn't remove arbitration. Customers who got the mid-September email are likely past the window."
+   ],
+   [
+    "Who runs AT&T arbitrations now?",
+    "JAMS, under its Streamlined Arbitration Rules, replacing the American Arbitration Association. AT&T still pays the fees for claims of $75,000 or less that you start, if you followed the notice step."
+   ]
+  ]
+ },
+ {
+  "service": "Cricket Wireless",
+  "page": "terms",
+  "headline": "From Dec 1, a 60-day wait before small claims court and no more online dispute notices",
+  "tldr": "From Dec 1, Cricket customers must mail a dispute notice and wait 60 days before small claims. You can reject the change by mail within 30 days of Cricket's text.",
+  "impact": 2,
+  "effective": "2026-12-01",
+  "deadline": "New terms take effect",
+  "themes": [
+   "forced-arbitration",
+   "accept-or-else"
+  ],
+  "actions": [
+   "Mail a signed rejection within 30 days of Cricket's text (by Oct 31 if it came Oct 1) to Legal Department – Revised Arbitration Opt-Out, Cricket, 208 S. Akard, Office #2900.13, Dallas, TX 75202",
+   "Include your name, address, phone, account number and a signed statement rejecting the Section 1.3 changes",
+   "Use a certificate of mailing or tracking and keep a copy"
+  ],
+  "redline": [
+   {
+    "before": "Any arbitration proceeding cannot be commenced until after the Informal Resolution Period has ended.",
+    "after": "Any arbitration or small claims court proceeding cannot begin until after the Informal Resolution Period has ended.",
+    "label": "Terms and Conditions · 1.3.2.2 Informal dispute resolution",
+    "note": "Small claims court now needs a signed notice and a 60-day wait first.",
+    "src": "quoted"
+   },
+   {
+    "before": "or, alternatively, submitted electronically by following the instructions at https://www.cricketwireless.com/legal-info/notice-of-dispute.html",
+    "after": "",
+    "label": "Terms and Conditions · 1.3.2.2 Notice of Dispute",
+    "note": "The online option is gone; the notice now goes by mail or courier only.",
+    "src": "quoted"
+   },
+   {
+    "before": "our last written settlement offer made before the arbitrator was selected",
+    "after": "our last written settlement offer made before the arbitration record closes",
+    "label": "Terms and Conditions · 1.3.2.5 $10,000 Alternative Payment",
+    "src": "quoted"
+   }
+  ],
+  "what": "Cricket Wireless, AT&T's prepaid brand, is making the same dispute-resolution changes as its parent, one month later. Cricket's notice page says: \"the updated Cricket Wireless Terms will apply to you starting on December 1, 2026,\" and \"By using or paying for Cricket services on or after December 1, 2026, you are agreeing to the terms.\" The new terms are dated \"Revised October 1, 2026\"; the old ones (\"Revised September 16, 2026\") are at cricketwireless.com/legal-info/terms-previous-version. Cricket sent customers a text that reads: \"effective 12/1/26 (or earlier if you change or obtain new service before then), we've updated the Cricket Wireless Terms and Conditions of Service, including dispute resolution and arbitration terms in sections 1.3 and 1.12.\" A customer posted it on October 2 (UTC), so texts went out around October 1. We compared the two versions line by line.\n\nChange 1: small claims court now comes with a 60-day wait. The old terms said \"you can choose to file your individual claim in small claims court or send us a Notice of Dispute, which is required before starting arbitration,\" and only arbitration had to wait: \"Any arbitration proceeding cannot be commenced until after the Informal Resolution Period has ended.\" The new text: \"Any arbitration or small claims court proceeding cannot begin until after the Informal Resolution Period has ended.\" You now have to send Cricket a signed Notice of Dispute and wait at least 60 days before filing in small claims.\n\nChange 2: the Notice of Dispute is mail-only. The old terms let you send it by mail or courier \"or, alternatively, submitted electronically by following the instructions at https://www.cricketwireless.com/legal-info/notice-of-dispute.html.\" That option is gone from the new terms, and the Notice of Dispute page now tells customers to \"mail the completed form(s)\" to Legal Department Notice of Dispute, Cricket, 208 S. Akard, Office #2900.13, Dallas, Texas 75202. (AT&T's own updated agreement still allows online filing.)\n\nChange 3: Cricket gets more time to make the offer that decides whether it owes you $10,000. If you win in arbitration and beat Cricket's last written settlement offer, Cricket pays at least $10,000 plus double your lawyer's fees. The offer used to count only if made \"before the arbitrator was selected\"; now it counts if made \"before the arbitration record closes.\"\n\nChange 4: JAMS replaces the American Arbitration Association, and hearings move from \"the county (or parish) of your billing address\" to \"a location reasonably convenient to you.\" Arbitration demands must now carry a signed \"certification of compliance\" with the notice step and \"disclose any person or entity that is funding or has a financial stake\" in the case. In mass claims (25 or more customers with coordinated lawyers), each side now picks 20 test cases instead of 25, and after two rounds either side can move a dispute to court, where a new Section 1.12 class-action and jury-trial waiver still applies.\n\nWhat stays the same: Cricket still pays JAMS fees on claims of $75,000 or less that you start, if \"there is no dispute that you have fully complied\" with the notice step; you can still complain to the FCC or other agencies.\n\nYou can reject the arbitration changes and keep your line. Subsection 1.3.2.8 lets you reject \"by sending us written notice via U.S. Mail within 30 days of the first notice of the change\" to Legal Department – Revised Arbitration Opt-Out, Cricket, 208 S. Akard, Office #2900.13, Dallas, Texas 75202. Include \"your name, address, phone number, account number, and a statement personally signed by you that you wish to reject the change to the arbitration provision.\" You then arbitrate under the prior version, which lets you go straight to small claims and allows the online Notice. The 30 days run from your first notice, so if Cricket's text reached you around October 1, mail it by October 31. Cricket's notice page offers this to existing customers who signed up for all their Cricket services before October 1, 2026. The only other choice is to cancel all Cricket service before December 1.\n\nCoverage (checked October 25): one customer quoted the Cricket text on uscardforum. We found no news coverage. AT&T's identical November 1 change got a few small X posts.\n\nWhat you can do: if you want to keep the old rules, mail a signed rejection letter now (sample wording, ours, not Cricket's: \"I reject the changes to the arbitration provision in Section 1.3 of the Cricket Wireless Terms and Conditions of Service. Name, address, phone number, account number, signature, date.\"). Send it with a certificate of mailing or tracking and keep a copy. If you have a billing dispute you might take to small claims, mail the Notice of Dispute form now so the 60 days start.",
+  "who": "Cricket Wireless customers, including Cricket Home Internet. Existing customers who signed up before October 1, 2026 are covered from December 1, 2026; anyone who got or changed Cricket service since October 1 and accepted the new terms is already on them.",
+  "url": "https://www.cricketwireless.com/legal-info/termsupdate",
+  "sources": [
+   [
+    "Cricket Wireless Terms and Conditions of Service (Revised October 1, 2026)",
+    "https://www.cricketwireless.com/terms"
+   ],
+   [
+    "Cricket Wireless Terms, previous version (Revised September 16, 2026)",
+    "https://www.cricketwireless.com/legal-info/terms-previous-version"
+   ],
+   [
+    "Cricket: How to Send us a Notice of Dispute",
+    "https://www.cricketwireless.com/legal-info/notice-of-dispute.html"
+   ]
+  ],
+  "seo_title": "Cricket Wireless terms update Dec 1, 2026: 60-day wait before small claims, mail-only dispute notice, how to reject",
+  "seo_desc": "Cricket Wireless's new terms take effect December 1, 2026: send a mailed Notice of Dispute and wait 60 days before small claims court, JAMS replaces AAA. How to reject the arbitration changes by mail within 30 days.",
+  "faq": [
+   [
+    "When do Cricket's new terms take effect?",
+    "December 1, 2026, for existing customers who keep using or paying for Cricket service. If you got or changed Cricket service on or after October 1, 2026 and accepted the new terms, they already apply."
+   ],
+   [
+    "How do I reject Cricket's arbitration changes?",
+    "Mail a signed letter by U.S. Mail within 30 days of the first notice of the change to Legal Department – Revised Arbitration Opt-Out, Cricket, 208 S. Akard, Office #2900.13, Dallas, Texas 75202, with your name, address, phone number, account number and a statement that you reject the change to the arbitration provision. If Cricket's text reached you around October 1, mail it by October 31."
+   ],
+   [
+    "Can I still take Cricket to small claims court?",
+    "Yes, but you must first mail a signed Notice of Dispute and wait 60 days. The new terms say \"Any arbitration or small claims court proceeding cannot begin until after the Informal Resolution Period has ended.\""
+   ],
+   [
+    "Can I file a Cricket Notice of Dispute online?",
+    "Not anymore. The old terms allowed it to be \"submitted electronically\"; the new terms and Cricket's Notice of Dispute page list mail or courier only."
+   ]
+  ]
+ }
+]

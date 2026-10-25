@@ -267,5 +267,11 @@
   "Fitbit": {
     "terms": "https://support.google.com/product-documentation/answer/14816019?hl=en",
     "privacy": "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  },
+  "AT&T": {
+    "terms": "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  },
+  "Cricket Wireless": {
+    "terms": "https://www.cricketwireless.com/terms"
   }
 }

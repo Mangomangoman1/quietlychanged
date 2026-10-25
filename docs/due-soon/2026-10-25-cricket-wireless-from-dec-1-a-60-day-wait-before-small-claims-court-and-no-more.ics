@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cricket Wireless · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-25-cricket-wireless-from-dec-1-a-60-day-wait-before-small-clai
+ ms-court-and-no-more@quietlychanged.com
+DTSTAMP:20261025T185349Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Cricket Wireless: New terms take effect
+DESCRIPTION:From Dec 1\, Cricket customers must mail a dispute notice and 
+ wait 60 days before small claims. You can reject the change by mail withi
+ n 30 days of Cricket's text.\n\nhttps://quietlychanged.com/changes/2026-1
+ 0-25-cricket-wireless-from-dec-1-a-60-day-wait-before-small-claims-court-
+ and-no-more/
+URL:https://quietlychanged.com/changes/2026-10-25-cricket-wireless-from-de
+ c-1-a-60-day-wait-before-small-claims-court-and-no-more/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Cricket Wireless — New terms take effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

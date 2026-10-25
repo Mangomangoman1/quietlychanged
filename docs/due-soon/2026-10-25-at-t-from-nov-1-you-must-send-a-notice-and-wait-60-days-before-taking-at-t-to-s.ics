@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AT&T · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-25-at-t-from-nov-1-you-must-send-a-notice-and-wait-60-days-bef
+ ore-taking-at-t-to-s@quietlychanged.com
+DTSTAMP:20261025T185349Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:AT&T: New terms take effect
+DESCRIPTION:From Nov 1\, AT&T customers must send a dispute notice and wai
+ t 60 days before suing in small claims\, and AT&T can make its settlement
+  offer later in arbitration.\n\nhttps://quietlychanged.com/changes/2026-1
+ 0-25-at-t-from-nov-1-you-must-send-a-notice-and-wait-60-days-before-takin
+ g-at-t-to-s/
+URL:https://quietlychanged.com/changes/2026-10-25-at-t-from-nov-1-you-must
+ -send-a-notice-and-wait-60-days-before-taking-at-t-to-s/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: AT&T — New terms take effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
