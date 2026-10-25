@@ -774,3 +774,28 @@ All times MT (MDT).
 
 - O2 original, AT&T (Nov 1) / Cricket (Dec 1) 60-day wait before small claims, image + alt: https://x.com/QuietlyChanged/status/2114431213507420417 (12:57 PM MT). 2nd and last original of the day.
 - Self-reply with Cricket mail-in rejection address + Cricket article: https://x.com/QuietlyChanged/status/2114432159981429131 (~1:00 PM MT)
+
+## Snapshot 2026-10-25 ~5:20 PM MT (Sunday evening X growth session)
+- Followers: **5** (flat all day) | Following: 12 | Posts: 131 | Media: 49. No new mentions since this morning.
+
+| When (MT) | Topic | Impressions | Likes | Bookmarks |
+|-----------|-------|-------------|-------|-----------|
+| Oct 25 9:27 AM | Reply @Dexerto (opt-out path) | **335** | 5 | **8** |
+| Oct 25 9:48 AM | Reply @chad_maximuss | 23 | 0 | 0 |
+| Oct 25 9:32 AM | O1 November calendar original | 8 | 0 | 0 |
+| Oct 25 12:57 PM | O2 AT&T/Cricket original (+ self-reply 5) | 7 | 0 | 0 |
+| Oct 25 9:43 / 9:38 AM | Replies techcity_hq / FablosJanny | 4 / 1 | 0 | 0 |
+
+### What we learned
+1. The opt-out path under a fresh big post (Dexerto, ~2h in) is still our only format that gets reach (335 views, 8 bookmarks). Originals stay at 7–8 views even with a "save this" calendar; no follower lift.
+2. Replies to small accounts (FablosJanny 231 views, techcity_hq 84) are wasted effort; only targets with real view velocity pay.
+3. The Google story is on its third day and still being re-posted by big accounts (Kalshi 483K at 4:30 PM, 17.5K views in 50 min, nobody in 27 replies gave the setting path).
+4. Starlink "terms of service" story (Musk/Ukraine) is trending but it's geopolitics, not consumer fine print, and we don't track Starlink: skipped.
+
+### Strategy adjustments
+- Only reply under posts already showing strong velocity (roughly 5K+ views in the first hour) or to question-replies inside those threads; skip sub-500-view targets unless the author is 250K+ and the post is under 1h old.
+- Per Media Mango P23: inside a big thread, answering a direct question ("is this new?") with the receipt is a good second reply.
+- Originals: keep 2/day but next week test a logo-led single-company post timed to a trending story (within the first hour), since timeline-only originals are flat.
+
+### Drafted for publish (Sunday evening, parent to post)
+- Packet: social/2026-10-25/pm/xgrowth-pm-drafts.md (no original; 3 text replies: Kalshi, KalebStu under Kalshi, WorldInMotionHQ)
