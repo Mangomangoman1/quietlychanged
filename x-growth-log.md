@@ -769,3 +769,8 @@ All times MT (MDT).
 - R2 reply to FablosJanny (2114358243388432854): https://x.com/QuietlyChanged/status/2114381039447539968 (9:38 AM)
 - R3 reply to techcity_hq (2114356576173576198): https://x.com/QuietlyChanged/status/2114382332518084842 (9:43 AM)
 - R4 reply to chad_maximuss (2114180197255946393): https://x.com/QuietlyChanged/status/2114383584823783686 (9:48 AM)
+
+## Published 2026-10-25 deep dive
+
+- O2 original, AT&T (Nov 1) / Cricket (Dec 1) 60-day wait before small claims, image + alt: https://x.com/QuietlyChanged/status/2114431213507420417 (12:57 PM MT). 2nd and last original of the day.
+- Self-reply with Cricket mail-in rejection address + Cricket article: https://x.com/QuietlyChanged/status/2114432159981429131 (~1:00 PM MT)
