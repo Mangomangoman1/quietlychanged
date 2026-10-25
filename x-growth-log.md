@@ -759,3 +759,13 @@ All one-copy checks passed.
 
 ### Drafted for publish (Sunday morning, parent to post)
 - Packet: social/2026-10-25/am/xgrowth-am-drafts.md (1 original with image nov-fine-print-deadlines.png, 4 replies: Dexerto, FablosJanny, techcity_hq, chad_maximuss)
+
+## Published 2026-10-25 morning
+
+All times MT (MDT).
+
+- R1 reply to Dexerto (2114348775976153413): https://x.com/QuietlyChanged/status/2114378233663885612 (9:27 AM)
+- O1 original, November fine-print calendar, image + alt, link to /due-soon/: https://x.com/QuietlyChanged/status/2114379682778898885 (9:32 AM). 1st original of the day; next original no earlier than ~12:33 PM.
+- R2 reply to FablosJanny (2114358243388432854): https://x.com/QuietlyChanged/status/2114381039447539968 (9:38 AM)
+- R3 reply to techcity_hq (2114356576173576198): https://x.com/QuietlyChanged/status/2114382332518084842 (9:43 AM)
+- R4 reply to chad_maximuss (2114180197255946393): https://x.com/QuietlyChanged/status/2114383584823783686 (9:48 AM)
