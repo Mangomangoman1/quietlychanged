@@ -457,3 +457,9 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - No prior pitches to these reporters or posts to these subs in this log (Ars's Ashley Belanger was pitched Oct 17/18, a different reporter).
 
 - 2026-10-24 ~3:03 PM MT FCC distribution posted: Bluesky https://bsky.app/profile/quietlychanged.bsky.social/post/3mynlqdsios2t ; r/privacy https://old.reddit.com/r/privacy/comments/1xeju6h/enhancing_the_ability_of_consumers_to_control_the/ (first comment 19rlml3a7qged). Pitch cards to Brodkin (Ars) and Weisbaum (ConsumerMan) awaiting Samuel. HN held for Mon Oct 26 AM; PCMag optional pitch not drafted yet.
+
+## Oct 24, ~11:40 PM MT: blackline redesign shipped
+- Reviewed and merged branch `claude/quietly-changed-upgrade-plan-9szdhg` (5595841 plan, aa0ac31 redesign, 1b1fad7 EDITORIAL.md) into main with a normal merge (4a28050), then a local rebuild commit (302c9fa).
+- New: blackline excerpts, tldr/impact/effective/deadline/themes/actions fields (backfilled on all 43 changes; every effective date appears in the change's own write-up), /due-soon/ + calendar.ics, /threads/ (8), /search.json, per-change OG images, self-hosted fonts. Build is standard library only; code moved to qc/. Field rules: EDITORIAL.md.
+- SEO guard (tools/seo_snapshot.py, main's docs vs new build): 129 pages before, 139 now; 0 missing, 0 title/description/canonical/OG changes; 43 JSON-LD changes, all NewsArticle.image switching from /og.png to the per-article OG image. Sitemap gained /due-soon/ and 9 /threads/ URLs.
+- Vercel dpl_4f93Tad3qUJGjPakABQhpoF3e6te (pack_vercel.sh + create_deployment), live on quietlychanged.com: all 139 sitemap URLs 200; robots, sitemap, feed, IndexNow key file 200. IndexNow 200 (52 URLs) after deploy.
