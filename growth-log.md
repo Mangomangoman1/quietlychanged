@@ -525,3 +525,8 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 
 **Drafts handed to parent** (social/2026-10-25/distribution-drafts.md): Bluesky with the deep-dive image and Cricket article link card; r/CricketWireless PSA with Cricket links only (check rules and existing threads first; comment in an existing thread if there is one); tip to Carriers News (carriernewsstaff@gmail.com, from carriernews.net/about); correction note to PettyLawsuit (support@pettylawsuit.com, from its site; its Aug 2026 arbitration database lists AT&T as plain small-claims YES).
 - Skipped: HN (FCC item held for Oct 26), X (two originals already today), cricketpress@att.com, recently pitched reporters.
+
+### Published 2026-10-25 distribution (AT&T/Cricket small claims)
+- Bluesky: https://bsky.app/profile/quietlychanged.bsky.social/post/3myq45bsgec2y (image + alt, no link card: over 300 chars) + self-reply with Cricket article link https://bsky.app/profile/quietlychanged.bsky.social/post/3myq47pv3fc2i
+- Reddit: comment (Cricket links only) on existing r/CricketWireless thread https://old.reddit.com/r/CricketWireless/comments/1wya4op/i_just_got_this_text_and_i_am_wondering_what_it/
+- Email cards drafted for Samuel to send: Carriers News tip, PettyLawsuit database correction.
