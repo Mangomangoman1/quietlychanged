@@ -799,3 +799,10 @@ All times MT (MDT).
 
 ### Drafted for publish (Sunday evening, parent to post)
 - Packet: social/2026-10-25/pm/xgrowth-pm-drafts.md (no original; 3 text replies: Kalshi, KalebStu under Kalshi, WorldInMotionHQ)
+
+## Published 2026-10-25 evening
+
+- R1 reply to @Kalshi (2114484649225277847): https://x.com/QuietlyChanged/status/2114497608920240348 (5:21 PM MT; over 280 chars, collapsed with "Show more")
+- R2 reply to @KalebStu (2114487392921141340): https://x.com/QuietlyChanged/status/2114498859015839826 (5:26 PM MT)
+- R3 reply to @WorldInMotionHQ (2114484856419737858): https://x.com/QuietlyChanged/status/2114500160277631194 (~5:31 PM MT)
+- No original (both of today's already out). Note: keep replies at 280 chars or less so they aren't collapsed.
