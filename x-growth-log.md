@@ -733,3 +733,29 @@ All one-copy checks passed.
 - R2 Gavel_on_X (the Oct 16 clause): https://x.com/QuietlyChanged/status/2114137571572039881 (5:30 PM MT)
 - R3 MrClicker_1 (hotel-email example): https://x.com/QuietlyChanged/status/2114138952135557194 (5:36 PM MT)
 - Followers 5, following 11.
+
+## Snapshot 2026-10-25 ~9:25 AM MT (Sunday morning X growth session)
+- Followers: **5** (flat overnight) | Following: 12 | Posts: 124 | Media: 47 (day 11).
+- Mentions: @chad_maximuss replied to the breakout (224 views; drafted R4), @MrClicker_1 agreed with our hotel-email reply.
+
+| When (MT) | Topic | Impressions | Likes | Bookmarks | Reposts |
+|-----------|-------|-------------|-------|-----------|---------|
+| Oct 24 9:28 AM | Reply @Pirat_Nation (opt-out path) | **8,704** | **318** | **306** | **22** |
+| Oct 24 5:17 PM | "You got it!" to @BarksAtStars | 300 | 1 | 0 | 0 |
+| Oct 24 5:25 PM | Reply @interesting_aIl (opt-out path) | 160 | 0 | 3 | 0 |
+| Oct 24 5:36 PM | Reply @MrClicker_1 (hotel example) | 48 | 1 | 0 | 0 |
+| Oct 24 9:38/9:43 AM | Replies DarkWebInformer / glenngabe | 44 / 45 | 0 | 0 | 0 |
+| Oct 24 9:21 AM / 12:57 PM | Google original / FCC original | 16 / 16 | 0 | 0 | 0 |
+| Oct 24 5:30 PM | Reply @Gavel_on_X | 7 | 0 | 0 | 0 |
+
+### What we learned
+1. The breakout is still climbing (6.3K to 8.7K overnight, bookmarks ~= likes) but followers stayed at 5. Reach without a reason to follow doesn't convert; we need posts people want to keep coming back for.
+2. The same opt-out answer under @interesting_aIl (2.5M) got 160 views and 3 bookmarks, posted ~25 min after the parent. Being under a big post early still matters more than the account size.
+3. Story is still alive Sunday: @Dexerto (1.45M) posted it at 7:30 AM MT (26K views, 40 replies, nobody in the thread has given the settings path).
+
+### Strategy adjustments
+- Test a "save this" utility original: a dated calendar of upcoming fine-print deadlines (new image format, vertical 1080x1350). Bookmark-bait that's genuinely useful and gives a reason to follow (we keep the calendar).
+- Keep re-using the verified opt-out path under each new big post on the Google story while it trends; vary openers.
+
+### Drafted for publish (Sunday morning, parent to post)
+- Packet: social/2026-10-25/am/xgrowth-am-drafts.md (1 original with image nov-fine-print-deadlines.png, 4 replies: Dexerto, FablosJanny, techcity_hq, chad_maximuss)

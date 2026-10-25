@@ -1,0 +1,7 @@
+{
+ "O1": "November's fine print, in one calendar.\n\nOct 30: Fitbit-linked apps lose your data unless you reconnect\nNov 4: Oura app locks unless you accept arbitration\nNov 15: Verizon admin fee hits $4.69/line\nNov 18: Robinhood files class claims for you, keeps 20%\n\nSave this. All 10 dates:",
+ "R1": "If you want to see whether you're opted in: the switch is \"Connected Content apps\" under Personal Intelligence.\n\nGoogle Account > Data & privacy > Personalization settings > Manage Personalized Recommendations in Search Services.\n\nDisconnecting stops new sharing.",
+ "R2": "For the receipt, it's one added clause. The policy used to stop at \"...based on your content from Drive, Gmail, or Photos.\"\n\nSince Oct 16 it continues: \"unless you choose to make data from these services available to other Google services that support personalized ads.\"",
+ "R3": "Most people won't remember. Fastest check: Google Account > Data & privacy > Personalization settings, then look for \"Connected Content apps\" under Personal Intelligence.\n\nIf Gmail or Photos shows as connected, that's the exception in play.",
+ "R4": "Nice, that's about as locked down as it gets. If Connected Content apps is greyed out for you, nothing is being shared through it."
+}
