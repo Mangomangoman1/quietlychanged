@@ -38,7 +38,7 @@ The excerpt is the hook of every page, so it's worth getting right.
 
 ### Writing `what`
 
-`what` is still the full explanation. Two things make it read better on the page:
+`what` is still the full explanation. Three things make it read better on the page:
 
 - Lead-ins our write-ups already use become subheadings automatically: `Change 1: …`, `What you can do: …`, `What stays the same: …`, `How it compares (checked Oct 17): …`, `What it replaces …`, `Other changes: …`.
 - A sentence starting `Coverage (checked …):` is moved into a separate "Who else has reported it" box.
