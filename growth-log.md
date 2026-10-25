@@ -518,3 +518,10 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 - Sony mocopi link app discontinued Oct 28: small.
 - Kyndryl Cloud Uplift container management off Nov 30: enterprise.
 - CelcomDigi Caller Tune: Malaysia.
+
+## 2026-10-25: distribution session (AT&T/Cricket 60-day wait before small claims)
+
+**Story:** Cricket terms (Revised Oct 1, effective Dec 1) and AT&T CSA (Nov 1) gate small claims behind the 60-day Informal Resolution Period; Cricket notices are mail-only; Cricket's mail-only rejection window closes ~Oct 31. Re-verified exact strings on the live Cricket and AT&T pages at ~3:00 PM MT. WebSearch still shows no press coverage. Article needed no changes, so no rebuild or IndexNow.
+
+**Drafts handed to parent** (social/2026-10-25/distribution-drafts.md): Bluesky with the deep-dive image and Cricket article link card; r/CricketWireless PSA with Cricket links only (check rules and existing threads first; comment in an existing thread if there is one); tip to Carriers News (carriernewsstaff@gmail.com, from carriernews.net/about); correction note to PettyLawsuit (support@pettylawsuit.com, from its site; its Aug 2026 arbitration database lists AT&T as plain small-claims YES).
+- Skipped: HN (FCC item held for Oct 26), X (two originals already today), cricketpress@att.com, recently pitched reporters.
