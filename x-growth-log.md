@@ -806,3 +806,28 @@ All times MT (MDT).
 - R2 reply to @KalebStu (2114487392921141340): https://x.com/QuietlyChanged/status/2114498859015839826 (5:26 PM MT)
 - R3 reply to @WorldInMotionHQ (2114484856419737858): https://x.com/QuietlyChanged/status/2114500160277631194 (~5:31 PM MT)
 - No original (both of today's already out). Note: keep replies at 280 chars or less so they aren't collapsed.
+
+## Snapshot 2026-10-26 ~9:30 AM MT (Monday morning X growth session)
+- Followers: **7** (+2 overnight, first growth in days) | Following: 12 | Posts: 134 | Media: 49.
+
+| When (MT) | Topic | Impressions | Likes | Bookmarks |
+|-----------|-------|-------------|-------|-----------|
+| Oct 25 5:21 PM | Reply @Kalshi (opt-out path, collapsed >280) | **873** | 6 | **15** |
+| Oct 25 9:27 AM | Reply @Dexerto (opt-out path) | 558 | 9 | 14 |
+| Oct 25 5:26 PM | Reply @KalebStu ("is this new?" with before/after clause) | 118 | 1 | 0 |
+| Oct 25 12:57 PM | O2 AT&T/Cricket original | 16 | 0 | 0 |
+| Oct 25 9:32 AM | O1 November calendar | 13 | 0 | 0 |
+| Oct 25 5:31 PM | Reply @WorldInMotionHQ | 7 | 1 | 0 |
+
+### What we learned
+1. Kalshi reply (posted ~50 min after a post that was already at high velocity) beat the Dexerto one: 873 views, 15 bookmarks. Speed into a fast-moving big post still wins.
+2. Answering a question-reply inside the big thread (KalebStu) got 118 views, about 4% of that reply's own views: decent, worth keeping as a second reply.
+3. Followers finally moved (+2) after a day of opt-out-path replies; utility replies do convert, slowly.
+4. Originals remain at 13–16 views. Today we test a logo-led original timed to the morning's trending story (T-Mobile T-Mix launch).
+
+### Strategy adjustments
+- Gaming/tech audiences (charlieINTEL, XBOXWire) are a new lane: T-Mix + Game Pass is a fine-print story with a huge gamer audience. Lead with the "catch" in the actual terms.
+- Keep replies under 280 chars (all drafts today are 244–268).
+
+### Drafted for publish (Monday morning, parent to post)
+- Packet: social/2026-10-26/am/xgrowth-am-drafts.md (1 logo-led original on T-Mix + fine-print image; 3 replies: charlieINTEL, IdleSloth84_, XBOXWire)
