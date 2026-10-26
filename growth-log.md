@@ -554,3 +554,6 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
   - X draft + 3 images (CA seal first) in social/2026-10-26/deepdive/ (not posted).
 - Unverified, left out: the X trend's "$9.17 billion yearly" figure; specific product names as taxable (CDTFA names none).
 - Follow-ups: CDTFA final emergency regs (expected before Jan 1); the Oct 27 CMS ACA proposed rule if consumer coverage stays thin later (comment period).
+
+## 2026-10-26 deep dive X post
+- O2 (2nd and last original today): California software sales tax from Jan 1, 2027 — https://x.com/QuietlyChanged/status/2114794643707883756 (1:01 PM MT; seal, before/after, taxed-vs-not images). No self-reply.
