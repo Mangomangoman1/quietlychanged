@@ -12,7 +12,7 @@ No original tonight: O1 (T-Mix, 9:31 AM MT) and O2 (California SB 122, 1:01 PM M
 
 ## Considered and skipped
 - @heyyguido quote of Dexerto (89K followers, ~1h20m old, 499 views, 32 likes): too slow.
-- @Bossy_Leah (3.4M views), @HerbsandDirt (2.3M), @etubruton (1.4M) Airbnb posts: 1-3 days old.
+- @Bossy_Leah and @HerbsandDirt Airbnb posts: big, but from Oct 25 (too old).
 - Verizon trend (CEO vs. Starlink timeline, Q3 earnings): not fine print.
 - DoorDash/Instacart talks (@digg 609 views in 50 min): M&A, not a consumer change, low velocity.
 - Gmail ads story: no fresh big posts (only small accounts in last 3h).
