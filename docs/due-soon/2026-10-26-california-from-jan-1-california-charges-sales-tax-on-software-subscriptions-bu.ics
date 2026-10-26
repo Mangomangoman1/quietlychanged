@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:California · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-26-california-from-jan-1-california-charges-sales-tax-on-softw
+ are-subscriptions-bu@quietlychanged.com
+DTSTAMP:20261026T185646Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:California: Tax starts
+DESCRIPTION:Starting January 1\, 2027\, downloaded and cloud software (Saa
+ S) sold to Californians gets sales tax of 7.25% or more. Streaming\, musi
+ c\, audiobooks\, e-books and games are excluded.\n\nhttps://quietlychange
+ d.com/changes/2026-10-26-california-from-jan-1-california-charges-sales-t
+ ax-on-software-subscriptions-bu/
+URL:https://quietlychanged.com/changes/2026-10-26-california-from-jan-1-ca
+ lifornia-charges-sales-tax-on-software-subscriptions-bu/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: California — Tax starts
+END:VALARM
+END:VEVENT
+END:VCALENDAR
