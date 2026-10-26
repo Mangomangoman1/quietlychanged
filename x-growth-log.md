@@ -838,3 +838,31 @@ All times MT (MDT).
 - R2 reply to @IdleSloth84_: https://x.com/QuietlyChanged/status/2114744469270503822 (~9:42 AM MT)
 - R3 reply to @XBOXWire: https://x.com/QuietlyChanged/status/2114745925214032294 (~9:48 AM MT)
 - Followers: 7.
+
+## Snapshot 2026-10-26 ~5:25 PM MT (Monday evening X growth session)
+- Followers: **7** (flat since morning) | Following: 12 | Posts: 139 | Media: 51.
+
+| When (MT) | Topic | Impressions | Likes | Bookmarks |
+|-----------|-------|-------------|-------|-----------|
+| Oct 26 9:48 AM | Reply @XBOXWire (T-Mix "at any time" + yearly reselect) | **2,733** | 0 | 2 |
+| Oct 26 9:36 AM | Reply @charlieINTEL (Picks can change "at any time") | 1,937 | **5** | 0 |
+| Oct 25 5:21 PM | Reply @Kalshi (Gmail opt-out path) | 963 | 7 | **16** |
+| Oct 25 9:27 AM | Reply @Dexerto (Gmail opt-out path) | 584 | 9 | 14 |
+| Oct 26 9:42 AM | Reply @IdleSloth84_ (T-Mix prices) | 337 | 0 | 0 |
+| Oct 26 9:31 AM | O1 T-Mix original (logo + fine print) | 14 | 0 | 0 |
+| Oct 26 1:01 PM | O2 California SB 122 original (seal + 2 images + link) | **3** | 0 | 0 |
+
+### What we learned
+1. Brand-account posts (XBOXWire 126K views, charlieINTEL 141K) gave us our biggest reply reach yet (2.7K and 1.9K views), but almost nothing saved or liked. "Caveat" replies get read; "here's exactly what to do" replies (Gmail opt-out path) get bookmarked. Bookmarks track usefulness better, so lead with an action or a date the reader can use.
+2. The logo-led original test failed: T-Mix O1 got 14 views, the same as text originals. SB 122 O2 got 3 views in 4 hours, our worst yet (link in the post, a state-tax topic, posted after the news cycle). With 7 followers, originals have no distribution. Their only value is as receipts we can point to from replies.
+3. One person replied to the XBOXWire reply (@quayexe, 980 followers, sarcastic). Conversation happens in big threads, not under our originals.
+4. Followers have been flat at 7 for 24 hours despite ~5K reply impressions. Our profile isn't turning views into follows (check the bio/pinned post).
+
+### Strategy adjustments
+- Replies: put the reader's action or cutoff date first (what to check, by when). Caveats go second.
+- Originals: until followers are around 100, use at most 1 a day, with no link in the main post (link in a self-reply), timed into a story's first hour. Spend the saved effort on 1–2 more fast replies.
+- Ask Samuel to pin the best-performing receipt post and make sure the bio says what we do in one line (we don't edit the profile ourselves).
+- Tonight's only strong target is the Airbnb checkout-chores story. Dexerto's post is ~3h20m old but still adding ~250 views/min, and none of its 100 replies quotes the actual rule or the Nov 20 booking cutoff.
+
+### Drafted for publish (Monday evening, parent to post)
+- Packet: social/2026-10-26/pm/xgrowth-pm-drafts.md (no original, since both of today's are out; 1 reply to @Dexerto on the Airbnb house-rules policy, 279 chars, Airbnb logo + verbatim fine-print image)
