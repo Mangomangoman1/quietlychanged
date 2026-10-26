@@ -565,3 +565,6 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 **Drafts handed to parent** (social/2026-10-26/distribution-drafts.md): pitch to Levi Sumagaysay, CalMatters (levi@calmatters.org, from her author page); Bluesky with 03-taxed-vs-not.png (279 chars + link card); HN with the CDTFA guide as URL (69-char title) plus an optional comment, replacing the FCC HN post held for today (one self-submission a day); r/California link post to L-1036 using CDTFA's title, with a primary-links-only first comment (check rules and existing threads; backup r/sysadmin).
 - Skipped: X original (2 already today), Rich DeMuro (no public email), previously pitched reporters.
 **Next:** watch CDTFA for final emergency regs (expected before Jan 1) and update the article plus /services/california/. Around Dec 1, send a "prepay won't help" reminder. If the FCC HN post didn't go up today, decide whether it goes Tue AM.
+
+## 2026-10-26: distribution session
+- Email pitch sent to Levi Sumagaysay (CalMatters, levi@calmatters.org) from quietlychangedbiz@gmail.com, ~3:01 PM MT (Samuel pressed Send).
