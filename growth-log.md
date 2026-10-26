@@ -568,3 +568,6 @@ Rotated to sources not heavily used Oct 15–17: Open Terms Archive contrib/gena
 
 ## 2026-10-26: distribution session
 - Email pitch sent to Levi Sumagaysay (CalMatters, levi@calmatters.org) from quietlychangedbiz@gmail.com, ~3:01 PM MT (Samuel pressed Send).
+- Bluesky (3:04 PM MT, image + alt; link card dropped, self-reply with link): https://bsky.app/profile/quietlychanged.bsky.social/post/3mysmpkl7z22z ; reply https://bsky.app/profile/quietlychanged.bsky.social/post/3mysmqdljf22g
+- HN (~3:02 PM MT, CDTFA guide, "California will tax SaaS and downloaded software starting Jan 1, 2027"; no comment): https://news.ycombinator.com/item?id=50250892 . This replaces the FCC HN post, which never went up.
+- r/California link post to L-1036 (~3:10 PM MT): https://old.reddit.com/r/California/comments/1xg96s0/sales_and_use_tax_applies_to_digital_products/ ; first comment 19rp72vumun8k (no QC link). The "No AI-generated content" rule is a removal risk; re-check.
