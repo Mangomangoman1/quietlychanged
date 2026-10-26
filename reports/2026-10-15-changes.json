@@ -56,6 +56,38 @@
     "note": "The first public price for Slack's top plan.",
     "src": "raw"
    }
+  ],
+  "faq": [
+   [
+    "How much does Slack Enterprise+ cost?",
+    "When Slack's pricing page shows a price, Enterprise+ is $45 USD per user a month, paid annually; no monthly-billing price is listed. Since October 15, 2026 the page has switched between that price and \"Contact sales for pricing\" (our two checks on October 26 got one of each), and a Contact Sales button is shown either way."
+   ],
+   [
+    "How much do Slack Pro and Business+ cost?",
+    "On Slack's pricing page (checked October 26, 2026): Pro is $8.75 per user a month billed monthly or $7.25 billed annually; Business+ is $18 billed monthly or $15 billed annually; Free is $0 with 90 days of message history. The page also advertised 50% off for 3 months on Pro and Business+."
+   ],
+   [
+    "When did Slack last raise prices?",
+    "On June 17, 2025 Slack raised Business+ from $12.50 to $15 per user a month on annual billing and from $15 to $18 on monthly billing; customers who bought on Slack's website moved over at their first renewal after August 17, 2025. Before that, Pro went from $8 to $8.75 a month ($6.67 to $7.25 annually) on September 1, 2022, its first increase since 2014."
+   ],
+   [
+    "Is there a Slack Plus plan?",
+    "Not by that name. Slack's pricing page lists four plans: Free, Pro, Business+ and Enterprise+. If you're after Business+, it's $18 per user a month, or $15 billed annually."
+   ]
+  ],
+  "sources": [
+   [
+    "Slack pricing page (checked Oct 26, 2026)",
+    "https://slack.com/pricing"
+   ],
+   [
+    "Slack blog, Jun 17, 2025 (Business+ $12.50 to $15; monthly $15 to $18)",
+    "https://slack.com/blog/news/june-2025-pricing-and-packaging-announcement"
+   ],
+   [
+    "The Verge, Jul 19, 2022 (Pro $8 to $8.75)",
+    "https://www.theverge.com/2022/7/19/23269717/slack-price-changes-increase-september-free-plan-changes"
+   ]
   ]
  },
  {

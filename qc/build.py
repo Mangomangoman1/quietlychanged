@@ -282,6 +282,7 @@ def main():
         faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is {_amt(h,pl,_cur(r))}" for pl, r in h["plans"].items() if "discontinued" not in pl) + "."),
                (f"When did {k} last raise prices?", h.get("faq_last") or f"On {_pd(L['date'])}: {L['what']}"),
                (f"How much has {k} gone up?", f"{k} {h['flagship']} went from {_amt(h,h['flagship'],fl[0][1])} {'on' if len(fl[0][0])==10 else 'in'} {_pd(fl[0][0])} to {_amt(h,h['flagship'],fl[-1][1])}, an increase of {pct:.0f}% across {len(fl)-1} price change{'s'*(len(fl)!=2)}." if not h.get("faq_up") else h["faq_up"])]
+        faq += [tuple(x) for x in h.get("faq_extra", [])]  # optional sourced Q&As per service
         html_ += '<h3>Quick answers</h3>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(an)}</p>" for q, an in faq)
         ld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": an}} for q, an in faq]}
         return html_, ld, pct, fl

@@ -308,6 +308,13 @@
     "Streaming Price Tracker: Disney+ (per-change citations)",
     "https://streamingpricetracker.com/disney/"
    ]
+  ],
+  "title": "Disney+ price change history (US, 2019–2026): every price increase, dated",
+  "faq_extra": [
+   [
+    "What is the Disney+ price change history?",
+    "Ad-free Disney+ (now Premium) launched at $6.99 a month on November 12, 2019, then went to $7.99 on March 26, 2021, $10.99 on December 8, 2022, $13.99 on October 12, 2023, $15.99 on October 17, 2024, $18.99 on October 21, 2025 and $21.49 on September 23, 2026. Disney+ with ads launched at $7.99 on December 8, 2022, then went to $9.99 on October 17, 2024, $11.99 on October 21, 2025 and $12.49 on September 23, 2026. Dates are when new subscribers started paying the new price."
+   ]
   ]
  },
  "Hulu": {
@@ -648,7 +655,7 @@
   ]
  },
  "HBO Max": {
-  "verified": "2026-10-19",
+  "verified": "2026-10-26",
   "intro": "HBO Max launched in May 2020 at $14.99 a month with no ads. It became Max in May 2023 and HBO Max again in July 2025. The ad-free Standard plan is now $18.49, the 4K Premium plan $22.99, and the ad-supported plan $10.99, after the latest increase on October 21, 2025.",
   "flagship": "Standard",
   "latest": {
@@ -760,6 +767,21 @@
    [
     "ComingSoon citing Deadline, Oct 13, 2026 (post-merger plans)",
     "https://www.comingsoon.net/movies/news/2206527-skydance-raises-price-streaming-service-paramount-wb-merger"
+   ],
+   [
+    "New York Post, Oct 7, 2026 (no combined-service price announced)",
+    "https://nypost.com/2026/10/07/media/whats-happening-to-paramount-hbo-max-subscriptions-after-paramount-wbd-merger/"
+   ]
+  ],
+  "title": "HBO Max price increase history (US, 2020–2026): every price hike, dated",
+  "faq_extra": [
+   [
+    "What is the HBO Max price increase history?",
+    "HBO Max's ad-free plan (now called Standard) launched at $14.99 a month in May 2020 and has gone up three times: to $15.99 on January 12, 2023, $16.99 on June 4, 2024 and $18.49 on October 21, 2025. The ad-supported plan (now Basic with Ads) went from $9.99 at its June 2, 2021 launch to $10.99 on October 21, 2025. The 4K Premium plan went from $19.99 at Max's May 23, 2023 launch to $20.99 on June 4, 2024 and $22.99 on October 21, 2025. Standard billed yearly went from $149.99 (May 2023) to $169.99 (June 2024) to $184.99 (October 2025)."
+   ],
+   [
+    "Is HBO Max raising prices again?",
+    "No new standalone HBO Max increase had been announced as of October 26, 2026, and HBO Max's own plans page still listed $10.99, $18.49 and $22.99 a month that day. After Paramount Skydance's merger with Warner Bros. Discovery closed in October 2026, the company said HBO Max and Paramount+ will be combined over time, but it hasn't said what a combined service would cost."
    ]
   ]
  },
@@ -971,7 +993,7 @@
  },
  "Slack": {
   "verified": "2026-10-19",
-  "title": "Slack pricing history (2014–2026): every Pro and Business+ price increase",
+  "title": "Slack pricing history (2014–2026): every Pro, Business+ and Enterprise+ price change",
   "compare": false,
   "basis": "US list prices per active user per month, before tax, in nominal dollars, for buying on Slack's website. Annual-billing prices are Slack's per-month equivalent. Compiled from the sources below and our daily snapshots of slack.com/pricing; last verified {verified}.",
   "intro": "Slack kept its Pro plan (originally called Standard) at $8 per user a month, or $6.67 billed annually, from its 2014 launch until September 1, 2022. Business+ went from $12.50 to $15 per user a month in 2025, when Salesforce folded AI features into it. Today Pro is $8.75 monthly or $7.25 annually, and Business+ is $18 monthly or $15 annually.",

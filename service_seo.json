@@ -15,5 +15,12 @@
  "Bank of America": {
   "title": "Bank of America Online Banking Service Agreement changes: Oct 19, 2026 external account disputes, and history",
   "desc": "From Oct 19, 2026, Bank of America won't investigate most errors or fraud on payments that show on your other bank's statement, and the 90-day window now covers only outside-funded Bill Pay. Dated history of BofA terms changes."
+ },
+ "Proton": {
+  "title": "Proton terms changes: inactive free account deletion after 12 months, Oct 2026 updates, and history",
+  "desc": "Proton can delete free accounts inactive for 12 months, and since Oct 20, 2026 its 30-, 15- and 7-day warnings are only \"a mere courtesy.\" Paid accounts are exempt. Dated history of every Proton terms, price and privacy change."
+ },
+ "Slack": {
+  "desc": "Every Slack price change since 2014, dated and sourced: Pro $8.75 per user a month ($7.25 yearly), Business+ $18 ($15 yearly) since June 2025, and Enterprise+ shown at $45 per user a month billed annually. Checked daily."
  }
 }

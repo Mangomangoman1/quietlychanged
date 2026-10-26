@@ -26,6 +26,38 @@
     "note": "A promise becomes an intention.",
     "src": "raw"
    }
+  ],
+  "faq": [
+   [
+    "Does Proton delete inactive accounts?",
+    "Yes, free ones. Proton's Terms of Service (Section 3, rechecked October 26, 2026) say a free account inactive for 12 months in a row can be suspended or deleted, along with some or all of its data: Proton Mail emails, Proton Drive files, Proton Calendar entries and Proton Pass passwords. Proton's help page says deleted data is permanently removed, and that the 24-month grace period for accounts created before April 9, 2024 stopped applying on April 9, 2026."
+   ],
+   [
+    "Does Proton delete paid accounts for inactivity?",
+    "No. The terms say accounts with an active paid subscription \"are always considered active.\" If you cancel, or are downgraded to free because a payment failed, the 12-month inactivity rule applies again."
+   ],
+   [
+    "Will Proton warn me before deleting my account?",
+    "It says it will try, but it no longer promises to. Since October 20, 2026 the terms read: \"As a mere courtesy, the Company will aim to send notice to the recovery email associated with your Account 30, 15 and 7 days in advance.\" The old wording was \"You will receive notices.\" Warnings go to your recovery email, so with no recovery email (or an old one) you may get none."
+   ],
+   [
+    "What counts as activity on a free Proton account?",
+    "Logging in to your account on Proton's web, desktop or mobile apps at least once every 12 months, or, if you're already logged in, using a Proton product, such as opening your inbox, reading an email or connecting to a VPN server. Activity counts per account, not per address, so one active account keeps all its @proton.me and @pm.me addresses."
+   ],
+   [
+    "Can I get a deleted Proton email address back?",
+    "Usually not. Proton's help page says deleted addresses generally can't be recovered or reassigned, with rare exceptions. If something will stop you logging in for 12 months, the terms say to contact Proton Customer Support so it can prevent the deletion."
+   ]
+  ],
+  "sources": [
+   [
+    "Proton Terms of Service, Section 3 (rechecked Oct 26, 2026)",
+    "https://proton.me/legal/terms"
+   ],
+   [
+    "Proton support: Inactive accounts",
+    "https://proton.me/support/inactive-accounts"
+   ]
   ]
  },
  {
