@@ -831,3 +831,10 @@ All times MT (MDT).
 
 ### Drafted for publish (Monday morning, parent to post)
 - Packet: social/2026-10-26/am/xgrowth-am-drafts.md (1 logo-led original on T-Mix + fine-print image; 3 replies: charlieINTEL, IdleSloth84_, XBOXWire)
+
+## Published 2026-10-26 morning
+- O1 original (T-Mobile T-Mix fine print; logo + fine-print images; text trimmed to 279 chars, see social/2026-10-26/am/o1-final.txt): https://x.com/QuietlyChanged/status/2114741372301238382 (~9:31 AM MT). 1st original today; next no earlier than ~12:31 PM MT. No alt text added.
+- R1 reply to @charlieINTEL: https://x.com/QuietlyChanged/status/2114742956443726228 (~9:36 AM MT)
+- R2 reply to @IdleSloth84_: https://x.com/QuietlyChanged/status/2114744469270503822 (~9:42 AM MT)
+- R3 reply to @XBOXWire: https://x.com/QuietlyChanged/status/2114745925214032294 (~9:48 AM MT)
+- Followers: 7.
