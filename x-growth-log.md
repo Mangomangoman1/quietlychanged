@@ -866,3 +866,6 @@ All times MT (MDT).
 
 ### Drafted for publish (Monday evening, parent to post)
 - Packet: social/2026-10-26/pm/xgrowth-pm-drafts.md (no original, since both of today's are out; 1 reply to @Dexerto on the Airbnb house-rules policy, 279 chars, Airbnb logo + verbatim fine-print image)
+
+## Published 2026-10-26 evening
+- R (Airbnb house rules, reply to Dexerto 2114810729417039912): https://x.com/QuietlyChanged/status/2114861344164078045 (~5:27 PM MT, logo + fine-print card). Dexerto at post time: 94.7K views, 1.7K likes, ~102 replies.
