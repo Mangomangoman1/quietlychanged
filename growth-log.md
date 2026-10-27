@@ -598,3 +598,8 @@ Shipped: article in reports/2026-10-27-changes.json (commit 05220c6), Vercel dpl
 **Drafts handed to parent** (social/2026-10-27/distribution-drafts.md): email to Biometric Update news desk (news@biometricupdate.com, from their editorial page and media kit); email to Chris Gaetano, Accounting Today technology editor (Chris.Gaetano@arizent.com, from their contact page); Bluesky post with the face-scan clause image and a link self-reply; r/xero link post to Xero's terms with a primary-links-only first comment (Reddit blocked the rules fetch from the box, so read the rules before posting).
 - Skipped: X (Xero original held for Oct 28 AM), HN (per Samuel), r/smallbusiness and r/Bookkeeping.
 **Next:** if Biometric Update or Accounting Today covers it, add the link to the article. Around Dec 21, post a "one week until Xero's new terms apply" reminder.
+
+### 2026-10-27 distribution (Xero) — sent/posted
+- Email sent (Samuel pressed Send): news@biometricupdate.com; Chris.Gaetano@arizent.com (Accounting Today)
+- Bluesky: https://bsky.app/profile/quietlychanged.bsky.social/post/3myv5es6l4s2i (self-reply with link: https://bsky.app/profile/quietlychanged.bsky.social/post/3myv5fihvcc2u)
+- r/xero: comment in existing "Update to terms and conditions" thread (Xero links only, no article link): https://old.reddit.com/r/xero/comments/1xfm2xt/update_to_terms_and_conditions/19rqzd6ezkk9v/ — r/xero has no published rules.
