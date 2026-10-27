@@ -910,6 +910,6 @@ Daily report drafted a standalone Slack original (social/2026-10-27/x-post.txt, 
 - Self-reply (/due-soon/ link): https://x.com/QuietlyChanged/status/2115104860412739946
 - R1 Dexerto Dollar General (27 replies ahead): https://x.com/QuietlyChanged/status/2115106488146333700
 - R2 MorePerfectUS: https://x.com/QuietlyChanged/status/2115107843590566112
-- R3 9to5mac iOS 27.2 age check: https://x.com/QuietlyChanged/status/2115109610105471061 (accidental duplicate 2115109665038008747 being deleted)
+- R3 9to5mac iOS 27.2 age check: https://x.com/QuietlyChanged/status/2115109610105471061 (accidental duplicate 2115109665038008747 deleted)
 - Followers 7. Old Gmail pin at 9,243 impressions / 315 bookmarks / 23 reposts.
 - Follow-up: /due-soon/ lists Fitbit Oct 30; Google dev page now says old API shuts off Nov 2.
