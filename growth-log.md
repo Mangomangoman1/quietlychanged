@@ -591,3 +591,10 @@ Find: Xero Terms of Use, US arbitration terms and privacy notice updated Oct 26,
 
 Shipped: article in reports/2026-10-27-changes.json (commit 05220c6), Vercel dpl_2r2UbXxhk4VXrX13S7joSNRv5X9L live 200, SEO 151 to 152 none lost, IndexNow 200. Added Xero US terms and privacy to services.json with baselines in snapshots/xero/. X post (273 chars, logo + clause quote + 1-year graphic) in social/2026-10-27/deepdive/, handed to the parent.
 
+
+## 2026-10-27: distribution session (Xero ID + face-scan verification, US arbitration, current customers Dec 28)
+**Pick:** today's deep dive, Xero. It has a near deadline (Dec 28 for existing customers), no news coverage (WebSearch ~3:05 PM MT found only Xero's pages and Rewindex), and fits two clear beats: digital ID/biometrics and accounting tech. California SB 122 was pitched yesterday, so it wasn't re-pitched.
+- Re-verified ~3:05 PM MT (curl, exact strings): Terms of Use s.12 "biometric facial scan", s.31 "(including negligence)", "from 28 December 2026 for current customers"; arbitration terms "within one year", "Both sides commit to showing up to that meeting personally", confidentiality, batching; privacy notice "facial recognition templates" ... "through your login". No article change needed (the article already quotes all three sources).
+**Drafts handed to parent** (social/2026-10-27/distribution-drafts.md): email to Biometric Update news desk (news@biometricupdate.com, from their editorial page and media kit); email to Chris Gaetano, Accounting Today technology editor (Chris.Gaetano@arizent.com, from their contact page); Bluesky post with the face-scan clause image and a link self-reply; r/xero link post to Xero's terms with a primary-links-only first comment (Reddit blocked the rules fetch from the box, so read the rules before posting).
+- Skipped: X (Xero original held for Oct 28 AM), HN (per Samuel), r/smallbusiness and r/Bookkeeping.
+**Next:** if Biometric Update or Accounting Today covers it, add the link to the article. Around Dec 21, post a "one week until Xero's new terms apply" reminder.
