@@ -1,0 +1,94 @@
+[
+ {
+  "service": "Slack",
+  "page": "pricing",
+  "headline": "Slack drops \"24/7 support\" from its plan table; the free support tier now targets a 2-business-day reply",
+  "tldr": "Slack's pricing page no longer lists 24/7 support with a 4-hour first response. The free Standard Success Plan targets a 2-business-day case reply; faster help is a paid add-on.",
+  "impact": 2,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "24/7 support with 4-hr. first response time",
+    "after": "Free, always-on resources and essential support — live help via Help Agent and chat, with 2-business-day target case response.",
+    "label": "Slack pricing · Support row",
+    "note": "A 4-hour first response becomes a 2-business-day target on the free tier.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "Premier Success Plan Personalized programs, expert guidance, and expedited support — live help via Help Agent, chat, and phone, with 24/7/365 1-hour target response for business-stopping issues. Available for purchases made via sales rep only.",
+    "label": "Slack pricing · Success Plans",
+    "note": "Round-the-clock help now sits in add-ons sold through sales reps.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If your team relies on fast Slack support, ask your account rep which Success Plan your contract includes",
+   "Check whether your renewal quote adds a Premier or Signature Success Plan add-on"
+  ],
+  "what": "Slack rewrote the support section of its pricing page. The plan comparison used to have a \"Support\" row headed \"Access to customer support\" with the entries \"24/7 support\", \"24/7 support with 4-hr. first response time\" and \"24/7 priority with 4-hr. first response time\". That row is gone. In its place is a \"Success Plans\" section with three tiers.\n\nChange 1: the free tier. The \"Standard Success Plan\" is described as \"Free, always-on resources and essential support — live help via Help Agent and chat, with 2-business-day target case response.\" Help Agent is Slack's automated assistant. Nothing on the page now promises a 4-hour first response by default.\n\nChange 2: faster support costs extra. The \"Premier Success Plan\" offers \"live help via Help Agent, chat, and phone, with 24/7/365 1-hour target response for business-stopping issues,\" and the \"Signature Success Plan\" adds \"A designated Customer Success Manager\" and \"24/7/365 15-minute target response for business-stopping issues.\" Both are marked \"Available for purchases made via sales rep only\" and the table lists them as \"Add-on\".\n\nWhat stays the same: plan prices shown on the page didn't change in this edit. (The Enterprise+ price on the page alternates between $45 per user a month and \"Contact sales for pricing\", which we treat as noise.)\n\nWhat we can't tell from the page: which paid plans include which support level in existing contracts. The page doesn't say whether customers who bought under the old table keep 4-hour response times until renewal.",
+  "who": "Teams on paid Slack plans (Pro, Business+, Enterprise) who depend on Slack's customer support, especially admins who counted on 24/7 help with a 4-hour first response.",
+  "url": "https://slack.com/pricing"
+ },
+ {
+  "service": "1Password",
+  "page": "terms",
+  "headline": "1Password's business terms add paid Professional Services and drop the right to cancel if setup fails",
+  "tldr": "1Password's business subscription terms now cover paid setup and training services. A clause letting customers terminate if 1Password couldn't finish setting up the service was removed.",
+  "impact": 1,
+  "themes": [],
+  "redline": [
+   {
+    "before": "If the Parties agree that 1Password is unable to complete the setup of the Services as originally agreed by the Parties under this Agreement and related Order Form, then Customer may terminate this Agreement upon written notice to 1Password.",
+    "after": "",
+    "label": "Subscription Terms · 9.2 Termination for Cause",
+    "note": "The setup-failure exit and the promise to fix setup are both gone.",
+    "src": "raw"
+   },
+   {
+    "before": "1Password will provide standard support services as provided on the website at",
+    "after": "1Password makes web-based support resources and self-guided onboarding materials available through its support portal at",
+    "label": "Subscription Terms · 2.2 Support Services",
+    "note": "Included support is now described as self-serve resources.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you're a 1Password Teams or Business admin buying onboarding help, get its scope in an Order Form or Statement of Work",
+   "Note that Professional Services don't auto-renew and need an active subscription"
+  ],
+  "what": "1Password updated its Subscription Terms of Service, which apply to Teams and Business customers. The change log entry reads: \"Added language about our Professional Services launch.\"\n\nChange 1: paid Professional Services. New definitions cover \"implementation, configuration, onboarding, training, and related professional services, excluding web-based support and self-guided onboarding resources,\" sold as standard \"Service Packages\" or as \"Custom Services\" under a Statement of Work. New section 2.6 says they \"are not included in the subscription\" and \"Customer must maintain an active subscription to the Services in order to receive Professional Services.\" Section 9.1 adds that \"purchases of Professional Services do not automatically renew.\"\n\nChange 2: included support is described as self-serve. Section 2.2 used to say \"1Password will provide standard support services.\" It now says 1Password \"makes web-based support resources and self-guided onboarding materials available through its support portal,\" and that these \"do not constitute Professional Services.\"\n\nChange 3: the setup-failure exit is gone. Section 9.2 used to say that if a customer was unhappy with \"1Password's implementation services or setup of the Services,\" 1Password would \"use commercially reasonable efforts to correct\" it, and if it couldn't complete setup as agreed, \"Customer may terminate this Agreement upon written notice to 1Password.\" That whole passage was removed. Termination for an uncured material breach (30 days' notice) or insolvency remains.\n\nOther changes: the order of precedence was rewritten so the Professional Services Terms govern those services, and the referenced \"Data Protection Agreement\" is now called the \"Data Processing Agreement.\" The published text still contains placeholders: the Professional Services Addendum is \"available at [PSA URL]\" and the Service Package Catalog is \"accessible at [LINK].\"",
+  "who": "Businesses on 1Password Teams or Business plans, especially ones buying onboarding or setup help. Personal and Family users aren't covered by these terms.",
+  "url": "https://1password.com/legal/terms-of-service"
+ },
+ {
+  "service": "Notion",
+  "page": "pricing",
+  "headline": "Notion's pricing page stops saying \"unlimited\" file uploads, listing \"Up to 5 GB\" on paid plans",
+  "tldr": "Notion's pricing table now lists paid-plan file uploads as \"Up to 5 GB\" instead of \"Unlimited\", and drops \"unlimited\" wording from several other rows.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "Upgrade to a paid plan for unlimited file uploads with a ~5GB max per file.",
+    "after": "Upgrade to a paid plan to upload files up to 5 GB each.",
+    "label": "Notion pricing · File uploads",
+    "note": "The 5 GB per-file cap was already there; the word \"unlimited\" is what's gone.",
+    "src": "raw"
+   },
+   {
+    "before": "Publish an unlimited number of pages to the web.",
+    "after": "Share your pages on the web.",
+    "label": "Notion pricing · Web publishing",
+    "src": "raw"
+   }
+  ],
+  "what": "Notion edited the plan comparison table on its pricing page, removing the word \"unlimited\" in several places.\n\nChange 1: file uploads. The paid-plan cells changed from \"Unlimited\" to \"Up to 5 GB\", and the explainer went from \"Upgrade to a paid plan for unlimited file uploads with a ~5GB max per file\" to \"Upgrade to a paid plan to upload files up to 5 GB each.\" The Free plan stays at \"Up to 5 MB\". The per-file size cap was already stated, so this mostly drops the promise of an unlimited number of uploads from the wording.\n\nChange 2: other rows. Web publishing changed from \"Publish an unlimited number of pages to the web\" and \"Unlimited published pages\" to \"Share your pages on the web\" and \"Published pages\". Database properties went from \"Add unlimited database properties and filters\" to \"Add database properties and filters\". Version history on the top plan went from \"Unlimited\" to \"Custom\". The text \"Unlimited\" was removed from the paid-plan cells for pages and blocks, external guests (\"Unlimited guests\") and charts.\n\nWhat we can't tell: whether the paid-plan cells that lost their text now show a checkmark or another value, or whether Notion actually changed any limits. The page doesn't announce new caps; Notion's help pages are the place to check.",
+  "who": "People comparing or paying for Notion's paid plans, especially teams that rely on large file uploads, many published pages or many guests.",
+  "url": "https://www.notion.com/pricing"
+ }
+]

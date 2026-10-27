@@ -1,0 +1,806 @@
+{
+ "date": "2026-10-27",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ],
+  [
+   "AT&T",
+   "terms",
+   "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  ],
+  [
+   "Cricket Wireless",
+   "terms",
+   "https://www.cricketwireless.com/terms"
+  ],
+  [
+   "California",
+   "terms",
+   "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  ]
+ ],
+ "failed": [
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Anthropic Claude",
+   "page": "pricing",
+   "url": "https://www.anthropic.com/pricing",
+   "diff": "@@ -590,3 +590,3 @@\n varies by model\n-Extra usage\n+Usage credits\n Yes",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Slack",
+   "page": "pricing",
+   "url": "https://slack.com/pricing",
+   "diff": "@@ -100,5 +100,3 @@\n Maximize performance on the most comprehensive work OS\n-$45\n-USD\n-per user / month, when paying annually\n+Contact sales for pricing\n Contact Sales\n@@ -318,8 +316,15 @@\n Enterprise+ members can flag messages for review. Owners and admins can act and view flag history.\n-Support\n-Access to customer support\n-We\u2019re here to help you get the most out of Slack, with support for your team every step of the way.\n-24/7 support\n-24/7 support with 4-hr. first response time\n-24/7 priority with 4-hr. first response time\n+Success Plans\n+Standard Success Plan\n+Free, always-on resources and essential support \u2014 live help via Help Agent and chat, with 2-business-day target case response.\n+Premier Success Plan\n+Personalized programs, expert guidance, and expedited support \u2014 live help via Help Agent, chat, and phone, with 24/7/365 1-hour target response for business-stopping issues.\n+Available for purchases made via sales rep only.\n+Add-on\n+Signature Success Plan\n+A designated Customer Success Manager, specialized programs, and our fastest support \u2014 live help via Help Agent, chat, phone, and an emergency hotline, with 24/7/365 15-minute target response for business-stopping issues.\n+Available for purchases made via sales rep only.\n+Add-on\n+Add-on\n+Add-on\n Compare all features\n@@ -485,8 +490,15 @@\n Enterprise+ members can flag messages for review. Owners and admins can act and view flag history.\n-Support\n-Access to customer support\n-We\u2019re here to help you get the most out of Slack, with support for your team every step of the way.\n-24/7 support\n-24/7 support with 4-hr. first response time\n-24/7 priority with 4-hr. first response time\n+Success Plans\n+Standard Success Plan\n+Free, always-on resources and essential support \u2014 live help via Help Agent and chat, with 2-business-day target case response.\n+Premier Success Plan\n+Personalized programs, expert guidance, and expedited support \u2014 live help via Help Agent, chat, and phone, with 24/7/365 1-hour target response for business-stopping issues.\n+Available for purchases made via sales rep only.\n+Add-on\n+Signature Success Plan\n+A designated Customer Success Manager, specialized programs, and our fastest support \u2014 live help via Help Agent, chat, phone, and an emergency hotline, with 24/7/365 15-minute target response for business-stopping issues.\n+Available for purchases made via sales rep only.\n+Add-on\n+Add-on\n+Add-on\n Leading the way in enterprise security",
+   "added": 27,
+   "removed": 15
+  },
+  {
+   "service": "Notion",
+   "page": "pricing",
+   "url": "https://www.notion.com/pricing",
+   "diff": "@@ -113,13 +113,9 @@\n Pages & blocks\n-Unlimited for individuals\n-limited for 2+ members\n-Unlimited\n-Unlimited\n-Unlimited\n-On the Free plan, you can upload images, videos and file attachments up to 5MB each. Upgrade to a paid plan for unlimited file uploads with a ~5GB max per file.\n+Limited for 2+ members\n+On the Free plan, you can upload images, videos and file attachments up to 5 MB each. Upgrade to a paid plan to upload files up to 5 GB each.\n File uploads\n Up to 5 MB\n-Unlimited\n-Unlimited\n-Unlimited\n+Up to 5 GB\n+Up to 5 GB\n+Up to 5 GB\n Restore your page to a previous version.\n@@ -129,3 +125,3 @@\n 90 days\n-Unlimited\n+Custom\n Add a verified badge to pages that are up to date. Appears in search results and AI citations.\n@@ -141,5 +137,2 @@\n External guest limit\n-Unlimited guests\n-Unlimited guests\n-Unlimited guests\n Create dedicated areas for folks to work together, without creating information silos. People can join the teamspaces that interest them, and leave the ones that don\u2019t.\n@@ -184,3 +177,3 @@\n Subtasks and dependencies\n-Add unlimited database properties and filters to organize information.\n+Add database properties and filters to organize information.\n Custom properties and filtering\n@@ -188,5 +181,2 @@\n Charts\n-Unlimited\n-Unlimited\n-Unlimited\n Capture, organize, and act on responses right inside Notion.\n@@ -231,4 +221,4 @@\n Web publishing\n-Publish an unlimited number of pages to the web.\n-Unlimited published pages\n+Share your pages on the web.\n+Published pages\n Select a custom notion.site domain for your published pages.",
+   "added": 9,
+   "removed": 19
+  },
+  {
+   "service": "1Password",
+   "page": "terms",
+   "url": "https://1password.com/legal/terms-of-service",
+   "diff": "@@ -89,20 +89,26 @@\n (i) Agreement\n-means the Order Form and this Subscription Agreement and any other documents, such as, the 1Password privacy policy or the 1Password Data Protection Agreement attached hereto by reference.\n+means the Order Form and this Subscription Agreement and any other documents, such as, the 1Password privacy policy or the 1Password Data Processing Agreement attached hereto by reference, and, where applicable, the applicable Professional Services Terms and any Statement of Work.\n (ii) Business Customers\n means Customers subscribed to 1Password Teams or Business accounts.\n-(iii) Customer\n+(iii) Custom Services\n+means Professional Services that are not described in a Service Package and that are instead described in a Statement of Work.\n+(iv) Customer\n means all Customer's employees, contractors, agents, Customer\u2019s affiliates, or any person who is an authorized user of the Services under this Subscription Agreement.\n-(iv) Customer Data\n+(v) Customer Data\n means all electronic data or information submitted by Customer, Users and Partners via the Services.\n-(v) Effective Date\n+(vi) Deliverable\n+means any work product or output expressly identified as a deliverable to be provided to Customer in the applicable Service Package description or Statement of Work.\n+(vii) Effective Date\n means the date that appears on the Order Form.\n-(vi) Employees\n+(viii) Employees\n means Customer's employees, consultants, contractors and agents.\n-(vii) Malicious Code\n+(ix) Malicious Code\n means viruses, worms, time bombs, Trojan horses and other harmful or malicious code, files, scripts, agents or programs.\n-(viii) Order Form\n-means the invoice or order form, as applicable, agreed to by the Parties in which this Subscription Agreement is referenced. The Order Form will include some or all of the following information: the name of Customer, Customer's address and billing information, the length of the Subscription Term, the fees due from Customer including applicable taxes, the Subscription Tier selected by Customer, and any professional services and support being purchased.\n-(ix) Price Quote\n+(x) Number of Users\n+means the number of members of subscription Services that Customer or its Users are authorized to use or access as indicated in the applicable Order Form or pursuant to Section 3.1.\n+(xi) Order Form\n+means the invoice or order form, as applicable, agreed to by the Parties in which this Subscription Agreement is referenced. The Order Form will include some or all of the following information: the name of Customer, Customer's address and billing information, the length of the Subscription Term, the fees due from Customer including applicable taxes, the Subscription Tier selected by Customer, and any Professional Services being purchased.\n+(xii) Price Quote\n means the price quote included in the Order Form, and excludes applicable taxes.\n-(x) Product Specific\n+(xiii) Product Specific\n Terms\n@@ -110,9 +116,17 @@\n https://1Password.com/legal-center\n-(xi) Services\n-means subscription services that 1Password provides, including all related or underlying technology, code, know-how, logos, and templates, anything delivered as part of support or other services, and any updates, modifications or derivative works of any of the foregoing.\n-(xii) Subscription Term\n+(xiv) Professional Services\n+means implementation, configuration, onboarding, training, and related professional services, excluding web-based support and self-guided onboarding resources, purchased by Customer under an Order Form.\n+(xv) Professional Services Terms\n+means (a) the 1Password Professional Services Addendum, available at [PSA URL]; or (b) where the parties have separately executed a written agreement that expressly governs the provision of Professional Services by 1Password, that agreement.\n+(xvi) Service Package\n+means a standardized Professional Services offering described in the Service Package Catalog and purchased by Customer under an Order Form.\n+(xvii) Service Package Catalog\n+means 1Password's published catalog of standard Service Packages accessible at [LINK].\n+(xviii) Services\n+means subscription services that 1Password provides, including all related or underlying technology, code, know-how, logos, and templates, web-based support and self-guided onboarding resources, and any updates, modifications or derivative works of any of the foregoing. For the avoidance of doubt, Services does not include Professional Services.\n+(xix) Statement of Work\n+means a written document, separate from the Order Form, describing Custom Services to be provided under the applicable Professional Services Terms, executed by authorized representatives of both Parties.\n+(xx) Subscription Term\n means the period beginning on the Effective Date and continuing until the end of the subscription of Services as specified in the Order Form, unless terminated earlier or renewed or extended as provided in this Agreement.\n-(xiii) Number of Users\n-means the number of members of subscription Services that Customer or its Users are authorized to use or access as indicated in the applicable Order Form or pursuant to Section 3.1.\n-(xiv) Users\n+(xxi) Users\n means individuals who are authorized by Customer to access and use the Services on behalf of Customer, and who have been supplied user identifications and login credentials by Customer. Users may include employees, consultants, contractors, agents or any authorized users of Customer.\n@@ -123,4 +137,5 @@\n 2.2 Support Services.\n-1Password will provide standard support services as provided on the website at\n+1Password makes web-based support resources and self-guided onboarding materials available through its support portal at\n https://support.1password.com/\n+. These resources are included in the subscription and do not constitute Professional Services. Professional Services are available separately pursuant to an Order Form or, for Custom Services, a Statement of Work, and are governed by the applicable Professional Services Terms.\n 2.3 Customer Responsibilities.\n@@ -134,3 +149,5 @@\n 2.5 Additional Services.\n-To the extent that Customer requires any additional products or services, such as customizations, program modifications or additions, professional services or professional consulting services, Customer may order such additional products and/or services pursuant to separate Order Form or written statement of work mutually agreed to by the Parties. Additional services (including, without limitation, professional services or professional consulting services) may be provided by 1Password upon the mutual agreement of the Parties for an additional fees and pursuant to a separate Order Form and a statement of work.\n+To the extent that Customer requires additional products or services outside the scope of the subscription Services, Customer may order such products or services pursuant to a separate Order Form or, where applicable, a Statement of Work, mutually agreed to by the Parties.\n+2.6 Professional Services.\n+1Password may provide Professional Services to Customer pursuant to a separate Order Form and, for Custom Services, a Statement of Work. Professional Services are not included in the subscription and are governed by the applicable Professional Services Terms. Customer must maintain an active subscription to the Services in order to receive Professional Services.\n 3. FEES AND PAYMENT\n@@ -146,4 +163,4 @@\n . A Customer who purchases Subscription by way of an Order Form may at any time request additional Users during the Subscription Term. 1Password shall, on quarterly basis, reconcile Customer\u2019s account for any additional Users. Fees associated with the additional Users shall be applicable from the Effective Date of a new Order Form for such additional Users and Fees shall be due payable within 30 days of the Effective Date. For the avoidance of doubt, all renewals shall be invoiced at the applicable number of Users in place at the conclusion of the prior Subscription Term.\n-3.2 Additional Services or Professional Services; Expenses.\n-Customer and 1Password may enter into a statement of work for additional services or professional services and any applicable expenses. The statement of work will include terms related to such additional services or professional services, or any expenses. A separate Order Form shall be agreed and executed between the Parties for such additional services or professional services, as applicable.\n+3.2 Professional Service Fees and Expenses.\n+Where Customer purchases Professional Services, the applicable fees and scope will be set out in an Order Form and, for Custom Services, a Statement of Work executed by authorized representatives of both Parties. Professional Services are governed by the applicable Professional Services Terms. Customer will reimburse 1Password for any expenses pre-approved in writing in connection with Professional Services, as set out in the applicable Order Form or Statement of Work.\n 3.3 Invoicing and Payment.\n@@ -162,3 +179,3 @@\n 4.2 Restrictions.\n-Customer shall not at any time, directly or indirectly, and shall not permit any User or Partner to (i) permit any third party to access or use the Service except as permitted herein or in an Order Form, (ii) copy, modify or create derivative works based on the Services or the Documentation, (ii) rent, lease, lend, sell, license, sublicense, publish, frame, mirror or otherwise distribute any part or content of the Services or Documentation, (iii) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any software component of the Services, in whole or in part, or (iv) access the Services in order to (a) build a competitive product or service, or (b) copy any content, features, functions or graphics of the Services.\n+Customer shall not at any time, directly or indirectly, and shall not permit any User or Partner to (i) permit any third party to access or use the Service except as permitted herein or in an Order Form or applicable Statement of Work, (ii) copy, modify or create derivative works based on the Services or the Documentation, (iii) rent, lease, lend, sell, license, sublicense, publish, frame, mirror or otherwise distribute any part or content of the Services or Documentation, (iv) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any software component of the Services, in whole or in part, or (v) access the Services in order to (a) build a competitive product or service, or (b) copy any content, features, functions or graphics of the Services.\n 4.3 License to Feedback.\n@@ -213,5 +230,5 @@\n 9.1 Term of Agreement.\n-Subject to Section 9.2 below, this Agreement commences on the Effective Date and continues until the expiration of the Subscription Term specified in the Order Form. Except if the Parties have agreed and stated otherwise in an Order Form, this Agreement and the Order Form shall automatically renew. The Parties may renew an Order Form for changes to the pricing, the number of Users, change in Services from Teams to Business accounts etc.\n+Subject to Section 9.2 below, this Agreement commences on the Effective Date and continues until the expiration of the Subscription Term specified in the Order Form. Except if the Parties have agreed and stated otherwise in an Order Form, this Agreement and the Order Form shall automatically renew. For the avoidance of doubt, purchases of Professional Services do not automatically renew under this Section. The Parties may renew an Order Form for changes to the pricing, the number of Users, change in Services from Teams to Business accounts etc.\n 9.2 Termination for Cause.\n-A Party may terminate this Agreement for cause (i) upon thirty (30) days' written notice to the other Party of a material breach if such breach remains uncured at the expiration of such period, or (ii) if the other Party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors. Notwithstanding the foregoing, if at any time Customer is not satisfied with 1Password's implementation services or setup of the Services or otherwise believes that 1Password has failed to satisfactorily complete the setup of the Services, then Customer's sole remedy shall be to notify 1Password of the failure or its dissatisfaction and 1Password shall then use commercially reasonable efforts to correct the implementation services or to properly setup the Services. If the Parties agree that 1Password is unable to complete the setup of the Services as originally agreed by the Parties under this Agreement and related Order Form, then Customer may terminate this Agreement upon written notice to 1Password.\n+A Party may terminate this Agreement for cause (i) upon thirty (30) days' written notice to the other Party of a material breach if such breach remains uncured at the expiration of such period, or (ii) if the other Party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors.\n 9.3 Refund or Payment upon Termination.\n@@ -247,6 +264,8 @@\n 11.9 Entire Agreement.\n-This Agreement, including the 1Password Privacy Policy, the Data Processing Agreement constitutes the entire agreement between the Parties and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing that specifically references this Agreement and is signed by the Party against whom the modification, amendment or waiver is to be asserted. Notwithstanding any language to the contrary therein, no terms or conditions stated in any Customer purchase order or in any other Customer order documentation shall be incorporated into or form any part of this Agreement, and all such terms or conditions shall be null and void.\n+This Agreement, including the 1Password Privacy Policy, the Data Processing Agreement, and, where applicable, the applicable Professional Services Terms, Service Package description, and any Statement of Work constitutes the entire agreement between the Parties and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing that specifically references this Agreement and is signed by the Party against whom the modification, amendment or waiver is to be asserted. Notwithstanding any language to the contrary therein, no terms or conditions stated in any Customer purchase order or in any other Customer order documentation shall be incorporated into or form any part of this Agreement, and all such terms or conditions shall be null and void.\n 11.10 Order of Precedence.\n-To the extent of any conflict, ambiguity or inconsistency between the provisions in the body of this Agreement and absent an express statement of exclusion of a particular provision of another document or an express statement that one provision in another document takes precedence over another or applies notwithstanding the other (in which case, the express statement of exclusion, precedence or application shall first be given effect), the terms of such documents shall prevail in the following descending order of precedence: (i) the Data Processing Agreement, (ii) the Order Form with respect to the terms pertaining to the Subscription Term, the Effective Date, Number of Users, billing, pricing, Services description and choice of Governing Law, and (iii) these Subscription Terms of Service.\n+In the event of a conflict between the documents governing this Agreement, they shall prevail in the following descending order of precedence: (i) the Data Processing Agreement, for data protection matters; (ii) the applicable Professional Services Terms and any related documents (including the applicable Order Form, Statement of Work, or Service Package description for those services), for matters relating to Professional Services, in the order of precedence set out in the applicable Professional Services Terms; (iii) the Order Form, for subscription pricing, the Subscription Term, the Effective Date, Number of Users, billing, Services description, Service dates and choice of Governing Law; and (iv) these Subscription Terms of Service, for all other matters.\n Change Log\n+<DATE>\n+Added language about our Professional Services launch.\n <DATE>",
+   "added": 44,
+   "removed": 25
+  },
+  {
+   "service": "Cloudflare",
+   "page": "privacy",
+   "url": "https://www.cloudflare.com/privacypolicy/",
+   "diff": "@@ -31,3 +31,3 @@\n We have updated our <DATE> Privacy Policy to include our new Addendum applicable to users in South Korea\n-This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u0000\u0000\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n+This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n CLOUDFLARE\u2019S PROMISE",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Squarespace",
+   "page": "pricing",
+   "url": "https://www.squarespace.com/pricing",
+   "diff": "@@ -3,4 +3,10 @@\n Pay annually to save up to 36%.\n+All plans include:\n+Built-in AI tools\n+Secure hosting\n+Unlimited bandwidth\n+Selling functionality\n+Industry-leading design\n Basic\n-Create your own custom website and get discovered online.\n+Publish your personal or business website with the essentials.\n $25\n@@ -11,28 +17,15 @@\n Get started\n-Build your website\n-Beautiful templates and powerful tools for any website\n-Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n-Built-in AI Tools\n-Generate professional content with powerful AI tools built right into Squarespace\n-Up to 2 contributors\n-The number of contributors allowed on your website.\n-Accept payments\n-Credit card rates starting at\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n+*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n+2 contributors\n+Built-in SEO & mobile-optimization\n+Card rates from\n 2.9% + $0.30\n-Online store transaction fee of\n-Applied when selling online products, services, or donations. Upgrade your plan for 0% transaction fees.\n-Digital Content and Memberships transaction fee of\n-Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n-Sell products and services\n-Sell products and services\n-There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n-Send invoices for free\n-Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n-Sell content and memberships\n-Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n+AI credits\n+10 (one-time)\n+2% online store transaction fee\n Core\n Recommended\n-Unlock our full array of business features as you grow your business.\n+Start selling with a foundation for service businesses.\n $39\n@@ -43,42 +36,18 @@\n Get started\n-Build your website\n-Beautiful templates and powerful tools for any website\n-Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n-Built-in AI Tools\n-Generate professional content with powerful AI tools built right into Squarespace\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n+*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n Unlimited contributors\n-The number of contributors allowed on your website.\n-Advanced website analytics\n-All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n-Professional email from Google Workspace**\n-If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n-**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n-Accept payments\n-Credit card rates starting at\n+Built-in SEO & mobile-optimization\n+Free year of professional email from Google Workspace\n+No fees on online store transactions\n+Card rates from\n 2.9% + $0.30\n-Online store transaction fee of\n-Applied when selling online products, services, or donations.\n-Digital Content and Memberships transaction fee of\n-Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n-Sell products and services\n-Sell products and services\n-There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n-Send invoices for free\n-Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n-Sell content and memberships\n-Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n-Professional shipping and tax services\n-Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.15% (maximum $0.99) per transaction.\n-Sales funnel analytics\n-Access to ecommerce analytics including form and button conversion insights.\n-API integrations for advanced sales functionality\n-Build custom integrations to third party systems to handle your back office and ecommerce needs, from order fulfillment to inventory management and much more.\n-Basic functionality for selling in releases\n-Enable one-click checkout and set purchase limits on products and services.\n+AI credits\n+20 / mo\n+Advanced discount and promotion tools\n+Advanced lead capture tools\n+Automated taxes and shipping\n Plus\n-Enjoy\n-lower payment processing fees\n-as your business grows.\n+Power an expanding inventory and grow your revenue.\n $65\n@@ -89,42 +58,19 @@\n Get started\n-Build your website\n-Beautiful templates and powerful tools for any website\n-Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n-Built-in AI Tools\n-Generate professional content with powerful AI tools built right into Squarespace\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n+*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n Unlimited contributors\n-The number of contributors allowed on your website.\n-Advanced website analytics\n-All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n-Professional email from Google Workspace**\n-If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n-**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n-Accept payments\n-Credit card rates starting at\n+Built-in SEO & mobile-optimization\n+Free year of professional email from Google Workspace\n+No fees on online store transactions\n+Card rates from\n 2.7% + $0.30\n-Online store transaction fee of\n-Applied when selling online products, services, or donations.\n-Digital Content and Memberships transaction fee of\n-Build your business and your community with Courses, Memberships, and more. Upgrade your plan for lower transaction fees.\n-Sell products and services\n-Sell products and services\n-There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n-Send invoices for free\n-Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n-Sell content and memberships\n-Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n-Professional shipping and tax services\n-Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.10% (maximum $0.99) per transaction.\n-Sales funnel analytics\n-Access to ecommerce analytics including form and button conversion insights.\n-API integrations for advanced sales functionality\n-Build custom integrations to third party systems to handle your back office and ecommerce needs, from order fulfillment to inventory management and much more.\n-Advanced functionality for selling in releases\n-Enable one-click checkout, set purchase limits on products and services, and enable cart reservations and countdown timer.\n+AI credits\n+40 / mo\n+Advanced discount and promotion tools\n+Advanced lead capture tools\n+Automated taxes and shipping\n+Reserved cart & countdown timer\n Advanced\n-Maximize your revenue with our\n-lowest payment processing fees\n-and our most advanced commerce tools.\n+Scale with the lowest fees to optimize operations.\n $139\n@@ -135,38 +81,19 @@\n Get started\n-Build your website\n-Beautiful templates and powerful tools for any website\n-Squarespace offers beautiful templates designed to solve your business or personal goals.\n Free custom domain*\n-All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis. *The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n-Built-in AI Tools\n-Generate professional content with powerful AI tools built right into Squarespace\n+All Squarespace website plans purchased for an annual term include one (1) year of free domain registration on available domains on our cheapest pricing tier. Domains registered through this promotion will renew at our standard rate, plus applicable taxes, after the first year. Outside of this offer, you can attach unlimited domains to any website plan, on a monthly or yearly basis.\n+*The free domain must be registered within one year of the start of your eligible website subscription and there may only be one free domain per website.\n Unlimited contributors\n-The number of contributors allowed on your website.\n-Advanced website analytics\n-All website analytics plus additional conversion metrics to understand which areas of your site drive visitors to take actions.\n-Professional email from Google Workspace**\n-If you sign up for select plans and register or connect a domain, you'll receive one (1) professional Gmail and Google Workspace account, free for the first year. Additional users on your Google Workspace account will be billed at the standard rate. After the first year your Gmail and Google Workspace account will renew at the standard annual or monthly rate, plus applicable taxes, depending on which billing plan you choose.\n-**Offer is only valid for new Google Workspace accounts set up through Squarespace. Domains that have previously had or currently have a Google Workspace account cannot be used to redeem the offer. Offer must be redeemed within one year from purchase of the eligible plan.\n-Accept payments\n-Credit card rates starting at\n+Built-in SEO & mobile-optimization\n+Free year of professional email from Google Workspace\n+No fees on online store transactions\n+Card rates from\n 2.5% + $0.30\n-Online store transaction fee of\n-Applied when selling online products, services, or donations.\n-Digital Content and Memberships transaction fee of\n-Build your business and your community with Courses, Memberships, and more.\n-Sell products and services\n-Sell products and services\n-There's no limit to the number of products and services you can sell on your online store. Sell physical products, services, and digital products.\n-Send invoices for free\n-Accept payments from clients with a single click and maintain a consistent brand presence with a professional invoice that matches your brand identity, included for free on all plans.\n-Sell content and memberships\n-Sell content and memberships, including online courses, blogs, and video with a transaction fee.\n-Professional shipping and tax services\n-Buy and print shipping labels, get real-time carrier rates, and calculate shipping costs. Calculate tax rates in real-time for over 100 countries with automated taxes, for 0.05% (maximum $0.99) per transaction.\n-Sales funnel analytics",
+   "added": 55,
+   "removed": 128
+  },
+  {
+   "service": "PayPal",
+   "page": "privacy",
+   "url": "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "diff": "@@ -399,6 +399,6 @@\n DPO contact e-mail:\n-[email protected]\n+latamdpo@paypal.com\n Deputy Data Protection Officer: Fabiana Moreira Chaves\n Deputy DPO contact e-mail:\n-[email protected]\n+latamdpo@paypal.com\n Brunei\n@@ -467,3 +467,3 @@\n Address, telephone and e-mail: Regus Samsungdong Limited (World Trade Center), 27th, 30th Floor, Trade Tower, 511 Young Dong Street, Gangnam-gu, Seoul, South Korea 06164, (+82) 02 737 5775,\n-[email protected]\n+skrprivacy@paypal.com\n Malaysia\n@@ -876,3 +876,3 @@\n . For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email:\n-[email protected]\n+Aginfo@ag.nv.gov\n PayPal Privacy Statement",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "Venmo",
+   "page": "terms",
+   "url": "https://venmo.com/legal/us-user-agreement/",
+   "diff": "@@ -1,2 +1,13 @@\n Venmo Legal Agreements\n+Privacy Statement\n+User Agreement\n+Venmo Long Form Disclosure\n+Licenses\n+Consent\n+Helpful Information\n+Approved Business Account Addendum\n+Mastercard Cardholder Agreement\n+Venmo Mastercard Privacy Policy\n+Cryptocurrency Terms & Conditions\n+Open Source Attribution\n User Agreement",
+   "added": 11,
+   "removed": 0
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -27,3 +27,3 @@\n Accessibility\n-Choose how to listen\n+Choose the plan that's right for you\n Switch plans or cancel anytime.\n@@ -32,19 +32,20 @@\n Try for $0.00\n-Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.\n-Standard\n-Listen while subscribed\n-$8.99/mo after 30 days\n+Auto-renews at $8.99/mo after 30 days. Cancel anytime.\n+Standard 30-day free trial\n+$8.99/mo after free trial\n Try for $0.00\n Auto-renews at $14.95/mo after 30 days. Cancel anytime.\n-Premium\n-Keep your audiobooks\n-$14.95/mo after 30 days\n+Premium 30-day free trial\n+$14.95/mo after free trial\n Sign up for Premium Annual\n Auto-renews at $149.50/yr. Cancel anytime.\n+Premium\n 12 audiobooks\n-$149.50/year\n-Sign up for Premium Annual\n+$149.50 a year\n+Select this plan\n Auto-renews at $229.50/yr. Cancel anytime.\n-24 audiobooks\n-$229.50/year\n+Premium\n+12 creditos/a\u00f1o\n+$229.50/yr\n+Save 16%\n LIMITED TIME OFFER | $99 for a year of Premium",
+   "added": 13,
+   "removed": 12
+  },
+  {
+   "service": "Mailchimp",
+   "page": "pricing",
+   "url": "https://mailchimp.com/pricing/marketing/",
+   "diff": "@@ -64,2 +64,3 @@\n Then, starts at\n+$20\n /month\u2020\n@@ -95,3 +96,3 @@\n Phone & Priority Support\n-Popup Forms\n+Custom-Coded and Pre-built Email Templates\n Multivariate and A/B Testing",
+   "added": 2,
+   "removed": 1
+  },
+  {
+   "service": "Todoist",
+   "page": "pricing",
+   "url": "https://todoist.com/pricing",
+   "diff": "@@ -90,5 +90,17 @@\n Due dates & times\n+Available\n+Available\n+Available\n Priority levels\n+Available\n+Available\n+Available\n Sub-tasks\n+Available\n+Available\n+Available\n Task reminders\n+Available\n+Available\n+Available\n File uploads\n@@ -102,3 +114,7 @@\n List layout\n+Available\n+Available\n+Available\n Board layout\n+Available\n In label, filter, and personal project views\n@@ -106,2 +122,5 @@\n Calendar layout\n+Not available\n+Available\n+Available\n Custom filters\n@@ -115,20 +134,53 @@\n Comments\n+Available\n+Available\n+Available\n Assigned tasks\n+Available\n+Available\n+Available\n A team workspace\n+Not available\n+Not available\n+Available\n Team activity\n+Not available\n+Not available\n+Available\n Team projects\n+Not available\n+Not available\n Up to 500\n People per team project\n+Not available\n+Not available\n 250\n Project templates\n+Available\n+Available\n Shared templates, too\n Custom team filters\n+Not available\n+Not available\n 150\n Team members\n+Not available\n+Not available\n 1,000\n Team guests\n+Not available\n+Not available\n 1,000\n Team project folders\n+Not available\n+Not available\n+Available\n Team roles & permissions\n+Not available\n+Not available\n+Available\n Centralized team billing\n+Not available\n+Not available\n+Available\n Todoist Assist\n@@ -138,4 +190,13 @@\n Filter Assist\n+Available\n+Available\n+Available\n Task Assist\n+Not available\n+Available\n+Available\n Email Assist\n+Not available\n+Available\n+Available\n Ramble\n@@ -149,9 +210,33 @@\n Recurring due dates\n+Available\n+Available\n+Available\n Labels\n+Available\n+Available\n+Available\n Task descriptions\n+Available\n+Available\n+Available\n Productivity visualizations\n+Available\n+Available\n+Available\n 90+ integrations\n+Available\n+Available\n+Available\n Custom Reminders\n+Not available\n+Available\n+Available\n Task duration\n+Not available\n+Available\n+Available\n Auto backups\n+Not available\n+Available\n+Available\n Reporting history\n@@ -163 +248,4 @@\n Now SOC2 Type II compliant\n+Available\n+Available\n+Available",
+   "added": 88,
+   "removed": 0
+  },
+  {
+   "service": "Shein",
+   "page": "terms",
+   "url": "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "diff": "@@ -220,3 +220,3 @@\n For Program support or assistance, text the keyword HELP to the short code or number from which you currently are receiving our text messages, respond with the keyword HELP to any message you receive from our Program, or email\n-[email protected]\n+us_legal@sheingroup.com\n 9.4 Opting Out.\n@@ -284,3 +284,3 @@\n ), which shall occur within 45 days after the other party receives such Notice, unless an extension is mutually agreed upon by the parties. Notice to SHEIN that you intend to initiate an Informal Dispute Resolution Conference should be sent by email to\n-[email protected]\n+us_legal@sheingroup.com\n or regular mail to Paracorp, 2140 S. DuPont Hwy Camden, DE 19934. Notice to you will be sent to the address or email address associated with your account or to your publicly available address or email address if you do not have an account with us. The Notice must include: (1) your name, telephone number, mailing address, e\u2010mail address associated with your account (if you have one); (2) the name, telephone number, mailing address and e\u2010mail address of your counsel, if any; and (3) a description of your Dispute. The Informal Dispute Resolution Conference shall be individualized such that a separate conference must be held each time either party initiates a Dispute, even if the same law firm or group of law firms represents multiple users in similar cases, unless all parties agree; multiple individuals initiating a Dispute cannot participate in the same Informal Dispute Resolution Conference unless all parties agree. Engaging in the Informal Dispute Resolution Conference is a condition precedent and requirement that must be fulfilled before commencing arbitration. The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the Informal Dispute Resolution Conference process required by this section.\n@@ -301,5 +301,3 @@\n 13.9 30-Day Right to Opt Out.\n-You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out to\n-[email protected]\n-within thirty (30) days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, the email address you used to set up your account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us. If the Dispute is not covered by any arbitration agreement between you and us, it shall proceed before the courts indicated in paragraph 13.11 below.\n+You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out to us_legal@sheingroup.com within thirty (30) days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, the email address you used to set up your account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us. If the Dispute is not covered by any arbitration agreement between you and us, it shall proceed before the courts indicated in paragraph 13.11 below.\n 13.10 Invalidity, Expiration.\n@@ -338,5 +336,3 @@\n 15.1 Notice Requirements\n-As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe that material located on or linked to by the Services violates your copyright, trademark, or other intellectual property rights, please submit your complaint through our online intellectual property complaint portal. Alternatively, you may send a notice of claimed infringement to\n-[email protected]\n-with the subject \u201cTakedown Request.\u201d Any such notice must include the following information:\n+As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe that material located on or linked to by the Services violates your copyright, trademark, or other intellectual property rights, please submit your complaint through our online intellectual property complaint portal. Alternatively, you may send a notice of claimed infringement to us_legal@sheingroup.com with the subject \u201cTakedown Request.\u201d Any such notice must include the following information:\n A physical or electronic signature of a person authorized to act on behalf of the owner of the intellectual property right that has been allegedly infringed.\n@@ -364,5 +360,3 @@\n 16. CONTACT US\n-We welcome your questions and comments about our privacy practices or these Terms. You may contact us anytime via email at\n-[email protected]\n-. Customer service inquiries should be made through our\n+We welcome your questions and comments about our privacy practices or these Terms. You may contact us anytime via email at us_legal@sheingroup.com. Customer service inquiries should be made through our\n Customer Service Platform",
+   "added": 5,
+   "removed": 11
+  }
+ ]
+}
