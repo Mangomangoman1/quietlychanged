@@ -7,7 +7,7 @@ X-WR-CALNAME:QuietlyChanged deadlines
 BEGIN:VEVENT
 UID:2026-10-15-bank-of-america-narrows-error-and-fraud-protection-for-link
  ed-external-account@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Bank of America: Took effect
@@ -27,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-verizon-regulatory-charge-rises-24-to-0-26-per-voice-line-o
  n-nov-1@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Verizon: Charge rises
@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-u-s-dot-airline-delay-category-rule-pushed-to-feb-1-2027-fl
  ights-from-jan-1@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:U.S. DOT: Rule takes effect
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-robinhood-auto-enrolls-accounts-in-class-action-claims-keep
  s-20-of-payouts@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Robinhood: Auto-enrollment starts
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-doordash-arbitration-now-covers-vendors-like-stripe-robot-d
  eliveries-added@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:DoorDash: Took effect
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-google-gmail-photos-and-drive-data-you-share-with-search-or
  -gemini-can-now-shap@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Google: Took effect
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-oura-app-locks-nov-4-unless-you-accept-new-arbitration-term
  s@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Oura: Accept in the app by
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-rocket-money-bill-negotiation-moves-to-15-month-premium-plu
  s-on-nov-2@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Rocket Money: Moves to Premium+
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-evernote-contract-moves-to-italian-affiliate-dec-1-brazil-u
  sers-lose-local-law@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Evernote: Takes effect for existing users
@@ -181,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-roblox-from-nov-1-roblox-says-it-is-merchant-of-record-for-
  most-platform-purcha@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Roblox: Takes effect
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-usps-senders-now-billed-for-unpaid-foreign-duties-on-packag
  es-even-if-disputed@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:USPS: Comments close
@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-spotify-premium-free-trial-doubled-to-2-months-for-new-user
  s-until-november-1@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Spotify: Offer ends
@@ -240,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-pinterest-nov-12-terms-mass-claims-go-to-one-arbitrator-ads
  -follow-you-to-your@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Pinterest: New terms take effect
@@ -260,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-google-play-nov-17-terms-report-broken-purchases-to-the-dev
  eloper-not-google-pl@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Google Play: New terms take effect
@@ -280,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-ikea-gift-registry-shuts-down-after-dec-27-2026-and-saved-r
  egistries-will-be-de@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:IKEA: Registry shuts down
@@ -299,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-shein-new-oct-21-terms-call-customer-support-a-courtesy-not
  -an-obligation-when@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Shein: Took effect
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-ipl-ipl-org-shuts-down-nov-9-2026-logins-end-uploads-and-pu
  blic-pages-go-offlin@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:IPL: Site shuts down
@@ -337,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-fitbit-third-party-apps-stop-getting-your-fitbit-data-oct-3
  0-unless-you-reconne@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Fitbit: Reconnect apps by
@@ -356,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-fcc-from-nov-25-companies-can-choose-the-only-way-you-re-al
  lowed-to-stop-their@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:FCC: Rule takes effect
@@ -376,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-at-t-from-nov-1-you-must-send-a-notice-and-wait-60-days-bef
  ore-taking-at-t-to-s@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:AT&T: New terms take effect
@@ -396,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-cricket-wireless-from-dec-1-a-60-day-wait-before-small-clai
  ms-court-and-no-more@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Cricket Wireless: New terms take effect
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-california-from-jan-1-california-charges-sales-tax-on-softw
  are-subscriptions-bu@quietlychanged.com
-DTSTAMP:20261027T122107Z
+DTSTAMP:20261027T163106Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:California: Tax starts

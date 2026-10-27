@@ -1,7 +1,7 @@
 {
  "_doc": "Sourced US list prices (monthly, new subscribers) for evergreen price-history sections on service pages. date = YYYY-MM or YYYY-MM-DD when the change took effect for new subscribers. Add rows only with a source.",
  "Netflix": {
-  "verified": "2026-10-17",
+  "verified": "2026-10-27",
   "intro": "Netflix has raised US prices roughly every one to two years since it split streaming from DVD rentals in 2011. Its main ad-free plan (Standard) has gone from $7.99 to $19.99 a month, and that plan has never gotten cheaper.",
   "flagship": "Standard",
   "latest": {
@@ -133,10 +133,24 @@
     "Dormant: streaming price history (dated flagship prices)",
     "https://dormant.tv/price-history"
    ]
+  ],
+  "faq_extra": [
+   [
+    "What is the Netflix price increase history?",
+    "Netflix's ad-free Standard plan cost $7.99 a month when Netflix split streaming from DVD rentals on July 12, 2011. It then went to $8.99 on May 9, 2014, $9.99 on October 8, 2015, $10.99 on October 5, 2017, $12.99 on January 15, 2019, $13.99 on October 29, 2020, $15.49 on January 14, 2022, $17.99 on January 21, 2025 and $19.99 on March 26, 2026. Premium went from $11.99 (April 2013) to $13.99 (October 2017), $15.99 (January 2019), $17.99 (October 2020), $19.99 (January 2022), $22.99 (October 2023), $24.99 (January 21, 2025) and $26.99 (March 26, 2026). Standard with ads launched at $6.99 in November 2022, then went to $7.99 on January 21, 2025 and $8.99 on March 26, 2026."
+   ],
+   [
+    "How often does Netflix raise prices?",
+    "About every one to two years. Standard went up in 2014, 2015, 2017, 2019, 2020, 2022, 2025 and 2026. The longest gap was three years, from January 2022 to January 2025, and the most recent increase came only 14 months after the one before it. Netflix's Standard price has never gone down."
+   ],
+   [
+    "What happened to the Netflix Basic plan?",
+    "Basic, the cheapest ad-free plan, went from $7.99 (2014) to $8.99 (2019), $9.99 (2022) and $11.99 (October 2023). It closed to new US members on July 19, 2023 and ended for remaining members on July 18, 2024, so the cheapest ad-free Netflix plan is now Standard at $19.99."
+   ]
   ]
  },
  "Spotify": {
-  "verified": "2026-10-17",
+  "verified": "2026-10-27",
   "intro": "Spotify Premium Individual cost $9.99 a month in the US for twelve years, from its 2011 launch until July 2023. It has gone up three times since, and is now $12.99.",
   "flagship": "Individual",
   "latest": {
@@ -229,6 +243,16 @@
    [
     "Variety, 2021 Family/Duo increase",
     "https://variety.com/2021/digital/news/spotify-raises-price-1234960822/"
+   ]
+  ],
+  "faq_extra": [
+   [
+    "What is the Spotify price increase history?",
+    "Spotify Premium Individual cost $9.99 a month in the US from its July 14, 2011 launch until July 24, 2023, when it went to $10.99. It rose to $11.99 on June 3, 2024 and $12.99 on January 15, 2026. Duo went from $12.99 (July 2020) to $14.99, $16.99 and $18.99 on the same three dates. Family went from $14.99 (October 2014) to $15.99 in April 2021, $16.99 on July 24, 2023, $19.99 on June 3, 2024 and $21.99 on January 15, 2026."
+   ],
+   [
+    "How often does Spotify raise prices?",
+    "For twelve years it didn't: Individual stayed at $9.99 from 2011 to 2023. Since then Spotify has raised US Premium prices three times in about two and a half years (July 2023, June 2024 and January 2026), each time by $1 a month for Individual."
    ]
   ]
  },
@@ -407,6 +431,16 @@
     "Streaming Price Tracker: US price history (per-change citations)",
     "https://streamingpricetracker.com/history/"
    ]
+  ],
+  "faq_extra": [
+   [
+    "What is the Hulu price increase history?",
+    "Hulu's ad-free plan (now Hulu No Ads) launched at $11.99 a month in September 2015, then went to $12.99 in October 2021, $14.99 in October 2022, $17.99 in October 2023, $18.99 in October 2024 and $21.49 on September 23, 2026. The plan with ads started as Hulu Plus at $9.99 in June 2010, dropped to $7.99 that November and to $5.99 in February 2019, then went to $6.99 (October 2021), $7.99 (October 2022), $9.99 (October 2024), $11.99 (October 2025) and $12.49 (September 23, 2026)."
+   ],
+   [
+    "How often does Hulu raise prices?",
+    "Nearly every year lately. At least one Hulu plan went up every October from 2021 through 2025, and both plans went up again on September 23, 2026. The plan with ads has roughly doubled since 2019, from $5.99 to $12.49 a month."
+   ]
   ]
  },
  "Peacock": {
@@ -575,6 +609,16 @@
    [
     "The Verge, Oct 20, 2022 (family plan to $22.99)",
     "https://www.theverge.com/2022/10/20/23415258/youtube-premium-family-plan-price-increase-more-expensive-cost"
+   ]
+  ],
+  "faq_extra": [
+   [
+    "What is the YouTube Premium price increase history?",
+    "YouTube's ad-free plan launched as YouTube Red at $9.99 a month in October 2015. It became YouTube Premium at $11.99 in June 2018, then went to $13.99 in July 2023 and $15.99 on April 10, 2026. The Family plan went from $17.99 (June 2018) to $22.99 on October 20, 2022 and $26.99 on April 10, 2026. Premium Lite launched at $7.99 in March 2025 and went to $8.99 on April 10, 2026. The annual Individual plan went from $139.99 to $159.99 in April 2026."
+   ],
+   [
+    "Is YouTube Premium cheaper on the website or the iPhone app?",
+    "Subscribing on YouTube's website is cheaper. The prices above are for paying on the web; signing up through Apple's App Store costs more each month."
    ]
   ]
  },
