@@ -90,5 +90,104 @@
   "what": "Notion edited the plan comparison table on its pricing page, removing the word \"unlimited\" in several places.\n\nChange 1: file uploads. The paid-plan cells changed from \"Unlimited\" to \"Up to 5 GB\", and the explainer went from \"Upgrade to a paid plan for unlimited file uploads with a ~5GB max per file\" to \"Upgrade to a paid plan to upload files up to 5 GB each.\" The Free plan stays at \"Up to 5 MB\". The per-file size cap was already stated, so this mostly drops the promise of an unlimited number of uploads from the wording.\n\nChange 2: other rows. Web publishing changed from \"Publish an unlimited number of pages to the web\" and \"Unlimited published pages\" to \"Share your pages on the web\" and \"Published pages\". Database properties went from \"Add unlimited database properties and filters\" to \"Add database properties and filters\". Version history on the top plan went from \"Unlimited\" to \"Custom\". The text \"Unlimited\" was removed from the paid-plan cells for pages and blocks, external guests (\"Unlimited guests\") and charts.\n\nWhat we can't tell: whether the paid-plan cells that lost their text now show a checkmark or another value, or whether Notion actually changed any limits. The page doesn't announce new caps; Notion's help pages are the place to check.",
   "who": "People comparing or paying for Notion's paid plans, especially teams that rely on large file uploads, many published pages or many guests.",
   "url": "https://www.notion.com/pricing"
+ },
+ {
+  "service": "Xero",
+  "page": "terms",
+  "headline": "Xero can now require ID and a face scan or cut off your account; US disputes get a 1-year deadline from Dec 28",
+  "tldr": "Xero's new terms let it demand a government ID and a biometric face scan, and suspend or close accounts that don't pass. US customers also get new arbitration rules, including a one-year limit on claims.",
+  "impact": 2,
+  "effective": "2026-12-28",
+  "deadline": "Takes effect",
+  "themes": [
+   "accept-or-else",
+   "forced-arbitration"
+  ],
+  "actions": [
+   "Make sure the account owner's legal name and business details in Xero match a current government ID, so a verification request doesn't stall your books",
+   "Export your key reports and records now, since an account that fails or skips checks can be restricted or closed",
+   "If you have a claim against Xero, note the new one-year limit and send any Notice of Claim to legalnotices@xero.com"
+  ],
+  "redline": [
+   {
+    "before": "",
+    "after": "we may ask you to provide things like government-issued identification documents and a biometric facial scan so we can confirm the document belongs to you.",
+    "label": "Terms of Use · 12. Verifying who you are and who you do business with",
+    "note": "New section. Failing or skipping the check can mean your subscription isn't activated, or access is restricted or terminated.",
+    "src": "quoted"
+   },
+   {
+    "before": "you and we agree to resolve those disputes through binding arbitration or small claims court instead of in courts of general jurisdiction.",
+    "after": "You’ll need to bring any claim within one year of when you knew, or reasonably should have known, of the issue.",
+    "label": "US arbitration terms · 5. No class actions",
+    "note": "One generic sentence becomes a ten-part US arbitration contract with a one-year deadline, a mandatory meeting and confidential results.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "our connected aggregators (and any third parties that interact with your log-in credentials or account data in connection with that bank feed) disclaim all liability for any loss, theft, compromise, or misuse whatsoever in connection with their service (including negligence)",
+    "label": "Terms of Use · 31. Bank feeds",
+    "note": "New: if a bank-feed aggregator like Yodlee or Flinks mishandles your bank login, the terms say it isn't liable, even for negligence (where local law allows).",
+    "src": "quoted"
+   }
+  ],
+  "what": "Xero, the cloud accounting software used by small businesses, freelancers and their bookkeepers, posted new Terms of Use, new US arbitration terms and a new privacy notice, all dated October 26, 2026. The terms say: \"The updates include the introduction of customer identity verification, updates to our dispute resolution process for customers in the United States, updates to section 31 and to the price change notification and cancellation processes for subscribers who subscribe to Xero via a third party platform. The updates are effective immediately for new customers, and from 28 December 2026 for current customers.\" We compared them with the previous Terms of Use (dated 3 August 2026) and the previous privacy notice (11 February 2025), both from Xero's own archive pages.\n\nChange 1: identity checks, including a biometric face scan. A new section 12 says that to fight fraud and meet sanctions and anti-money-laundering rules, \"we may ask you to provide things like government-issued identification documents and a biometric facial scan so we can confirm the document belongs to you.\" Third-party verification partners run the checks. \"Your right to use these services depends on completing these checks to our reasonable satisfaction.\" If Xero can't verify you, or you don't respond in \"a reasonable time,\" it \"may decline to activate your subscription or restrict or terminate access to some or all of our services.\" The August terms had no identity-verification section at all.\n\nChange 2: ongoing automated screening that can suspend you. A new section, \"Keeping our checks up to date,\" says Xero may ask for updated ID \"if your business structure changes or there's a change in ownership,\" and that \"We also use automated systems to assess the risk of fraud, sanctions exposure or other regulatory non-compliance on your account on an ongoing basis.\" If those systems flag a risk, Xero \"may suspend your access or limit certain features (such as payment features) while we look into it,\" and can terminate access if you don't satisfy the checks. For a business that keeps its invoicing, bills and payroll in Xero, a suspension means losing access to its own books until the check clears.\n\nChange 3: the privacy notice now covers face templates. The new notice adds a \"Verification and identification data\" category: \"We also may collect facial imagery and biometric data (including facial recognition templates) to match you to your identity documents and ensure it really is you when accessing our services through your login.\" That last phrase means face matching isn't limited to sign-up; it can also be used at login. Verification partners \"may act as independent data controllers for certain activities\" and \"may also use anonymised or aggregated data across their network to improve fraud detection models.\" The February 2025 notice mentioned neither biometrics nor identity verification.\n\nChange 4: US disputes get their own arbitration contract. The old terms had one sentence for every country: \"you and we agree to resolve those disputes through binding arbitration or small claims court instead of in courts of general jurisdiction.\" US customers now get ten numbered rules. Before any legal action you must send a Notice of Claim to legalnotices@xero.com, and \"you and Xero agree to meet via video or phone within 60 days to try and work it out. Both sides commit to showing up to that meeting personally.\" After that, small claims court \"in your county of residence or in Denver, Colorado,\" or individual AAA arbitration. \"You'll need to bring any claim within one year of when you knew, or reasonably should have known, of the issue.\" Arbitration is confidential: \"Everything about the arbitration (including the proceedings, the evidence, and the final decision) stays confidential.\" If 25 or more similar claims come from coordinated lawyers, they are batched in groups of up to 50 and a few test cases go first while the rest wait. Xero reimburses your filing fee if you win, but if the arbitrator finds your claim frivolous, \"you will be responsible for reimbursing Xero for fees and arbitrator costs we had to pay to defend the case.\" We found no opt-out.\n\nChange 5: bank-feed aggregators disclaim liability for your bank login. Section 31 (bank feeds) now names aggregators \"like Yodlee or Flinks\" and adds: \"If you use these services, you provide log-in credentials to your accounts at your own risk.\" Where local law allows, your bank and \"our connected aggregators (and any third parties that interact with your log-in credentials or account data in connection with that bank feed) disclaim all liability for any loss, theft, compromise, or misuse whatsoever in connection with their service (including negligence)\". The data \"is not an official record of your account.\" The old section only said Yodlee feeds were \"subject to separate Yodlee terms.\"\n\nOther changes: \"If the tax rate changes, we will adjust the tax amount charged on your next billing period without prior notice.\" Subscribers who pay through an app store or reseller may hear about price changes \"through the standard processes used by the third party platform\" and must cancel under that platform's policies.\n\nWhat stays the same: you can still cancel a direct subscription \"at any time by providing Xero with one month's notice,\" and class actions were already excluded.\n\nCoverage (checked Oct 27): we found no news coverage of the identity-verification or arbitration changes. An automated change tracker, Rewindex, logged the terms page change on Oct 26; nothing on X.",
+  "who": "Everyone with a Xero subscription, plus invited users such as bookkeepers and accountants (the US arbitration terms \"apply to you and your invited users\"). New customers are on the new terms now; existing customers from December 28, 2026. The arbitration changes apply to the US edition; identity verification and the bank-feed wording are in the global terms.",
+  "url": "https://www.xero.com/us/legal/terms/",
+  "seo_title": "Xero terms update Oct 2026: ID and biometric face scan verification, new US arbitration terms (Dec 28)",
+  "seo_desc": "Xero's Oct 26, 2026 terms let it require government ID and a biometric facial scan and suspend accounts that fail checks. New US arbitration terms add a 60-day meeting, a one-year claim limit and confidential awards. Effective Dec 28 for current customers.",
+  "faq": [
+   [
+    "When do Xero's new terms take effect?",
+    "They're effective immediately for new customers and from December 28, 2026 for current customers. The Terms of Use, the US arbitration terms and the privacy notice are all dated October 26, 2026."
+   ],
+   [
+    "Will Xero ask me for a face scan?",
+    "It may. The new section 12 says Xero \"may ask you to provide things like government-issued identification documents and a biometric facial scan so we can confirm the document belongs to you,\" using third-party verification partners. The privacy notice says facial recognition templates can also be used to confirm \"it really is you when accessing our services through your login.\""
+   ],
+   [
+    "What happens if I don't complete Xero's identity check?",
+    "Xero \"may decline to activate your subscription or restrict or terminate access to some or all of our services.\" It says it will give you \"a reasonable time\" first and let you know, unless the law prevents it."
+   ],
+   [
+    "Can I opt out of Xero's US arbitration terms?",
+    "We found no opt-out in the October 26, 2026 US arbitration terms. You can still use small claims court in your county or in Denver, Colorado, after the 60-day Notice of Claim period, and claims must be brought within one year."
+   ],
+   [
+    "Did Xero's arbitration terms exist before?",
+    "Only as one sentence that applied in every country: disputes go to \"binding arbitration or small claims court.\" The new US version adds the Notice of Claim and meeting step, AAA rules, a one-year limit, batching for mass claims, confidentiality and fee rules."
+   ]
+  ],
+  "sources": [
+   [
+    "Xero US Terms of Use (Oct 26, 2026)",
+    "https://www.xero.com/us/legal/terms/"
+   ],
+   [
+    "Xero US arbitration terms (Oct 26, 2026)",
+    "https://www.xero.com/us/legal/terms/arbitration-terms/"
+   ],
+   [
+    "Xero US arbitration terms PDF",
+    "https://brandfolder.xero.com/NE531UQB/at/7zhs2k7twm6ccc3sbpc945cc/US_arbitration_terms_Oct_26.pdf"
+   ],
+   [
+    "Previous Xero Terms of Use (Aug 3, 2026, PDF)",
+    "https://brandfolder.xero.com/NE531UQB/at/fwtzcgnk8c4v9fvcjjb79n/Xero_Terms_of_Use_Aug_2026.pdf"
+   ],
+   [
+    "Xero terms archive",
+    "https://www.xero.com/us/legal/terms/archive/"
+   ],
+   [
+    "Xero US privacy notice (Oct 26, 2026)",
+    "https://www.xero.com/us/legal/privacy/"
+   ],
+   [
+    "Previous Xero privacy notice (Feb 11, 2025, PDF)",
+    "https://brandfolder.xero.com/NE531UQB/at/rc8fx8rvcwk49vp8c6tr6rq/Xero_Privacy_Notice_Feb_2025.pdf"
+   ]
+  ],
+  "modified": "2026-10-27"
  }
 ]

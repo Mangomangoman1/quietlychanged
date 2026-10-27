@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Xero · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-27-xero-xero-can-now-require-id-and-a-face-scan-or-cut-off-you
+ r-account-us-dispute@quietlychanged.com
+DTSTAMP:20261027T184758Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Xero: Takes effect
+DESCRIPTION:Xero's new terms let it demand a government ID and a biometric
+  face scan\, and suspend or close accounts that don't pass. US customers 
+ also get new arbitration rules\, including a one-year limit on claims.\n\
+ nhttps://quietlychanged.com/changes/2026-10-27-xero-xero-can-now-require-
+ id-and-a-face-scan-or-cut-off-your-account-us-dispute/
+URL:https://quietlychanged.com/changes/2026-10-27-xero-xero-can-now-requir
+ e-id-and-a-face-scan-or-cut-off-your-account-us-dispute/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Xero — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
