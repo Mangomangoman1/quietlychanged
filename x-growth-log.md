@@ -904,3 +904,12 @@ Daily report drafted a standalone Slack original (social/2026-10-27/x-post.txt, 
 - R2: MorePerfectUS Dollar General 2115100387757944837 (the complaint's undercover buys + GLB count)
 - R3: 9to5mac iOS 27.2 selfie age check 2115101638755025306 (selfie deleted; credit card/ID alternatives)
 - Flag: the Fitbit dates conflict. Google's help page says reconnect before Oct 30; developers.google.com/health/about now says the legacy API turns off Nov 2. The site's /due-soon/ still says Oct 30.
+
+## Published 2026-10-27 morning
+- Original (pinned, replaced Gmail pin 2114016069337694661), 9:34 AM MT: https://x.com/QuietlyChanged/status/2115104793509151180
+- Self-reply (/due-soon/ link): https://x.com/QuietlyChanged/status/2115104860412739946
+- R1 Dexerto Dollar General (27 replies ahead): https://x.com/QuietlyChanged/status/2115106488146333700
+- R2 MorePerfectUS: https://x.com/QuietlyChanged/status/2115107843590566112
+- R3 9to5mac iOS 27.2 age check: https://x.com/QuietlyChanged/status/2115109610105471061 (accidental duplicate 2115109665038008747 being deleted)
+- Followers 7. Old Gmail pin at 9,243 impressions / 315 bookmarks / 23 reposts.
+- Follow-up: /due-soon/ lists Fitbit Oct 30; Google dev page now says old API shuts off Nov 2.
