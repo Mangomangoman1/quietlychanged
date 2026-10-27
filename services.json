@@ -276,5 +276,9 @@
   },
   "California": {
     "terms": "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  },
+  "Xero": {
+    "terms": "https://www.xero.com/us/legal/terms/",
+    "privacy": "https://www.xero.com/us/legal/privacy/"
   }
 }
