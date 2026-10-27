@@ -869,3 +869,6 @@ All times MT (MDT).
 
 ## Published 2026-10-26 evening
 - R (Airbnb house rules, reply to Dexerto 2114810729417039912): https://x.com/QuietlyChanged/status/2114861344164078045 (~5:27 PM MT, logo + fine-print card). Dexerto at post time: 94.7K views, 1.7K likes, ~102 replies.
+
+## 2026-10-27 note from parent (6:25 AM MT)
+Daily report drafted a standalone Slack original (social/2026-10-27/x-post.txt, images 01-slack-logo.png, 02-slack-support-before-after.png). NOT posted: under the 1-original-a-day rule, today's original is the pinned "This week's fine print" roundup. The 9:10 AM session should lead the roundup with the Slack change (24/7 support removed; free tier now a 2-business-day target) and can reuse the Slack before/after as image 2, with Notion "Up to 5 GB" and 1Password terms as supporting items if they fit.
