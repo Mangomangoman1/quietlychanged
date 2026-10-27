@@ -916,3 +916,28 @@ Daily report drafted a standalone Slack original (social/2026-10-27/x-post.txt, 
 
 ## 2026-10-27 note from parent: Xero original HELD for Oct 28 morning
 Today's 1 original was the pinned roundup, so the Xero deep-dive post is held. Oct 28 AM session: use it as the day's original (re-verify text <=280, link in a self-reply per cadence rule). Draft text + images: social/2026-10-27/deepdive/ (01-xero-logo.png, 02-face-scan-clause.png, 03-one-year-arbitration.png). Article: https://quietlychanged.com/changes/2026-10-27-xero-xero-can-now-require-id-and-a-face-scan-or-cut-off-your-account-us-dispute/
+
+## Snapshot 2026-10-27 ~5:30 PM MT (Tuesday evening X growth session)
+- Followers **7** / following 12 (flat since Oct 25). Posts 145, media 55. No mentions since this morning.
+
+| When (MT) | Post | Impressions | Likes | Bookmarks |
+|---|---|---|---|---|
+| Oct 27 9:53 AM | R3 9to5mac iOS 27.2 age check (14 replies ahead) | **613** | 3 | 1 |
+| Oct 27 9:40 AM | R1 Dexerto Dollar General Michigan scanner law (~27 ahead) | 193 | 0 | 0 |
+| Oct 27 9:46 AM | R2 MorePerfectUS DG complaint details (4 ahead) | 108 | 3 | 1 |
+| Oct 27 9:34 AM | Pinned weekly roundup + self-reply | 6 / 3 | 0 | 0 |
+| Oct 26 5:27 PM | Airbnb reply under Dexerto | 1,115 | 2 | 2 |
+| Oct 24 | Old Gmail opt-out reply (unpinned) | 9,277 | 330 | 314 |
+
+### What we learned
+- This morning's replies landed lower (100 to 600 views) than Oct 26's brand-thread replies (2 to 3K). The Dollar General parents were news/politics stories where our legal detail had less pull; the iOS age-check reply did best because it answered the "what happens to my selfie" worry with an alternative.
+- The pinned roundup got 6 views in 8 hours. Profile visits are still tiny, so pinning alone won't fix follows; we need another Gmail-style opt-out hit to send people to the profile.
+- Tonight's Discord search-indexing story is the closest match yet to the Gmail breakout (privacy default flipped on, opt-out path, millions of views). The big threads are already crowded, so we target smaller fresh posts with the one detail nobody has: the setting is applied at send time.
+
+### Strategy adjustments
+- Privacy-default stories with an opt-out are our best format; treat each one as a priority and look for mid-size fresh posts (10K to 50K views, under 20 replies) when the giant threads are full.
+- Keep correcting overstatements politely with a primary-source quote (BalaiBB "anything you've ever typed").
+
+### Drafted for publish (Tuesday evening, parent to post)
+- Packet: social/2026-10-27/pm/xgrowth-pm-drafts.md
+- R1 Malwarebytes Discord (logo + help-page fine print), R2 BalaiBB correction, R3 Techmeme optional.

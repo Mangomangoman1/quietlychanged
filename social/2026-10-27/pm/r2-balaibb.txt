@@ -1,0 +1,1 @@
+One correction from Discord's help page: messages sent before mid-December 2026 aren't included, so your old posts stay off the web. It covers what you send after that, in labeled public channels of Discoverable servers (1,000+ members). DMs and private servers are never in it.

@@ -1,0 +1,1 @@
+Two catches in Discord's own FAQ: opting out doesn't stop Channel Summaries, the auto-written recaps of public chats, which stay on server web pages unless admins turn them off. And flipping the switch later won't pull back what you already sent; only deleting does.
