@@ -1,0 +1,3 @@
+From Apple's support page: the selfie is checked on-device and on Private Cloud Compute, then "deleted and isn't retained in any form." You only confirm once.
+
+Don't want the face scan? A credit card (debit isn't accepted) or a government ID works instead.

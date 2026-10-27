@@ -1,0 +1,3 @@
+All 18 upcoming dates, each with the company's own wording and a calendar file: https://quietlychanged.com/due-soon/
+
+One update: Google still tells Fitbit users to reconnect apps before Oct 30, but its developer page now says the old API shuts off Nov 2.

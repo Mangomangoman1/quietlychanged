@@ -872,3 +872,35 @@ All times MT (MDT).
 
 ## 2026-10-27 note from parent (6:25 AM MT)
 Daily report drafted a standalone Slack original (social/2026-10-27/x-post.txt, images 01-slack-logo.png, 02-slack-support-before-after.png). NOT posted: under the 1-original-a-day rule, today's original is the pinned "This week's fine print" roundup. The 9:10 AM session should lead the roundup with the Slack change (24/7 support removed; free tier now a 2-business-day target) and can reuse the Slack before/after as image 2, with Notion "Up to 5 GB" and 1Password terms as supporting items if they fit.
+
+## Snapshot 2026-10-27 ~9:30 AM MT
+
+| Metric | Value |
+|---|---|
+| Followers / following | 7 / 12 (flat since Oct 25) |
+| Posts / media | 140 / 52 |
+| Pinned (Gmail opt-out reply 2114016069337694661) | 9,243 imp, 329 L, 315 BM, 23 RP |
+| Oct 26 PM Airbnb reply under Dexerto (2114861344164078045) | 957 imp, 1 L, 1 BM (0.24% of the parent's 397K; ~102 replies ahead when posted) |
+| Oct 26 AM XBOXWire reply (2114745925214032294) | 3,174 imp, 4 L, 3 BM (2.14% of 148K; 44 replies on the parent) |
+| Oct 26 AM charlieINTEL reply (2114742956443726228) | 2,514 imp, 6 L, 0 BM (1.45% of 173K) |
+| Oct 26 AM IdleSloth84_ reply (2114744469270503822) | 379 imp (0.75% of 51K) |
+| Oct 26 originals: T-Mix O1 / SB 122 O2 | 17 / 4 imp |
+| Kalshi reply / Dexerto Gmail reply (older) | 978 imp, 16 BM / 610 imp, 14 BM |
+
+### What we learned
+- Replies posted with about 25 to 45 replies ahead got 1.5 to 2% of the parent's views. The Airbnb reply had ~100 ahead and got 0.24%, even though the parent was 400K. This confirms CS-021.
+- Action replies keep getting bookmarked (Gmail 315 BM, Kalshi 16 BM). Joke-free "catch" replies get views but no saves. Follows are still 0, so reply reach isn't turning into profile visits.
+- With 7 followers, originals still get under 20 views. Their value is as a pinned landing page, not as reach.
+
+### Strategy adjustments
+- Pin the weekly "This week's fine print" roundup (dates first, self-reply link) in place of the Gmail opt-out reply, so profile visitors from replies land on something worth following. Refresh it every Monday.
+- Only reply into threads with fewer than ~40 replies, ideally within 30 min of posting. Skip anything with 100+ replies, however big.
+- Lead each reply with a step the reader can take today (deadline, form, setting), backed by a primary source. A logo image goes first when the reply is about one company.
+
+### Drafted for publish (Tuesday morning, parent to post)
+- Packet: social/2026-10-27/am/xgrowth-am-drafts.md
+- O1: weekly roundup (Slack now, Fitbit Oct 30, Verizon Nov 1, AT&T Nov 1, Oura Nov 4) plus a self-reply linking /due-soon/. Pin it.
+- R1: Dexerto Dollar General 2115097629877002340 (Michigan Scanner Law, receipt + 30 days)
+- R2: MorePerfectUS Dollar General 2115100387757944837 (the complaint's undercover buys + GLB count)
+- R3: 9to5mac iOS 27.2 selfie age check 2115101638755025306 (selfie deleted; credit card/ID alternatives)
+- Flag: the Fitbit dates conflict. Google's help page says reconnect before Oct 30; developers.google.com/health/about now says the legacy API turns off Nov 2. The site's /due-soon/ still says Oct 30.
