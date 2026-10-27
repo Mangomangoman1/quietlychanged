@@ -941,3 +941,8 @@ Today's 1 original was the pinned roundup, so the Xero deep-dive post is held. O
 ### Drafted for publish (Tuesday evening, parent to post)
 - Packet: social/2026-10-27/pm/xgrowth-pm-drafts.md
 - R1 Malwarebytes Discord (logo + help-page fine print), R2 BalaiBB correction, R3 Techmeme optional.
+
+## Published 2026-10-27 evening
+- R1 under Malwarebytes 2115206474192339322 (parent ~14.1K views, 13 replies): https://x.com/QuietlyChanged/status/2115224677643891129 (Discord logo + help fine-print images)
+- R2 under BalaiBB 2115219334654009581 (parent ~465 views, 1 reply): https://x.com/QuietlyChanged/status/2115226114885071185 (text only)
+- R3 Techmeme skipped: 1,829 views, under ~2.5K cutoff.
