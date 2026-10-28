@@ -984,3 +984,14 @@ Mix in "simple striking chart" originals (e.g. ranked bar chart of subscription 
 - R2 under WindowsCentral 2115454143103942685 (1,493 views, 1 reply): 2115469304573382920
 - R3 under DelCrxpto 2115463574642426036 (755 views, 0 replies): 2115470728099426404
 - Asked Samuel whether to pin the Discord/Malwarebytes reply (20.4K impressions) until Monday's roundup.
+
+## Held for 2026-10-29 morning original (Grindr)
+Deep dive Oct 28 handed over a Grindr post, but today's one original was already used by Xero, so it's held. Use it as the Oct 29 morning original (logo first).
+Text (278 weighted):
+Grindr's new terms (Oct 27): its AI can generate summaries about you from your chats and share them with other users, "whether or not you use AI Technology features yourself."
+
+Turn those AI settings off and paid features can stop. Same bill, no refund.
+
+https://quietlychanged.com/changes/2026-10-28-grindr-grindr-s-new-terms-ai-can-summarize-your-chats-for-other-users-even-if-y/
+Images: social/2026-10-28/deepdive/01-grindr-logo.png, 02-ai-chats-before-after.png, 03-ai-off-no-refund.png
+Do not mention the unverified June 2026 Grindr breach post.
