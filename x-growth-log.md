@@ -946,3 +946,6 @@ Today's 1 original was the pinned roundup, so the Xero deep-dive post is held. O
 - R1 under Malwarebytes 2115206474192339322 (parent ~14.1K views, 13 replies): https://x.com/QuietlyChanged/status/2115224677643891129 (Discord logo + help fine-print images)
 - R2 under BalaiBB 2115219334654009581 (parent ~465 views, 1 reply): https://x.com/QuietlyChanged/status/2115226114885071185 (text only)
 - R3 Techmeme skipped: 1,829 views, under ~2.5K cutoff.
+
+## 2026-10-27 Samuel guidance: viral chart format
+Mix in "simple striking chart" originals (e.g. ranked bar chart of subscription price increases since launch, see social/templates/viral-chart-example.png). Criteria: understood in 1 second, visually simple, broad audience with obvious impact on their wallet/life, outrage or a surprising fact. Every figure must trace to sourced price history; put sources in the self-reply. Counts against the 1-original-a-day cap; aim for about 1–2 a week.
