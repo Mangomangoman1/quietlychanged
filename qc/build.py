@@ -258,7 +258,7 @@ def main():
     def _u(h, pl): return h.get("units", {}).get(pl, "month")
     def _amt(h, pl, p): return f"${p:.2f}/{_u(h,pl)}" if p != int(p) or _u(h, pl) == "month" else f"${p:.0f}/{_u(h,pl)}"
     def ph_section(k, h):
-        k = h.get("name", k); tk = h.get("title_name", k)
+        key = k; k = h.get("name", k); tk = h.get("title_name", k)
         first_year = min(r[0][:4] for rows in h["plans"].values() for r in rows)
         tabs = ""
         for plan, rows in h["plans"].items():
@@ -278,6 +278,12 @@ def main():
                  f'<h3>What {E(k)} costs now</h3><ul class="plans">{now}</ul><div class="update"><strong>Latest change</strong>On {_pd(L["date"])}, {E(L["what"])} (<a href="{E(L["source"])}">{E(L["source_name"])}</a>)</div>'
                  f'{tabs}' + (f'<ul class="cap">{notes}</ul>' if notes else "") +
                  f'<p class="cap">{E(h["basis"].format(verified=nice(h["verified"]))) if h.get("basis") else "US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified " + nice(h["verified"]) + "."} Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="cap">{srcs}</ul><p><a href="../../subscription-price-history/">' + (f'Compare {E(k)} with other streaming and subscription price increases' if h.get("compare", True) else 'Compare streaming and subscription price increases') + '</a> · <a href="../../price-changes/">All price changes we track</a></p>')
+        # cross-links to every other price history (internal linking for under-crawled pages, e.g. Peacock)
+        def _oth(ok):
+            oh = PH[ok]; ofl = oh["plans"][oh["flagship"]]; on = oh.get("title_name", oh.get("name", ok))
+            return (f'<li><a href="../{slug(ok)}/#price-history">{E(on)} price history</a> <small>{E(oh["flagship"])} {_amt(oh,oh["flagship"],ofl[-1][1])}'
+                    + (f', up {(ofl[-1][1]/ofl[0][1]-1)*100:.0f}% since {ofl[0][0][:4]}' if ofl[-1][1] > ofl[0][1] else '') + '</small></li>')
+        html_ += '<h3>More price histories</h3><ul class="cap">' + "".join(_oth(ok) for ok in PH if ok != key) + '</ul>'
         pct = (fl[-1][1] / fl[0][1] - 1) * 100
         faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is {_amt(h,pl,_cur(r))}" for pl, r in h["plans"].items() if "discontinued" not in pl) + "."),
                (f"When did {k} last raise prices?", h.get("faq_last") or f"On {_pd(L['date'])}: {L['what']}"),
