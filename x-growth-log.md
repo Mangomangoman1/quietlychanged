@@ -977,3 +977,10 @@ Mix in "simple striking chart" originals (e.g. ranked bar chart of subscription 
 - Packet: social/2026-10-28/am/xgrowth-am-drafts.md
 - O1: Xero ID + face scan / 1-year claim limit (re-verified against Xero's terms), link in self-reply.
 - R1 @9to5Google Discord (desktop-only switch), R2 @WindowsCentral Discord (two dates, two controls), R3 @DelCrxpto (old messages aren't included).
+
+## Published 2026-10-28 morning
+- O1 Xero original (logo, face-scan clause, 1-year arbitration): https://x.com/QuietlyChanged/status/2115466337539744091 ; self-reply with link: 2115466513779962166
+- R1 under 9to5Google 2115461167149642183 (1,406 views, 0 replies): 2115467889356714048
+- R2 under WindowsCentral 2115454143103942685 (1,493 views, 1 reply): 2115469304573382920
+- R3 under DelCrxpto 2115463574642426036 (755 views, 0 replies): 2115470728099426404
+- Asked Samuel whether to pin the Discord/Malwarebytes reply (20.4K impressions) until Monday's roundup.
