@@ -280,5 +280,9 @@
   "Xero": {
     "terms": "https://www.xero.com/us/legal/terms/",
     "privacy": "https://www.xero.com/us/legal/privacy/"
+  },
+  "Grindr": {
+    "terms": "https://trust.grindr.com/en-US/legal/2026-terms-of-service",
+    "privacy": "https://trust.grindr.com/en-US/privacy"
   }
 }

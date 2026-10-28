@@ -1,1 +1,90 @@
-[]
+[
+ {
+  "service": "Grindr",
+  "page": "terms",
+  "headline": "Grindr's new terms: AI can summarize your chats for other users even if you don't use AI, and opting out won't lower your bill",
+  "tldr": "Grindr's new terms say its AI may generate summaries about you from your chats and show them to other users, whether or not you use AI. Turn those settings off and paid features may stop, with no change to your bill.",
+  "impact": 2,
+  "effective": "2026-10-27",
+  "deadline": "Took effect",
+  "themes": [
+   "ai-and-your-data",
+   "forced-arbitration",
+   "accept-or-else"
+  ],
+  "actions": [
+   "Review the AI-related choices in Grindr's privacy settings in the app (or ask Customer Service), since the terms say that's where you control how your data is used for AI",
+   "Before you buy or renew a subscription, check whether its features depend on an AI setting you plan to keep off. The terms say no refund is due for features that stop working when you turn a setting off",
+   "To opt out of the arbitration changes, email your legal name, mailing address, account email(s) and a copy of your signature to arbitrationoptout@grindr.com within 31 days after Grindr notifies you (its help-center notice was posted Oct 27, 2026)"
+  ],
+  "redline": [
+   {
+    "before": "assess and summarize past interactions to support reconnection and identify compatibility, and surface behavioral or engagement-based insights to You or other users to promote connection.",
+    "after": "Whether or not you use AI Technology features yourself, our systems may generate inferences, summaries, and other System-Generated Content about you (where permitted) from (i) your profile; (ii) your activity on the Services; and, (iii) , your interactions with other users including chats. We may share such content with users who use those features.",
+    "label": "Terms of Service · 7.5(b) AI Technology",
+    "note": "Chats are now named as a source, and the terms say this applies even if you never use the AI features.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "If you turn off a setting that a Paid Feature depends on, that feature will stop working for you until you turn the setting back on. Your Subscription and its billing are not affected by your settings choices.",
+    "label": "Terms of Service · 9.13 Paid Features that depend on your AI settings",
+    "note": "New section: protecting your data from AI can cost you features you paid for, and \"no refund is due except where the law requires it.\"",
+    "src": "quoted"
+   },
+   {
+    "before": "We also test new features and payment options.",
+    "after": "we regularly test features, prices, offers, and payment options, so the Paid Features and prices you see may differ from those shown to other users.",
+    "label": "Terms of Service · 9.1 What we sell",
+    "note": "The old terms mentioned testing features and payment options. The new terms add prices and offers, and say what you see may differ from what other users see.",
+    "src": "quoted"
+   }
+  ],
+  "what": "Grindr, the dating and social app for gay, bi, trans and queer people, rewrote its Terms of Service. The new version is headed \"Effective Date: The earlier of October 27, 2026 or user acceptance.\" A help-center notice posted October 27 says: \"If you don't agree with the updated Terms, you should stop using Grindr and close your account before they take effect.\" Grindr calls most of the edits clarifications meant to make the terms \"shorter, clearer, and easier to understand.\" We compared the new terms with the previous version, archived by the Wayback Machine on October 6, 2026. Several of the changes are new rules, not just rewording.\n\nChange 1: AI summaries about you, built from your chats, shown to others. The old terms already said AI may \"assess and summarize past interactions to support reconnection and identify compatibility, and surface behavioral or engagement-based insights to You or other users.\" The new section 7.5(b) names chats and drops any link to whether you use the features: \"Whether or not you use AI Technology features yourself, our systems may generate inferences, summaries, and other System-Generated Content about you (where permitted) from (i) your profile; (ii) your activity on the Services; and, (iii) , your interactions with other users including chats. We may share such content with users who use those features.\" The overview repeats that this content \"may be shown to other users even if you do not use those features yourself,\" and 7.5(c) warns it \"may be inaccurate, incomplete, or inappropriate.\"\n\nChange 2: turning off AI can switch off paid features, with no refund. Under 7.5(d) you can manage how your data is used for AI \"in your privacy settings in the Services, or via a request to our Customer Service team,\" but \"If you turn a setting off, the features that depend on it may stop working for you.\" A new section 9.13 spells out what that means for subscribers: \"Your Subscription and its billing are not affected by your settings choices. Turning off a setting is your choice and is not a change we make to the Services under Section 11; no refund is due except where the law requires it.\" The old terms had no such section.\n\nChange 3: different prices for different users. The old terms said pricing \"varies based on a number of factors including, but not limited to, region, bundle, and duration of subscription\" and \"We also test new features and payment options.\" Section 9.1 now says \"we regularly test features, prices, offers, and payment options, so the Paid Features and prices you see may differ from those shown to other users.\"\n\nChange 4: unsent and disappearing content. A new section 7.6 says expiring and unsend features \"cannot retract content that another user has already seen, saved, captured (including by screen shot or screen recording), forwarded, or received in a notification,\" and \"We may keep copies of expired or unsent content for safety, security, legal, and operational purposes as described in the Privacy Policy.\"\n\nChange 5: mass-arbitration batching starts at 10 claims instead of 25. Batching used to apply when \"twenty-five (25) or more individual requests for arbitration of a substantially similar nature\" were filed with the help of the same law firms. Section 17.9 now applies when \"10 or more individual Requests of a substantially similar nature\" are filed, grouping them \"in batches of 100\" with one arbitrator per batch. That lets Grindr handle a smaller wave of coordinated claims together. A new section 17.10 says \"No amendment will apply to a Dispute that accrued before the amendment's effective date.\" Under 17.13, existing users \"may opt out of a material amendment to that agreement by sending an Opt-Out Notice that is received within thirty-one (31) days after we notify you of the amendment.\" Opting out \"does not terminate or alter any prior arbitration agreement.\"\n\nOther changes: section 4 now says \"a new location-based feature may use your existing distance-sharing choice until you change it,\" and that someone may \"be able to estimate your exact location or identify you\" despite offsetting and blurring, which \"may reduce this risk. They do not eliminate it.\"\n\nWhat stays the same: Grindr already had a perpetual license to your content that included training AI (\"to directly or indirectly create, develop, train, test, deploy, operate, and otherwise improve AI Technologies\"). The new terms keep it, now \"to the extent permitted by your privacy settings and the Privacy Policy.\" The 31-day arbitration opt-out for new users and the AAA mass-arbitration rules were also already there. Grindr's Privacy Policy is still dated July 6, 2026.\n\nCoverage (checked Oct 28): we found no news coverage of the new terms. The only sources were Grindr's own help article and terms page, and we found no posts about the change on X.",
+  "who": "Everyone who uses Grindr, free or paid. The terms apply from October 27, 2026, or earlier if you accepted them. Subscribers are affected most by the AI-settings and pricing sections. The arbitration section applies to US users.",
+  "url": "https://trust.grindr.com/en-US/legal/2026-terms-of-service",
+  "seo_title": "Grindr terms update Oct 27, 2026: AI summaries from chats shown to others, no refund if you turn AI off",
+  "seo_desc": "Grindr's Oct 27, 2026 Terms of Service say AI may generate summaries about you from chats and share them with other users even if you don't use AI. Turning AI settings off can stop paid features with no billing change, and prices may differ by user.",
+  "faq": [
+   [
+    "When did Grindr's new terms take effect?",
+    "The terms say \"Effective Date: The earlier of October 27, 2026 or user acceptance.\" Grindr's help-center notice says that if you don't agree, \"you should stop using Grindr and close your account before they take effect.\""
+   ],
+   [
+    "Can Grindr's AI use my chats?",
+    "Yes. Section 7.5(b) says Grindr's systems may generate \"inferences, summaries, and other System-Generated Content about you\" from your profile, your activity and \"your interactions with other users including chats,\" and \"may share such content with users who use those features,\" whether or not you use them yourself."
+   ],
+   [
+    "Can I turn off Grindr's AI use of my data?",
+    "The terms say you can manage how your data is used for AI \"in your privacy settings in the Services, or via a request to our Customer Service team.\" Features that depend on those settings may stop working, and \"going forward we will stop using your data for the purposes that setting covers.\""
+   ],
+   [
+    "Will I get a refund if a paid Grindr feature stops working after I turn off AI?",
+    "Not under the terms. Section 9.13 says \"Your Subscription and its billing are not affected by your settings choices\" and \"no refund is due except where the law requires it.\""
+   ],
+   [
+    "How do I opt out of Grindr's arbitration changes?",
+    "Email your legal name, mailing address, the email address(es) on your account and a copy of your signature to arbitrationoptout@grindr.com. Existing users must do this within 31 days after Grindr notifies them of a material amendment. Opting out of an amendment doesn't cancel an earlier arbitration agreement."
+   ]
+  ],
+  "sources": [
+   [
+    "Grindr Terms of Service (effective Oct 27, 2026)",
+    "https://trust.grindr.com/en-US/legal/2026-terms-of-service"
+   ],
+   [
+    "Grindr help center: We've Updated Our Terms of Service",
+    "https://help.grindr.com/hc/en-us/articles/56877894732691-We-ve-Updated-Our-Terms-of-Service"
+   ],
+   [
+    "Previous Grindr terms (Wayback Machine, Oct 6, 2026)",
+    "https://web.archive.org/web/20261006205043/https://trust.grindr.com/en-US/legal"
+   ],
+   [
+    "Grindr Privacy Policy (July 6, 2026)",
+    "https://trust.grindr.com/en-US/privacy"
+   ]
+  ],
+  "modified": "2026-10-28"
+ }
+]
