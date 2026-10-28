@@ -949,3 +949,31 @@ Today's 1 original was the pinned roundup, so the Xero deep-dive post is held. O
 
 ## 2026-10-27 Samuel guidance: viral chart format
 Mix in "simple striking chart" originals (e.g. ranked bar chart of subscription price increases since launch, see social/templates/viral-chart-example.png). Criteria: understood in 1 second, visually simple, broad audience with obvious impact on their wallet/life, outrage or a surprising fact. Every figure must trace to sourced price history; put sources in the self-reply. Counts against the 1-original-a-day cap; aim for about 1–2 a week.
+
+## Snapshot 2026-10-28 ~9:25 AM MT (Wednesday morning X growth session)
+- Followers **7** / following 12 (flat since Oct 25, even after our biggest reply yet). Posts 148, media 57. Pinned: Oct 27 weekly roundup (24 imp).
+- Note: an unlogged chart original went out Oct 27 9:57 PM MT ("Companies with the largest price increases on their subscriptions since launch", 2115291924890628601): **10 imp** in ~11 h.
+
+| When (MT) | Post | Impressions | Likes | Bookmarks | RP / Q |
+|---|---|---|---|---|---|
+| Oct 27 5:30 PM | Discord deadline fix under @Malwarebytes (2115224677643891129) | **20,384** | 108 | 55 | 6 / 1 |
+| Oct 27 5:36 PM | Discord correction under @BalaiBB (2115226114885071185) | 59 | 0 | 0 | 0 |
+| Oct 27 9:57 PM | Chart original (subscription increases since launch) | 10 | 0 | 0 | 0 |
+| Oct 27 9:53 AM | 9to5mac iOS age check reply | 910 | 6 | 1 | 0 |
+| Oct 27 9:40 / 9:46 AM | Dexerto / MorePerfectUS Dollar General | 226 / 157 | 0 / 4 | 0 / 1 | 0 |
+| Oct 27 9:34 AM | Pinned roundup + self-reply | 24 / 4 | 0 | 0 | 0 |
+
+### What we learned
+- The Malwarebytes reply is now our 2nd-biggest post ever (20.4K imp, 1.49% of a parent at 1.37M), and it grew ~4x after the CS-025 read: under a parent that keeps climbing overnight, an early (17 ahead) deadline+fix reply keeps its share. It drew 0 follows. Gmail (9.3K) and Discord (20.4K) together are ~30K reply impressions with followers stuck at 7.
+- The BalaiBB correction got 59: small parent, small ceiling, as expected.
+- The chart original got 10 imp at 10 PM with 7 followers. With no in-network audience, a chart only works if it goes out where people are (morning) or as a reply/quote under a big price-hike post.
+
+### Strategy adjustments
+- Day-2 stories: when our receipt already won (Discord), keep working the story with a *new* fact from the primary page (today: the switch is desktop/browser only; Nov 16 summaries vs mid-December messages) rather than repeating last night's line.
+- Conversion is still the problem. Suggest to Samuel: pin the Malwarebytes Discord reply (20K imp, 55 BM) until the next Monday roundup, since profile visitors from Discord threads will want exactly that.
+- Next chart: post it in the morning slot, or use it as the image in a reply under a big price-hike post, not as a late-night original.
+
+### Drafted for publish (Wednesday morning, parent to post)
+- Packet: social/2026-10-28/am/xgrowth-am-drafts.md
+- O1: Xero ID + face scan / 1-year claim limit (re-verified against Xero's terms), link in self-reply.
+- R1 @9to5Google Discord (desktop-only switch), R2 @WindowsCentral Discord (two dates, two controls), R3 @DelCrxpto (old messages aren't included).

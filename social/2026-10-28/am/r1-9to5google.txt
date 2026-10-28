@@ -1,0 +1,1 @@
+Don't go hunting for it on your phone: Discord says the switch is on desktop or in a browser. User Settings > Data & Privacy > "Show my message content from Discoverable channels on web pages." Flip it once and it covers your whole account, mobile too. Do it before mid-December.
