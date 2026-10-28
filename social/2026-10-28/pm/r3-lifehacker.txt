@@ -1,0 +1,3 @@
+Whether you need the opt-out depends on where your account is. Discord's help page: on by default "in most regions," off by default in the EU/EEA, UK, Canada, Brazil, Australia and South Korea.
+
+US? Desktop or browser: User Settings > Data & Privacy. Do it before mid-December.

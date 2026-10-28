@@ -995,3 +995,27 @@ Turn those AI settings off and paid features can stop. Same bill, no refund.
 https://quietlychanged.com/changes/2026-10-28-grindr-grindr-s-new-terms-ai-can-summarize-your-chats-for-other-users-even-if-y/
 Images: social/2026-10-28/deepdive/01-grindr-logo.png, 02-ai-chats-before-after.png, 03-ai-off-no-refund.png
 Do not mention the unverified June 2026 Grindr breach post.
+
+## Snapshot 2026-10-28 ~5:20 PM MT (Wednesday evening X growth session)
+- Followers **7** / following 12 (flat since Oct 25). Posts 153, media 60. Pinned roundup 2115104793509151180 (30 imp; the user lookup's pinned expansion returned "not found" but search returns the post; check the pin is still in place).
+
+| When (MT) | Post | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|
+| Oct 27 5:30 PM | Discord deadline fix under @Malwarebytes | **21,408** (+1.0K since AM) | 114 | 58 | 0 |
+| Oct 28 9:30 AM | O1 Xero original (+ self-reply 2) | 10 | 0 | 0 | 1 (our self-reply) |
+| Oct 28 9:37 AM | R1 Discord under @9to5Google | 18 | 0 | 0 | 0 |
+| Oct 28 9:42 AM | R2 Discord under @WindowsCentral | 12 | 0 | 0 | 0 |
+| Oct 28 9:48 AM | R3 Discord under @DelCrxpto | 8 | 0 | 0 | 0 |
+| Oct 27 9:57 PM | Chart original | 12 | 0 | 0 | 0 |
+| Oct 27 9:46 AM | MorePerfectUS Dollar General | 1,311 (grew from 157) | 10 | 1 | 2 RP |
+
+### What we learned
+- This morning's 3 Discord day-2 replies got 8 to 18 impressions each, despite being early (0-1 replies ahead) under 216K-737K outlets. Outlet link posts that only had ~1.4K views gave us ~1%. By day 2 the story is saturated: same fact, small outlet threads, nobody expanding. Don't keep working a story under small link posts after the day-1 win.
+- Xero original: 10 imp. Originals still don't travel with 7 followers.
+- Late growth happens: MorePerfectUS DG reply went 157 to 1,311 over a day (a parent that kept spreading).
+- Mention: @glance_inspires (brand account) answered our Oct 19 Verizon/Glance post confirming the conditions. Optional short reply drafted.
+
+### Drafted for publish (Wednesday evening, parent to post)
+- Packet: social/2026-10-28/pm/xgrowth-pm-drafts.md
+- R1 @AndroidAuth YouTube Premium price history (logo + step chart), R2 @THR April 10 hike before/after, R3 optional @lifehacker Discord regional defaults, optional Glance mention reply.
+- Next original: Grindr, Oct 29 morning (held above). No chart tomorrow.
