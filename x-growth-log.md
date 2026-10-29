@@ -1028,3 +1028,7 @@ Do not mention the unverified June 2026 Grindr breach post.
 - Pin check: 2115104793509151180 is still pinned (it starts "Due on your accounts this week").
 - No original tonight. Grindr is held for the Oct 29 morning original.
 - Lesson: before re-dispatching an interrupted posting run, check from:QuietlyChanged first so nothing gets posted twice.
+
+## Queued for 2026-10-29 sessions: GitHub Enterprise + Copilot (daily report)
+The Grindr post is today's one original (morning). Use GitHub as a REPLY under a big GitHub Universe or Copilot-bundling post (fewer than 100 replies), with images 01-github-logo.png, 02-enterprise-before-after.png and 03-no-credits-metered.png from social/2026-10-29/daily/. Base the text on social/2026-10-29/daily/post.txt, but drop the link from the reply or keep it, as fits (280 max). If no good thread turns up, hold it as a candidate original for Oct 30.
+Article: https://quietlychanged.com/changes/2026-10-29-github-github-enterprise-now-includes-copilot-for-every-licensed-user-with-ai-u/
