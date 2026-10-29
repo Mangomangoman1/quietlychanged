@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Social Security · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-29-social-security-social-security-is-building-one-client-data
+ -system-profile-on-e@quietlychanged.com
+DTSTAMP:20261029T185942Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Social Security: Comments close
+DESCRIPTION:A new SSA records system keeps one profile per SSN: citizenshi
+ p\, earnings\, benefits\, marriage history\, call notes\, alert flags. Em
+ ail may be used for surveys. Comments close Nov 29.\n\nhttps://quietlycha
+ nged.com/changes/2026-10-29-social-security-social-security-is-building-o
+ ne-client-data-system-profile-on-e/
+URL:https://quietlychanged.com/changes/2026-10-29-social-security-social-s
+ ecurity-is-building-one-client-data-system-profile-on-e/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Social Security — Comments close
+END:VALARM
+END:VEVENT
+END:VCALENDAR

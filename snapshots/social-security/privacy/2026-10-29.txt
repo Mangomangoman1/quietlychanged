@@ -1,0 +1,249 @@
+Legal Status
+This site displays a prototype of a “Web 2.0” version of the daily
+Federal Register. It is not an official legal edition of the Federal
+Register, and does not replace the official print version or the official
+electronic version on GPO’s govinfo.gov.
+The documents posted on this site are XML renditions of published Federal
+Register documents. Each document posted on the site includes a link to the
+corresponding official PDF file on govinfo.gov. This prototype edition of the
+daily Federal Register on FederalRegister.gov will remain an unofficial
+informational resource until the Administrative Committee of the Federal
+Register (ACFR) issues a regulation granting it official legal status.
+For complete information about, and access to, our official publications
+and services, go to
+About the Federal Register
+on NARA's archives.gov.
+The OFR/GPO partnership is committed to presenting accurate and reliable
+regulatory information on FederalRegister.gov with the objective of
+establishing the XML-based Federal Register as an ACFR-sanctioned
+publication in the future. While every effort has been made to ensure that
+the material on FederalRegister.gov is accurately displayed, consistent with
+the official SGML-based PDF version on govinfo.gov, those relying on it for
+legal research should verify their results against an official edition of
+the Federal Register. Until the ACFR grants it official status, the XML
+rendition of the daily Federal Register on FederalRegister.gov does not
+provide legal notice to the public or judicial notice to the courts.
+Legal Status
+Document Search
+Enter a search term or FR citation e.g.
+88 FR 382
+30 FR 7878
+2024-13208
+USDA
+09/05/24
+RULE
+0503-AA39
+SORN
+Choosing an item from
+full text search results
+will bring you to those results. Pressing enter in the search box
+will also bring you to search results.
+Choosing an item from
+suggestions
+will bring you directly to the content.
+Background and more details are available in the
+Search & Navigation
+guide.
+Documents
+Public Inspection
+Relevant
+Newest
+Oldest
+← Previous
+Next →
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+10/28/2026
+In accordance with the provisions of the Privacy Act, as amended, this notice announces the re-establishment of a matching program with the Department of War (DOW), Defense Manpower Data Center (DMDC). Under this matching program, DOW will disclose military retirement payment and survivor benefit payment data to SSA. SSA will use the military...
+Agency Information Collection Activities: Proposed Request
+by the
+Social Security Administration
+09/24/2026
+Agency Information Collection Activities: Comment Request
+by the
+Social Security Administration
+08/27/2026
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+08/07/2026
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the Office of Personnel Management (OPM). Under this matching program, OPM will provide SSA with civil service benefit and payment data. This disclosure will provide SSA with information necessary to verify an individual's...
+Agency Information Collection Activities: Comment Request
+by the
+Social Security Administration
+07/31/2026
+Agency Information Collection Activities: Proposed Request
+by the
+Social Security Administration
+06/26/2026
+Agency Information Collection Activities: Proposed Request
+by the
+Social Security Administration
+05/26/2026
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+05/20/2026
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a re-establishment of a matching program with the Bureau of the Fiscal Service (Fiscal Service), Department of the Treasury (Treasury). Under this matching program, Fiscal Service, Treasury will disclose savings security data to SSA. SSA will use the data to...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+04/20/2026
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to discontinue an existing system of records notice entitled, Hearing Office Tracking System of Claimant Cases (60-0010), last published on <DATE>.
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+04/15/2026
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Electronic Disability Claim File (60-0320), hereinafter referred to as the eDIB Claim File, last published on <DATE>. This notice publishes details of the modified system as set forth below under the...
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+03/27/2026
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a re-establishment of a matching program with the Department of Veterans Affairs (VA), Veterans Benefits Administration (VBA). Under this matching program, VA will provide SSA with compensation and pension payment data necessary to administer Supplemental...
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+02/13/2026
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the Bureau of the Fiscal Service, Department of the Treasury (Fiscal Service). Under this matching program, Fiscal Service will disclose ownership of Savings Securities data to SSA. This disclosure will provide SSA with information...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+01/16/2026
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Requests for Accommodation from Members of the Public (60- 0378), last published in full on <DATE>. This notice publishes details of the modified system as set forth below under the caption,...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+01/09/2026
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Disability Determination Services (DDS) Consultant File (60- 0046), last published on <DATE>. This notice publishes details of the modified system as set forth below under the caption, SUPPLEMENTARY...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+01/08/2026
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Hearings and Appeals Case Control System (60-0009), last published on <DATE>. This notice publishes details of the modified system as set forth under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+11/25/2025
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the United States Department of the Treasury, Internal Revenue Service (IRS). Under this matching program, the IRS will disclose IRS return information to SSA for use in verifying eligibility for, and the correct amount of,...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+11/25/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify our existing systems of records listed below under the System Name and Number section. This notice publishes details of the modified systems as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+11/21/2025
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the Railroad Retirement Board (RRB). Under this matching program, RRB, as the source agency, will disclose RRB annuity payment data to SSA, the recipient agency. SSA will use the information to verify Supplemental Security Income...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+11/18/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Freedom of Information Act (FOIA) and Privacy Act Record Request and Appeal System (60-0340), last published on <DATE>. This notice publishes details of the modified system as set forth below under the...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+11/12/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Master Files of Social Security Number (SSN) Holders and SSN Applications (60-0058), last published on <DATE>. This notice publishes details of the modified system as set forth below under the...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+08/20/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Travel and Border Crossing Records (60-0389), last published on <DATE>. This notice publishes details of the modified system as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+08/20/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Digital Identity File Record System (60-0373), last published on <DATE>. This notice publishes details of the system as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+08/20/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Administrative Law Judge/Public Alleged Misconduct Complaints System (60-0356), last published on <DATE>. This notice publishes details of the modified system as set forth below under the caption,...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+08/20/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Appointments, Visitor Information, and Customer Service Record System (60-0350), last published on <DATE>. This notice publishes details of the modified system as set forth below under the caption,...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+08/20/2025
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Race and Ethnicity Collection System (60-0104), last published on <DATE>. This notice publishes details of the modified system as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+04/11/2025
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the United States Department of the Treasury, Internal Revenue Service (IRS). Under this matching program, the IRS will disclose IRS to SSA certain return information for the purpose of verifying eligibility for the Medicare Part D...
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+04/11/2025
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the United Stated Department of Health and Human Services, Office of Child Support Services (OCSS). Under this matching program, OCSS will provide SSA with quarterly wage (QW) and unemployment insurance (UI) information located in...
+Privacy Act of 1974; System of Records; Correction
+by the
+Social Security Administration
+02/20/2025
+We published a document in the Federal Register revisiting our rules on <DATE>. In accordance with the Privacy Act of 1974 and the Executive Order 14168, Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government, we are re-issuing public notice of our intent to modify an existing system of...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+12/31/2024
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Master Files of Social Security Number (SSN) Holders and SSN Applications (60-0058), last published on <DATE>. This notice publishes details of the modified system as set forth below under the caption,...
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+12/30/2024
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the United States Department of Health and Human Service, the Office of Child Support Services (OCSS). Under this matching program, OCSS will provide SSA with online query access to the National Directory of New Hires (NDNH) for...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+12/03/2024
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify our existing systems of records listed below under the System Name and Number section. This notice publishes details of the modified systems as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+10/03/2024
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the Department of Labor (DOL). Under this matching program, DOL will disclose the DOL-administered Part B Black Lung (BL) benefit data to SSA. SSA will match DOL's Part B BL data with SSA's records of persons receiving Supplemental...
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+10/03/2024
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the Railroad Board (RRB). Under this matching program, the RRB will disclose to SSA information necessary to verify an individual's self-certification of eligibility for the Extra Help with Medicare Prescription Drug Plan Costs...
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+04/25/2024
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the Department of Defense (DOD), Defense Manpower Data Center (DMDC).
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+02/27/2024
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify our existing systems of records listed below under the System Name and Number section. This notice publishes details of the modified systems as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+02/27/2024
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify our existing systems of records listed below under the System Name and Number section. This notice publishes details of the modified systems as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Privacy Act of 1974; Matching Program
+by the
+Social Security Administration
+02/14/2024
+In accordance with the provisions of the Privacy Act, as amended, this notice announces a new matching program with the Office of Personnel Management (OPM). Under this matching program, OPM will provide SSA with civil service benefit and payment data. This disclosure will provide SSA with information necessary to verify an individual's...
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+01/05/2024
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify our existing systems of records listed below under the System Name and Number section. This notice publishes details of the modified systems as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+Agency Information Collection Activities: Proposed Request and Comment Request
+by the
+Social Security Administration
+11/15/2023
+Privacy Act of 1974; System of Records
+by the
+Social Security Administration
+11/01/2023
+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Race and Ethnicity Collection System (60-0104), last published on <DATE>. This notice publishes details of the modified system as set forth below under the caption, SUPPLEMENTARY INFORMATION.
+← Previous
+Next →
