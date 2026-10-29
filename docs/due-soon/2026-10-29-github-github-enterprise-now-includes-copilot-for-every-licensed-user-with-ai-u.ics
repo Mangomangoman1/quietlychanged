@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GitHub · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-29-github-github-enterprise-now-includes-copilot-for-every-lic
+ ensed-user-with-ai-u@quietlychanged.com
+DTSTAMP:20261029T121928Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:GitHub: Took effect
+DESCRIPTION:GitHub's pricing page now lists "GitHub Copilot access" in the
+  Enterprise plan. There are no per-seat AI credits: Chat\, code review an
+ d cloud agents draw on the company's AI budget.\n\nhttps://quietlychanged
+ .com/changes/2026-10-29-github-github-enterprise-now-includes-copilot-for
+ -every-licensed-user-with-ai-u/
+URL:https://quietlychanged.com/changes/2026-10-29-github-github-enterprise
+ -now-includes-copilot-for-every-licensed-user-with-ai-u/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: GitHub — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
