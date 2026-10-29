@@ -1,0 +1,3 @@
+Meta glasses owners can switch one thing off: Meta AI app > glasses Settings > Meta AI > "Store visual data from AI experiences." New AI images then aren't stored or used for training.
+
+In the US, voice has no switch: recordings are "stored by default," up to a year. Delete-only.

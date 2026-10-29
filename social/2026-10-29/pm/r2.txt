@@ -1,0 +1,3 @@
+Read this before you switch: Copilot now comes with GitHub Enterprise, but it "does not include monthly AI credits per seat." Usage is "metered from the first request" against your company budget.
+
+Budget at zero? Completions keep working. Chat, code review and cloud agents stop.

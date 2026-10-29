@@ -1059,3 +1059,31 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - Self-reply with link: https://quietlychanged.com/changes/2026-10-29-social-security-social-security-is-building-one-client-data-system-profile-on-e/
 - GitHub Enterprise/Copilot moves to an image reply or a later original.
 - Confirm the browser is on @QuietlyChanged (not @Missum_AI) and check from:QuietlyChanged before posting.
+
+## Snapshot 2026-10-29 ~5:20 PM MT (Thursday evening)
+- Followers **10** (flat since this morning), following 12, posts 162, media 66. Pinned is still 2115104793509151180 (41 imp).
+
+| When (MT) | Post | Impressions | Likes | BM | RT / replies |
+|---|---|---|---|---|---|
+| Oct 27 9:46 AM | Dollar General complaint receipts under @MorePerfectUS (2115107843590566112) | **18,826** (AM 15,291) | 92 | 4 | 5 / 1 |
+| Oct 27 5:30 PM | Discord deadline fix under @Malwarebytes (2115224677643891129) | **21,658** (AM 21,633) | 117 | 58 | 6 / 0 |
+| Oct 29 9:37 AM | Live Listen fact-check under @rektober (2115830496865419591), parent 209K / 52 replies | 128 | 0 | 0 | 0 |
+| Oct 28 6:04 PM | YouTube April hike under @THR (2115595567082709014) | 135 | 0 | 0 | 0 / 1 |
+| Oct 28 5:26 PM | YouTube price history under @AndroidAuth (2115585982032761145) | 61 | 0 | 0 | 0 |
+| Oct 29 9:43 AM | DoorDash/Instacart fees under @ABC (2115831989945389365), parent 28.7K | 44 | 0 | 0 | 0 |
+| Oct 29 9:31 AM | Grindr pricing line under @GOPoversight (2115829000874717435), parent 8.2K | 32 | 0 | 0 | 0 |
+| Oct 28 6:10 PM | Discord regions under @lifehacker (2115597053137203454) | 26 | 0 | 0 | 0 |
+| Oct 29 9:25 AM | Grindr AI-terms original (2115827248230199450) + self-reply (…153370) | 9 + 7 | 0 | 0 | 0 |
+
+### What we learned
+- The Dollar General receipts reply is still growing on day 3: 157 → 1,311 → 15,291 → 18,826. That's **8.4% of a 223K parent**, our best share ever. It was 4th in and quoted the primary document (4 undercover buys, the GLB Act angle) under an advocacy post that kept spreading. "Receipts from the filing" beats a summary.
+- Under the 209K @rektober PSA our correction got 128 (0.06%). We came in about 3.5 h late with roughly 50 replies ahead, and the post's audience wanted the toggle more than a fact-check. Under the viral PSAs, either arrive early or skip.
+- The morning replies under small or slow parents (8K and 29K) capped at 32–44. The Grindr original got 9 imp. Originals still don't travel at 10 followers, and follows were flat today.
+- Adjustment: in evening sessions, take the first slot under a fresh post from a 1M+ outlet on a privacy or price story (tonight: Bloomberg on Meta glasses, 23 min old, 1 reply), even when its impressions are still low. Treat a small-parent reply as optional.
+
+### Drafted for publish (Thursday evening, parent to post)
+- Packet: social/2026-10-29/pm/xgrowth-pm-drafts.md
+- R1 under @business (Bloomberg) Meta glasses privacy: the visual-data off switch plus US voice recordings stored by default for up to a year. Images: Meta logo + switches card (pm/01, pm/02).
+- R2 under @github Universe Day 2 keynote: Enterprise includes Copilot with no per-seat AI credits, metered from the first request. Images: daily/01–03.
+- R3 (optional, small parent) under @LeverNews DoorDash–Instacart: Instacart's Dec 22, 2025 "same prices — period" promise. Text only.
+- No original tonight. The Social Security original is still held for Oct 30 AM. GitHub moves to R2; if R2 is posted, drop GitHub as an original candidate.
