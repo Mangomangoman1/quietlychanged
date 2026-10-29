@@ -1051,3 +1051,11 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - Reply under @ABC (DoorDash/Instacart, text only): 2115831989945389365
 - Note: the box browser had been switched to @Missum_AI. I switched back to @QuietlyChanged with the account switcher before posting. Always confirm the active account first.
 - GitHub Enterprise/Copilot item is held as an Oct 30 candidate original.
+
+## Held for 2026-10-30 morning original (Social Security Client Data System) — replaces GitHub as Oct 30 original
+- Reason held: Grindr was today's one original. Oct 30 is also when the FR doc 2026-22173 goes live.
+- Drop the SSA seal (SSA Act §1140 emblem risk); lead with 02-whats-in-the-file.png, then 03-notice-quotes.png (social/2026-10-29/deepdive/).
+- Main post (no link): Social Security is creating one profile for everyone issued an SSN, pulled from 12 record systems: citizenship, earnings, benefits, marriages, call notes, "high-risk" flags.\n\nYour email can now be used for outreach and "surveys." Comments close Nov 29.
+- Self-reply with link: https://quietlychanged.com/changes/2026-10-29-social-security-social-security-is-building-one-client-data-system-profile-on-e/
+- GitHub Enterprise/Copilot moves to an image reply or a later original.
+- Confirm the browser is on @QuietlyChanged (not @Missum_AI) and check from:QuietlyChanged before posting.
