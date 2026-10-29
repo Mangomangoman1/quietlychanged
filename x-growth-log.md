@@ -1019,3 +1019,12 @@ Do not mention the unverified June 2026 Grindr breach post.
 - Packet: social/2026-10-28/pm/xgrowth-pm-drafts.md
 - R1 @AndroidAuth YouTube Premium price history (logo + step chart), R2 @THR April 10 hike before/after, R3 optional @lifehacker Discord regional defaults, optional Glance mention reply.
 - Next original: Grindr, Oct 29 morning (held above). No chart tomorrow.
+
+## Published 2026-10-28 evening
+- R1 under AndroidAuth (YouTube price history): 2115585982032761145. A duplicate (2115586181664809370) was posted by an interrupted run and deleted.
+- R2 under THR (April YouTube hike): 2115595567082709014
+- R3 under Lifehacker (Discord default regions): 2115597053137203454
+- R4 under glance_inspires (text): 2115598632053575756
+- Pin check: 2115104793509151180 is still pinned (it starts "Due on your accounts this week").
+- No original tonight. Grindr is held for the Oct 29 morning original.
+- Lesson: before re-dispatching an interrupted posting run, check from:QuietlyChanged first so nothing gets posted twice.
