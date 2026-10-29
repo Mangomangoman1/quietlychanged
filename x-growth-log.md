@@ -1032,3 +1032,13 @@ Do not mention the unverified June 2026 Grindr breach post.
 ## Queued for 2026-10-29 sessions: GitHub Enterprise + Copilot (daily report)
 The Grindr post is today's one original (morning). Use GitHub as a REPLY under a big GitHub Universe or Copilot-bundling post (fewer than 100 replies), with images 01-github-logo.png, 02-enterprise-before-after.png and 03-no-credits-metered.png from social/2026-10-29/daily/. Base the text on social/2026-10-29/daily/post.txt, but drop the link from the reply or keep it, as fits (280 max). If no good thread turns up, hold it as a candidate original for Oct 30.
 Article: https://quietlychanged.com/changes/2026-10-29-github-github-enterprise-now-includes-copilot-for-every-licensed-user-with-ai-u/
+
+## 2026-10-29 morning session (~9:17 AM MDT)
+Snapshot: followers 10 (was 7), following 12, posts 157.
+- Malwarebytes Discord reply 21,633 imp / 117 likes / 58 BM / 6 RT
+- MorePerfectUS Dollar General reply 15,291 imp / 82 likes (late growth from 1,311)
+- 9to5mac Apple reply 942; Dexerto 228; THR 104; BalaiBB 69; AndroidAuth 58; pinned roundup 37
+- Originals and small-parent replies still 5-22 (Xero 13, chart 14, Lifehacker 14, glance 13, DelCrxpto 9)
+Learnings: replies under big parents keep compounding for a day or more; originals still don't travel at 10 followers, so replies stay the main lever.
+Drafted (social/2026-10-29/am/xgrowth-am-drafts.md): held Grindr original (link moved to self-reply), replies under GOPoversight (Grindr personalized prices, FTC thread), rektober (Live Listen fact-check, Apple logo + Apple wording card), ABC (DoorDash-Instacart, membership fees, text only).
+Held: GitHub Enterprise + Copilot had no big live thread; candidate original for Oct 30. Skipped THR YouTube day-2 post.
