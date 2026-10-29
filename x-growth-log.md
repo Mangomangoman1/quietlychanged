@@ -1042,3 +1042,12 @@ Snapshot: followers 10 (was 7), following 12, posts 157.
 Learnings: replies under big parents keep compounding for a day or more; originals still don't travel at 10 followers, so replies stay the main lever.
 Drafted (social/2026-10-29/am/xgrowth-am-drafts.md): held Grindr original (link moved to self-reply), replies under GOPoversight (Grindr personalized prices, FTC thread), rektober (Live Listen fact-check, Apple logo + Apple wording card), ABC (DoorDash-Instacart, membership fees, text only).
 Held: GitHub Enterprise + Copilot had no big live thread; candidate original for Oct 30. Skipped THR YouTube day-2 post.
+
+## Published 2026-10-29 morning
+- Original (Grindr AI terms, 3 images): 2115827248230199450
+- Self-reply with article link: 2115827482721153370
+- Reply under @GOPoversight (FTC personalized pricing): 2115829000874717435
+- Reply under @rektober (Live Listen "hack"): 2115830496865419591
+- Reply under @ABC (DoorDash/Instacart, text only): 2115831989945389365
+- Note: the box browser had been switched to @Missum_AI. I switched back to @QuietlyChanged with the account switcher before posting. Always confirm the active account first.
+- GitHub Enterprise/Copilot item is held as an Oct 30 candidate original.
