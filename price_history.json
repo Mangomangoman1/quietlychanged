@@ -1,5 +1,5 @@
 {
- "_doc": "Sourced US list prices (monthly, new subscribers) for evergreen price-history sections on service pages. date = YYYY-MM or YYYY-MM-DD when the change took effect for new subscribers. Add rows only with a source.",
+ "_doc": "Sourced US list prices (monthly, new subscribers) for evergreen price-history sections on service pages. date = YYYY-MM or YYYY-MM-DD when the change took effect for new subscribers. Add rows only with a source. Optional \"todo\": list of What-to-do steps (light markdown: **bold**, [label](url)) for the service page; written only from the sourced facts in this entry.",
  "Netflix": {
   "verified": "2026-10-27",
   "intro": "Netflix has raised US prices roughly every one to two years since it split streaming from DVD rentals in 2011. Its main ad-free plan (Standard) has gone from $7.99 to $19.99 a month, and that plan has never gotten cheaper.",
@@ -1507,6 +1507,12 @@
   ]
  },
  "Verizon": {
+  "todo": [
+   "**Find the two charges on your bill.** The Administrative and Telco Recovery Charge and the Regulatory Charge are flat per-line monthly charges on US postpaid mobile bills. They are Verizon's own charges, not taxes.",
+   "**Note November 1 and November 15, 2026.** The Regulatory Charge goes from $0.21 to $0.26 per voice line on November 1, and the Administrative and Telco Recovery Charge from $3.78 to $4.69 per voice line on November 15, according to [Verizon's Important Plan Information page](https://www.verizon.com/support/important-plan-information/). Data-only lines stay at $3.97.",
+   "**Don't count on the price lock for these.** The 3-year myPlan price lock excludes taxes, fees and surcharges, so it doesn't cover either charge.",
+   "**Compare plans with the charges included.** Verizon's Important Plan Information page says Verizon One plans include these charges in the plan price, and Verizon Home Internet isn't subject to them. Verizon's surcharge page, which we check daily: [verizon.com/support/surcharges](https://www.verizon.com/support/surcharges/)."
+  ],
   "verified": "2026-10-23",
   "name": "Verizon",
   "title_name": "Verizon surcharge",

@@ -1,0 +1,32 @@
+{
+ "title": "Oura arbitration terms (Nov 4, 2026): can you opt out? What you can do before the deadline",
+ "desc": "Oura's new Terms of Use take effect Nov 4, 2026 and must be accepted in the app. There is no arbitration opt-out. What the terms let you do instead: small claims, the 30-day notice, cancelling before renewal. Sourced.",
+ "dek": "Short answer: no. Oura's new terms, which you must accept in the app by November 4, have no way to opt out of arbitration. Here is what they do let you do, quoted from the terms.",
+ "published": "2026-10-29",
+ "services": ["Oura"],
+ "changes": ["2026-10-17-oura-app-locks-nov-4-unless-you-accept-new-arbitration-terms"],
+ "body": [
+  {"h": "Is there an arbitration opt-out?"},
+  {"p": "No. We checked the live Terms of Use again on October 29, 2026. The only opt-outs they mention are for promotional emails and text messages. Neither the new terms nor the April 20, 2026 version they replace offers a way out of arbitration. If you've seen advice to email a company within 30 days to opt out, that applies to some other wearables (WHOOP and Eight Sleep both offer 30-day opt-outs), not to Oura."},
+  {"h": "The deadline"},
+  {"p": "The new terms read \"Last Updated: October 2, 2026\" and \"Effective Date: November 4, 2026.\" An Oura help-center article (last updated October 13) says members must accept them in the Oura App by November 4: \"After that date, you can't use the Oura App until you accept.\" The terms themselves leave no middle path:"},
+  {"quote": "If the modified Agreement is not acceptable to you, your only recourse is to cease using the Services.", "cite": "Oura Terms of Use, checked October 29, 2026", "url": "https://ouraring.com/terms-and-conditions"},
+  {"h": "Your options"},
+  {"ol": [
+   "**Read Section XVI before you tap Accept.** It's the U.S. dispute section: arbitration with the American Arbitration Association, a class action and jury trial waiver, and rules for mass claims. The full text is on [Oura's terms page](https://ouraring.com/terms-and-conditions).",
+   "**Accept, knowing what you keep.** Some claims stay out of arbitration. The terms list \"claims that can be brought in the local small claims court pursuant to the local rules of that court\" (either side can choose this) and \"Claims for public injunctive relief brought under California law.\"",
+   "**Or stop using the service.** That's the only alternative the terms offer. If you pay for a membership and decide to leave, the terms say you must cancel at least one day before renewal, and that cancelling stops only future charges.",
+   "**Put November 4 in your calendar** if you haven't decided yet: [add the date](../../due-soon/2026-10-17-oura-app-locks-nov-4-unless-you-accept-new-arbitration-terms.ics)."
+  ]},
+  {"h": "If you ever have a dispute"},
+  {"p": "Under the new terms you can't go straight to arbitration. \"At least 30 days prior to a party initiating an arbitration,\" each side has to send the other a written \"Pre-Dispute Notice\" and try to negotiate. Your notice goes by mail to Oura's agent for service of process in Sacramento, California; the address is in Section XVI. Claims of $50,000 or less are decided on written submissions unless the arbitrator decides to hold a hearing. If 25 or more similar claims are filed by people whose lawyers work together, 20 are picked at random to go first and the rest wait."},
+  {"h": "Fee changes and renewals"},
+  {"p": "Two smaller changes matter if you pay for a membership. Oura no longer promises 30 days' email notice of a fee change; it now promises notice \"in advance of the effective date and within the timeframe required by applicable law.\" In exchange, the terms add: \"You may cancel your Subscription at any time before that effective date to avoid the new Fee.\" Renewals are now charged on your billing anniversary itself, not the day before."},
+  {"h": "Your data"},
+  {"p": "Oura says the update \"does not change how Oura collects, uses, or protects member data,\" and its Privacy Policy was still dated June 15, 2026 when we checked on October 17. Anything not covered here: check [the terms](https://ouraring.com/terms-and-conditions) themselves, or ask Oura support before November 4."}
+ ],
+ "sources": [
+  ["Oura Terms of Use (Last Updated October 2, 2026; effective November 4, 2026)", "https://ouraring.com/terms-and-conditions"],
+  ["QuietlyChanged: Oura app locks Nov 4 unless you accept new arbitration terms (Oct 17, 2026)", "https://quietlychanged.com/changes/2026-10-17-oura-app-locks-nov-4-unless-you-accept-new-arbitration-terms/"]
+ ]
+}

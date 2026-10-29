@@ -1,0 +1,43 @@
+{
+ "title": "How to opt out of Google using Gmail, Photos and Drive data in Search, Gemini and ads",
+ "desc": "Since Oct 16, 2026, Gmail, Photos and Drive data you connect to Google Search or Gemini can shape your ads. How to check whether it's on, disconnect it in Search, and what Google's own pages say. Sourced.",
+ "dek": "Google's privacy policy now lets Gmail, Photos and Drive data shape your ads, but only if you connect those apps to Search or Gemini. Here's how to check, and how to undo it, using Google's own pages.",
+ "published": "2026-10-29",
+ "services": ["Google"],
+ "changes": ["2026-10-17-google-gmail-photos-and-drive-data-you-share-with-search-or-gemini-can-now-shap"],
+ "body": [
+  {"h": "The short version"},
+  {"p": "Nothing happens unless you connect the apps. Google's privacy policy (marked effective October 16, 2026) frames access as something you choose to allow. If you have never let Search or Gemini connect to Gmail, Google Photos or Drive, the new ads exception doesn't apply to you. If you have, or aren't sure, the steps below show where to look."},
+  {"h": "What the policy says now"},
+  {"quote": "We don’t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads.", "cite": "Google Privacy Policy, checked October 29, 2026", "url": "https://policies.google.com/privacy?hl=en"},
+  {"p": "Before this version, the sentence ended at \"Photos.\" The policy adds that you \"may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,\" and that this is \"subject to the policies and settings of the accessing service.\" In other words, the switch lives in the settings of the service doing the reading, Search or Gemini, not in Gmail itself."},
+  {"h": "Step 1: Disconnect Gmail and Photos from Search"},
+  {"p": "Google's Search Help page on connected content apps describes the path. In your Google Account:"},
+  {"ol": [
+   "Go to **Data & privacy**, then **Personalization settings**.",
+   "Open **Manage Personalized Recommendations in Search Services** (Search Services Personalization).",
+   "Under **Additional Personal Intelligence**, open **Connected Content Apps**.",
+   "Disconnect **Google Workspace** (Gmail and Drive) and **Google Photos**.",
+   "If you'd rather not have Search personalize anything, you can turn off **Personalized Recommendations** entirely on the same page."
+  ]},
+  {"p": "Menu names can change. If you don't see these, use [Google's Search Help page](https://support.google.com/websearch/answer/16859283?hl=en), which is the source for these steps."},
+  {"h": "Step 2: Deal with what Search already has"},
+  {"p": "Disconnecting doesn't erase what was already used. Google's Search Help says disconnecting a connected content app \"doesn't delete any data from your Search Services History,\" and that this data can still be used for product improvement, including training generative AI models. Deleting Search Services History is a separate step. Our sources don't spell out that path, so follow [Google's Search Help page](https://support.google.com/websearch/answer/16859283?hl=en) for it."},
+  {"h": "Step 3: Check Gemini Apps separately"},
+  {"p": "The policy names Gemini Apps alongside Search, and says access follows \"the policies and settings of the accessing service.\" So Gemini has its own settings. Our sources don't give the exact Gemini menu path, and we won't guess one. Open the Gemini app's settings and Google's official Gemini help pages, and check whether Gmail, Drive or Photos are connected there."},
+  {"h": "Step 4: Look at your ad settings"},
+  {"p": "The policy says: \"You can control what information we use to show you ads by visiting your ad settings in My Ad Center.\" That's where to check what Google uses for ads overall, including anything coming from Search personalization."},
+  {"h": "What Google says it does and doesn't do"},
+  {"ul": [
+   "Google's Search Help says ads \"will not be based directly on your Gmail inbox or your Google Photos library.\"",
+   "But if you connect those apps, Search \"may reference summaries, excerpts and inferences from these sources,\" and \"That same info may be used to show you ads.\"",
+   "Google says advertisers don't get access to your inbox or Photos library."
+  ]},
+  {"p": "Read all of this against the source, since Google can change both the policy and the help page. We recheck the [privacy policy](https://policies.google.com/privacy?hl=en) every day and log any change on our [Google page](../../services/google/)."}
+ ],
+ "sources": [
+  ["Google Privacy Policy (effective October 16, 2026)", "https://policies.google.com/privacy?hl=en"],
+  ["Google Search Help: Connect your Google content apps (Personal Intelligence, ads FAQ)", "https://support.google.com/websearch/answer/16859283?hl=en"],
+  ["QuietlyChanged: Gmail, Photos and Drive data you share with Search or Gemini can now shape ads (Oct 17, 2026)", "https://quietlychanged.com/changes/2026-10-17-google-gmail-photos-and-drive-data-you-share-with-search-or-gemini-can-now-shap/"]
+ ]
+}

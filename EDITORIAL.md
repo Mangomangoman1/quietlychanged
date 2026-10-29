@@ -24,6 +24,16 @@ Strongly recommended for every new change:
 
 Still supported, unchanged: `faq`, `note`, `sources`, `seo_title`, `seo_desc`, `modified`.
 
+**Corrections:** `corrections`: `[{"date": "YYYY-MM-DD", "text": "What was wrong and what is right."}]`. Each shows as a dated "Correction" note at the top of the article (policy: `/contact.html`). Set `modified` to the same date. Never change the `headline` to correct it; the URL is built from it.
+
+## Guides (`guides/<slug>.json`)
+
+Evergreen how-to pages at `/guides/<slug>/`, built only from changes we've already sourced and the official pages they cite. Keys: `title`, `desc`, `dek`, `published`, `modified`, `services` (names from `services.json`; those service pages link the guide), `changes` (article slugs, shown as "Our coverage"), `body` (blocks: `{"h"}`, `{"p"}`, `{"ol": [...]}`, `{"ul": [...]}`, `{"quote", "cite", "url"}`; text allows `**bold**` and `[label](url)`), `sources` (`[[name, url], ...]`). If a step isn't in the sources, say to check the official page; don't write one from memory.
+
+## Indexing rules (in `qc/build.py`)
+
+Daily reports (`/reports/*`) and service pages with under 150 words of main content and no logged change get `noindex, follow`. They stay online and linked, but are left out of `sitemap.xml`, the feed and IndexNow. A service page leaves that group automatically once its first change is logged.
+
 ### Writing the redline
 
 The excerpt is the hook of every page, so it's worth getting right.

@@ -35,3 +35,13 @@ def md(t):
     return "\n".join(out)
 
 def plural(n, word, pl=None): return f"{n} {word if n == 1 else (pl or word + 's')}"
+
+def words(h):
+    """Visible word count of an HTML fragment (scripts/styles dropped, tags stripped)."""
+    h = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", h, flags=re.S)
+    return len(html.unescape(re.sub(r"<[^>]+>", " ", h)).split())
+
+def inline(t):
+    """Escape text, then allow [label](url) links and **bold**."""
+    e = E(t); e = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", e)
+    return re.sub(r"\[(.+?)\]\((.+?)\)", r'<a href="\2">\1</a>', e)

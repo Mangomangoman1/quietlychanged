@@ -11,8 +11,8 @@ Other inputs: services.json, price_history.json, service_seo.json, themes.json.
 See EDITORIAL.md for how to write each field.
 """
 import json, pathlib, re, datetime, os, shutil, random
-from .util import E, LABEL, IMPACT, slug, slug_tr, art_slug, nice, short, short_y, weekday, days_until, md, plural, date
-from .layout import page, PAGES, SITE, TAG, ORG
+from .util import E, LABEL, IMPACT, slug, slug_tr, art_slug, nice, short, short_y, weekday, days_until, md, plural, date, words, inline
+from .layout import page, PAGES, NOINDEX, SITE, TAG, ORG, EMAIL
 from .components import kind, impact, mono, stamp, exhibit, mini_bl, entry, clip, due_chip, follow_btn, countdown_text
 from .redline import raw_sections
 from .structure import structure, render as render_sections
@@ -107,7 +107,7 @@ def main():
         if d == days[0] and not items: desc = f"Day 0: QuietlyChanged starts tracking {len(s)} popular services' pricing, terms of service, and privacy policies."
         hl = report_title[d]
         ld = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": hl[:110], "datePublished": d + "T06:00:00-06:00", "dateModified": d + "T06:00:00-06:00", "url": f"{SITE}/reports/{d}.html", "image": [SITE + "/og.png"], "author": {"@type": "Organization", "name": "QuietlyChanged", "url": SITE + "/"}, "publisher": ORG, "description": desc}
-        write(D / "reports" / f"{d}.html", page(f"reports/{d}.html", f"{hl} ({nice(d)})", report_body(d, "../"), TODAY, desc=desc, depth=1, ld=ld, otype="article", lastmod=d, crumbs=[("Home", SITE + "/"), ("Archive", SITE + "/archive.html")]))
+        write(D / "reports" / f"{d}.html", page(f"reports/{d}.html", f"{hl} ({nice(d)})", report_body(d, "../"), TODAY, desc=desc, depth=1, ld=ld, otype="article", lastmod=d, crumbs=[("Home", SITE + "/"), ("Archive", SITE + "/archive.html")], noindex=True))  # daily digests repeat the articles: kept online, not indexed
 
     # ---------- change articles ----------
     def related(c, k=3):
@@ -148,6 +148,7 @@ def main():
         secs, cov = structure(c["what"])
         body_html = render_sections(secs)
         note_html = f'<aside class="update" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
+        note_html += "".join(f'<aside class="update" role="note"><strong>Correction, <time datetime="{x["date"]}">{nice(x["date"])}</time></strong>{E(x["text"])}</aside>' for x in c.get("corrections", []))
         faq_html = ('<h2 id="quick-answers">Quick answers</h2>' + "".join(f"<h3>{E(q)}</h3><p>{E(an)}</p>" for q, an in c["faq"])) if c.get("faq") else ""
         srcs_html = ("<p>Other sources:</p><ul>" + "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n, u in c["sources"]) + "</ul>") if c.get("sources") else ""
         cov_html = f'<div class="coverage"><span class="label">Who else has reported it{" · " + E(cov[0]) if cov[0] else ""}</span>{E(cov[1])}</div>' if cov else ""
@@ -182,7 +183,7 @@ def main():
                     f'<div class="prose" style="margin-top:{"2.2rem" if exhibits else "0"}">{note_html}' + ('<h2>What changed</h2>' if c.get("tldr") or exhibits else "") +
                     (body_html if c.get("tldr") or exhibits else f'<p class="lede">{E(c["what"])}</p>' if len(secs) <= 1 else body_html) +
                     f'<h2>Who it affects</h2><p>{E(c.get("who","All users"))}</p>{faq_html}{cov_html}'
-                    f'<h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>{srcs_html}{diff_html}{prov}</div></div>')
+                    f'<h2>Source</h2><p>Detected on the {E(c["service"])} {LABEL.get(k,k).lower()} page: <a href="{E(c["url"])}">{E(c["url"])}</a>. Always check the source; this summary is not legal or financial advice.</p>{srcs_html}{diff_html}{prov}<p class="prov">Published by QuietlyChanged: pages tracked automatically, each change reviewed by a person before publishing. <a href="../../about.html">About</a> · <a href="../../contact.html">Contact &amp; corrections</a></p></div></div>')
         body = (head + f'<div class="wide art-grid">{main_col}<aside class="art-aside" aria-label="Actions">{aside}</aside></div>'
                 f'<section class="wide section" aria-labelledby="kr"><div class="sec-title"><h2 id="kr">Keep reading</h2><button class="btn" type="button" data-another>Show me another quiet change ↻</button></div><ul class="rail">{rail}</ul>'
                 f'<p class="linkline" style="margin-top:1.4rem">{more_svc}<a href="../../{HUB_FOR[k][0]}">All {HUB_FOR[k][1].lower()}</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p></section>')
@@ -293,6 +294,70 @@ def main():
         ld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": an}} for q, an in faq]}
         return html_, ld, pct, fl
 
+    # ---------- service build-outs: price chart, dated timeline, what to do (only from price_history.json + logged changes) ----------
+    def dated_sources(h, d):
+        """Sources whose own label or URL carries this date, plus `latest`'s source on its date. No guessing beyond that."""
+        if len(d) == 10: x = date(d); keys = [x.strftime("%b %-d, %Y"), x.strftime("%B %-d, %Y"), d, d.replace("-", "/")]
+        elif len(d) == 7: x = date(d + "-01"); keys = [x.strftime("%b %Y"), x.strftime("%B %Y"), d.replace("-", "/") + "/"]
+        else: keys = []
+        out = [(n, u) for n, u in h["sources"] if any(kk in n or kk in u for kk in keys)]
+        L = h["latest"]
+        if L["date"] == d and all(u != L["source"] for _, u in out): out.append((L["source_name"], L["source"]))
+        return out
+    def src_links(srcs): return " · ".join(f'<a href="{E(u)}">{E(n)}</a>' for n, u in srcs)
+    def price_chart(k, h):
+        figs = ""
+        for plan, rows in h["plans"].items():
+            if len(rows) < 2: continue
+            mx = max(r[1] for r in rows)
+            li = "".join(f'<li title="{E(plan)}, {E(_pd(r[0]))}: {_amt(h,plan,r[1])}"><span><time datetime="{r[0]}">{_pd(r[0])}</time></span><span class="track"><span class="fill" style="width:{max(2, r[1] / mx * 100):.1f}%"></span></span><span class="v">{_amt(h,plan,r[1]).split("/")[0]}</span></li>' for r in rows)
+            figs += f'<figure class="chart" style="margin-top:1.2rem"><figcaption style="margin:0 0 .6rem;color:var(--ink-2)"><b>{E(plan)}</b>, price per {_u(h,plan)}, oldest first</figcaption><ul class="bars">{li}</ul></figure>'
+        if not figs: return ""
+        return (f'<section class="prose" aria-labelledby="pc"><h2 id="pc">{E(h.get("title_name", h.get("name", k)))} price chart</h2>{figs}'
+                f'<p class="cap">Every bar is a dated US list price from the sourced history on this page (the tables under "{E(h.get("title_name", h.get("name", k)))} price history" list the same numbers). Nothing is estimated or adjusted; bar length is relative to that plan\'s highest price. Sources: {src_links(h["sources"])}.</p></section>')
+    def svc_timeline(k, h, log):
+        ev = {}
+        for plan, rows in h["plans"].items():
+            for i, r in enumerate(rows):
+                if i == 0: txt = f"{plan}: {_amt(h,plan,r[1])}, the earliest price in our history"
+                elif r[1] != rows[i - 1][1]: txt = f"{plan}: {_amt(h,plan,rows[i-1][1])} to {_amt(h,plan,r[1])} ({_chg(r[1], rows[i-1][1])})"
+                else: txt = f"{plan}: {_amt(h,plan,r[1])}"
+                if len(r) > 2: txt += ". " + r[2]
+                ev.setdefault(r[0], [[], []])[0].append(E(txt))
+        L = h["latest"]
+        if L["date"] not in ev: ev.setdefault(L["date"], [[], []])[0].append(E(L["what"][:1].upper() + L["what"][1:]))
+        for d, c in log:
+            ev.setdefault(d, [[], []])[1].append(c)
+        li = ""
+        for d in sorted(ev, reverse=True):
+            prices, logged = ev[d]
+            when = _pd(d) + (" (scheduled)" if len(d) == 10 and d > TODAY else "")
+            srcs = dated_sources(h, d) if prices else []
+            parts = "".join(f"<p>{p}</p>" for p in prices)
+            parts += "".join(f'<p>{kind(c.get("page","terms"))} <a href="../../changes/{c["_art"]}/">{E(c.get("headline") or "Page updated")}</a></p>' for c in logged)
+            if srcs: parts += f'<p class="cap">Source for this date: {src_links(srcs)}</p>'
+            imp = max([c["impact"] for c in logged] or [0])
+            li += f'<li{f" class=i{imp}" if imp >= 2 else ""}><p class="label"><time datetime="{d}">{E(when)}</time></p>{parts}</li>'
+        return (f'<section class="section" aria-labelledby="tl"><div class="sec-title"><h2 id="tl">{E(k)} timeline</h2><span class="label">Newest first</span></div>'
+                f'<p class="cap" style="margin-bottom:1rem">Price changes from our sourced price history, and every change we have logged on {E(k)}\'s tracked pages (linked to our write-up). Where a source is dated the same day, it is linked under that entry; the full source list is under the price chart.</p><ol class="timeline">{li}</ol></section>')
+    def svc_todo(k, h, log):
+        if h.get("todo"): steps = h["todo"]   # per-service steps, written from the sourced data
+        else:
+            cur = "; ".join(f"{pl} {_amt(h,pl,_cur(r))}" for pl, r in h["plans"].items() if "discontinued" not in pl)
+            steps = [f"**Check what you pay.** Sign in to your {k} account and open the plan or billing page. Compare it with the current US list prices in our history: {cur}."]
+            up = sorted([(c["effective"], c) for d, c in log if c.get("effective") and days_until(c["effective"], TODAY) >= 0], key=lambda x: x[0])
+            if up:
+                eff, c = up[0]
+                steps.append(f'**Put {nice(eff)} in your calendar.** {c.get("deadline") or "Takes effect"}: [{c.get("headline","")}](../../changes/{c["_art"]}/). [Add the date to your calendar](../../due-soon/{c["_art"]}.ics).')
+            else:
+                steps.append("**Set a reminder a few days before your next billing date.** Renewals are charged on that date, so a reminder gives you time to switch plans or cancel before the next charge.")
+            off = s[k].get("pricing")
+            steps.append(f"**To downgrade or cancel,** use {k}'s own account settings, or the app store, carrier or bundle you pay through if you subscribed that way. "
+                         + (f"{k}'s official plans page, which we check daily: [{off}]({off})." if off else f"We don't have a verified link to {k}'s cancellation page, so we don't link one; start from {k}'s official website or app."))
+        steps = steps + [f"**Follow {k} here.** Tap Follow on this page and new {k} changes show up under \"Your services\" on our front page, saved in this browser."]
+        return f'<section class="prose" aria-labelledby="wtd"><h2 id="wtd">What to do</h2><ol>{"".join(f"<li>{inline(x)}</li>" for x in steps)}</ol></section>'
+    def build_out(k, h, log): return price_chart(k, h) + svc_timeline(k, h, log) + svc_todo(k, h, log)
+
     # ---------- evergreen category hubs ----------
     HUBS = {
      "pricing": ("Subscription price increases & pricing changes in {Y} (tracker)", "Every price increase, new fee, plan limit, and pricing-page change QuietlyChanged has detected at popular subscriptions and apps in {Y}, dated and linked to the source.",
@@ -361,7 +426,24 @@ def main():
               {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": an}} for q, an in faq]}]
         write(D / "subscription-price-history" / "index.html", page("subscription-price-history/index.html", tt, body, TODAY, desc=dd, depth=1, ld=ld, lastmod=lm, crumbs=[("Home", SITE + "/"), ("Price changes", SITE + "/price-changes/")]))
 
+    # ---------- evergreen guides (guides/<slug>.json) ----------
+    # Keys: title, desc, dek, published, modified (YYYY-MM-DD), services [names], changes [article slugs],
+    #       body [{"h": ..} | {"p": ..} | {"ol": [..]} | {"ul": [..]} | {"quote": .., "cite": name, "url": ..}], sources [[name, url]].
+    # Text allows [label](url) and **bold**. Build fails if a listed change or service doesn't exist.
+    ART = {c["_art"]: (d, c) for d, c in ALL}
+    GUIDES = {}
+    for f in sorted((R / "guides").glob("*.json")) if (R / "guides").exists() else []:
+        g = json.loads(f.read_text())
+        for a_ in g.get("changes", []): assert a_ in ART, f"{f.name}: unknown change {a_}"
+        for n_ in g.get("services", []): assert n_ in s, f"{f.name}: unknown service {n_}"
+        GUIDES[f.stem] = g
+    def guide_box(k, root="../../"):
+        gs = [(gs_, g) for gs_, g in GUIDES.items() if k in g.get("services", [])]
+        if not gs: return ""
+        return '<section class="box"><h2>Guides</h2><ul class="chips">' + "".join(f'<li><a href="{root}guides/{gs_}/">{E(g["title"])}</a></li>' for gs_, g in gs) + "</ul></section>"
+
     # ---------- service dossiers ----------
+    THIN_WORDS = 150; THIN = []
     svc_stats = {}
     for k_, v in s.items():
         log = [(d, c) for d, c in ALL_NEW if c["service"] == k_]
@@ -406,16 +488,21 @@ def main():
             ups = sum(1 for i2 in range(1, len(fl)) if fl[i2][1] > fl[i2 - 1][1])
             facts = [(_amt(h, h["flagship"], fl[-1][1]).split("/")[0], f'{h["flagship"]}, per {_u(h,h["flagship"])}'), (f"+{phpct:.0f}%", f"since {fl[0][0][:4]}"), (str(ups), "price increases"), (str(len(log)), "changes logged since Oct 13" if first == "2026-10-13" else "changes logged")]
         facts_html = '<div class="facts">' + "".join(f"<div><b>{E(a)}</b><span>{E(b)}</span></div>" for a, b in facts) + "</div>"
-        body = (f'<header class="wide page-head"><div class="dossier-head">{mono(k, lg=True)}<div><p class="label">Service history · {E(" · ".join(LABEL[p] for p in v))}</p></div></div>'
+        svc_body = lambda extra="", gbox="": (f'<header class="wide page-head"><div class="dossier-head">{mono(k, lg=True)}<div><p class="label">Service history · {E(" · ".join(LABEL[p] for p in v))}</p></div></div>'
                 f'<h1>{E(title)}</h1><p class="meta">Tracked since <time datetime="{first}">{nice(first)}</time> · Last snapshot <time datetime="{last}">{nice(last)}</time></p>'
                 f'<p class="lede">QuietlyChanged checks {E(k)}\'s public {kinds} pages every day and records what changes, in plain English.</p>{due_html}{facts_html}</header>'
-                f'<div class="wide art-grid" style="margin-top:2rem"><div class="art-main"><div class="prose">{phtml}</div>{latest_ex}<div class="prose">{svc_faq}</div>'
+                f'<div class="wide art-grid" style="margin-top:2rem"><div class="art-main">{extra}<div class="prose">{phtml}</div>{latest_ex}<div class="prose">{svc_faq}</div>'
                 f'<section class="section" aria-labelledby="cl" style="margin-top:2.6rem"><div class="sec-title"><h2 id="cl">Changelog</h2><span class="label">{plural(len(log), "change")}</span></div>{cl}</section>'
                 f'<section class="section" aria-labelledby="pw"><div class="sec-title"><h2 id="pw">Pages we monitor</h2></div><ul class="watch">{watch}</ul></section></div>'
                 f'<aside class="art-aside" aria-label="About this service"><section class="box"><h2>Keep track</h2><div class="btnrow">{follow_btn(k)}<button class="btn" type="button" data-copy>Copy link</button></div></section>'
                 + (f'<section class="box"><h2>In these threads</h2><ul class="chips">' + "".join(f'<li><a href="../../threads/{th}/">{E(THEMES[th]["title"])}</a></li>' for th in dict.fromkeys(t for _, c in log for t in c.get("themes", [])) if th in THEMES) + '</ul></section>' if any(c.get("themes") for _, c in log) else "")
-                + f'<section class="box"><h2>Neighbors</h2><ul class="chips"><li><a href="../{slug(nb[0])}/">{E(nb[0])}</a></li><li><a href="../{slug(nb[1])}/">{E(nb[1])}</a></li><li><a href="../../services.html">All services</a></li><li><a href="../../about.html">How it works</a></li></ul></section></aside></div>')
-        write(D / "services" / sl / "index.html", page(f"services/{sl}/index.html", title, body, TODAY, desc=desc, depth=2, ld=([ld, phld] if phld else ld), lastmod=max([last] + [c.get("modified", d) for d, c in log] + ([PH[k]["verified"]] if k in PH else [])), crumbs=[("Home", SITE + "/"), ("What we track", SITE + "/services.html")]))
+                + gbox + f'<section class="box"><h2>Neighbors</h2><ul class="chips"><li><a href="../{slug(nb[0])}/">{E(nb[0])}</a></li><li><a href="../{slug(nb[1])}/">{E(nb[1])}</a></li><li><a href="../../services.html">All services</a></li><li><a href="../../about.html">How it works</a></li></ul></section></aside></div>')
+        # Thin rule, measured on the page as it was before build-outs and guide links: under 150 words of main content
+        # and nothing logged yet. Such pages stay online and linked but are kept out of the index and the sitemap.
+        thin = not log and words(svc_body()) < THIN_WORDS
+        if thin: THIN.append(k)
+        body = svc_body(build_out(k, PH[k], log) if k in PH else "", guide_box(k))
+        write(D / "services" / sl / "index.html", page(f"services/{sl}/index.html", title, body, TODAY, desc=desc, depth=2, ld=([ld, phld] if phld else ld), lastmod=max([last] + [c.get("modified", d) for d, c in log] + ([PH[k]["verified"]] if k in PH else [])), crumbs=[("Home", SITE + "/"), ("What we track", SITE + "/services.html")], noindex=thin))
 
     # ---------- services index ----------
     tiles = []
@@ -430,20 +517,74 @@ def main():
 <p class="label" id="count" aria-live="polite" style="margin-bottom:.8rem">{len(s)} of {len(s)} services shown</p>
 <ul class="tiles" id="rows">{"".join(tiles)}</ul></section>'''))
 
-    # ---------- about ----------
-    write(D / "about.html", page("about.html", "How it works", today=TODAY, desc="How QuietlyChanged snapshots, compares, and explains daily changes to popular services' pricing pages, terms, and privacy policies.", body=f'''<header class="wrap page-head"><p class="label">About</p><h1>How it works</h1>
-<p class="lede">Companies revise their prices, plan limits, terms of service, and privacy policies all the time, usually without announcement. QuietlyChanged keeps a public, dated record of those changes.</p></header>
-<div class="wrap prose"><h2>Our method</h2><ol><li><strong>Snapshot.</strong> Every morning we fetch the public pricing, terms, and privacy pages of every <a href="services.html">tracked service</a> and save the main text.</li>
-<li><strong>Compare.</strong> Each snapshot is compared line by line with the previous day's. We filter out noise such as cookie banners, scripts, timestamps, and copyright lines.</li>
-<li><strong>Explain.</strong> Meaningful differences are summarized in plain English: what changed, who it affects, and a link to the source.</li>
-<li><strong>Publish.</strong> The day's report goes on the front page and into the <a href="archive.html">archive</a>.</li></ol>
-<h2>Reading a blackline</h2><p>Lawyers compare two versions of a contract with a blackline, and so do we. Removed words are struck through in red; added words are underlined in blue. Text set in a typewriter face is the company's own wording, never ours.</p>
-<figure class="exhibit" style="margin-top:1rem"><figcaption class="ex-head"><span><b>Example · Todoist privacy policy</b></span><span>Oct 24, 2026</span></figcaption><div class="ex-body"><div class="ex-text bl">…to develop, improve, or train <del><span class="sr">deleted: </span>generalized/non-personalized</del> artificial intelligence or machine learning models.</div></div></figure>
-<p>Excerpts come from two places. "From our snapshot diff" means the words were taken directly from our before-and-after copies. "Quoted from the documents" means the change was confirmed in the company's own documents or announcements, which are linked from the article.</p>
+    # ---------- guide pages ----------
+    def guide_block(b):
+        if "h" in b: return f'<h2>{E(b["h"])}</h2>'
+        if "p" in b: return f'<p>{inline(b["p"])}</p>'
+        if "ol" in b or "ul" in b:
+            tg = "ol" if "ol" in b else "ul"; return f'<{tg}>' + "".join(f"<li>{inline(x)}</li>" for x in b[tg]) + f"</{tg}>"
+        if "quote" in b: return f'<blockquote><p>{E(b["quote"])}</p><footer>— <a href="{E(b["url"])}">{E(b["cite"])}</a></footer></blockquote>'
+        raise ValueError(f"unknown guide block {b}")
+    for gs_, g in GUIDES.items():
+        url = f"{SITE}/guides/{gs_}/"; mod = g.get("modified", g["published"])
+        cov = "".join(f'<li>{entry(ART[a_][1], ART[a_][0], "../../", TODAY, svc_href=svc_href(ART[a_][1]["service"], "../../"))}</li>' for a_ in g.get("changes", []))
+        srcs = "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n, u in g["sources"])
+        svcs = "".join(f'<li><a href="../../services/{slug(n)}/">{mono(n)}{E(n)}</a></li>' for n in g.get("services", []))
+        body = (f'<header class="wrap page-head"><p class="label">Guide</p><h1>{E(g["title"])}</h1><p class="lede">{E(g["dek"])}</p>'
+                f'<p class="meta">Published <time datetime="{g["published"]}">{nice(g["published"])}</time>' + (f' · Updated <time datetime="{mod}">{nice(mod)}</time>' if mod != g["published"] else "") + '</p></header>'
+                f'<div class="wrap prose">{"".join(guide_block(b) for b in g["body"])}'
+                f'<h2>Sources</h2><ul>{srcs}</ul><p class="prov">Written from the sources above and our own dated snapshots. Things change: always check the official page before you act. This guide is not legal advice. '
+                f'Spotted an error? <a href="../../contact.html">Contact &amp; corrections</a> · <a href="../../about.html">About</a></p></div>'
+                + (f'<section class="wrap section"><div class="sec-title"><h2>Our coverage</h2></div><ul class="entries">{cov}</ul></section>' if cov else "")
+                + (f'<div class="wrap" style="margin-top:1.4rem"><ul class="chips">{svcs}<li><a href="../">All guides</a></li></ul></div>' if svcs else ""))
+        ld = {"@context": "https://schema.org", "@type": "Article", "headline": g["title"][:110], "description": g["desc"], "datePublished": g["published"] + "T06:00:00-06:00", "dateModified": mod + "T06:00:00-06:00",
+              "url": url, "mainEntityOfPage": url, "image": [SITE + "/og.png"], "author": {"@type": "Organization", "name": "QuietlyChanged", "url": SITE + "/"}, "publisher": ORG,
+              "about": [{"@type": "Organization", "name": n} for n in g.get("services", [])], "citation": [u for _, u in g["sources"]]}
+        write(D / "guides" / gs_ / "index.html", page(f"guides/{gs_}/index.html", g["title"], body, TODAY, desc=g["desc"], depth=2, ld=ld, otype="article", lastmod=mod, crumbs=[("Home", SITE + "/"), ("Guides", SITE + "/guides/")]))
+    gli = "".join(f'<li><article class="entry"><div class="metarow"><span class="label">Guide</span><time datetime="{g.get("modified", g["published"])}">{E(short_y(g.get("modified", g["published"])))}</time></div><h3><a href="{gs_}/">{E(g["title"])}</a></h3><p>{E(g["dek"])}</p></article></li>' for gs_, g in GUIDES.items())
+    write(D / "guides" / "index.html", page("guides/index.html", "Guides: what to do about changes in the fine print", (
+        f'<header class="wrap page-head"><p class="label">Guides</p><h1>Guides</h1><p class="lede">Step-by-step guides for the changes that ask something of you: settings to check, deadlines to meet, and what the official pages actually say. Each one is built from our sourced coverage and links to the original documents.</p></header>'
+        + (f'<section class="wrap section"><ul class="entries">{gli}</ul></section>' if gli else '<div class="wrap"><p class="coverage">No guides yet.</p></div>')), TODAY, depth=1,
+        desc="QuietlyChanged guides: how to act on changes to terms, privacy policies and prices, with the official sources linked.",
+        ld={"@context": "https://schema.org", "@type": "CollectionPage", "name": "Guides", "url": f"{SITE}/guides/", "publisher": ORG}, lastmod=max([g.get("modified", g["published"]) for g in GUIDES.values()] or [TODAY]), crumbs=[("Home", SITE + "/")]))
+
+    # ---------- about + contact & corrections ----------
+    ex_fig = '<figure class="exhibit" style="margin-top:1rem"><figcaption class="ex-head"><span><b>Example · Todoist privacy policy</b></span><span>Oct 24, 2026</span></figcaption><div class="ex-body"><div class="ex-text bl">…to develop, improve, or train <del><span class="sr">deleted: </span>generalized/non-personalized</del> artificial intelligence or machine learning models.</div></div></figure>'
+    write(D / "about.html", page("about.html", "About us: how we track, check and source changes", today=TODAY, lastmod=TODAY,
+          desc="What QuietlyChanged is, how pages are tracked automatically and reviewed by a person before publishing, how we source and quote, and how to reach us with corrections.",
+          ld={"@context": "https://schema.org", "@type": "AboutPage", "name": "About QuietlyChanged", "url": f"{SITE}/about.html", "publisher": ORG}, body=f'''<header class="wrap page-head"><p class="label">About</p><h1>About QuietlyChanged</h1>
+<p class="lede">Companies revise their prices, plan limits, terms of service and privacy policies all the time, usually without announcement. QuietlyChanged keeps a public, dated record of those changes, with the company's own words and a link to the source.</p></header>
+<div class="wrap prose"><h2>Who we are</h2><p>QuietlyChanged is a small independent publication that tracks the fine print of popular services. Questions, tips and corrections go to <a href="mailto:{EMAIL}">{EMAIL}</a>; see <a href="contact.html">Contact &amp; corrections</a>.</p>
+<h2>How a change gets published</h2><ol><li><strong>Snapshot (automatic).</strong> Every morning software fetches the public pricing, terms and privacy pages of every <a href="services.html">tracked service</a> and saves the main text.</li>
+<li><strong>Compare (automatic).</strong> Each snapshot is compared line by line with the previous day's, filtering out noise such as cookie banners, scripts, timestamps and copyright lines.</li>
+<li><strong>Draft.</strong> Meaningful differences are written up in plain English: what changed, who it affects, any date you have to act by, and a link to the source. Automated tools, including AI writing tools, help with the comparison and the first draft.</li>
+<li><strong>Review (a person).</strong> A person reviews each change before it is published: the quoted wording is checked against the source page, and dates and prices are checked against the documents they come from.</li>
+<li><strong>Publish.</strong> The change gets its own page, goes into the day's report and the <a href="archive.html">archive</a>, and onto the page for that service.</li></ol>
+<h2>How we source</h2><ul><li><strong>Official pages, snapshotted and linked.</strong> Every change links the company page it was found on. We keep our own dated copy of the text, so a change can be shown even after the page moves on.</li>
+<li><strong>Quotes from the source.</strong> Text set in a typewriter face is the company's exact wording, never a paraphrase.</li>
+<li><strong>Before and after.</strong> Each change opens with a blackline of the words removed and added, and most include the full diff between our two snapshots.</li>
+<li><strong>Research, labeled.</strong> Some changes are confirmed in a company's help pages, announcements or filings rather than our snapshots. Those excerpts are marked "Quoted from the documents," and the documents are linked. Price histories list their sources under every table.</li></ul>
+<h2>Reading a blackline</h2><p>Lawyers compare two versions of a contract with a blackline, and so do we. Removed words are struck through in red; added words are underlined in blue.</p>{ex_fig}
+<p>"From our snapshot diff" means the words were taken directly from our before-and-after copies. "Quoted from the documents" means the change was confirmed in the company's own documents or announcements, linked from the article.</p>
 <h2>Impact ratings</h2><p>{impact(3)} changes what you pay, what you can do, or what happens to your data, often with a deadline. {impact(2)} worth knowing if you use the service. {impact(1)} small edits: new features, relabeled plans, wording cleanups.</p>
 <h2>Categories</h2><p>{kind("pricing")} prices, plans, limits, and fees. {kind("terms")} terms of service, user agreements, and contracts of carriage. {kind("privacy")} privacy policies and data-use notices.</p>
-<h2>Threads and deadlines</h2><p><a href="threads/">Threads</a> connect the same kind of change across companies, like forced arbitration or AI training. <a href="due-soon/">Due soon</a> lists every date we find in a change, with calendar files you can add or subscribe to.</p>
-<h2>Limits</h2><p>Some sites block automated readers or load their text with scripts; we only track pages we can read reliably. Summaries are not legal advice. Always check the linked source.</p></div>'''))
+<h2>Threads, deadlines and guides</h2><p><a href="threads/">Threads</a> connect the same kind of change across companies, like forced arbitration or AI training. <a href="due-soon/">Due soon</a> lists every date we find in a change, with calendar files. <a href="guides/">Guides</a> walk through what you can do about the changes that ask something of you.</p>
+<h2>Corrections</h2><p>If we get something wrong, we fix it and add a dated correction note to the article. Headlines and links stay the same, so nothing you've shared breaks. How to report an error: <a href="contact.html">Contact &amp; corrections</a>.</p>
+<h2>Limits</h2><p>Some sites block automated readers or load their text with scripts; we only track pages we can read reliably. Summaries are not legal or financial advice. Always check the linked source.</p></div>'''))
+    write(D / "contact.html", page("contact.html", "Contact & corrections", today=TODAY, lastmod=TODAY,
+          desc=f"How to contact QuietlyChanged and report an error: email {EMAIL}. Our corrections policy: how we check reports, how fast we fix them, and dated correction notes.",
+          ld={"@context": "https://schema.org", "@type": "ContactPage", "name": "Contact & corrections", "url": f"{SITE}/contact.html", "publisher": ORG}, crumbs=[("Home", SITE + "/"), ("About", SITE + "/about.html")], body=f'''<header class="wrap page-head"><p class="label">Contact</p><h1>Contact &amp; corrections</h1>
+<p class="lede">Email <a href="mailto:{EMAIL}">{EMAIL}</a> for corrections, tips about a change we missed, or questions about anything we publish.</p></header>
+<div class="wrap prose"><h2>Report an error</h2><p>Write to <a href="mailto:{EMAIL}?subject=Correction">{EMAIL}</a> with "Correction" in the subject. It helps to include:</p>
+<ul><li>the link to our page,</li><li>what is wrong, quoting our sentence if you can,</li><li>where the right information is: a link to the company's page or document.</li></ul>
+<p>Companies are welcome to write too. We check every report against the source, whoever sends it.</p>
+<h2>Our corrections policy</h2><ul><li><strong>How fast.</strong> We aim to reply to every correction request within two business days. Once an error is confirmed against the source, we fix it as soon as we can, usually the same day.</li>
+<li><strong>Dated correction notes.</strong> When a correction changes a fact (a date, a price, a quote, who is affected), the article gets a note at the top saying what was wrong, what is right, and the date of the correction. We don't quietly rewrite facts.</li>
+<li><strong>Small fixes.</strong> Typos and formatting that don't change the meaning may be fixed without a note.</li>
+<li><strong>Stable links.</strong> Headlines and page addresses stay the same after a correction, so links keep working.</li>
+<li><strong>When a company changes the page again.</strong> That's a new change, not a correction. We log it as its own entry, or add a dated update note.</li></ul>
+<h2>How we work</h2><p>We track pages automatically, and a person reviews each change before it is published. Every change links the official page and quotes the company's own words, with a before-and-after comparison from our dated snapshots. More on our methods: <a href="about.html">About QuietlyChanged</a>.</p>
+<h2>What we can't help with</h2><p>We can't resolve disputes with a company or give legal or financial advice. For problems with your own account, contact the company directly.</p></div>'''))
 
     # ---------- archive ----------
     def arch_row(d):
@@ -492,7 +633,7 @@ def main():
         stack_html = (f'<section class="wide section" aria-labelledby="st-h"><div class="sec-title"><h2 id="st-h"><span class="sym">§</span>Your services</h2><a href="services.html">Follow more →</a></div>'
                       f'<div class="stack" data-stack><div><p class="lede" style="font-size:1.1rem">Tap the services you use. We\'ll keep a running list of what changed for you, saved in this browser.</p><ul class="chips pick" data-stack-pick style="margin-top:1rem"></ul></div>'
                       f'<div class="yours"><div class="top"><span class="label">Changes affecting you</span><div class="big" data-stack-count>Pick a few services</div></div><ul data-stack-list><li class="empty">Your list shows up here.</li></ul></div></div></section>')
-        browse_html = ('<section class="wide section"><div class="sec-title"><h2>Browse by type</h2></div><p class="linkline"><a href="price-changes/">Price increases and pricing changes</a> · <a href="subscription-price-history/">Streaming and subscription price history compared</a> · <a href="terms-of-service-changes/">Terms of service changes</a> · <a href="privacy-policy-changes/">Privacy policy changes</a></p>'
+        browse_html = ('<section class="wide section"><div class="sec-title"><h2>Browse by type</h2></div><p class="linkline"><a href="price-changes/">Price increases and pricing changes</a> · <a href="subscription-price-history/">Streaming and subscription price history compared</a> · <a href="terms-of-service-changes/">Terms of service changes</a> · <a href="privacy-policy-changes/">Privacy policy changes</a>' + (' · <a href="guides/">Guides: what to do about a change</a>' if GUIDES else '') + '</p>'
                        + ('<h2 style="font-size:1.3rem;margin-top:1.6rem">Price histories</h2><p class="linkline">Every US price change, dated and sourced: ' + ' · '.join(f'<a href="services/{slug(n)}/#price-history">{E(v.get("name",n))}</a>' for n, v in PH.items()) + '</p>' if PH else "") + "</section>")
         nameplate = (f'<section class="nameplate"><div class="wide np"><div><h1>Quietly<i>Changed</i></h1><p class="tag">{E(TAG)}</p></div>'
                      f'<p class="edition"><b>{E(weekday(L))}</b><br>Report No. {len(days)-1} · {len(s)} services watched<br>{plural(len(ALL), "change")} on record</p></div></section>')
@@ -516,12 +657,13 @@ def main():
     idx = [{"t": c.get("headline", ""), "s": c["service"], "k": c.get("page", "terms"), "d": d, "u": f'changes/{c["_art"]}/', "x": c.get("tldr") or clip(c["what"], 160), "i": c["impact"], "e": c.get("effective", "")} for d, c in ALL_NEW]
     idx += [{"t": k_, "s": k_, "k": "service", "u": f"services/{slug(k_)}/", "x": f'{plural(len(svc_stats[k_]), "change")} logged', "p": list(v)} for k_, v in s.items()]
     idx += [{"t": v["title"], "s": "Thread", "k": "thread", "u": f"threads/{th}/", "x": v["dek"]} for th, v in THEMES.items()]
+    idx += [{"t": g["title"], "s": "Guide", "k": "guide", "u": f"guides/{gs_}/", "x": g["dek"]} for gs_, g in GUIDES.items()]
     write(D / "search.json", json.dumps(idx, ensure_ascii=False, separators=(",", ":")))
 
-    # ---------- Atom feed: daily reports + change articles (newest first) ----------
-    entries = []
-    for d in days:
-        entries.append((d, f'<entry><title>Report, {nice(d)}</title><link href="{SITE}/reports/{d}.html"/><id>{SITE}/reports/{d}.html</id><updated>{d}T12:00:00Z</updated></entry>'))
+    # ---------- Atom feed: change articles + guides (newest first) ----------
+    entries = []   # daily reports are noindexed, so they're left out of the feed too
+    for gs_, g in GUIDES.items():
+        u_ = f"{SITE}/guides/{gs_}/"; entries.append((g["published"], f'<entry><title>{E(g["title"])}</title><link href="{u_}"/><id>{u_}</id><updated>{g.get("modified", g["published"])}T12:00:00Z</updated><summary>{E(g["dek"])}</summary></entry>'))
     for d, c in ALL:
         a = c["_art"]; url = f"{SITE}/changes/{a}/"; t = c.get("seo_title") or f'{c["service"]}: {c.get("headline") or "page updated"}'
         entries.append((d, f'<entry><title>{E(t)}</title><link href="{url}"/><id>{url}</id><updated>{d}T12:00:00Z</updated><summary>{E(c.get("what",""))}</summary></entry>'))
@@ -542,16 +684,16 @@ def main():
                 import urllib.request
                 urls = list(dict.fromkeys(u for u, _ in PAGES))
                 ping = [u for u in urls if "/changes/" in u][-20:]
-                if days: ping += [f"{SITE}/reports/{days[-1]}.html", f"{SITE}/"]
+                ping += [f"{SITE}/"] + [u for u in urls if "/guides/" in u] + [f"{SITE}/about.html", f"{SITE}/contact.html"]
                 ping.append(f"{SITE}/feed.xml")
                 ping += [f"{SITE}/{h[0]}" for h in HUB_FOR.values()]
                 ping += [f"{SITE}/services/{slug(n)}/" for n in PH] + ([f"{SITE}/subscription-price-history/"] if PH else [])
                 ping += [f"{SITE}/due-soon/", f"{SITE}/threads/"] + [f"{SITE}/threads/{th}/" for th in THEMES]
-                ping = list(dict.fromkeys(ping))
+                ping = [u for u in dict.fromkeys(ping) if u not in NOINDEX]
                 body = json.dumps({"host": "quietlychanged.com", "key": key, "keyLocation": f"{SITE}/{key}.txt", "urlList": ping}).encode()
                 req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"}, method="POST")
                 with urllib.request.urlopen(req, timeout=15) as resp: print(f"IndexNow: {resp.status} for {len(ping)} URLs")
             except Exception as ex: print(f"IndexNow ping skipped: {ex}")
 
     og.site_image(D, R)
-    print(f"Built {len(PAGES)} pages · {len(ALL)} changes · {len(upcoming)} upcoming dates")
+    print(f"Built {len(PAGES) + len(NOINDEX)} pages ({len(NOINDEX)} noindex: {len(days)} reports, {len(THIN)} thin service pages) · {len(GUIDES)} guides · {len(ALL)} changes · {len(upcoming)} upcoming dates")
