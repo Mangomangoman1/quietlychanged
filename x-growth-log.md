@@ -1087,3 +1087,10 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - R2 under @github Universe Day 2 keynote: Enterprise includes Copilot with no per-seat AI credits, metered from the first request. Images: daily/01–03.
 - R3 (optional, small parent) under @LeverNews DoorDash–Instacart: Instacart's Dec 22, 2025 "same prices — period" promise. Text only.
 - No original tonight. The Social Security original is still held for Oct 30 AM. GitHub moves to R2; if R2 is posted, drop GitHub as an original candidate.
+
+## Published 2026-10-29 evening
+- Browser started on @Missum_AI; switched to @QuietlyChanged and confirmed before posting. from:QuietlyChanged showed no duplicates.
+- R1 ~5:25 PM MT, under Bloomberg (https://x.com/business/status/2115941821826097184, 1 reply ahead), Meta glasses AI data switch, logo + switches image: 2115948187655786571
+- R2 ~5:31 PM MT, under GitHub Universe Day 2 keynote (https://x.com/github/status/2115911320587641027, 2 replies ahead), Copilot in Enterprise metered from first request, 3 images: 2115949664046629343. GitHub no longer needed as an original candidate.
+- R3 ~5:36 PM MT, under LeverNews (https://x.com/LeverNews/status/2115929427083206908, 0 replies ahead), Instacart same-price promise vs DoorDash, text only: 2115951068660306106
+- No original tonight (Grindr was today's). SSA original still held for Oct 30 morning.
