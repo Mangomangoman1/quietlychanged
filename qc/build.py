@@ -148,7 +148,7 @@ def main():
         secs, cov = structure(c["what"])
         body_html = render_sections(secs)
         note_html = f'<aside class="update" role="note"><strong>Update</strong>{E(c["note"])}</aside>' if c.get("note") else ""
-        faq_html = ('<h2>Quick answers</h2>' + "".join(f"<h3>{E(q)}</h3><p>{E(an)}</p>" for q, an in c["faq"])) if c.get("faq") else ""
+        faq_html = ('<h2 id="quick-answers">Quick answers</h2>' + "".join(f"<h3>{E(q)}</h3><p>{E(an)}</p>" for q, an in c["faq"])) if c.get("faq") else ""
         srcs_html = ("<p>Other sources:</p><ul>" + "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n, u in c["sources"]) + "</ul>") if c.get("sources") else ""
         cov_html = f'<div class="coverage"><span class="label">Who else has reported it{" · " + E(cov[0]) if cov[0] else ""}</span>{E(cov[1])}</div>' if cov else ""
         raw = RAW.get(d, {}).get((c["service"], k))
@@ -390,7 +390,8 @@ def main():
         elif k in PH: desc = f"Every {PH[k].get('title_name',PH[k].get('name',k))} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
         ld = {"@context": "https://schema.org", "@type": "WebPage", "name": title, "url": f"{SITE}/services/{sl}/", "dateModified": last, "publisher": ORG, "about": {"@type": "Organization", "name": k}}
         _fqs = [(d, c) for d, c in log if c.get("faq")][:2]  # the two most recent changes with Quick answers
-        svc_faq = "".join(f'<h2>What changed recently: {E(c_.get("headline",""))}</h2>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(an)}</p>" for q, an in c_["faq"]) + f'<p><a href="../../changes/{c_["_art"]}/">Read the full breakdown, with sources</a></p>' for _, c_ in _fqs)
+        # Summary + question links only (not the full answers), so the service page doesn't duplicate the article's text.
+        svc_faq = "".join(f'<h2>What changed recently: {E(c_.get("headline",""))}</h2>' + (f'<p>{E(c_["tldr"])}</p>' if c_.get("tldr") else "") + '<p>Answered in the full breakdown:</p><ul>' + "".join(f'<li><a href="../../changes/{c_["_art"]}/#quick-answers">{E(q)}</a></li>' for q, an in c_["faq"]) + f'</ul><p><a href="../../changes/{c_["_art"]}/">Read the full breakdown, with sources</a></p>' for _, c_ in _fqs)
         latest_rl = next(((d, c) for d, c in log if c.get("redline")), None)
         latest_ex = ""
         if latest_rl:
