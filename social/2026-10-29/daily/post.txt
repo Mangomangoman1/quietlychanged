@@ -1,5 +1,5 @@
 GitHub Enterprise now includes Copilot. The catch: it "does not include monthly AI credits per seat."
 
-Usage is "metered from the first request" against your company's budget, and Chat, code review and cloud agents need budget left. Account-team customers only, for now.
+Usage is "metered from the first request" against your company's budget. Chat, code review and cloud agents need budget left. Sales-led accounts only, for now.
 
 https://quietlychanged.com/changes/2026-10-29-github-github-enterprise-now-includes-copilot-for-every-licensed-user-with-ai-u/
