@@ -16,7 +16,8 @@
   "Discord",
   "Oura",
   "Xero",
-  "Robinhood"
+  "Robinhood",
+  "Canva"
  ],
  "changes": [
   "2026-10-20-pinterest-nov-12-terms-mass-claims-go-to-one-arbitrator-ads-follow-you-to-your",
@@ -29,7 +30,8 @@
   "2026-10-18-roblox-from-nov-1-roblox-says-it-is-merchant-of-record-for-most-platform-purcha",
   "2026-10-17-oura-app-locks-nov-4-unless-you-accept-new-arbitration-terms",
   "2026-10-27-xero-xero-can-now-require-id-and-a-face-scan-or-cut-off-your-account-us-dispute",
-  "2026-10-16-robinhood-auto-enrolls-accounts-in-class-action-claims-keeps-20-of-payouts"
+  "2026-10-16-robinhood-auto-enrolls-accounts-in-class-action-claims-keeps-20-of-payouts",
+  "2026-10-30-canva-canva-adds-e-signatures-and-its-new-terms-say-it-doesn-t-verify-who-signs"
  ],
  "body": [
   {
@@ -61,6 +63,7 @@
     "**AT&T: reject the change by mail, 30 days from first notice.** New terms apply **November 1, 2026**. Mail your name, address, phone number, account number and a statement personally signed by you to Legal Department – Revised Arbitration Opt-Out, AT&T, 208 S. Akard, Office #2900.13, Dallas, Texas 75202. This keeps the prior version; it doesn't remove arbitration. If your first notice was AT&T's mid-September email, the window has likely closed. [Our article](../../changes/2026-10-25-at-t-from-nov-1-you-must-send-a-notice-and-wait-60-days-before-taking-at-t-to-s/)",
     "**Cricket Wireless: same process, 30 days from Cricket's text.** New terms apply **December 1, 2026**. Mail the same details to Legal Department – Revised Arbitration Opt-Out, Cricket, 208 S. Akard, Office #2900.13, Dallas, Texas 75202. If Cricket's text reached you around October 1, mail it by **October 31**. Use a certificate of mailing or tracking. [Our article](../../changes/2026-10-25-cricket-wireless-from-dec-1-a-60-day-wait-before-small-claims-court-and-no-more/)",
     "**Roblox: 30 days, by certified mail.** Our article on the November 1, 2026 terms doesn't cover an opt-out, but the Roblox Terms of Use in our October 30 snapshot have one: within 30 days of first signing up, or within 30 days after Roblox gives notice of a material change. Send a notice titled \"Arbitration Opt-Out Notice\" by certified U.S. Mail or Federal Express to Roblox Corporation, Legal Department, 3150 S. Delaware St., San Mateo, CA 94403, with full name, Roblox username, email, a clear statement, and the user's signature (a parent or guardian's for a minor). For a material change, name the change. [Our article](../../changes/2026-10-18-roblox-from-nov-1-roblox-says-it-is-merchant-of-record-for-most-platform-purcha/)",
+    "**Canva: no opt-out found, and it reaches e-signature signers without an account.** Canva's Terms of Use (effective October 30, 2026) require binding AAA arbitration under the Consumer Arbitration Rules, individual claims only, and a jury and class-action waiver; the only opt-out we found is for marketing messages. Canva's new Electronic Signature Feature Terms say that if you sign without a Canva account, \"Canva's Terms of Use also apply.\" [Our article](../../changes/2026-10-30-canva-canva-adds-e-signatures-and-its-new-terms-say-it-doesn-t-verify-who-signs/)",
     "**Oura: no opt-out.** We checked the terms on October 17, 24 and 29: the only opt-outs are for marketing emails and texts. The new terms must be accepted in the app by **November 4, 2026**. See our [Oura guide](../oura-arbitration-terms-nov-4/).",
     "**Xero: no opt-out found.** We found no opt-out in the October 26, 2026 US arbitration terms, which apply to current customers from **December 28, 2026**. Claims must be brought within one year, and small claims court stays available after a Notice of Claim to legalnotices@xero.com and the 60-day period to meet and try to work it out. [Our article](../../changes/2026-10-27-xero-xero-can-now-require-id-and-a-face-scan-or-cut-off-your-account-us-dispute/)"
    ]
@@ -184,6 +187,14 @@
   [
    "QuietlyChanged thread: Forced arbitration",
    "https://quietlychanged.com/threads/forced-arbitration/"
+  ],
+  [
+   "Canva Terms of Use (effective 30 October 2026)",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva Electronic Signature Feature Terms",
+   "https://www.canva.com/policies/signature-terms/"
   ]
  ]
 }

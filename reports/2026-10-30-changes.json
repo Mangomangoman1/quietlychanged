@@ -8,12 +8,14 @@
   "effective": "2026-10-30",
   "deadline": "Took effect",
   "themes": [
-   "not-our-problem"
+   "not-our-problem",
+   "forced-arbitration"
   ],
   "actions": [
    "If you send or sign documents in Canva, download the completed PDF from the emailed link right away and keep your own backup; Canva says it is \"not an archive or evidence preservation service\"",
    "Don't use Canva's e-signature feature for wills, trusts, powers of attorney, deeds or anything that needs a notary, witness or wet-ink signature",
-   "For high-value deals, use a signing tool that verifies identity, since Canva \"does not verify the identity, age, capacity, or authority of any sender or signer\""
+   "For high-value deals, use a signing tool that verifies identity, since Canva \"does not verify the identity, age, capacity, or authority of any sender or signer\"",
+   "If someone sends you a Canva signing link and you don't have an account, know that Canva's Terms of Use, including binding arbitration and a class-action waiver, apply to you; ask for another way to sign if that matters to you"
   ],
   "redline": [
    {
@@ -38,7 +40,7 @@
     "src": "quoted"
    }
   ],
-  "what": "Canva published a new version of its Terms of Use, effective October 30, 2026 (the previous version was effective August 19, 2026). Section 6 was renamed from \"Use of AI Products\" to \"Use of Products\" and now opens: \"Your use of certain Canva products and features may be subject to additional obligations and restrictions in the Feature Specific Terms.\" The footer of both the Terms of Use and the Privacy Policy now links a new document, \"Canva's Electronic Signature Feature Terms.\"\n\nChange 1: Feature-Specific Terms now sit inside the main terms. Canva's Feature-Specific Terms page (last updated 30 October 2026) says those terms \"form part of\" the agreement, and \"in the event of a conflict\" they \"shall prevail\" for the feature they cover. It lists terms for Affinity, Cavalry, Canva Sites and domains, the e-signature feature, beta features, printing and Brand Scan.\n\nChange 2: New e-signature terms. Canva's Electronic Signature Feature Terms (last updated 30 October 2026) apply \"whether or not you have a Canva account.\" Key lines: the feature \"is designed for simple electronic signatures and is not an advanced or qualified trust service\"; you \"must not use\" it for documents such as \"wills, trusts, codicils, powers of attorney, and deeds\"; \"Canva does not verify the identity, age, capacity, or authority of any sender or signer\"; and the feature \"is a document workflow tool and is not an archive or evidence preservation service.\" Signed copies arrive as an emailed download link, and Canva \"cannot guarantee\" you'll receive or keep access to it. \"Names, emails, and signing records will be visible to anyone who has access to the document or signing link,\" and signing records \"do not constitute conclusive legal proof of signer identity, intent, or authority.\" Senders and signers, not Canva, are responsible for any E-SIGN Act consumer disclosures.\n\nWhat stays the same: the rest of the AI section, including the separate AI Product Terms, is unchanged.",
+  "what": "Canva published a new version of its Terms of Use, effective October 30, 2026 (the previous version was effective August 19, 2026). Section 6 was renamed from \"Use of AI Products\" to \"Use of Products\" and now opens: \"Your use of certain Canva products and features may be subject to additional obligations and restrictions in the Feature Specific Terms.\" The footer of both the Terms of Use and the Privacy Policy now links a new document, \"Canva's Electronic Signature Feature Terms.\"\n\nChange 1: Feature-Specific Terms now sit inside the main terms. Canva's Feature-Specific Terms page (last updated 30 October 2026) says those terms \"form part of\" the agreement, and \"in the event of a conflict\" they \"shall prevail\" for the feature they cover. It lists terms for Affinity, Cavalry, Canva Sites and domains, the e-signature feature, beta features, printing and Brand Scan.\n\nChange 2: New e-signature terms. Canva's Electronic Signature Feature Terms (last updated 30 October 2026) apply \"whether or not you have a Canva account.\" Key lines: the feature \"is designed for simple electronic signatures and is not an advanced or qualified trust service\"; you \"must not use\" it for documents such as \"wills, trusts, codicils, powers of attorney, and deeds\"; \"Canva does not verify the identity, age, capacity, or authority of any sender or signer\"; and the feature \"is a document workflow tool and is not an archive or evidence preservation service.\" Signed copies arrive as an emailed download link, and Canva \"cannot guarantee\" you'll receive or keep access to it. \"Names, emails, and signing records will be visible to anyone who has access to the document or signing link,\" and signing records \"do not constitute conclusive legal proof of signer identity, intent, or authority.\" Senders and signers, not Canva, are responsible for any E-SIGN Act consumer disclosures.\n\nChange 3: Signers without an account are bound by Canva's main terms, including arbitration. The e-signature terms say: \"If you don't have a Canva account: Canva's Terms of Use also apply to your use of the Electronic Signature Feature and use of Canva.\" Those Terms of Use (section 16(d), Dispute Resolution) send any claim \"by binding arbitration by the American Arbitration Association (“AAA”) under the Consumer Arbitration Rules,\" require claims in \"the parties’ individual capacity,\" and say \"you and Canva are each waiving the right to a trial by jury or to participate in a class action.\" We found no arbitration opt-out in the October 30 Terms of Use (the only opt-out is for marketing messages). So someone who just opens a Canva signing link sent by a landlord, client or employer is, by Canva's terms, agreeing to them.\n\nHow it compares (checked October 30, 2026): Docusign describes \"the standard way of identifying a signer\" as sending \"a link to the signer’s email address,\" which is roughly what Canva offers, and sells enhanced checks on top through Docusign Identify: government-ID upload with a biometric liveness check, knowledge-based questions, CLEAR, and one-time passcodes by SMS or phone. Canva's terms name no such option and leave it to senders to choose \"signing tools appropriate to the sensitivity, risk and value of their transaction.\"\n\nWhat stays the same: the rest of the AI section, including the separate AI Product Terms, is unchanged.",
   "who": "Anyone who uses Canva, and especially anyone who sends or signs documents with Canva's electronic signature feature, including signers who don't have a Canva account.",
   "url": "https://www.canva.com/policies/terms-of-use/",
   "sources": [
@@ -53,8 +55,37 @@
    [
     "Canva Feature-Specific Terms (last updated 30 October 2026)",
     "https://www.canva.com/policies/feature-specific-terms/"
+   ],
+   [
+    "Docusign Identify (identity verification options)",
+    "https://www.docusign.com/products/identify"
    ]
-  ]
+  ],
+  "seo_title": "Canva e-signature terms (Oct 30, 2026): no ID check on signers, not an archive, no wills or POAs",
+  "seo_desc": "Canva's new Electronic Signature Feature Terms (Oct 30, 2026): it doesn't verify who signs, isn't an archive, bans wills, trusts and powers of attorney, and binds signers without an account to its arbitration terms.",
+  "faq": [
+   [
+    "Does Canva verify who signs a document?",
+    "No. Canva's Electronic Signature Feature Terms (last updated October 30, 2026) say \"Canva does not verify the identity, age, capacity, or authority of any sender or signer\" and that senders are responsible for choosing signing tools appropriate to the risk and value of the transaction."
+   ],
+   [
+    "Is a Canva e-signature legally binding?",
+    "Canva doesn't promise that it is. Its terms say it \"makes no representations or warranties as to whether an electronic signature is valid or enforceable for your document,\" that the feature is \"designed for simple electronic signatures and is not an advanced or qualified trust service,\" and that signing records \"do not constitute conclusive legal proof of signer identity, intent, or authority.\""
+   ],
+   [
+    "What documents can't you sign with Canva?",
+    "Canva's terms say you \"must not use\" the feature for documents that need formal execution, notarization, witnessing, a wet-ink signature or other statutory formalities, \"such as wills, trusts, codicils, powers of attorney, and deeds.\""
+   ],
+   [
+    "Does Canva keep a copy of signed documents?",
+    "Don't count on it. Canva emails signers a link to download the completed PDF and says the feature \"is not an archive or evidence preservation service.\" It \"cannot guarantee\" you'll receive or keep access to the link, and doesn't guarantee retention if an account is closed or deleted. Download your copy right away."
+   ],
+   [
+    "Do Canva's terms apply if I sign without a Canva account?",
+    "Yes. The e-signature terms apply \"whether or not you have a Canva account,\" and say that without one, \"Canva's Terms of Use also apply.\" Those Terms of Use require binding AAA arbitration on an individual basis and a jury and class-action waiver. We found no arbitration opt-out in them."
+   ]
+  ],
+  "modified": "2026-10-30"
  },
  {
   "service": "Cash App",
