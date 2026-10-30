@@ -1115,3 +1115,26 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - R1 under @Pirat_Nation Talos Principle 2 Steam price hike (34 replies ahead): https://x.com/QuietlyChanged/status/2116192149033381956 (~9:34 AM MT)
 - R2 under @Dexerto DoorDash buying Instacart (34 replies ahead): https://x.com/QuietlyChanged/status/2116193546768408868 (~9:40 AM MT)
 - Canva e-signature original held to Oct 31 (one original per day rule).
+
+## Snapshot 2026-10-30 ~5:20 PM MT (Friday evening)
+- Followers **10** (flat), following 12, posts 169, media 71. Pinned still 2115104793509151180.
+
+| When (MT) | Post | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|
+| Oct 30 9:34 AM | Steam 30-day cooldown under @Pirat_Nation (2116192149033381956), parent 54.7K / 117 replies | **1,326** | 10 | 0 | 4 |
+| Oct 30 9:40 AM | DoorDash one-fee timing under @Dexerto (2116193546768408868), parent 39.6K | 215 | 0 | 0 | 0 |
+| Oct 30 9:27 AM | SSA original (2116190273768472798) + self-reply | 10 + 5 | 0 | 0 | 1 |
+| Oct 29 9:37 AM | rektober Live Listen | 180 | 0 | 0 | 0 |
+| Oct 29 5:31 PM | GitHub Copilot | 51 | 0 | 0 | 0 |
+| Oct 29 5:25 PM | Bloomberg Meta glasses | 27 | 0 | 0 | 0 |
+
+### What we learned
+- The Pirat_Nation reply (landed ~33 min after the parent, ~34 replies ahead, logo + rule card) did 1,326 and drew 4 replies: confirms the "aggregator post already climbing, land ~30 min in, image receipt" rule. The Dexerto reply under a slower 40K parent got 215.
+- Originals still ~10 at 10 followers.
+- Tonight's biggest story in our lane is France's €0.055/GB data tax (unusual_whales 351K, levelsio 434K, Polymarket 28K). Lots of the feed is wrong (says "all internet traffic", "finance committee", or treats it as law). Primary source: Assemblée nationale amendment I-1358, adopted on the floor Oct 30, first reading.
+- Adjustment: under the 350K+ parents, past 400 replies, go image-first (CS-035). Skip levelsio (oldest, 439 replies) to avoid three replies on one story.
+
+### Drafted for publish (Friday evening, parent to post)
+- Packet: social/2026-10-30/pm/xgrowth-pm-drafts.md
+- R1 under @unusual_whales France data tax, card 01-france-what-passed.png. R2 under @Polymarket, amendment-text card 02-france-amendment-text.png. R3 optional text reply to a person who replied to our Steam post.
+- No original tonight. Canva e-signature original held for Oct 31 morning.
