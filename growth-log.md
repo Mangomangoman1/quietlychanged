@@ -668,3 +668,27 @@ Find: **Social Security Administration, new Privacy Act system of records "Clien
   - SEO compare: 167 pages before, 170 after, 0 missing, 0 field changes, 57 JSON-LD changes (all service dateModified). Sitemap 124 to 127 (+3 guides, 0 removed). IndexNow 200 for 32 URLs after deploy (the first try got a 503, the retry worked). Sitemap resubmitted via API.
 - Expected effect: the guides are the kind of page Google's quality systems reward (a task-focused how-to that pulls together many primary sources, which a feed summary can't be). The arbitration guide in particular is new and hard to copy. Honest lastmod should help Google trust our sitemap as a recrawl signal. Recovery still depends on Google recrawling at all, which it currently isn't doing much of. External links and brand signals are the missing piece.
 - Next: **Samuel: request indexing in the GSC UI** (the API can't), most urgent first: the Oura article (the Nov 4 lock is 5 days out), the new arbitration guide, the robotext guide, /services/oura/, the Gmail/Gemini article, /about.html, then Netflix, Spotify, YouTube and Peacock. Get 2–3 real external links. The FCC robotext guide and the arbitration guide are the best link targets for consumer or legal-aid resource pages (drafts only). Re-pull GSC Oct 31 and Nov 2. If Googlebot still isn't crawling by Nov 2, consider consolidating further (fold more thin service pages, fewer daily article URLs).
+
+## 2026-10-30: deep dive
+
+**Outcome: no solid find. Nothing was published, deployed or drafted for X.** Each lead was either already covered, too narrow, older than about a month, or a tracked/skip company.
+
+Sources checked (rotated away from the Oct 27–29 sources):
+- **Developer/API changelogs and deprecations (WebSearch):** LINE old app versions (Nov 4), Bitdefender VPN iOS 13/14 (Nov 15), Sony network services (posted May), RICOH THETA, Google Registered App Stores (not US), Google PMax image default (advertisers only), Amazon Kindle 2012 sunset and Echo AUX (covered), Microsoft Outlook/Copilot/Whiteboard/OneDrive retirements (covered or minor), Meta Graph API and Commercial Terms Nov 20 (businesses only). Apple developer news RSS (Taiwan storefront, B2B subscriptions, App Review guidelines Oct 16) and the Android dev blog: nothing for consumers.
+- **SEC 10-Q risk factors:** Roblox added age-check risks (tracked, not actionable).
+- **CFPB activity log:** nothing new for consumers.
+- **Loyalty/fees searches:** mostly non-US results. eBay seller FX fee. Fine-print date sweep: Starbucks (Mar 10, 2026), Chipotle (Apr 13), Marriott (2024); Hilton, Southwest and United were blocked or 404.
+- **Carriers/ISPs/TV/fintech fine-print date sweep (about 60 pages):**
+  - Old dates: T-Mobile privacy, Frontier, EA, Instacart, Capital One, NYT, DraftKings, FanDuel, Polymarket, Ancestry, Ticketmaster, Ring, Visible (8/27), Temu, eBay (Jun 28), Peacock, 23andMe, Bumble, Afterpay, SimpliSafe, Nintendo.
+  - Blocked: Uber, Instagram, WhatsApp, Zelle, Chime, Life360, Mint, Etsy, ADT, Match, Epic.
+- **Wells Fargo Online Access Agreement (effective Nov 24, 2026; new Sec. 15 "Third-Party AI Agents": agent transactions "deemed … authorized directly by you, without further verification"):** REJECTED. Already covered by USA Today (Oct 23), Axios, several blogs and X, and Chase made similar changes on Oct 27.
+- **Coinbase User Agreement (Oct 21 vs Jul 22, Wayback):** REJECTED. The only change is a Margin Trading Appendix for eligible contract participants (businesses with over $10M).
+- **Sling TV Terms (Oct 2 vs Jul 1, Wayback, sentence-level diff):** the only change is removing the short-term "Passes" language. Minor.
+- **Philo Terms (Oct 9, 2026):** no usable Wayback baseline (only a 2017 capture). Small audience. Skipped.
+- **Snap Terms (Sep 21, 2026):** older than a month, and Snap notified users in-app. Skipped.
+- **SoFi Plus (Nov 2) / Bank Referral (Oct 29) terms:** minor. SoFi Earn launch is covered by DoC.
+- **Federal Register public inspection Oct 30 (105 docs, non-SSA/FTC/FCC):** nothing for consumers. The PBM fee rule (EBSA) is employer-plan facing.
+- **Doctor of Credit feed Oct 25–30:** card revamps (Bilt, Citi AAdvantage) are already covered.
+- **X search for terms notices:** noise. Reddit JSON is blocked from the box.
+
+Ideas for next time: Wayback diffs of Uber, Zelle and Chime through a browser (curl gets blocked); state PUC tariff filings for utilities.
