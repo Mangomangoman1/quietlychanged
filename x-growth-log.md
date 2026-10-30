@@ -1109,3 +1109,9 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - R1 under @Pirat_Nation Talos Principle 2 +33%: Steam's 30-day no-discount rule after a price increase (Steamworks docs), Steam logo + rule card.
 - R2 under @Dexerto DoorDash–Instacart: one membership fee only after closing (end 2027/H1 2028), no name or price, logos + what-it-says card.
 - Skipped Starlink under SawyerMerritt (222 replies, flat impressions).
+
+## Published 2026-10-30 morning
+- O1 original (SSA Client Data System, 2 images): https://x.com/QuietlyChanged/status/2116190273768472798 (~9:27 AM MT). Self-reply with FR + article links posted ~9:29 AM MT (first attempt failed, retried once; status URL not captured; verify no duplicate).
+- R1 under @Pirat_Nation Talos Principle 2 Steam price hike (34 replies ahead): https://x.com/QuietlyChanged/status/2116192149033381956 (~9:34 AM MT)
+- R2 under @Dexerto DoorDash buying Instacart (34 replies ahead): https://x.com/QuietlyChanged/status/2116193546768408868 (~9:40 AM MT)
+- Canva e-signature original held to Oct 31 (one original per day rule).
