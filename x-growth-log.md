@@ -1138,3 +1138,9 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - Packet: social/2026-10-30/pm/xgrowth-pm-drafts.md
 - R1 under @unusual_whales France data tax, card 01-france-what-passed.png. R2 under @Polymarket, amendment-text card 02-france-amendment-text.png. R3 optional text reply to a person who replied to our Steam post.
 - No original tonight. Canva e-signature original held for Oct 31 morning.
+
+## Published 2026-10-30 evening
+- R2 under Polymarket (France data tax), image 02: https://x.com/QuietlyChanged/status/2116309214176182298 (5:20 PM MDT)
+- R1 under unusual_whales (France data tax), image 01: https://x.com/QuietlyChanged/status/2116310694962602193 (5:26 PM MDT)
+- R3 reply to OpriANDConec3 (Steam cooldown): https://x.com/QuietlyChanged/status/2116312064184729908 (5:31 PM MDT)
+- All from @QuietlyChanged (browser was on @Missum_AI, switched first), no duplicates.
