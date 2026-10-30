@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canva · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-30-canva-canva-adds-e-signatures-and-its-new-terms-say-it-does
+ n-t-verify-who-signs@quietlychanged.com
+DTSTAMP:20261030T121327Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Canva: Took effect
+DESCRIPTION:Canva's updated Terms of Use (effective Oct 30) point to new e
+ -signature terms: Canva doesn't check signers' identity\, bans wills and 
+ powers of attorney\, and says keep your own copy.\n\nhttps://quietlychang
+ ed.com/changes/2026-10-30-canva-canva-adds-e-signatures-and-its-new-terms
+ -say-it-doesn-t-verify-who-signs/
+URL:https://quietlychanged.com/changes/2026-10-30-canva-canva-adds-e-signa
+ tures-and-its-new-terms-say-it-doesn-t-verify-who-signs/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Canva — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

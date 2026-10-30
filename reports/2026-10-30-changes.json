@@ -1,0 +1,89 @@
+[
+ {
+  "service": "Canva",
+  "page": "terms",
+  "headline": "Canva adds e-signatures, and its new terms say it doesn't verify who signs and isn't an archive for your signed documents",
+  "tldr": "Canva's updated Terms of Use (effective Oct 30) point to new e-signature terms: Canva doesn't check signers' identity, bans wills and powers of attorney, and says keep your own copy.",
+  "impact": 2,
+  "effective": "2026-10-30",
+  "deadline": "Took effect",
+  "themes": [
+   "not-our-problem"
+  ],
+  "actions": [
+   "If you send or sign documents in Canva, download the completed PDF from the emailed link right away and keep your own backup; Canva says it is \"not an archive or evidence preservation service\"",
+   "Don't use Canva's e-signature feature for wills, trusts, powers of attorney, deeds or anything that needs a notary, witness or wet-ink signature",
+   "For high-value deals, use a signing tool that verifies identity, since Canva \"does not verify the identity, age, capacity, or authority of any sender or signer\""
+  ],
+  "redline": [
+   {
+    "before": "These Terms of Use are effective as of 19 August 2026.",
+    "after": "These Terms of Use are effective as of 30 October 2026.",
+    "label": "Terms of Use · Effective date",
+    "note": "A new version of Canva's Terms of Use took effect today.",
+    "src": "raw"
+   },
+   {
+    "before": "6. Use of AI Products",
+    "after": "6. Use of Products Your use of certain Canva products and features may be subject to additional obligations and restrictions in the Feature Specific Terms",
+    "label": "Terms of Use · Section 6",
+    "note": "The AI-only section now pulls in a separate set of feature-by-feature terms, which can override the main terms for that feature.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "Canva does not verify the identity, age, capacity, or authority of any sender or signer.",
+    "label": "Electronic Signature Feature Terms · 2(d) Verification",
+    "note": "Checking who actually signed is left to the sender.",
+    "src": "quoted"
+   }
+  ],
+  "what": "Canva published a new version of its Terms of Use, effective October 30, 2026 (the previous version was effective August 19, 2026). Section 6 was renamed from \"Use of AI Products\" to \"Use of Products\" and now opens: \"Your use of certain Canva products and features may be subject to additional obligations and restrictions in the Feature Specific Terms.\" The footer of both the Terms of Use and the Privacy Policy now links a new document, \"Canva's Electronic Signature Feature Terms.\"\n\nChange 1: Feature-Specific Terms now sit inside the main terms. Canva's Feature-Specific Terms page (last updated 30 October 2026) says those terms \"form part of\" the agreement, and \"in the event of a conflict\" they \"shall prevail\" for the feature they cover. It lists terms for Affinity, Cavalry, Canva Sites and domains, the e-signature feature, beta features, printing and Brand Scan.\n\nChange 2: New e-signature terms. Canva's Electronic Signature Feature Terms (last updated 30 October 2026) apply \"whether or not you have a Canva account.\" Key lines: the feature \"is designed for simple electronic signatures and is not an advanced or qualified trust service\"; you \"must not use\" it for documents such as \"wills, trusts, codicils, powers of attorney, and deeds\"; \"Canva does not verify the identity, age, capacity, or authority of any sender or signer\"; and the feature \"is a document workflow tool and is not an archive or evidence preservation service.\" Signed copies arrive as an emailed download link, and Canva \"cannot guarantee\" you'll receive or keep access to it. \"Names, emails, and signing records will be visible to anyone who has access to the document or signing link,\" and signing records \"do not constitute conclusive legal proof of signer identity, intent, or authority.\" Senders and signers, not Canva, are responsible for any E-SIGN Act consumer disclosures.\n\nWhat stays the same: the rest of the AI section, including the separate AI Product Terms, is unchanged.",
+  "who": "Anyone who uses Canva, and especially anyone who sends or signs documents with Canva's electronic signature feature, including signers who don't have a Canva account.",
+  "url": "https://www.canva.com/policies/terms-of-use/",
+  "sources": [
+   [
+    "Canva Terms of Use (effective 30 October 2026)",
+    "https://www.canva.com/policies/terms-of-use/"
+   ],
+   [
+    "Canva Electronic Signature Feature Terms (last updated 30 October 2026)",
+    "https://www.canva.com/policies/signature-terms/"
+   ],
+   [
+    "Canva Feature-Specific Terms (last updated 30 October 2026)",
+    "https://www.canva.com/policies/feature-specific-terms/"
+   ]
+  ]
+ },
+ {
+  "service": "Cash App",
+  "page": "terms",
+  "headline": "Cash App's saved checkout info now extends to loyalty programs and in-store Square checkout, and the Local Cash tip rule changes",
+  "tldr": "Cash App's terms rename \"Checkout powered by Cash App\" to \"Buyer Features,\" adding loyalty and rewards programs and Square point-of-sale devices. A rule forcing tips onto Local Cash is gone.",
+  "impact": 1,
+  "themes": [],
+  "redline": [
+   {
+    "before": "(“Checkout Features” or “Checkout powered by Cash App”) on cash.app-based online ordering profiles (“Ordering Profiles”).",
+    "after": "(“Checkout Powered by Cash App”), loyalty and rewards programs, and access to offers and benefits (collectively, (“Cash App Buyer Features” or “Buyer Features”) on cash.app-based online ordering profiles (“Ordering Profiles”) and on point-of-sale (“POS”) devices at Square Sellers.",
+    "label": "Terms · 4. Cash App Buyer Features",
+    "note": "Stored checkout info is no longer just for online ordering pages; it now covers loyalty programs and in-store Square terminals.",
+    "src": "raw"
+   },
+   {
+    "before": "any tip you choose to apply for that transaction must also be paid with Local Cash.",
+    "after": "the amount of any tip you choose to apply for that transaction may be limited by the amount of Local Cash available for such tip.",
+    "label": "Terms · Local Cash · Tips",
+    "note": "A hard rule that tips must come out of Local Cash becomes a cap based on your Local Cash balance.",
+    "src": "raw"
+   }
+  ],
+  "what": "Cash App updated its Terms of Service. Section 4, \"Checkout Powered by Cash App,\" is now \"Cash App Buyer Features.\" It used to cover storing payment and order information for faster checkout on cash.app online ordering profiles. It now also covers \"loyalty and rewards programs, and access to offers and benefits,\" and applies \"on point-of-sale (“POS”) devices at Square Sellers\" as well as online. The stored \"Checkout Information\" can include your name, phone number, email, card details, billing and shipping addresses.\n\nThe disputes paragraph now says your dealings with a merchant \"on an Ordering Profile on Cash App or on a POS device\" are between you and that merchant, and that merchants \"offering a loyalty program\" are responsible for refunds, disputes and support. Card disputes still go to your card issuer.\n\nOther changes: in the Local Cash rewards section, the rule that when Local Cash covers the whole pre-tip amount \"any tip you choose to apply for that transaction must also be paid with Local Cash\" now reads that the tip \"may be limited by the amount of Local Cash available for such tip.\" The $1,000 Local Cash balance cap is unchanged.",
+  "who": "Cash App users who save checkout details, use Local Cash, or join loyalty programs at Square sellers.",
+  "url": "https://cash.app/legal/us/en-us/tos",
+  "actions": [
+   "If you join a Square seller's loyalty program through Cash App, contact that seller, not Cash App, about rewards, refunds or order problems"
+  ]
+ }
+]
