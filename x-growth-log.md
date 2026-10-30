@@ -1094,3 +1094,18 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - R2 ~5:31 PM MT, under GitHub Universe Day 2 keynote (https://x.com/github/status/2115911320587641027, 2 replies ahead), Copilot in Enterprise metered from first request, 3 images: 2115949664046629343. GitHub no longer needed as an original candidate.
 - R3 ~5:36 PM MT, under LeverNews (https://x.com/LeverNews/status/2115929427083206908, 0 replies ahead), Instacart same-price promise vs DoorDash, text only: 2115951068660306106
 - No original tonight (Grindr was today's). SSA original still held for Oct 30 morning.
+
+## Snapshot 2026-10-30 ~9:25 AM MT (Friday morning)
+- Followers **10** (flat), following 12, posts 165, media 68. No posts yet today.
+- Oct 29 evening replies after ~16 h: Bloomberg Meta glasses 25, GitHub Copilot 37, LeverNews Instacart 12. Morning: rektober 176, ABC 53, GOPoversight 41, Grindr original 9.
+- Dollar General reply now **19,875** (still growing on day 4); Discord/Malwarebytes 21,680 (flat).
+
+### What we learned
+- First-slot replies under 1M+ outlets (Bloomberg, GitHub) still capped at 25–37 when the parent post itself didn't travel. The outlet's size doesn't help if the post is quiet. Pick parents whose impressions are clearly moving (check twice, a few minutes apart).
+- Adjustment: favor fast-moving aggregator posts (Pirat_Nation, Dexerto) that already show thousands of impressions in the first 30 minutes, and always attach an image receipt.
+
+### Drafted (social/2026-10-30/am/xgrowth-am-drafts.md)
+- O1: Social Security Client Data System original (held from yesterday; FR doc 2026-22173 published today), images 02 + 03 from the deep dive, link in self-reply.
+- R1 under @Pirat_Nation Talos Principle 2 +33%: Steam's 30-day no-discount rule after a price increase (Steamworks docs), Steam logo + rule card.
+- R2 under @Dexerto DoorDash–Instacart: one membership fee only after closing (end 2027/H1 2028), no name or price, logos + what-it-says card.
+- Skipped Starlink under SawyerMerritt (222 replies, flat impressions).
