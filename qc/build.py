@@ -79,6 +79,25 @@ def main():
         report_title[d] = (R / "reports" / f"{d}-summary.md").read_text().splitlines()[0].lstrip("# ").strip() or f"Report, {nice(d)}"
     OGIMG = og.build_all(D, R, ALL, TODAY)   # {art_slug: absolute url} for per-change share images
 
+    # ---------- evergreen guides (guides/<slug>.json): loaded first so articles and service pages can link them ----------
+    # Keys: title, desc, dek, published, modified (YYYY-MM-DD), services [names], changes [article slugs],
+    #       body [{"h": ..} | {"p": ..} | {"ol": [..]} | {"ul": [..]} | {"quote": .., "cite": name, "url": ..}], sources [[name, url]].
+    # Text allows [label](url) and **bold**. Build fails if a listed change or service doesn't exist.
+    ART = {c["_art"]: (d, c) for d, c in ALL}
+    GUIDES = {}
+    for f in sorted((R / "guides").glob("*.json")) if (R / "guides").exists() else []:
+        g = json.loads(f.read_text())
+        for a_ in g.get("changes", []): assert a_ in ART, f"{f.name}: unknown change {a_}"
+        for n_ in g.get("services", []): assert n_ in s, f"{f.name}: unknown service {n_}"
+        GUIDES[f.stem] = g
+    def guide_box(k, root="../../"):
+        gs = [(gs_, g) for gs_, g in GUIDES.items() if k in g.get("services", [])]
+        if not gs: return ""
+        return '<section class="box"><h2>Guides</h2><ul class="chips">' + "".join(f'<li><a href="{root}guides/{gs_}/">{E(g["title"])}</a></li>' for gs_, g in gs) + "</ul></section>"
+    GUIDES_FOR = {}   # article slug -> [(guide slug, guide)] for every guide that cites it
+    for gs_, g in GUIDES.items():
+        for a_ in g.get("changes", []): GUIDES_FOR.setdefault(a_, []).append((gs_, g))
+
     # ---------- daily report pages ----------
     def report_body(d, root):
         sm = R / "reports" / f"{d}-summary.md"; txt = sm.read_text(); body = md(txt)
@@ -169,6 +188,8 @@ def main():
         acts = c.get("actions") or []
         aside = ""
         if acts: aside += '<section class="box"><h2>What you can do</h2><ul class="todo">' + "".join(f"<li>{E(x)}</li>" for x in acts) + "</ul></section>"
+        if a in GUIDES_FOR:
+            aside += f'<section class="box"><h2>{"Guide" if len(GUIDES_FOR[a]) == 1 else "Guides"}</h2><ul class="chips">' + "".join(f'<li><a href="../../guides/{gs_}/">{E(g["title"])}</a></li>' for gs_, g in GUIDES_FOR[a]) + "</ul></section>"
         tools = []
         if c.get("effective") and days_until(c["effective"], TODAY) >= 0:
             tools.append(f'<a class="btn" href="../../due-soon/{a}.ics">Add the date to your calendar</a>')
@@ -426,22 +447,6 @@ def main():
               {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": an}} for q, an in faq]}]
         write(D / "subscription-price-history" / "index.html", page("subscription-price-history/index.html", tt, body, TODAY, desc=dd, depth=1, ld=ld, lastmod=lm, crumbs=[("Home", SITE + "/"), ("Price changes", SITE + "/price-changes/")]))
 
-    # ---------- evergreen guides (guides/<slug>.json) ----------
-    # Keys: title, desc, dek, published, modified (YYYY-MM-DD), services [names], changes [article slugs],
-    #       body [{"h": ..} | {"p": ..} | {"ol": [..]} | {"ul": [..]} | {"quote": .., "cite": name, "url": ..}], sources [[name, url]].
-    # Text allows [label](url) and **bold**. Build fails if a listed change or service doesn't exist.
-    ART = {c["_art"]: (d, c) for d, c in ALL}
-    GUIDES = {}
-    for f in sorted((R / "guides").glob("*.json")) if (R / "guides").exists() else []:
-        g = json.loads(f.read_text())
-        for a_ in g.get("changes", []): assert a_ in ART, f"{f.name}: unknown change {a_}"
-        for n_ in g.get("services", []): assert n_ in s, f"{f.name}: unknown service {n_}"
-        GUIDES[f.stem] = g
-    def guide_box(k, root="../../"):
-        gs = [(gs_, g) for gs_, g in GUIDES.items() if k in g.get("services", [])]
-        if not gs: return ""
-        return '<section class="box"><h2>Guides</h2><ul class="chips">' + "".join(f'<li><a href="{root}guides/{gs_}/">{E(g["title"])}</a></li>' for gs_, g in gs) + "</ul></section>"
-
     # ---------- service dossiers ----------
     THIN_WORDS = 150; THIN = []
     svc_stats = {}
@@ -470,7 +475,11 @@ def main():
         if k in PH and PH[k].get("desc"): desc = PH[k]["desc"]
         if k in SVC_SEO and SVC_SEO[k].get("desc"): desc = SVC_SEO[k]["desc"]
         elif k in PH: desc = f"Every {PH[k].get('title_name',PH[k].get('name',k))} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
-        ld = {"@context": "https://schema.org", "@type": "WebPage", "name": title, "url": f"{SITE}/services/{sl}/", "dateModified": last, "publisher": ORG, "about": {"@type": "Organization", "name": k}}
+        # lastmod = when the page's content last really changed (logged change, verified price history, a guide listing it),
+        # not the daily snapshot date; tracked-but-unchanged pages fall back to the first snapshot.
+        svc_mod = max([c.get("modified", d) for d, c in log] + ([PH[k]["verified"]] if k in PH else [])
+                      + [g.get("modified", g["published"]) for g in GUIDES.values() if k in g.get("services", [])] or [first])
+        ld = {"@context": "https://schema.org", "@type": "WebPage", "name": title, "url": f"{SITE}/services/{sl}/", "dateModified": svc_mod, "publisher": ORG, "about": {"@type": "Organization", "name": k}}
         _fqs = [(d, c) for d, c in log if c.get("faq")][:2]  # the two most recent changes with Quick answers
         # Summary + question links only (not the full answers), so the service page doesn't duplicate the article's text.
         svc_faq = "".join(f'<h2>What changed recently: {E(c_.get("headline",""))}</h2>' + (f'<p>{E(c_["tldr"])}</p>' if c_.get("tldr") else "") + '<p>Answered in the full breakdown:</p><ul>' + "".join(f'<li><a href="../../changes/{c_["_art"]}/#quick-answers">{E(q)}</a></li>' for q, an in c_["faq"]) + f'</ul><p><a href="../../changes/{c_["_art"]}/">Read the full breakdown, with sources</a></p>' for _, c_ in _fqs)
@@ -502,7 +511,7 @@ def main():
         thin = not log and words(svc_body()) < THIN_WORDS
         if thin: THIN.append(k)
         body = svc_body(build_out(k, PH[k], log) if k in PH else "", guide_box(k))
-        write(D / "services" / sl / "index.html", page(f"services/{sl}/index.html", title, body, TODAY, desc=desc, depth=2, ld=([ld, phld] if phld else ld), lastmod=max([last] + [c.get("modified", d) for d, c in log] + ([PH[k]["verified"]] if k in PH else [])), crumbs=[("Home", SITE + "/"), ("What we track", SITE + "/services.html")], noindex=thin))
+        write(D / "services" / sl / "index.html", page(f"services/{sl}/index.html", title, body, TODAY, desc=desc, depth=2, ld=([ld, phld] if phld else ld), lastmod=svc_mod, crumbs=[("Home", SITE + "/"), ("What we track", SITE + "/services.html")], noindex=thin))
 
     # ---------- services index ----------
     tiles = []

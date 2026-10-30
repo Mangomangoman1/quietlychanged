@@ -1,0 +1,50 @@
+{
+ "title": "Does Proton delete inactive accounts? How to keep a free Proton account (2026)",
+ "desc": "Yes: free Proton accounts inactive for 12 months can be deleted, and warnings are now \"a mere courtesy.\" What counts as activity and how to keep yours.",
+ "dek": "Short answer: yes, free ones. Proton can delete a free account inactive for 12 months in a row, with its mail, files, calendar and passwords. Since October 20, 2026, the warning emails are only \"a mere courtesy.\" Logging in once a year keeps the account.",
+ "published": "2026-10-30",
+ "modified": "2026-10-30",
+ "services": ["Proton"],
+ "changes": [
+  "2026-10-20-proton-inactive-free-accounts-deletion-warnings-are-now-only-a-courtesy",
+  "2026-10-16-proton-terms-now-let-proton-discontinue-any-service-or-feature-without-notice"
+ ],
+ "body": [
+  {"h": "Does Proton delete inactive accounts?"},
+  {"p": "Yes, free ones. Section 3 of Proton's Terms of Service (\"Inactive Accounts\") says Proton \"reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of 12 months and/or part or all of their associated data and content.\" That includes \"emails stored in Proton Mail, files stored on Proton Drive, calendar entries in Proton Calendar and passwords in Proton Pass.\""},
+  {"p": "Proton's help page on inactive accounts says deleted data is permanently removed. It also says the 24-month grace period for accounts created before April 9, 2024 stopped applying on April 9, 2026, so older free accounts now follow the same 12-month rule."},
+  {"h": "What about paid accounts?"},
+  {"p": "Paid accounts aren't deleted for inactivity. The terms say:"},
+  {"quote": "Accounts under an active paid subscription are always considered active and no action will be taken against your paid Account under this section.", "cite": "Proton Terms of Service, Section 3 (our snapshot, October 30, 2026)", "url": "https://proton.me/legal/terms"},
+  {"p": "That protection ends with the subscription. Cancelling, or being \"downgraded to free due to a failure to pay for the subscription,\" makes the account subject to the 12-month rule again."},
+  {"h": "What counts as activity"},
+  {"p": "A free account counts as active if, at least once every 12 months, you do one of these:"},
+  {"ul": [
+   "log in to your account on Proton's web, desktop or mobile apps; or",
+   "if you're already logged in, use one of Proton's products, for example opening your inbox, reading an email or connecting to a VPN server."
+  ]},
+  {"p": "\"Activity is considered by Account, not by email address.\" One active account keeps every address on it (@proton.me, @pm.me and so on) active too."},
+  {"h": "Will Proton warn you first? Not necessarily"},
+  {"p": "This is what changed on October 20, 2026. The terms used to promise: \"You will receive notices 30, 15 and 7 days in advance before such action is taken on the recovery email associated with your Account.\" They now say:"},
+  {"quote": "As a mere courtesy, the Company will aim to send notice to the recovery email associated with your Account 30, 15 and 7 days in advance before such action is taken.", "cite": "Proton Terms of Service, Section 3 (changed October 20, 2026)", "url": "https://proton.me/legal/terms"},
+  {"p": "The warnings went from a promise to a best effort. They also go only to your **recovery email**, so if you have no recovery email, or an old one you no longer read, you may get no warning at all."},
+  {"h": "How to keep a free Proton account"},
+  {"ol": [
+   "**Log in at least once a year** on the web, desktop or mobile app, for every free Proton account you want to keep, including backup or secondary accounts you rarely open. A calendar reminder helps.",
+   "**Make sure the recovery email is set and current.** It's the only place the courtesy warnings go.",
+   "**If you can't log in for 12 months** (the terms call these \"insurmountable circumstances\"), contact Proton Customer Support beforehand. The terms say support can then \"prevent deletion under this section.\"",
+   "**Keep copies of anything you can't lose.** The terms also say you won't hold Proton liable \"if data is deleted for an inactive account.\"",
+   "**Or keep a paid plan active.** Paid accounts \"are always considered active.\""
+  ]},
+  {"h": "Can you get a deleted Proton address back?"},
+  {"p": "Usually not. Proton's help page says deleted addresses generally can't be recovered or reassigned, with rare exceptions. For anything about your specific account, check [Proton's inactive-accounts page](https://proton.me/support/inactive-accounts) or ask Proton support."},
+  {"h": "Related: Proton can discontinue features without notice"},
+  {"p": "Proton's terms, last modified October 9, 2026, also added a clause to Section 4: Proton \"reserves the right, at its sole discretion, to modify, suspend, or discontinue any of our Services, or any feature or component thereof, with or without notice to you.\" Proton says it \"will endeavor to provide reasonable advance notice of a material discontinuation\" where practicable, but \"has no obligation to provide such notice.\" Together with the courtesy-only deletion warnings, the safest assumption is that you may not hear from Proton before something you rely on goes away."}
+ ],
+ "sources": [
+  ["Proton Terms of Service, Sections 3 and 4 (last modified October 9, 2026; inactive-account wording changed October 20, 2026)", "https://proton.me/legal/terms"],
+  ["Proton support: Inactive accounts", "https://proton.me/support/inactive-accounts"],
+  ["QuietlyChanged: Proton inactive free accounts: deletion warnings are now only a \"courtesy\" (Oct 20, 2026)", "https://quietlychanged.com/changes/2026-10-20-proton-inactive-free-accounts-deletion-warnings-are-now-only-a-courtesy/"],
+  ["QuietlyChanged: Proton terms now let Proton discontinue any service or feature without notice (Oct 16, 2026)", "https://quietlychanged.com/changes/2026-10-16-proton-terms-now-let-proton-discontinue-any-service-or-feature-without-notice/"]
+ ]
+}
