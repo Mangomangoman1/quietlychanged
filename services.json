@@ -287,5 +287,8 @@
   },
   "Social Security": {
     "privacy": "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest"
+  },
+  "Toyota": {
+    "privacy": "https://www.toyota.com/support/privacy-notice/"
   }
 }

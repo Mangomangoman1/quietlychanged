@@ -39,5 +39,104 @@
   "what": "Anthropic rebuilt the paid tiers on its Claude pricing page. Until yesterday the page listed one Max plan \"From $100\" where you could \"Choose 5x or 20x more usage than Pro\", and its FAQ said Max gave \"5x or 20x more usage per 5-hour session than Pro\" plus \"higher output limits.\"\n\nChange 1: The $200 tier is now called Ultra. The page lists Ultra at $200 a month, \"For your longest tasks,\" with \"No 5-hour limit\" and \"10x Pro usage every week.\" The FAQ says: \"Ultra gives you 10x the weekly usage of Pro, with no 5-hour limit for verified accounts.\" The old \"20x more usage per 5-hour session\" wording is gone. The two numbers measure different windows (per session before, per week now), so the page doesn't say whether heavy users get more or less in total.\n\nChange 2: Max is now one $100 plan. Max is listed at $100 a month (no longer \"From $100\") with \"5x Pro usage every 5 hours and every week.\" The line \"Higher output limits for all tasks\" was removed from the Max card.\n\nChange 3: A new top model, Fable. Pro now lists \"Fable, paid with usage credits.\" Max lists \"Fable included, up to half your weekly limit,\" and the comparison table shows \"50% of weekly limits\" for both Max and Ultra. The FAQ calls Fable \"our top model.\" Usage credits let paid users \"keep working at standard API rates\" after hitting a limit.\n\nChange 4: Fixed API credits. Max includes \"$100 a month in API credits to build on the Claude Platform\"; Ultra includes \"$200 a month in API credits, up from $100 on Max.\" The old card said \"$100 to $200/month.\"\n\nWhat stays the same: Pro is still $20 a month, or $17 a month billed annually ($200 up front). Free is still free, and the page now spells out that Free has \"Limited usage every 5 hours and every week.\"\n\nThe page gives no date for the switch and doesn't say what happens to existing Max 20x subscribers.",
   "who": "Claude Max subscribers, especially those paying $200 a month for Max 20x, and Pro users who want Anthropic's newest model.",
   "url": "https://www.anthropic.com/pricing"
+ },
+ {
+  "service": "Toyota",
+  "page": "privacy",
+  "headline": "Toyota now lists training large language models as a use of your personal information, and adds Acxiom tracking across your devices",
+  "tldr": "Toyota's Oct 28 privacy notices add \"training large language models\" as a use of personal data, including connected-car data, plus Acxiom cross-device tracking and AI in customer support.",
+  "impact": 2,
+  "effective": "2026-10-28",
+  "deadline": "Took effect",
+  "themes": [
+   "ai-and-your-data",
+   "ads-and-tracking"
+  ],
+  "actions": [
+   "To opt out of the sale or sharing of your data for targeted ads, or to ask Toyota to show or delete what it holds, use the form at privacy.toyota.com or call 855-226-4048",
+   "Opt out of Acxiom at isapps.acxiom.com/optout and LiveRamp at liveramp.com/opt_out (both linked in Toyota's notice). Toyota also says it honors Global Privacy Control browser signals",
+   "To stop your car sending data, the Connected Services notice says you can opt out or request deactivation of data transmission with the SOS button in the vehicle, by calling Customer Care, or in the Toyota app. Remote features and services that depend on it stop"
+  ],
+  "redline": [
+   {
+    "before": "",
+    "after": "For the purpose of training large language models;",
+    "label": "Toyota Privacy Notice · 3. How we use the personal information we collect",
+    "note": "In July, language models came up only under \"Research Data\" (surveys, focus groups). Now they're a standalone use in the main list.",
+    "src": "quoted"
+   },
+   {
+    "before": "Artificial intelligence research (activities may include training, fine-tuning, or improving large-language models; developing other kinds of artificial intelligence models or systems; and building virtual agents).",
+    "after": "Artificial intelligence research (activities may include training, fine-tuning, or improving large-language models; developing other kinds of artificial intelligence models or systems; and building virtual agents). We collect and use personal information for the purpose of training large language models.",
+    "label": "Toyota Connected Services Privacy Notice · Other uses of vehicle data, item 5",
+    "note": "This list covers Location Data, Driving Data, Voice Recordings and other data sent from your car.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "We also use cookies, tags, and similar tracking technologies, including those provided by Acxiom, to recognize visitors across different devices and browsers and to match browsing activity to broader audience profiles.",
+    "label": "Toyota Privacy Notice · 2. How we collect personal information (cookies)",
+    "note": "A new data broker is named, for cross-device matching.",
+    "src": "quoted"
+   }
+  ],
+  "what": "Toyota Motor North America updated two US privacy notices on October 28, 2026: the general Toyota Privacy Notice that covers toyota.com, the Toyota app, call-center contacts and dealer-related records, and the Toyota Connected Services Privacy Notice that covers data sent from connected vehicles. Both now carry the date \"Updated as of: October 28, 2026.\" We compared the general notice with the July 1, 2026 version recorded by Open Terms Archive, and the Connected Services notice with the July 1, 2026 PDF that is still posted on toyota.com. Toyota published the changes without a summary.\n\nChange 1: training large language models is now a listed use of your personal information. In the July version of the general notice, large language models came up only in the definition of \"Research Data,\" which Toyota described as data \"related to Toyota’s consumer and product research,\" such as \"your responses to surveys, insights generated from simulated user profiles, and information you provide as part of a focus group.\" The October 28 version adds a separate line to section 3, \"How We Use The Personal Information We Collect\": \"For the purpose of training large language models.\" That list covers the personal information Toyota collects \"about and from you,\" which the notice says includes contact details, vehicle ownership and service records, website and app activity, and \"call center records and screen, audio and/or video recordings.\"\n\nChange 2: the connected-car notice says it outright. The July Connected Services notice already listed \"Artificial intelligence research (activities may include training, fine-tuning, or improving large-language models; developing other kinds of artificial intelligence models or systems; and building virtual agents)\" among the uses of Location Data, Driving Data, Vehicle Health Data, Voice Recordings, Exterior Image Data, Account Information and other vehicle data. The October version adds: \"We collect and use personal information for the purpose of training large language models.\" The list of vehicle data covered by that section didn't change. Neither notice describes a separate way to opt out of AI or language-model use.\n\nChange 3: Acxiom tracking across devices. The general notice already named Google Analytics and LiveRamp cookies. It now adds: \"We also use cookies, tags, and similar tracking technologies, including those provided by Acxiom, to recognize visitors across different devices and browsers and to match browsing activity to broader audience profiles.\" It links Acxiom's opt-out page.\n\nChange 4: AI in customer support and service messages. Customer support now includes \"our use of third-party artificial intelligence models and/or other generative artificial intelligence technologies for customer support.\" In the Connected Services notice, the section on vehicle health reports, maintenance alerts and service-related marketing adds: \"We may use third-party artificial intelligence models and/or other generative artificial intelligence technologies for these communications.\"\n\nOther changes: Woven by Toyota and Toyota Research Institute are added to the affiliates Toyota receives information from and discloses it to. \"Battery charge data\" and \"electricity consumed for charging\" are added as examples of product data. In the Connected Services notice, the data sent to regulators now includes \"battery energy data,\" going to \"state and federal regulatory authorities,\" where July said \"state regulators.\" The section on profiling and automated decision-making drops the line that, because Toyota doesn't make such decisions, \"there is no need to provide a right to opt out.\" Connecticut residents are added to those who can ask for a list of specific third parties that received their data, and a Rhode Island list of third parties to whom Toyota \"sell[s], or may sell\" personal information is linked. The California \"Shine the Light\" section now points to the opt-out form at privacy.toyota.com.\n\nWhat stays the same: the Connected Services notice still says Toyota won't share Connected Services Data with \"Data resellers,\" \"Social networks,\" \"Ad networks\" or \"Insurance Providers, unless we have your consent or as required by law.\" You can still opt out of Connected Services or ask Toyota to deactivate data transmission.\n\nLexus: the Lexus Privacy Notice, updated October 14, 2026, has the same line, \"For the purpose of training large language models.\" We didn't have an earlier Lexus copy to compare against.\n\nCoverage (checked Oct 31, 2026): web, news and X searches found no reporting on either Toyota update. Open Terms Archive logged the change to the general notice on October 29.",
+  "who": "Toyota owners and lessees in the US, people who use the Toyota app or Connected Services, anyone who has called, chatted with or emailed Toyota, and visitors to toyota.com. Lexus owners are covered by a separate Lexus notice that has the same language-model line.",
+  "url": "https://www.toyota.com/support/privacy-notice/",
+  "seo_title": "Toyota privacy notice update (Oct 28, 2026): personal data used to train large language models, Acxiom tracking",
+  "seo_desc": "Toyota's October 28, 2026 US privacy notices add \"training large language models\" as a use of personal information, including connected-car data, plus Acxiom cross-device tracking and third-party AI in customer support. What changed and how to opt out.",
+  "faq": [
+   [
+    "Does Toyota use my data to train AI?",
+    "Toyota's US privacy notices say so. Since October 28, 2026, the Toyota Privacy Notice lists \"For the purpose of training large language models\" among the uses of personal information, and the Connected Services Privacy Notice says \"We collect and use personal information for the purpose of training large language models.\""
+   ],
+   [
+    "Which car data is covered?",
+    "The Connected Services notice lists the uses, including artificial intelligence research and language-model training, for Location Data, Driving Data, Vehicle Health Data, Vehicle Information, Remote Data, Profile Data, Exterior Image Data, Multimedia Screen Data, Voice Recordings, Voice Services, Device Data, Account Information, and data from Safety Connect, navigation, Remote Connect, Service Connect and Wi-Fi."
+   ],
+   [
+    "Was this already in Toyota's privacy notice?",
+    "Partly. The July 1, 2026 versions already mentioned large language models: the general notice under \"Research Data\" (surveys, focus groups, simulated profiles), and the Connected Services notice under \"Artificial intelligence research.\" The October 28 versions add language-model training as a separate stated purpose."
+   ],
+   [
+    "Can I opt out of Toyota using my data for AI?",
+    "Neither notice describes a separate AI opt-out. You can submit privacy requests (including to opt out of sale or sharing, or to delete data) at privacy.toyota.com or 855-226-4048, and you can opt out of Connected Services or request deactivation of data transmission with the SOS button, Customer Care, or the Toyota app."
+   ],
+   [
+    "What is Acxiom doing on Toyota's website?",
+    "The notice says Toyota uses tracking technologies \"including those provided by Acxiom, to recognize visitors across different devices and browsers and to match browsing activity to broader audience profiles.\" Acxiom's opt-out is at isapps.acxiom.com/optout."
+   ]
+  ],
+  "sources": [
+   [
+    "Toyota Privacy Notice (updated as of Oct 28, 2026)",
+    "https://www.toyota.com/support/privacy-notice/"
+   ],
+   [
+    "Toyota Connected Services Privacy Notice (Oct 28, 2026, PDF)",
+    "https://www.toyota.com/content/dam/toyota/privacyvts/pdf/toyota_connected_services_privacy_notice_102026.pdf"
+   ],
+   [
+    "Toyota Connected Services Privacy Notice (previous version, July 1, 2026, PDF)",
+    "https://www.toyota.com/content/dam/toyota/privacyvts/pdf/toyota-connected-services-privacy-notice.pdf"
+   ],
+   [
+    "Toyota Connected Services Privacy Notice page",
+    "https://www.toyota.com/privacyvts/"
+   ],
+   [
+    "Open Terms Archive: recorded change to the Toyota Privacy Notice (Oct 29, 2026)",
+    "https://github.com/OpenTermsArchive/contrib-versions/commit/0b646b66ead04acbd639a9ac336a03b20b92fa20"
+   ],
+   [
+    "Lexus Privacy Notice (updated as of Oct 14, 2026, PDF)",
+    "https://www.lexus.com/content/dam/lexus/documents/privacy/Lexus_Privacy_Notice.pdf"
+   ],
+   [
+    "Toyota privacy request portal",
+    "https://privacy.toyota.com/"
+   ]
+  ],
+  "modified": "2026-10-31"
  }
 ]

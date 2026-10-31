@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toyota · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-10-31-toyota-toyota-now-lists-training-large-language-models-as-a
+ -use-of-your-persona@quietlychanged.com
+DTSTAMP:20261031T185122Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Toyota: Took effect
+DESCRIPTION:Toyota's Oct 28 privacy notices add "training large language m
+ odels" as a use of personal data\, including connected-car data\, plus Ac
+ xiom cross-device tracking and AI in customer support.\n\nhttps://quietly
+ changed.com/changes/2026-10-31-toyota-toyota-now-lists-training-large-lan
+ guage-models-as-a-use-of-your-persona/
+URL:https://quietlychanged.com/changes/2026-10-31-toyota-toyota-now-lists-
+ training-large-language-models-as-a-use-of-your-persona/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Toyota — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
