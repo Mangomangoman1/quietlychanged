@@ -1,0 +1,43 @@
+[
+ {
+  "service": "Anthropic Claude",
+  "page": "pricing",
+  "headline": "Claude's $200 plan becomes \"Ultra\": no 5-hour limit, but 10x Pro's weekly usage instead of 20x per session",
+  "tldr": "Claude Max 20x is gone. The $200 plan is now Ultra: no 5-hour limit for verified accounts and 10x Pro's weekly usage. Max is a single $100 plan with 5x.",
+  "impact": 2,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "actions": [
+   "If you pay $200 a month for Max 20x, check Settings > Usage in Claude to see how your limits look on Ultra before your next renewal",
+   "Verify your account if you're on Ultra, since Anthropic says the no-5-hour-limit perk applies to \"verified accounts\"",
+   "On Pro, know that the new Fable model is \"paid with usage credits\" (standard API rates), so keep an eye on extra charges"
+  ],
+  "redline": [
+   {
+    "before": "Choose 5x or 20x more usage than Pro*",
+    "after": "No 5-hour limit 10x Pro usage every week*",
+    "label": "Pricing · Max / Ultra plan cards",
+    "note": "The $200 tier's headline promise switches from 20x Pro per session to 10x Pro per week, with the 5-hour cap removed.",
+    "src": "raw"
+   },
+   {
+    "before": "$100 to $200/month in API credits to build on the Claude Platform",
+    "after": "$200 a month in API credits, up from $100 on Max",
+    "label": "Pricing · API credits",
+    "note": "The API credit is now fixed per plan: $100 on Max, $200 on Ultra.",
+    "src": "raw"
+   },
+   {
+    "before": "More usage*",
+    "after": "More usage than Free , every 5 hours and every week Fable, paid with usage credits",
+    "label": "Pricing · Pro plan card",
+    "note": "Pro users can use the new top model, Fable, only by paying for usage credits.",
+    "src": "raw"
+   }
+  ],
+  "what": "Anthropic rebuilt the paid tiers on its Claude pricing page. Until yesterday the page listed one Max plan \"From $100\" where you could \"Choose 5x or 20x more usage than Pro\", and its FAQ said Max gave \"5x or 20x more usage per 5-hour session than Pro\" plus \"higher output limits.\"\n\nChange 1: The $200 tier is now called Ultra. The page lists Ultra at $200 a month, \"For your longest tasks,\" with \"No 5-hour limit\" and \"10x Pro usage every week.\" The FAQ says: \"Ultra gives you 10x the weekly usage of Pro, with no 5-hour limit for verified accounts.\" The old \"20x more usage per 5-hour session\" wording is gone. The two numbers measure different windows (per session before, per week now), so the page doesn't say whether heavy users get more or less in total.\n\nChange 2: Max is now one $100 plan. Max is listed at $100 a month (no longer \"From $100\") with \"5x Pro usage every 5 hours and every week.\" The line \"Higher output limits for all tasks\" was removed from the Max card.\n\nChange 3: A new top model, Fable. Pro now lists \"Fable, paid with usage credits.\" Max lists \"Fable included, up to half your weekly limit,\" and the comparison table shows \"50% of weekly limits\" for both Max and Ultra. The FAQ calls Fable \"our top model.\" Usage credits let paid users \"keep working at standard API rates\" after hitting a limit.\n\nChange 4: Fixed API credits. Max includes \"$100 a month in API credits to build on the Claude Platform\"; Ultra includes \"$200 a month in API credits, up from $100 on Max.\" The old card said \"$100 to $200/month.\"\n\nWhat stays the same: Pro is still $20 a month, or $17 a month billed annually ($200 up front). Free is still free, and the page now spells out that Free has \"Limited usage every 5 hours and every week.\"\n\nThe page gives no date for the switch and doesn't say what happens to existing Max 20x subscribers.",
+  "who": "Claude Max subscribers, especially those paying $200 a month for Max 20x, and Pro users who want Anthropic's newest model.",
+  "url": "https://www.anthropic.com/pricing"
+ }
+]

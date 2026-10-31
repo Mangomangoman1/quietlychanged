@@ -370,5 +370,25 @@
    "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
    "HTTP 403 for a week; roblox.com/info/terms redirects and the help-center API 404s, so still no working replacement; kept"
   ]
+ ],
+ "flaky_2026-10-31": [
+  [
+   "Pinterest",
+   "terms+privacy",
+   "https://policy.pinterest.com/en/",
+   "SSLError in tracker; curl got 200 minutes later, transient"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+   "SSLError Oct 30 and Oct 31 (curl TLS error 35 too); watch, swap if it persists"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 again; no working replacement known; kept"
+  ]
  ]
 }
