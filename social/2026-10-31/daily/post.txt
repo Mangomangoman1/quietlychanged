@@ -3,6 +3,6 @@ Claude's $200 plan has a new name and a new promise.
 Before (Max 20x): "20x more usage per 5-hour session than Pro"
 Now (Ultra): "10x the weekly usage of Pro," no 5-hour limit for verified accounts
 
-Max is one $100 plan. New top model Fable costs extra on Pro.
+And the new top model, Fable, costs extra on Pro.
 
 https://quietlychanged.com/changes/2026-10-31-anthropic-claude-claude-s-200-plan-becomes-ultra-no-5-hour-limit-but-10x-pro-s/
