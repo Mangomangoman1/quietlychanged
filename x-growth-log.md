@@ -1165,3 +1165,12 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 
 ## Cadence note 2026-10-31 afternoon (parent)
 - The Toyota LLM-training original (social/2026-10-31/deepdive/post.txt; move the link to a self-reply) is held for the Nov 1 morning session, since today's one original was Claude Ultra. It takes the Nov 1 slot ahead of Canva. Canva drops unless a slot frees up.
+
+## Snapshot 2026-10-31 ~5:20 PM MT (Saturday evening)
+- Followers **14** (up from 10 this morning), following 12, posts 177, media 75.
+- **Breakout:** Prime "$15 credit script" reply under jaxoncoder (2116551726505644303): **64,982 impressions, 83 likes, 100 bookmarks, 5 reposts, 5 replies** in ~8 h. Parent is at 3.4M impressions, 404 replies. jaxoncoder replied to us (18.4K impressions on his reply). Our best post ever, about 40x the Steam reply.
+- Two afternoon follow-up replies in that thread (posted outside this routine): 2116632325534687393 (1,327) and 2116635872343064886 (980).
+- Claude Ultra original 10, its self-reply 7. Steam/Pirat_Nation reply now 1,698.
+- Learned: the viral-alarm rule (calm correction + policy card, landed ~4.5 h after a parent that was still climbing hard, ~125 replies ahead) worked at a 1M+ scale, and it brought the first real follow bump (+4). Bookmarks (100) show the "how to claim it" path is what people save. Replies from people in the thread kept it visible all afternoon.
+- Adjustment: follow the breakout with a quote post carrying the full Prime price history (the saved breakout rule). No 50K+ in-lane parents live this evening (Halloween and midterms feeds).
+- Drafted: social/2026-10-31/pm/xgrowth-pm-drafts.md (Q1 quote post with Amazon logo + price chart, self-reply link; R1 answer to hotmud's question).
