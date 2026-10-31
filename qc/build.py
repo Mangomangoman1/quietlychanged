@@ -66,7 +66,7 @@ def main():
     RAW = {d: raw_sections((R / "reports" / f"{d}-raw.md").read_text()) if (R / "reports" / f"{d}-raw.md").exists() else {} for d in days}
 
     # every change, with its article slug, newest first
-    ALL = []
+    ALL = []; THIN_ARTS = []
     for d in days:
         for c in data[d]:
             c["_art"] = art_slug(d, c); c["_d"] = d
@@ -210,7 +210,9 @@ def main():
                 f'<p class="linkline" style="margin-top:1.4rem">{more_svc}<a href="../../{HUB_FOR[k][0]}">All {HUB_FOR[k][1].lower()}</a> · <a href="../../reports/{d}.html">Report for {nice(d)}</a> · <a href="../../archive.html">All reports</a></p></section>')
         crumbs = [("Home", SITE + "/"), (HUB_FOR.get(k, ("", ""))[1] or "Changes", f"{SITE}/{HUB_FOR.get(k, ('archive.html', ''))[0]}")]
         if has_svc: crumbs.append((c["service"], f"{SITE}/services/{sl}/"))
-        write(D / "changes" / a / "index.html", page(f"changes/{a}/index.html", t, body, TODAY, desc=ds, depth=2, ld=ld, otype="article", lastmod=c.get("modified", d), crumbs=crumbs, image=OGIMG.get(a)))
+        thin_art = c["impact"] == 1 and len((c.get("what") or "").split()) < 150   # small edits with a short write-up: kept online and linked, not indexed
+        if thin_art: THIN_ARTS.append(a)
+        write(D / "changes" / a / "index.html", page(f"changes/{a}/index.html", t, body, TODAY, desc=ds, depth=2, ld=ld, otype="article", lastmod=c.get("modified", d), crumbs=crumbs, image=OGIMG.get(a), noindex=thin_art))
 
     # ---------- deadlines ----------
     dated = [(d, c) for d, c in ALL if c.get("effective")]
@@ -705,4 +707,4 @@ def main():
             except Exception as ex: print(f"IndexNow ping skipped: {ex}")
 
     og.site_image(D, R)
-    print(f"Built {len(PAGES) + len(NOINDEX)} pages ({len(NOINDEX)} noindex: {len(days)} reports, {len(THIN)} thin service pages) · {len(GUIDES)} guides · {len(ALL)} changes · {len(upcoming)} upcoming dates")
+    print(f"Built {len(PAGES) + len(NOINDEX)} pages ({len(NOINDEX)} noindex: {len(days)} reports, {len(THIN)} thin service pages, {len(THIN_ARTS)} thin articles) · {len(GUIDES)} guides · {len(ALL)} changes · {len(upcoming)} upcoming dates")
