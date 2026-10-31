@@ -1162,3 +1162,6 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 
 ## Published 2026-10-31 morning session
 - R1 under jaxoncoder (Amazon Prime $15 credit script), 2 images: https://x.com/QuietlyChanged/status/2116551726505644303 (~9:25 AM MT), from @QuietlyChanged, no duplicate.
+
+## Cadence note 2026-10-31 afternoon (parent)
+- The Toyota LLM-training original (social/2026-10-31/deepdive/post.txt; move the link to a self-reply) is held for the Nov 1 morning session, since today's one original was Claude Ultra. It takes the Nov 1 slot ahead of Canva. Canva drops unless a slot frees up.
