@@ -1159,3 +1159,6 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - Learned: the France image replies under 350K+ parents with 400+ replies ahead got 171–470, much lower than the CS-035 image-reply benchmark; going in ~24 h late on that story capped them. Originals still don't travel (4–19).
 - Saturday-morning feeds from priority aggregators are off-lane (food, music charts, politics). The one big live lane post is a viral Prime "$15 credit script" (jaxoncoder, ~920K, 125+ replies, copies spreading). The script overstates Amazon's policy, which only refunds shipping fees, so it's a viral-alarm slot: calm line + policy card.
 - Drafted (social/2026-10-31/am/xgrowth-am-drafts.md): R1 under jaxoncoder with Amazon logo + policy card. No original (Claude Ultra already today).
+
+## Published 2026-10-31 morning session
+- R1 under jaxoncoder (Amazon Prime $15 credit script), 2 images: https://x.com/QuietlyChanged/status/2116551726505644303 (~9:25 AM MT), from @QuietlyChanged, no duplicate.
