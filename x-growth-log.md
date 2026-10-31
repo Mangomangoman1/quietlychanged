@@ -1152,3 +1152,10 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - O1 Claude Ultra original (3 images): https://x.com/QuietlyChanged/status/2116504246275428445 (~6:15 AM MT)
 - Self-reply with link: https://x.com/QuietlyChanged/status/2116504371819352248
 - From @QuietlyChanged (switched from @Missum_AI), no duplicates.
+
+## Snapshot 2026-10-31 ~9:20 AM MT (Saturday morning)
+- Followers **10** (flat), following 12, posts 174, media 74.
+- Steam cooldown under Pirat_Nation now **1,652** (12 likes, 4 replies), still our best this week. unusual_whales France tax 470, Polymarket France tax 171, Dexerto DoorDash 289, SSA original 19, Claude Ultra original 4 after 3 h.
+- Learned: the France image replies under 350K+ parents with 400+ replies ahead got 171–470, much lower than the CS-035 image-reply benchmark; going in ~24 h late on that story capped them. Originals still don't travel (4–19).
+- Saturday-morning feeds from priority aggregators are off-lane (food, music charts, politics). The one big live lane post is a viral Prime "$15 credit script" (jaxoncoder, ~920K, 125+ replies, copies spreading). The script overstates Amazon's policy, which only refunds shipping fees, so it's a viral-alarm slot: calm line + policy card.
+- Drafted (social/2026-10-31/am/xgrowth-am-drafts.md): R1 under jaxoncoder with Amazon logo + policy card. No original (Claude Ultra already today).
