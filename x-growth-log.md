@@ -1174,3 +1174,8 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - Learned: the viral-alarm rule (calm correction + policy card, landed ~4.5 h after a parent that was still climbing hard, ~125 replies ahead) worked at a 1M+ scale, and it brought the first real follow bump (+4). Bookmarks (100) show the "how to claim it" path is what people save. Replies from people in the thread kept it visible all afternoon.
 - Adjustment: follow the breakout with a quote post carrying the full Prime price history (the saved breakout rule). No 50K+ in-lane parents live this evening (Halloween and midterms feeds).
 - Drafted: social/2026-10-31/pm/xgrowth-pm-drafts.md (Q1 quote post with Amazon logo + price chart, self-reply link; R1 answer to hotmud's question).
+
+## Published 2026-10-31 evening
+- R1 reply to hotmud: https://x.com/QuietlyChanged/status/2116673259530006744
+- Q1 quote of Prime breakout reply (Samuel OKd 2nd post today): https://x.com/QuietlyChanged/status/2116673681913155771
+- Q1 self-reply link: https://x.com/QuietlyChanged/status/2116673861865582919
