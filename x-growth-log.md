@@ -1179,3 +1179,30 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - R1 reply to hotmud: https://x.com/QuietlyChanged/status/2116673259530006744
 - Q1 quote of Prime breakout reply (Samuel OKd 2nd post today): https://x.com/QuietlyChanged/status/2116673681913155771
 - Q1 self-reply link: https://x.com/QuietlyChanged/status/2116673861865582919
+
+## Snapshot 2026-11-01 ~9:20 AM MT (Sunday morning)
+- Followers **17** (14 last evening, 10 on Oct 31 morning), following 12, posts 182, media 76.
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|---|
+| Oct 31 9:23 AM | Prime $15 script correction under jaxoncoder (2116551726505644303), parent 5.9M | reply | **99,307** | 124 | 149 | 7 (6 RT) |
+| Oct 31 2:44 PM | Follow-up to jaxoncoder (2116632325534687393) | reply (outside routine) | 4,571 | 14 | 2 | 1 |
+| Oct 31 2:58 PM | Answer to LSUnited62 (2116635872343064886) | reply (outside routine) | 3,766 | 13 | 1 | 2 |
+| Oct 31 8:37 PM | "not fully sentient" to LSUnited62 (2116721237988868515) | reply (outside routine) | 1,733 | 18 | 0 | 2 |
+| Oct 31 5:26 PM | Answer to hotmud (2116673259530006744) | reply | 282 | 2 | 0 | 0 |
+| Oct 31 5:42 PM | Answer to Sawos15 (2116677327774261741) | reply (outside routine) | 205 | 0 | 0 | 0 |
+| Oct 31 5:28 PM | Prime price-history quote of our own breakout (2116673681913155771) + self-reply | quote (own post) | 17 + 12 | 0 | 0 | 1 |
+| Oct 31 6:15 AM | Claude Ultra original + self-reply | original | 15 + 12 | 0 | 0 | 1 |
+| Oct 30 9:34 AM | Steam cooldown under Pirat_Nation | reply | 1,719 | 14 | 0 | 4 |
+
+### What we learned
+- The Prime breakout reply kept climbing overnight (65K to 99K, 100 to 149 bookmarks) and followers went 14 to 17. Bookmarks keep tracking the "how to claim it" line.
+- Quote of our OWN reply got 17. Quoting ourselves borrows no audience; the quote layer only helps when it quotes the big parent. Track parent-quotes separately starting today (Q1).
+- Back-and-forth replies deep in a viral thread still pull 1.7K to 4.6K each, more than most of our first-level replies under 10-50K parents. Conversation under a breakout is worth a few calm answers.
+- Fresh copies of the Prime script are still spreading (ZayvenKnox 67K/9 replies, liamcoderx, samcoderx), but they're hours old and slowing.
+- This morning's live lane story: Polymarket "Anthropic bans Claude Code from recreating existing video games" (129K in 65 min, still ~1K/min). The headline overstates it: Anthropic's Addy Osmani says it's two sentences in Claude Code's prompt, original/genre/own-design games still work, and the basis is the existing usage-policy IP line. Viral-misleading slot: reply with a card, plus a parent-quote with the policy text.
+
+### Drafted (social/2026-11-01/am/xgrowth-am-drafts.md)
+- O1 Toyota LLM-training original (today's one original), link in self-reply.
+- R1 reply under Polymarket (Claude logo + "not a ban" card). Q1 quote of Polymarket (Claude logo + AUP fine-print card), counts as a parent-quote.
+- R2 optional under ZayvenKnox Prime copy (Amazon logo + policy card), only if it's still climbing.
