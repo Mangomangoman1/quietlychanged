@@ -1206,3 +1206,10 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - O1 Toyota LLM-training original (today's one original), link in self-reply.
 - R1 reply under Polymarket (Claude logo + "not a ban" card). Q1 quote of Polymarket (Claude logo + AUP fine-print card), counts as a parent-quote.
 - R2 optional under ZayvenKnox Prime copy (Amazon logo + policy card), only if it's still climbing.
+
+## Published 2026-11-01 morning
+- R1 reply to Polymarket (Claude Code games): https://x.com/QuietlyChanged/status/2116929118155727044
+- O1 Toyota LLM-training original: https://x.com/QuietlyChanged/status/2116930540393967770
+- O1 self-reply with link: https://x.com/QuietlyChanged/status/2116930648955060624
+- Q1 quote of Polymarket post: https://x.com/QuietlyChanged/status/2116932062049697932
+- R2 ZayvenKnox skipped (74.6K, nearly flat)
