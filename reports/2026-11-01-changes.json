@@ -1,40 +1,138 @@
 [
- {
-  "service": "Spotify",
-  "page": "pricing",
-  "headline": "Premium free trial back to 1 month as the 2-month offer ends",
-  "what": "Spotify's US Premium page went back from \"Try 2 months for $0\" to \"Try 1 month for $0\" on November 1, 2026, the day its two-month offer was set to end. We reported the longer trial on October 20; the page had said \"Offer ends November 1, 2026.\" The new wording reads \"$0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.\" The trial still covers Premium Individual only, and the price after it is unchanged at $12.99 a month.",
-  "who": "People in the US who have never had Spotify Premium; past or current subscribers didn't qualify for either trial",
-  "url": "https://www.spotify.com/us/premium/",
-  "seo_title": "Spotify Premium free trial is back to 1 month (Nov 1, 2026), then $12.99/mo",
-  "seo_desc": "Spotify's two-month US Premium Individual trial ended November 1, 2026. First-time users now get one free month, then $12.99 a month.",
-  "tldr": "Spotify's two-month free Premium trial ended on schedule. New subscribers now get one free month, then $12.99 a month.",
-  "impact": 1,
-  "themes": [
-   "plan-shuffles"
-  ],
-  "effective": "2026-11-01",
-  "deadline": "Took effect",
-  "redline": [
-   {
-    "before": "Try 2 months for $0",
-    "after": "Try 1 month for $0",
-    "label": "Premium page · Trial",
-    "note": "The longer trial ended on the date Spotify had announced.",
-    "src": "raw"
-   },
-   {
-    "before": "Premium Individual only. Free for 2 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
-    "after": "Premium Individual only. $0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
-    "label": "Premium page · Offer terms",
-    "src": "raw"
-   }
-  ],
-  "sources": [
-   [
-    "Spotify Premium (US)",
-    "https://www.spotify.com/us/premium/"
-   ]
-  ]
- }
+  {
+    "service": "Spotify",
+    "page": "pricing",
+    "headline": "Premium free trial back to 1 month as the 2-month offer ends",
+    "what": "Spotify's US Premium page went back from \"Try 2 months for $0\" to \"Try 1 month for $0\" on November 1, 2026, the day its two-month offer was set to end. We reported the longer trial on October 20; the page had said \"Offer ends November 1, 2026.\" The new wording reads \"$0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.\" The trial still covers Premium Individual only, and the price after it is unchanged at $12.99 a month.",
+    "who": "People in the US who have never had Spotify Premium; past or current subscribers didn't qualify for either trial",
+    "url": "https://www.spotify.com/us/premium/",
+    "seo_title": "Spotify Premium free trial is back to 1 month (Nov 1, 2026), then $12.99/mo",
+    "seo_desc": "Spotify's two-month US Premium Individual trial ended November 1, 2026. First-time users now get one free month, then $12.99 a month.",
+    "tldr": "Spotify's two-month free Premium trial ended on schedule. New subscribers now get one free month, then $12.99 a month.",
+    "impact": 1,
+    "themes": [
+      "plan-shuffles"
+    ],
+    "effective": "2026-11-01",
+    "deadline": "Took effect",
+    "redline": [
+      {
+        "before": "Try 2 months for $0",
+        "after": "Try 1 month for $0",
+        "label": "Premium page · Trial",
+        "note": "The longer trial ended on the date Spotify had announced.",
+        "src": "raw"
+      },
+      {
+        "before": "Premium Individual only. Free for 2 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
+        "after": "Premium Individual only. $0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
+        "label": "Premium page · Offer terms",
+        "src": "raw"
+      }
+    ],
+    "sources": [
+      [
+        "Spotify Premium (US)",
+        "https://www.spotify.com/us/premium/"
+      ]
+    ]
+  },
+  {
+    "service": "Tubi",
+    "page": "privacy",
+    "headline": "Tubi moves onto Fox's privacy policy: it can now collect your precise location, and its no-targeted-ads age for teens drops from 18 to 16",
+    "tldr": "Tubi's Oct 22 privacy policy is Fox's joint policy: it allows precise location, adds AI tools for ads and support, and cuts a teen targeted-ads limit from under-18 to under-16.",
+    "impact": 2,
+    "effective": "2026-10-22",
+    "deadline": "Took effect",
+    "themes": [
+      "ads-and-tracking",
+      "ai-and-your-data"
+    ],
+    "actions": [
+      "To opt out of the sale or sharing of your data for targeted ads, use Tubi's form at tubitv.com/privacy/opt-out. The policy says it also processes Global Privacy Control (GPC) opt-out signals from your browser or device",
+      "Check the location permission for the Tubi app in your phone's or TV's settings. If you don't want Tubi to get precise location, set it to off, or to approximate on iPhone and Android",
+      "If kids use Tubi, Tubi Kids Accounts and Tubi Kids Mode are now covered by a separate Children's Privacy Policy at tubitv.com/privacy/children"
+    ],
+    "redline": [
+      {
+        "before": "In certain circumstances, we also may collect general location information, such as the city, state, and country where the device is located.",
+        "after": "In certain circumstances, we also may collect geolocation data (including your precise location).",
+        "label": "Tubi Privacy Policy · Information collected automatically",
+        "note": "Same spot in the policy, from city/state/country to precise location. This is the wording Fox's own policy already used.",
+        "src": "quoted"
+      },
+      {
+        "before": "We do not knowingly “sell” or process for the purposes of targeted advertising, the Personal Data of minors known to be under 18 years of age (or any comparable category of underage users defined under state privacy laws)…",
+        "after": "Further, we do not knowingly “sell” or process for the purposes of targeted advertising, the Personal Data of minors known to be under 16 years of age (or any comparable category of underage users defined under state privacy laws)…",
+        "label": "Tubi Privacy Policy · Notice to residents of other US states with privacy laws",
+        "note": "The promise not to sell teens' data or use it for targeted ads now stops at 16 instead of 18, in states whose laws cover it.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "We may use artificial intelligence (AI) tools in connection with some of the Company Services, for example, to help provide customer support (e.g., chatbots) or to provide advertising and content that you may find more relevant and interesting.",
+        "label": "Tubi Privacy Policy · How we use information",
+        "note": "New for Tubi. The July version didn't mention AI.",
+        "src": "quoted"
+      }
+    ],
+    "what": "Tubi, the free ad-supported streaming service Fox has owned since 2020, replaced its own privacy policy on October 22, 2026. The page at tubitv.com/static/privacy now shows the joint policy of \"Fox Digital Services, LLC, along with Fox News, Fox Sports, Fox Broadcasting Company, Tubi, Inc., and Fox Television Stations (collectively \"Company\" or \"we\")\", dated \"Last Updated/Effective Date: October 22, 2026.\" Fox News' privacy policy page carries the same date. We compared it with Tubi's previous standalone policy, dated July 1, 2026, as captured by the Internet Archive on October 20, 2026. Tubi published the change without a summary.\n\nChange 1: precise location. The July policy said: \"In certain circumstances, we also may collect general location information, such as the city, state, and country where the device is located.\" The same sentence now reads: \"In certain circumstances, we also may collect geolocation data (including your precise location).\" Fox's own July policy already used that wording. In the California table, the category \"Non-Precise Geolocation data\" is renamed \"Geolocation data, such as device location.\" To be fair to Tubi, the new tables also mark location as not sold or shared (\"N/A\") and no longer list \"To deliver relevant advertisements\" as a purpose for it. The July tables listed non-precise location as sold or shared with \"Advertising technology companies; advertisers\" for targeted advertising. So Tubi now reserves the right to collect more exact location, but says it doesn't pass location to ad companies.\n\nChange 2: teen protection drops from 18 to 16 in some states. In the section for residents of US states with privacy laws other than California, the July policy said Tubi does not knowingly sell, or process for targeted advertising, the personal data \"of minors known to be under 18 years of age\" in states whose laws prohibit it. The new policy says \"under 16 years of age.\" The California section's under-16 line is unchanged.\n\nChange 3: AI tools and inferences. A new line says the company \"may use artificial intelligence (AI) tools in connection with some of the Company Services, for example, to help provide customer support (e.g., chatbots) or to provide advertising and content that you may find more relevant and interesting.\" Profiling is now a stated purpose of its own. July said Tubi personalizes content and ads \"(including, in certain circumstances, by making predictions and inferences about your interests)\". The new policy lists, as a use, \"to make inferences and predictions about your potential areas of interest in order to provide you with content and advertising that is more interesting, personalized, and relevant to you.\"\n\nChange 4: data shared across Fox and with subscription partners. \"Tubi Affiliates\" become \"Company Affiliates\", the same group that runs Fox News, Fox Sports and Fox's TV stations, and they are now listed as receiving data \"For the purpose of marketing, personalization, and targeted advertising\" (July: \"marketing and targeted advertising\"). \"Providers of streaming subscriptions\" are added as recipients, along with a new use: \"If you choose to purchase, request, or redeem a subscription from or through another party, we may process and share information about you, such as your email address, to facilitate subscriptions with or through that company.\"\n\nOther changes: registration information now lists \"phone number\" and \"birthday\" (July: \"account name, email address, gender, zip code, and age\"). The Social Engagement Features text (following, re-posting and reacting, and public profile information) is gone. Kids' information moved out of the main policy. The new policy says it doesn't apply to Tubi Kids Accounts and Tubi Kids Mode for children under 13, and those are covered by a separate Children's Privacy Policy, also dated October 22, 2026.\n\nWhat you can do: Tubi's opt-out form for the sale or sharing of data for targeted advertising is still at tubitv.com/privacy/opt-out. Your device's location permission controls whether the Tubi app can get precise location at all.\n\nCoverage (checked Nov 1, 2026): web, news and X searches found no reporting on the change. An automated terms tracker logged a Tubi update on October 23.",
+    "who": "Anyone who watches Tubi in the US on the web, the mobile apps or a TV app, especially people who let the Tubi app use location and teens aged 16 and 17. Parents of children who use Tubi Kids are covered by the new Children's Privacy Policy.",
+    "url": "https://tubitv.com/static/privacy",
+    "seo_title": "Tubi privacy policy change (Oct 22, 2026): Fox policy, precise location, teen ad age 16",
+    "seo_desc": "Tubi's October 22, 2026 privacy policy is now Fox's joint policy. It allows collecting precise location, adds AI tools for ads and support, and lowers its teen targeted-ads limit from 18 to 16. What changed and how to opt out.",
+    "faq": [
+      [
+        "Does Tubi track my precise location?",
+        "Since October 22, 2026, Tubi's privacy policy says \"In certain circumstances, we also may collect geolocation data (including your precise location).\" The July 2026 version only mentioned \"general location information, such as the city, state, and country.\" Whether the app actually gets precise location depends on the location permission you give it on your device."
+      ],
+      [
+        "Does Tubi sell my location to advertisers?",
+        "The new policy's tables mark geolocation as not sold or shared (\"N/A\"). The July version listed non-precise location as sold or shared with advertising technology companies and advertisers for targeted advertising."
+      ],
+      [
+        "Why does Tubi's privacy policy mention Fox News?",
+        "Tubi is owned by Fox. As of October 22, 2026, Tubi uses Fox's joint privacy policy, which covers Fox Digital Services, Fox News, Fox Sports, Fox Broadcasting Company, Tubi, Inc. and Fox Television Stations."
+      ],
+      [
+        "Does Tubi use AI?",
+        "The new policy says the company may use AI tools \"to help provide customer support (e.g., chatbots) or to provide advertising and content that you may find more relevant and interesting.\" Tubi's July 2026 policy didn't mention AI."
+      ],
+      [
+        "What changed for teens on Tubi?",
+        "Outside California, Tubi's promise not to knowingly sell, or use for targeted ads, the data of minors in states that prohibit it now covers users under 16, down from under 18. The California under-16 line didn't change."
+      ],
+      [
+        "How do I opt out of Tubi targeted ads?",
+        "Use the opt-out form at tubitv.com/privacy/opt-out. The policy says that if you've turned on Global Privacy Control (GPC) on your device, it processes that opt-out signal."
+      ]
+    ],
+    "sources": [
+      [
+        "Tubi Privacy Policy (Last Updated/Effective Date: Oct 22, 2026)",
+        "https://tubitv.com/static/privacy"
+      ],
+      [
+        "Tubi Privacy Policy (previous version, July 1, 2026), Internet Archive capture of Oct 20, 2026",
+        "https://web.archive.org/web/20261020125658/https://tubitv.com/static/privacy"
+      ],
+      [
+        "Fox News Privacy Policy (same joint policy, Oct 22, 2026)",
+        "https://www.foxnews.com/privacy-policy"
+      ],
+      [
+        "Fox News Privacy Policy (previous version, July 1, 2026), Internet Archive capture of Oct 20, 2026",
+        "https://web.archive.org/web/20261020204532/https://www.foxnews.com/privacy-policy"
+      ],
+      [
+        "Tubi Children's Privacy Policy (Last Updated: Oct 22, 2026)",
+        "https://tubitv.com/privacy/children"
+      ],
+      [
+        "Tubi privacy opt-out form",
+        "https://tubitv.com/privacy/opt-out"
+      ]
+    ]
+  }
 ]

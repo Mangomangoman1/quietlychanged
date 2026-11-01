@@ -290,5 +290,8 @@
   },
   "Toyota": {
     "privacy": "https://www.toyota.com/support/privacy-notice/"
+  },
+  "Tubi": {
+    "privacy": "https://tubitv.com/static/privacy"
   }
 }

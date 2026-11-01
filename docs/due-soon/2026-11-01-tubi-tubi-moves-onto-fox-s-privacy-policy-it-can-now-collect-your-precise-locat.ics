@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tubi · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-01-tubi-tubi-moves-onto-fox-s-privacy-policy-it-can-now-collec
+ t-your-precise-locat@quietlychanged.com
+DTSTAMP:20261101T195346Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Tubi: Took effect
+DESCRIPTION:Tubi's Oct 22 privacy policy is Fox's joint policy: it allows 
+ precise location\, adds AI tools for ads and support\, and cuts a teen ta
+ rgeted-ads limit from under-18 to under-16.\n\nhttps://quietlychanged.com
+ /changes/2026-11-01-tubi-tubi-moves-onto-fox-s-privacy-policy-it-can-now-
+ collect-your-precise-locat/
+URL:https://quietlychanged.com/changes/2026-11-01-tubi-tubi-moves-onto-fox
+ -s-privacy-policy-it-can-now-collect-your-precise-locat/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Tubi — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
