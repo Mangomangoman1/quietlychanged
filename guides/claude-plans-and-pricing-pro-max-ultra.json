@@ -1,0 +1,79 @@
+{
+ "title": "Claude plans and pricing (November 2026): Free, Pro, Max and Ultra compared",
+ "desc": "Claude Pro is $20 a month ($17 billed annually), Max is $100 and Ultra is $200. What each plan includes, Max vs Ultra, and what changed on Oct 31, 2026.",
+ "dek": "Short answer: Free costs nothing, Pro is $20 a month (or $17 a month billed annually, $200 up front), Max is $100 a month and Ultra is $200 a month. Ultra replaced the old $200 Max 20x plan in late October 2026. It has no 5-hour limit for verified accounts and 10x Pro's weekly usage.",
+ "published": "2026-11-01",
+ "modified": "2026-11-01",
+ "services": ["Anthropic Claude"],
+ "changes": [
+  "2026-10-31-anthropic-claude-claude-s-200-plan-becomes-ultra-no-5-hour-limit-but-10x-pro-s",
+  "2026-10-15-anthropic-claude-claude-enterprise-now-lists-a-20-seat-minimum"
+ ],
+ "body": [
+  {"h": "How much does Claude cost?"},
+  {"p": "Anthropic's pricing page lists four plans for individuals, as of our November 1, 2026 check. Prices \"don’t include applicable tax\" and \"are subject to change at Anthropic's discretion,\" so check the [official pricing page](https://www.anthropic.com/pricing) before you pay."},
+  {"h": "Free"},
+  {"ul": [
+   "**Price:** free (\"Free for everyone\").",
+   "**Usage:** \"Limited usage every 5 hours and every week.\"",
+   "**Includes:** chat on web, desktop and mobile; search the web, create files and run code; memory across conversations; connecting your apps and tools; Artifacts; and Claude Design, Slides and Docs.",
+   "**Projects:** up to 5."
+  ]},
+  {"h": "Pro"},
+  {"ul": [
+   "**Price:** $20 a month if billed monthly, or $17 a month \"with annual subscription discount\" ($200 billed up front).",
+   "**Usage:** \"More usage than Free, every 5 hours and every week.\" The FAQ says Pro gives \"at least 5x more usage per 5-hour session than Free.\"",
+   "**Includes:** everything in Free, plus handing off and scheduling tasks, Claude Dashboards (beta), Claude Code, Claude Science, Projects, \"More Claude models\" and Claude in Chrome and Microsoft 365.",
+   "**Fable:** \"paid with usage credits.\" Usage credits let you \"keep working at standard API rates,\" so using Fable on Pro costs extra."
+  ]},
+  {"h": "Max"},
+  {"ul": [
+   "**Price:** $100 a month, billed monthly.",
+   "**Usage:** \"5x Pro usage every 5 hours and every week.\"",
+   "**Includes:** everything in Pro, plus \"Fable included, up to half your weekly limit,\" \"$100 a month in API credits to build on the Claude Platform,\" early access to advanced Claude features and priority access at high traffic times."
+  ]},
+  {"h": "Ultra"},
+  {"ul": [
+   "**Price:** $200 a month, billed monthly.",
+   "**Usage:** \"No 5-hour limit\" and \"10x Pro usage every week.\" The no-5-hour-limit perk is \"for verified accounts.\"",
+   "**Includes:** everything in Max, plus \"$200 a month in API credits, up from $100 on Max.\" Fable is included for up to 50% of weekly limits, the same as Max."
+  ]},
+  {"p": "On every plan, \"How fast you reach a limit depends on the model you use, how long your chats are, and how large your files are\"; there's \"no fixed message count,\" and chat and Claude Code draw \"from the same pool.\" Check yours in **Settings > Usage**."},
+  {"h": "What changed on October 31, 2026"},
+  {"p": "The pricing page changed between our October 30 and October 31, 2026 checks. The page itself gives no date for the switch."},
+  {"ul": [
+   "**Before:** one Max plan \"From $100\" where you could \"Choose 5x or 20x more usage than Pro,\" listed as Max 5x and Max 20x. The FAQ measured this \"per 5-hour session,\" and the card listed \"$100 to $200/month in API credits.\"",
+   "**After:** Max is a single $100 plan with 5x Pro usage. The $200 tier is now Ultra, with 10x Pro's weekly usage and no 5-hour limit for verified accounts. \"Higher output limits for all tasks\" is gone from the Max card.",
+   "**New model:** Fable, which the FAQ calls \"our top model,\" was added: paid with usage credits on Pro, up to half your weekly limit on Max and Ultra.",
+   "**API credits** are now fixed: $100 a month on Max, $200 on Ultra.",
+   "**Unchanged:** Pro is still $20 a month, or $17 a month billed annually."
+  ]},
+  {"p": "The page doesn't say what happens to existing Max 20x subscribers. The old 20x was measured per 5-hour session and the new 10x is per week, so the page doesn't say whether heavy users get more or less in total."},
+  {"h": "Max vs Ultra: which is it?"},
+  {"p": "Both include everything in Pro and Fable for up to half your weekly limit, and both are billed monthly. The differences:"},
+  {"ul": [
+   "**Max ($100)** gives 5x Pro's usage, and that applies both every 5 hours and every week.",
+   "**Ultra ($200)** gives 10x Pro's weekly usage and removes the 5-hour limit for verified accounts. It's pitched \"For your longest tasks\": long sessions that would run into a 5-hour cap.",
+   "**API credits:** $100 a month on Max, $200 on Ultra."
+  ]},
+  {"p": "If you were on Max 20x, compare your numbers in Settings > Usage before your next renewal, and make sure your account is verified."},
+  {"h": "Team and Enterprise"},
+  {"ul": [
+   "**Team** is \"For teams of 2 to 150.\" A Standard seat is $20 per seat a month billed annually, or $25 billed monthly, with \"more usage than Pro.\" A Premium seat is $100 per seat a month billed annually, or $125 billed monthly, with \"5x more usage than standard seats.\" Teams get \"Up to $500 per month in pooled API credits.\"",
+   "**Enterprise** is \"US$20/seat/month, billed annually, 20 seat minimum,\" plus usage \"billed at API rates.\" The 20-seat minimum, added in October 2026, means at least $4,800 a year in seat fees before any usage."
+  ]},
+  {"p": "Team and Enterprise list \"No model training on your content by default.\" On Free, Pro, Max and Ultra, model training is listed as \"Opt-out.\""},
+  {"h": "How to switch or cancel"},
+  {"ol": [
+   "**Change plans** under **Settings > Billing**, then Manage subscription. Upgrades \"take effect right away\" and unused time is credited. Downgrades \"take effect at the end of your current billing period.\"",
+   "**Cancel** on the web or desktop app under **Settings > Billing**, then Cancel. If you subscribed through the App Store or Google Play, cancel there. Cancel \"at least 24 hours before your renewal date\" to avoid the next charge.",
+   "**After cancelling,** your plan stays active until the period ends, then moves to Free. Your chats, projects and files stay with your account."
+  ]},
+  {"p": "Payments are \"generally non-refundable,\" with some exceptions. For refunds and team billing, see the FAQ on the [official pricing page](https://www.anthropic.com/pricing)."}
+ ],
+ "sources": [
+  ["Anthropic: Claude pricing (our snapshots, October 30 to November 1, 2026)", "https://www.anthropic.com/pricing"],
+  ["QuietlyChanged: Claude's $200 plan becomes \"Ultra\": no 5-hour limit, but 10x Pro's weekly usage instead of 20x per session (Oct 31, 2026)", "https://quietlychanged.com/changes/2026-10-31-anthropic-claude-claude-s-200-plan-becomes-ultra-no-5-hour-limit-but-10x-pro-s/"],
+  ["QuietlyChanged: Claude Enterprise now lists a 20-seat minimum (Oct 15, 2026)", "https://quietlychanged.com/changes/2026-10-15-anthropic-claude-claude-enterprise-now-lists-a-20-seat-minimum/"]
+ ]
+}
