@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spotify · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-01-spotify-premium-free-trial-back-to-1-month-as-the-2-month-o
+ ffer-ends@quietlychanged.com
+DTSTAMP:20261101T131601Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Spotify: Took effect
+DESCRIPTION:Spotify's two-month free Premium trial ended on schedule. New 
+ subscribers now get one free month\, then $12.99 a month.\n\nhttps://quie
+ tlychanged.com/changes/2026-11-01-spotify-premium-free-trial-back-to-1-mo
+ nth-as-the-2-month-offer-ends/
+URL:https://quietlychanged.com/changes/2026-11-01-spotify-premium-free-tri
+ al-back-to-1-month-as-the-2-month-offer-ends/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Spotify — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

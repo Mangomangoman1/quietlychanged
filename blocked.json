@@ -390,5 +390,31 @@
    "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
    "HTTP 403 again; no working replacement known; kept"
   ]
+ ],
+ "flaky_2026-11-01": [
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+   "SSLError for a 3rd day (Oct 30-Nov 1); curl to any playstation.com URL (en-us, en-gb, homepage) fails to connect, so no same-site replacement; kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; no working replacement known; kept"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
+   "first failure: too little text in tracker, curl gets HTTP 403 (bot wall); watch"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en",
+   "first failure: HTTP 429 rate limit (curl gets a 302); transient, watch"
+  ]
  ]
 }

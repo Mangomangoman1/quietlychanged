@@ -1,0 +1,40 @@
+[
+ {
+  "service": "Spotify",
+  "page": "pricing",
+  "headline": "Premium free trial back to 1 month as the 2-month offer ends",
+  "what": "Spotify's US Premium page went back from \"Try 2 months for $0\" to \"Try 1 month for $0\" on November 1, 2026, the day its two-month offer was set to end. We reported the longer trial on October 20; the page had said \"Offer ends November 1, 2026.\" The new wording reads \"$0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.\" The trial still covers Premium Individual only, and the price after it is unchanged at $12.99 a month.",
+  "who": "People in the US who have never had Spotify Premium; past or current subscribers didn't qualify for either trial",
+  "url": "https://www.spotify.com/us/premium/",
+  "seo_title": "Spotify Premium free trial is back to 1 month (Nov 1, 2026), then $12.99/mo",
+  "seo_desc": "Spotify's two-month US Premium Individual trial ended November 1, 2026. First-time users now get one free month, then $12.99 a month.",
+  "tldr": "Spotify's two-month free Premium trial ended on schedule. New subscribers now get one free month, then $12.99 a month.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "effective": "2026-11-01",
+  "deadline": "Took effect",
+  "redline": [
+   {
+    "before": "Try 2 months for $0",
+    "after": "Try 1 month for $0",
+    "label": "Premium page · Trial",
+    "note": "The longer trial ended on the date Spotify had announced.",
+    "src": "raw"
+   },
+   {
+    "before": "Premium Individual only. Free for 2 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
+    "after": "Premium Individual only. $0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
+    "label": "Premium page · Offer terms",
+    "src": "raw"
+   }
+  ],
+  "sources": [
+   [
+    "Spotify Premium (US)",
+    "https://www.spotify.com/us/premium/"
+   ]
+  ]
+ }
+]
