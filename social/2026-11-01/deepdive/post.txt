@@ -1,0 +1,8 @@
+Tubi switched to Fox's privacy policy on Oct 22.
+
+Before: "general location information, such as the city, state, and country"
+Now: "geolocation data (including your precise location)"
+
+Teen no-targeted-ads cutoff: 18 → 16 in some states.
+
+https://quietlychanged.com/changes/2026-11-01-tubi-tubi-moves-onto-fox-s-privacy-policy-it-can-now-collect-your-precise-locat/
