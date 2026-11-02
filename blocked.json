@@ -416,5 +416,25 @@
    "https://support.google.com/product-documentation/answer/14815921?hl=en",
    "first failure: HTTP 429 rate limit (curl gets a 302); transient, watch"
   ]
+ ],
+ "flaky_2026-11-02": [
+  [
+   "Delta/Pinterest/Verizon/Xero",
+   "pricing+terms+privacy",
+   "various",
+   "SSLError burst on first tracker pass at 6:16 AM; rerun minutes later fetched all of them, transient"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+   "SSLError for a 4th day (Oct 30-Nov 2); playstation.com still unreachable, no same-site replacement; kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; no working replacement known; kept"
+  ]
  ]
 }
