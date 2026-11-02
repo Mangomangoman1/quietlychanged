@@ -1,1 +1,96 @@
-[]
+[
+ {
+  "service": "Calm",
+  "page": "privacy",
+  "headline": "Calm says it may now infer health traits from feelings you share, and adds AI terms",
+  "tldr": "Calm's Oct 13 privacy policy drops its promise not to infer health traits from feelings you share in messages. New terms cover AI features fed with your emotions and stress.",
+  "impact": 2,
+  "effective": "2026-10-13",
+  "deadline": "Took effect",
+  "themes": [
+   "ai-and-your-data",
+   "ads-and-tracking"
+  ],
+  "actions": [
+   "Opt out of ad \"sales\" and \"sharing\" at calm.com/optout, or browse with Global Privacy Control on.",
+   "Leave feelings out of feedback, support messages and AI chats if you don't want Calm inferring health traits from them.",
+   "New to Calm? Opt out of arbitration by emailing notices@calm.com within 30 days of signing up."
+  ],
+  "redline": [
+   {
+    "before": "Some users also provide information about how they are feeling in connection with providing feedback or other messages to us, but we do not infer any health-related characteristics from this information and only process it consistent with the purpose for which it was provided.",
+    "after": "Some users also provide information about how they are feeling in connection with providing feedback or other messages to us; we may infer health-related characteristics from this information but will only process it consistent with the purpose for which it was provided.",
+    "label": "Privacy Policy · Views and opinions",
+    "note": "\"We do not infer\" became \"we may infer.\"",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "Certain AI Features may allow you to submit information regarding your emotions, well-being, stress levels, personal experiences, goals, or other wellness-related matters.",
+    "label": "Terms of Service · Artificial Intelligence Features",
+    "note": "A new section; Calm and its third-party providers may process what you type in.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "You do not own or acquire any permanent rights in Paid Content. This applies even to Paid Content you have downloaded or saved to a device",
+    "label": "Terms of Service · Access to Calm Premium Content",
+    "note": "Downloads stop working when your subscription ends, and titles can vanish while you pay.",
+    "src": "quoted"
+   }
+  ],
+  "what": "Calm, the meditation and sleep app, updated both its Privacy Policy and its Terms of Service with the same date: \"Last Updated: October 13, 2026.\" The privacy policy it replaced was dated December 12, 2024. We compared the new US terms with the July 10, 2025 US terms in an Internet Archive capture from December 26, 2025; we can't rule out a version in between. Calm didn't announce either update on its site or blog that we could find.\n\nChange 1: Calm may now infer health traits from how you say you feel. The privacy policy's \"Views and opinions\" section used to say: \"Some users also provide information about how they are feeling in connection with providing feedback or other messages to us, but we do not infer any health-related characteristics from this information and only process it consistent with the purpose for which it was provided.\" It now says: \"Some users also provide information about how they are feeling in connection with providing feedback or other messages to us; we may infer health-related characteristics from this information but will only process it consistent with the purpose for which it was provided.\" The sentence covers feedback and messages you send Calm. The separate line about Apple Health and Health Connect data still says \"we do not infer any health-related characteristics\" from it.\n\nChange 2: New terms for AI features. The terms add an \"Artificial Intelligence Features\" section. It says \"Calm and its third-party service providers may process any User Content, and any other information, prompts, queries, inputs or materials submitted by you to the AI Features.\" It also says \"Certain AI Features may allow you to submit information regarding your emotions, well-being, stress levels, personal experiences, goals, or other wellness-related matters,\" and that this information \"may be processed by the AI Features to generate personalized Outputs and improve your experience with the Services.\" It adds: \"You are not required to provide sensitive personal information to use the Services or any AI Feature.\" And: \"If potential abuse or violations of these Terms are detected, Calm may log Inputs and Outputs solely for the purpose of reviewing and determining whether a violation has occurred.\" The privacy policy separately adds: \"We may process your information for any of the above purposes, including through the help of automated technology vendors.\"\n\nChange 3: A wider license to what you post, now including AI output. The July 2025 terms gave Calm a license to your User Content \"in connection with operating, marketing, and providing the Services.\" The new terms cover \"your User Content or Outputs\" and the purpose is now \"operating, providing, maintaining, securing, supporting, marketing, developing, testing, validating, enhancing, and improving the Services and related products and services.\"\n\nChange 4: Your Premium library is a rental. A new \"Access to Calm Premium Content\" section says Paid Content \"is a limited, personal, revocable license that lasts only while your subscription or other required payment is active. You do not own or acquire any permanent rights in Paid Content. This applies even to Paid Content you have downloaded or saved to a device; downloaded content is licensed for offline use only while your access is active and may become unavailable automatically once it ends.\" It adds: \"We may add, change, or remove Paid Content at any time, and specific titles or features may become unavailable even while your subscription is active.\"\n\nChange 5: Ad sharing spelled out, and a new line for minors. A new section for residents of specific US states says: \"We 'share' and 'sell' identifiers and electronic network activity with our advertising partners (including social media platforms) so our advertising partners can show ads that are targeted to your interests on other platforms.\" It says Calm will only sell or share sensitive personal information with consent and doesn't sell sensitive data, including consumer health data, of residents of states that prohibit it, such as Maryland. The December 2024 policy already said its ad tracking \"may be considered 'sales,' 'sharing,' or 'targeted advertising.'\" New and in users' favor: \"We do not knowingly process the personal data of a user for targeted advertising, or sell such data, where we know or should know the user is under 18.\"\n\nOther changes: The terms add a \"Scope of Services\" section saying \"Calm is not a healthcare provider, mental health provider, therapist, counselor, psychologist, psychiatrist, medical practice, or crisis-response service.\" They also ban using Calm \"to develop any product or artificial intelligence model that competes with the Services,\" add rules for inviting friends, and extend your indemnity to the AI features.\n\nWhat stays the same: Disputes still go to individual arbitration with JAMS (now section 17). New users can still opt out by emailing notices@calm.com \"within thirty (30) days following the date you first agree to these Terms.\"\n\nWhat you can do: Opt out of ad \"sales\" and \"sharing\" at calm.com/optout, or turn on Global Privacy Control in your browser. On your phone, turn off app tracking (iOS: Settings > Privacy & Security > Tracking). If you'd rather Calm not draw health conclusions from what you write, keep feelings out of feedback, support messages and any AI chat. To ask what Calm holds about you or to delete it, email support@calm.com.\n\nCoverage (checked Nov 2, 2026): We found no news coverage of either update. The only other mention we found was an automated policy tracker.",
+  "who": "Everyone who uses the Calm app or website, especially people who send Calm feedback or messages about how they feel, or who use its AI features. Premium subscribers who rely on downloads are affected by the new content terms.",
+  "url": "https://www.calm.com/privacy-policy",
+  "seo_title": "Calm privacy policy and terms change (Oct 13, 2026): health inferences, AI features",
+  "seo_desc": "Calm's October 13, 2026 privacy policy says it may infer health-related characteristics from feelings you share in messages, where it used to promise it wouldn't. New terms add AI features and say Premium downloads aren't yours. What changed and how to opt out.",
+  "faq": [
+   [
+    "Does Calm infer health information about me?",
+    "Since October 13, 2026, Calm's privacy policy says that when users share how they're feeling in feedback or other messages, \"we may infer health-related characteristics from this information but will only process it consistent with the purpose for which it was provided.\" The December 2024 version said \"we do not infer any health-related characteristics from this information.\" The line about Apple Health and Health Connect data still says Calm doesn't infer health characteristics from it."
+   ],
+   [
+    "Does Calm use AI?",
+    "Calm's October 13, 2026 Terms of Service add an \"Artificial Intelligence Features\" section. It says Calm and its third-party service providers may process what you submit to the AI features, which may include \"your emotions, well-being, stress levels, personal experiences, goals, or other wellness-related matters.\" The terms say you aren't required to provide sensitive personal information."
+   ],
+   [
+    "Do I keep Calm downloads if I cancel?",
+    "No. The new terms say Paid Content \"lasts only while your subscription or other required payment is active\" and that this \"applies even to Paid Content you have downloaded or saved to a device.\" Calm can also remove titles \"even while your subscription is active.\""
+   ],
+   [
+    "Does Calm sell my data?",
+    "Calm's policy says it \"share[s]\" and \"sell[s]\" identifiers and electronic network activity with advertising partners, including social media platforms, for targeted ads. It says it won't sell or share sensitive personal information without consent. You can opt out at calm.com/optout or with Global Privacy Control."
+   ],
+   [
+    "Does Calm target ads at teens?",
+    "The October 2026 policy adds: \"We do not knowingly process the personal data of a user for targeted advertising, or sell such data, where we know or should know the user is under 18.\""
+   ],
+   [
+    "Can I opt out of Calm's arbitration clause?",
+    "Only within 30 days of first agreeing to the terms, by emailing notices@calm.com. The arbitration section (now section 17, with JAMS) didn't change in substance in this update."
+   ]
+  ],
+  "sources": [
+   [
+    "Calm Privacy Policy (last updated October 13, 2026)",
+    "https://www.calm.com/privacy-policy"
+   ],
+   [
+    "Calm Privacy Policy (previous version, December 12, 2024), Internet Archive capture of Oct 11, 2026",
+    "https://web.archive.org/web/20261011203550/https://www.calm.com/privacy-policy"
+   ],
+   [
+    "Calm Terms of Service (last updated October 13, 2026)",
+    "https://www.calm.com/terms"
+   ],
+   [
+    "Calm Terms of Service (US version of July 10, 2025), Internet Archive capture of Dec 26, 2025",
+    "https://web.archive.org/web/20251226204828/https://www.calm.com/terms"
+   ],
+   [
+    "Calm ad opt-out page",
+    "https://www.calm.com/optout"
+   ]
+  ]
+ }
+]

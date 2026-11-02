@@ -293,5 +293,9 @@
   },
   "Tubi": {
     "privacy": "https://tubitv.com/static/privacy"
+  },
+  "Calm": {
+    "terms": "https://www.calm.com/terms",
+    "privacy": "https://www.calm.com/privacy-policy"
   }
 }

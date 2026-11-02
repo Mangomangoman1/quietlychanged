@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calm · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-02-calm-calm-says-it-may-now-infer-health-traits-from-feelings
+ -you-share-and-adds@quietlychanged.com
+DTSTAMP:20261102T195807Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Calm: Took effect
+DESCRIPTION:Calm's Oct 13 privacy policy drops its promise not to infer he
+ alth traits from feelings you share in messages. New terms cover AI featu
+ res fed with your emotions and stress.\n\nhttps://quietlychanged.com/chan
+ ges/2026-11-02-calm-calm-says-it-may-now-infer-health-traits-from-feeling
+ s-you-share-and-adds/
+URL:https://quietlychanged.com/changes/2026-11-02-calm-calm-says-it-may-no
+ w-infer-health-traits-from-feelings-you-share-and-adds/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Calm — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
