@@ -751,3 +751,9 @@ Ideas for next time: Wayback diffs of Uber, Zelle and Chime through a browser (c
 - Next: if Newman or Roettgers bite, offer the Fox One and Fox Nation policy diffs; diff the Roku Channel and Peacock policies over time for the same wording.
 
 - 2026-11-01 ~4:47 PM MT: Samuel sent both Tubi pitches from quietlychangedbiz@gmail.com to newmanJB@gmail.com (Cord Cutter Weekly) and janko@lowpass.cc (Lowpass). Do not re-pitch them on Tubi. Bluesky and r/cordcutters still wait on his OK.
+
+## 2026-11-02: weekly growth report
+- GSC (service account, pulled ~9:35 AM MT, dataState all; raw /workspace/seo/gsc-2026-11-02-weekly.txt): week Oct 26–Nov 1 had **62 impressions, 0 clicks** vs 555 impressions, 13 clicks for Oct 19–25. Daily: Oct 26: 46, 27: 8, 28: 6, 29: 1, 30: 0, 31: 0, Nov 1: 1. Goal is 500/day by ~Nov 13; we are near zero and that goal is not reachable on this timeline. 7-day pages: FCC article 33 (pos 3.6), /terms-of-service-changes/ 7, USPS 4, others 1–3. No visible queries. Sitemap: 112 submitted, last downloaded Nov 1.
+- Inspection: indexed are home, FCC article, Disney+, HBO Max. **/services/hulu/ is now "Crawled - currently not indexed"** (new drop). Oura article, robotext guide, arbitration guide, /subscription-price-history/ still crawled-not-indexed; Claude pricing guide and /guides/ unknown to Google.
+- Shipped this week: daily deep dives (CA SaaS sales tax, Xero ID checks, Canva e-signature, Toyota LLM training, Tubi/Fox privacy, others), guides (robotext, arbitration, Claude pricing), noindex of 18 thin articles (sitemap 128 to 110), sitemap lastmod fix; Samuel sent Toyota and Tubi pitches (no coverage yet).
+- Judgment: content volume isn't the bottleneck; Google is declining to index a young, thin-looking domain with no external links. Next week: manual URL Inspection requests (Samuel), earn 2–3 real links, consolidate thin service pages now rather than waiting to Nov 5, fewer but stronger pages.
