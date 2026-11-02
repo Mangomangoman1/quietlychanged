@@ -1240,3 +1240,28 @@ Parent-quotes (tracked separately):
 ### Drafted (social/2026-11-01/x-evening/xgrowth-evening-drafts.md)
 - No original (Toyota used today's slot). Tubi posts still held for Samuel's OK.
 - R1 CONDITIONAL under Pirat_Nation Claude leak (Claude logo + API price card): publish only if the parent is past ~20K with <40 replies. No quote.
+
+## Snapshot 2026-11-02 ~9:25 AM MT (Monday morning)
+- Followers **18** (flat since Sunday evening), following 12, posts 187, media 79. Pinned still 2115104793509151180. Nothing was published in the Sunday evening session (the conditional Pirat_Nation Claude-leak reply didn't qualify).
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|---|
+| Oct 31 9:23 AM | Prime $15 script correction under jaxoncoder | reply | 101,300 | 128 | 152 | 7 |
+| Nov 1 9:23 AM | Claude Code games under Polymarket | reply | 1,216 | 0 | 0 | 1 |
+| Nov 1 2:31 PM | Answer to popeelmo | reply | 22 | 0 | 0 | 1 |
+| Nov 1 9:29 AM | Toyota original + self-reply | original | 14 + 9 | 0 | 1 | 1 |
+
+Parent-quotes: Polymarket Claude Code quote 2116932062049697932 now 37 impressions, 1 like (reply under the same parent: 1,216, so the quote got ~3%).
+
+### What we learned
+- Monday-morning priority feeds are dominated by midterms eve politics. The one in-lane climber (Dexerto, Spotify AI remixes for +$4-5) is ~26K at 52 min and slowing, under the bar; skipped. Nothing for a parent-quote.
+- Prime breakout has plateaued at ~101K. Followers are flat at 18 without a new breakout.
+- Adjustment: keep the evening session watching for the Spotify AI-remix story spreading (bigger accounts picking up the FT report). If one heads to 50K+, the add is our sourced price history: Premium Individual $9.99 from 2011 to July 2023, now $12.99 after three raises, so a remix add-on would put it near $17-18.
+
+### Drafted (social/2026-11-02/am/xgrowth-am-drafts.md)
+- O1 weekly roundup (Rocket Money today, Oura Nov 4, Pinterest Nov 12, Robinhood Nov 18), pin it in place of the Oct 27 roundup; self-reply links /due-soon/. This is today's one original, so the deep-dive post later today is held unless Samuel OKs a second.
+
+## Published 2026-11-02 morning
+- O1 weekly roundup: https://x.com/QuietlyChanged/status/2117292806964400275 (pinned, replacing Oct 27 2115104793509151180)
+- O1 self-reply with due-soon link: https://x.com/QuietlyChanged/status/2117292931560489350
+- Browser was on @Missum_AI; switched first.
