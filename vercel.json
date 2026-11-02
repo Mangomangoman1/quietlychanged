@@ -1,0 +1,379 @@
+{
+  "redirects": [
+    {
+      "source": "/services/apple",
+      "destination": "/services.html#apple",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/apple/",
+      "destination": "/services.html#apple",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/apple/index.html",
+      "destination": "/services.html#apple",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/bitwarden",
+      "destination": "/services.html#bitwarden",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/bitwarden/",
+      "destination": "/services.html#bitwarden",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/bitwarden/index.html",
+      "destination": "/services.html#bitwarden",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/calendly",
+      "destination": "/services.html#calendly",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/calendly/",
+      "destination": "/services.html#calendly",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/calendly/index.html",
+      "destination": "/services.html#calendly",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/delta",
+      "destination": "/services.html#delta",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/delta/",
+      "destination": "/services.html#delta",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/delta/index.html",
+      "destination": "/services.html#delta",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/discord",
+      "destination": "/services.html#discord",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/discord/",
+      "destination": "/services.html#discord",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/discord/index.html",
+      "destination": "/services.html#discord",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/dropbox",
+      "destination": "/services.html#dropbox",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/dropbox/",
+      "destination": "/services.html#dropbox",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/dropbox/index.html",
+      "destination": "/services.html#dropbox",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/google-one",
+      "destination": "/services.html#google-one",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/google-one/",
+      "destination": "/services.html#google-one",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/google-one/index.html",
+      "destination": "/services.html#google-one",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/grammarly",
+      "destination": "/services.html#grammarly",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/grammarly/",
+      "destination": "/services.html#grammarly",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/grammarly/index.html",
+      "destination": "/services.html#grammarly",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/linkedin",
+      "destination": "/services.html#linkedin",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/linkedin/",
+      "destination": "/services.html#linkedin",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/linkedin/index.html",
+      "destination": "/services.html#linkedin",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/lyft",
+      "destination": "/services.html#lyft",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/lyft/",
+      "destination": "/services.html#lyft",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/lyft/index.html",
+      "destination": "/services.html#lyft",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/mailchimp",
+      "destination": "/services.html#mailchimp",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/mailchimp/",
+      "destination": "/services.html#mailchimp",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/mailchimp/index.html",
+      "destination": "/services.html#mailchimp",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/microsoft-365",
+      "destination": "/services.html#microsoft-365",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/microsoft-365/",
+      "destination": "/services.html#microsoft-365",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/microsoft-365/index.html",
+      "destination": "/services.html#microsoft-365",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/mozilla",
+      "destination": "/services.html#mozilla",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/mozilla/",
+      "destination": "/services.html#mozilla",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/mozilla/index.html",
+      "destination": "/services.html#mozilla",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/patreon",
+      "destination": "/services.html#patreon",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/patreon/",
+      "destination": "/services.html#patreon",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/patreon/index.html",
+      "destination": "/services.html#patreon",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/paypal",
+      "destination": "/services.html#paypal",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/paypal/",
+      "destination": "/services.html#paypal",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/paypal/index.html",
+      "destination": "/services.html#paypal",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/reddit",
+      "destination": "/services.html#reddit",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/reddit/",
+      "destination": "/services.html#reddit",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/reddit/index.html",
+      "destination": "/services.html#reddit",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/signal",
+      "destination": "/services.html#signal",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/signal/",
+      "destination": "/services.html#signal",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/signal/index.html",
+      "destination": "/services.html#signal",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/steam",
+      "destination": "/services.html#steam",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/steam/",
+      "destination": "/services.html#steam",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/steam/index.html",
+      "destination": "/services.html#steam",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/strava",
+      "destination": "/services.html#strava",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/strava/",
+      "destination": "/services.html#strava",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/strava/index.html",
+      "destination": "/services.html#strava",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/tiktok",
+      "destination": "/services.html#tiktok",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/tiktok/",
+      "destination": "/services.html#tiktok",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/tiktok/index.html",
+      "destination": "/services.html#tiktok",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/tinder",
+      "destination": "/services.html#tinder",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/tinder/",
+      "destination": "/services.html#tinder",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/tinder/index.html",
+      "destination": "/services.html#tinder",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/venmo",
+      "destination": "/services.html#venmo",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/venmo/",
+      "destination": "/services.html#venmo",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/venmo/index.html",
+      "destination": "/services.html#venmo",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/vimeo",
+      "destination": "/services.html#vimeo",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/vimeo/",
+      "destination": "/services.html#vimeo",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/vimeo/index.html",
+      "destination": "/services.html#vimeo",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/x",
+      "destination": "/services.html#x",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/x/",
+      "destination": "/services.html#x",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/x/index.html",
+      "destination": "/services.html#x",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/zoom",
+      "destination": "/services.html#zoom",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/zoom/",
+      "destination": "/services.html#zoom",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/zoom/index.html",
+      "destination": "/services.html#zoom",
+      "statusCode": 301
+    }
+  ]
+}

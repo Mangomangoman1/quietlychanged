@@ -73,7 +73,8 @@ def main():
             c["impact"] = int(c.get("impact") or 1)
             ALL.append((d, c))
     ALL_NEW = list(reversed(ALL))
-    svc_href = lambda name, root: f"{root}services/{slug(name)}/" if slug(name) in TRACKED else None
+    # internal link to a service: its own page, or its row on services.html while it is thin (THIN_SL is filled in before any page is rendered)
+    svc_href = lambda name, root: (f"{root}services.html#{slug(name)}" if slug(name) in THIN_SL else f"{root}services/{slug(name)}/") if slug(name) in TRACKED else None
     report_title = {}
     for d in days:
         report_title[d] = (R / "reports" / f"{d}-summary.md").read_text().splitlines()[0].lstrip("# ").strip() or f"Report, {nice(d)}"
@@ -97,6 +98,116 @@ def main():
     GUIDES_FOR = {}   # article slug -> [(guide slug, guide)] for every guide that cites it
     for gs_, g in GUIDES.items():
         for a_ in g.get("changes", []): GUIDES_FOR.setdefault(a_, []).append((gs_, g))
+
+    # ---------- price history helpers (shared by service pages, hubs, comparison) ----------
+    def _pd(x): return x if len(x) == 4 else datetime.date.fromisoformat(x).strftime("%b %-d, %Y") if len(x) == 10 else datetime.date.fromisoformat(x + "-01").strftime("%b %Y")
+    def _cur(rows): return rows[-1][1]
+    def _chg(p, q):
+        dlt = p - q; sg = "+" if dlt >= 0 else "−"; return f"{sg}${abs(dlt):.2f} ({sg}{abs(p/q-1)*100:.0f}%)"
+    def _u(h, pl): return h.get("units", {}).get(pl, "month")
+    def _amt(h, pl, p): return f"${p:.2f}/{_u(h,pl)}" if p != int(p) or _u(h, pl) == "month" else f"${p:.0f}/{_u(h,pl)}"
+    def ph_section(k, h):
+        key = k; k = h.get("name", k); tk = h.get("title_name", k)
+        first_year = min(r[0][:4] for rows in h["plans"].values() for r in rows)
+        tabs = ""
+        for plan, rows in h["plans"].items():
+            tr = "".join(f'<tr><td><time datetime="{r[0]}">{_pd(r[0])}</time></td><td class="num">{_amt(h,plan,r[1]).split("/")[0]}</td><td>{(_chg(r[1],rows[i-1][1]) + ". " + E(r[2]) if i>0 and r[1]!=rows[i-1][1] else E(r[2])) if len(r)>2 else "Launch" if i==0 else _chg(r[1],rows[i-1][1])}</td></tr>' for i, r in enumerate(rows))
+            tabs += f'<h3>{E(k)} {E(plan)}</h3><div class="tablewrap"><table><thead><tr><th scope="col">Effective</th><th scope="col" class="num">Price / {_u(h,plan)}</th><th scope="col">Change</th></tr></thead><tbody>{tr}</tbody></table></div>'
+        now = "".join(f'<li><span>{E(pl)}</span><b>{_amt(h,pl,_cur(r)).split("/")[0]}</b><small>per {_u(h,pl)}</small></li>' for pl, r in h["plans"].items() if "discontinued" not in pl)
+        L = h["latest"]; fl = h["plans"][h["flagship"]]
+        notes = "".join(f"<li>{E(n)}</li>" for n in h.get("notes", []))
+        srcs = "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n, u in h["sources"])
+        svg, infl = step_chart(fl, _u(h, h["flagship"]), TODAY, label=f'{k} {h["flagship"]}')
+        chart = ""
+        if svg:
+            est = ", latest year estimated" if any(y in CPI_EST for y in range(int(fl[0][0][:4]), int(TODAY[:4]) + 1)) else ""
+            chart = (f'<figure class="chart chartbox" style="margin-top:1.4rem">{svg}<figcaption>Solid line: {E(k)} {E(h["flagship"])}, US list price for new subscribers. Dashed line: the first price grown with U.S. consumer prices (CPI-U annual averages{est}). '
+                     + (f'{E(k)} is up {(fl[-1][1]/fl[0][1]-1)*100:.0f}%; inflation over the same period is about {(infl/fl[0][1]-1)*100:.0f}%.' if infl else "") + '</figcaption></figure>')
+        html_ = (f'<h2 id="price-history">{E(tk)} price history (US, {first_year} to {h["verified"][:4]})</h2><p>{E(h["intro"])}</p>{chart}'
+                 f'<h3>What {E(k)} costs now</h3><ul class="plans">{now}</ul><div class="update"><strong>Latest change</strong>On {_pd(L["date"])}, {E(L["what"])} (<a href="{E(L["source"])}">{E(L["source_name"])}</a>)</div>'
+                 f'{tabs}' + (f'<ul class="cap">{notes}</ul>' if notes else "") +
+                 f'<p class="cap">{E(h["basis"].format(verified=nice(h["verified"]))) if h.get("basis") else "US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified " + nice(h["verified"]) + "."} Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="cap">{srcs}</ul><p><a href="../../subscription-price-history/">' + (f'Compare {E(k)} with other streaming and subscription price increases' if h.get("compare", True) else 'Compare streaming and subscription price increases') + '</a> · <a href="../../price-changes/">All price changes we track</a></p>')
+        # cross-links to every other price history (internal linking for under-crawled pages, e.g. Peacock)
+        def _oth(ok):
+            oh = PH[ok]; ofl = oh["plans"][oh["flagship"]]; on = oh.get("title_name", oh.get("name", ok))
+            return (f'<li><a href="../{slug(ok)}/#price-history">{E(on)} price history</a> <small>{E(oh["flagship"])} {_amt(oh,oh["flagship"],ofl[-1][1])}'
+                    + (f', up {(ofl[-1][1]/ofl[0][1]-1)*100:.0f}% since {ofl[0][0][:4]}' if ofl[-1][1] > ofl[0][1] else '') + '</small></li>')
+        html_ += '<h3>More price histories</h3><ul class="cap">' + "".join(_oth(ok) for ok in PH if ok != key) + '</ul>'
+        pct = (fl[-1][1] / fl[0][1] - 1) * 100
+        faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is {_amt(h,pl,_cur(r))}" for pl, r in h["plans"].items() if "discontinued" not in pl) + "."),
+               (f"When did {k} last raise prices?", h.get("faq_last") or f"On {_pd(L['date'])}: {L['what']}"),
+               (f"How much has {k} gone up?", f"{k} {h['flagship']} went from {_amt(h,h['flagship'],fl[0][1])} {'on' if len(fl[0][0])==10 else 'in'} {_pd(fl[0][0])} to {_amt(h,h['flagship'],fl[-1][1])}, an increase of {pct:.0f}% across {len(fl)-1} price change{'s'*(len(fl)!=2)}." if not h.get("faq_up") else h["faq_up"])]
+        faq += [tuple(x) for x in h.get("faq_extra", [])]  # optional sourced Q&As per service
+        html_ += '<h3>Quick answers</h3>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(an)}</p>" for q, an in faq)
+        ld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": an}} for q, an in faq]}
+        return html_, ld, pct, fl
+
+    # ---------- service dossiers, part 1: page parts and the thin set ----------
+    # Decided here, before any page that links to a service page is rendered. Thin rule, measured on the page as it was
+    # before build-outs and guide links: nothing logged yet and under 150 words of main content. Thin services get no page
+    # of their own: they are folded into the table on services.html (301s in vercel.json) and every internal link points
+    # to services.html#<slug>. The day a change is logged the service stops being thin and gets its page back.
+    THIN_WORDS = 150; THIN = []; THIN_SL = set()
+    svc_stats = {k_: [(d, c) for d, c in ALL_NEW if c["service"] == k_] for k_ in s}
+    nb_href = lambda n: f"../../services.html#{slug(n)}" if slug(n) in THIN_SL else f"../{slug(n)}/"   # from a service page
+    def dossier(k):
+        v = s[k]
+        sl = slug(k)
+        snaps = [f.stem for p in v for f in (R / "snapshots" / slug_tr(k) / p).glob("*.txt")] if (R / "snapshots").exists() else []
+        last = max(snaps) if snaps else TODAY; first = min(snaps) if snaps else TODAY
+        log = svc_stats[k]
+        _w = [{"pricing": "price", "terms": "terms", "privacy": "privacy policy"}[p] for p in v]
+        kinds = _w[0] if len(_w) == 1 else ", ".join(_w[:-1]) + " & " + _w[-1]
+        title = f"{k} {kinds} changes (history)"
+        phtml, phld, phpct, phfl = ph_section(k, PH[k]) if k in PH else ("", None, 0, None)
+        if k in PH:
+            title = PH[k].get("title") or f"{PH[k].get('title_name',PH[k].get('name',k))} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
+        if k in SVC_SEO: title = SVC_SEO[k].get("title", title)
+        last_by_kind = {}
+        for d, c in log: last_by_kind.setdefault(c.get("page", "terms"), d)
+        watch = "".join(f'<li>{kind(p)}<a href="{E(u)}" rel="nofollow noopener">{E(u)}</a><span class="when">' + (f'last changed {E(short_y(last_by_kind[p]))}' if p in last_by_kind else f'no change since {E(short(first))}') + '</span></li>' for p, u in v.items())
+        cl = "".join(f'<li class="i{c["impact"]}">{entry(c, d, "../../", TODAY, show_service=False)}</li>' for d, c in log)
+        cl = f'<ul class="timeline">{cl}</ul>' if cl else f'<p class="coverage">No changes detected since tracking began on {nice(first)}. This page updates automatically when {E(k)} changes a tracked page.</p>'
+        others = sorted(s, key=str.lower); i = others.index(k); nb = [others[(i + j) % len(others)] for j in (-1, 1)]
+        desc = f"A dated history of every change {k} makes to its {kinds} pages, checked daily by QuietlyChanged. Last checked {nice(last)}."
+        if k in PH and PH[k].get("desc"): desc = PH[k]["desc"]
+        if k in SVC_SEO and SVC_SEO[k].get("desc"): desc = SVC_SEO[k]["desc"]
+        elif k in PH: desc = f"Every {PH[k].get('title_name',PH[k].get('name',k))} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
+        # lastmod = when the page's content last really changed (logged change, verified price history, a guide listing it),
+        # not the daily snapshot date; tracked-but-unchanged pages fall back to the first snapshot.
+        svc_mod = max([c.get("modified", d) for d, c in log] + ([PH[k]["verified"]] if k in PH else [])
+                      + [g.get("modified", g["published"]) for g in GUIDES.values() if k in g.get("services", [])] or [first])
+        ld = {"@context": "https://schema.org", "@type": "WebPage", "name": title, "url": f"{SITE}/services/{sl}/", "dateModified": svc_mod, "publisher": ORG, "about": {"@type": "Organization", "name": k}}
+        _fqs = [(d, c) for d, c in log if c.get("faq")][:2]  # the two most recent changes with Quick answers
+        # Summary + question links only (not the full answers), so the service page doesn't duplicate the article's text.
+        svc_faq = "".join(f'<h2>What changed recently: {E(c_.get("headline",""))}</h2>' + (f'<p>{E(c_["tldr"])}</p>' if c_.get("tldr") else "") + '<p>Answered in the full breakdown:</p><ul>' + "".join(f'<li><a href="../../changes/{c_["_art"]}/#quick-answers">{E(q)}</a></li>' for q, an in c_["faq"]) + f'</ul><p><a href="../../changes/{c_["_art"]}/">Read the full breakdown, with sources</a></p>' for _, c_ in _fqs)
+        latest_rl = next(((d, c) for d, c in log if c.get("redline")), None)
+        latest_ex = ""
+        if latest_rl:
+            d0, c0 = latest_rl
+            latest_ex = (f'<section class="section" aria-labelledby="lw"><div class="sec-title"><h2 id="lw">Latest change, word for word</h2><a href="../../changes/{c0["_art"]}/">Read it →</a></div>'
+                         f'<p class="lede" style="font-size:1.15rem;margin-bottom:1rem"><a href="../../changes/{c0["_art"]}/" style="text-decoration:none">{E(c0.get("headline",""))}</a></p>{exhibit(c0["redline"][0], k, LABEL.get(c0.get("page","terms")), "First seen " + short(d0))}</section>')
+        upcoming_svc = [(d, c) for d, c in log if c.get("effective") and days_until(c["effective"], TODAY) >= 0]
+        due_html = "".join(f'<div style="margin-top:1rem"><a href="../../changes/{c["_art"]}/" style="text-decoration:none">{stamp(c, TODAY)}</a></div>' for d, c in upcoming_svc[:2])
+        facts = [(nice(first).rsplit(",", 1)[0], "tracked since"), (str(len(log)), "changes logged"), (str(len(v)), "pages watched"), (short(log[0][0]) if log else "—", "last change")]
+        if k in PH:
+            h = PH[k]; fl = phfl
+            ups = sum(1 for i2 in range(1, len(fl)) if fl[i2][1] > fl[i2 - 1][1])
+            facts = [(_amt(h, h["flagship"], fl[-1][1]).split("/")[0], f'{h["flagship"]}, per {_u(h,h["flagship"])}'), (f"+{phpct:.0f}%", f"since {fl[0][0][:4]}"), (str(ups), "price increases"), (str(len(log)), "changes logged since Oct 13" if first == "2026-10-13" else "changes logged")]
+        facts_html = '<div class="facts">' + "".join(f"<div><b>{E(a)}</b><span>{E(b)}</span></div>" for a, b in facts) + "</div>"
+        svc_body = lambda extra="", gbox="": (f'<header class="wide page-head"><div class="dossier-head">{mono(k, lg=True)}<div><p class="label">Service history · {E(" · ".join(LABEL[p] for p in v))}</p></div></div>'
+                f'<h1>{E(title)}</h1><p class="meta">Tracked since <time datetime="{first}">{nice(first)}</time> · Last snapshot <time datetime="{last}">{nice(last)}</time></p>'
+                f'<p class="lede">QuietlyChanged checks {E(k)}\'s public {kinds} pages every day and records what changes, in plain English.</p>{due_html}{facts_html}</header>'
+                f'<div class="wide art-grid" style="margin-top:2rem"><div class="art-main">{extra}<div class="prose">{phtml}</div>{latest_ex}<div class="prose">{svc_faq}</div>'
+                f'<section class="section" aria-labelledby="cl" style="margin-top:2.6rem"><div class="sec-title"><h2 id="cl">Changelog</h2><span class="label">{plural(len(log), "change")}</span></div>{cl}</section>'
+                f'<section class="section" aria-labelledby="pw"><div class="sec-title"><h2 id="pw">Pages we monitor</h2></div><ul class="watch">{watch}</ul></section></div>'
+                f'<aside class="art-aside" aria-label="About this service"><section class="box"><h2>Keep track</h2><div class="btnrow">{follow_btn(k)}<button class="btn" type="button" data-copy>Copy link</button></div></section>'
+                + (f'<section class="box"><h2>In these threads</h2><ul class="chips">' + "".join(f'<li><a href="../../threads/{th}/">{E(THEMES[th]["title"])}</a></li>' for th in dict.fromkeys(t for _, c in log for t in c.get("themes", [])) if th in THEMES) + '</ul></section>' if any(c.get("themes") for _, c in log) else "")
+                + gbox + f'<section class="box"><h2>Neighbors</h2><ul class="chips"><li><a href="{nb_href(nb[0])}">{E(nb[0])}</a></li><li><a href="{nb_href(nb[1])}">{E(nb[1])}</a></li><li><a href="../../services.html">All services</a></li><li><a href="../../about.html">How it works</a></li></ul></section></aside></div>')
+        return {"sl": sl, "title": title, "desc": desc, "ld": ld, "phld": phld, "svc_mod": svc_mod, "first": first, "last": last, "body": svc_body}
+    SVC = {k: dossier(k) for k in s}
+    THIN = [k for k in s if not svc_stats[k] and words(SVC[k]["body"]()) < THIN_WORDS]
+    THIN_SL = {slug(k) for k in THIN}
 
     # ---------- daily report pages ----------
     def report_body(d, root):
@@ -259,7 +370,7 @@ def main():
         others = "".join(thread_card(o, "../../") for o in THEMES if o != th)
         body = (f'<header class="wrap page-head"><p class="label">Thread · {plural(len(its), "change")}</p><h1>{E(v["title"])}</h1><p class="lede">{E(v["dek"])}</p></header>'
                 f'<div class="wrap prose">{intro}</div>'
-                + (f'<div class="wrap" style="margin-top:1.4rem"><ul class="chips">' + "".join(f'<li><a href="../../services/{slug(n)}/">{mono(n)}{E(n)}</a></li>' if slug(n) in TRACKED else f'<li><span class="chips-static">{E(n)}</span></li>' for n in svcs) + "</ul></div>" if svcs else "")
+                + (f'<div class="wrap" style="margin-top:1.4rem"><ul class="chips">' + "".join(f'<li><a href="{svc_href(n, "../../")}">{mono(n)}{E(n)}</a></li>' if slug(n) in TRACKED else f'<li><span class="chips-static">{E(n)}</span></li>' for n in svcs) + "</ul></div>" if svcs else "")
                 + f'<section class="wrap section"><div class="sec-title"><h2>Every change in this thread</h2><span class="label">Newest first</span></div>'
                 + (f'<ul class="timeline">{li}</ul>' if li else '<p class="coverage">Nothing yet. This page updates the day one is found.</p>') + "</section>"
                 + f'<section class="wide section"><div class="sec-title"><h2>Other threads</h2></div><div class="threads">{others}</div></section>')
@@ -273,49 +384,6 @@ def main():
     write(D / "threads" / "index.html", page("threads/index.html", "Threads: patterns across company terms and pricing changes", body, TODAY, depth=1,
           desc="Cross-company threads from QuietlyChanged: forced arbitration, AI and your data, ads and tracking, shutdowns, fees, and more.",
           ld={"@context": "https://schema.org", "@type": "CollectionPage", "name": "Threads", "url": f"{SITE}/threads/", "publisher": ORG}, lastmod=TODAY, crumbs=[("Home", SITE + "/")]))
-
-    # ---------- price history helpers (shared by service pages, hubs, comparison) ----------
-    def _pd(x): return x if len(x) == 4 else datetime.date.fromisoformat(x).strftime("%b %-d, %Y") if len(x) == 10 else datetime.date.fromisoformat(x + "-01").strftime("%b %Y")
-    def _cur(rows): return rows[-1][1]
-    def _chg(p, q):
-        dlt = p - q; sg = "+" if dlt >= 0 else "−"; return f"{sg}${abs(dlt):.2f} ({sg}{abs(p/q-1)*100:.0f}%)"
-    def _u(h, pl): return h.get("units", {}).get(pl, "month")
-    def _amt(h, pl, p): return f"${p:.2f}/{_u(h,pl)}" if p != int(p) or _u(h, pl) == "month" else f"${p:.0f}/{_u(h,pl)}"
-    def ph_section(k, h):
-        key = k; k = h.get("name", k); tk = h.get("title_name", k)
-        first_year = min(r[0][:4] for rows in h["plans"].values() for r in rows)
-        tabs = ""
-        for plan, rows in h["plans"].items():
-            tr = "".join(f'<tr><td><time datetime="{r[0]}">{_pd(r[0])}</time></td><td class="num">{_amt(h,plan,r[1]).split("/")[0]}</td><td>{(_chg(r[1],rows[i-1][1]) + ". " + E(r[2]) if i>0 and r[1]!=rows[i-1][1] else E(r[2])) if len(r)>2 else "Launch" if i==0 else _chg(r[1],rows[i-1][1])}</td></tr>' for i, r in enumerate(rows))
-            tabs += f'<h3>{E(k)} {E(plan)}</h3><div class="tablewrap"><table><thead><tr><th scope="col">Effective</th><th scope="col" class="num">Price / {_u(h,plan)}</th><th scope="col">Change</th></tr></thead><tbody>{tr}</tbody></table></div>'
-        now = "".join(f'<li><span>{E(pl)}</span><b>{_amt(h,pl,_cur(r)).split("/")[0]}</b><small>per {_u(h,pl)}</small></li>' for pl, r in h["plans"].items() if "discontinued" not in pl)
-        L = h["latest"]; fl = h["plans"][h["flagship"]]
-        notes = "".join(f"<li>{E(n)}</li>" for n in h.get("notes", []))
-        srcs = "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n, u in h["sources"])
-        svg, infl = step_chart(fl, _u(h, h["flagship"]), TODAY, label=f'{k} {h["flagship"]}')
-        chart = ""
-        if svg:
-            est = ", latest year estimated" if any(y in CPI_EST for y in range(int(fl[0][0][:4]), int(TODAY[:4]) + 1)) else ""
-            chart = (f'<figure class="chart chartbox" style="margin-top:1.4rem">{svg}<figcaption>Solid line: {E(k)} {E(h["flagship"])}, US list price for new subscribers. Dashed line: the first price grown with U.S. consumer prices (CPI-U annual averages{est}). '
-                     + (f'{E(k)} is up {(fl[-1][1]/fl[0][1]-1)*100:.0f}%; inflation over the same period is about {(infl/fl[0][1]-1)*100:.0f}%.' if infl else "") + '</figcaption></figure>')
-        html_ = (f'<h2 id="price-history">{E(tk)} price history (US, {first_year} to {h["verified"][:4]})</h2><p>{E(h["intro"])}</p>{chart}'
-                 f'<h3>What {E(k)} costs now</h3><ul class="plans">{now}</ul><div class="update"><strong>Latest change</strong>On {_pd(L["date"])}, {E(L["what"])} (<a href="{E(L["source"])}">{E(L["source_name"])}</a>)</div>'
-                 f'{tabs}' + (f'<ul class="cap">{notes}</ul>' if notes else "") +
-                 f'<p class="cap">{E(h["basis"].format(verified=nice(h["verified"]))) if h.get("basis") else "US list prices for new monthly subscribers, before tax, in nominal dollars. Compiled from the sources below and last verified " + nice(h["verified"]) + "."} Spotted an error? The sources are linked so you can check.</p><h3>Sources</h3><ul class="cap">{srcs}</ul><p><a href="../../subscription-price-history/">' + (f'Compare {E(k)} with other streaming and subscription price increases' if h.get("compare", True) else 'Compare streaming and subscription price increases') + '</a> · <a href="../../price-changes/">All price changes we track</a></p>')
-        # cross-links to every other price history (internal linking for under-crawled pages, e.g. Peacock)
-        def _oth(ok):
-            oh = PH[ok]; ofl = oh["plans"][oh["flagship"]]; on = oh.get("title_name", oh.get("name", ok))
-            return (f'<li><a href="../{slug(ok)}/#price-history">{E(on)} price history</a> <small>{E(oh["flagship"])} {_amt(oh,oh["flagship"],ofl[-1][1])}'
-                    + (f', up {(ofl[-1][1]/ofl[0][1]-1)*100:.0f}% since {ofl[0][0][:4]}' if ofl[-1][1] > ofl[0][1] else '') + '</small></li>')
-        html_ += '<h3>More price histories</h3><ul class="cap">' + "".join(_oth(ok) for ok in PH if ok != key) + '</ul>'
-        pct = (fl[-1][1] / fl[0][1] - 1) * 100
-        faq = [(f"How much does {k} cost per month in the US?", "As of " + nice(h["verified"]) + ", " + "; ".join(f"{pl} is {_amt(h,pl,_cur(r))}" for pl, r in h["plans"].items() if "discontinued" not in pl) + "."),
-               (f"When did {k} last raise prices?", h.get("faq_last") or f"On {_pd(L['date'])}: {L['what']}"),
-               (f"How much has {k} gone up?", f"{k} {h['flagship']} went from {_amt(h,h['flagship'],fl[0][1])} {'on' if len(fl[0][0])==10 else 'in'} {_pd(fl[0][0])} to {_amt(h,h['flagship'],fl[-1][1])}, an increase of {pct:.0f}% across {len(fl)-1} price change{'s'*(len(fl)!=2)}." if not h.get("faq_up") else h["faq_up"])]
-        faq += [tuple(x) for x in h.get("faq_extra", [])]  # optional sourced Q&As per service
-        html_ += '<h3>Quick answers</h3>' + "".join(f"<p><strong>{E(q)}</strong><br>{E(an)}</p>" for q, an in faq)
-        ld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": an}} for q, an in faq]}
-        return html_, ld, pct, fl
 
     # ---------- service build-outs: price chart, dated timeline, what to do (only from price_history.json + logged changes) ----------
     def dated_sources(h, d):
@@ -402,7 +470,7 @@ def main():
             sec += f'<section class="wrap section" style="margin-top:2.4rem"><div class="sec-title"><h2>{mname}</h2><span class="label">{plural(len(its), "change")}</span></div><ul class="entries">{li}</ul></section>'
         if not sec: sec = f'<div class="wrap"><p class="coverage">No {short_n.lower()} detected yet since tracking began. This page updates automatically the day one is found.</p></div>'
         tracked = sorted([n for n, v in s.items() if k in v], key=str.lower)
-        tl = "".join(f'<li><a href="../services/{slug(n)}/">{E(n)}</a></li>' for n in tracked)
+        tl = "".join(f'<li><a href="{svc_href(n, "../")}">{E(n)}</a></li>' for n in tracked)
         other = " · ".join(f'<a href="../{HUB_FOR[o][0]}">{HUB_FOR[o][1]}</a>' for o in HUBS if o != k)
         lm = max([c.get("modified", d) for d, c in items] or [(days or [TODAY])[-1]])
         url = f"{SITE}/{fn}"
@@ -449,71 +517,20 @@ def main():
               {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": an}} for q, an in faq]}]
         write(D / "subscription-price-history" / "index.html", page("subscription-price-history/index.html", tt, body, TODAY, desc=dd, depth=1, ld=ld, lastmod=lm, crumbs=[("Home", SITE + "/"), ("Price changes", SITE + "/price-changes/")]))
 
-    # ---------- service dossiers ----------
-    THIN_WORDS = 150; THIN = []
-    svc_stats = {}
-    for k_, v in s.items():
-        log = [(d, c) for d, c in ALL_NEW if c["service"] == k_]
-        svc_stats[k_] = log
-    for k, v in s.items():
-        sl = slug(k)
-        snaps = [f.stem for p in v for f in (R / "snapshots" / slug_tr(k) / p).glob("*.txt")] if (R / "snapshots").exists() else []
-        last = max(snaps) if snaps else TODAY; first = min(snaps) if snaps else TODAY
-        log = svc_stats[k]
-        _w = [{"pricing": "price", "terms": "terms", "privacy": "privacy policy"}[p] for p in v]
-        kinds = _w[0] if len(_w) == 1 else ", ".join(_w[:-1]) + " & " + _w[-1]
-        title = f"{k} {kinds} changes (history)"
-        phtml, phld, phpct, phfl = ph_section(k, PH[k]) if k in PH else ("", None, 0, None)
-        if k in PH:
-            title = PH[k].get("title") or f"{PH[k].get('title_name',PH[k].get('name',k))} price history (US, {phfl[0][0][:4]}–{PH[k]['verified'][:4]}): every increase"
-        if k in SVC_SEO: title = SVC_SEO[k].get("title", title)
-        last_by_kind = {}
-        for d, c in log: last_by_kind.setdefault(c.get("page", "terms"), d)
-        watch = "".join(f'<li>{kind(p)}<a href="{E(u)}" rel="nofollow noopener">{E(u)}</a><span class="when">' + (f'last changed {E(short_y(last_by_kind[p]))}' if p in last_by_kind else f'no change since {E(short(first))}') + '</span></li>' for p, u in v.items())
-        cl = "".join(f'<li class="i{c["impact"]}">{entry(c, d, "../../", TODAY, show_service=False)}</li>' for d, c in log)
-        cl = f'<ul class="timeline">{cl}</ul>' if cl else f'<p class="coverage">No changes detected since tracking began on {nice(first)}. This page updates automatically when {E(k)} changes a tracked page.</p>'
-        others = sorted(s, key=str.lower); i = others.index(k); nb = [others[(i + j) % len(others)] for j in (-1, 1)]
-        desc = f"A dated history of every change {k} makes to its {kinds} pages, checked daily by QuietlyChanged. Last checked {nice(last)}."
-        if k in PH and PH[k].get("desc"): desc = PH[k]["desc"]
-        if k in SVC_SEO and SVC_SEO[k].get("desc"): desc = SVC_SEO[k]["desc"]
-        elif k in PH: desc = f"Every {PH[k].get('title_name',PH[k].get('name',k))} US price increase since {phfl[0][0][:4]}: {PH[k]['flagship']} went from {_amt(PH[k],PH[k]['flagship'],phfl[0][1])} to {_amt(PH[k],PH[k]['flagship'],phfl[-1][1])} (+{phpct:.0f}%). Dated tables for each plan, sources, plus daily {kinds} change tracking."
-        # lastmod = when the page's content last really changed (logged change, verified price history, a guide listing it),
-        # not the daily snapshot date; tracked-but-unchanged pages fall back to the first snapshot.
-        svc_mod = max([c.get("modified", d) for d, c in log] + ([PH[k]["verified"]] if k in PH else [])
-                      + [g.get("modified", g["published"]) for g in GUIDES.values() if k in g.get("services", [])] or [first])
-        ld = {"@context": "https://schema.org", "@type": "WebPage", "name": title, "url": f"{SITE}/services/{sl}/", "dateModified": svc_mod, "publisher": ORG, "about": {"@type": "Organization", "name": k}}
-        _fqs = [(d, c) for d, c in log if c.get("faq")][:2]  # the two most recent changes with Quick answers
-        # Summary + question links only (not the full answers), so the service page doesn't duplicate the article's text.
-        svc_faq = "".join(f'<h2>What changed recently: {E(c_.get("headline",""))}</h2>' + (f'<p>{E(c_["tldr"])}</p>' if c_.get("tldr") else "") + '<p>Answered in the full breakdown:</p><ul>' + "".join(f'<li><a href="../../changes/{c_["_art"]}/#quick-answers">{E(q)}</a></li>' for q, an in c_["faq"]) + f'</ul><p><a href="../../changes/{c_["_art"]}/">Read the full breakdown, with sources</a></p>' for _, c_ in _fqs)
-        latest_rl = next(((d, c) for d, c in log if c.get("redline")), None)
-        latest_ex = ""
-        if latest_rl:
-            d0, c0 = latest_rl
-            latest_ex = (f'<section class="section" aria-labelledby="lw"><div class="sec-title"><h2 id="lw">Latest change, word for word</h2><a href="../../changes/{c0["_art"]}/">Read it →</a></div>'
-                         f'<p class="lede" style="font-size:1.15rem;margin-bottom:1rem"><a href="../../changes/{c0["_art"]}/" style="text-decoration:none">{E(c0.get("headline",""))}</a></p>{exhibit(c0["redline"][0], k, LABEL.get(c0.get("page","terms")), "First seen " + short(d0))}</section>')
-        upcoming_svc = [(d, c) for d, c in log if c.get("effective") and days_until(c["effective"], TODAY) >= 0]
-        due_html = "".join(f'<div style="margin-top:1rem"><a href="../../changes/{c["_art"]}/" style="text-decoration:none">{stamp(c, TODAY)}</a></div>' for d, c in upcoming_svc[:2])
-        facts = [(nice(first).rsplit(",", 1)[0], "tracked since"), (str(len(log)), "changes logged"), (str(len(v)), "pages watched"), (short(log[0][0]) if log else "—", "last change")]
-        if k in PH:
-            h = PH[k]; fl = phfl
-            ups = sum(1 for i2 in range(1, len(fl)) if fl[i2][1] > fl[i2 - 1][1])
-            facts = [(_amt(h, h["flagship"], fl[-1][1]).split("/")[0], f'{h["flagship"]}, per {_u(h,h["flagship"])}'), (f"+{phpct:.0f}%", f"since {fl[0][0][:4]}"), (str(ups), "price increases"), (str(len(log)), "changes logged since Oct 13" if first == "2026-10-13" else "changes logged")]
-        facts_html = '<div class="facts">' + "".join(f"<div><b>{E(a)}</b><span>{E(b)}</span></div>" for a, b in facts) + "</div>"
-        svc_body = lambda extra="", gbox="": (f'<header class="wide page-head"><div class="dossier-head">{mono(k, lg=True)}<div><p class="label">Service history · {E(" · ".join(LABEL[p] for p in v))}</p></div></div>'
-                f'<h1>{E(title)}</h1><p class="meta">Tracked since <time datetime="{first}">{nice(first)}</time> · Last snapshot <time datetime="{last}">{nice(last)}</time></p>'
-                f'<p class="lede">QuietlyChanged checks {E(k)}\'s public {kinds} pages every day and records what changes, in plain English.</p>{due_html}{facts_html}</header>'
-                f'<div class="wide art-grid" style="margin-top:2rem"><div class="art-main">{extra}<div class="prose">{phtml}</div>{latest_ex}<div class="prose">{svc_faq}</div>'
-                f'<section class="section" aria-labelledby="cl" style="margin-top:2.6rem"><div class="sec-title"><h2 id="cl">Changelog</h2><span class="label">{plural(len(log), "change")}</span></div>{cl}</section>'
-                f'<section class="section" aria-labelledby="pw"><div class="sec-title"><h2 id="pw">Pages we monitor</h2></div><ul class="watch">{watch}</ul></section></div>'
-                f'<aside class="art-aside" aria-label="About this service"><section class="box"><h2>Keep track</h2><div class="btnrow">{follow_btn(k)}<button class="btn" type="button" data-copy>Copy link</button></div></section>'
-                + (f'<section class="box"><h2>In these threads</h2><ul class="chips">' + "".join(f'<li><a href="../../threads/{th}/">{E(THEMES[th]["title"])}</a></li>' for th in dict.fromkeys(t for _, c in log for t in c.get("themes", [])) if th in THEMES) + '</ul></section>' if any(c.get("themes") for _, c in log) else "")
-                + gbox + f'<section class="box"><h2>Neighbors</h2><ul class="chips"><li><a href="../{slug(nb[0])}/">{E(nb[0])}</a></li><li><a href="../{slug(nb[1])}/">{E(nb[1])}</a></li><li><a href="../../services.html">All services</a></li><li><a href="../../about.html">How it works</a></li></ul></section></aside></div>')
-        # Thin rule, measured on the page as it was before build-outs and guide links: under 150 words of main content
-        # and nothing logged yet. Such pages stay online and linked but are kept out of the index and the sitemap.
-        thin = not log and words(svc_body()) < THIN_WORDS
-        if thin: THIN.append(k)
-        body = svc_body(build_out(k, PH[k], log) if k in PH else "", guide_box(k))
-        write(D / "services" / sl / "index.html", page(f"services/{sl}/index.html", title, body, TODAY, desc=desc, depth=2, ld=([ld, phld] if phld else ld), lastmod=svc_mod, crumbs=[("Home", SITE + "/"), ("What we track", SITE + "/services.html")], noindex=thin))
+    # ---------- service dossiers, part 2: write the pages (thin services are folded into services.html) ----------
+    for k in THIN:
+        stale = D / "services" / slug(k)
+        if stale.is_dir() and slug(k) in THIN_SL: shutil.rmtree(stale)
+        # Fallback only: Vercel answers these URLs with the 301 from vercel.json before it looks at files. If a deploy
+        # ever ships without vercel.json, this noindex stub sends people (and crawlers) to the same row instead of a 404.
+        write(stale / "index.html", f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{E(k)} · QuietlyChanged</title><meta name="robots" content="noindex, follow"><link rel="canonical" href="{SITE}/services.html"><meta http-equiv="refresh" content="0; url=../../services.html#{slug(k)}"></head><body><p>{E(k)} is now listed on <a href="../../services.html#{slug(k)}">What we track</a>.</p></body></html>')
+    for k in s:
+        if k in THIN: continue
+        x = SVC[k]
+        body = x["body"](build_out(k, PH[k], svc_stats[k]) if k in PH else "", guide_box(k))
+        write(D / "services" / x["sl"] / "index.html", page(f"services/{x['sl']}/index.html", x["title"], body, TODAY, desc=x["desc"], depth=2, ld=([x["ld"], x["phld"]] if x["phld"] else x["ld"]), lastmod=x["svc_mod"], crumbs=[("Home", SITE + "/"), ("What we track", SITE + "/services.html")]))
+    vercel = [{"source": f"/services/{sl_}{tail}", "destination": f"/services.html#{sl_}", "statusCode": 301} for sl_ in sorted(THIN_SL) for tail in ("", "/", "/index.html")]
+    write(R / "vercel.json", json.dumps({"redirects": vercel}, indent=2) + "\n")
 
     # ---------- services index ----------
     tiles = []
@@ -521,12 +538,25 @@ def main():
         log = svc_stats[k_]
         st = f'{plural(len(log), "change")} · last {short(log[0][0])}' if log else "No changes yet"
         hot = log and days_until(log[0][0], TODAY) >= -7
-        tiles.append(f'<li data-k="{" ".join(v)}" data-n="{E(k_.lower())}" data-s="{E(k_)}"><a class="tile" href="services/{slug(k_)}/">{mono(k_)}<b>{E(k_)}</b><span class="k">{"".join(kind(p) for p in v)}</span><span class="st{" hot" if hot else ""}">{st}{" · price history" if k_ in PH else ""}</span></a>{follow_btn(k_, small=True)}</li>')
+        tiles.append(f'<li data-k="{" ".join(v)}" data-n="{E(k_.lower())}" data-s="{E(k_)}"><a class="tile" href="{"#" + slug(k_) if k_ in THIN else svc_href(k_, "")}">{mono(k_)}<b>{E(k_)}</b><span class="k">{"".join(kind(p) for p in v)}</span><span class="st{" hot" if hot else ""}">{st}{" · price history" if k_ in PH else ""}</span></a>{follow_btn(k_, small=True)}</li>')
     btn = "".join(f'<li><button type="button" data-f="{k}" aria-pressed="false">{v}</button></li>' for k, v in LABEL.items()) + '<li><button type="button" data-f="followed" aria-pressed="false">Following</button></li>'
-    write(D / "services.html", page("services.html", "What we track", today=TODAY, desc=f"Search the {len(s)} services QuietlyChanged monitors daily for pricing, terms of service, and privacy policy changes.", body=f'''<header class="wide page-head"><p class="label">Coverage</p><h1>What we track</h1><p class="lede">{len(s)} services and {sum(map(len,s.values()))} pages, checked every morning. Tap the star on the services you use and the front page will show what changed for you.</p></header>
+    thin_rows = "".join(f'<tr id="{slug(k_)}"><th scope="row">{mono(k_)}{E(k_)}</th><td><ul class="watch-inline">'
+                        + "".join(f'<li><a href="{E(u)}" rel="nofollow noopener">{LABEL[p]}</a></li>' for p, u in s[k_].items())
+                        + f'</ul></td><td><time datetime="{SVC[k_]["first"]}">{E(short_y(SVC[k_]["first"]))}</time></td><td><time datetime="{SVC[k_]["last"]}">{E(short_y(SVC[k_]["last"]))}</time></td><td>{follow_btn(k_, small=True)}</td></tr>'
+                        for k_ in sorted(THIN, key=str.lower))
+    thin_html = (f'<section class="wide section" aria-labelledby="quiet-h"><div class="sec-title"><h2 id="quiet-h">Also watched daily: services with no changes yet</h2><span class="label">{plural(len(THIN), "service")}</span></div>'
+                 f'<p class="lede" style="font-size:1.05rem;margin-bottom:1rem">We check these services\' pages every morning, the same as every other service on this page. No change has been logged on any of them since tracking began. Each one gets its own page, with a dated history, the day we find a change.</p>'
+                 f'<div class="tablewrap"><table class="quiet"><thead><tr><th scope="col">Service</th><th scope="col">Pages we monitor</th><th scope="col">Tracked since</th><th scope="col">Last snapshot</th><th scope="col"><span class="sr">Follow</span></th></tr></thead><tbody>{thin_rows}</tbody></table></div></section>') if THIN else ""
+    npages = sum(map(len, s.values())); own = [k_ for k_ in sorted(s, key=str.lower) if k_ not in THIN]
+    sv_title = "What we track: every service we monitor"
+    sv_desc = f"All {len(s)} services and {npages} pricing, terms of service and privacy policy pages QuietlyChanged checks every morning, with a dated change history for each service that has changed."
+    sv_ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": sv_title, "url": f"{SITE}/services.html", "description": sv_desc, "publisher": ORG,
+             "mainEntity": {"@type": "ItemList", "numberOfItems": len(own), "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": f"{SITE}/services/{slug(k_)}/", "name": k_} for i, k_ in enumerate(own)]}}
+    write(D / "services.html", page("services.html", sv_title, today=TODAY, desc=sv_desc, ld=sv_ld, body=f'''<header class="wide page-head"><p class="label">Coverage</p><h1>What we track</h1><p class="lede">{len(s)} services and {npages} pages, checked every morning. Tap the star on the services you use and the front page will show what changed for you.</p></header>
 <section class="wide"><div class="filters" role="search"><label class="sr" for="q">Search services</label><input id="q" type="search" placeholder="Search services…" autocomplete="off"><ul class="chips" style="list-style:none">{btn}</ul></div>
 <p class="label" id="count" aria-live="polite" style="margin-bottom:.8rem">{len(s)} of {len(s)} services shown</p>
-<ul class="tiles" id="rows">{"".join(tiles)}</ul></section>'''))
+<ul class="tiles" id="rows">{"".join(tiles)}</ul></section>
+{thin_html}'''))
 
     # ---------- guide pages ----------
     def guide_block(b):
@@ -540,7 +570,7 @@ def main():
         url = f"{SITE}/guides/{gs_}/"; mod = g.get("modified", g["published"])
         cov = "".join(f'<li>{entry(ART[a_][1], ART[a_][0], "../../", TODAY, svc_href=svc_href(ART[a_][1]["service"], "../../"))}</li>' for a_ in g.get("changes", []))
         srcs = "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n, u in g["sources"])
-        svcs = "".join(f'<li><a href="../../services/{slug(n)}/">{mono(n)}{E(n)}</a></li>' for n in g.get("services", []))
+        svcs = "".join(f'<li><a href="{svc_href(n, "../../")}">{mono(n)}{E(n)}</a></li>' for n in g.get("services", []))
         body = (f'<header class="wrap page-head"><p class="label">Guide</p><h1>{E(g["title"])}</h1><p class="lede">{E(g["dek"])}</p>'
                 f'<p class="meta">Published <time datetime="{g["published"]}">{nice(g["published"])}</time>' + (f' · Updated <time datetime="{mod}">{nice(mod)}</time>' if mod != g["published"] else "") + '</p></header>'
                 f'<div class="wrap prose">{"".join(guide_block(b) for b in g["body"])}'
@@ -666,7 +696,7 @@ def main():
 
     # ---------- search index ----------
     idx = [{"t": c.get("headline", ""), "s": c["service"], "k": c.get("page", "terms"), "d": d, "u": f'changes/{c["_art"]}/', "x": c.get("tldr") or clip(c["what"], 160), "i": c["impact"], "e": c.get("effective", "")} for d, c in ALL_NEW]
-    idx += [{"t": k_, "s": k_, "k": "service", "u": f"services/{slug(k_)}/", "x": f'{plural(len(svc_stats[k_]), "change")} logged', "p": list(v)} for k_, v in s.items()]
+    idx += [{"t": k_, "s": k_, "k": "service", "u": svc_href(k_, ""), "x": f'{plural(len(svc_stats[k_]), "change")} logged', "p": list(v)} for k_, v in s.items()]
     idx += [{"t": v["title"], "s": "Thread", "k": "thread", "u": f"threads/{th}/", "x": v["dek"]} for th, v in THEMES.items()]
     idx += [{"t": g["title"], "s": "Guide", "k": "guide", "u": f"guides/{gs_}/", "x": g["dek"]} for gs_, g in GUIDES.items()]
     write(D / "search.json", json.dumps(idx, ensure_ascii=False, separators=(",", ":")))
@@ -707,4 +737,4 @@ def main():
             except Exception as ex: print(f"IndexNow ping skipped: {ex}")
 
     og.site_image(D, R)
-    print(f"Built {len(PAGES) + len(NOINDEX)} pages ({len(NOINDEX)} noindex: {len(days)} reports, {len(THIN)} thin service pages, {len(THIN_ARTS)} thin articles) · {len(GUIDES)} guides · {len(ALL)} changes · {len(upcoming)} upcoming dates")
+    print(f"Built {len(PAGES) + len(NOINDEX)} pages ({len(NOINDEX)} noindex: {len(days)} reports, {len(THIN_ARTS)} thin articles) · {len(THIN)} thin services folded into services.html (301): {' '.join(sorted(THIN_SL))} · {len(GUIDES)} guides · {len(ALL)} changes · {len(upcoming)} upcoming dates")

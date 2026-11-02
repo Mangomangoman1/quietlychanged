@@ -398,6 +398,14 @@ tbody th a{text-decoration:none}
 tbody th a:hover{text-decoration:underline;text-decoration-color:var(--red)}
 .up{color:var(--red-ink)}
 .prose .tablewrap{margin-top:.8rem}
+table.quiet{min-width:40rem}
+table.quiet tbody th{font:500 1rem/1.3 var(--display);white-space:nowrap}
+table.quiet .mono-badge{margin-right:.6rem;vertical-align:middle}
+table.quiet td{white-space:nowrap;vertical-align:middle}
+table.quiet tr:target>*{background:var(--red-soft)}
+.watch-inline{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:.2rem .9rem}
+.watch-inline a{color:var(--ink-2)}
+table.quiet .star{position:static}
 
 /* rail */
 .rail{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;list-style:none;padding:0}
