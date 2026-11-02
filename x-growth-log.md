@@ -1213,3 +1213,30 @@ Held: GitHub Enterprise + Copilot had no big live thread; candidate original for
 - O1 self-reply with link: https://x.com/QuietlyChanged/status/2116930648955060624
 - Q1 quote of Polymarket post: https://x.com/QuietlyChanged/status/2116932062049697932
 - R2 ZayvenKnox skipped (74.6K, nearly flat)
+
+## Snapshot 2026-11-01 ~5:20 PM MT (Sunday evening)
+- Followers **18** (17 this morning), following 12, posts 187, media 79.
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|---|
+| Oct 31 9:23 AM | Prime $15 script correction under jaxoncoder (2116551726505644303) | reply | **100,983** | 127 | 152 | 7 |
+| Nov 1 9:23 AM | Claude Code games "not a ban" under Polymarket (2116929118155727044), parent 129K+ at post time | reply | 1,021 | 0 | 0 | 1 |
+| Nov 1 2:31 PM | Answer to popeelmo in the Polymarket thread (2116991586299220293) | reply (outside routine) | 7 | 0 | 0 | 1 |
+| Nov 1 9:29 AM | Toyota LLM-training original (2116930540393967770) + self-reply link | original | 12 + 8 | 0 | 0 | 1 |
+
+Parent-quotes (tracked separately):
+
+| When (MT) | Post | Parent | Impressions | Likes | Replies |
+|---|---|---|---|---|---|
+| Nov 1 9:35 AM | Quote of Polymarket Claude Code games post (2116932062049697932), AUP fine-print card | Polymarket 129K+ | 30 | 1 | 1 |
+| Oct 31 5:28 PM | Quote of our own Prime breakout reply (2116673681913155771) | own post | 22 | 0 | 1 |
+
+### What we learned
+- The Polymarket reply (landed ~65 min after a 129K parent, image card) did 1,021, in line with the Steam/Pirat_Nation result (~1.7K). The parent-quote under the same parent did 30. That's 2 for 2: the quote layer gets ~1-3% of the reply under the same parent at 17-18 followers. Keep quotes rare (only under 500K+ parents, or when the quoted author is likely to engage) until followers grow.
+- Originals still flat (Toyota 12, Claude Ultra 17). The Prime breakout has stopped growing (99.3K to 101K since morning).
+- Sunday evening feeds (NFL, midterms, Halloween, F1) had no in-lane parent heading to 50K. The only live lane post is a Pirat_Nation Claude "Opus 5.6" leak, at 4.7K after 19 min and slowing, so it's below the bar.
+- Adjustment: on Sunday evenings, check the priority accounts and then stop. Don't force replies. Sunday evening isn't a reply window for our lane; Monday morning (weekly roundup re-pin, back-to-work tech news) is the next one.
+
+### Drafted (social/2026-11-01/x-evening/xgrowth-evening-drafts.md)
+- No original (Toyota used today's slot). Tubi posts still held for Samuel's OK.
+- R1 CONDITIONAL under Pirat_Nation Claude leak (Claude logo + API price card): publish only if the parent is past ~20K with <40 replies. No quote.
