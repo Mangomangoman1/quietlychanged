@@ -1287,3 +1287,24 @@ Parent-quotes: Polymarket Claude Code quote 2116932062049697932 now 37 impressio
 ### Decision
 - No reply, no parent-quote, no original this session. Original slot used by the roundup; Calm deep-dive post (social/2026-11-02/deepdive/post.txt) stays held unless Samuel OKs a second original.
 - Tomorrow AM watch list: Spotify AI-remix (if a big account carries it, receipt = our price history: Individual $9.99 from 2011 to Jul 2023, now $12.99 after 3 raises, so +$4-5 add-on would be ~$17-18), OpenAI Dec shared-pool, Oura Nov 4 terms lock (our own find; check for trending posts).
+
+## Snapshot 2026-11-03 ~9:30 AM MT (Tuesday morning)
+- Followers **18** (flat since Oct 31 evening), following 12, posts 191, media 81. Pinned = Nov 2 roundup 2117292806964400275.
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|---|
+| Nov 2 6:26 PM | Calm "may infer health traits" original 2117428286158667850 + self-reply link | original (second of Nov 2, Samuel OK'd) | 4 + 3 | 0 | 0 | 1 |
+| Nov 2 10:28 AM | Weekly roundup (pinned) 2117292806964400275 | original | 15 | 0 | 0 | 1 |
+| Nov 1 9:23 AM | Claude Code games under Polymarket | reply | 1,234 | 0 | 0 | 1 |
+| Nov 1 9:35 AM | Quote of Polymarket post | parent-quote | 48 | 1 | 0 | 1 |
+| Nov 1 9:29 AM | Toyota original + self-reply | original | 16 + 11 | 0 | 1 | 1 |
+| Oct 31 9:23 AM | Prime $15 correction under jaxoncoder | reply | 101,455 | 128 | 152 | 7 |
+
+### What we learned
+- Evening Calm original got 4 impressions at 6:26 PM MT (Monday evening, 18 followers). Originals: 4, 15, 16 this week; consistent with CS-057/058 (own-data posts need an audience first). Nothing since the Prime breakout has moved followers.
+- Prime reply stays at ~101K, bookmarks 152; no new breakout since Oct 31.
+- Priority-account scan at ~9:20 AM MT (Election Day): Kalshi/unusual_whales politics, GTA VI preload, Elder Scrolls VI dominate. Only in-lane climber is MorePerfectUS's Google/schools post (96K at +74 min, 101 replies): too late by the rule and not clearly misleading, skipped. Walmart phone-ping alarm (218K, 583 replies) and Spotify AI-remix (Dexerto 201K) are 17+ hours old.
+- Strategy: Samuel wants a chart original every few days and the last was Oct 27 (10 imp, posted 10 PM). This one goes out in the morning slot and uses a count-of-raises angle instead of percent-since-launch; if it does under ~50 impressions, stop posting charts as standalone originals and use them only as the image in replies under big price-hike posts.
+
+### Drafted (social/2026-11-03/am/xgrowth-am-drafts.md)
+- O1 "Times each service raised its price since 2022" chart original + self-reply link (today's one original). No replies, no quotes. 12:41 PM deep-dive post stays held.
