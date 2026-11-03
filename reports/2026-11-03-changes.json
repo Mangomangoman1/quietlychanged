@@ -53,5 +53,97 @@
    ]
   ],
   "modified": "2026-11-03"
+ },
+ {
+  "service": "Stripe",
+  "page": "privacy",
+  "headline": "Stripe's Nov 20 privacy rewrite: AI voice agents, your data to your bank, and calls used to train AI",
+  "tldr": "Stripe's new privacy policy, effective Nov 20, lets AI voice agents call people and use the recordings to train AI, and says it may send your IP, email, phone and address to your card's bank.",
+  "impact": 2,
+  "effective": "2026-11-20",
+  "deadline": "Takes effect",
+  "themes": [
+   "ai-and-your-data",
+   "ads-and-tracking"
+  ],
+  "actions": [
+   "If a Stripe call is recorded and you object, opt out when prompted at the start of the call.",
+   "Unsubscribe from abandoned-checkout reminder emails, or tell the merchant not to send them.",
+   "Link users: review data-sharing and advertising settings at app.link.com/settings.",
+   "Turn on Global Privacy Control in your browser, and re-send it if you clear cookies."
+  ],
+  "redline": [
+   {
+    "before": "",
+    "after": "We may leverage automated dialing systems and AI technologies, such as AI-powered voice agents and AI transcription, chat, and email tools, to initiate and conduct communications with you for operational, support, sales, marketing, and lead qualification purposes.",
+    "label": "Privacy Policy · Automated and AI-Powered Communications",
+    "note": "New paragraph; recordings and transcripts may also train AI models.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "Stripe may also share fraud risk signals—including Stripe's risk assessment, and your IP address, email address, phone number, and shipping address—with your card-issuing bank",
+    "label": "Privacy Policy · Fraud prevention",
+    "note": "A named list of what goes to your bank during payment.",
+    "src": "quoted"
+   },
+   {
+    "before": "Stripe honors the Global Privacy Control (GPC) opt-out preference signals.",
+    "after": "Where we detect a Global Privacy Control (“GPC”) signal, we will honor it as a request to opt out of “sales” and “sharing” (for behavioral advertising) for the device and associated browser that transmits the signal. Note that if you or your browser clear or expire cookies, you will need to opt-out or transmit a Global Privacy Control signal again to opt-out.",
+    "label": "Privacy Policy · Global Privacy Control signals",
+    "note": "The signal now covers one device and browser and has to be re-sent after clearing cookies.",
+    "src": "quoted"
+   }
+  ],
+  "what": "Stripe, the company whose payment forms sit behind a huge share of online checkouts, posted a preview of a rewritten Privacy Policy that takes effect November 20, 2026. The policy in force today is dated April 28, 2026. A notice at the top of stripe.com/privacy says the policy \"will be updated on November 20, 2026,\" and links to the preview. We compared the preview with the current policy sentence by sentence. Stripe's own summary of the update lists \"automated dialing, AI voice agents, and transcripts for outreach and model training,\" but the rewrite also adds several lines that reach people who only ever used a Stripe-powered checkout.\n\nChange 1: AI voice agents may call you, and the calls can train AI. A new \"Automated and AI-Powered Communications\" paragraph says: \"We may leverage automated dialing systems and AI technologies, such as AI-powered voice agents and AI transcription, chat, and email tools, to initiate and conduct communications with you for operational, support, sales, marketing, and lead qualification purposes.\" It adds that Stripe may use \"call recordings and transcripts of interactions facilitated by automated systems for staff training, quality assurance, and other operational purposes, as well as to train, test, and improve the artificial intelligence and machine learning models.\" The only opt-out it offers is for recording: \"To opt out of call recording, please do so when prompted at the beginning of the call.\" Stripe's existing AI-training line, \"Training artificial intelligence models to power our Services and protect against fraud and other harm,\" now ends \"and for other internal training, quality assurance, and operational improvement purposes.\"\n\nChange 2: Your IP address, email, phone and shipping address may go to your card's bank. The new text says: \"During payment authorization, Stripe may also share fraud risk signals—including Stripe's risk assessment, and your IP address, email address, phone number, and shipping address—with your card-issuing bank to help approve genuine transactions and reduce unnecessary payment failures. Card issuers are independent data controllers for signals they receive.\" The words \"card-issuing bank\" and that list of fields do not appear in the April policy.\n\nChange 3: Your payments at one store can shape how Stripe handles you at another. New: \"Stripe uses transaction signals pooled across its global merchant network to optimize payment authorization rates. This means transaction patterns from your payments at one merchant may inform how Stripe routes authorization requests at other merchants.\"\n\nChange 4: Tracking at signup and login, before you pay. New: \"Stripe's fraud detection services may collect device and behavioral signals at the time of account registration and login on platforms that have enabled Stripe's risk API services. These signals are used to detect multi-account abuse and fraudulent registrations before a payment is initiated. Merchants using these services are required by their Stripe agreement to disclose this collection to their customers.\"\n\nChange 5: Abandoned-checkout emails. New: \"If you begin a checkout session on a Stripe-powered payment page and enter your email address but do not complete the purchase, the merchant may instruct Stripe to send you a recovery email as a reminder.\" The opt-out is the email's unsubscribe link or asking the merchant. The policy also newly discloses tracking pixels in some Stripe emails that show \"whether an email has been opened and which links within the email have been clicked.\"\n\nChange 6: Your Link purchase data may be used for \"insights\" shown to businesses. New: \"Where permitted by applicable law, and where required with your consent or other notice requirements, we may use your Transaction Data with your Link account (where one is available) to derive insights, personalize offers and communications, and make them available to Business Users.\" The opt-out is \"managing applicable data-sharing and advertising preferences through your Link Settings.\" Stripe also says Link moves to \"a separate Link Privacy Policy.\"\n\nChange 7: Payments made by AI agents. Stripe adds a stated purpose of \"Facilitating, authenticating, processing, supporting, and protecting transactions initiated through AI agents, automated software, or other authorized third-party services, including managing related payment credentials, tokens, authorizations, refunds, disputes, and transaction-related requests.\" The rewrite also adds stablecoin and blockchain transactions.\n\nChange 8: The privacy-signal opt-out gets narrower. The April policy says in one line: \"Stripe honors the Global Privacy Control (GPC) opt-out preference signals.\" The new version says Stripe will honor a GPC signal \"as a request to opt out of 'sales' and 'sharing' (for behavioral advertising) for the device and associated browser that transmits the signal,\" and adds: \"if you or your browser clear or expire cookies, you will need to opt-out or transmit a Global Privacy Control signal again to opt-out.\" Stripe's policy also still says its provision of data to some third parties \"may be considered a data 'sale' or 'sharing' (for behavioral advertising)\" under California and other US privacy laws.\n\nWhat did not change. Stripe still says \"We do not share mobile data we collect for authentication purposes with third parties for marketing or promotional purposes.\" It still says it does not sell or share sensitive personal information. Call recording was already in the April policy.\n\nWhat you can do: Before November 20, nothing is required of you. If you don't want Stripe's outreach calls recorded, say so when the call starts. Unsubscribe from any abandoned-cart email. If you have a Link account, review the data-sharing and advertising settings at app.link.com/settings. Turn on Global Privacy Control in your browser and expect to re-send it if you clear cookies. To ask what Stripe holds about you, use the contact route in the policy (privacy@stripe.com).\n\nCoverage (checked Nov 3, 2026): We found no news coverage. The only mentions we found were an automated policy-tracker blog post (Venpo, Oct 23), which is aimed at businesses that use Stripe, and a LinkedIn post about Stripe's notice email.",
+  "who": "Anyone who has paid through a Stripe-powered checkout or has a Link account, plus anyone Stripe contacts for sales or support.",
+  "url": "https://stripe.com/privacy/preview",
+  "seo_title": "Stripe privacy policy update (effective Nov 20, 2026): AI voice agents, data to card issuers",
+  "seo_desc": "Stripe's rewritten privacy policy takes effect November 20, 2026. It adds AI voice agents that may call you, call transcripts used to train AI, data sent to your card's bank, and a narrower opt-out signal. What changed and what to do.",
+  "faq": [
+   [
+    "What is changing in Stripe's privacy policy?",
+    "Stripe has posted a preview of a rewritten Privacy Policy that takes effect November 20, 2026. The current version is dated April 28, 2026. The rewrite adds AI voice agents, use of call transcripts to train AI models, sharing of your IP address, email, phone number and shipping address with your card-issuing bank, signals pooled across merchants, and a narrower Global Privacy Control opt-out."
+   ],
+   [
+    "Will Stripe use AI voice agents to call me?",
+    "The new policy says Stripe \"may leverage automated dialing systems and AI technologies, such as AI-powered voice agents\" to contact you for \"operational, support, sales, marketing, and lead qualification purposes.\" It says call recordings and transcripts may be used to train, test and improve AI and machine learning models, and that you can opt out of recording when prompted at the start of a call."
+   ],
+   [
+    "What does Stripe send my bank when I pay?",
+    "During payment authorization, Stripe \"may also share fraud risk signals—including Stripe's risk assessment, and your IP address, email address, phone number, and shipping address—with your card-issuing bank.\" The April 2026 policy does not name those fields."
+   ],
+   [
+    "Does Stripe email me if I abandon a checkout?",
+    "The new policy says that if you enter your email on a Stripe-powered payment page and don't finish, \"the merchant may instruct Stripe to send you a recovery email as a reminder.\" You can unsubscribe in the email or contact the merchant."
+   ],
+   [
+    "Does Stripe still honor Global Privacy Control?",
+    "Yes, but for narrower scope. The new policy honors it for \"the device and associated browser that transmits the signal\" and says you must send it again if you clear cookies."
+   ],
+   [
+    "Is Stripe's policy news?",
+    "As of November 3, 2026 we found no news coverage; only an automated policy-tracker post and a LinkedIn post about Stripe's notice email."
+   ]
+  ],
+  "sources": [
+   [
+    "Stripe Privacy Policy preview, effective November 20, 2026",
+    "https://stripe.com/privacy/preview"
+   ],
+   [
+    "Stripe Privacy Policy (in force; last updated April 28, 2026)",
+    "https://stripe.com/privacy"
+   ],
+   [
+    "Link Privacy Policy (separate policy; last updated January 16, 2026)",
+    "https://link.com/privacy"
+   ],
+   [
+    "Venpo: Stripe may use AI voice agents to call you and train AI on the calls (Oct 23, 2026)",
+    "https://venpo.com/blog/stripe-may-use-ai-voice-agents-to-call-you-and-train-ai-on-the-calls"
+   ]
+  ],
+  "modified": "2026-11-03"
  }
 ]

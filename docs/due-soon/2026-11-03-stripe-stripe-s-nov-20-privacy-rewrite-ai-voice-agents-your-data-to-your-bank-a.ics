@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stripe · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-03-stripe-stripe-s-nov-20-privacy-rewrite-ai-voice-agents-your
+ -data-to-your-bank-a@quietlychanged.com
+DTSTAMP:20261103T195439Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Stripe: Takes effect
+DESCRIPTION:Stripe's new privacy policy\, effective Nov 20\, lets AI voice
+  agents call people and use the recordings to train AI\, and says it may 
+ send your IP\, email\, phone and address to your card's bank.\n\nhttps://
+ quietlychanged.com/changes/2026-11-03-stripe-stripe-s-nov-20-privacy-rewr
+ ite-ai-voice-agents-your-data-to-your-bank-a/
+URL:https://quietlychanged.com/changes/2026-11-03-stripe-stripe-s-nov-20-p
+ rivacy-rewrite-ai-voice-agents-your-data-to-your-bank-a/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Stripe — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

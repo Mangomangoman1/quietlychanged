@@ -297,5 +297,8 @@
   "Calm": {
     "terms": "https://www.calm.com/terms",
     "privacy": "https://www.calm.com/privacy-policy"
+  },
+  "Stripe": {
+    "privacy": "https://stripe.com/privacy"
   }
 }
