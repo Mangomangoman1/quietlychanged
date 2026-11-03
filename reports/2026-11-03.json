@@ -1,0 +1,852 @@
+{
+ "date": "2026-11-03",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ],
+  [
+   "AT&T",
+   "terms",
+   "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  ],
+  [
+   "Cricket Wireless",
+   "terms",
+   "https://www.cricketwireless.com/terms"
+  ],
+  [
+   "California",
+   "terms",
+   "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  ],
+  [
+   "Xero",
+   "terms",
+   "https://www.xero.com/us/legal/terms/"
+  ],
+  [
+   "Xero",
+   "privacy",
+   "https://www.xero.com/us/legal/privacy/"
+  ],
+  [
+   "Grindr",
+   "terms",
+   "https://trust.grindr.com/en-US/legal/2026-terms-of-service"
+  ],
+  [
+   "Grindr",
+   "privacy",
+   "https://trust.grindr.com/en-US/privacy"
+  ],
+  [
+   "Social Security",
+   "privacy",
+   "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest"
+  ],
+  [
+   "Toyota",
+   "privacy",
+   "https://www.toyota.com/support/privacy-notice/"
+  ],
+  [
+   "Tubi",
+   "privacy",
+   "https://tubitv.com/static/privacy"
+  ],
+  [
+   "Calm",
+   "terms",
+   "https://www.calm.com/terms"
+  ],
+  [
+   "Calm",
+   "privacy",
+   "https://www.calm.com/privacy-policy"
+  ]
+ ],
+ "failed": [
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+   "SSLError"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Slack",
+   "page": "pricing",
+   "url": "https://slack.com/pricing",
+   "diff": "@@ -80,3 +80,2 @@\n Slackbot (personal AI agent)\n-New\n Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\n@@ -116,3 +115,2 @@\n Slackbot (personal AI agent)\n-New\n Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\n@@ -200,3 +198,2 @@\n Slackbot (personal AI agent)\n-New\n Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\n@@ -375,3 +372,2 @@\n Slackbot (personal AI agent)\n-New\n Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.",
+   "added": 0,
+   "removed": 4
+  },
+  {
+   "service": "1Password",
+   "page": "terms",
+   "url": "https://1password.com/legal/terms-of-service",
+   "diff": "@@ -76,3 +76,3 @@\n Subscription Terms for Business Customers\n-PLEASE READ THIS SUBSCRIPTION AGREEMENT CAREFULLY AS IT, TOGETHER WITH THE 1PASSWORD ORDER FORM IN WHICH IT IS REFERENCED, CONSTITUTES A LEGALLY BINDING AGREEMENT AND GOVERNS YOUR USE OF THE SERVICES. BY ACCESSING OR USING THE SERVICES, YOU ARE INDICATING THAT YOU AGREE TO THIS SUBSCRIPTION AGREEMENT. IF YOU DO NOT AGREE WITH THIS SUBSCRIPTION AGREEMENT, YOU MUST NOT ACCESS OR USE THE SERVICES.\n+PLEASE READ THIS SUBSCRIPTION AGREEMENT CAREFULLY AS IT, TOGETHER WITH THE 1PASSWORD ORDER FORM IN WHICH IT IS REFERENCED, CONSTITUTES A LEGALLY BINDING AGREEMENT AND GOVERNS YOUR USE OF THE SERVICES AND PROFESSIONAL SERVICES. BY ACCESSING OR USING THE SERVICES, YOU ARE INDICATING THAT YOU AGREE TO THIS SUBSCRIPTION AGREEMENT. IF YOU DO NOT AGREE WITH THIS SUBSCRIPTION AGREEMENT, YOU MUST NOT ACCESS OR USE THE SERVICES.\n This Subscription Agreement is entered into by and between AgileBits Inc. dba 1Password (\n@@ -119,3 +119,3 @@\n (xv) Professional Services Terms\n-means (a) the 1Password Professional Services Addendum, available at [PSA URL]; or (b) where the parties have separately executed a written agreement that expressly governs the provision of Professional Services by 1Password, that agreement.\n+means (a) the 1Password Professional Services Addendum, available at https://1password.com/legal/professional-services-addendum; or (b) where the parties have separately executed a written agreement that expressly governs the provision of Professional Services by 1Password, that agreement.\n (xvi) Service Package\n@@ -123,3 +123,3 @@\n (xvii) Service Package Catalog\n-means 1Password's published catalog of standard Service Packages accessible at [LINK].\n+means 1Password's published catalog of standard Service Packages accessible at https://1password.com/legal/professional-services-catalog.\n (xviii) Services\n@@ -158,3 +158,3 @@\n www.1Password.ca\n-) in which case the Subscription Fees including applicable taxes will be charged at the time of transaction (direct billing). Otherwise, the Subscription Fees payable for the Services are based on Customer\u2019s number of Users as set forth in the Order Form or modified in accordance with this Section 3.1. Except as otherwise set forth herein or in an Order Form, (i) fees are quoted and payable in United States dollars, (ii) fees are based on subscription Services purchased, and (iii) payment obligations are non-cancelable and fees paid are non-refundable, except as permitted in Section 6.1, Section 7.2, Section 9.3, or Section 11.2. A direct billing Customer may purchase additional subscription Services for its Users at any time through\n+) in which case the Subscription Fees including applicable taxes will be charged at the time of transaction (direct billing). Otherwise, the Subscription Fees payable for the Services are based on Customer\u2019s number of Users as set forth in the Order Form or modified in accordance with this Section 3.1. Except as otherwise set forth herein or in an Order Form, (i) fees are quoted and payable in United States dollars, (ii) fees are based on subscription Services purchased, and (iii) payment obligations are non-cancelable and fees paid are non-refundable, except as permitted in Section 6.1, Section 7.2, Section 9.3, or Section 11.1. A direct billing Customer may purchase additional subscription Services for its Users at any time through\n www.1Password.com",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "Cloudflare",
+   "page": "privacy",
+   "url": "https://www.cloudflare.com/privacypolicy/",
+   "diff": "@@ -31,3 +31,3 @@\n We have updated our <DATE> Privacy Policy to include our new Addendum applicable to users in South Korea\n-This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n+This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u0000\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n CLOUDFLARE\u2019S PROMISE",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -3,3 +3,3 @@\n Sign in with Amazon\n-Season's Savings | $0.99/mo for 3 months\n+This Season's Biggest Deal | $0.99/mo for 3 months + $20 Audible bonus\n $8.99/mo thereafter\u2014terms apply.",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Mailchimp",
+   "page": "pricing",
+   "url": "https://mailchimp.com/pricing/marketing/",
+   "diff": "@@ -95,3 +95,3 @@\n Phone & Priority Support\n-Custom-Coded and Pre-built Email Templates\n+Popup Forms\n Multivariate and A/B Testing",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Todoist",
+   "page": "pricing",
+   "url": "https://todoist.com/pricing",
+   "diff": "@@ -26,3 +26,3 @@\n billed monthly\n-Start for free\n+Create a free account\n Manage subscription\n@@ -31,2 +31,3 @@\n Calendar layout\n+Table layout\n Task duration\n@@ -47,3 +48,3 @@\n per user/month, billed monthly\n-Start for free\n+Create a free account\n Manage subscription\n@@ -53,2 +54,3 @@\n Calendar layout for team projects\n+Table layout for team projects\n Granular team activity logs\n@@ -72,3 +74,3 @@\n billed monthly\n-Start for free\n+Create a free account\n Manage subscription\n@@ -80,3 +82,3 @@\n per user/month, billed monthly\n-Start for free\n+Create a free account\n Manage subscription\n@@ -122,2 +124,6 @@\n Calendar layout\n+Not available\n+Available\n+Available\n+Table layout\n Not available",
+   "added": 10,
+   "removed": 4
+  },
+  {
+   "service": "Todoist",
+   "page": "privacy",
+   "url": "https://doist.com/privacy",
+   "diff": "@@ -129,3 +129,3 @@\n Third-Party Service Integrations\n-. When you connect third-party apps to the Apps, you authorize us to share designated Information and data created and/or uploaded by you to our server with these third-party services of your choice on your behalf. Apps' use of information received from Google APIs[A1] [OS2] for its Google Calendar integration[A3] adheres to\n+. When you connect third-party apps to the Apps, you authorize us to share designated Information and data created and/or uploaded by you to our server with these third-party services of your choice on your behalf. Apps' use of information received from Google APIs for its Google Calendar integration adheres to\n Google API Services User Data Policy",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Verizon",
+   "page": "pricing",
+   "url": "https://www.verizon.com/support/surcharges/",
+   "diff": "@@ -19,3 +19,3 @@\n Review full answer\n-Effective <DATE>, the monthly Verizon Wireless Regulatory Charge for voice-capable devices will increase from $0.21 to $0.26 per line. This charge, and what's included, are subject to change from time to time.\n+Effective <DATE>, the monthly Verizon Wireless Regulatory Charge for voice-capable devices increased from $0.21 to $0.26 per line. This charge, and what's included, are subject to change from time to time.\n Verizon mobile surcharges include (i) a Regulatory Charge (which helps defray various government charges we pay including government number administration and license fees); (ii) a Federal Universal Service Charge (and, if applicable, a State Universal Service Charge) to recover charges imposed on us by the government to support universal service; and (iii) an Administrative and Telco Recovery Charge, which helps defray and recover certain direct and indirect costs we or our agents incur, including:",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Robinhood",
+   "page": "terms",
+   "url": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
+   "diff": "@@ -53,3 +53,3 @@\n Robinhood offers services.\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n 2.2.\n@@ -91,17 +91,16 @@\n Securities whereby Robinhood Financial will introduce your Account to Robinhood Securities, and\n-Robinhood Securities will clear all transactions, on a fully- disclosed basis. You understand that\n+Robinhood Securities will clear all transactions, on a fully-disclosed basis. You understand that\n Robinhood Securities carries your Account and is responsible for the clearing and bookkeeping of\n-transactions, but is not otherwise responsible for the conduct of Robinhood Financial. You agree that\n-until receipt of written notice from you to the contrary, Robinhood Securities may accept from\n-Robinhood Financial, without inquiry or investigation, (i) orders for the purchase or sale of securities\n-for your Account, (ii) any other instructions concerning your Account or any securities or other assets\n-in your Account, or (iii) any instructions for the purchase of securities or other property on margin, if\n-you have a Margin Account. Robinhood Securities shall look solely to Robinhood Financial unless\n+transactions and is not responsible for the conduct of Robinhood Financial. You agree that until\n+receipt of written notice from you to the contrary, Robinhood Securities may accept from Robinhood\n+Financial, without inquiry or investigation, (i) orders for the purchase or sale of securities for your\n+Account, (ii) any other instructions concerning your Account or any securities or other assets in your\n+Account, or (iii) any instructions for the purchase of securities or other property on margin, if you\n+have a Margin Account. Robinhood Securities shall look solely to Robinhood Financial unless\n otherwise directed by Robinhood Financial, and not to you, with respect to any such orders or\n-instructions; except that Robinhood Securities will deliver confirmations, statements, and all written\n-or other notices with respect to an Account directly to you with copies to or made available to\n-Robinhood Financial, and that Robinhood Securities will look to you or Robinhood Financial for\n-delivery of margin, payment, or securities. You agree to hold Robinhood Securities harmless from\n-and against any Losses arising in connection with the delivery or receipt of any such\n-communication(s), provided Robinhood Securities has acted in accordance with the above.\n+instructions. Robinhood Financial will deliver confirmations, statements, and all written or other\n+notices with respect to an Account directly to you. Robinhood Securities will look to you or\n+Robinhood Financial for delivery of margin, payment, or securities. You agree to hold Robinhood\n+Securities harmless from and against any Losses arising in connection with the delivery or receipt of\n+any such communication(s).\n 2.7.\n@@ -122,4 +121,4 @@\n obligations arising from this Agreement, and all property in the Joint Account for either owner may be\n-20260929-5973412-19025555\n subject to a lien. Robinhood may in its discretion recoup or offset funds across a customer\u2019s individual\n+20261102-6079757-19357955\n Account and Joint Account, including the sale of customer securities and positions, such as when\n@@ -186,4 +185,4 @@\n payments in lieu of dividends. These payments may not be afforded the same treatment as qualified\n-20260929-5973412-19025555\n dividends and are likely to be taxed at a higher rate than the preferential qualified dividend rate. You\n+20261102-6079757-19357955\n represent that you have determined such participation is in the Minor\u2019s best interest after considering\n@@ -248,3 +247,3 @@\n duties under Applicable Law.\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n 2.9\n@@ -311,3 +310,3 @@\n such changes in writing within ten days. You agree that this Agreement, the account application, and any\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n other document you furnish in connection with your Account is Robinhood\u2019s property.\n@@ -385,3 +384,3 @@\n Orders and instructions.\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n Any instruction or order given for your Account, including via the Platform or using your Account username\n@@ -450,3 +449,3 @@\n Representative\u201d), subject to any conditions that Robinhood may require. You are solely responsible for any\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n risks associated with your Third Party Authorized Representative, including any actions, decisions, or\n@@ -512,3 +511,3 @@\n health status; (4) to confirm the identity of any legal guardian, executor, trustee or holder of a power of\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n attorney; or (5) for any other reasons as permitted by FINRA Rule 2165. You further agree that: (1) the\n@@ -572,3 +571,3 @@\n A PEP is an individual who is/was or is an immediate family member (spouse, parent, sibling, children, in- law,\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n or dependent) or close associate (someone who is closely connected to the individual either socially or\n@@ -633,3 +632,3 @@\n day before either a full trading day or a half-day; (2) the trade date for an order that is executed between 8\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n p.m. and 12 a.m. ET (the last four hours of a day) is the following full trading day or half-day (including for\n@@ -693,3 +692,3 @@\n executions, reports of executions, and updating of quotations in trading Bulletin Board Stocks. Robinhood\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n Financial in its sole discretion may require limit orders on certain Bulletin Board Stock transactions.\n@@ -756,3 +755,3 @@\n EMPLOYEES AND AGENTS, AND THE PROVIDERS (COLLECTIVELY, THE \u201cROBINHOOD PARTIES\u201d) WILL\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n NOT BE RESPONSIBLE TO YOU OR TO THIRD PARTIES FOR ANY LOSSES YOU INCUR (MEANING\n@@ -821,3 +820,3 @@\n government restrictions, force majeure (as defined in this Agreement), market data availability or quality,\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n exchange rulings or suspension of trading. This Agreement does not seek indemnification for costs or\n@@ -884,3 +883,3 @@\n Robinhood of the death of any Trustee or Grantor. Upon receipt of notice of a Trustee's death, Robinhood\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n may immediately restrict that Trustee's access to the Trust Account and may restrict the Trust Account\n@@ -946,3 +945,3 @@\n market center for execution, Robinhood\u2019s order-routing policies, taking into consideration the factors\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n referenced above, are designed to seek favorable transaction processing for customers. The nature and\n@@ -1009,3 +1008,3 @@\n be deemed to have been made on the next Business Day.\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n You agree that Robinhood may use any means which Robinhood, in its sole discretion, considers suitable to\n@@ -1066,3 +1065,3 @@\n before the issuer\u2019s announced payment date. Robinhood may modify, suspend, or discontinue Early\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n Dividends at any time without prior notice. If Robinhood suspends or discontinues one or more Early\n@@ -1128,3 +1127,3 @@\n participation in the DRIP will not affect any obligations that may result from transactions initiated prior to\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n Robinhood\u2019s receipt and processing of your notice.\n@@ -1189,3 +1188,3 @@\n notice.\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n Orders to invest in a security pursuant to your instructions provided in connection with your participation\n@@ -1251,3 +1250,3 @@\n understand and agree that Robinhood reserves the right to further delay making deposited funds available\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n for periods longer than the hold periods specified in the RHF Funds Availability schedule to the extent\n@@ -1270,3 +1269,4 @@\n swept to the Cash Sweep Program or held as part of the Brokerage-Held Cash Program. The High-Yield\n-Cash Program also offers interest to eligible customers on eligible options cash collateral.\n+Cash Program also offers interest to eligible customers on eligible options cash collateral and eligible short\n+stock collateral.\n If you are not enrolled in the High-Yield Cash Program, free credit balances in your Account will remain in\n@@ -1312,4 +1312,4 @@\n interface (\u201cAPI\u201d) and other materials, including through a Model Context Protocol (\u201cMCP\u201d) server hosted by\n+20261102-6079757-19357955\n Robinhood or one of its affiliates, and other materials in accordance with any accompanying documentation\n-20260929-5973412-19025555\n (collectively, the \u201cAPI Package\u201d) (such third parties, \u201cAPI Licensees\u201d), to make available certain features and\n@@ -1380,6 +1380,6 @@\n involving any API Products or API Licensee technology or product offerings (including system outages\n-or downtime).\n-20260929-5973412-19025555\n+20261102-6079757-19357955\n (b)\n (c)\n+or downtime).\n Robinhood or its Affiliates shall not be responsible for any investment research provided by any API\n@@ -1454,4 +1454,4 @@\n session of your AI agent shall be final and binding upon you upon receipt by Robinhood, and Robinhood shall\n+20261102-6079757-19357955\n have no liability for any Losses arising out of or relating to any such error, malfunction, or unintended behavior of\n-20260929-5973412-19025555\n your AI agent.\n@@ -1513,4 +1513,4 @@\n You understand that you are liable for the full amount of funds borrowed in your Margin Account and will be\n+20261102-6079757-19357955\n liable to repay this amount in full on demand.\n-20260929-5973412-19025555\n 31.2.\n@@ -1580,4 +1580,4 @@\n Liquidation\n+20261102-6079757-19357955\n In the event of your death, or in the event the margin in any Margin Account in which you have an interest\n-20260929-5973412-19025555\n shall in either Robinhood Securities\u2019 or Robinhood Financial\u2019s discretion become unsatisfactory or be\n@@ -1645,4 +1645,4 @@\n deliver the security. If we buy in the security, we may cancel any other open orders you have in the same\n+20261102-6079757-19357955\n security. You understand short sale orders are subject to the risk of unlimited losses.\n-20260929-5973412-19025555\n Stock Borrow Fees for Short Selling: You also understand that Robinhood may charge you fees associated\n@@ -1710,5 +1710,5 @@\n reserves the right to send Account Documents to your postal or email address of record, or via the Platform.\n+20261102-6079757-19357955\n You agree that all Account Documents provided to you in any of the foregoing manners are considered\n delivered to you personally when sent or posted by Robinhood, whether you receive it or not.\n-20260929-5973412-19025555\n All email notifications regarding Account Documents will be sent to your e-mail address of record. You agree\n@@ -1776,5 +1776,5 @@\n Hardware and Software Requirements.\n+20261102-6079757-19357955\n You understand that in order to receive electronic deliveries, you must have access to a computer or Mobile\n Device with Internet access, a valid e-mail address, and the ability to download such applications as\n-20260929-5973412-19025555\n Robinhood Financial may specify and to which you have access. You also understand that if you wish to\n@@ -1840,5 +1840,5 @@\n full power and authority to act on your behalf (to the full extent you could act in person) to prepare, file,\n+20261102-6079757-19357955\n accept, and process class action claims and settlement payments, including to accept, endorse, deposit and\n otherwise deal with any check, instrument, or other payment from a claims administrator. Furthermore, you\n-20260929-5973412-19025555\n acknowledge and agree that you will be bound by the releases included in any settlement for which the\n@@ -1907,5 +1907,5 @@\n Disclosure Library for Website Postings and to understand the terms of the Website Postings. You agree to be",
+   "added": 62,
+   "removed": 62
+  },
+  {
+   "service": "Social Security",
+   "page": "privacy",
+   "url": "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest",
+   "diff": "@@ -56,2 +56,7 @@\n Social Security Administration\n+11/03/2026\n+In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify an existing system of records entitled, Master Files of Social Security Number (SSN) Holders and SSN Applications (60-0058), last published on <DATE>. We use information in this system to assign SSNs and for a number of administrative and...\n+Privacy Act of 1974; System of Records\n+by the\n+Social Security Administration\n 10/30/2026\n@@ -243,6 +248,2 @@\n In accordance with the Privacy Act of 1974, we are issuing public notice of our intent to modify our existing systems of records listed below under the System Name and Number section. This notice publishes details of the modified systems as set forth below under the caption, SUPPLEMENTARY INFORMATION.\n-Agency Information Collection Activities: Proposed Request and Comment Request\n-by the\n-Social Security Administration\n-11/15/2023\n \u2190 Previous",
+   "added": 5,
+   "removed": 4
+  },
+  {
+   "service": "Toyota",
+   "page": "privacy",
+   "url": "https://www.toyota.com/support/privacy-notice/",
+   "diff": "@@ -170,7 +170,7 @@\n Toyota may collect Personal Information from you in different ways and for different purposes. It is important to note that the types of Personal Information we collect will depend on your interaction with us, including the types of products or services you use. We provide in the chart below a summary of our prior 12-month Personal Information handling practices. We collect the below categories of Personal Information from the following sources: consumer-provided; dealers; service providers, contractors, or processors; third-party companies (non-service providers Toyota acquires data from); consumer online activity; affiliated companies; and Toyota internally derived data. You can learn more about the information we collect at or before the point of collection above in the\n-Information We Collect\n-How We Collect Information\n-How We Use The Information We Collect\n+Personal Information We Collect\n+How We Collect Personal Information\n+How We Use The Personal Information We Collect\n , and\n-How We Disclose Information\n+How We Disclose Personal Information\n sections. Please note that our prior 12-month practices are the same as our current Personal Information handling practices.",
+   "added": 4,
+   "removed": 4
+  },
+  {
+   "service": "Tubi",
+   "page": "privacy",
+   "url": "https://tubitv.com/static/privacy",
+   "diff": "@@ -577,3 +577,3 @@\n All rights reserved.\n-Device ID: 061c1761-372c-4cba-84ae-430630eaa224\n+Device ID: 0678ef77-6b58-4e08-9a89-038fced522ca\n Made with",
+   "added": 1,
+   "removed": 1
+  }
+ ]
+}

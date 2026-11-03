@@ -1,0 +1,57 @@
+[
+ {
+  "service": "Social Security",
+  "page": "privacy",
+  "headline": "Social Security updates its SSN master file: new Treasury 'Do Not Pay' data sharing starts Dec 3",
+  "tldr": "SSA's file on everyone issued an SSN adds a routine use letting it share records with Treasury's Do Not Pay system to catch improper payments. Comments close Dec 3.",
+  "impact": 1,
+  "effective": "2026-12-03",
+  "deadline": "Comments close",
+  "themes": [],
+  "actions": [
+   "Comment by Dec 3, 2026 at regulations.gov, docket SSA-2026-0760 (or by mail to SSA's Head of Privacy and Disclosure Policy, Room G-401 West High Rise, 6401 Security Blvd, Baltimore, MD 21235-6401)."
+  ],
+  "redline": [
+   {
+    "before": "",
+    "after": "To the U.S. Department of the Treasury, when disclosure of the information is relevant to review SSA's payment and award eligibility through the Do Not Pay Working System for the purposes of identifying, preventing, or recouping improper payments to an applicant for, or recipient of, Federal funds",
+    "label": "Master Files of SSN Holders (60-0058) · New routine use 48",
+    "note": "A new reason SSA may hand SSN-file data to Treasury; effective Dec 3, 2026.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "We obtain information from this system from additional existing SSA systems of records, such as the Claims Folders System, 60-0089, and Master Beneficiary Record, 60-0090.",
+    "label": "Record source categories",
+    "note": "The SSN file now also draws on SSA's benefit-claim records and on Federal contractors and vendors.",
+    "src": "quoted"
+   }
+  ],
+  "what": "The Social Security Administration published a notice in the November 3, 2026 Federal Register (FR Doc. 2026-22356, docket SSA-2026-0760) modifying its system of records called Master Files of Social Security Number (SSN) Holders and SSN Applications (60-0058), last published February 20, 2025. This is the file SSA uses to assign SSNs and that holds a record of each person who applied for and was assigned one: application details such as name, date and place of birth, sex, parents' names and alien registration number, plus citizenship or work-authorization codes and fraud indicators.\n\nChange 1: a new routine use. SSA adds one new routine use (No. 48) allowing it to disclose records to the Department of the Treasury to review SSA's payment and award eligibility through the Do Not Pay Working System, for identifying, preventing or recouping improper payments. SSA says it applies only when the disclosure meets the requirements in 20 CFR 401.150(c). The new routine use takes effect December 3, 2026.\n\nChange 2: more record sources. SSA expands where the file's information comes from to include Federal contractors and vendors and other SSA systems such as the Claims Folders System (60-0089) and the Master Beneficiary Record (60-0090).\n\nOther changes: SSA clarifies the system location and system manager, rewrites routine uses 6, 7, 10, 12, 17, 25 and 45 for readability, deletes routine use 2 as duplicative, and fixes formatting and typos. SSA says it republished the whole notice for ease of reference. The rest of the notice is applicable on publication.\n\nWhat you can do: send comments by December 3, 2026 through regulations.gov (docket SSA-2026-0760) or by mail to SSA's Head of Privacy and Disclosure Policy.\n\nWhy it matters: this is not a new database. It is an expanded list of who SSA may share the SSN file with, published days after SSA announced a separate Client Data System that combines 12 record systems into one profile per SSN.",
+  "who": "Anyone who has applied for or been issued a Social Security number.",
+  "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22356/privacy-act-of-1974-system-of-records",
+  "seo_title": "SSA SSN master file (60-0058): new Treasury Do Not Pay routine use, comments due Dec 3, 2026",
+  "seo_desc": "Social Security's SSN master file (SORN 60-0058, Nov 3, 2026) adds a routine use sharing records with Treasury's Do Not Pay system and new record sources. What changed and how to comment by Dec 3.",
+  "faq": [
+   [
+    "What changed in SSA's SSN master file?",
+    "SSA's Nov 3, 2026 Federal Register notice (FR Doc. 2026-22356) adds a routine use letting it disclose records to the Treasury Department to review payment and award eligibility through the Do Not Pay Working System, and adds Federal contractors, vendors and other SSA systems as sources of the data."
+   ],
+   [
+    "When does it take effect?",
+    "The notice applies on publication, except the new routine use, which takes effect December 3, 2026, the same day comments are due."
+   ],
+   [
+    "How do I comment?",
+    "Use regulations.gov and reference docket SSA-2026-0760, or write to SSA's Head of Privacy and Disclosure Policy, Room G-401 West High Rise, 6401 Security Boulevard, Baltimore, MD 21235-6401."
+   ]
+  ],
+  "sources": [
+   [
+    "Federal Register: SSA Privacy Act of 1974; System of Records (FR Doc. 2026-22356, Nov 3, 2026)",
+    "https://www.federalregister.gov/documents/2026/11/03/2026-22356/privacy-act-of-1974-system-of-records"
+   ]
+  ],
+  "modified": "2026-11-03"
+ }
+]
