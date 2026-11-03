@@ -1,0 +1,5 @@
+Stripe's privacy policy changes on Nov 20.
+
+Today it says: "Stripe honors the Global Privacy Control (GPC) opt-out preference signals."
+
+The new version: only for "the device and associated browser that transmits the signal," and you have to send it again after clearing cookies.

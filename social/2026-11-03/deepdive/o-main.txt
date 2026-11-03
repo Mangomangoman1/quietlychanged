@@ -1,0 +1,3 @@
+Stripe's new privacy policy (effective Nov 20) says it may use "AI-powered voice agents" to call you, and train its AI on the recordings.
+
+It also lists what your card's bank gets at checkout: IP, email, phone, shipping address.
