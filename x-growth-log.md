@@ -1265,3 +1265,25 @@ Parent-quotes: Polymarket Claude Code quote 2116932062049697932 now 37 impressio
 - O1 weekly roundup: https://x.com/QuietlyChanged/status/2117292806964400275 (pinned, replacing Oct 27 2115104793509151180)
 - O1 self-reply with due-soon link: https://x.com/QuietlyChanged/status/2117292931560489350
 - Browser was on @Missum_AI; switched first.
+
+## Snapshot 2026-11-02 ~5:20 PM MT (Monday evening)
+- Followers **18** (flat since Sunday), following 12, posts 189, media 80. Pinned = Nov 2 roundup 2117292806964400275.
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|---|
+| Nov 2 10:28 AM | Weekly roundup (pinned) 2117292806964400275 | original | 8 | 0 | 0 | 1 |
+| Nov 2 10:29 AM | Roundup self-reply with due-soon link | self-reply | 2 | 0 | 0 | 0 |
+| Nov 1 9:23 AM | Claude Code games under Polymarket (parent now 1.68M) | reply | 1,228 | 0 | 0 | 1 |
+| Nov 1 9:35 AM | Quote of Polymarket post | parent-quote | 43 | 1 | 0 | 1 |
+| Nov 1 9:29 AM | Toyota original + self-reply | original | 15 + 11 | 0 | 1 | 1 |
+| Oct 31 9:23 AM | Prime $15 correction under jaxoncoder | reply | 101,373 | 128 | 152 | 7 |
+
+### What we learned
+- The roundup got 8 impressions in 7 hours (pinned posts only show to profile visitors, and at 18 followers there are few). Originals are still 8-15 each; only replies under 100K+ parents move. The Polymarket parent went from 129K to 1.68M, yet our reply (landed ~65 min in, ~100+ replies ahead) stalled around 1.2K.
+- Followers only moved on the Prime breakout (10 to 18 over Oct 31-Nov 1). Nothing since.
+- Evening scan (priority accounts + search_news + trends): nothing in lane passes. Pirat_Nation Spotify AI-remix post is 8.9K after 80 min and flat (~30 replies, +27 impressions in 4 min), under the bar. Dexerto's earlier Spotify post was 26K at 52 min this morning. 9to5mac Ternus/iPhone Duo (65K) and Dexerto/charlieINTEL posts are out of lane (no sourced price/terms data). OpenAI ChatGPT/Codex shared-pool story is 1+ day old (largest copy 78K, no replies, nothing from priority accounts). Raspberry Pi 16GB $385 hike: biggest post is 868 impressions, not tracked by us.
+- Election eve (Nov 3) will crowd feeds; expect political/market posts to dominate priority accounts tomorrow too.
+
+### Decision
+- No reply, no parent-quote, no original this session. Original slot used by the roundup; Calm deep-dive post (social/2026-11-02/deepdive/post.txt) stays held unless Samuel OKs a second original.
+- Tomorrow AM watch list: Spotify AI-remix (if a big account carries it, receipt = our price history: Individual $9.99 from 2011 to Jul 2023, now $12.99 after 3 raises, so +$4-5 add-on would be ~$17-18), OpenAI Dec shared-pool, Oura Nov 4 terms lock (our own find; check for trending posts).
