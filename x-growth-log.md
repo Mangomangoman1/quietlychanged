@@ -1308,3 +1308,28 @@ Parent-quotes: Polymarket Claude Code quote 2116932062049697932 now 37 impressio
 
 ### Drafted (social/2026-11-03/am/xgrowth-am-drafts.md)
 - O1 "Times each service raised its price since 2022" chart original + self-reply link (today's one original). No replies, no quotes. 12:41 PM deep-dive post stays held.
+
+## Snapshot 2026-11-03 ~5:20 PM MT (Tuesday evening, Election Day)
+Account (X API, ~5:20 PM MT): **18 followers** (flat since Oct 31 evening), 12 following, 195 posts, 83 media. Pinned: Nov 2 roundup.
+
+Today's originals: the AM chart original WAS published (9:23 AM MT, "raises since 2022" ranked bar chart: 13 impressions, 0 likes, 1 reply; self-reply 6). A second original also went out: the Stripe privacy deep-dive (1:26 PM MT): 8 impressions, 1 reply; self-reply 6. (The log hadn't recorded the Stripe post as published; flag to Samuel that today had two originals.) Calm original (Nov 2): 6, self-reply 5. Pinned roundup: 25. Toyota original (Nov 1): 17.
+
+| Post | Type | Impressions | Notes |
+|---|---|---|---|
+| Prime $15 correction reply (2116551726505644303) | reply | 101,504 | 128 likes, 151 bookmarks, 6 reposts, 7 replies; follow-ups under that thread 4,778 / 3,933 / 1,904 / 307 / 229 |
+| Polymarket "not a ban" reply (2116929118155727044) | reply | 1,238 | image card, ~65 min after a 129K parent, 100+ replies ahead |
+| France-amendment reply | reply | 591 | |
+| Polymarket quote (2116932062049697932) | parent-quote | 50 | 1 like; ~4% of its reply |
+| Own-Prime quote (2116673681913155771) | self-quote | 28 | |
+
+Parent-quotes tracked separately: 50 and 28. Replies get 20-2,000x what quotes and originals get; quotes stay rare.
+
+Reach per bar tier (all logged replies):
+- 50K+ parent, landed within 45 min: Pirat_Nation Steam ~1.3-1.7K (33 min), Kalshi 873 (~50 min); best in tier.
+- 50K+ parent, landed 45-90 min with image: Polymarket 1,238 (65 min, 100+ ahead).
+- 50K+ parent, landed hours late but parent still going viral (1M+): Prime 101.5K (exception: calm correction + 125 replies ahead but parent was exploding).
+- 20-50K parent: one sample, Dexerto under a 40K parent = 215. No clean data under the looser bar yet. Tonight's PS5 reply (252K parent, ~85-90 min, 175 replies ahead, image-led) is the first test of the 90-minute allowance.
+
+Lessons: Originals still do 6-25 impressions, including the chart test (13, under the ~50 threshold set in the AM entry), so stop standalone chart originals and use charts inside replies. Followers haven't moved since the Prime reply bump; only replies under 100K+ parents move reach.
+
+Targets tonight: R1 Dexerto PS5 trade-in (2117753904444150018): 252K at ~84 min, 175 replies ahead; reply adds Back Market's terms (first offer non-binding, second offer, 14-day silence = acceptance). R2 Dexerto Amazon $25 Thanksgiving meal (2117741725540077672): 40K at 130 min, flat; conditional only. Skipped: Reddit search ads (11.9K), Xbox X-BITE (over 90 min), Google/schools (stale, accurate). No original (slot used twice), no quote. Drafts: social/2026-11-03/pm/xgrowth-pm-drafts.md.
