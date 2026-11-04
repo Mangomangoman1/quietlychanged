@@ -1333,3 +1333,8 @@ Reach per bar tier (all logged replies):
 Lessons: Originals still do 6-25 impressions, including the chart test (13, under the ~50 threshold set in the AM entry), so stop standalone chart originals and use charts inside replies. Followers haven't moved since the Prime reply bump; only replies under 100K+ parents move reach.
 
 Targets tonight: R1 Dexerto PS5 trade-in (2117753904444150018): 252K at ~84 min, 175 replies ahead; reply adds Back Market's terms (first offer non-binding, second offer, 14-day silence = acceptance). R2 Dexerto Amazon $25 Thanksgiving meal (2117741725540077672): 40K at 130 min, flat; conditional only. Skipped: Reddit search ads (11.9K), Xbox X-BITE (over 90 min), Google/schools (stale, accurate). No original (slot used twice), no quote. Drafts: social/2026-11-03/pm/xgrowth-pm-drafts.md.
+
+## Published 2026-11-03 evening
+- R1 reply under Dexerto PS5 trade-in (parent 265K at post, ~86 min, 175+ replies; first test of looser 90-min-with-image bar): https://x.com/QuietlyChanged/status/2117775320933970066
+- R2 Amazon $25 meal skipped (41.2K at 5:31 PM, flat).
+- Stripe second original at 1:26 PM was approved by Samuel at 1:24 PM MT.
