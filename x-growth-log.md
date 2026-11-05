@@ -1338,3 +1338,36 @@ Targets tonight: R1 Dexerto PS5 trade-in (2117753904444150018): 252K at ~84 min,
 - R1 reply under Dexerto PS5 trade-in (parent 265K at post, ~86 min, 175+ replies; first test of looser 90-min-with-image bar): https://x.com/QuietlyChanged/status/2117775320933970066
 - R2 Amazon $25 meal skipped (41.2K at 5:31 PM, flat).
 - Stripe second original at 1:26 PM was approved by Samuel at 1:24 PM MT.
+
+## Snapshot 2026-11-04 ~5:25 PM MT (Wednesday evening; morning session failed, so this covers all of Nov 4)
+Account (X API, 5:21 PM MT): **19 followers** (+1 vs 18 flat since Oct 31; first move since the Prime breakout), 12 following, 196 posts, 84 media. Pinned = Nov 2 roundup 2117292806964400275. **No posts went out on Nov 4 so far** (no original, no reply), so today's original slot is free.
+
+| Post | Type | Impressions | Likes | BM | Reposts | Replies |
+|---|---|---|---|---|---|---|
+| Nov 3 5:25 PM PS5 trade-in reply under Dexerto (2117775320933970066), parent 265K at post, now 2.50M, ~86 min, 175 replies ahead, logo + terms card | reply | **3,944** | 7 | 1 | 2 | 1 |
+| Prime $15 correction under jaxoncoder (2116551726505644303) | reply | 101,593 | 128 | 151 | 6 | 7 |
+| Nov 1 Polymarket "not a ban" reply | reply | 1,241 | 0 | 0 | 0 | 1 |
+| Nov 3 9:23 AM raises-since-2022 chart original | original | 20 (+6 self-reply) | 0 | 0 | 0 | 1 |
+| Nov 3 1:26 PM Stripe deep-dive original | original | 9 (+7 self-reply) | 0 | 0 | 0 | 1 |
+| Nov 2 6:26 PM Calm original | original | 6 (+5) | 0 | 0 | 0 | 1 |
+| Nov 2 10:28 AM weekly roundup (pinned) | original | 30 (+5) | 0 | 0 | 0 | 1 |
+| Nov 1 Toyota original | original | 17 (+12) | 0 | 1 | 0 | 1 |
+
+Parent-quotes (separate): Polymarket quote 53 imp / 1 like (4% of the reply under the same parent); own-Prime quote 28. No parent-quote since Nov 1.
+
+Reach per bar tier (replies, updated):
+- 50K+ parent, within 45 min: Pirat_Nation Steam ~1.3-1.7K (33 min), Kalshi 873 (~50 min).
+- 50K+ parent, 45-90 min with image: Polymarket 1,241 (65 min, 100+ ahead); **PS5 trade-in 3,944 (~86 min, 175 ahead, parent went on to 2.5M)**. The looser 90-min image allowance worked: best result outside the Prime breakout, 7 likes, 2 reposts, plausibly the +1 follower.
+- Parent still going viral hours later (1M+): Prime 101.6K.
+- 20-50K parent: Dexerto 40K parent = 215 (one sample).
+
+### What we learned
+- Parent size matters more than reply timing within the 90-min window: PS5 (2.5M parent) 3.9K vs Polymarket (1.7M parent, 65 min) 1.2K. Calm "what the terms say + how to act" with a logo-first pair did better than the "this isn't a ban" correction.
+- Originals are still 6-30 impressions (no new data); chart originals stay stopped.
+- Evening scan (all 8 priority accounts since 11 AM MT + search_news + trends + topic searches): one in-lane post clears the bar. charlieINTEL GTA VI pre-order list (120.5K at 89 min, 37 replies, +500/min). Fresh angle from PlayStation's own pages: the "free" GTA+ month is a subscription that continues at the regular price (PS Store $7.99) until canceled. Everything else is stale (Pirat_Nation Sony dynamic pricing 52K at 4h/114 replies; OpenAI shared pool 40K at 3.5h) or out of lane.
+- Adjustment: weekday evening (around 5 PM MT) is a fine reply window when a priority account posts a pre-order/price/subscription story with a PlayStation/Xbox/Steam store page behind it: the store's own legal text is the receipt. Keep checking charlieINTEL and Pirat_Nation for store/pre-order/subscription posts (GTA VI launch Nov 19 will keep generating them).
+
+### Drafted (social/2026-11-04/pm/xgrowth-pm-drafts.md)
+- R1 reply under charlieINTEL GTA VI pre-order post (Rockstar logo + GTA+ terms card), time-critical.
+- O1 Oura deadline-day original (Oura logo + opt-out comparison card), today's one original; self-reply with article link.
+- No parent-quote. Nothing needs Samuel's OK.
