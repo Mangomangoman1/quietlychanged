@@ -211,21 +211,6 @@
       "statusCode": 301
     },
     {
-      "source": "/services/paypal",
-      "destination": "/services.html#paypal",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/paypal/",
-      "destination": "/services.html#paypal",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/paypal/index.html",
-      "destination": "/services.html#paypal",
-      "statusCode": 301
-    },
-    {
       "source": "/services/reddit",
       "destination": "/services.html#reddit",
       "statusCode": 301

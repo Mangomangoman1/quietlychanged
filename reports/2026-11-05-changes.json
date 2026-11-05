@@ -1,0 +1,66 @@
+[
+ {
+  "service": "Hulu",
+  "page": "terms",
+  "headline": "Hulu and Disney+ terms: \"add-ons\" wording dropped, device type added as a reason content can vary, ESPN dispute-notice address changed",
+  "tldr": "Disney+/ESPN/Hulu terms now list your device type as a reason content may differ, drop \"add-ons\" wording, and move ESPN's dispute-notice address.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "redline": [
+   {
+    "before": "The Content that we make available via any Service Tier is not guaranteed and may be limited and vary over time, including (i) based on rights availability, (ii) based on the terms of your subscription or Service Tier, (iii) based on your location, or (iv) by law.",
+    "after": "The Content that we make available via any Service is not guaranteed and may be limited and vary over time, including (i) based on rights availability, (ii) based on the terms of your subscription or Service Tier, (iii) based on your location, (iv) based on your device type, or (v) by law.",
+    "label": "Subscriber Agreement · Content Availability",
+    "note": "Your device type is now a listed reason the content you get can differ.",
+    "src": "raw"
+   },
+   {
+    "before": "Different Service Tiers or other offerings, such as a Bundle (as defined below) or add-ons, may be subject to differences in pricing, usage rules, eligibility, restrictions, features, and device availability.",
+    "after": "Different Service Tiers or other offerings, such as a Bundle (as defined below), may be subject to differences in pricing, usage rules, eligibility, restrictions, features, and device availability.",
+    "label": "Subscriber Agreement · Service Tier and Other Offerings",
+    "note": "The reference to add-ons is gone here and in the proration sentence.",
+    "src": "raw"
+   },
+   {
+    "before": "ESPN+\nAttention: Legal\n50 Vandam Street, 9W\nNew York, NY 10013, USA",
+    "after": "ESPN\nAttention: Legal\nESPN Plaza\nBristol, CT 06010-7454, USA",
+    "label": "Subscriber Agreement · Dispute notice addresses",
+    "note": "If you ever send ESPN a written dispute notice, it now goes to Bristol, not New York.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you plan to send a written dispute notice to ESPN, use the new address: ESPN, Attention: Legal, ESPN Plaza, Bristol, CT 06010-7454, USA.",
+   "Nothing else to do: prices, cancellation and arbitration sections were not touched."
+  ],
+  "what": "Disney, ESPN and Hulu updated the shared Subscriber Agreement at hulu.com/terms. We compared today's page with our November 3 snapshot (the Nov 4 check did not run, so the changes happened sometime between those two dates). Most edits are small. Three are worth knowing about.\n\nChange 1: content can vary by device. The Content Availability section now lists \"based on your device type\" among the reasons the content you get may differ, and it says content is not guaranteed \"via any Service\" instead of \"via any Service Tier\". It also drops \"live\" from the sentence about sporting events being unavailable, so the blackout language now reads \"Certain Content, including sporting events\".\n\nChange 2: \"add-ons\" is gone. The words \"or add-ons\" were removed from the Service Tier paragraph and from the sentence about prorating charges when you change tier. The Bundles, billing, auto-renewal, price-change and cancellation text is otherwise the same. The \"ad-free\" section now says \"different Service Tiers\" rather than \"different Disney+ and Hulu Service Tiers\".\n\nChange 3: ESPN's legal notice address. In the dispute-resolution notice addresses, the ESPN entry changed from \"ESPN+, 50 Vandam Street, 9W, New York, NY 10013\" to \"ESPN, ESPN Plaza, Bristol, CT 06010-7454\".\n\nOther changes: capitalization (\"Household\"), a stray-space fix in the Bundle definition, and link-formatting changes in the gift card section.\n\nWhat stays the same: the price-change notice by email, the cancellation and refund policy, and the arbitration and class-action waiver sections were not edited in this update.",
+  "who": "Subscribers to Disney+, ESPN and Hulu (including bundles), and anyone who needs to send ESPN a written dispute notice.",
+  "url": "https://www.hulu.com/terms"
+ },
+ {
+  "service": "PayPal",
+  "page": "terms",
+  "headline": "PayPal's \"false information\" rule now spells out what counts: identity, account or business, goods, transaction details",
+  "tldr": "PayPal's ban on \"false, inaccurate or misleading information\" now names identity, account or business, goods or services, and transaction details.",
+  "impact": 1,
+  "themes": [],
+  "redline": [
+   {
+    "before": "Provide false, inaccurate or misleading information;",
+    "after": "Provide false, inaccurate or misleading information regarding your identity, account or business, goods or services offered or purchased, transaction details, or other information related to your use of our services;",
+    "label": "User Agreement · Restricted Activities",
+    "note": "A one-line ban becomes a list, still ending in a catch-all about anything tied to using PayPal.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you run a PayPal business account, check that your business details, item descriptions and tracking info are accurate and kept current.",
+   "Read the Restricted Activities section if you use PayPal for selling: it is the list PayPal points to when it limits an account."
+  ],
+  "what": "PayPal edited one line in the Restricted Activities part of its User Agreement (paypal.com/us/legalhub/paypal/useragreement-full). The list of things you \"must not\" do used to include \"Provide false, inaccurate or misleading information;\". It now reads \"Provide false, inaccurate or misleading information regarding your identity, account or business, goods or services offered or purchased, transaction details, or other information related to your use of our services;\".\n\nWhat it means: the rule is more specific, and it names sellers' goods and services and transaction details directly, but the closing phrase \"other information related to your use of our services\" keeps it broad. Restricted Activities is the section PayPal cites when it limits an account, holds funds or takes other actions, so the wording matters to sellers in particular.\n\nWe compared today's page with our November 3 snapshot (the Nov 4 check did not run). The rest of the Restricted Activities list was unchanged in this update.",
+  "who": "Anyone with a PayPal account, especially sellers and business accounts that describe goods or share transaction details.",
+  "url": "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+ }
+]

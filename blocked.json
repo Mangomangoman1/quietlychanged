@@ -436,5 +436,19 @@
    "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
    "HTTP 403 continues; no working replacement known; kept"
   ]
+ ],
+ "flaky_2026-11-05": [
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+   "SSLError (SSLEOFError) for a 5th check day (Oct 30-Nov 5, no Nov 4 run); curl also fails; no same-site replacement; kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 on first tries, 200 on later retries; snapshot saved by hand after the tracker run; last snapshot before it was Oct 30 so today's diff spans the Nov 1 go-live of the rewritten terms; keep"
+  ]
  ]
 }
