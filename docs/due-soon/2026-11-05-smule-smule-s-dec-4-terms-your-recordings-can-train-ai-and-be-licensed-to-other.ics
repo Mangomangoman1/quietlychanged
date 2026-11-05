@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Smule · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-05-smule-smule-s-dec-4-terms-your-recordings-can-train-ai-and-
+ be-licensed-to-other@quietlychanged.com
+DTSTAMP:20261105T195350Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Smule: Takes effect
+DESCRIPTION:From Dec 4\, Smule may train AI on your recordings and license
+  de-identified copies to other companies to build AI\, old songs included
+ . The opt-out only opens Dec 4.\n\nhttps://quietlychanged.com/changes/202
+ 6-11-05-smule-smule-s-dec-4-terms-your-recordings-can-train-ai-and-be-lic
+ ensed-to-other/
+URL:https://quietlychanged.com/changes/2026-11-05-smule-smule-s-dec-4-term
+ s-your-recordings-can-train-ai-and-be-licensed-to-other/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Smule — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

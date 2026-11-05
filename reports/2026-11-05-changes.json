@@ -62,5 +62,110 @@
   "what": "PayPal edited one line in the Restricted Activities part of its User Agreement (paypal.com/us/legalhub/paypal/useragreement-full). The list of things you \"must not\" do used to include \"Provide false, inaccurate or misleading information;\". It now reads \"Provide false, inaccurate or misleading information regarding your identity, account or business, goods or services offered or purchased, transaction details, or other information related to your use of our services;\".\n\nWhat it means: the rule is more specific, and it names sellers' goods and services and transaction details directly, but the closing phrase \"other information related to your use of our services\" keeps it broad. Restricted Activities is the section PayPal cites when it limits an account, holds funds or takes other actions, so the wording matters to sellers in particular.\n\nWe compared today's page with our November 3 snapshot (the Nov 4 check did not run). The rest of the Restricted Activities list was unchanged in this update.",
   "who": "Anyone with a PayPal account, especially sellers and business accounts that describe goods or share transaction details.",
   "url": "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+ },
+ {
+  "service": "Smule",
+  "page": "terms",
+  "headline": "Smule's Dec 4 terms: your recordings can train AI and be licensed to other companies, and under-18s are out",
+  "tldr": "From Dec 4, Smule may train AI on your recordings and license de-identified copies to other companies to build AI, old songs included. The opt-out only opens Dec 4.",
+  "impact": 3,
+  "effective": "2026-12-04",
+  "deadline": "Takes effect",
+  "themes": [
+   "ai-and-your-data",
+   "accept-or-else"
+  ],
+  "actions": [
+   "On or after Dec 4, open Settings > Privacy > AI & Data in the Smule app or on smule.com and switch off AI training, licensing to partners, or both.",
+   "If you can't get into your account, use Smule's online support form and pick \"Opt out of AI training or licensing\".",
+   "If you don't want any of this, delete your account before Dec 4 (Settings > Support > Delete Account).",
+   "If you're under 18, or a parent of a teen on Smule, save any recordings you want to keep before Dec 4.",
+   "To keep the right to go to court, mail Smule an arbitration opt-out within 30 days (address in Section 21 of the new terms)."
+  ],
+  "redline": [
+   {
+    "before": "In limited situations, we share de-identified content and information with researchers for educational research purposes.",
+    "after": "We may share or license De-Identified Data with or to Recording Licensees, including to develop, train, test, improve, and commercialize artificial intelligence and machine learning algorithms, models and features.",
+    "label": "Privacy Policy · Sharing of de-identified data",
+    "note": "Research-only sharing becomes licensing to companies that can build and sell AI.",
+    "src": "quoted"
+   },
+   {
+    "before": "TO USE THE SERVICE, YOU MUST BE AT LEAST 13 YEARS OF AGE",
+    "after": "TO USE THE SERVICE, YOU MUST BE AT LEAST 18 YEARS OF AGE",
+    "label": "Terms of Service · Minimum age (US)",
+    "note": "Teen accounts may be suspended or closed.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "Your opt-out applies to all of your User Content, including User Content you posted before opting out, but applies only to De-Identified Data we make available after we process your opt-out. It does not affect De-Identified Data provided to Recording Licensees before then, consistent with applicable law.",
+    "label": "Privacy Policy · Opting out of licensing",
+    "note": "New. An opt-out can't pull back recordings that were already handed over.",
+    "src": "quoted"
+   }
+  ],
+  "what": "Smule, the karaoke and social singing app, has posted a new Terms of Service and Privacy Policy that take effect December 4, 2026. They replace terms last updated September 28, 2023 and a privacy policy updated April 10, 2025. Smule announced the update in a November 4 blog post. We compared the new documents with the current ones.\n\nChange 1: Your recordings can train Smule's AI. The new terms add, inside the license you already give Smule over what you post: \"We may use and retain Personal Information and User Content to develop, train, test, and improve the artificial intelligence and machine learning models and features that power our own Services, and we may license or otherwise make available De-Identified Data to Recording Licensees, including to develop, train, test, improve, and commercialize artificial intelligence and machine learning algorithms, models and features.\" The privacy policy gives examples of Smule's own uses: \"such as providing recommendations and pitch and range feedback in Coach.\" Smule's blog says: \"Content used for Smule’s own AI training stays linked to your account, and access to it is limited.\" The current privacy policy and terms don't mention AI or machine learning at all.\n\nChange 2: De-identified recordings can be licensed to other companies to build AI. The current privacy policy says only: \"In limited situations, we share de-identified content and information with researchers for educational research purposes.\" The new one says: \"We may share or license De-Identified Data with or to Recording Licensees, including to develop, train, test, improve, and commercialize artificial intelligence and machine learning algorithms, models and features.\" Smule's blog lists example uses: separating vocals from instrumentals, coaching and performance feedback, cleaning up audio, pitch correction and music discovery, and says \"These are examples, not a complete list.\" Smule says it seeks contractual commitments requiring licensees \"not to attempt to re-identify you, not to use the recordings to create a voiceprint or faceprint or to otherwise identify any individual.\" The blog says that before content is licensed, Smule removes \"personal details such as your username, email address, and device ID.\" The policy doesn't name any licensees.\n\nChange 3: It covers recordings you already shared, and the opt-out can't undo anything. The blog answers \"Does this apply to recordings I’ve already shared?\" with \"Yes.\" For licensing, the new policy says: \"Your opt-out applies to all of your User Content, including User Content you posted before opting out, but applies only to De-Identified Data we make available after we process your opt-out. It does not affect De-Identified Data provided to Recording Licensees before then, consistent with applicable law.\" For Smule's own AI training, \"your opt out applies to go-forward processing only and may not undo or otherwise affect processing completed prior to our receipt of your opt out.\"\n\nChange 4: The opt-out switch only opens on December 4. Smule's summary of changes says: \"Beginning on December 4, 2026, you may opt out of Smule’s AI training, our licensing of de-identified data to third parties, or both, in the Smule app or on smule.com under Settings > Privacy > AI & Data, or through our online support form.\" That's the same day the new terms take effect. Before then, the only alternative Smule offers is to leave: \"If you do not agree to the updated Terms, you may delete your account in the Smule app (Settings > Support > Delete Account) or through our online support form prior to December 4, 2026.\" The two opt-outs are separate, and the policy says they apply \"to all users regardless of location.\"\n\nChange 5: Under-18s are out. The current terms say \"TO USE THE SERVICE, YOU MUST BE AT LEAST 13 YEARS OF AGE\" in the US (16 in most of the EEA, 18 in several countries). The new terms say \"TO USE THE SERVICE, YOU MUST BE AT LEAST 18 YEARS OF AGE.\" The new privacy policy adds: \"If we become aware that a minor under the Minimum Age has an account, we take steps to suspend or terminate the minor’s account.\" It doesn't say whether teens get a chance to download their recordings first.\n\nChange 6: Arbitration opt-out moves to mail only, and the right to reject future arbitration changes is gone. The current terms let you opt out of arbitration \"no later than thirty (30) days after first registering to use the Service,\" by mail or through an online link. The new terms require written notice \"postmarked within thirty (30) days of first accepting these Terms\" to a Salt Lake City address. They don't say whether existing users get a fresh 30 days when the new terms start. The current terms also say that if Smule changes the arbitration clause later, \"you may reject the change by sending Smule written notice within thirty (30) days of the change.\" That sentence isn't in the new terms. The new version says Smule \"will pay all arbitration fees for claims less than seventy-five thousand ($75,000) dollars.\"\n\nWhat did not change. Smule says: \"We do not use your User Content to create a voiceprint to identify you.\" The license you grant Smule over your posted content was already perpetual and sublicensable, and the current terms already call it irrevocable to the extent the law allows. The new privacy policy also notes that because voice and video recordings can count as biometric data under some state laws, \"certain content you provide may constitute Sensitive Personal Data under certain U.S. State Privacy Laws.\"\n\nWhat you can do: On or after December 4, go to Settings > Privacy > AI & Data and turn off AI training, licensing, or both. If you'd rather your recordings never reach either use, the only option before December 4 is deleting your account, and deleting doesn't undo uses that already happened. Teens, and parents of teens, should save any recordings they want before December 4.\n\nCoverage (checked Nov 5, 2026): We found no news coverage. The only mentions we found were Smule's own blog post and a repost of it on a Smule fan forum.",
+  "who": "Anyone with a Smule account, especially people who have shared recordings, plus users aged 13 to 17 who will no longer be allowed on the app.",
+  "url": "https://www.smule.com/en/summary_of_changes/updated",
+  "seo_title": "Smule terms and privacy update (Dec 4, 2026): AI training, licensing recordings, 18+ age limit",
+  "seo_desc": "From December 4, 2026, Smule may use your recordings to train AI and license de-identified recordings to other companies to build AI, including songs you already shared. How to opt out, and what changes for teens.",
+  "faq": [
+   [
+    "What is changing in Smule's terms on December 4, 2026?",
+    "Smule's new Terms of Service and Privacy Policy take effect December 4, 2026. They let Smule use your recordings and other content to train its own AI, let it license de-identified data to outside companies (\"Recording Licensees\") to develop and commercialize AI, raise the minimum age to 18, and change the arbitration opt-out."
+   ],
+   [
+    "Will Smule use my singing to train AI?",
+    "Yes, unless you opt out. The new terms say Smule may use \"User Content to develop, train, test, and improve the artificial intelligence and machine learning models and features that power our own Services.\" Its examples include recommendations and pitch and range feedback in Coach. Smule's blog says this covers recordings you've already shared."
+   ],
+   [
+    "Will Smule sell or license my recordings to other companies?",
+    "The new privacy policy says Smule may \"share or license De-Identified Data with or to Recording Licensees, including to develop, train, test, improve, and commercialize artificial intelligence and machine learning algorithms, models and features.\" Smule says it removes details like your username, email address and device ID first, and that licensees must agree not to re-identify you or make a voiceprint. The current policy only mentions sharing de-identified data with researchers for educational research."
+   ],
+   [
+    "How do I opt out of Smule AI training?",
+    "Starting December 4, 2026, go to Settings > Privacy > AI & Data in the Smule app or on smule.com. There are two separate switches, one for Smule's own AI training and one for licensing to partners. If you can't get into your account, use Smule's online support form and pick \"Opt out of AI training or licensing\". Opting out doesn't undo training or licensing that already happened."
+   ],
+   [
+    "Can I opt out before December 4?",
+    "No. Smule says the opt-out is available \"Beginning on December 4, 2026.\" Before then, the only choice it offers if you don't agree is to delete your account (Settings > Support > Delete Account)."
+   ],
+   [
+    "Can teenagers still use Smule?",
+    "No. From December 4, 2026, you must be at least 18. Until now the US minimum was 13. The new privacy policy says that if Smule learns a minor has an account, it takes \"steps to suspend or terminate the minor’s account.\""
+   ],
+   [
+    "Does Smule make a voiceprint of me?",
+    "Smule says, \"We do not use your User Content to create a voiceprint to identify you,\" and that licensees must agree not to use the recordings to create a voiceprint or faceprint."
+   ]
+  ],
+  "sources": [
+   [
+    "Smule: Summary of changes (effective December 4, 2026)",
+    "https://www.smule.com/en/summary_of_changes/updated"
+   ],
+   [
+    "Smule Terms of Service (effective December 4, 2026)",
+    "https://www.smule.com/en/termsofservice/updated"
+   ],
+   [
+    "Smule Privacy Policy (effective December 4, 2026)",
+    "https://www.smule.com/en/privacy/updated"
+   ],
+   [
+    "Smule Terms of Service (in force; last updated September 28, 2023)",
+    "https://www.smule.com/en/termsofservice"
+   ],
+   [
+    "Smule Privacy Policy (in force; updated April 10, 2025)",
+    "https://www.smule.com/en/privacy"
+   ],
+   [
+    "Smule blog: Updates to Smule's Terms of Service and Privacy Policy (Nov 4, 2026)",
+    "https://blog.smule.com/updated-terms-of-service/"
+   ]
+  ],
+  "modified": "2026-11-05"
  }
 ]

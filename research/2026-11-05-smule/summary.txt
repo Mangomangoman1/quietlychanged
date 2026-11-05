@@ -1,0 +1,25 @@
+
+Updated Summary of Changes | Smule Social singing karaoke app
+Explore Songbook Upload
+Get VIP Login
+SMULE SUMMARY OF CHANGES
+PUBLISHED: November 4, 2026
+EFFECTIVE: December 4, 2026
+As we continue to develop and grow our products and services offerings, we have updated our Terms of Service and Privacy Policy (collectively, “Terms”) that govern our mobile software applications and any related websites or other online properties owned or controlled by Smule (the “Services”).
+The updated Terms take effect on December 4, 2026. If you do not agree to the updated Terms, you may delete your account in the Smule app (Settings > Support > Delete Account) or through our online support form prior to December 4, 2026. Beginning on December 4, 2026, you may opt out of Smule’s AI training, our licensing of de-identified data to third parties, or both, in the Smule app or on smule.com under Settings > Privacy > AI & Data, or through our online support form . We encourage you to review the updated Terms in their entirety yourself. Here are some of the highlights of the changes:
+Updates to the Terms of Service:
+We updated our minimum age requirement to 18 years of age;
+We clarified that Smule may use and retain data and content to develop, train and improve the AI and machine learning models and features that power our services, and may license de-identified data to third parties, including to develop and commercialize AI and machine learning algorithms, models and features (as further described in our Privacy Policy);
+We expanded the restrictions on how you may use the Services, including prohibitions on scraping, copying significant portions of the Services, and reverse engineering; and
+We updated our arbitration agreement and class action waiver, including the procedures for informal dispute resolution and arbitration, the allocation of arbitration costs, and the process for opting out of arbitration.
+Updates to the Privacy Policy:
+We provided more detail about disclosures of personal information, including disclosures to advertising partners, and about our licensing of de-identified data to third parties;
+We addressed new legal requirements, including the rights available to residents of additional U.S. states and how to exercise them;
+We added more detail regarding the information we collect and why, how we use it and how we may share it (including with respect to payment data and the photos, videos, and recordings that you create), and explained that we do not use your recordings to create a voiceprint to identify you;
+We explained that we use personal information and User Content to develop, train, test, and improve the artificial intelligence and machine learning models and features that power our own Services, such as recommendations and pitch and range feedback in Coach;
+We specified our ability to create aggregated, de-identified or anonymized data from the personal information and User Content we collect;
+We added separate opt-out choices for (1) Smule’s AI training using your personal information and User Content and (2) our licensing of de-identified data to third parties. You may opt out of either or both. Each choice applies to future covered uses, including uses of recordings you shared before opting out; it does not undo training or licensing that already occurred. These choices do not limit your rights under applicable law; and
+We updated our children’s privacy terms to reflect the new minimum age of 18 and explained how we handle accounts of users under the minimum age.
+© 2026 Smule, Inc. All Rights Reserved.
+Terms · Privacy · Cookies · Copyright · Acknowledgments · Patents
+We use cookies for marketing and to give you the best experience. By navigating the site, you consent to our use of cookies. For details and controls, see our Cookie Policy .

@@ -1,0 +1,109 @@
+
+Updates to Smule’s Terms of Service and Privacy Policy | Smule
+Community
+Product
+Company
+Ambassadors
+SMULE.COM
+Community
+Product
+Company
+Ambassadors
+SMULE.COM
+Community
+Product
+Company
+Ambassadors
+SMULE.COM
+Smule
+Home Community Updates to Smule’s Terms of Service and Privacy Policy
+November 4, 2026
+Community , Home , Music , SmuleEvents
+Updates to Smule’s Terms of Service and Privacy Policy
+We’re updating our Terms of Service and Privacy Policy, effective December 4, 2026. Key changes include raising the minimum age to use Smule to 18 and explaining how Smule may use content to develop and train AI and machine-learning models and features, and may license de-identified content to business partners. Starting December 4, you can opt out of Smule’s AI training, licensing to partners, or both. By continuing to use Smule on or after December 4, 2026, you agree to our updated Terms of Service and Privacy Policy . If you don’t agree, you can choose to discontinue using Smule and close your account before the updated terms become effective. You can see a summary of changes and find answers to common questions below.
+How might my content be used?
+Smule may use recordings and other content to develop and train AI and other technologies, and may license content to business partners for similar purposes. Examples include technology that:
+Separates vocals from instrumentals
+Gives personalized coaching and performance feedback
+Cleans up and enhances audio, such as removing background noise
+Powers audio effects, such as pitch correction
+Improves music discovery and recommendations
+These are examples, not a complete list.
+Will my recordings be used to identify me?
+No. We don’t use your recordings to create a voiceprint to identify you, and our agreements with business partners prohibit them from doing so or from trying to re-identify you.
+What does it mean that content may be licensed to business partners?
+Smule may license content to business partners to help develop, test, and improve their technologies, products, and services, as permitted under our Terms. Specific uses may vary by partner and agreement.
+How is my privacy protected?
+Before content is licensed to business partners, we remove personal details such as your username, email address, and device ID, and our agreements prohibit partners from trying to re-identify you. Content used for Smule’s own AI training stays linked to your account, and access to it is limited.
+How do I opt out?
+There are two separate choices:
+Smule’s AI training: whether Smule can use your content to develop AI and other technologies.
+Licensing to partners: whether Smule can license your content to business partners.
+Starting December 4, go to Settings > Privacy > AI & Data, in the Smule app or on smule.com, and turn off either setting or both. If you can’t access your account, you can opt out through our web form instead by selecting “Opt out of AI training or licensing” as the request type.
+What content and data is covered by these updates?
+All recordings, content and data you share on Smule.
+Does this apply to recordings I’ve already shared?
+Yes. The updates cover recordings you’ve already shared and recordings you share in the future.
+What happens after I opt out?
+Your opt-out covers all of your recordings on Smule, including recordings you shared before you opted out. Once it takes effect, none of your content will be used for what you opted out of, whether that’s Smule’s AI training, licensing to partners, or both.
+Opting out doesn’t remove your content from AI training or licensing that already happened.
+Does opting out remove my recordings from Smule?
+No. Opting out is separate from managing who can see your recordings or deleting them. To change a recording’s visibility or delete it, see Managing your privacy and Deleting recordings .
+What if my content has already been used?
+Opting out or deleting a recording doesn’t remove your content from AI training or licensing that already happened. Content already used may continue to contribute to those technologies, products, or services.
+What happens if I delete my content or my account?
+Deleted content and accounts are removed from Smule under our standard deletion practices and are excluded from future training and partner deliveries. Deleting doesn’t undo uses that have already happened.
+Can I change my mind?
+Yes. Starting December 4, you can change either choice anytime in Settings > Privacy > AI & Data , in the Smule app or on smule.com. Your change applies from the time it takes effect.
+Where can I learn more?
+Read the summary of changes , or the full Terms of Service and Privacy Policy . If you have any questions, including about your privacy or how your content is used, contact Smule Support .
+We encourage you to review the full Terms of Service and Privacy Policy . Thank you for being part of the Smule community and sharing your love of music with us!
+By
+Smule
+Updates to Smule’s Terms of Service and Privacy Policy
+November 4, 2026
+Sing With Stars: Duet With Your Favorite Artists on Smule
+November 2, 2026
+How to Expand Your Vocal Range & Aim For Those High Notes
+October 29, 2026
+©2023 Smule, Inc. All Rights Reserved.
+Terms
+Privacy
+Cookies
+Press
+Help
+Apps
+Hamburger Toggle Menu
+"We and our partners use cookies to store and access personal data to distinguish you, identify your interests and deliver personalizing content and advertising. You may find out more about the purposes for which we and our partners use cookies in our Cookie Policy . You can revisit your consent choices or withdraw consent at any time by clicking the "Manage Cookies" button below." Do not sell my personal information .
+Manage Cookies Accept or Reject All
+Manage consent
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie Duration Description
+cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional
+Functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement
+Advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Others
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+SAVE & ACCEPT
