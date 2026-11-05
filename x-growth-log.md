@@ -1371,3 +1371,24 @@ Reach per bar tier (replies, updated):
 - R1 reply under charlieINTEL GTA VI pre-order post (Rockstar logo + GTA+ terms card), time-critical.
 - O1 Oura deadline-day original (Oura logo + opt-out comparison card), today's one original; self-reply with article link.
 - No parent-quote. Nothing needs Samuel's OK.
+
+## Snapshot 2026-11-05 ~9:25 AM MT (Thursday morning)
+Account (X API, 9:24 AM MT): **19 followers** (flat), 12 following, 198 posts. No posts yet today (original slot free).
+
+| Post | Type | Impressions | Likes | BM | Reposts | Replies |
+|---|---|---|---|---|---|---|
+| Nov 4 5:27 PM Oura deadline original (2118138124304023567) | original | 23 (+11 self-reply) | 0 | 0 | 0 | 1 |
+| Nov 3 5:25 PM PS5 trade-in reply under Dexerto (2117775320933970066), parent now 2.71M | reply | **4,177** (was 3,944) | 8 | 1 | 3 | 1 |
+| Prime $15 correction under jaxoncoder (2116551726505644303), parent now 6.18M | reply | 101,624 | 128 | 150 | 6 | 7 |
+
+Parent-quotes: none since Nov 1 (unchanged). Reach per bar tier: PS5 trade-in (2.7M parent, ~86 min, 175 ahead, image) = 4.2K, still the best 45-90 min sample; no new sample today.
+
+### What we learned
+- Oura deadline-day original: 23 impressions, in line with the 6-30 range. Originals still don't move reach.
+- Morning scan (priority accounts since 9 PM MT, keyword and topic searches, JetBlue, Wario64): none of the priority accounts has an in-lane parent past the bar except what's below. In-lane finds came from brand/announcement posts and big aggregators: @amazonnews Prime + Uber Eats (110K at 5h20m, only 17 replies, +400/min), @Wario64 Nintendo price post (150K at 2h20m, 41 replies, +200/min), @IntCyberDigest iCloud link scan (129K, 12.5h, 49 replies). The first two are the best sub-100-reply parents seen since the Prime breakout.
+- Adjustment: @Wario64 (1.7M followers) posts price/memory/console-pricing news that sails past 100K; add him to the priority scan, but only price/terms/subscription posts. Official brand accounts announcing a perk change (@amazonnews) often have very few replies even at 100K+, so a late reply can still be early in reply order. Re-test the 90-min bar there.
+
+### Drafted (social/2026-11-05/am/xgrowth-am-drafts.md)
+- R1 @amazonnews Prime + Uber Eats (logos + what the $0 fee covers/doesn't card), R2 @Wario64 Switch 2 price notice, R3 @IntCyberDigest iCloud link scope.
+- O1 Pinterest Nov 12 opt-out original (Pinterest logo + Section 11(d) quote card).
+- No parent-quote. Nothing needs Samuel's OK.

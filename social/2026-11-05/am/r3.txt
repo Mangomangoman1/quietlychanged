@@ -1,0 +1,1 @@
+Only "Anyone with the Link" shares are covered, per Apple's support page, and those lose end-to-end encryption even with Advanced Data Protection. "People you choose" and shared albums aren't affected. 27.3 is in beta, public release expected in December.
