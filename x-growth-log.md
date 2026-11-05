@@ -1356,10 +1356,10 @@ Account (X API, 5:21 PM MT): **19 followers** (+1 vs 18 flat since Oct 31; first
 Parent-quotes (separate): Polymarket quote 53 imp / 1 like (4% of the reply under the same parent); own-Prime quote 28. No parent-quote since Nov 1.
 
 Reach per bar tier (replies, updated):
-- 50K+ parent, within 45 min: Pirat_Nation Steam ~1.3-1.7K (33 min), Kalshi 873 (~50 min).
+- 50K+ parent, within ~50 min: Kalshi 873 (Oct 25, ~50 min; see earlier snapshots for the earlier samples).
 - 50K+ parent, 45-90 min with image: Polymarket 1,241 (65 min, 100+ ahead); **PS5 trade-in 3,944 (~86 min, 175 ahead, parent went on to 2.5M)**. The looser 90-min image allowance worked: best result outside the Prime breakout, 7 likes, 2 reposts, plausibly the +1 follower.
 - Parent still going viral hours later (1M+): Prime 101.6K.
-- 20-50K parent: Dexerto 40K parent = 215 (one sample).
+- 20-50K parent: no new sample this session.
 
 ### What we learned
 - Parent size matters more than reply timing within the 90-min window: PS5 (2.5M parent) 3.9K vs Polymarket (1.7M parent, 65 min) 1.2K. Calm "what the terms say + how to act" with a logo-first pair did better than the "this isn't a ban" correction.
