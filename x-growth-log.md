@@ -1422,3 +1422,41 @@ Parent-quotes: none since Nov 1. Reach per bar tier (new AM samples):
 - R1 Dexerto Prime/Uber (243.7K / 35 replies / ~2.5h), new wording vs AM amazonnews reply; logos + card reused from AM assets.
 - R2 CONDITIONAL MacRumors Logic Pro Creator Studio lock (24K / 13 replies / ~6.5h); Apple logo + one-time-vs-sub card. Skip if flat under ~22K.
 - No quote, no original. Nothing needs Samuel's OK to publish.
+
+## Snapshot 2026-11-06 ~9:25 AM MT (Friday morning)
+Account (X API, ~9:25 AM MT): **22 followers** (flat vs Nov 5 evening), 12 following, 205 posts, 91 media. Pinned = Nov 2 weekly roundup 2117292806964400275. Original slot **FREE** (Proton site-only; not used).
+
+### Recent post performance (Nov 5 AM+PM + overnight)
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Reposts | Replies |
+|---|---|---|---|---|---|---|---|
+| Nov 5 ~5:31 PM | Dexerto Prime/Uber reply (2118501414570004972), parent now **501K** | reply | **678** | 2 | 1 | 0 | 0 |
+| Nov 5 ~5:37 PM | MacRumors Logic Pro reply (2118503005075251598), parent now 34.2K | reply | **4** | 0 | 0 | 0 | 0 |
+| Nov 5 ~9:25 AM | IntCyberDigest iCloud scope (2118383267875615091), parent now 216K | reply | **3,584** | 8 | 7 | 0 | 0 |
+| Nov 5 ~9:25 AM | Wario64 Nintendo price (2118381880013943053), parent now 383K | reply | **1,935** | 5 | 0 | 0 | 1 |
+| Nov 5 ~9:25 AM | amazonnews Prime+Uber (2118380481003790668), parent now 209K | reply | **802** | 0 | 1 | 0 | 0 |
+| Nov 5 ~9:25 AM | Pinterest Nov 12 original (2118379120476467656) + self-reply | original | 18 + 13 | 1 | 0 | 0 | 1 |
+| Nov 3 5:25 PM | PS5 trade-in under Dexerto | reply | 4,229 | 8 | 1 | 3 | 1 |
+| Oct 31 | Prime $15 under jaxoncoder | reply | ~101.6K | 128 | ~150 | 6 | 7 |
+
+Parent-quotes: none since Nov 1 (Polymarket quote still ~57). Dexerto Prime parent crossed **500K** overnight — first fresh 500K+ quote candidate since the jaxoncoder Prime breakout.
+
+Reach per bar tier (updated):
+- 50K+ parent, **over 90 min**, image-led, uncrowded: IntCyberDigest ~12.5h/49 ahead → **3.6K** (grew overnight from 2.1K; 7 bookmarks). Wario64 Nintendo ~2h20m/41 → **1.9K**. amazonnews ~5h20m/17 → 802.
+- 50K+ parent, ~2.5h, image-led, fresh copy: Dexerto Prime/Uber PM → **678** (parent went on to 501K; reply landed with 35 ahead).
+- 20–50K parent, far over 90 min, flat: MacRumors Logic Pro → **4**. Confirms: don't stretch the 20K bar on old/flat parents.
+- 50K+ parent, 45–90 min image: PS5 trade-in still the best sample outside Prime (4.2K).
+
+### What we learned
+1. Followers flat at 22 after the Nov 5 AM bump (+3). Best overnight grower is IntCyberDigest (2.1K→3.6K, +7 bookmarks) — utility/"here's the actual scope" format keeps accruing.
+2. MacRumors Logic Pro (24K at draft, now 34K) returned **4 impressions** — worst reply in weeks. Stretch replies under barely-clearing, aging parents don't work; skip next time.
+3. Dexerto Prime parent hit 501K; our correction reply did 678. Good quote candidate this morning with a **different** take (cancel-anytime + Visa Dec 5), since we already covered delivery-vs-service fees.
+4. Friday morning priority feeds: Wario64 deal posts dominate; one in-lane climber is the Ranger Rumble shutdown (137K / 100 replies / ~116 min) with a clean official-FAQ angle. charlieINTEL GTA anniversary (127K / 66 replies / ~176 min) is adjacent via GTA+ but past the age bar.
+5. Chart standalone originals stay stopped. Proton (positive niche change) correctly held for site-only.
+
+### Drafted (social/2026-11-06/am/xgrowth-am-drafts.md)
+- **O1** FCC Nov 25 robotext exclusive-opt-out rule (mass-appeal; 19 days out; Federal Register re-verified).
+- **R1** Wario64 Ranger Rumble FAQ fine print (136.8K / 100 replies / ~116 min) — conditional on still climbing / replies ≤110.
+- **Q1** quote Dexerto Prime/Uber (501K) — cancel-anytime + Visa Dec 5 (different from our reply).
+- **R2** CONDITIONAL charlieINTEL GTA+ renews (127K / 66 / ~176 min) — skip if flat or replies climb.
+- Nothing needs Samuel's OK. Stay quiet unless a post takes off.

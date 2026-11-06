@@ -1,0 +1,5 @@
+New FCC rule, Nov 25: companies that robocall or text you can pick the ONLY way you're allowed to opt out.
+
+Reply "please stop texting me"? If they chose STOP, they can ignore it.
+
+And STOP on one alert type no longer stops the rest.
