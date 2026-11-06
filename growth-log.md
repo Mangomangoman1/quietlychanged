@@ -1,6 +1,23 @@
 # QuietlyChanged growth log
 Goal: 500 Google impressions/day by 2026-11-13.
 
+## 2026-11-06: distribution session (Wells Fargo Nov 24 OAA §15 AI Agents)
+
+**Best story:** Wells Fargo upcoming Online Access Agreement §15 AI Agents (effective Nov 24, ~18 days). Near deadline; AB/NatLawReview/Captain Compliance already covered liability + prove-revocation (and Captain Compliance covered non-autonomous + registration + Chase DSA); still useful underreported angles: under-18 ban (§15(h)), Delegates/§20(c)/§8(b)+§17(c) stack, May 21 blackline (zero "AI Agent"). Skipped Proton (niche/positive), FCC (X original already used AM), Smule (Billboard+DMN pitched Nov 5).
+
+**Primary re-check:** upcoming OAA still Version Effective November 24, 2026; §15 wording matches research/2026-11-06-wells-fargo/section15-full.txt; current May 21 save has 0 "AI Agent" hits.
+
+**Strengthened + shipped:** Chase Terms of Use comparison (primary), honest coverage update (Penny Crosman AB Nov 2; NatLawReview; Captain Compliance Nov 3; ACA/TokenPost), 1 FAQ, 2 sources. Rebuild IndexNow 200/62 URLs. Vercel **dpl_AUk6ie1B64QMqeoTDEPF7fzpW8DL** READY (manual pack_vercel.sh + create_deployment site.b64 + vercel.json). Live 200 Googlebot UA with Chase compare + Captain Compliance coverage line; /services/zoom/ still 301. Article: https://quietlychanged.com/changes/2026-11-06-wells-fargo-wells-fargo-s-nov-24-online-access-agreement-ai-agents-act-as-you-a/
+
+**Drafts handed to parent** (social/2026-11-06/distribution-drafts.md; nothing sent or posted by this executor):
+1. Email Caitlin Mullen / Banking Dive — cmullen@industrydive.com (editor page) — under-18 + registration + Delegates angles
+2. Email Katie Kelton / Bankrate — kkelton@bankrate.com (author page) — consumer what-to-do before Nov 24
+3. Email Kate Berry / American Banker — kate.berry@arizent.com (Contact Us / author; pitched BofA Oct 15, different story; Penny Crosman wrote the Nov 2 Wells piece, so this is follow-up angles only)
+4. Bluesky image post + 2 self-replies (deepdive PNGs) — needs Samuel OK
+5. Reddit r/personalfinance (+ optional r/WellsFargo) primary-links-only — needs Samuel OK; rules unread (box 403)
+
+**Cap:** 0 of 5 used so far Nov 6; if parent sends all 3 emails → **3 of 5**. Sign QuietlyChanged only. Skip HN. Skip X original (FCC AM used slot); deepdive X drafts remain for possible evening 2nd original — do not auto-post.
+
 ## 2026-11-06: deep dive (Wells Fargo Nov 24 OAA §15 AI Agents)
 
 - **Find:** Wells Fargo posted an upcoming Online Access Agreement (Version Effective November 24, 2026) that adds a brand-new Section 15, "Third-Party Artificial Intelligence Agents or Agentic AI." The May 21, 2026 current agreement has **zero** "AI Agent" mentions. Definition covers autonomous, semi-autonomous, **or non-autonomous** action; agent acts are deemed authorized by you without further verification; AT YOUR OWN RISK / WF does not monitor; revoke + retain evidence + notify per §17(d) or stay responsible; may require registering AI Agents; under-18 ban; Delegates' AI Agents + §20(c) indemnification + §8(b)/§17(c) security-procedure risk acceptance.
