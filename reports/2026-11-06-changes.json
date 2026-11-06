@@ -1,0 +1,59 @@
+[
+  {
+    "service": "Proton",
+    "page": "terms",
+    "headline": "Free accounts: inactivity window doubles from 12 months to 24",
+    "tldr": "Proton will now wait 24 months, not 12, before it can delete an unused free account and its Mail, Drive, Calendar and Pass data.",
+    "impact": 2,
+    "themes": [
+      "shutdowns"
+    ],
+    "url": "https://proton.me/legal/terms",
+    "who": "Anyone with a free Proton Mail, Drive, Calendar or Pass account they rarely open, especially backup or secondary accounts",
+    "seo_title": "Proton doubles free-account inactivity window from 12 to 24 months (Nov 2026)",
+    "seo_desc": "Proton's terms now let free accounts sit unused for 24 months before suspension or deletion, up from 12. Paid accounts stay always-active.",
+    "redline": [
+      {
+        "before": "The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of 12 months and/or part or all of their associated data and content according to this section.",
+        "after": "The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of 24 months and/or part or all of their associated data and content according to this section.",
+        "label": "Terms of Service \u00b7 Inactive Accounts",
+        "note": "The clock before Proton can wipe an unused free account just doubled.",
+        "src": "raw"
+      },
+      {
+        "before": "If your account is free, you are considered active by performing one of the following actions at least once in a period of 12 months:",
+        "after": "If your account is free, you are considered active by performing one of the following actions at least once in a period of 24 months:",
+        "label": "Terms of Service \u00b7 What counts as active",
+        "note": "One login every two years now keeps a free account alive.",
+        "src": "raw"
+      },
+      {
+        "before": "The Company reserves the right to suspend or delete Accounts that have been inactive for a consecutive period of twelve months.",
+        "after": "The Company reserves the right to suspend or delete Accounts that have been inactive for a consecutive period of twenty-four months.",
+        "label": "Terms of Service \u00b7 Capacity / inactive summary",
+        "note": "Same change in the earlier summary sentence (words, not digits).",
+        "src": "raw"
+      }
+    ],
+    "actions": [
+      "Log in to any free Proton account you want to keep at least once every 24 months (web, desktop or mobile counts)",
+      "Keep the recovery email current \u2014 deletion warnings are still only a \"mere courtesy\" Proton will \"aim\" to send",
+      "If you can't log in for a long stretch, contact Proton support before the window runs out"
+    ],
+    "what": "Proton lengthened the inactivity window in its Terms of Service for free accounts.\n\n## Change 1: 12 months becomes 24\n\nFour sentences in the inactive-accounts section moved from twelve/12 months to twenty-four/24 months. Proton may still suspend or delete a free account, and some or all of its data (Proton Mail emails, Proton Drive files, Proton Calendar entries, Proton Pass passwords), but only after two years of no activity instead of one. The same login actions still count as activity: signing in on the web, desktop or mobile apps. Paid accounts under an active subscription are still always treated as active, and dropping to free (by canceling or a failed payment) puts the account back under this rule.\n\n## What stays the same\n\nThe Oct 20, 2026 rewrite still stands: advance warnings at 30, 15 and 7 days are only \"a mere courtesy\" Proton will \"aim\" to send to the recovery email. That did not get any firmer today. There is also no new effective-date stamp on the page in our snapshot; the wording is live in today's capture.\n\n## Leftover inconsistency\n\nOne sentence further down still says that if \"insurmountable circumstances\" keep you from staying active \"in a period of 12 months,\" you should contact Customer Support so they can prevent deletion. The main rule above it now says 24 months. We are logging the wording as it appears; the support-request line looks like it was not updated with the rest.\n\n## How it compares\n\nThis is a rare consumer-friendly terms edit. Most inactivity policies we track tighten or add \"courtesy\" language. Proton already had the courtesy-only warnings; today it gave free users another year of runway.\n\nCoverage (checked Nov 6, 2026): QuietlyChanged; we have not seen a Proton blog post announcing the 12\u219224 change yet.",
+    "faq": [
+      [
+        "Does Proton delete inactive free accounts?",
+        "Yes. As of the Nov 6, 2026 snapshot of Proton's Terms of Service (Section 3), a free account inactive for 24 months in a row can be suspended or deleted, along with some or all of its data: Proton Mail emails, Proton Drive files, Proton Calendar entries and Proton Pass passwords. That window was 12 months in our Nov 5 snapshot."
+      ],
+      [
+        "Will I get a warning before deletion?",
+        "Proton says it will \"aim\" to send notices 30, 15 and 7 days ahead to the recovery email, \"as a mere courtesy.\" That language has been in place since Oct 20, 2026; it is not a hard promise."
+      ],
+      [
+        "Do paid Proton accounts get deleted for inactivity?",
+        "No. Accounts with an active paid subscription \"are always considered active.\" If the paid plan ends or payment fails and the account falls back to free, the 24-month inactivity rule applies again."
+      ]
+    ]
+  }
+]

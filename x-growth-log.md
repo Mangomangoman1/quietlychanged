@@ -1392,3 +1392,33 @@ Parent-quotes: none since Nov 1 (unchanged). Reach per bar tier: PS5 trade-in (2
 - R1 @amazonnews Prime + Uber Eats (logos + what the $0 fee covers/doesn't card), R2 @Wario64 Switch 2 price notice, R3 @IntCyberDigest iCloud link scope.
 - O1 Pinterest Nov 12 opt-out original (Pinterest logo + Section 11(d) quote card).
 - No parent-quote. Nothing needs Samuel's OK.
+
+## Snapshot 2026-11-05 ~5:30 PM MT (Thursday evening)
+Account (X API, ~5:24 PM MT): **22 followers** (+3 vs 19 this morning; +4 since Nov 4 evening's 19), 12 following, 203 posts, 89 media. Pinned still Nov 2 roundup. Original slot used by Pinterest this morning; Smule deep-dive not posted.
+
+### Recent post performance
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Reposts | Replies |
+|---|---|---|---|---|---|---|---|
+| Nov 5 ~9:25 AM | IntCyberDigest iCloud scope reply (2118383267875615091), parent now ~182K | reply | **2,130** | 6 | 5 | 0 | 0 |
+| Nov 5 ~9:25 AM | Wario64 Nintendo price reply (2118381880013943053), parent now ~306K | reply | **1,295** | 2 | 0 | 0 | 0 |
+| Nov 5 ~9:25 AM | amazonnews Prime+Uber reply (2118380481003790668), parent now ~197K | reply | 735 | 0 | 1 | 0 | 0 |
+| Nov 5 ~9:25 AM | Pinterest Nov 12 original (2118379120476467656) + self-reply | original | 14 + 10 | 1 | 0 | 0 | 1 |
+| Nov 3 5:25 PM | PS5 trade-in under Dexerto | reply | 4,214 | 8 | 1 | 3 | 1 |
+| Oct 31 | Prime $15 under jaxoncoder | reply | ~101.6K | 128 | ~150 | 6 | 7 |
+
+Parent-quotes: none since Nov 1. Reach per bar tier (new AM samples):
+- 50K+ parent, **over 90 min**, image-led, uncrowded replies: IntCyberDigest ~12.5h/49 ahead → 2.1K; Wario64 ~2h20m/41 ahead → 1.3K; amazonnews ~5h20m/17 ahead → 735. Late brand/aggregator posts with few replies still clear the looser bar.
+- 20–50K: no new sample tonight yet.
+
+### What we learned
+1. Followers moved 19→22 after the AM reply trio (first move since the +1 after PS5). Bookmarks on the iCloud scope reply (5) track the "here's the actual scope" utility format again.
+2. Fresh-copy play works: Dexerto's evening Prime/Uber post (243K, 35 replies at ~2.5h) is the same story as this morning's amazonnews reply — new slot.
+3. Sofascore paywall is trending in news but no clean primary price for the player-stats lock (Analyst/Plus/Pro store listings conflict); don't reply with a guessed $ figure.
+4. JetBlue second bag-fee hike: still only local TV accounts under 2K — skip.
+5. No original tonight. Chart originals stay stopped as standalone.
+
+### Drafted (social/2026-11-05/pm/xgrowth-pm-drafts.md)
+- R1 Dexerto Prime/Uber (243.7K / 35 replies / ~2.5h), new wording vs AM amazonnews reply; logos + card reused from AM assets.
+- R2 CONDITIONAL MacRumors Logic Pro Creator Studio lock (24K / 13 replies / ~6.5h); Apple logo + one-time-vs-sub card. Skip if flat under ~22K.
+- No quote, no original. Nothing needs Samuel's OK to publish.
