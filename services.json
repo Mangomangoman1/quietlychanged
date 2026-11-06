@@ -231,6 +231,9 @@
   "Bank of America": {
     "terms": "https://www.bankofamerica.com/online-banking/service-agreement.go"
   },
+  "Wells Fargo": {
+    "terms": "https://www.wellsfargo.com/online-banking/online-access-agreement/"
+  },
   "Verizon": {
     "pricing": "https://www.verizon.com/support/surcharges/",
     "terms": "https://www.verizon.com/support/verizon-dollars-legal/",

@@ -1,6 +1,16 @@
 # QuietlyChanged growth log
 Goal: 500 Google impressions/day by 2026-11-13.
 
+## 2026-11-06: deep dive (Wells Fargo Nov 24 OAA §15 AI Agents)
+
+- **Find:** Wells Fargo posted an upcoming Online Access Agreement (Version Effective November 24, 2026) that adds a brand-new Section 15, "Third-Party Artificial Intelligence Agents or Agentic AI." The May 21, 2026 current agreement has **zero** "AI Agent" mentions. Definition covers autonomous, semi-autonomous, **or non-autonomous** action; agent acts are deemed authorized by you without further verification; AT YOUR OWN RISK / WF does not monitor; revoke + retain evidence + notify per §17(d) or stay responsible; may require registering AI Agents; under-18 ban; Delegates' AI Agents + §20(c) indemnification + §8(b)/§17(c) security-procedure risk acceptance.
+- **Primary:** upcoming https://www.wellsfargo.com/online-banking/online-access-agreement/upcoming/ ; current https://www.wellsfargo.com/online-banking/online-access-agreement/ ; customer summary https://www.wellsfargo.com/mobile-online-banking/updates/ . Saved under research/2026-11-06-wells-fargo/.
+- **Hunt (unusual-source / OTA pass):** eBay kill (AI section not quietly-worse vs prior); Dropbox rehash skip; BeReal niche skip; FR/OTA/banks pass surfaced Wells Fargo §15. American Banker / NatLawReview already hit liable+prove-revocation; we add the full §15 blackline vs May 21, non-autonomous definition, registration, under-18, Delegates/indemnity/security-procedure language.
+- **Shipped:** article appended to reports/2026-11-06-changes.json (Proton kept). Wells Fargo added to services.json (terms → current OAA URL). Impact 3, effective 2026-11-24, threads ai-and-your-data + accept-or-else. Written with Claude Code (Opus / medium; `env -u ANTHROPIC_API_KEY`).
+- **Deploy / SEO:** see commit message and Vercel dpl_ below (filled after deploy). SEO before→after will be recorded with the deploy note.
+- **X drafts:** social/2026-11-06/deepdive/ (o-main.txt + o-self-reply.txt + post.txt; images 01-wells-fargo-logo.png, 02-non-autonomous-def.png, 03-revoke-register-under18.png). **Day's 1 original slot already used by FCC AM** — treat as potential 2nd original / evening; do not auto-post.
+- **Not done:** no Samuel ping from this executor; no X post from this executor.
+
 ## 2026-10-13: SEO foundation
 - Shipped: sitemap.xml (absolute https://quietlychanged.com URLs) and robots.txt pointing to it; JSON-LD (Organization on every page, WebSite on home, NewsArticle on daily reports, WebPage on service pages); unique titles and meta descriptions; 1200×630 og.png and summary_large_image cards.
 - Shipped: 54 evergreen service-history pages (/services/<slug>/), e.g. "Netflix price, terms & privacy policy changes (history)", linked from the services table and to each other; their changelogs fill in automatically from reports/DATE-changes.json.

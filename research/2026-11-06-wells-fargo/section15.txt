@@ -1,0 +1,6 @@
+Third-Party Artificial Intelligence Agents or Agentic AI
+ 
+ 
+ 
+ 
+ (a). Scope and Applicability (b). Your Third-Party Relationship (c). Your Consent to Disclosure of Information (d). Your Authorization and Our Reliance on AI Agent Instructions (e). Your Responsibilities (f). Revocation of Authorization (g). Security and Access Controls (h). Eligibility Restrictions 15(a). Scope and Applicability The provisions in this Section apply if you use, allow, enable, or authorize the deployment or use of any artificial intelligence agent or agentic artificial intelligence (each, an "AI Agent") to access, use, or interact with any Service or any Eligible Account. "AI Agent" means any software, application, program, or other technology that takes autonomous, semi-autonomous, or non-autonomous action on behalf of any person or entity. 15(b). Your Third-Party Relationship Your use of any AI Agent is governed by the terms and conditions of the applicable third party providing such AI Agent and any agreement between you and that third party. We do not provide, control, or endorse any AI Agent, and we are not responsible for AI Agents or their activities. We do not monitor, review, audit, or certify the security, 

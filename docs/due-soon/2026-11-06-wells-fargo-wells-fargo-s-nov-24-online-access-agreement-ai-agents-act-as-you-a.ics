@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wells Fargo · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-06-wells-fargo-wells-fargo-s-nov-24-online-access-agreement-ai
+ -agents-act-as-you-a@quietlychanged.com
+DTSTAMP:20261106T195355Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Wells Fargo: Takes effect
+DESCRIPTION:From Nov 24\, whatever an AI or automation tool does in your W
+ ells Fargo account counts as you doing it\, and you stay responsible unti
+ l you report revoking it and can show proof.\n\nhttps://quietlychanged.co
+ m/changes/2026-11-06-wells-fargo-wells-fargo-s-nov-24-online-access-agree
+ ment-ai-agents-act-as-you-a/
+URL:https://quietlychanged.com/changes/2026-11-06-wells-fargo-wells-fargo-
+ s-nov-24-online-access-agreement-ai-agents-act-as-you-a/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Wells Fargo — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

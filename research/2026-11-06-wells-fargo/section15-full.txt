@@ -1,0 +1,77 @@
+Third-Party Artificial Intelligence Agents or Agentic AI
+
+ (a). Scope and Applicability
+
+ (b). Your Third-Party Relationship
+
+ (c). Your Consent to Disclosure of Information
+
+ (d). Your Authorization and Our Reliance on AI Agent Instructions
+
+ (e). Your Responsibilities
+
+ (f). Revocation of Authorization
+
+ (g). Security and Access Controls
+
+ (h). Eligibility Restrictions
+
+   15(a). Scope and Applicability
+
+The provisions in this Section apply if you use, allow, enable, or authorize the deployment or use of any artificial intelligence agent or agentic artificial intelligence (each, an "AI Agent") to access, use, or interact with any Service or any Eligible Account. "AI Agent" means any software, application, program, or other technology that takes autonomous, semi-autonomous, or non-autonomous action on behalf of any person or entity.
+
+   15(b). Your Third-Party Relationship
+
+Your use of any AI Agent is governed by the terms and conditions of the applicable third party providing such AI Agent and any agreement between you and that third party. We do not provide, control, or endorse any AI Agent, and we are not responsible for AI Agents or their activities.
+
+We do not monitor, review, audit, or certify the security, privacy policies, or data handling practices of any AI Agent or the third party providing such AI Agent. You acknowledge that our privacy and security policies do not apply to any AI Agent, and we have no responsibility for, and no control over, how any third party or AI Agent collects, uses, reuses, stores, shares, or protects your data.
+
+   15(c). Your Consent to Disclosure of Information
+
+If you use an AI Agent to access or use the Service or any Eligible Account, you acknowledge and expressly consent to the sharing of your financial, account, and personal information with such AI Agent. You understand that such information may be accessed, used, reused, stored, or shared by the AI Agent or the third party providing it, and that such activities are outside of our control.
+
+   15(d). Your Authorization and Our Reliance on AI Agent Instructions
+
+Unless otherwise provided by law or regulation, if you provide an AI Agent with access to the Service or any Eligible Account using your login credentials, or otherwise authorize an AI Agent to act on your behalf, you agree that:
+
+Any instructions, actions, or transactions initiated by the AI Agent are deemed to have been initiated and authorized directly by you, without further verification, and we have no obligation to investigate the validity or scope of such authority;
+
+We may rely on any such instructions, actions, or transactions as valid and binding and as evidence of your authorization; and
+
+We have no obligation to investigate, verify, or confirm the authority, authenticity, or validity of any instruction or action taken by an AI Agent.
+
+   15(e). Your Responsibilities
+
+Your use of any AI Agent is AT YOUR OWN RISK. You are solely responsible for:
+
+Monitoring the activities of any AI Agent acting on your behalf and maintaining appropriate safeguards;
+
+Ensuring that any AI Agent operates within the scope of authority you have granted to it or in your best interest;
+
+Ensuring the accuracy, completeness, and appropriateness of any instructions provided to an AI Agent; and
+
+(Unless otherwise provided by law or regulation) any actions, errors, or results arising from the AI Agent’s interpretation or implementation of your instructions, unintended actions performed by the AI Agent, actions resulting from incomplete, inaccurate, or manipulated inputs, or the AI Agent exceeding the authority granted by you.
+
+You acknowledge that we do not monitor, screen, or review AI Agent activities, including any transactions initiated by an AI Agent. 
+
+   15(f). Revocation of Authorization
+
+You are responsible for properly and timely revoking any authorization provided to an AI Agent and taking any necessary further action to cease the AI Agent’s activities. You must retain evidence of such revocation and must provide such evidence to us, at our request. Until you notify us of such revocation pursuant to Section 17(d), you remain responsible for all the AI Agent’s activities, to the extent permitted by law or regulation.
+
+   15(g). Security and Access Controls
+
+We reserve the right, at any time to:
+
+Modify or update our security procedures, protocols, accessibility, or requirements related to AI Agents, including requiring that you register your AI Agents with us;
+
+Change, limit, restrict, or discontinue any application programming interface (API) or other access method for AI Agents; and
+
+Limit, prohibit, prevent, suspend, or terminate access by any AI Agent to the Service or any Eligible Account, including by restricting certain actions by AI Agents.
+
+You acknowledge that such actions may prevent an AI Agent from functioning or accessing the Service, and we are not responsible for any resulting impact.
+
+   15(h). Eligibility Restrictions
+
+You agree that you will not permit any AI Agent to access or use the Service or any Eligible Account on your behalf if you are under 18 years of age or are otherwise prohibited from doing so under applicable law. 
+
+						
