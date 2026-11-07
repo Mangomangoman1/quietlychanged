@@ -92,7 +92,7 @@ BeReal, the Paris-based photo app (minimum age 13), changed its privacy policy o
 
 1. Location-based ad measurement. A new "Advertising measurement partners" category: "we may share mobile advertising IDs, device identifiers and advertising-exposure data with measurement partners," including, "where you agree, visits to physical locations following advertising exposure." BeReal says the visit results come back to it "in aggregated form," but the partners themselves get device-level IDs. The policy has teen-specific defaults for GPS on posts, but nothing teen-specific for this ad-measurement sharing. The partner list it links names 93 ad companies and none is marked as a measurement partner (https://help.bereal.com/hc/en-us/articles/19494197955101-Ad-Partners).
 
-2. Longer retention. Inactive accounts used to face deletion after 3 years in the US and 2 years in Europe. Now it's 5 years everywhere. The old text began "To minimize data retention," and that phrase is gone. For comparison, Google deletes inactive personal accounts after 2 years. BeReal SAS is the controller, so the CNIL would be the lead EU regulator.
+2. Longer retention. Inactive accounts used to face deletion after 3 years in the US and 2 years in Europe. Now it's 5 years everywhere. The old text began "To minimize data retention," and that phrase is gone. For comparison, Google can delete an inactive personal account after 2 years. BeReal SAS is the controller, so the CNIL would be the lead EU regulator.
 
 Primary sources:
 - Current policy: https://bereal.com/privacy
