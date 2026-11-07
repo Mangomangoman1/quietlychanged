@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JetBlue · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-07-jetblue-checked-bags-now-50-to-85-each-and-all-of-december-
+ is-peak@quietlychanged.com
+DTSTAMP:20261107T200154Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:JetBlue: Applies to bookings from
+DESCRIPTION:For trips booked from Nov 3\, JetBlue's first checked bag cost
+ s $50 to $70 and the second $70 to $85. Every day in December now gets th
+ e higher peak fees.\n\nhttps://quietlychanged.com/changes/2026-11-07-jetb
+ lue-checked-bags-now-50-to-85-each-and-all-of-december-is-peak/
+URL:https://quietlychanged.com/changes/2026-11-07-jetblue-checked-bags-now
+ -50-to-85-each-and-all-of-december-is-peak/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JetBlue — Applies to bookings from
+END:VALARM
+END:VEVENT
+END:VCALENDAR

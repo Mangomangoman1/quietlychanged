@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BeReal · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-07-bereal-inactive-accounts-kept-5-years-and-ad-partners-can-n
+ ow-measure-store-vis@quietlychanged.com
+DTSTAMP:20261107T200154Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:BeReal: Took effect
+DESCRIPTION:BeReal now waits five years before deleting an unused account\
+ , and shares ad IDs with partners that can measure store visits where you
+  agree.\n\nhttps://quietlychanged.com/changes/2026-11-07-bereal-inactive-
+ accounts-kept-5-years-and-ad-partners-can-now-measure-store-vis/
+URL:https://quietlychanged.com/changes/2026-11-07-bereal-inactive-accounts
+ -kept-5-years-and-ad-partners-can-now-measure-store-vis/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: BeReal — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

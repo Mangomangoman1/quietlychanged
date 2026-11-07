@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "service": "JetBlue",
+    "page": "pricing",
+    "headline": "Checked bags now $50 to $85 each, and all of December is peak",
+    "tldr": "For trips booked from Nov 3, JetBlue's first checked bag costs $50 to $70 and the second $70 to $85. Every day in December now gets the higher peak fees.",
+    "impact": 2,
+    "themes": [
+      "price-creep"
+    ],
+    "effective": "2026-11-03",
+    "deadline": "Applies to bookings from",
+    "url": "https://www.jetblue.com/legal/fees",
+    "who": "Anyone booking a JetBlue flight on or after Nov 3, 2026 who checks a bag without free-bag status: Main Base, Main and EvenMore fares, plus second bags for Mosaic 1 members and JetBlue cardholders",
+    "seo_title": "JetBlue bag fees rise to $50–$85 for bookings from Nov 3, 2026 (December now all peak)",
+    "seo_desc": "JetBlue's first checked bag is now $50 prepaid off-peak ($60 at check-in) and $55 peak ($70). Second bags are $70–$85. All of December is now peak. Old and new fees side by side.",
+    "redline": [
+      {
+        "before": "1st Bag: $45 (incl $4 savings) 2nd Bag: $59 (incl $10 savings) 1st Bag: $49 (incl $10 savings) 2nd Bag: $69 (incl $10 savings)",
+        "after": "1st Bag: $50 (incl $10 savings) 2nd Bag: $70 (incl $5 savings) 1st Bag: $55 (incl $15 savings) 2nd Bag: $75 (incl $10 savings)",
+        "label": "Optional Services and Fees · Checked bags, Main/EvenMore within the U.S., Latin America, Caribbean and Canada (off-peak, then peak)",
+        "note": "These are the prepaid prices. Adding back the \"savings\" gives the price within 24 hours of departure: the first bag goes from $49 to $60 off-peak and from $59 to $70 peak.",
+        "src": "quoted"
+      },
+      {
+        "before": "November 2026 11/19-11/30 December 2026 12/17-12/31",
+        "after": "November 2026 11/5-11/11, 11/19-11/30 December 2026 12/1-12/31",
+        "label": "Optional Services and Fees · Peak travel dates",
+        "note": "Peak pricing used to start Dec 17. It now covers the whole month, and Nov 5–11 has been added.",
+        "src": "quoted"
+      },
+      {
+        "before": "Save up to $10 each on your first 2 checked bags",
+        "after": "Save up to $15 on each of your first 2 checked bags",
+        "label": "Optional Services and Fees · Checked bags intro",
+        "note": "The bigger \"savings\" come from higher prices at check-in, not lower prepaid prices.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Add bags in Manage Trips at least 24 hours before departure: paying at check-in costs $10–$15 more for the first bag and $5–$10 more for the second",
+      "Already booked before Nov 3? Check Manage Trips for your bag fees. JetBlue says those bookings keep the fees that applied when you booked",
+      "Before you prepay, check the peak calendar on jetblue.com/legal/fees: Nov 5–11, Nov 19–30 and all of December 2026 are peak",
+      "Mosaic 2–4, Mint/BlueFirst (non-Base), and JetBlue credit cards still get a free first bag; Mosaic 1 and cardmembers still pay the new second-bag fees"
+    ],
+    "what": "JetBlue raised its checked bag fees for trips booked on or after Nov 3, 2026. We compared the live fees page (fetched Nov 7) with an archived copy from Oct 12, 2026 (Wayback Machine).\n\n## Change 1: First and second bags cost more\n\nFor Main Base, Main, EvenMore and their Flex versions within the U.S., Latin America, the Caribbean and Canada:\n\n- 1st bag, off-peak: $45 → $50 if you prepay at least 24 hours before departure; $49 → $60 if you pay at check-in.\n- 1st bag, peak: $49 → $55 prepaid; $59 → $70 at check-in.\n- 2nd bag, off-peak: $59 → $70 prepaid; $69 → $75 at check-in.\n- 2nd bag, peak: $69 → $75 prepaid; $79 → $85 at check-in.\n\nThe page lists prepaid prices with an \"incl $X savings\" note. The check-in price is the prepaid price plus that saving. Waiting until check-in now costs more for the first bag: the gap grew from $4 to $10 off-peak and from $10 to $15 peak. For the second bag the gap shrank from $10 to $5 off-peak and stayed at $10 peak. This is why the second-bag check-in price rose by only $6 while the prepaid price rose by $11. A 3rd or later bag is still $200.\n\nThe same higher second-bag fees apply to Mosaic 1 members, JetBlue Plus and Premier cardholders, and the new BlueFirst Base and Mint Base fares, even though their first bag is free.\n\n## Change 2: December is now all peak\n\nIn the Oct 12 copy, peak dates were Nov 19–30 and Dec 17–31, 2026. The live page adds Nov 5–11 and makes all of December peak (12/1–12/31). Peak runs on into Jan 1–18, 2027, and the calendar now reaches October 2027. Here is the combined effect. Say you book a trip now that flies in early-to-mid December, with one prepaid bag each way. Those dates were off-peak, so the bags cost $90 ($45 × 2). Now they cost $110 ($55 × 2). With two bags each way, the cost rises from $208 to $260.\n\n## Change 3: Transatlantic bags go up too\n\nFor Main Base and EvenMore Base on transatlantic flights, the first bag rises from $75 to $80 off-peak and from $85 to $90 peak. The second bag rises from $109 to $115 off-peak and from $119 to $125 peak, for all fares that pay for one. The pound and euro prices went up by similar amounts.\n\n## What stays the same\n\nThe refund rule is not new. The Oct 12 copy has the same sentence: \"checked bag fees are only refundable if the entire booking is cancelled prior to scheduled departure.\" You can still pay for bags with TrueBlue points before check-in. Mint, BlueFirst (non-Base), and Mosaic 2–4 members still get two free bags.\n\n## Bookings made before Nov 3\n\nThe page now says: \"For bookings made prior to 11/3, check Manage Trips for applicable baggage fees.\" The Points Guy reports that the previous fees apply to flights bought before Nov 3. JetBlue's page does not say whether those bookings use the old peak calendar, so check Manage Trips for your own trip.\n\n## What JetBlue says\n\nThe Points Guy reported that JetBlue pointed to rising fuel and operating costs. A spokesperson said: \"This helps us keep our base fares competitive while giving customers the choice to pay for a checked bag only if they need one.\"\n\n## A number we couldn't match\n\nThe Points Guy says the off-peak prepaid first bag was \"up from $39\" and calls $50 \"a 28% jump\". Our archived Oct 12 copy of JetBlue's own page shows $45 (incl $4 savings). TPG's figures for paying at check-in ($49 before, $60 after) match the page. We use JetBlue's archived page for the before prices. Measured from $45, the prepaid first-bag fee rose 11%.\n\nCoverage (checked Nov 7, 2026): The Points Guy (Nov 3) reported the increase as JetBlue's second bag-fee hike of 2026. We could not load AP's article (it was blocked by a bot check).",
+    "faq": [
+      [
+        "How much is a checked bag on JetBlue now?",
+        "For bookings made on or after Nov 3, 2026, on flights within the U.S., Latin America, the Caribbean and Canada: the first bag is $50 off-peak or $55 peak if you prepay at least 24 hours before departure, and $60 or $70 if you pay later. The second bag is $70 or $75 prepaid, and $75 or $85 later. A third or later bag is $200."
+      ],
+      [
+        "Is December peak season for JetBlue bag fees?",
+        "Yes. All of December 2026 (12/1–12/31) is now peak, along with Nov 5–11, Nov 19–30 and Jan 1–18, 2027. Before this change, December peak started on Dec 17."
+      ],
+      [
+        "Can I get a refund on a JetBlue bag fee?",
+        "Only if the whole booking is cancelled before the scheduled departure. That rule was already on the page before this change."
+      ],
+      [
+        "I booked before Nov 3. Do I pay the new fees?",
+        "JetBlue's page says to check Manage Trips for the fees on bookings made before 11/3. The Points Guy reports that the previous fees apply to those trips."
+      ]
+    ],
+    "sources": [
+      [
+        "JetBlue: Optional Services and Fees (live, fetched Nov 7, 2026)",
+        "https://www.jetblue.com/legal/fees"
+      ],
+      [
+        "JetBlue fees page, archived Oct 12, 2026 (Wayback Machine)",
+        "https://web.archive.org/web/20261012132345/https://www.jetblue.com/legal/fees"
+      ],
+      [
+        "The Points Guy: JetBlue hikes bag fees for 2nd time this year (Nov 3, 2026)",
+        "https://thepointsguy.com/news/jetblue-raises-baggage-fees-again"
+      ]
+    ]
+  },
+  {
+    "service": "BeReal",
+    "page": "privacy",
+    "headline": "Inactive accounts kept 5 years, and ad partners can now measure store visits",
+    "tldr": "BeReal now waits five years before deleting an unused account, and shares ad IDs with partners that can measure store visits where you agree.",
+    "impact": 2,
+    "themes": [
+      "ads-and-tracking",
+      "shutdowns"
+    ],
+    "effective": "2026-11-03",
+    "deadline": "Took effect",
+    "url": "https://bereal.com/privacy",
+    "who": "All BeReal users, especially people who have stopped opening the app (whose accounts and Memories now stay around much longer) and anyone who has agreed to ad tracking",
+    "seo_title": "BeReal privacy policy (Nov 3, 2026): 5-year inactivity deletion, new ad measurement partners and store-visit tracking",
+    "seo_desc": "BeReal's Nov 3, 2026 privacy policy keeps inactive accounts 5 years, up from 2 or 3. It now shares ad IDs with measurement partners and measures store visits where you agree.",
+    "redline": [
+      {
+        "before": "your account may be deleted after three (3) years of continuous inactivity if you are located in the United States, or after two (2) years of continuous inactivity if you are located in Europe or any other jurisdiction outside of the United States. BeReal may send you a prior notice via text message (SMS)",
+        "after": "Your account may be deleted after five (5) years of continuous inactivity. This period takes into account the fact that BeReal keeps the Content you have posted over time as a personal archive (the Memories feature), so that you can find it again whenever you come back to the App. If you do not wish to keep that archive, you can delete your Content or your account at any time in the App. Before your account is deleted, BeReal will send you a prior notice via text message (SMS)",
+        "label": "Privacy Policy · 6. How long we keep information about you",
+        "note": "One five-year rule replaces the two- and three-year rules, and the deletion text message changes from \"may\" to \"will\".",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "Advertising measurement partners : To measure advertising performance, including app-install attribution and, where you agree, visits to physical locations following advertising exposure, we may share mobile advertising IDs, device identifiers and advertising-exposure data with measurement partners.",
+        "label": "Privacy Policy · 3. When we share information about you",
+        "note": "A new category of third party that gets your ad ID. The location part is limited to \"where you agree\".",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "And, where you agree, measuring whether advertising campaigns result in visits to physical locations. Mobile advertising IDs and device identifiers, Account creation data, Connection and Technical Data, Usage Data, Geolocation Data, and advertising-exposure data. Visit and physical-location outcomes are derived by our measurement partners and provided to us in aggregated form.",
+        "label": "Privacy Policy · 2. How we use information · Ad measurement row",
+        "note": "BeReal says it receives only aggregated visit results. The policy does not say what location data the partners use to work them out.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "To limit ad sharing, go to Settings → Privacy → \"Modify my consents\" in BeReal",
+      "Reset or delete your phone's advertising ID (iOS: Settings → Privacy & Security → Tracking; Android: Settings → Privacy → Ads) to cut the link measurement partners rely on",
+      "Keep your phone number current in BeReal: the deletion warning only goes by text message to that number. Or delete old Content or your account in the app if you don't want it kept five years"
+    ],
+    "what": "BeReal updated its Privacy Policy. The live page says \"Last updated: November 3, 2026.\" Our previous copy (archived Sept 30, 2026) said \"Last updated: June 30, 2026.\" Two things changed in substance.\n\n## Change 1: Inactive accounts are kept for five years\n\nBefore, an unused account \"may be deleted\" after three years of inactivity in the U.S. and after two years in Europe and everywhere else. Now there is one rule for everyone: five years. BeReal says the longer period exists because it keeps your posts as a personal archive (Memories) \"so that you can find it again whenever you come back to the App.\" The phrase \"To minimize data retention\" was removed from both sentences where it appeared. Inactivity still runs from your \"most recent login or connection to the App.\"\n\nThe warning is now firmer. The old text said BeReal \"may send you a prior notice via text message (SMS)\". The new text says \"Before your account is deleted, BeReal will send you a prior notice.\" It still goes only by text message to the phone number on the account. If you have changed numbers, you may never see it.\n\nIn practice, a European user who stopped opening BeReal in late 2024 would have faced deletion under the old two-year rule. Under the new rule, their photos stay on BeReal's servers until about 2029 unless they delete them.\n\n## Change 2: A new kind of ad partner, and store-visit measurement\n\nSection 3 adds \"Advertising measurement partners\" as a new kind of third party. These partners process data \"under their own control\". BeReal \"may share mobile advertising IDs, device identifiers and advertising-exposure data\" with them. The uses are app-install attribution and, \"where you agree, visits to physical locations following advertising exposure.\" The ad-measurement row in Section 2 now covers \"attributing app installs and other conversions\". It adds Geolocation Data (location inferred from your IP address) and advertising-exposure data, and says visit results are \"provided to us in aggregated form.\"\n\n## What the consent wording does and doesn't say\n\n- \"Where you agree\" applies only to the store-visit measurement. The row as a whole, including install attribution and sharing your ad ID, still relies on \"Your consent, where required by applicable law; otherwise, our legitimate interest.\" Outside places that legally require consent, BeReal does not promise to ask first.\n- \"Aggregated form\" describes what BeReal gets back. It does not describe what partners receive. They get device-level IDs and advertising-exposure data, and the policy does not say how they decide that a visit happened.\n- The in-app consent instructions were not updated. \"Modify my consents\" is still described as covering Ad Partners and the use of machine learning on your photos. It does not mention measurement partners by name, so we can't confirm from the policy that a separate toggle exists.\n- U.S. section 9.4 already listed \"Advertising and measurement partners\" in the June version. What's new is the Section 3 category and the store-visit purpose, not the U.S. disclosure category.\n\n## What stays the same\n\nInterest inference from your photos and gender inference from your profile, for internal ad targeting, are unchanged. So are hashed phone-number matching for advertisers, the UX recording of 0.001% of users, the 15-day account deletion grace period and the 10-year retention of transaction records.\n\nCoverage (checked Nov 7, 2026): QuietlyChanged; we did not find an announcement from BeReal or press coverage of this update.",
+    "faq": [
+      [
+        "How long before BeReal deletes an inactive account?",
+        "Five years without logging in, under the policy last updated Nov 3, 2026. Before, it was three years in the U.S. and two years elsewhere."
+      ],
+      [
+        "Will BeReal warn me before deleting my account?",
+        "The policy now says BeReal \"will send you a prior notice via text message (SMS)\" to the phone number on your account. The old wording only said it \"may.\""
+      ],
+      [
+        "Does BeReal track whether I visit stores after seeing ads?",
+        "Only \"where you agree,\" according to the policy. Measurement partners receive your mobile advertising ID, device identifiers and ad-exposure data, and BeReal says it gets the visit results back only in aggregated form."
+      ],
+      [
+        "How do I opt out?",
+        "In the app, go to Privacy settings → \"Modify my consents.\" U.S. users can also opt out of sale, sharing and targeted advertising by emailing dpo@bere.al. Resetting your phone's advertising ID also limits ad matching."
+      ]
+    ],
+    "sources": [
+      [
+        "BeReal Privacy Policy (live, last updated Nov 3, 2026)",
+        "https://bereal.com/privacy"
+      ],
+      [
+        "BeReal Privacy Policy (Wayback Sept 30, 2026 capture of June 30, 2026 text)",
+        "https://web.archive.org/web/20260930012030/https://bereal.com/privacy"
+      ]
+    ]
+  }
+]
