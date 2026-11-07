@@ -1460,3 +1460,68 @@ Reach per bar tier (updated):
 - **Q1** quote Dexerto Prime/Uber (501K) — cancel-anytime + Visa Dec 5 (different from our reply).
 - **R2** CONDITIONAL charlieINTEL GTA+ renews (127K / 66 / ~176 min) — skip if flat or replies climb.
 - Nothing needs Samuel's OK. Stay quiet unless a post takes off.
+
+## Snapshot 2026-11-06 ~5:25 PM MT (Friday evening)
+Account (X API, ~5:24 PM MT): **22 followers** (flat all day), 13 following, 213 posts, 96 media. Pinned = Nov 2 weekly roundup 2117292806964400275. **Original slot USED** by AM FCC Nov 25 robotext original.
+
+### Recent post performance (AM posts + overnight)
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Reposts | Replies |
+|---|---|---|---|---|---|---|---|
+| Nov 6 ~9:34 AM | FCC Nov 25 robotext original (2118743759760613790) + self-reply | original | **6** + 3 | 0 | 0 | 0 | 1 |
+| Nov 6 ~9:51 AM | Quote Dexerto Prime/Uber (2118748112366002648), parent now 524K | parent-quote | **23** | 0 | 0 | 0 | 0 |
+| Nov 6 ~9:45 AM | Wario64 Ranger Rumble FAQ reply (2118746633412428024), parent now 258K | reply | **3** | 0 | 0 | 0 | 0 |
+| Nov 6 ~9:57 AM | charlieINTEL GTA+ renews reply (2118749535195566586), parent now 179K | reply | **5** | 0 | 0 | 0 | 0 |
+| Nov 5 ~5:31 PM | Dexerto Prime/Uber reply (2118501414570004972), parent now 524K | reply | **755** | 2 | 1 | 0 | 0 |
+| Nov 5 ~9:25 AM | IntCyberDigest iCloud scope (2118383267875615091), parent now 218K | reply | **3,650** | 8 | 7 | 0 | 0 |
+| Nov 5 ~9:25 AM | Wario64 Nintendo price (2118381880013943053), parent now 398K | reply | **2,052** | 6 | 0 | 0 | 1 |
+| Nov 5 ~9:25 AM | amazonnews Prime+Uber (2118380481003790668), parent now 212K | reply | **821** | 0 | 1 | 0 | 0 |
+| Nov 5 ~5:37 PM | MacRumors Logic Pro (2118503005075251598) | reply | **4** | 0 | 0 | 0 | 0 |
+| Oct 31 | Prime $15 under jaxoncoder | reply | ~101.6K | 128 | ~150 | 6 | 7 |
+
+Parent-quotes: Dexerto quote 23 imp so far (~3% of our earlier Dexerto reply's 755 — consistent with ~1–3% quote layer at 22 followers).
+
+Reach per bar tier (updated):
+- AM replies still too fresh to judge (3–5 imp at ~8h). Dexerto quote 23 early.
+- IntCyberDigest still best recent utility reply (3.65K / 7 BM).
+- MacRumors stretch still the cautionary 4-imp sample.
+
+### What we learned
+1. Followers flat at 22 all Friday. AM original (FCC) at 6 imp — in the usual 6–30 band; day's slot correctly spent on a broad story.
+2. Fresh Dexerto parent-quote (500K+) started at 23 — watch overnight vs the reply under the same story (755).
+3. Evening priority scan: Dexerto crime/PokeKid/7 Brew out of lane; Wario64 deal spam; MorePerfectUS politics; 9to5mac under bar; Spotify AI-remix trending in news but no ≥20K parent yet; X Premium+ ads-in-replies complaints all under 3K.
+4. Best live lane post: charlieINTEL GTA VI 209GB (108K / 37 replies / ~75 min) — Rockstar says up to **212GB** depending on device; clean storage-math receipt. Second: Pirat_Nation RTX 5070 Ti (35K / 59 / ~3.5h) — stretch; default skip.
+
+### Drafted (social/2026-11-06/pm/xgrowth-pm-drafts.md)
+- **R1** charlieINTEL GTA VI storage correction (108K / 37 / ~75 min) — Xbox logo + storage card.
+- **R2 CONDITIONAL** Pirat_Nation RTX 5070 Ti MSRP math (35K / 59 / ~3.5h) — default skip.
+- No quote, no original. Stay quiet unless a post takes off.
+
+
+## Snapshot 2026-11-07 ~9:15 AM MT (Saturday morning)
+Account (X API): **22 followers** (flat 3 days), 14 following, 214 posts, 97 media. Pinned = Nov 2 roundup. Original slot **FREE**.
+
+### Recent post performance
+| When (MT) | Post | Type | Impressions | Likes | BM |
+|---|---|---|---|---|---|
+| Nov 6 ~5:28 PM | charlieINTEL GTA VI storage reply (2118862972424704187), parent now 240K | reply | 37 | 0 | 0 |
+| Nov 6 ~1:14 PM | Wells Fargo §15 AI-agent original (2118799229175107806) + self-reply | original (2nd) | 11 + 9 | 0 | 0 |
+| Nov 6 ~9:51 AM | Quote Dexerto Prime/Uber (2118748112366002648), parent 530K | parent-quote | 25 | 0 | 0 |
+| Nov 6 ~9:57 AM | charlieINTEL GTA+ reply | reply | 9 | 0 | 0 |
+| Nov 6 ~9:45 AM | Wario64 Ranger Rumble reply | reply | 3 | 0 | 0 |
+| Nov 6 ~9:34 AM | FCC Nov 25 original | original | 6 | 0 | 0 |
+| Nov 5 ~5:31 PM | Dexerto Prime/Uber reply | reply | 785 | 2 | 1 |
+| Nov 5 ~9:25 AM | IntCyberDigest iCloud scope reply | reply | 3,715 | 8 | 7 |
+
+Tier notes: all five Nov 6 replies/quotes landed with 37+ replies already ahead and/or >75 min; every one finished under 40 imp. Nov 5 AM (uncrowded late brand posts) still the best recent tier. Lesson: being early with few replies ahead beats parent size; the 75-min charlieINTEL slot with 37 ahead only did 37.
+
+### What we learned
+1. Third straight day flat at 22 followers. Nov 6 was the weakest reply day in a week; the evidence keeps pointing to "fewer replies ahead + earlier" over raw parent size.
+2. Starlink dynamic pricing went nationwide this morning (PCMag update Nov 7; customer emails everywhere). Huge organic anger but no big parent yet, so it's today's original, with the email's "downgrading won't dodge it" line as the hook.
+3. Topic log (travels?): big-brand price hike w/ rural angle — test today.
+4. Off-brand Tesla/Elon reply appeared on the account Nov 6 4:08 PM MT (2118843009706205494), not from our drafts — flagged to parent.
+
+### Drafted (social/2026-11-07/am/xgrowth-am-drafts.md)
+- O1 Starlink 10–20% dynamic hike original (logo + price ladder + email fine print), self-reply to /due-soon/.
+- R1 unusual_whales road-trip gas (45K / 27 replies / ~20 min) — Yahoo's assumptions + state-by-state $2,395.
+- R2 CONDITIONAL Pirat_Nation LG/ACR (12K, flat) — default skip.

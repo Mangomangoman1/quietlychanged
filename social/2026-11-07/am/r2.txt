@@ -1,0 +1,1 @@
+The opt-out detail matters: Samsung's leak was on its own channels (30 of 30 opted-out runs), Vizio's switch changed nothing, Roku still tracked The Roku Channel. LG, Fire TV, Sony and VIDAA held. Samsung's switch is "Viewing Information Services"; Vizio's is "Viewing Data".
