@@ -58,11 +58,19 @@ Section 3 adds &quot;Advertising measurement partners&quot; as a new kind of thi
 - The in-app consent instructions were not updated. &quot;Modify my consents&quot; is still described as covering Ad Partners and the use of machine learning on your photos. It does not mention measurement partners by name, so we can&#x27;t confirm from the policy that a separate toggle exists.
 - U.S. section 9.4 already listed &quot;Advertising and measurement partners&quot; in the June version. What&#x27;s new is the Section 3 category and the store-visit purpose, not the U.S. disclosure category.
 
+## Who the &quot;measurement partners&quot; are
+
+The new paragraph says you &quot;will find a list of our partners&quot; via a link. That link goes to the same Ad Partners page in BeReal&#x27;s Help Center that the existing Ad Partners paragraph uses (help.bereal.com, checked Nov 7, 2026). It lists 93 companies: ad exchanges, ad networks and demand-side platforms such as Google Ad Manager, Meta, Amazon, AppLovin, The Trade Desk and Vistar Media. None is marked as a measurement partner. The page doesn&#x27;t name the mobile attribution firms such as AppsFlyer, Adjust, Branch, Kochava or Singular, or any company that does store-visit measurement. So from the published list you can&#x27;t tell which company would work out whether you visited a store.
+
+## How five years compares
+
+Google&#x27;s inactive-account policy lets it delete a personal Google Account after at least two years of inactivity across Google (support.google.com, checked Nov 7, 2026). BeReal used to sit close to that, at two years in Europe and three in the U.S. It now waits more than twice as long. BeReal&#x27;s own justification is the Memories archive. The old policy gave a different reason for its shorter periods: &quot;To minimize data retention.&quot; That phrase is gone.
+
 ## What stays the same
 
 Interest inference from your photos and gender inference from your profile, for internal ad targeting, are unchanged. So are hashed phone-number matching for advertisers, the UX recording of 0.001% of users, the 15-day account deletion grace period and the 10-year retention of transaction records.
 
-Coverage (checked Nov 7, 2026): QuietlyChanged; we did not find an announcement from BeReal or press coverage of this update.</summary></entry><entry><title>Proton doubles free-account inactivity window from 12 to 24 months (Nov 2026)</title><link href="https://quietlychanged.com/changes/2026-11-06-proton-free-accounts-inactivity-window-doubles-from-12-months-to-24/"/><id>https://quietlychanged.com/changes/2026-11-06-proton-free-accounts-inactivity-window-doubles-from-12-months-to-24/</id><updated>2026-11-06T12:00:00Z</updated><summary>Proton lengthened the inactivity window in its Terms of Service for free accounts.
+Coverage (checked again Nov 7, 2026, afternoon): we did not find an announcement from BeReal or any press coverage of this update. Only automated policy trackers (TermsWatch, which draws on Open Terms Archive) logged it.</summary></entry><entry><title>Proton doubles free-account inactivity window from 12 to 24 months (Nov 2026)</title><link href="https://quietlychanged.com/changes/2026-11-06-proton-free-accounts-inactivity-window-doubles-from-12-months-to-24/"/><id>https://quietlychanged.com/changes/2026-11-06-proton-free-accounts-inactivity-window-doubles-from-12-months-to-24/</id><updated>2026-11-06T12:00:00Z</updated><summary>Proton lengthened the inactivity window in its Terms of Service for free accounts.
 
 ## Change 1: 12 months becomes 24
 
