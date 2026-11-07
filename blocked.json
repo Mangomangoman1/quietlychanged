@@ -464,5 +464,19 @@
    "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
    "HTTP 403 again after Nov 5's intermittent 200; no working replacement known; kept"
   ]
+ ],
+ "flaky_2026-11-07": [
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+   "SSLError continues (7th+ check day since Oct 30; no Nov 4 run). curl/TLS still fails on playstation.com; no same-site replacement; kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; roblox.com/info/terms is 404 and help-center stays CF-challenged; no working replacement known; kept"
+  ]
  ]
 }
