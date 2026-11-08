@@ -1566,3 +1566,46 @@ Reach per bar tier (updated):
 - **R1 CONDITIONAL** IntCyberDigest Claude Max ruling (5.7K / 8 / ~40 min): pricing page now says Ultra 10x weekly, not 20x. Post only if ≥20K and climbing by ~6:15 PM MT.
 - **R2 CONDITIONAL** IGN Pulse Elevate delay (12.7K / 2 / ~24 min): PlayStation Direct doesn't charge until ship; cancel until shipping. Post only if ≥20K and climbing by ~6:30 PM MT.
 - No original (slot used). Nothing needs Samuel's OK except the off-brand Tesla reply flag.
+
+## Snapshot 2026-11-08 ~9:15 AM MT (Sunday morning)
+Account (X API, ~9:18 AM MT): **22 followers** (flat 5th straight day), 14 following, 218 posts, 100 media. Pinned = Nov 2 roundup 2117292806964400275. **Original slot FREE** (nothing posted today). Last chart original Nov 3; no chart today.
+
+### Recent post performance
+| When (MT) | Post | Type | Impressions | Likes | BM | Reposts | Replies |
+|---|---|---|---|---|---|---|---|
+| Nov 7 ~5:26 PM | Quote Dexerto Claude deleted-files (2119224994941255993), parent now **1.28M / 434 replies** | parent-quote | **21** | 1 | 0 | 0 | 0 |
+| Nov 7 ~9:30 AM | unusual_whales road-trip gas reply (2119105115819061716), parent 265K | reply | 6 | 0 | 0 | 0 | 0 |
+| Nov 7 ~9:23 AM | Starlink 10–20% original (2119103341494227365) + self-reply 2119103541189165218 | original | **11** + 4 | 0 | 0 | 0 | 1 (self) |
+| Nov 6 ~5:28 PM | charlieINTEL GTA VI storage reply (2118862972424704187), parent 276K | reply | 38 | 1 | 0 | 0 | 0 |
+| Nov 6 ~4:08 PM | OFF-BRAND Tesla/Elon reply (2118843009706205494), not from our drafts | reply | 38 | 4 | 0 | 0 | 0 |
+| Nov 6 ~1:14 PM | Wells Fargo §15 original + self-reply | original (2nd) | 12 + 9 | 0 | 0 | 0 | 1 |
+| Nov 6 ~9:51 AM | Quote Dexerto Prime/Uber (2118748112366002648) | parent-quote | 27 | 0 | 0 | 0 | 0 |
+| Nov 5 ~5:31 PM | Dexerto Prime/Uber reply | reply | 814 | 2 | 1 | 0 | 0 |
+| Nov 5 ~9:25 AM | IntCyberDigest iCloud scope reply | reply | 3,756 | 8 | 7 | 0 | 0 |
+| Nov 5 ~9:25 AM | Wario64 Nintendo price reply | reply | 2,103 | 6 | 0 | 0 | 1 |
+| Oct 31 | Prime $15 under jaxoncoder | reply | 101,692 | 128 | 148 | 6 | 7 |
+
+Nov 7 PM conditionals (NOT posted): IntCyberDigest Claude Max "20x" ruling went 5.7K → **107K / 80 replies**; IGN Pulse Elevate delay went 12.7K → **99K / 25 replies**. Both would have cleared the bar within the window.
+
+Reach per tier (updated):
+- Late 500K+ quote (Dexerto Claude, 4h after post, parent went to 1.28M): 21. Same band as the Prime/Uber quote (27). The quote layer at 22 followers stays at 20–30 no matter how big the parent gets.
+- Originals: Starlink finished at 11, still in the 6–20 band.
+- No new data in the 800–3.7K tier since Nov 5.
+
+### What we learned
+1. Followers flat at 22 for 5 days; nothing took off overnight. Week's reach is still the Oct 31 Prime reply (101.7K) and the Nov 5 IntCyberDigest/Wario64 replies.
+2. Missed chance: both Nov 7 PM conditionals blew past 20K (107K and 99K) with few replies ahead. When an in-lane brand/aggregator post is climbing fast (~80–110 imp/min) with under 10 replies, post the reply at once rather than waiting for 20K. (Proposal for Samuel's bar: allow under-20K parents that are climbing >75 imp/min with <10 replies.)
+3. Sunday-morning feed: AI-plan pricing is today's hot lane (OpenAI's Tibo "Pro 100=10X / 200=20X / 500=50X", 1.72M; "Pro 50?" 1.04M / 3.4K replies), plus Altman RAM jokes (Pirat_Nation 769K; Dexerto 30K fresh). PS Plus perks (UK/FR/DE only) is a fresh fine-print slot under IGN with 12 replies.
+4. Verified receipts: DDR5 16Gb spot $8.87 (Oct 13, 2025, Wayback) → $60.17 (Nov 6, 2026) on DRAMeXchange; OpenAI's help center publishes no 10X/20X/50X, only "no five-hour usage limit" + "still has an included usage allowance."
+
+### Topic log
+- AI-plan usage multiples (OpenAI Pro): testing as a 500K+ parent-quote with a "where it's written" receipt.
+- Memory/RAM price data under an AI-CEO joke post: testing as a fresh Dexerto reply (30K, 37 min).
+- Regional-only subscription perks/trial auto-billing (PS Plus): reply under IGN, 12 ahead.
+- Airline fee hike + peak-calendar expansion (JetBlue): today's original.
+
+### Drafted (social/2026-11-08/am/xgrowth-am-drafts.md)
+- **R2 (post now)** Dexerto Ram-Altman (30K / 34 / ~37 min): DDR5 chip 6.8x since Oct 2025 + OpenAI's 900K-wafer target. OpenAI logo + spot-price chart.
+- **R1 (post by ~9:35 AM MT)** IGN PS Plus perks (27K / 12 / ~82 min): UK/FR/DE only; YouTube trial new-customers-only, auto-bills £12.99/€12.99. PlayStation logo + fine-print card.
+- **O1 original** JetBlue bag hike + all of December peak (logo + fee table + December strip), self-reply with article link.
+- **Q1 parent-quote** thsottiaux OpenAI Pro multiples (1.72M / 1,370 / ~11h): not on OpenAI's own pages; "20x" claims vs Anthropic just survived. OpenAI logo + card.
