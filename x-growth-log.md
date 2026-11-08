@@ -1525,3 +1525,44 @@ Tier notes: all five Nov 6 replies/quotes landed with 37+ replies already ahead 
 - O1 Starlink 10–20% dynamic hike original (logo + price ladder + email fine print), self-reply to /due-soon/.
 - R1 unusual_whales road-trip gas (45K / 27 replies / ~20 min) — Yahoo's assumptions + state-by-state $2,395.
 - R2 CONDITIONAL Pirat_Nation LG/ACR (12K, flat) — default skip.
+
+## Snapshot 2026-11-07 ~5:15 PM MT (Saturday evening)
+Account (X API, ~5:17 PM MT): **22 followers** (flat 4th straight day), 14 following, 217 posts, 99 media. Pinned = Nov 2 roundup 2117292806964400275. **Original slot USED** by AM Starlink original (9:23 AM MT). JetBlue deep-dive original not posted (correct: no 2nd original).
+
+### Recent post performance (today's AM posts + overnight)
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Reposts | Replies |
+|---|---|---|---|---|---|---|---|
+| Nov 7 ~9:23 AM | Starlink 10–20% dynamic-pricing original (2119103341494227365) + self-reply 2119103541189165218 | original | **8** + 3 | 0 | 0 | 0 | 1 (self) |
+| Nov 7 ~9:30 AM | unusual_whales road-trip gas reply (2119105115819061716), parent now **229K / 104 replies** | reply | **6** | 0 | 0 | 0 | 0 |
+| Nov 6 ~5:28 PM | charlieINTEL GTA VI storage reply (2118862972424704187), parent now 261K | reply | 38 | 0 | 0 | 0 | 0 |
+| Nov 6 ~1:14 PM | Wells Fargo §15 original (2118799229175107806) + self-reply | original (2nd) | 12 + 9 | 0 | 0 | 0 | 1 |
+| Nov 6 ~9:51 AM | Quote Dexerto Prime/Uber (2118748112366002648), parent 533K | parent-quote | 25 | 0 | 0 | 0 | 0 |
+| Nov 5 ~5:31 PM | Dexerto Prime/Uber reply (2118501414570004972) | reply | 804 | 2 | 1 | 0 | 0 |
+| Nov 5 ~9:25 AM | IntCyberDigest iCloud scope reply (2118383267875615091) | reply | 3,732 | 8 | 7 | 0 | 0 |
+
+Parent-quotes (tracked separately): Dexerto Prime/Uber quote flat at 25. Nothing new posted since.
+
+Reach per bar tier (updated):
+- 50K+ parent that went to 229K, ~29 min, image-led, ~27 replies ahead: unusual_whales → **6**. Even an early, image-led reply under a parent that went 5x did nothing; author's reply section is huge and sorted by engagement.
+- Originals: Starlink 8 (in the usual 6–12 band) despite the story trending nationwide.
+- Nothing in the 3.7K / 800 tier since Nov 5.
+
+### What we learned
+1. No post took off; followers flat at 22 for a 4th day. Nov 6–7 replies all landed between 3 and 38 imp.
+2. The unusual_whales sample adds to the "replies ahead" lesson: ~27 ahead at 29 min still finished at 6. The Nov 5 winners were under brand/aggregator posts with fewer, slower replies (IntCyberDigest, amazonnews), not huge-comment-section news accounts.
+3. Saturday evening is a weak slot: trends are all college football; in-lane posts are either old/crowded (nypost tip-a-robot 459K/217 replies; Dexerto Claude files 689K/269) or fresh but still small (IntCyberDigest Claude Max ruling 5.7K/8; IGN Pulse Elevate 12.7K/2).
+4. Fresh receipt found: Anthropic's pricing page no longer says "20x". The $200 tier is now "Ultra" at "10x Pro usage every week" (no 5-hour limit for verified accounts), and $100 Max says 5x "every 5 hours and every week". That's a day-after receipt on the Nov 6 Kahn v. Anthropic ruling and a possible site/original story for tomorrow.
+5. Off-brand Tesla/Elon reply (2118843009706205494, Nov 6 4:08 PM MT) still up (37 imp, 4 likes). No new non-draft posts since.
+
+### Topic log
+- Big-brand price hike, rural (Starlink): original 8. Doesn't travel as an original at 22 followers, same as every original.
+- AI-agent liability terms (Claude deletes files): testing as a 500K+ parent-quote.
+- Subscription advertising lawsuit (Claude Max): conditional reply.
+- Pre-order rights on a delayed product (Sony Pulse Elevate): conditional reply.
+
+### Drafted (social/2026-11-07/pm/xgrowth-pm-drafts.md)
+- **Q1 (post now)** quote Dexerto Claude deleted-files (689K / 269 replies / ~4h): Anthropic consumer terms §4 "responsible for all Actions" + §11 $100 cap. Claude logo + terms card.
+- **R1 CONDITIONAL** IntCyberDigest Claude Max ruling (5.7K / 8 / ~40 min): pricing page now says Ultra 10x weekly, not 20x. Post only if ≥20K and climbing by ~6:15 PM MT.
+- **R2 CONDITIONAL** IGN Pulse Elevate delay (12.7K / 2 / ~24 min): PlayStation Direct doesn't charge until ship; cancel until shipping. Post only if ≥20K and climbing by ~6:30 PM MT.
+- No original (slot used). Nothing needs Samuel's OK except the off-brand Tesla reply flag.

@@ -1,0 +1,5 @@
+Before you hand an AI agent your folders: Anthropic's consumer terms say "You are responsible for … all Actions" and "Actions may not be error free or operate as you intended."
+
+Liability cap: the greater of 6 months of fees or $100.
+
+His save was a Dropbox backup. Keep one.
