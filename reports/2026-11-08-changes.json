@@ -1,85 +1,101 @@
 [
-  {
-    "service": "Booking.com",
-    "page": "terms",
-    "headline": "Price match will pay wallet credits, not a refund",
-    "tldr": "From Dec 10, Booking.com's US price-match promise changes from a refund of the difference to Wallet Credits. They can still lower your reservation price if possible.",
-    "impact": 2,
-    "themes": [
-      "price-creep",
-      "not-our-problem"
-    ],
-    "effective": "2026-12-10",
-    "deadline": "Takes effect",
-    "url": "https://q-xx.bstatic.com/static/docs/tos-hww/Customer_Terms_of_Service_US_December_2026.pdf",
-    "who": "People who book accommodations on Booking.com under the US Customer Terms of Service, especially anyone who might use We Price Match after Dec 10, 2026",
-    "seo_title": "Booking.com price match will pay wallet credits instead of a refund (US terms, Dec 10, 2026)",
-    "seo_desc": "Booking.com's Dec 10, 2026 US terms change We Price Match from \"we promise to refund the difference\" to Wallet Credits. Genius level numbers leave the contract, and identity checks are new.",
-    "redline": [
-      {
-        "before": "we promise to refund the difference",
-        "after": "we promise you Wallet Credits for the difference",
-        "label": "US Customer Terms of Service · B7 We Price Match",
-        "note": "The opening promise no longer says you get a refund. The new terms promise Wallet Credits instead.",
-        "src": "quoted"
-      },
-      {
-        "before": "claim an after-stay refund of the price difference",
-        "after": "claim after stay Wallet credits of the price difference",
-        "label": "US Customer Terms of Service · B7 We Price Match (claim steps)",
-        "note": "They can still amend the reservation price if possible. When they don't, the after-stay makeup is credits, not a refund.",
-        "src": "quoted"
-      },
-      {
-        "before": "To reach Level 2, the user must complete 5 bookings within 2 years. To reach Level 3, the user must complete 15 bookings within 2 years.",
-        "after": "Your Genius level is based on your booking activity on our Platform, as further explained on our Genius dedicated page",
-        "label": "US Customer Terms of Service · A13 Genius",
-        "note": "The 5- and 15-booking thresholds leave the contract. As of Nov 8 they are still on the Genius marketing page.",
-        "src": "quoted"
-      }
-    ],
-    "actions": [
-      "If you already found the same room cheaper elsewhere, file a We Price Match claim now, while the live US terms still say \"we promise to refund the difference\"",
-      "From Dec 10, read the US Customer Terms PDF linked from booking.com/content/terms.html before you book",
-      "After Dec 10, a successful claim may still change your reservation price; otherwise you get Wallet Credits after the stay. The clause does not say whether those are Travel Credits (which \"can't cash out\") or Cash Credits (which can)",
-      "Genius Level 2 (5 bookings in 2 years) and Level 3 (15 in 2 years) are still described on booking.com/genius.html as of Nov 8, but the Dec 10 terms no longer lock those numbers in"
-    ],
-    "what": "Booking.com has posted a US Customer Terms of Service dated 10 December 2026. It is a PDF linked from the live terms page, which is still marked \"Updated August 25, 2025\". We compared the two (fetched Nov 8, 2026). This is the US document; other countries may see different terms.\n\n## Change 1: We Price Match promises wallet credits instead of a refund\n\nThe current terms say: if, after you have booked, you find the same Accommodation (with the same conditions) cheaper on another website, \"we promise to refund the difference.\" The December 10 terms say \"we promise you Wallet Credits for the difference.\"\n\nThe claim steps change in the same way. Both versions still say that after Booking.com validates your claim, \"we will amend the reservation price (if possible).\" When that is not possible, the current terms tell you how \"to claim an after-stay refund of the price difference.\" The new terms tell you how \"to claim after stay Wallet credits of the price difference.\"\n\nThe checklist of matching conditions is otherwise the same: same property and room type, same dates, same cancellation policy, same number of occupants, same add-on or meal plan, and the cheaper offer must be in the property's local currency and still online when they check. Loyalty-discounted, opaque, partner-offer and cancelled bookings are still excluded. Booking.com still \"reserves the right to make the sole determination regarding a customer's eligibility to receive the price match.\"\n\nThe new clause says \"Wallet Credits,\" not which kind. In the same document's dictionary, \"Travel Credits\" are a benefit you can put toward a future Travel Experience but \"can't 'cash out'\". \"Cash Credits\" can be cashed out to the payment method on file, or put toward a future trip, and the rewards section says they can be transferred to a credit or debit card of certain brands. The price-match sentence does not say you will receive Cash Credits.\n\n## Change 2: Genius level numbers leave the contract\n\nThe current terms spell out how Genius levels work: \"To reach Level 2, the user must complete 5 bookings within 2 years. To reach Level 3, the user must complete 15 bookings within 2 years.\" They also say \"There are no membership fees, and it's easy to become a member - just create an account.\"\n\nThe December 10 terms drop both the numbers and the \"no membership fees\" sentence. They say: \"It's easy to become a member - simply create an account.\" And: \"Your Genius level is based on your booking activity on our Platform, as further explained on our Genius dedicated page.\"\n\nWe did not find a Genius membership fee. The Genius page (booking.com/genius.html, fetched Nov 8, 2026) still says Level 2 is unlocked \"upon completing 5 bookings in 2 years\" and Level 3 \"upon completing 15 bookings in 2 years,\" and it still markets sign-up as free. What changed is that those thresholds will no longer sit in the terms themselves. Both versions already say Booking.com \"may change any feature of the Genius programme, including the membership levels.\"\n\n## Change 3: Identity checks, including a selfie\n\nThe current terms say: \"To make a booking, you may need to create an Account.\" The new terms add \"and/or undergo mandatory identity verification (if applicable).\"\n\nA new A9 rule says: \"If you book an Accommodation which requires mandatory identity verification, We retain the right to cancel your Booking if your identity cannot be verified by one of the prescribed methods. In that case, we will cancel your booking and refund anything you've paid.\"\n\nSection B also adds a Guest verification paragraph that is not in the August 2025 terms: Booking.com \"may ask you to verify your identity during or after you complete your Booking, as required by the Service Provider.\" Methods include \"your historical bookings and/or via a \\\"selfie\\\" check,\" and \"your Booking confirmation may be subject to completion of a successful identity verification.\"\n\n## Change 4: Refunds can depend on what Booking.com can recover\n\nWhen Booking.com (or an affiliate) organizes your payment, the new terms add: \"Any refund that you are entitled to is dependent on the amounts actually received by Us and recoverable from the Service Provider under their policy.\" When the Service Provider charges you directly, a new sentence says any refund \"is the responsibility of and will be processed by the Service Provider.\"\n\nThe December 10 terms also add an Installments paragraph (A8.6). Where the option is offered, \"the number of installments, interest, fees, and other conditions, are determined by the relevant payment provider, financing provider, or card issuer.\"\n\n## Other changes\n\nOn Partner offers, the new terms add: \"Our customer service support is limited if you book a Partner Offer.\" The current terms' line that a Partner offer \"Can't be combined with any other offers (promotions, incentives, or rewards)\" is gone.\n\n## What stays the same\n\nSection A20, the arbitration agreement, is not new. The live August 25, 2025 US terms already include it, in substantially the same words: NAM arbitration, a class-action and jury waiver, a 60-day internal review step, batching of 25 or more similar claims, and a 30-day opt-out through the Dispute Resolution page with the message \"Arbitration -- Opt-Out Notice.\" We are not treating Dec 10 as the date Booking.com added forced arbitration.\n\n## What you can do\n\nIf you have a cheaper matching offer today, the live US terms still promise a refund of the difference, so a claim filed under those terms is the clearer path. From December 10, read the US PDF before you book, and if a price-match payout arrives as credits, check whether they are Travel Credits or Cash Credits.\n\nCoverage (checked Nov 8, 2026): We found no news story about the December 10 US terms or the price-match wording. Automated trackers have logged Booking.com's terms, including the existing A20 arbitration clause (captured as early as Sept 19, 2026). The December 2026 PDF is linked from Booking.com's own terms page.",
-    "faq": [
-      [
-        "Does Booking.com still price match after December 10, 2026?",
-        "Yes, for US customers, but the promise changes. The current terms say \"we promise to refund the difference.\" The December 10 terms say \"we promise you Wallet Credits for the difference.\" Booking.com can still change your reservation price if possible; otherwise you get wallet credits after the stay."
-      ],
-      [
-        "Can I cash out Booking.com Wallet Credits from a price match?",
-        "The price-match clause does not say which kind of Wallet Credits you get. In the same terms, Travel Credits \"can't 'cash out'\" and Cash Credits can be cashed out to a payment method on file or transferred to some cards. Check what actually appears in your Wallet."
-      ],
-      [
-        "When do the new Booking.com US terms take effect?",
-        "The preview PDF is titled \"Updated 10 December 2026.\" The live terms page was still marked \"Updated August 25, 2025\" when we fetched it on Nov 8, 2026, and linked to that PDF."
-      ],
-      [
-        "Did Booking.com add forced arbitration on December 10?",
-        "No. The US terms dated August 25, 2025 already include section A20 (NAM arbitration, class-action waiver, 30-day opt-out). The December 10 copy keeps that clause in substantially the same words."
-      ],
-      [
-        "Did Booking.com change Genius Level 2 and Level 3?",
-        "Not on the Genius page we fetched on Nov 8, 2026, which still says Level 2 after 5 bookings in 2 years and Level 3 after 15. The December 10 terms remove those numbers from the contract and point to the Genius page instead. They also drop the sentence \"There are no membership fees.\""
-      ]
-    ],
-    "sources": [
-      [
-        "Booking.com: Customer Terms of Service (US), updated August 25, 2025 (live page fetched Nov 8, 2026)",
-        "https://www.booking.com/content/terms.html"
-      ],
-      [
-        "Booking.com: Customer Terms of Service (US), updated 10 December 2026 (PDF)",
-        "https://q-xx.bstatic.com/static/docs/tos-hww/Customer_Terms_of_Service_US_December_2026.pdf"
-      ],
-      [
-        "Booking.com Genius (fetched Nov 8, 2026)",
-        "https://www.booking.com/genius.html"
-      ]
-    ]
-  }
+ {
+  "service": "Booking.com",
+  "page": "terms",
+  "headline": "Price match will pay wallet credits, not a refund",
+  "tldr": "From Dec 10, Booking.com's US price-match promise changes from a refund of the difference to Wallet Credits. They can still lower your reservation price if possible.",
+  "impact": 2,
+  "themes": [
+   "price-creep",
+   "not-our-problem"
+  ],
+  "effective": "2026-12-10",
+  "deadline": "Takes effect",
+  "url": "https://q-xx.bstatic.com/static/docs/tos-hww/Customer_Terms_of_Service_US_December_2026.pdf",
+  "who": "People who book accommodations on Booking.com under the US Customer Terms of Service, especially anyone who might use We Price Match after Dec 10, 2026",
+  "seo_title": "Booking.com price match will pay wallet credits instead of a refund (US terms, Dec 10, 2026)",
+  "seo_desc": "Booking.com's Dec 10, 2026 US terms change We Price Match from \"we promise to refund the difference\" to Wallet Credits. Genius level numbers leave the contract, and identity checks are new.",
+  "redline": [
+   {
+    "before": "we promise to refund the difference",
+    "after": "we promise you Wallet Credits for the difference",
+    "label": "US Customer Terms of Service · B7 We Price Match",
+    "note": "The opening promise no longer says you get a refund. The new terms promise Wallet Credits instead.",
+    "src": "quoted"
+   },
+   {
+    "before": "claim an after-stay refund of the price difference",
+    "after": "claim after stay Wallet credits of the price difference",
+    "label": "US Customer Terms of Service · B7 We Price Match (claim steps)",
+    "note": "They can still amend the reservation price if possible. When they don't, the after-stay makeup is credits, not a refund.",
+    "src": "quoted"
+   },
+   {
+    "before": "To reach Level 2, the user must complete 5 bookings within 2 years. To reach Level 3, the user must complete 15 bookings within 2 years.",
+    "after": "Your Genius level is based on your booking activity on our Platform, as further explained on our Genius dedicated page",
+    "label": "US Customer Terms of Service · A13 Genius",
+    "note": "The 5- and 15-booking thresholds leave the contract. As of Nov 8 they are still on the Genius marketing page.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "If you already found the same room cheaper elsewhere, file a We Price Match claim now, while the live US terms still say \"we promise to refund the difference\"",
+   "From Dec 10, read the US Customer Terms PDF linked from booking.com/content/terms.html before you book",
+   "After Dec 10, a successful claim may still change your reservation price; otherwise you get Wallet Credits after the stay. The clause does not say whether those are Travel Credits (which \"can't cash out\") or Cash Credits (which can)",
+   "Genius Level 2 (5 bookings in 2 years) and Level 3 (15 in 2 years) are still described on booking.com/genius.html as of Nov 8, but the Dec 10 terms no longer lock those numbers in"
+  ],
+  "what": "Booking.com has posted a US Customer Terms of Service dated 10 December 2026. It is a PDF linked from the live terms page, which is still marked \"Updated August 25, 2025\". We compared the two (fetched Nov 8, 2026). This is the US document; other countries may see different terms.\n\n## Change 1: We Price Match promises wallet credits instead of a refund\n\nThe current terms say: if, after you have booked, you find the same Accommodation (with the same conditions) cheaper on another website, \"we promise to refund the difference.\" The December 10 terms say \"we promise you Wallet Credits for the difference.\"\n\nThe claim steps change in the same way. Both versions still say that after Booking.com validates your claim, \"we will amend the reservation price (if possible).\" When that is not possible, the current terms tell you how \"to claim an after-stay refund of the price difference.\" The new terms tell you how \"to claim after stay Wallet credits of the price difference.\"\n\nThe checklist of matching conditions is otherwise the same: same property and room type, same dates, same cancellation policy, same number of occupants, same add-on or meal plan, and the cheaper offer must be in the property's local currency and still online when they check. Loyalty-discounted, opaque, partner-offer and cancelled bookings are still excluded. Booking.com still \"reserves the right to make the sole determination regarding a customer's eligibility to receive the price match.\"\n\nThe new clause says \"Wallet Credits,\" not which kind. In the same document's dictionary, \"Travel Credits\" are a benefit you can put toward a future Travel Experience but \"can't 'cash out'\". \"Cash Credits\" can be cashed out to the payment method on file, or put toward a future trip, and the rewards section says they can be transferred to a credit or debit card of certain brands. The price-match sentence does not say you will receive Cash Credits.\n\n## Change 2: Genius level numbers leave the contract\n\nThe current terms spell out how Genius levels work: \"To reach Level 2, the user must complete 5 bookings within 2 years. To reach Level 3, the user must complete 15 bookings within 2 years.\" They also say \"There are no membership fees, and it's easy to become a member - just create an account.\"\n\nThe December 10 terms drop both the numbers and the \"no membership fees\" sentence. They say: \"It's easy to become a member - simply create an account.\" And: \"Your Genius level is based on your booking activity on our Platform, as further explained on our Genius dedicated page.\"\n\nWe did not find a Genius membership fee. The Genius page (booking.com/genius.html, fetched Nov 8, 2026) still says Level 2 is unlocked \"upon completing 5 bookings in 2 years\" and Level 3 \"upon completing 15 bookings in 2 years,\" and it still markets sign-up as free. What changed is that those thresholds will no longer sit in the terms themselves. Both versions already say Booking.com \"may change any feature of the Genius programme, including the membership levels.\"\n\n## Change 3: Identity checks, including a selfie\n\nThe current terms say: \"To make a booking, you may need to create an Account.\" The new terms add \"and/or undergo mandatory identity verification (if applicable).\"\n\nA new A9 rule says: \"If you book an Accommodation which requires mandatory identity verification, We retain the right to cancel your Booking if your identity cannot be verified by one of the prescribed methods. In that case, we will cancel your booking and refund anything you've paid.\"\n\nSection B also adds a Guest verification paragraph that is not in the August 2025 terms: Booking.com \"may ask you to verify your identity during or after you complete your Booking, as required by the Service Provider.\" Methods include \"your historical bookings and/or via a \\\"selfie\\\" check,\" and \"your Booking confirmation may be subject to completion of a successful identity verification.\"\n\n## Change 4: Refunds can depend on what Booking.com can recover\n\nWhen Booking.com (or an affiliate) organizes your payment, the new terms add: \"Any refund that you are entitled to is dependent on the amounts actually received by Us and recoverable from the Service Provider under their policy.\" When the Service Provider charges you directly, a new sentence says any refund \"is the responsibility of and will be processed by the Service Provider.\"\n\nThe December 10 terms also add an Installments paragraph (A8.6). Where the option is offered, \"the number of installments, interest, fees, and other conditions, are determined by the relevant payment provider, financing provider, or card issuer.\"\n\n## Other changes\n\nOn Partner offers, the new terms add: \"Our customer service support is limited if you book a Partner Offer.\" The current terms' line that a Partner offer \"Can't be combined with any other offers (promotions, incentives, or rewards)\" is gone.\n\n## How this compares: practice today and Expedia\n\nThe wording change may codify what already happens. In January 2026 a r/Bookingcom user complained that an approved price match was paid into the Wallet instead of their card. A reply from the u/bookingcom account (Jan 2, 2026) said: \"For We Price Match claims, compensation is provided as travel credit to your Booking.com Wallet... Once added as wallet credit, it cannot be converted back to a refund to the original payment method.\" (We read this through a search snapshot; Reddit blocks our server.) That is one customer's report, not proof of what every claim pays, but it is at odds with the August 25, 2025 terms (\"we promise to refund the difference\") and with Booking.com's We Price Match help page, which still says \"You can claim a refund for the difference\" (checked Nov 8).\n\nFor comparison, Expedia's own Hotel Price Guarantee page says the guarantee \"will end on July 28, 2026\" (eligible earlier bookings still qualify), and that before then it issued \"the difference in OneKeyCash,\" not cash. AwardWallet and Upgraded Points both report that Expedia and Hotels.com removed it with no replacement. So Booking.com is among the few big booking sites still matching prices after booking, but from December 10 the written promise is credit, not a refund.\n\n## What stays the same\n\nSection A20, the arbitration agreement, is not new. The live August 25, 2025 US terms already include it, in substantially the same words: NAM arbitration, a class-action and jury waiver, a 60-day internal review step, batching of 25 or more similar claims, and a 30-day opt-out through the Dispute Resolution page with the message \"Arbitration -- Opt-Out Notice.\" We are not treating Dec 10 as the date Booking.com added forced arbitration.\n\n## What you can do\n\nIf you have a cheaper matching offer today, the live US terms still promise a refund of the difference, so a claim filed under those terms is the clearer path. From December 10, read the US PDF before you book, and if a price-match payout arrives as credits, check whether they are Travel Credits or Cash Credits.\n\nCoverage (checked Nov 8, 2026): We found no news story about the December 10 US terms or the price-match wording. Wallet-credit payouts under the older wording appear only in customer posts (r/Bookingcom, Jan 2026). Automated trackers have logged Booking.com's terms, including the existing A20 arbitration clause (captured as early as Sept 19, 2026). The December 2026 PDF is linked from Booking.com's own terms page.",
+  "faq": [
+   [
+    "Does Booking.com still price match after December 10, 2026?",
+    "Yes, for US customers, but the promise changes. The current terms say \"we promise to refund the difference.\" The December 10 terms say \"we promise you Wallet Credits for the difference.\" Booking.com can still change your reservation price if possible; otherwise you get wallet credits after the stay."
+   ],
+   [
+    "Can I cash out Booking.com Wallet Credits from a price match?",
+    "The price-match clause does not say which kind of Wallet Credits you get. In the same terms, Travel Credits \"can't 'cash out'\" and Cash Credits can be cashed out to a payment method on file or transferred to some cards. Check what actually appears in your Wallet."
+   ],
+   [
+    "When do the new Booking.com US terms take effect?",
+    "The preview PDF is titled \"Updated 10 December 2026.\" The live terms page was still marked \"Updated August 25, 2025\" when we fetched it on Nov 8, 2026, and linked to that PDF."
+   ],
+   [
+    "Did Booking.com add forced arbitration on December 10?",
+    "No. The US terms dated August 25, 2025 already include section A20 (NAM arbitration, class-action waiver, 30-day opt-out). The December 10 copy keeps that clause in substantially the same words."
+   ],
+   [
+    "Did Booking.com change Genius Level 2 and Level 3?",
+    "Not on the Genius page we fetched on Nov 8, 2026, which still says Level 2 after 5 bookings in 2 years and Level 3 after 15. The December 10 terms remove those numbers from the contract and point to the Genius page instead. They also drop the sentence \"There are no membership fees.\""
+   ],
+   [
+    "Is Booking.com already paying price matches as credits?",
+    "At least some customers say so. A Booking.com account on r/Bookingcom said in January 2026 that price-match compensation is provided as travel credit in the Wallet and cannot be converted back to a refund. The current terms and help page still say refund, which is why the December 10 wording matters."
+   ]
+  ],
+  "sources": [
+   [
+    "Booking.com: Customer Terms of Service (US), updated August 25, 2025 (live page fetched Nov 8, 2026)",
+    "https://www.booking.com/content/terms.html"
+   ],
+   [
+    "Booking.com: Customer Terms of Service (US), updated 10 December 2026 (PDF)",
+    "https://q-xx.bstatic.com/static/docs/tos-hww/Customer_Terms_of_Service_US_December_2026.pdf"
+   ],
+   [
+    "Booking.com Genius (fetched Nov 8, 2026)",
+    "https://www.booking.com/genius.html"
+   ],
+   [
+    "Expedia: Hotel Price Guarantee page (says it ends July 28, 2026)",
+    "https://www.expedia.com/price-guarantee-claim"
+   ],
+   [
+    "AwardWallet: One Key to change Expedia earnings, scrap price guarantee",
+    "https://awardwallet.com/news/hotels/one-key-expedia-changes-2026/"
+   ],
+   [
+    "r/Bookingcom: \"Prive match guarantee - not being paid out?\" (Jan 2026)",
+    "https://www.reddit.com/r/Bookingcom/comments/1pysl65/prive_match_guarantee_not_being_paid_out/"
+   ]
+  ]
+ }
 ]
