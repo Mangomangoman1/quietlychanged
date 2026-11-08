@@ -311,5 +311,8 @@
  "BeReal": {
   "privacy": "https://bereal.com/privacy",
   "terms": "https://bereal.com/terms"
+ },
+ "Booking.com": {
+  "terms": "https://www.booking.com/content/terms.html"
  }
 }
