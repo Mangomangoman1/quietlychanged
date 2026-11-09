@@ -930,3 +930,5 @@ Ideas for next time: Wayback diffs of Uber, Zelle and Chime through a browser (c
 - **Vrew:** Short Dec 1 article + due-soon from vendor notice.
 - **Muse + Emotiv:** Tracking only (privacy in services.json + baselines). No before/after page (Wayback 429s).
 - **Drafts (unsent):** social/2026-11-09/brief4-drafts.md — Joab Jackson / Netlify; Jonathan Moens; tldr mutual link.
+
+- Shipped brief #4: commit **69b3e0b4**; Vercel production **dpl_HW55yehM9rqxGnm9DqmM1PmBMivJ** (manual, site.b64 xz + vercel.json). SEO compare **207→213 pages, 0 missing**. Live 200: Netlify + Vrew articles, /due-soon/, /services/netlify/, /services/vrew/; /services/zoom/ still 301. Drafts unsent in social/2026-11-09/brief4-drafts.md.
