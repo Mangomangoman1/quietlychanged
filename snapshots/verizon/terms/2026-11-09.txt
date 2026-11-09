@@ -1,0 +1,136 @@
+Session status messages
+Session Status
+Due to inactivity, your session will end in approximately 2 minutes. Extend your session by clicking OK below.
+Due to inactivity, your session has expired. Please sign in again to continue.
+Introduction
+1. Program Overview
+2. Eligibility and Enrollment
+3. Earning Verizon Dollars
+4. Verizon Dollars - Glance Lock screen Rewards
+5. Redemption of Verizon Dollars
+6. Expiration of Verizon Dollars
+7. Program Changes and Termination
+8. Canceling Your Plan
+9. Dispute Resolution
+10. Data Privacy
+Page contents
+Page contents
+Verizon Dollars Program: Terms and Conditions
+Glance Lock Screen Rewards
+1. Program Overview
+Review full answer
+The Verizon Dollars Program (the "Program") is a customer loyalty program offered by Verizon. Participation in the Program is subject to these Terms and Conditions. By enrolling in or participating in the Program, you agree to be bound by these Terms and Conditions.
+2. Eligibility and Enrollment
+Review full answer
+2.1. Eligibility
+: The Program is open to all existing and new customers of Verizon who maintain a current and active post-paid Verizon Mobile (including Mobile or Wireless Home Internet service) or Verizon Fios service account.
+2.2. Non-verizon Visa Cardholder Enrollment
+: To participate, eligible customers who do not have a Verizon Visa Card must enroll in the Program with the myVerizon App.
+2.3. Verizon Visa Cardholders
+: Eligible VVC cardholders are automatically enrolled and will continue to earn Verizon Dollars when using their card.
+2.4. Account Status
+: The customer's account must be in good standing to earn or redeem Verizon Dollars.
+2.5. Account Types
+: Generally, only account owners/managers can access Verizon Dollars, though other account members may have access to special offers.
+3. Earning Verizon Dollars
+Review full answer
+3.1. Dollars Calculation
+: Participants will earn Verizon Dollars equivalent to 3% cash back on the total monthly Verizon Mobile or Verizon Fios bill amount, including monthly service charges, perks, Value-Added Services, devices, and taxes, fees, and one-time charges, unless otherwise specified. The calculation is based on the eligible charges detailed on the customer's monthly invoice.
+3.2. Dollars Earning Cycle
+: Dollars are earned on a monthly basis, based on the Verizon Mobile or Verizon Fios bill issued for the prior service period. Dollars are only issued on payments received in full and on time.
+3.3. Posting of Dollars
+: Earned Dollars will be posted to the customer's Program account 10-12 days after the bill due date, if bill payment is received in full and on time.
+4. Verizon Dollars - Glance Lock screen Rewards
+Review full answer
+The Glance platform enables users to access content and receive advertisements and promotions through their mobile device’s lock-screen. Verizon postpaid mobile Account Owners and Managers who have enrolled in Verizon Dollars and the Lock Screen Rewards program may earn $5 in Verizon Dollars each calendar month by actively engaging with the Glance Platform for at least 60 minutes during that month.
+4.1 What's Required:
+To participate in the Lock Screen Rewards offer, Customers must:
+Be a postpaid mobile Verizon Account Owner or Manager over the age of 18
+Provide a valid email address
+Use a Verizon mobile line on an eligible smartphone device and successfully verify the number through a One-Time Passcode. (Second numbers, prepaid plans, basic phones and connected devices are not eligible)
+Provide a selfie, upload an image from the gallery, or choose from a selection of standard avatars to be added to the Glance AI experience, as soon as it’s available
+Opt-in to participate with Glance via the My Verizon app
+Access the Glance app if it’s pre-loaded on your mobile device or download the Glance app through the link found in the Verizon Dollars section of your My Verizon app or a Verizon email
+Create a new Glance account (you may also use an existing Glance Account), including the acceptance of Glance’s terms and privacy policy, with an email address linked to the Play Store or App Store. Customers may use an existing Glance account by using the same email address linked to that account
+Maintain enrollment in Verizon Dollars
+Enable and maintain an active Glance account in accordance with Glance’s requirements
+Grant and maintain permission for Glance to access the Device's location
+Maintain "Do not sell or share my personal information" disabled (toggled off)
+Maintain "Limit use or disclosure of my sensitive personal information" disabled (toggled off);
+Maintain "Enhanced browsing" enabled (toggled on)
+For iOS users:
+Add and maintain three (3) Glance widgets on the Device's Lock Screen and one (1) Glance widget on the Device's Home Screen
+Does not select, and continues not to select, "Ask App Not to Track" for the Glance AI application
+For Android user-initiated/non-preloaded installation, including an installation initiated through the Google Play Store
+Enable and maintain Glance as the active Lock Screen experience on the Device
+Enable and maintain Notification Access for Glance through the Device settings
+Enable and maintain the Device permission required to allow Glance to display on the Lock Screen+
+4.2 What You Should Know:
+Engagement with the App is measured by Glance and its timer starts when the user opens their Glance lock screen and widget. The timer continues only while the widget is active in the foreground view and the user is actively interacting with the platform. Qualified actions may include reading, scrolling, watching, tapping, swiping, searching, asking AI questions, browsing recommendations, opening related content, or completing widget-specific flows. Engagement time stops when the user exits the Glance platform, idles or otherwise becomes personally inactive, disables location access, opts out of Lock Screen Rewards, withdraws a required consent or action, toggles on “Do not sell share my personal information,” moves to an external app or browser, or removes the Glance lock screen app from their phone.
+To earn $5 in Verizon Dollars, you must complete at least 60 minutes of qualified engagement in a calendar month, as determined by Glance. If you enroll in the Glance Lock Screen Reward mid-month, you will have fewer days to reach the 60 minute requirement for that month
+Verizon Dollars earned in the previous month will be posted to your Verizon Dollars Program balance within the first 15 days of the next month
+The Verizon Dollars Glance Lock Screen Rewards offer is exclusive of any other benefits or rewards programs that Glance may make available
+Verizon Dollars earned through Glance activity are subject to the Verizon Dollars program terms and must be used within 12 months. There is no expiration date for Verizon Dollars held by Verizon Visa Card holders with an active Verizon Visa Card account.
+Functionality within Glance, as well as data sharing
+Grant Glance permission to use (a) what you post or make available via Glance and (b) any images or other creative materials generated through Glance and its artificial intelligence tools
+Not disable, restrict, uninstall, or otherwise modify the permissions/settings required by Glance on your Device or in your Glance account. Examples include enhanced web browsing/tracking, image generation, opting out of selling or sharing personal information, and limiting use or disclosure of sensitive personal information, in a manner that prevents Glance or the Verizon Dollars offer from operating as intended.
+To establish and maintain a Glance account, in addition to activating/downloading the Platform and providing a Mobile Telephone Number and other contact information, Glance may require that you:
+Provide a selfie, an image from a device gallery that meets Glance requirements, or select from a selection of avatars from Glance.
+Enable and keep Glance on your device in accordance with Glance requirements
+Grant Glance permission to access your device’s location
+Configure Devices:
+Android: Android: Enable and maintain Glance as the active Lock Screen experience (and grant Notification Access & "Display on Lock Screen" permissions for Play Store installs).
+iOS: Add and maintain three (3) Glance widgets on the Lock Screen and one (1) Glance widget on the Home Screen.
+Provide applicable permissions and consents, as required by Glance, to enable advertising, personalization, attribution and measurement functionality within Glance, as well as data sharing
+Grant Glance permission to use (a) what you post or make available via Glance and (b) any images or other creative materials generated through Glance and its artificial intelligence tools
+Not disable, restrict, uninstall, or otherwise modify the permissions/settings required by Glance on your Device or in your Glance account. Examples include enhanced web browsing/tracking, image generation, opting out of selling or sharing personal information, and limiting use or disclosure of sensitive personal information, in a manner that prevents Glance or the Verizon Dollars offer from operating as intended.
+5. Redemption of Verizon Dollars
+Review full answer
+5.1 Redemption and Use
+: Dollars can be redeemed for third-party offers, gift cards, products in the Verizon Store, and one-time purchases of devices and accessories. Verizon Visa Card cardholders can also redeem Verizon Dollars as a credit against future monthly Verizon service bills or as a credit against their Verizon Visa Card statement.
+5.2. Minimum Redemption
+: Some redemption options may require a minimum accumulated Verizon Dollars balance before a customer can request a redemption.
+5.3. Redemption Process
+: Customers must use the My Verizon App to redeem Verizon Dollars, unless otherwise specified.
+6. Expiration of Verizon Dollars
+Review full answer
+6.1. Non-Verizon Visa Cardholders
+: Verizon Dollars earned by non-cardholders expire 12 months after they are issued (365 days later, on a rolling basis).
+6.2. Verizon Visa Cardholders
+: Verizon Dollars earned by a customer while a Verizon Visa Cardholder do not expire, but they will be forfeited if no Verizon Dollars are earned or redeemed for 24 consecutive months.
+7. Program Changes and Termination
+Review full answer
+7.1. Verizon Program Changes and Termination
+: Verizon reserves the right to modify, restrict, or terminate the Program or any of its features at any time, with or without prior notice. This includes, but is not limited to, changes in the reward earning percentage, redemption rules, and eligibility criteria. In the event of Program termination by Verizon, accumulated Verizon Dollars may be forfeited.
+7.2. Verizon Termination of Individual Account
+: Verizon may terminate a participant's enrollment in the Program if the participant violates these Terms and Conditions, provides false information, or engages in fraudulent activity. In the event of such termination, or termination of a customer’s services by Verizon, all accumulated Verizon Dollars will be immediately forfeited.
+7.3. Customer Termination
+: If a customer terminates their Verizon service, all accumulated Verizon Dollars will be immediately forfeited.
+8. Canceling Your Plan
+Review full answer
+8.1. Non-Transferable
+: Dollars and Program benefits are non-transferable and cannot be sold, gifted, or assigned to another account or party.
+8.2. No Cash Value
+: Dollars have no monetary value outside of this Program and cannot be exchanged for cash.
+8.3. Governing Law
+: These Terms and Conditions shall be governed by and construed in accordance with the laws of the State of New York.
+8.4. Effective Date
+: These Terms and Conditions are effective as of <DATE>.
+9. Dispute Resolution
+Review full answer
+Any disputes arising out of or relating to the Program will be resolved in accordance with the procedures outlined in the
+Verizon Customer Agreement
+10. Data Privacy
+Review full answer
+10.1 Consent to Processing
+: By participating, you allow Verizon to use account information and information about the services you use and buy to process Dollars and Program benefits. We may use this information to make personalized recommendations and offers about awards available via the Program from Verizon, its affiliates and its partners, and as described in the
+Verizon Privacy Policy
+. We do not collect or use sensitive personal information through your participation in the Program and we share information with service providers who help us process Dollars and Program benefits.
+10.2 Bona Fide Loyalty Program/Notice of Financial Incentive:
+The Lock Screen Rewards program offers customers more ways to earn Verizon Dollars by downloading, setting up, and using the Glance app. The Lock Screen Rewards program may be considered a bona fide loyalty program under Colorado law. If you elect to enroll in the program, we may disclose limited information to Glance to verify your eligibility, provide you with your earned Verizon Dollars, and for customer support.
+To earn Verizon Dollars through the Lock Screen Rewards program, Glance requires you to share personal information, including sensitive personal information, which it uses to serve you personalized ads. Please review the
+Glance privacy policy
+for details about the information Glance collects, how it may be used and shared, and your choices.
+If you stop sharing information with Glance or opt out of sale or sharing or targeted advertising with Glance, you will no longer qualify to earn Verizon Dollars through the Lock Screen Rewards program.
+You may stop participating in the program at any time by uninstalling the Glance app.
+The Lock Screen Rewards program may be considered a financial incentive under California law. To the extent we can determine the value of the information you provide, we consider the value reasonably related to the costs associated with offering the financial incentive, such as the value of providing you a more personalized experience and the expenses we incur in providing the Incentive.
