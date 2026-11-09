@@ -1,0 +1,373 @@
+EMOTIV Privacy Policy
+Effective Date: August 6, 2026
+
+
+We know your privacy is important to you and we take care to protect that privacy. Please review this Privacy Policy carefully. This Privacy Policy also applies to the Terms of Use and End User License Agreement (EULA) that covers your use of any of our products and services (collectively, âServicesâ).
+
+
+Who we are
+This is the Privacy Policy of EMOTIV. EMOTIV includes EMOTIV, Inc., and its affiliates, Emotiv Research Pty Ltd (Australia), Emotiv Limited (UK), Emotiv Vietnam (Vietnam), and  Emotiv Technology Vietnam (Vietnam).
+
+
+If you have any questions or comments about our privacy practices or wish to submit a privacy request, please contact us here: privacy@emotiv.com or contact our Data Protection Officer as set forth below.
+
+
+Why does EMOTIV care about privacy?
+EMOTIV follows three guiding principles when it comes to your privacy:
+
+
+(i) Transparency. We work to communicate to you what information we collect, when we collect, and how we will process or analyze your information.
+
+ (ii) Simplicity. We try to use easy-to-understand language to help you make informed choices.
+
+
+(iii) Control. We give you control over the information you provide to us, and how it is used, shared, and retained.
+
+
+Some helpful definitions
+To help you understand the terms we use in this document, here are some definitions we use:
+
+
+(i) Privacy Policy. This document explains how we collect, store, share and use your Data, and what statutory options you have for controlling that Data.
+
+ (ii) Terms of Use and EULA. The legal agreements between you (as the end user or Organization), and us. We seek and record your consent to these terms when you sign up to our Services. The Terms of Use and EULA include your consent that you have read and agree to our Privacy Policy.
+
+ (iii) Services. This is the collective term for the product and services we provide to you including our hardware, our software, our cloud storage and applications, and our websites.
+
+ (iv) Data. This is information we collect from you that may include Personal Information, Sensitive Personal Information, Neural Data, and Consumer Health Data.  
+
+(v) Personal Information includes any information you provide that does or could identify, relate to, describe, or be reasonably associated with you as an individual person.
+
+(vi) Sensitive Personal Information & Neural Data includes electrical biosignals, central or peripheral nervous system telemetry, raw EEG data, precise geolocation, biometric identifiers, genetic data, and government identifiers. Under applicable state laws (including California, Colorado, and Connecticut), Neural Data and EEG Data constitute Sensitive Personal Information.
+
+(vii)Consumer Health Data (CHD) includes non-HIPAA health and wellness information, cognitive performance metrics, facial expression telemetry, and emotional or mental state inferences derived from natural persons. 
+
+ (viii) HIPAA Disclaimer EMOTIVâs direct-to-consumer and enterprise hardware and software are provided for informational, cognitive wellness, and research purposes and do not constitute medical devices. EMOTIV is not a "covered entity" or "business associate" under the Health Insurance Portability and Accountability Act (HIPAA), and information collected through the Services is not Protected Health Information (PHI) under federal law, unless explicitly agreed upon in a separate, executed Business Associate Agreement (BAA) for specific clinical research contracts.
+
+ix) Demographic Data means general information relevant to brain science such as your age, gender, country of residence and birth, handedness, education, number of languages spoken and musical ability. Demographic Data is Personal Information. We use it in pseudonymized or aggregated form wherever it is technically sufficient for the purpose.
+
+
+Summary
+This Privacy Policy explains:
+
+
+(i) What kinds of information we collect;
+
+ (ii)   When we collect information about you;
+
+ (iii)  How we use Personal Information, Sensitive Personal Information, and Neural Data we collect about you;
+
+ (iv) The lawful basis for processing your Personal Information;
+
+ (v)    What steps we take to protect your Personal Information;
+
+ (vi)   How and with whom we share information;
+
+ (vii)  Data retention and data minimization;
+
+ (viii) Third-party services;
+
+ (ix)   How you can correct information, delete, or limit information we collect about you;
+
+ (x)        Social media features;
+
+ (xi)   Closing your account;
+
+ (xii)  California & Multi-state privacy rights and universal opt-out signals (GPC);
+
+ (xiii)     Changes to this Privacy Policy;
+
+ (xiv)  Prevention of Children and Minors under 18 using the Services;
+
+
+(xv)   Enforcement and acceptance of this Privacy Policy; and
+
+(xvi)   EU AI Act disclosures and biometric transparency
+
+
+What kinds of information we collect
+EMOTIV collects Personal Information about you (i) when you provide it directly to us, (ii) when third parties such as our business partners and service providers provide us with Personal Information about you, or (iii) when Personal Information about you is automatically collected in connection with your use of the Services.
+
+
+(i) We collect personal information we directly ask you for:
+
+
+
+Contact Information. This is information we collect to identify or contact you, such as your first and last name, physical address, email address, or telephone number. For example, this is the basic information that we collect when you register for the Services.   
+Financial Account Information. This is information that you provide to purchase Services, including credit card number, credit card expiration date, credit card verification code, bank account number, bank account title, bank name, branch location, and routing number. You must only provide us with financial account information for accounts and credit cards that you have the lawful right to access.
+
+(ii) We collect Personal Information that third parties give to us:
+
+
+
+Partner Information. This is information that our business partners, such as our content-providing partners, share with us. For example, if you use their services to purchase, preview, and/or otherwise use their content when using the Services.
+
+(iii) We collect Personal Information from you automatically when you use our Services:
+
+
+
+User Account Information. This is information that identifies you to the Services, such as your user name, email address, password, and IP address. For example, we use this information to authenticate you when you log in to the Services, and use the IP address to help maintain your web session security while using the Services.   
+User Content. You may choose to input Personal Information as part of content, images, comments, information, and materials that you post to or through the Services.  
+Log Data. This is information recorded about how you use the Services, such as IP addresses, cookies, device and browser type, geographic location, web beacons, operating system, the pages, features, products or services you browsed, the time spent viewing those pages, features, products or services, the products or services you added to your cart or purchased, the frequency with which you used the Services, search terms you used, the links on the Services that your clicked on or used, and other statistics. EMOTIV recognizes automated opt-out preference signals, including Global Privacy Control (GPC) and Universal Opt-Out Mechanisms (UOOMs), as valid opt-out requests under applicable state laws.
+
+EMOTIV also collects information from you that constitutes Sensitive Personal Information, Neural Data, or Consumer Health Data: 
+
+
+
+EEG Data and Neural Data. Consists of electrical biosignals, sensor telemetry, and motion sensor outputs collected when you use EMOTIV devices.  Under applicable state laws (including California, Colorado and Connecticut), EEG Data and biosignals constitute "Neural Data" and "Sensitive Personal Information".  For the purposes of this Privacy Policy, we also use the term âEEG Dataâ to include information derived directly from EEG biosignals, motion and other hardware signals such as mental commands, performance metrics and facial expressions.  
+Experiment Data & Cognitive Telemetry. Information collected during voluntary participation in research,  experiments, studies or programs, or your use of the Services, such as performance metrics, cognitive load, focus/fatigue trendlines, your EEG Data, Demographic Data, performance data, responses to experiment questions, and any data collected from related monitoring equipment, associated data such as event timing markers, mouse, touchscreen, gestural, and keyboard events, eye movements, survey responses, choices and preferences, tactile, audio, visual, and other sensory stimuli, reaction times, self-assessment, and cognitive performance, and responses to experiment questions.  
+
+Consumer Health Data: Non-HIPAA health, wellness, cognitive metrics, or derived health inferences. We process Consumer Health Data directly in accordance with the Consumer Health Data Disclosures section set forth below in this Privacy Policy.
+
+When do we collect information about you?
+We collect Personal Information and Sensitive Personal Information when you:
+
+
+(i) create an account with EMOTIV (a âUser Accountâ);
+
+ (ii) log into the Services;
+
+ (iii) interact with the Services (such as by submitting EEG Data or Neural Data);
+
+ (iv) upload or generate User Content, such as by third-party social media platforms;
+
+ (v) communicate with us or respond to a communication or interaction from us; and
+
+
+(vi) decide to participate in research and other experiments, studies or programs (collectively, âExperimentsâ).
+
+
+If you provide EMOTIV with information about a third party, such as an employee, friend, or research or study partner, you promise and warrant to EMOTIV that you have obtained the informed written consent of such third party to: (i) provide this third-party information to EMOTIV; and (ii) allow EMOTIV to process and share this third-party information in the same manner as your information under this Privacy Policy and applicable law.
+
+
+How do we use Personal Information we collect about you?
+We use Personal Information, Sensitive Personal Information, and Neural Data to:
+
+
+(i) provide, administer, and improve the Services;
+
+ (ii) better understand your needs and interests;
+
+ (iii) fulfill requests you make;
+
+ (iv) personalize your experience, such as to provide you with information regarding your overall cognitive performance relative to other users of similar age or other characteristics;
+
+ (v) conduct Experiments you have decided to participate in;
+
+ (vi) provide you with announcements, information and offers from EMOTIV;
+
+ (vii) protect, investigate, and deter against fraudulent, harmful, unauthorized, or illegal activity; 
+
+
+(viii) comply with legal obligations; and
+
+(ix) develop and refine proprietary algorithms and models, subject to strict data minimization, statutory opt-out rights, and de-identification standards.
+
+(x) subject to your explicit opt-in consent, process pseudonymized Neural Data and telemetry to train, evaluate, refine, and commercialize EMOTIV's Large Brain Model (LBM) and derivative neuro-AI algorithms 
+
+
+Delivering Personalized Emotiv-IQ Analytics, Data Pooling, & Model Development: 
+
+When you explicitly request Emotiv-IQ, processing your pseudonymized Neural Data and aggregating and pooling it into our Large Brain Model (LBM) is necessary to generate and deliver your personalized cognitive metrics. Pooled data is also used to develop new features and metrics of the kinds described below. The purposes for which we process your Neural Data under Emotiv-IQ are: estimating cognitive states, load and performance; inferring emotional and affective states; decoding brain-computer interface intent and mental commands; detecting biometric, motion and signal artifacts; calibrating population and cohort baselines; validating and improving the accuracy, safety and robustness of the LBM and derivative models; and developing new features and metrics of these kinds. We will provide notice before processing your Neural Data for a purpose outside these categories. Where the law of your state restricts the processing of sensitive data to what is strictly necessary to provide a product you have requested, or prohibits the sale of sensitive data, we exclude your data from LBM training; this currently applies to residents of Maryland. Data pooling across consenting users enables the LBM to continuously improve its accuracy, calibrate population baselines, and power current and future features. Data is maintained securely using industry-standard administrative, technical, and physical safeguards, including encryption in transit and at rest. You may disable Emotiv-IQ at any time in Account Settings. Doing so halts future ingestion of your Neural Data into LBM training. It does not remove contributions already incorporated into a trained model, because individual contributions cannot be isolated from model weights once training is complete. Where technically feasible we will apply retraining or machine unlearning techniques at the next full training cycle. EMOTIV does not sell raw Neural Data or Personal Information. Any model parameters, weights or API outputs derived from or licensed from the LBM are aggregated or de-identified mathematical outputs. We design, test and maintain the LBM using measures intended to prevent the extraction or re-identification of individual users from its parameters or outputs, including differential privacy techniques and periodic model inversion and membership inference testing, and we contractually prohibit any recipient from attempting re-identification.
+
+
+Lawful basis for processing your Personal Information
+We will only process your Personal Information  if we have a lawful basis for doing so. Lawful bases for processing includes consent, contractual necessity, legitimate interests, or other legitimate processing grounds, as further described below. The bases described in (i) to (iv) below are our Article 6 lawful bases. Where we process special category data we additionally rely on the Article 9(2)(a) explicit consent described immediately below; contractual necessity and legitimate interests are not conditions under Article 9(2) and do not by themselves permit us to process Neural Data.
+
+
+Special categories of data. If you are located in the European Economic Area or the United Kingdom, EEG Data, Neural Data and derived cognitive and emotional metrics are special category data under Article 9 of the GDPR. We rely on your explicit consent under Article 9(2)(a) as the condition for processing this data, including to deliver Emotiv-IQ and to train and refine the Large Brain Model. You may withdraw that consent at any time in Account Settings, and withdrawal does not affect the lawfulness of processing carried out before withdrawal.
+
+
+(i) Consent. In some cases, we process Personal Information and Sensitive Personal Information (including Neural Data) based on the consent you give to us.
+
+ (ii) Contractual Necessity. We process Personal Information because we need to process the information to perform our contracts with you, which allows us to provide you with the Services. When we process Personal Information due to contractual necessity, failure to provide such Personal Information will result in your inability to use some or all portions of the Services that require such Personal Information.
+
+
+(iii) Legitimate Interest. We process some categories of Personal Information when we believe doing so furthers the legitimate interest of us or third parties. Examples of these legitimate interests include:
+
+
+
+operating and improving our business, products, and services;  
+marketing of our products and services;  
+providing customer support;  
+protecting from fraud or security threats;  
+complying with legal obligations; and  
+completing corporate transactions.
+
+(iv) Other Processing Grounds. From time to time, we may also need to process Personal Information to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
+
+
+What steps do we take to protect your Personal Information?
+Information like your name or birthdate are considered Personal Information. EEG Data is information we collect from your brain and constitutes Sensitive Personal Information and Neural Data under applicable state privacy laws. We recognize that access to BOTH your Personal Information and your EEG Data or Experiment Data should only be available to you, the owner of the data, and to a limited number of EMOTIV staff for the exclusive purpose of maintaining security and providing the Services.
+
+
+We take the following steps to protect your Personal Information:
+
+
+(i) Password Protected User Account. In order to use our Services and to access your EEG Data and Experiment Data, you must create and log in to a password-protected User Account. Your User Account contains your User Name (âEmotivIDâ), email address, license information and other relevant Personal Information relating to your personal use of the Services. Apart from financial transactions, correspondence and delivery records, none of your Personal Information is stored in any other location.
+
+ (ii) Security. Personal Information we collect about you is stored only in your User Account, managed through limited access servers located in the United States and other countries where EMOTIV has facilities. We use commercially reasonable security measures to protect against the loss, misuse, and alteration of your information under our control based on the type of Personal Information and applicable processing activity, such as pseudonymization, aggregation, data encryption in transit, and data encryption at rest using commercially reasonable, industry-standard encryption protocols.
+
+ (iii) Pseudonymization. When you create a User Account, we also create an anonymous, unique identification number (âOwnerIDâ) which is associated with your EEG Data and Experiment Data. Your User Account is the only place where both your Personal Information (associated with your EmotivID) and your EEG Data and Experiment Data (associated with your OwnerID) are linked, so that you can log into your account and access your own personal data. Unless you are logged in to your User Account, it is not possible to discover or deduce your personal identity from information stored or accessed when reading your EEG Data and Experiment Data.
+
+ (iv) Your Responsibility. By accepting the EMOTIV End User License Agreement, you agree not to add any Personal Information to your EEG Data or Experiment Data.
+
+ (v) Data Sharing: EMOTIV Applications. EMOTIV collects EEG Data when any application based on the EMOTIV platform is used by anyone who is logged in to an EMOTIV User Account. Your pseudonymized EEG Data collected during the use of any EMOTIV-enabled application is available to EMOTIV for the purpose of providing the Services. We use it for scientific and historical research purposes, and to improve the Services beyond what is necessary to provide them to you, only where you have separately opted in. Unless your Personal Information is explicitly required when using your EEG Data in order to provide you with the Services, pseudonymized data will be used and your Personal Information will not be accessed. Some EMOTIV applications allow you to opt out of data sharing. Your data sharing choices and opt-out rights shall be respected without penalty or asymmetrical choice architecture. If you opt out of data sharing, the Services we offer will be restricted only to the extent technically necessary.
+
+ (vi) Data Sharing: Third Party Applications. Some third party applications which utilize the Services may wish to collect EEG Data. Where such data is to be shared with the third party, the application must ask for your explicit consent to allow access to that pseudonymized EEG Data specifically related to the use of the application. With your explicit consent the third party will be provided with a de-identified copy of the EEG Data collected only during your use of the application. You can withdraw permission at any time by deleting the application or by contacting EMOTIV.
+
+ (vii) Data Sharing: Experiment Data - EMOTIV Online Games. Games are provided exclusively by EMOTIV on our online platform. Your Experiment Data collected when playing Games is available to EMOTIV for the purpose of providing the Services. We use it for scientific and historical research purposes only where you have separately opted in.
+
+ (viii) Data Sharing: Experiment Data - EMOTIV and Third Party Experiments. EMOTIV offers services which allow EMOTIV and third parties to design and deploy browser-based Experiments for remote and local participants. Participation is voluntary, and in many cases EMOTIV or the third party researcher may offer payment for your participation. You must be logged in to a valid User Account to participate in Experiments. Your Personal Information may be used by EMOTIV for valid reasons such as to effect payments for participation, but otherwise will not be used by EMOTIV, and will not be provided to the third party. You will be informed of the purpose of the Experiment and the intended use of your data, and you must explicitly consent to sharing your data each time you participate in an Experiment. With your explicit consent, the third party will be provided with a de-identified copy of the EEG Data collected only during the course of the Experiment.
+
+ (ix) Access to your Personal Information. Your password-protected User Account contains all of the Personal Information that we store on your behalf, other than commercial and logistic information related to purchase transactions, correspondence and deliveries. Many of the available fields can be accessed and edited through the application used to log into your account or through EMOTIV applications which may also record your usage history. You can contact EMOTIV at privacy@emotiv.com for a full list of the Personal Information that we hold on your behalf, and ask us to edit or delete any or all of it.
+
+ (x) Withdrawal of Consent and Deletion of Personal Information. You may contact us at privacy@emotiv.com if you wish to withdraw permission for data sharing or to delete your Personal Information in its entirety by deleting your User Account. Your User Account contains all of the Personal Information that we store on your behalf, other than commercial transactions, correspondence and deliveries. Your User Account contains the only link between your identity (your Personal Information, linked to your EmotivID) and your OwnerID, an anonymous number associated with your EEG Data and Experiment Data. If you choose to delete your User Account, all of your Personal Information will be removed and the link between your identity and the pseudonymized EEG Data and Experiment Data collected from you will be destroyed, and we will no longer be able to provide Services based on associating that data with you. Deletion of your User Account is final and we will not be able to restore access to your previous EEG Data and Experiment Data.
+
+ (xi) Aggregation. We may aggregate your EEG Data, Neural Data and Experiment Data with the EEG Data, Neural Data and Experiment Data of others.  
+
+ (xii) PCI-Compliant Service Providers. If the Services require you to provide any Financial Account Information, such as when you purchase subscriptions to the Services, that information will be collected and processed by third-party PCI-compliant service providers. EMOTIV will not retain or store any sensitive financial information such as credit card numbers other than at armâs length through those service providers.
+
+
+EMOTIV employs administrative, technical, and physical safeguards to protect your personal information, neural telemetry, and consumer health data. . Where EMOTIV processes Consumer Health Data or non-HIPAA health metrics of Washington or Nevada residents (including cognitive telemetry and derived health inferences), such processing is conducted in accordance with our Consumer Health Data Privacy Policy, which is set out in the Consumer Health Data Disclosures section below.
+
+
+Although EMOTIV uses administrative, technical, and physical safeguards to protect your Personal Information, no security measures are 100% effective and we cannot guarantee the security of your Personal Information. We will notify you of any data breach where your Personal Information has been obtained by unauthorized third parties, as required by law.
+
+
+How and with whom we share information
+We share Personal Information with vendors, third-party service providers, and agents who work on our behalf to help us provide the Services. These include: (i) third parties who act for us or provide services for us, such as billing and credit card payment processing, maintenance, sales, marketing, administration, support, data enrichment, hosting, and database management services; and (ii) outside professional advisors (such as lawyers and accountants) for purposes related to the operation of our business such as auditing, compliance, and corporate governance. All service providers process personal data pursuant to written Data Processing Addenda (DPAs) prohibiting secondary data usage.
+
+
+We also share Personal Information when we believe it is necessary to: (i) comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies; (ii) protect us, our business or our users, or third parties, for example to enforce our terms of use, prevent spam or other unwanted communications and investigate or protect against fraud; or (iii) maintain the security of our products and services.
+
+
+We may share pseudonymized EEG Data and pseudonymized Experiment Data with third parties, with your explicit, case by case consent, in connection with your voluntary participation in an Experiment. We may also share aggregated EEG Data and aggregated Experiment Data with third parties for scientific and historical research purposes and to improve the Services. EMOTIV may license trained Large Brain Model (LBM) parameters, weights, or API outputs to commercial, enterprise, and research partners . EMOTIV does not sell raw Neural Data or Personal Information to third parties.
+
+
+If EMOTIV is involved in a merger, consolidation, acquisition, reorganization, sale of assets or other corporate transaction, EMOTIV may transfer your Personal Information as part of that transaction. Any acquirer or successor of EMOTIV or its assets may continue to use your Personal Information only as allowed in this Privacy Policy. You may be notified via email and/or a prominent notice on the Services of any change in ownership or resulting change in uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+
+
+We will not share your Personal Information with third parties without ensuring appropriate safeguards including 2021 EU Standard Contractual Clauses and the UK Transfer Addendum) and effective and enforceable rights and remedies are in place, as required by law.
+
+
+Data retention
+We retain each category of Personal Information for as long as necessary for the purposes for which it was collected. We determine that period by reference to: (i) how long we need the information to provide the Services to you and to maintain your account; (ii) whether the information is required to meet a legal, tax, accounting or regulatory obligation; (iii) whether the information is needed to establish, exercise or defend legal claims or to resolve a dispute; (iv) whether continued retention is necessary to protect the security and integrity of the Services and to prevent fraud or misuse; and (v) the sensitivity of the information and the risk to you from continued retention, which we weigh more heavily for Neural Data, Sensitive Personal Information and Consumer Health Data. In general, information linked to your account is retained while your account remains open and is deleted or de-identified after closure once the purposes above no longer apply. Financial and transaction records are retained for the period required by applicable tax and accounting law. We retain Personal Information about you for as long as you have an open account with us or as otherwise necessary to provide you with the Services, and thereafter as set forth in any applicable agreement with you, or as set forth below. In some cases, we retain Personal Information for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, or is otherwise permitted or required by applicable law, rule, or regulation. Neural Data and EEG Data constitute Sensitive Personal Information when linked or reasonably linkable to your User Account or personal identity. Upon account deletion or consent withdrawal, EMOTIV destroys the link between your personal identity (EmotivID) and your raw telemetry (OwnerID). EMOTIV retains neural datasets post-deletion solely where such data has been genuinely de-identified or aggregated in compliance with statutory de-identification standards (including CCPA Â§ 1798.140(m) and GDPR Recital 26) such that the data can no longer be linked or re-associated with an identifiable individual. Fully de-identified and aggregated model parameters or weights do not constitute personal data under Applicable Data Protection Laws.
+
+
+Third-party services
+This Privacy Policy applies only to EMOTIV  Services. It does not apply to products, services, or sites that are provided by or operated by third parties, even if such products, services or sites are linked or redirected to or from EMOTIV Services (âThird-Party Servicesâ), regardless of whether or not such link or redirection is authorized by EMOTIV. Third-Party Services may have their own policies regarding privacy, or no policy at all. The fact that we link to a third party site is not an endorsement, authorization, or representation that we are affiliated with that third party. EMOTIV is not responsible for Third-Party Services, and you use them at your own risk. We encourage you to read the privacy policies and terms of the Third-Party Services that you visit or use.
+
+
+How can you control the information we collect about you?
+You have certain rights with respect to your Personal Information, and we want to help you review and update your information to ensure it is accurate and up to date.
+
+
+Subject to certain limitations as set forth below or otherwise provided by law, you may email us at privacy@emotiv.com for any of the following:
+
+
+(i) Access/Right to Know. You can request more information about the Personal Information and Sensitive Personal Information we hold about you and request a copy of such Personal Information .
+
+ (ii) Correction. If you believe that any Personal Information we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data.
+
+ (iii) Removal/Deletion.  Upon receipt of a valid, authenticated Data Subject Request, EMOTIV shall securely delete Personal Information and Neural Data in its possession or control, except to the extent: (a) retention is required by applicable statutory, tax, or regulatory obligations; (b) data resides on isolated security backup systems (which shall be overwritten in the ordinary course of backup rotation); or (c) data has been genuinely de-identified or aggregated in compliance with statutory de-identification standards such that it no longer constitutes Personal Data 
+
+ (iv) Portability. You can ask for a copy of your Personal Information in a machine-readable format. You can also request that we transmit the Personal Information to another controller where technically feasible.
+
+ (v) Withdrawal of Consent. If we are processing your Personal Information or Sensitive Personal Information based on your consent, you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may thereafter have to      provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Information, if such use or disclosure is necessary to enable you to utilize some or all of the Services. Any use of your Personal Information that has already been performed prior to our receipt of your request will not be reversed, undone, or withdrawn. If you withdraw your consent, EMOTIV will cease processing your Personal Information and Sensitive Personal Information (including pseudonymized Neural Data) for the specific processing activities relying on that consent. EMOTIV may continue to retain and use data solely to the extent it has been genuinely de-identified or aggregated in compliance with statutory de-identification standards (such that it can no longer be linked or re-associated with you), or where retention is permitted under Applicable Data Protection Laws.
+
+ (vi) Objection. You can contact us to let us know that you object to the further use or disclosure of your Personal Information for certain purposes, such as for marketing purposes, targeted advertising, or cross-context behavioral advertising.
+
+
+(vii) Restriction of Processing. You can ask us to restrict further processing of your Personal Information or limit our use of Sensitive Personal Information (including Neural Data) to essential operational purposes.
+
+(viii) Right to Appeal.  If we decline to act on your privacy request, you may submit an appeal by contacting privacy@emotiv.com. We will respond to an appeal within forty-five (45) days. If your appeal is denied, you may contact your state Attorney General to submit a complaint
+
+
+We will give you the ability to opt-out of marketing-related emails by contacting us at privacy@emotiv.com, or clicking on a link at the bottom of each such email. You cannot opt-out of receiving certain non-marketing emails regarding the Services.
+
+
+If you want to disable cookies, check with your browser provider to learn how. EMOTIV automatically recognizes and honors Global Privacy Control (GPC) and Universal Opt-Out Preference Signals broadcast from your browser.
+
+
+Except as permitted by your consent to this Privacy Policy, you will be notified when your Personal Information may be shared with third parties, and you may be able to prevent the sharing of this information. To the extent permitted or required by applicable law, you can opt-out of having your information shared with a third party that is not our agent, by contacting us at privacy@emotiv.com. However, please note that opting-out of information sharing or collection may affect your ability to use some or all features of the Services.
+
+
+Once EMOTIV provides pseudonymized Experiment Data to a third-party conducting an Experiment in which you have volunteered to participate , EMOTIV will be unable to delete such data from the third partyâs possession.
+
+
+We may limit or reject your request in certain cases, such as  if it is frivolous or extremely impractical, if it jeopardizes our rights or the rights of others, if it is not required by law, or if the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question. In some cases, we may also need you to provide us with additional information, which may include Personal Information, to verify your identity and the nature of your request. We will take reasonable steps to respond to all requests within 45 days (or 30 days where required by law).
+
+
+You also have the right to lodge a complaint about EMOTIVâs practices with respect to your Personal Information with the supervisory authority of your country or EU Member State.
+
+
+Social media features
+Some parts of the Services may include social media features. These social media features are either hosted by a third party or hosted directly on the Services. When you use these tools, the party that provides the tool, the third party that operates the social media services, and/or we may receive Personal Information about you. By using these tools, you acknowledge that some information, including Personal Information, will be transmitted to us, and that information is therefore covered by this Privacy Policy, and that some information, including Personal Information, may be shared with the third-party services, and that information is therefore governed by their privacy policies.
+
+
+In general, Personal Information, once shared or disclosed, can be difficult to contain or retrieve. EMOTIV will have no responsibility or liability for any consequences that may result because you have released or shared Personal Information with others.
+
+
+Closing your account
+You may close an account, and upon termination of your user account, we will take reasonable steps to provide, modify, or delete your Personal Information as soon as is practicable. However, EMOTIV may nevertheless retain your Personal Information to protect the business interests of EMOTIV, and some information may remain in archived/backup copies for our records or as otherwise required by law. Those interests include without limitation the completion of transactions, maintaining records for financial reporting purposes, complying with our legal obligations, resolving disputes, and enforcing agreements. We may retain your pseudonymized and/or aggregated EEG Data and pseudonymized or aggregated Experiment Data, which has been processed so that it can no longer reasonably be linked to you and no longer constitutes Personal Information , for scientific or historical research purposes and to improve the Services. Pseudonymized data remains Personal Information and is retained and deleted in accordance with the retention and deletion sections above.
+
+
+California and Multi-State privacy rights
+Under the California Consumer Privacy Act (CCPA/CPRA) and state privacy laws, residents have the right to: (1) Know and access personal information collected, sold, or shared; (2) Request deletion of personal information and Neural Data; (3) Request correction of inaccurate personal data; (4) Opt-out of the sale or sharing of personal data for cross-context behavioral advertising; (5) Limit the use and disclosure of Sensitive Personal Information (including Neural Data); (6) Opt-out of profiling and automated decision-making technology; and (7) Receive non-discriminatory treatment for exercising privacy rights. 
+
+
+To exercise state privacy rights, submit a request via email at privacy@emotiv.com or through the âLimit the Use of My Sensitive Personal Informationâ and âYour Privacy Choicesâ links in the footer of our website and in Account Settings. The âLimit the Use of My Sensitive Personal Informationâ control lets you restrict our use of Neural Data and other Sensitive Personal Information to the purposes necessary to provide the Services. Notice at collection of the categories of Sensitive Personal Information we collect, the purposes for each, and the retention period for each is provided in the sections above. We honor Global Privacy Control (GPC) signals sent from your browser.
+
+
+Consumer Health Data Disclosures (Washington, Nevada & State Health Privacy Laws)
+This section applies solely to non-HIPAA health, cognitive wellness, and neural metrics collected from residents of jurisdictions with specific consumer health privacy statutes (including Washington and Nevada). 
+
+1. Categories of Consumer Health Data Collected:
+
+
+
+Raw electrical biosignals, central or peripheral nervous system telemetry, and EEG data.  
+Derived cognitive performance metrics (e.g., Focus, Attention, Stress, Cognitive Load, Fatigue, Readiness, and Brain Age).  
+Facial expression artifacts and eye movement telemetry.  
+Voluntary health-related survey responses provided during research experiments.
+
+2. Sources of Consumer Health Data: We collect Consumer Health Data directly from you when you connect an EMOTIV headset, interact with our Software or Applications, or participate in Experiments.
+
+3. Purpose of Collection and Processing: We collect and process Consumer Health Data to: (i) operate your neuroheadset and software; (ii) deliver personalized cognitive metrics and requested features (such as Emotiv-IQâ¢); (iii) improve our Services and algorithms; and (iv) subject to your explicit opt-in consent, aggregate and pool pseudonymized telemetry to train our Large Brain Model (LBM).
+
+4. Sharing of Consumer Health Data: EMOTIV does not sell raw Consumer Health Data or Neural Data to third parties. We share Consumer Health Data only: (i) with third-party service providers bound by Data Processing Addenda solely to support app infrastructure; (ii) with third-party researchers or applications where you explicitly authorize us to transfer your data; or (iii) as necessary to comply with legal obligations.
+
+5. Your Rights & Appeal Process: You have the right to confirm collection, access, correct, or request deletion of your Consumer Health Data, or withdraw consent for health data processing. You may exercise these rights by contacting privacy@emotiv.com. If we decline to take action on your request, you may appeal our decision by emailing privacy@emotiv.com with the subject line "Consumer Health Privacy Appeal".
+
+
+EU AI Act & Biometric Transparency Disclosures
+In accordance with Article 5 and Article 50 of the EU AI Act: (i) EMOTIV contractually prohibits users, employers, and educational institutions from deploying our Hardware or Software to infer emotions or mental states of workers or students in workplace or academic settings; and (ii) where EMOTIV software utilizes biometric categorization or emotion recognition outside prohibited contexts, users are provided with real-time transparency notice informing them that an AI system is actively processing biosignals or cognitive metrics.
+
+
+Changes to this Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy, you will be notified via email (if you have an account where we have your contact information) or otherwise in some manner through the Services that we deem reasonably likely to reach you (which may include posting a new privacy policy on our websites). Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Services (or as otherwise indicated at the time of posting) or on the Effective Date set forth in the modified Privacy Policy. In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your agreement to the processing of your Personal Information under the terms of the modified Privacy Policy.
+
+
+Children and Minors
+The Services are not intended for children or minors under the age of 18, and therefore, EMOTIV does not knowingly acquire or receive Personal Information from children under the age of 18. If we later learn that any user of the Services is under the age of 18, we will take appropriate steps to remove that userâs information from our account database and will restrict that individual from future access to the Services. Please contact hello@emotiv.com if you are a parent or guardian of a child or minor under 18 whom you believe has provided us with any Personal Information.
+
+
+Enforcement and acceptance of this Privacy Policy
+We will conduct internal audits of our compliance with this Privacy Policy, and work to ensure that our employees and service providers also adhere to the Privacy Policy.
+
+
+If you have any questions or concerns regarding privacy related to the Services, please contact us by mail, telephone, or email using the contact information set forth below, and we will try to resolve your concerns.
+
+
+Email: privacy@emotiv.com
+
+
+Telephone +1:(415) 801-0400
+
+
+Address: EMOTIV, Inc., Attn: Nikunj Mehta, Data Protection Officer, 490 Post Street, Suite 824, San Francisco, CA 94102, USA
+
+
+By (i) clicking âI accept EMOTIVâs Privacy Policyâ or its equivalent, or (ii) using or accessing the Services on or after the effective date in any way, except for the sole purpose of reviewing this Privacy Policy, you are agreeing to the processing of your Personal Information and non-personal information under the terms of this Privacy Policy.
+

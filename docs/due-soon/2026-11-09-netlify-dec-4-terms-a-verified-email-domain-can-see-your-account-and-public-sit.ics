@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Netlify · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-09-netlify-dec-4-terms-a-verified-email-domain-can-see-your-ac
+ count-and-public-sit@quietlychanged.com
+DTSTAMP:20261109T163452Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Netlify: Takes effect
+DESCRIPTION:From Dec 4\, an org that verifies your email's domain can see 
+ that your Netlify account exists\, its plan\, and your public sites' name
+ s\, URLs and last deploy dates. If it also has a Netlify subscription\, y
+ our account can move under its control unless you change your email in th
+ e notice window.\n\nhttps://quietlychanged.com/changes/2026-11-09-netlify
+ -dec-4-terms-a-verified-email-domain-can-see-your-account-and-public-sit/
+URL:https://quietlychanged.com/changes/2026-11-09-netlify-dec-4-terms-a-ve
+ rified-email-domain-can-see-your-account-and-public-sit/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Netlify — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -922,3 +922,11 @@ Ideas for next time: Wayback diffs of Uber, Zelle and Chime through a browser (c
 - Next: after any send, don't re-pitch those three on Booking.com. Possible follow-up: if Dec 10 terms go live on the terms page, re-check wording/Genius page; Booking.com privacy notice AI-training line.
 
 - 2026-11-08 ~3:29 PM MT: Booking.com Dec 10 terms pitches SENT from quietlychangedbiz@gmail.com (via card) to Sean O'Neill (so@skift.com, Skift), Linda Fox (lfox@phocuswire.com, PhocusWire), Christopher Elliott (chris@elliott.org). Do not re-pitch on Booking.com. 3/5 pitches used Nov 8. Bluesky + r/Bookingcom drafts await Samuel OK.
+
+## 2026-11-09 — OutReach brief #4 site work (Meta pause check, Netlify, Vrew, Muse/Emotiv tracking)
+
+- **Meta:** Primary Help Center confirms Nov 20 commercial-terms updates are paused and will not take effect; existing terms remain. No QC page /due-soon/ /calendar.ics listed Meta for Nov 20 → no correction edit.
+- **Netlify:** Article + due-soon Dec 4; services.json + snapshots. Verified Domains (6.6) new vs Oct 1, 2025 Wayback PDF; account move language existed and is restated in 2.1.
+- **Vrew:** Short Dec 1 article + due-soon from vendor notice.
+- **Muse + Emotiv:** Tracking only (privacy in services.json + baselines). No before/after page (Wayback 429s).
+- **Drafts (unsent):** social/2026-11-09/brief4-drafts.md — Joab Jackson / Netlify; Jonathan Moens; tldr mutual link.

@@ -91,6 +91,21 @@
       "statusCode": 301
     },
     {
+      "source": "/services/emotiv",
+      "destination": "/services.html#emotiv",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/emotiv/",
+      "destination": "/services.html#emotiv",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/emotiv/index.html",
+      "destination": "/services.html#emotiv",
+      "statusCode": 301
+    },
+    {
       "source": "/services/google-one",
       "destination": "/services.html#google-one",
       "statusCode": 301
@@ -193,6 +208,21 @@
     {
       "source": "/services/mozilla/index.html",
       "destination": "/services.html#mozilla",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/muse",
+      "destination": "/services.html#muse",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/muse/",
+      "destination": "/services.html#muse",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/muse/index.html",
+      "destination": "/services.html#muse",
       "statusCode": 301
     },
     {

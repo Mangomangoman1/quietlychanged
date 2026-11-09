@@ -314,5 +314,18 @@
  },
  "Booking.com": {
   "terms": "https://www.booking.com/content/terms.html"
+ },
+ "Netlify": {
+  "terms": "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/",
+  "privacy": "https://www.netlify.com/privacy/"
+ },
+ "Vrew": {
+  "terms": "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
+ },
+ "Muse": {
+  "privacy": "https://choosemuse.com/pages/privacy"
+ },
+ "Emotiv": {
+  "privacy": "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/"
  }
 }

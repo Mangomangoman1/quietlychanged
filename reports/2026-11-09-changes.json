@@ -1,1 +1,164 @@
-[]
+[
+ {
+  "service": "Netlify",
+  "page": "terms",
+  "headline": "Dec 4 terms: a verified email domain can see your account and public sites, and may absorb the account after notice",
+  "tldr": "From Dec 4, an org that verifies your email's domain can see that your Netlify account exists, its plan, and your public sites' names, URLs and last deploy dates. If it also has a Netlify subscription, your account can move under its control unless you change your email in the notice window.",
+  "impact": 3,
+  "themes": [
+   "accept-or-else",
+   "not-our-problem"
+  ],
+  "effective": "2026-12-04",
+  "deadline": "Takes effect",
+  "url": "https://www.netlify.com/changelog/updates-to-our-terms-and-privacy-statement/",
+  "who": "Anyone with a Netlify account whose email is on a company or school domain, especially personal projects signed up with a work email",
+  "seo_title": "Netlify Dec 4 terms: verified domains can see staff accounts and may absorb them",
+  "seo_desc": "Netlify's Nov 4 Self-Serve Subscription Agreement (effective Dec 4, 2026) adds Verified Domains (section 6.6) and restates account moves (section 2.1). Opt out of visibility at privacy@netlify.com.",
+  "redline": [
+   {
+    "before": "",
+    "after": "If Netlify verifies that an organization owns or controls the domain of the email address associated with Customer's account, Netlify may disclose to that organization the existence of Customer's account, its plan type, and information about the sites under that account that are publicly accessible on the Services, such as their site names, URLs, and when they were last deployed.",
+    "label": "Self-Serve Subscription Agreement \u00b7 6.6 Verified Domains (new)",
+    "note": "The Oct 1, 2025 agreement had no Verified Domains section. Domain visibility of account existence, plan and public sites is new.",
+    "src": "quoted"
+   },
+   {
+    "before": "if the domain of the email address associated with your account is owned or controlled by an entity and Netlify has now or in the future a direct subscription agreement with such entity, your account may be rolled into and consolidated with that organization's account after notification to you. Following notice to you, if you choose not to change the email address associated with your account, your account will be controlled by the entity.",
+    "after": "If the domain of the email address associated with Customer's account is owned or controlled by an organization that has or later enters into a subscription agreement with Netlify, Customer's account may be consolidated into that organization's account after notice to Customer. If Customer does not change the email address associated with the account within the period stated in such notice, the account, including its Customer Content, will be controlled by that organization.",
+    "label": "Self-Serve Subscription Agreement \u00b7 account moves (preamble \u2192 2.1)",
+    "note": "Account absorption already existed in the Oct 1, 2025 preamble. The Nov 4 rewrite moves it into section 2.1, ties the deadline to the notice, and says Customer Content goes with the account.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "Verified Organizations: if your account uses an email address on a domain controlled by an organization that has verified that domain with us, we may show that organization's authorized administrators that your account exists, its plan type, and the names, URLs, and last deploy dates of your publicly accessible sites.",
+    "label": "Privacy Statement \u00b7 4. Disclosure of Personal Data (new category)",
+    "note": "The Privacy Statement (last updated Nov 4, 2026) adds Verified Organizations as a disclosure category and points opt-out to privacy@netlify.com.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "If you use a work or school email on Netlify for personal projects, change the account email to a personal address before Dec 4, or as soon as you get a move notice",
+   "To stop a verified organization seeing that your account exists, email privacy@netlify.com (Netlify's changelog and Privacy Statement both say this)",
+   "Read sections 2.1 and 6.6 of the Self-Serve Subscription Agreement PDF linked from netlify.com/changelog/updates-to-our-terms-and-privacy-statement/",
+   "If your organization already has an Enterprise Master Subscription Agreement with Netlify, that agreement still governs instead of the self-serve terms"
+  ],
+  "what": "Netlify published a changelog on Nov 4, 2026 saying it updated its Self-Serve Subscription Agreement, Privacy Statement and Acceptable Use Policy, and that the changes take effect on December 4, 2026. We compared the live Self-Serve Subscription Agreement PDF (Last Updated: November 4, 2026) to the prior PDF archived by the Wayback Machine on Oct 16, 2026 (Last Updated: October 1, 2025), and read the live Privacy Statement (Last updated: November 4, 2026).\n\n## Change 1: Verified Domains can see that your account exists\n\nSection 6.6 is new. It is not in the October 1, 2025 agreement. The November 4 text says that if Netlify verifies that an organization owns or controls the domain of the email address on your account, Netlify may disclose to that organization \"the existence of Customer's account, its plan type, and information about the sites under that account that are publicly accessible on the Services, such as their site names, URLs, and when they were last deployed.\"\n\nThe same section says Netlify will not, under 6.6, disclose payment information, or your name, email or username \"other than as they may appear in any account names, site names, or URLs,\" and will not disclose Customer Content that is not publicly accessible. \"Verification alone does not give that organization access to or control over Customer's account.\"\n\nNetlify's own changelog puts the same point in plain English: an organization that proves the domain \"may show it that your account exists, its plan type, and the names, URLs, and last deploy dates of your publicly accessible sites,\" and never shows your name, email, username or payment information that way.\n\n## Change 2: Account moves are restated, with Customer Content named\n\nThe October 1, 2025 agreement already warned, in the preamble before section 1: if the domain of your account email is owned or controlled by an entity that has (or later gets) a direct subscription agreement with Netlify, \"your account may be rolled into and consolidated with that organization's account after notification to you,\" and if you do not change the email, \"your account will be controlled by the entity.\"\n\nThe November 4 agreement moves that rule into section 2.1 (Accounts and Email Addresses). It says the account \"may be consolidated into that organization's account after notice to Customer.\" If you do not change the email \"within the period stated in such notice, the account, including its Customer Content, will be controlled by that organization.\"\n\nSo Dec 4 is not the first day Netlify could absorb a domain-matched account. What is new for readers is the pairing with Verified Domains visibility, the notice-window wording, and the explicit line that Customer Content goes with the moved account.\n\n## Change 3: Privacy Statement adds Verified Organizations and an opt-out\n\nThe Privacy Statement dated November 4, 2026 adds an \"Organization domains\" processing purpose that points to sections 6.6 and 2.1, and a \"Verified Organizations\" disclosure category with the same account-exists / plan / public-site fields. Section 8 says you can \"Opt out of domain visibility at any time by contacting us at privacy@netlify.com,\" and that changing your account email to one outside the organization's domain before the date in a move notice stops the transfer. The changelog repeats both steps.\n\n## What stays the same\n\nEnterprise Master Subscription Agreement customers are still under that agreement, not this self-serve one. The November 4 agreement also keeps Netlify's line that it will not use Customer Content to train or fine-tune AI models unless the customer opts in.\n\n## What you can do\n\nPersonal projects on a work email are the risk case. Change the email, or email privacy@netlify.com for visibility opt-out, and watch for any move notice after Dec 4.\n\nCoverage (checked Nov 9, 2026): Netlify's own changelog is the announcement. The independent tracker toolongdidnotread.it flagged the Privacy Statement change. A Spanish-language blog (rubenloan.com) also covered it. We found no English-language news story from The Register, TechCrunch or similar on this Dec 4 update when we checked.",
+  "faq": [
+   [
+    "Can my employer see my personal Netlify sites after December 4, 2026?",
+    "Only if it verifies ownership or control of the domain on your account email, and only for sites that are publicly accessible. Section 6.6 says Netlify may show account existence, plan type, and public site names, URLs and last deploy dates. It says verification alone does not give the organization access to or control over the account, and private or password-protected site content is not disclosed under 6.6."
+   ],
+   [
+    "Can Netlify move my account into my company's Netlify account?",
+    "Yes, if the domain of your account email is owned or controlled by an organization that has a subscription agreement with Netlify. Section 2.1 says Netlify will notify you first; if you do not change the email within the period in that notice, the organization controls the account and its Customer Content. A similar consolidation warning already appeared in the October 1, 2025 preamble."
+   ],
+   [
+    "How do I opt out of domain visibility?",
+    "Email privacy@netlify.com. Netlify's changelog and Privacy Statement both say that stops showing your account to verified organizations. Separately, change your account email to one outside the organization's domain before any move-notice deadline if you do not want the account absorbed."
+   ],
+   [
+    "When do the Netlify changes take effect?",
+    "December 4, 2026, per Netlify's Nov 4 changelog. The Self-Serve Subscription Agreement PDF and Privacy Statement are both marked Last Updated / last updated November 4, 2026."
+   ],
+   [
+    "Is Verified Domains brand new?",
+    "Yes in the self-serve agreement we compared. The October 1, 2025 PDF (Wayback capture Oct 16, 2026) has no section 6.6 and no disclosure of plan type or public site lists to a verified domain owner. Account consolidation for domain-matched emails did already exist in that older preamble."
+   ]
+  ],
+  "sources": [
+   [
+    "Netlify changelog: Updates to our Self-Serve Subscription Agreement, Privacy Statement, and Acceptable Use Policy (changes take effect Dec 4, 2026)",
+    "https://www.netlify.com/changelog/updates-to-our-terms-and-privacy-statement/"
+   ],
+   [
+    "Netlify: Self-Serve Subscription Agreement, Last Updated November 4, 2026 (PDF fetched Nov 9, 2026)",
+    "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/"
+   ],
+   [
+    "Netlify: Self-Serve Subscription Agreement, Last Updated October 1, 2025 (Wayback Machine capture Oct 16, 2026)",
+    "https://web.archive.org/web/20261016084431/https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/"
+   ],
+   [
+    "Netlify Privacy Statement, last updated November 4, 2026 (fetched Nov 9, 2026)",
+    "https://www.netlify.com/privacy/"
+   ],
+   [
+    "tldr (toolongdidnotread.it): Netlify Privacy Statement changes dated 2026-11-04",
+    "https://toolongdidnotread.it/companies/netlify/privacy/v/20261105_rev01"
+   ]
+  ]
+ },
+ {
+  "service": "Vrew",
+  "page": "terms",
+  "headline": "Dec 1: one account per person, and AI will analyze project content and editing history until you delete the account",
+  "tldr": "From Dec 1, Vrew allows only one account per person (no team sharing on one login) and will use AI to analyze project content, assets and editing history for personalization, kept until the account is deleted. Object via chat support by Dec 1.",
+  "impact": 2,
+  "themes": [
+   "ai-and-your-data",
+   "accept-or-else"
+  ],
+  "effective": "2026-12-01",
+  "deadline": "Takes effect",
+  "url": "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc",
+  "who": "Vrew users who share a paid login across a team, or who keep project footage, captions and edit history they do not want AI-analyzed",
+  "seo_title": "Vrew Dec 1, 2026: one account per person and AI analysis of project content",
+  "seo_desc": "Vrew's Dec 1 Terms and Privacy updates ban multi-account and shared logins, and add AI analysis of project content, assets and editing history until account deletion. Object via chat support by Dec 1.",
+  "redline": [
+   {
+    "before": "The Service supports only one account per email address. Article 5, Paragraph 1",
+    "after": "Only one account is permitted per User for the Service. Article 6, Paragraph 1",
+    "label": "Terms of Service \u00b7 Number of accounts (Vrew's current \u2192 revised table)",
+    "note": "The limit moves from one account per email to one account per person, even across email addresses.",
+    "src": "quoted"
+   },
+   {
+    "before": "The Company does not use project files or the content contained in projects for training, does not arbitrarily access or analyze the content of such files without the user's consent, and ensures that even with consent only the minimum necessary personnel can access such content. Article 1, footnote to \"Provision of personal cloud service\"",
+    "after": "In order to provide an optimized and personalized editing experience to the user, the Company analyzes the contents and assets of projects and the user's editing history using artificial intelligence. The Company does not use the user's information for training artificial intelligence other than for this purpose. Article 1, footnote (**) to \"Provision of personalized services\"",
+    "label": "Privacy Policy \u00b7 AI analysis for personalization (Vrew's current \u2192 revised table)",
+    "note": "The no-analyze-without-consent line is replaced by AI analysis of project contents, assets and editing history for personalization.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "Project categories, summaries, and assets; your editing history \u00b7 Provision of personalized services \u00b7 Until you delete your account",
+    "label": "Privacy Policy \u00b7 New processing category (retention)",
+    "note": "Vrew's notice says the AI-derived categories, summaries, assets and editing history are kept until you delete the account.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "If several people share one Vrew login, create separate accounts before Dec 1, 2026 (Vrew says this applies inside companies and teams)",
+   "If you disagree with the revised Terms, tell Vrew through Help \u2192 Support \u2192 Chat Support by Dec 1, or delete the account",
+   "If you do nothing by Dec 1, Vrew says it will treat that as agreement and apply the revised Terms",
+   "Read Vrew's notice (and the linked current/revised Terms and Privacy pages) before Dec 1"
+  ],
+  "what": "Vrew published a help article announcing updates to its Terms of Service and Privacy Policy effective December 1, 2026. The quotes below are from that notice's own current/revised comparison tables and retention table (fetched Nov 9, 2026). We are treating the vendor notice as the primary source for this due-soon item; we did not re-fetch every linked revised PDF beyond the notice.\n\n## Change 1: One account per person, not per email\n\nVrew's notice says that starting December 1, \"you may use only one account, even if you have different email addresses.\" Its table moves the rule from \"The Service supports only one account per email address\" (Article 5, Paragraph 1) to \"Only one account is permitted per User for the Service\" (Article 6, Paragraph 1).\n\nIt also says multiple people may not share one account, \"including within companies and teams,\" and asks users to prepare separate accounts before December 1. Separately, Vrew says it is working on a company/team way to manage multiple accounts and will share details later.\n\n## Change 2: AI analysis of project content and editing history\n\nThe Privacy Policy table replaces a footnote that said the company does not use project files for training and does not arbitrarily access or analyze project content without consent. The revised footnote says the company \"analyzes the contents and assets of projects and the user's editing history using artificial intelligence\" to provide a personalized editing experience, and \"does not use the user's information for training artificial intelligence other than for this purpose.\"\n\nA new processing row lists \"Project categories, summaries, and assets; your editing history\" for \"Provision of personalized services,\" retained \"Until you delete your account.\" The notice says analysis covers images, videos, audio and captions (assets), turned into topic categories and content summaries.\n\n## What you can do\n\nObject through in-app chat support by December 1, or delete the account. Vrew says that if you do not object by the effective date, it will treat that as agreement.\n\nCoverage (checked Nov 9, 2026): We found no press coverage of the December 1 Vrew Terms/Privacy update beyond Vrew's own help article.",
+  "faq": [
+   [
+    "Can my team keep sharing one Vrew account after December 1, 2026?",
+    "No, under the revised Terms described in Vrew's notice. It says multiple people may not share one account, including inside companies and teams, and asks each person to use their own account before December 1."
+   ],
+   [
+    "Will Vrew train generative AI on my project files?",
+    "Vrew's revised privacy footnote says it analyzes project contents, assets and editing history with AI for a personalized editing experience, and \"does not use the user's information for training artificial intelligence other than for this purpose.\" That is narrower than open-ended training, but it is still AI analysis of your project material."
+   ],
+   [
+    "How long does Vrew keep the AI analysis?",
+    "The notice's retention table says project categories, summaries, assets and editing history for personalized services are kept until you delete your account."
+   ],
+   [
+    "How do I object?",
+    "Vrew says: in the app, Help \u2192 Support \u2192 Chat Support, by December 1, 2026. You can also delete the account. If you do not object by the effective date, Vrew says it will consider you to have agreed."
+   ]
+  ],
+  "sources": [
+   [
+    "Vrew: Upcoming changes to Vrew Terms of Service and Privacy Policy on December 1, 2026 (fetched Nov 9, 2026)",
+    "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
+   ]
+  ]
+ }
+]
