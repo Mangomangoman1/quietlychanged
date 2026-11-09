@@ -1636,3 +1636,64 @@ Reach per tier: 50K+ parent (Dexerto went 30K→1.36M), ~46 min, image-led, 34 a
 - 0: post the missing Booking.com self-reply once.
 - R2 (post now) unusual_whales data-center ballots: EIA home 18.16¢ +3.4%, industrial +7.3%.
 - R1 conditional Pirat_Nation PS6: PS5 price ladder $499.99→$649.99, Pro→$899.99.
+
+## Session 2026-11-08 ~5:24 PM MT (evening X handoff) — HELD / BLOCKED
+
+Attempted via connected X MCP tools (not browser), per handoff.
+
+### Account check (REQUIRED before write)
+- `user-X` `get_users_me` → **@ItsGrey** (id 1872464784123219968), 221 followers — **NOT** @QuietlyChanged (id 2110481675654467584).
+- Only one X connector installed: `user-X` account=`default`. No QuietlyChanged-labeled X account.
+- **STOP: no writes.** Per standing rule, do not post as any other account.
+
+### Booking.com self-reply (0)
+- Parent https://x.com/QuietlyChanged/status/2119558682870731172 still **reply_count 0** at ~5:24 PM MT (public read confirmed; conversation search only returned the original).
+- Text ready in `social/2026-11-08/deepdive/o-self-reply.txt` (text-only, no media).
+- **HELD** — wrong connector account. Ready to publish once X is reconnected as @QuietlyChanged.
+
+### R2 unusual_whales (2119574185588539712)
+- At check ~5:24 PM MT: **69.9K impressions**, 22 replies, 87 likes — still past 20K and climbing. Image window closes ~6:04 PM MT.
+- Text/image ready (`r2.txt`, `r2-02-eia-electricity.png`).
+- **HELD** — wrong account. Secondary blocker: connector has **no post media upload tool** (only `chat_media_upload_*` for X Chat). `create_posts` accepts `media.media_ids` but nothing in the live tool set returns those IDs. Do not improvise api.x.com / credentials.
+
+### R1 Pirat_Nation (2119580980348698906) conditional
+- At check ~5:24 PM MT: **10.7K impressions**, 28 replies — **below 20K bar**.
+- **SKIPPED** (not qualified). Would also need media upload + correct account.
+
+### Other
+- No new originals, likes, follows, or DMs.
+- No browser fallback used.
+- Parent must reconnect X plugin as @QuietlyChanged (or add a second labeled X account) before any publish; then text-only Booking.com self-reply can go first; image replies need a sanctioned media upload path or temporarily text-only if policy allows.
+
+
+## Session 2026-11-09 ~9:16 AM MT (Monday AM)
+Account (public X read ~9:18 AM MT): **21 followers** (down 1 from 22; first drop), 14 following, 224 posts, 105 media. Pinned = Nov 2 roundup 2117292806964400275 (64 imp, 1 reply). No new posts since Nov 8 3:32 PM: the whole Nov 8 PM packet (Booking.com self-reply, R2 unusual_whales, R1 Pirat PS6) was **not posted** (connector signed in as @ItsGrey).
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|---|
+| Nov 8 ~3:32 PM | Booking.com Wallet Credits original (2119558682870731172), self-reply still missing | original (2nd) | 23 | 0 | 0 | 0 |
+| Nov 8 ~9:48 AM | Quote thsottiaux OpenAI Pro multiples (2119472199358930944), parent 2.79M | parent-quote | 14 | 0 | 0 | 0 |
+| Nov 8 ~9:42 AM | JetBlue self-reply (2119470629854593305) | self-reply | 22 | 0 | 0 | 0 |
+| Nov 8 ~9:37 AM | JetBlue bag-fee original (2119469244165538293) | original | 22 | 0 | 0 | 1 |
+| Nov 8 ~9:31 AM | Dexerto Ram-Altman reply (2119467769670565901), parent 1.90M / 198 | reply | 7 | 0 | 0 | 0 |
+| Nov 8 ~9:25 AM | IGN PS Plus perks reply (2119466242910433690), parent 163K / 60 | reply | 9 | 0 | 0 | 0 |
+| Nov 7 ~6:26 PM | Quote Anthropic agent liability (2119224994941255993) | parent-quote | 23 | 1 | 0 | 0 |
+
+Reach per tier (final-ish): replies over 45 min stay single digits even when the parent goes to 1.9M (Dexerto 7) or 163K (IGN 9). Quotes: 14–23. Originals: 22–23.
+
+### What we learned
+1. Followers dropped to 21. Six days flat, now down. The last week's reach came only from replies posted under ~30 min; everything else sits at 5–25.
+2. A missed handoff costs a day: the Nov 8 PM packet never went out because the X connector was on the wrong account. Each handoff now starts with an account check (@QuietlyChanged id 2110481675654467584).
+3. Monday AM feed: price/fee items were Wario64 PS5 Pro $899 restock (50K at 21 min, ~1K/min) and PopBase SKIMS refund-or-credit (232K, 105 replies). Both take a receipt-style reply (disc drive + 2028 digital-only; Klarna plan stays active if you take credit).
+
+### Topic log
+- Console price ladder + hidden costs (no disc drive, $79 add-on, Jan 2028 digital-only): reply under the Wario64 restock, 21 min.
+- Refund vs store credit (SKIMS), the same theme as Booking.com Wallet Credits: reply with the returns-page Klarna clause.
+- Weekly pinned roundup: Pinterest Nov 12, Google Play Nov 17, Wells Fargo Nov 24, FCC Nov 25 (in self-reply), Booking.com Dec 10.
+
+### Drafted (social/2026-11-09/am/xgrowth-am-drafts.md)
+- R1 (post now) Wario64 PS5 Pro (50K / 38 / 21 min): PlayStation logo + "what the $899 Pro does and doesn't include" card.
+- R2 PopBase SKIMS (232K / 105 / 51 min): SKIMS logo + Klarna fine-print card.
+- O1 pinned roundup (logo grid) + /due-soon/ self-reply; pin replaces 2117292806964400275.
+- Booking.com self-reply (from Nov 8), post once.
+- No quote (no in-lane 500K+). No extra original; the deep dive should hold its X post unless Samuel OKs a 2nd.
