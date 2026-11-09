@@ -160,5 +160,113 @@
     "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
    ]
   ]
+ },
+ {
+  "service": "Rakuten",
+  "page": "terms",
+  "headline": "Your cash back rate is now \"personalized\" and may differ from other members'",
+  "tldr": "Rakuten's Oct 23 terms and privacy policy say cash back rates are personalized by your account history, shopping behavior and membership status, so your rate at a store may differ from another member's. Cash back is now \"Rewards,\" with partner-point conversions and a $2,000-a-day gift card cap.",
+  "impact": 2,
+  "themes": [
+   "ads-and-tracking",
+   "price-creep"
+  ],
+  "effective": "2026-10-23",
+  "deadline": "Took effect",
+  "url": "https://www.rakuten.com/help/article/how-does-cash-back-work-360002101608",
+  "who": "US Rakuten members who earn cash back through rakuten.com, the Rakuten app or the browser extension",
+  "seo_title": "Rakuten cash back rates are now personalized and can differ by member (Oct 23, 2026 terms)",
+  "seo_desc": "Rakuten's Oct 23, 2026 terms and privacy policy say rewards rates are personalized by account history, shopping behavior and membership status and may differ from other members' for the same store.",
+  "redline": [
+   {
+    "before": "CASH BACK AMOUNTS VARY BY AFFILIATE STORE AND PRODUCT CATEGORY",
+    "after": "REWARD AMOUNTS VARY BY BRAND, PRODUCT CATEGORY, BY MEMBER, AND BY SURFACE",
+    "label": "Terms & Conditions \u00b7 7.1 Rewards exclusions",
+    "note": "Rates used to vary by store and category. Now they also vary by member and by where you see the offer.",
+    "src": "quoted"
+   },
+   {
+    "before": "Rakuten gives a portion of this fee to its Members as Cash Back.",
+    "after": "Rewards rates and offers available through the Services are personalized and may vary by Member based on factors including your account history, shopping behavior, and membership status as described in our Privacy Policy. As a result, the Rewards rate available to you may differ from the rate available to other Members for the same Brand or product.",
+    "label": "Terms & Conditions \u00b7 4 Rewards",
+    "note": "New sentence in the Oct 23, 2026 terms. The Oct 15, 2025 version had no personalization language for rates.",
+    "src": "quoted"
+   },
+   {
+    "before": "We may use information we collect about you to create a profile of your preferences to personalize and tailor Services content so that it is more likely to be of interest to you.",
+    "after": "We may use information we collect about you to create a profile of your preferences to personalize and tailor Services content so that it is more likely to be of interest to you. The offers and cash back rates available to you may be personalized based on your account history, shopping behavior, and membership status, and may differ from those available to other members.",
+    "label": "Privacy Policy \u00b7 To Personalize and Improve Our Services",
+    "note": "Added in the Oct 23, 2026 privacy policy (previous version Dec 18, 2025).",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "Before a big purchase, compare the rate Rakuten shows you with other cash back portals and your card's shopping portal",
+   "A signed-out browser can show you a second rate to compare against, but it is not proof of how your own rate was set",
+   "To limit merchant-targeted personalization, use the opt-out in Section 5 of Rakuten's privacy policy or turn on Global Privacy Control; this may also take you out of targeted higher rates",
+   "Think before converting cash back to Partner Points: the terms say conversion \"may not be reversible\" and the points follow the partner's expiration and fee rules",
+   "If you rarely use Rakuten, cash out (minimum $5.01) so the $5-a-month inactivity fee after 12 months can't drain your balance"
+  ],
+  "what": "Rakuten (the cash back site formerly called Ebates) updated both its Terms & Conditions and its Privacy Policy on October 23, 2026. We compared the live terms (fetched Nov 9, 2026) with the previous version, dated October 15, 2025, as archived by the Wayback Machine on April 15, 2026. We compared the live privacy policy with the version dated December 18, 2025, archived July 12, 2026. Rakuten says it has more than 17 million members.\n\n## Change 1: Your cash back rate is now \"personalized\"\n\nThe old terms described cash back as a cut of Rakuten's referral fee: \"Rakuten gives a portion of this fee to its Members as Cash Back.\" They said cash back amounts \"VARY BY AFFILIATE STORE AND PRODUCT CATEGORY.\"\n\nThe October 23 terms add a new sentence to Section 4: \"Rewards rates and offers available through the Services are personalized and may vary by Member based on factors including your account history, shopping behavior, and membership status as described in our Privacy Policy. As a result, the Rewards rate available to you may differ from the rate available to other Members for the same Brand or product.\"\n\nThe exclusions section changes in the same way. \"CASH BACK AMOUNTS VARY BY AFFILIATE STORE AND PRODUCT CATEGORY\" becomes \"REWARD AMOUNTS VARY BY BRAND, PRODUCT CATEGORY, BY MEMBER, AND BY SURFACE.\" The terms don't define \"surface.\" Read plainly, it means the rate can also depend on where you see the offer (website, app, browser extension, or another channel).\n\nThe privacy policy now says it too. To its section on personalizing the service, Rakuten added: \"The offers and cash back rates available to you may be personalized based on your account history, shopping behavior, and membership status, and may differ from those available to other members.\" The December 18, 2025 version only talked about personalizing which offers and stores you are shown, not your rate.\n\nNeither document says what \"membership status\" means. The updated privacy policy does newly name one paid service, \"Rakuten Plus,\" in its list of services that require payments.\n\n## What Rakuten already told brands\n\nPersonalized rates are not new on Rakuten's business side. A May 14, 2024 post on Rakuten's site for brands describes \"Personalized Rewards\" as \"tailor-made campaigns, designed to target brands' ideal audiences with a unique Cash Back rate,\" built on \"shopper data such as brand preferences, interests, demographics, and conversion rates.\" It lists campaign types \"including re-engagement, category affinity, and demographics targeting.\" In its example, a fashion brand offered new shoppers \"a personalized, elevated 20% Cash Back rate, 3x the brand's typical base rate,\" and the post says \"To ensure existing customers are not served the elevated Cash Back rate, brands have the option to layer in their own CRM data.\"\n\nSo the October 23 update puts in the member contract what Rakuten has pitched to brands since at least 2024: two members shopping the same store can be shown different rates. The terms don't say rates are ever lowered for anyone. They also no longer promise that everyone sees the same rate.\n\n## Why this matters now\n\nOn October 28, 2026, five days after Rakuten's update, the FTC ordered nine companies (Delta, United, JetBlue, Uber, Lyft, DoorDash, Instacart, Walmart and Target) to explain whether prices vary \"from one person to the next based on factors such as participation in loyalty programs or analysis of personal data,\" according to The Record. Rakuten is not one of the nine. But a cash back rate is part of what you actually pay, and Rakuten's contract now says yours is set partly from your shopping behavior.\n\n## Other changes in the October 23 terms\n\n**Cash back becomes \"Rewards,\" and you can convert it to partner points.** Rewards now cover cash back, Bonuses and \"Partner Points\" (points or other currency from partners). If you convert cash back into Partner Points, they are \"issued, valued, and administered by the applicable partner under that partner's terms, including any expiration, fees, or restrictions on use, and once converted they are no longer payable by Rakuten in U.S. dollars. Conversion may not be reversible.\"\n\n**Gift card limits.** You can now redeem part of your balance as gift cards, but \"Gift card redemptions are subject to a maximum of $2,000 per day.\" A new line says Rakuten \"is not responsible for any gift card that is lost, stolen, expired, or otherwise unusable after delivery.\"\n\n**Forfeiture now names confirmed rewards.** In the fraud and abuse section, \"forfeiture of any accrued Cash Back rewards\" becomes \"forfeiture of any accrued or confirmed Rewards.\"\n\n**More detail on how Rakuten is paid.** Section 4 now lists \"referral or affiliate fees, marketing funds, cost-per-click or other performance-based fees, commissions on gift card redemptions, and other forms of consideration,\" and says Rakuten funds rewards from that money \"and, for some offers, from its own funds.\"\n\n## What stays the same\n\nThe $5 inactivity fee is not new. Both versions say that if you haven't shopped or started a shopping trip through Rakuten for more than 12 consecutive months, Rakuten \"reserves the right to debit your Account balance five dollars ($5.00) per month\" until you shop again or the balance hits zero. The arbitration clause and its 30-day opt-out (by signed letter, within 30 days of joining) are also the same; only the attention line on the mailing address changed.\n\n## What you can do\n\nBefore you click through for a big purchase, compare the rate Rakuten shows you with the rate on other cash back portals or your card's shopping portal. Comparing what you see signed in with what a signed-out browser shows is a quick check, but it is not proof of how your own rate was set.\n\nThe privacy policy (in both versions) says that when Rakuten personalizes the offers you see from your tracked behavior \"for the direct benefit of a particular merchant,\" that may count as \"selling\" or \"sharing,\" and the Section 5 opt-out \"would cover and remove you from this type of targeted marketing and personalization.\" Rakuten also says it honors Global Privacy Control signals. Opting out may also take you out of targeted higher rates, so it can cut both ways.\n\nIf you have a balance and rarely use Rakuten, cash it out (the minimum payout is still $5.01) so the $5-a-month inactivity fee can't eat it.\n\nCoverage (checked Nov 9, 2026): We found no news story about the October 23 changes. An automated terms tracker (CrazyTOS) summarized the terms update; we found nothing on the privacy-policy line or on how it lines up with Rakuten's pitch to brands.",
+  "faq": [
+   [
+    "Does Rakuten give everyone the same cash back rate?",
+    "Not according to its October 23, 2026 terms. They say rewards rates \"are personalized and may vary by Member based on factors including your account history, shopping behavior, and membership status,\" and that your rate \"may differ from the rate available to other Members for the same Brand or product.\""
+   ],
+   [
+    "When did Rakuten change its terms?",
+    "Both the Terms & Conditions and the Privacy Policy are marked \"Updated: October 23, 2026.\" The previous terms were dated October 15, 2025 and the previous privacy policy December 18, 2025."
+   ],
+   [
+    "Is personalized cash back new at Rakuten?",
+    "Not on the business side. A May 2024 Rakuten post for brands describes \"Personalized Rewards\" campaigns that target audiences \"with a unique Cash Back rate,\" including \"demographics targeting,\" and says brands can keep existing customers from seeing an elevated rate. What's new is that the member terms and privacy policy now say so."
+   ],
+   [
+    "Can Rakuten lower my cash back rate because of my shopping history?",
+    "The terms don't say rates are lowered for anyone. They say rates can differ by member based on account history, shopping behavior and membership status, which means they no longer promise you'll see the same rate as other members."
+   ],
+   [
+    "Can I opt out of personalized Rakuten offers?",
+    "Partly. Rakuten's privacy policy says personalization based on your tracked behavior \"for the direct benefit of a particular merchant\" may count as selling or sharing, and its Section 5 opt-out \"would cover and remove you from this type of targeted marketing and personalization.\" Rakuten also honors Global Privacy Control. Opting out may also remove targeted higher rates."
+   ],
+   [
+    "Does Rakuten charge an inactivity fee?",
+    "Yes, and that part is not new. If you haven't shopped or started a shopping trip through Rakuten for more than 12 consecutive months, it \"reserves the right to debit your Account balance five dollars ($5.00) per month\" until you shop again or the balance reaches zero. It won't make your balance negative."
+   ],
+   [
+    "Is there a limit on Rakuten gift card redemptions?",
+    "Yes. The October 23 terms say \"Gift card redemptions are subject to a maximum of $2,000 per day,\" and you can now redeem part of your balance."
+   ]
+  ],
+  "sources": [
+   [
+    "Rakuten: Terms & Conditions, updated October 23, 2026 (fetched Nov 9, 2026)",
+    "https://www.rakuten.com/help/article/how-does-cash-back-work-360002101608"
+   ],
+   [
+    "Rakuten: Terms & Conditions, updated October 15, 2025 (Wayback Machine, Apr 15, 2026)",
+    "https://web.archive.org/web/20260415202947/https://www.rakuten.com/help/article/how-does-cash-back-work-360002101608"
+   ],
+   [
+    "Rakuten: Privacy Policy, updated October 23, 2026 (fetched Nov 9, 2026)",
+    "https://www.rakuten.com/help/article/privacy-policy"
+   ],
+   [
+    "Rakuten: Privacy Policy, updated December 18, 2025 (Wayback Machine, Jul 12, 2026)",
+    "https://web.archive.org/web/20260712172636/https://www.rakuten.com/help/article/privacy-policy-360002101688"
+   ],
+   [
+    "Rakuten for business: How to capture new customers with Personalized Rewards (May 14, 2024)",
+    "https://business.rakuten.com/how-to-capture-new-customers-with-personalized-rewards/"
+   ],
+   [
+    "Rakuten for business: home page (\"17M+ Rakuten Rewards members\")",
+    "https://business.rakuten.com/"
+   ],
+   [
+    "The Record: FTC to probe major companies over personalized pricing and pay (Oct 29, 2026)",
+    "https://therecord.media/ftc-rideshare-airlines-data"
+   ]
+  ]
  }
 ]

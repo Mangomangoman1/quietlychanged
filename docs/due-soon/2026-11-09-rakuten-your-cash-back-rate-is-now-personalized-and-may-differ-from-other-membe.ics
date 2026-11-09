@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rakuten · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-09-rakuten-your-cash-back-rate-is-now-personalized-and-may-dif
+ fer-from-other-membe@quietlychanged.com
+DTSTAMP:20261109T195439Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Rakuten: Took effect
+DESCRIPTION:Rakuten's Oct 23 terms and privacy policy say cash back rates 
+ are personalized by your account history\, shopping behavior and membersh
+ ip status\, so your rate at a store may differ from another member's. Cas
+ h back is now "Rewards\," with partner-point conversions and a $2\,000-a-
+ day gift card cap.\n\nhttps://quietlychanged.com/changes/2026-11-09-rakut
+ en-your-cash-back-rate-is-now-personalized-and-may-differ-from-other-memb
+ e/
+URL:https://quietlychanged.com/changes/2026-11-09-rakuten-your-cash-back-r
+ ate-is-now-personalized-and-may-differ-from-other-membe/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Rakuten — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
