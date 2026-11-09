@@ -1609,3 +1609,30 @@ Reach per tier (updated):
 - **R1 (post by ~9:35 AM MT)** IGN PS Plus perks (27K / 12 / ~82 min): UK/FR/DE only; YouTube trial new-customers-only, auto-bills £12.99/€12.99. PlayStation logo + fine-print card.
 - **O1 original** JetBlue bag hike + all of December peak (logo + fee table + December strip), self-reply with article link.
 - **Q1 parent-quote** thsottiaux OpenAI Pro multiples (1.72M / 1,370 / ~11h): not on OpenAI's own pages; "20x" claims vs Anthropic just survived. OpenAI logo + card.
+
+## Snapshot 2026-11-08 ~5:20 PM MT (Sunday evening)
+Account (X API ~5:22 PM MT): **22 followers** (flat 6th day), 14 following, 224 posts, 105 media. Pinned = Nov 2 roundup (re-pin new roundup tomorrow Monday AM). Original slots used: JetBlue (9:37 AM) + Booking.com 2nd original (3:32 PM).
+
+| When (MT) | Post | Type | Impressions | Likes | BM | Replies |
+|---|---|---|---|---|---|---|
+| Nov 8 ~3:32 PM | Booking.com Wallet Credits original (2119558682870731172), self-reply NOT posted yet | original (2nd) | 18 | 0 | 0 | 0 |
+| Nov 8 ~9:48 AM | Quote thsottiaux OpenAI Pro multiples (2119472199358930944), parent 2.14M | parent-quote | 12 | 0 | 0 | 0 |
+| Nov 8 ~9:37 AM | JetBlue bag-fee original (2119469244165538293) + self-reply (17) | original | 17 | 0 | 0 | 1 |
+| Nov 8 ~9:31 AM | Dexerto Ram-Altman reply (2119467769670565901), parent now **1.36M / 151 replies** | reply | **6** | 0 | 0 | 0 |
+| Nov 8 ~9:25 AM | IGN PS Plus perks reply (2119466242910433690), parent now 94K / 39 | reply | **7** | 0 | 0 | 0 |
+
+Reach per tier: 50K+ parent (Dexerto went 30K→1.36M), ~46 min, image-led, 34 ahead → 6. 20–50K parent (IGN went 27K→94K), ~85 min, image-led, 12 ahead → 7. Both "over 45 min" bucket. Quote layer: 12.
+
+### What we learned
+1. Worst reply day of the week despite huge parents: Dexerto's became a 1.36M post and our reply sat at 6. Landing at 35–85 min no longer finds the reply section; the Nov 5 winners (3.7K, 2.1K) were under 30 min. Under-45-minute landings look necessary again even with an image.
+2. Originals stay 12–18 (Booking 18, JetBlue 17); quotes 12–27. At 22 followers nothing but early replies under fast parents moves reach.
+3. Sunday evening feed is thin in our lane (politics, NFL, celebrity). Best in-lane: unusual_whales data-center ballots (69K/21), Pirat_Nation PS6 memory (10K/28).
+
+### Topic log
+- AI-driven RAM/memory prices (Dexerto, Pirat PS6): hot all weekend; our receipts (DDR5 spot 6.8x, PS5 price ladder) are ready for the next fast parent.
+- Electricity prices vs data centers: testing as reply (EIA Aug 2026). Possible chart original later this week: "what your power bill rose by state" (EIA).
+
+### Drafted (social/2026-11-08/pm/xgrowth-pm-drafts.md)
+- 0: post the missing Booking.com self-reply once.
+- R2 (post now) unusual_whales data-center ballots: EIA home 18.16¢ +3.4%, industrial +7.3%.
+- R1 conditional Pirat_Nation PS6: PS5 price ladder $499.99→$649.99, Pro→$899.99.
