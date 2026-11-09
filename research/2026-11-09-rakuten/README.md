@@ -8,3 +8,5 @@
 - therecord-ftc-2026-10-29.html: The Record on FTC 6(b) orders (ftc.gov press URL 404'd from the box)
 All 39 quoted strings in the article machine-checked against these files.
 Not in services.json: tracker.extract() returns 16 chars for both pages (no <main>; <article> is a stub), so daily runs would only log failures.
+- Distribution re-check (Nov 9 PM, curl Chrome UA, 200): live terms + privacy still "Updated: October 23, 2026"; all key quotes present (live-2026-11-09-pm-recheck.html).
+- Comparisons fetched Nov 9: capitalone-shopping-terms (Effective Date of Last Update: November 5, 2026), paypal-honey-terms (Last updated January 16, 2024), topcashback-terms ("most recently updated in 03 2025"), biz-faq (50/50 split, "Cash Back elasticity"), biz-case-2nd-purchase (8%/10% vs 2% base, members who purchased within 18 months).
