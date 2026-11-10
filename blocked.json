@@ -512,5 +512,47 @@
    "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
    "First failure: 23 chars (bot wall) in tracker run; manual curl minutes later returned 200 with full page; one-off, kept"
   ]
+ ],
+ "flaky_2026-11-10": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass",
+   "SSLError"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Emotiv",
+   "privacy",
+   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "note",
+   "PayPal 403 and Xbox Game Pass SSLError are new today; Emotiv privacy returned an empty page (added Nov 9). Roblox/Shein ongoing."
+  ]
  ]
 }

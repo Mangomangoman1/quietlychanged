@@ -1,0 +1,940 @@
+{
+ "date": "2026-11-10",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Wells Fargo",
+   "terms",
+   "https://www.wellsfargo.com/online-banking/online-access-agreement/"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ],
+  [
+   "AT&T",
+   "terms",
+   "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  ],
+  [
+   "Cricket Wireless",
+   "terms",
+   "https://www.cricketwireless.com/terms"
+  ],
+  [
+   "California",
+   "terms",
+   "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  ],
+  [
+   "Xero",
+   "terms",
+   "https://www.xero.com/us/legal/terms/"
+  ],
+  [
+   "Xero",
+   "privacy",
+   "https://www.xero.com/us/legal/privacy/"
+  ],
+  [
+   "Grindr",
+   "terms",
+   "https://trust.grindr.com/en-US/legal/2026-terms-of-service"
+  ],
+  [
+   "Grindr",
+   "privacy",
+   "https://trust.grindr.com/en-US/privacy"
+  ],
+  [
+   "Social Security",
+   "privacy",
+   "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest"
+  ],
+  [
+   "Toyota",
+   "privacy",
+   "https://www.toyota.com/support/privacy-notice/"
+  ],
+  [
+   "Tubi",
+   "privacy",
+   "https://tubitv.com/static/privacy"
+  ],
+  [
+   "Calm",
+   "terms",
+   "https://www.calm.com/terms"
+  ],
+  [
+   "Calm",
+   "privacy",
+   "https://www.calm.com/privacy-policy"
+  ],
+  [
+   "Stripe",
+   "privacy",
+   "https://stripe.com/privacy"
+  ],
+  [
+   "JetBlue",
+   "pricing",
+   "https://www.jetblue.com/legal/fees"
+  ],
+  [
+   "JetBlue",
+   "terms",
+   "https://www.jetblue.com/legal/flights-terms"
+  ],
+  [
+   "BeReal",
+   "privacy",
+   "https://bereal.com/privacy"
+  ],
+  [
+   "BeReal",
+   "terms",
+   "https://bereal.com/terms"
+  ],
+  [
+   "Booking.com",
+   "terms",
+   "https://www.booking.com/content/terms.html"
+  ],
+  [
+   "Netlify",
+   "terms",
+   "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/"
+  ],
+  [
+   "Netlify",
+   "privacy",
+   "https://www.netlify.com/privacy/"
+  ],
+  [
+   "Vrew",
+   "terms",
+   "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
+  ],
+  [
+   "Muse",
+   "privacy",
+   "https://choosemuse.com/pages/privacy"
+  ]
+ ],
+ "failed": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass",
+   "SSLError"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Emotiv",
+   "privacy",
+   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Anthropic Claude",
+   "page": "pricing",
+   "url": "https://www.anthropic.com/pricing",
+   "diff": "@@ -631,3 +631,3 @@\n (opens in new tab)\n-Fable 5.1\n+Fable 5.2\n Next generation intelligence for long-running agents\n@@ -635,12 +635,11 @@\n Read\n-$0.25\n-/ MTok\n-Write\n-$12.50\n-/ MTok\n-Input\n+$0.20\n+/ MTok\n+Write\n $10\n / MTok\n-Output\n-$50\n+Input\n+/ MTok\n+Output\n+$40\n / MTok\n@@ -706,3 +705,3 @@\n Learn more\n-Get up to 2.5x faster speeds with fast mode for Opus 5.5 at 2x standard pricing.\n+Get up to 2.5x faster speeds with fast mode for Opus 5.5 and Fable 5.2 at 2x standard pricing.\n Learn more\n@@ -742,2 +741,16 @@\n (opens in new tab)\n+Fable 5.1\n+Prompt caching\n+Read\n+$0.25\n+/ MTok\n+Write\n+$12.50\n+/ MTok\n+Input\n+$10\n+/ MTok\n+Output\n+$50\n+/ MTok\n Haiku 4.5",
+   "added": 23,
+   "removed": 10
+  },
+  {
+   "service": "Microsoft 365",
+   "page": "privacy",
+   "url": "https://privacy.microsoft.com/en-us/privacystatement",
+   "diff": "@@ -13,3 +13,3 @@\n If you have a privacy concern, complaint, or question for the Microsoft privacy team or Data Protection Officer, please visit our\n-privacy support and requests\n+Privacy support and requests\n page and click on \u201cContact the Microsoft privacy team or the Microsoft Data Protection Officer\u201d menu. For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the\n@@ -30,3 +30,5 @@\n for additional information about your rights and the processing of your personal data.\n-Please see the Enterprise and developer products section of this privacy statement for more information about how we process data from organizations that use our products and services, like businesses and schools. If you use a Microsoft product or a Microsoft account provided by your organization, please see the\n+Please see the\n+Enterprise and developer products\n+section of this privacy statement for more information about how we process data from organizations that use our products and services, like businesses and schools. If you use a Microsoft product or a Microsoft account provided by your organization, please see the\n Products provided by your organization\n@@ -57,3 +59,3 @@\n Device, connectivity, and configuration data\n-. For example, IP addresses, device identifiers, nearby networks, and other information about the operating systems and other software installed on your device.\n+. For example, IP addresses, age of the device, device identifiers and type, device language and locale settings, nearby networks, and other information about the operating systems and other software installed on your device.\n Error reports (\u201ccrash dumps\u201d) and performance data\n@@ -107,2 +109,3 @@\n Publicly available sources, such as open public sector, academic, and commercial data sets.\n+Companies that provide workplace and productivity data for research, development, and improvement of our products and services.\n You have choices when it comes to the data you share. When you are asked to provide personal data, you can decline. You can also use web browser, in-product, or operating system controls to limit or prevent certain types of automatic data collection. Many of our products require some personal data to operate and provide you with a service. If you choose not to provide or allow us to collect required data, you cannot use the related product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you and you do not provide the data, we will not be able to enter into or carry out the contract. Where providing the data is optional, and you choose not to share personal data, features like personalization that use the data will not work for you.\n@@ -136,3 +139,3 @@\n Providing Age Appropriate Experiences\n-. We use information associated with your Microsoft account to provide more age-appropriate experiences across our services. This may include information you provide, such as your date of birth or settings you choose in your account, information from your use of Microsoft services, such as how you interact with features, content, and products, or information from partners or verification services, such as age range signals received from app stores. We use this information to help us apply age-appropriate protections, settings, and experiences. When we apply age-based protections, we generally apply them across Microsoft services connected to your account so that your experience is consistent. We may share age group information with Microsoft apps and services, as well as third-party apps, so that they can apply appropriate safeguards, tailor experiences, and comply with applicable laws and regulations.\n+. We use information associated with your Microsoft account to provide more age-appropriate experiences across our services. This may include information you provide, such as your date of birth or settings you choose in your account, information from your use of Microsoft services, such as how you interact with features, content, and products, or information from partners or verification services, such as age range signals received from app stores. We use this information to help us apply age-appropriate protections, settings, and experiences. When we apply age-based protections, we generally apply them across Microsoft services connected to your account so that your experience is consistent. We may share age group information with Microsoft apps and services, as well as third-party apps, so that they can apply appropriate safeguards, tailor experiences, and comply with applicable laws and regulations. In services you can use without logging in, we may use device-based information to help us apply age-appropriate protections.\n Troubleshooting and Updates\n@@ -1011,5 +1014,6 @@\n Personalized ads and offers page\n-. In some regions such as the European Economic Area, turning off Personalized offers on Windows also stops the use of data from other Microsoft products to personalize tips, ads, and recommendations in Windows. In other regions, you can manage how data collected by other Microsoft products is used to personalize offers by visiting your\n+to opt in or out. In some regions such as the European Economic Area, turning off Personalized offers on Windows also stops the use of data from other Microsoft products to personalize tips, ads, and recommendations in Windows. In other regions, you can manage how data collected by other Microsoft products is used to personalize offers by visiting your\n Personalized ads and offers page\n Contextual data from your device and some basic account data are used to show you appropriate messaging in Windows regardless of whether the Personalized offers setting in Windows or the settings to use data from other Microsoft products to personalize offers are turned off. For example, this data is used to make sure content is in the correct language and appropriate for your age group.\n+If you choose to turn off Personalized offers or stop the use of data from other Microsoft products, we may use basic account data and contextual info about your device to avoid showing you generic tips, ads, and recommendations that are not relevant to you. For example, we may use basic account data like your active subscriptions to avoid showing you ads for products you have already purchased, or contextual data like your device model to avoid recommending hardware accessories that are not compatible with your device.\n Personalized offers applies to tips, offers, ads, and recommendations you see in Windows. Changing this setting will not impact the kinds of offers you may see in other Microsoft products. You can change this setting at any time by searching for\n@@ -1069,50 +1073,27 @@\n Linked mobile experiences on Windows\n-The Phone Link feature lets you link your mobile phone to your Windows PC, enabling a variety of cross-device experiences across all your Windows devices.\n-Some Phone Link features, and the resulting data that is synced between your phone and Windows devices, differs for Android devices and iPhones and is described separately below.\n-As part of providing Phone Link\u2019s features, Microsoft collects performance, usage, and device data that includes, for example, the hardware capabilities of your mobile phone and Windows device, the number and duration of your sessions on Phone Link, and the amount of time you spent during setup.\n-Android Devices\n-You can use Phone Link to see recent photos, view and send text messages, and make and receive live calls from your Android phone on your Windows device. You can also view, dismiss, or perform other actions to your Android phone notifications and instantly access and use Android apps installed on your Android phone from your Windows device and share your phone screen on your Windows device through Phone Link\u2019s mirroring function.\n-To use Phone Link, you must install the Link to Windows app on your Android device and grant the requested app permissions. You must log into your Microsoft account on the Phone Link feature on your Windows device and on Link to Windows on your Android phone. Both devices must be connected to the internet. Some features require Bluetooth and pairing your phone with your PC.\n-We never store your texts, call history, photos, or what apps you have or information displayed by the apps on our servers or change them on your phone.\n-You can unlink your Android phone from your Windows device at any time by going into your Phone Link settings and choosing to remove your Android phone, or from the settings in Link to Windows on your Android phone. For detailed information, see\n-our support page\n-Text Messages.\n-Phone Link allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device. Phone Link accesses the content of your text messages and the sender\u2019s or recipient\u2019s contact information. These text messages are temporarily stored on your device and only those messages received and sent within the last 30 days are visible on your Windows device.\n+Phone Link features and Mobile devices in Settings let you link your mobile devices (e.g., iPhone and Android) and apps (e.g., WhatsApp) to your Windows PCs, enabling a variety of cross-device experiences across your linked Windows devices. In this section, we refer to these features collectively as \u201clinked mobile experiences.\u201d\n+When you enable a linked mobile experience, Windows may make certain content and functionality from your mobile device or app available on each linked Windows PC where you enable that experience. Available features and the content that is synced or made available differ based on your mobile device or app, Windows PC, region, permissions, and settings that you choose.\n+As part of providing Phone Link features and Mobile devices in Settings, Microsoft collects performance, usage, and device data. This may include information about the hardware and software capabilities of your mobile devices and Windows PCs, feature configuration and permissions, connection and setup status, the number and duration of feature sessions, and reliability and performance information.\n+Except where a feature description below states otherwise, Microsoft does not store the content of your text messages, call history, photos, files, notifications, camera sessions, or information displayed by your mobile apps on Microsoft servers, and does not change or delete that content on your mobile device. Some content may be temporarily stored on a linked Windows PC to provide an enabled feature. Content you choose to save is stored on that Windows PC until you delete it.\n+You can change your choices or unlink a device at any time. You can manage most of these controls under Mobile devices in the Bluetooth & devices section of Settings on your Windows PC. Certain controls may also be available in Phone Link features, in Link to Windows on your mobile device, or in your mobile device settings. Turning off a feature stops new content from being made available through that feature, but content you previously chose to save on a Windows PC remains there until you delete it. You can choose which linked mobile experiences to enable or disable, including:\n+Text messages.\n+You can view text messages received on your mobile device or app and send text messages from your linked Windows device. To enable these features, Windows accesses message content and the sender\u2019s or recipient\u2019s contact information. Messages available on your Windows device may be stored there temporarily.\n Calls.\n-Phone Link allows you to make, receive, and view your recent calls from your Android phone on your Windows device. To activate this feature, you must enable certain permissions on both the Phone Link Settings page on your Windows device and Android phone\u2019s settings, such as call logs access and permission to make phone calls from your PC. These call details are temporarily stored on your Windows device and only calls received and dialed within the last 30 days are visible under call logs on your Windows device.\n-Photos.\n-Phone Link allows you to copy, share, edit, save, or delete a limited number of your most recent photos from your Android phone on your Windows device. These photos are temporarily stored on your Windows device.\n+You can make, receive, and view recent calls from your mobile device or app on a linked Windows device. You must grant applicable permissions, such as access to call logs and permission to make calls from your PC.\n+Photos and new photo notifications.\n+You can view, copy, share, edit, save, or delete a limited number of recent photos from your mobile device or app on a linked Windows device. You may also receive notifications on a linked Windows device when new photos are available. Photos may be temporarily stored on the Windows device while you view, open, or edit them. Photos you choose to save remain on that Windows device until you delete them. Microsoft does not store these photos on its servers, change, or delete the original photos on your mobile device or app.\n Notifications.\n-Phone Link allows you to view, read, dismiss, or perform other actions related to your Android phone\u2019s notifications on your Windows device. To activate this Phone Link feature, you must enable certain permissions, such as sync notifications, on both your Windows device and Android phone.\n-Apps mirroring.\n-On supported devices, Phone Link allows you to use the Android apps that are installed on your Android phone on your Windows device. Microsoft collects a list of your installed Android apps and recent activity to provide the service and show you your most recently used apps but does not retain further information.\n+You can view, read, dismiss, or perform other supported actions on your mobile device or app from a linked Windows device. You must enable the applicable notification permissions on your mobile device or app and Windows PC. You can disable notification access at any time.\n+Apps and screen mirroring.\n+You can use apps installed on your mobile device or mirror your mobile screen on a linked Windows PC. Microsoft collects a list of installed apps and recent app activity to provide the experience and show recently used apps, but does not retain further information about the content displayed by those apps.\n Instant Hotspot.\n-On supported Android devices, Link to Windows enables users to share mobile hotspot information with their paired PC over secure Bluetooth communication. Your PC can then be connected to the internet. Please note mobile data charges may apply depending on your mobile data plan.\n+You can share mobile hotspot information with a paired Windows device through secure Bluetooth communication so the Windows device can connect to the internet. Mobile data charges may apply according to your mobile data plan.\n Contacts.\n-Link to Windows allows you to sync your Android contacts into the Microsoft cloud. You can access them in other Microsoft products and services by going into Link to Windows settings and enabling \u201cContacts sync\u201d feature. Your contacts information is stored online and associated with your Microsoft account.\n-Learn more\n-iPhones\n-You can use Phone Link to make and receive calls from your iPhone, view and send text messages, and view, dismiss, or perform other actions on your iPhone notification from your Windows device.\n-To use Phone Link, you must have Bluetooth enabled on your iPhone. You may also optionally install the Link to Windows app on your iPhone.\n-You can unlink your iPhone from your Windows device at any time by going into Phone Link settings and choosing to remove your iPhone. You can do the same from your iPhone by going into\n-Settings > Bluetooth > Selecting your PC name > click on the (i) icon > and choosing Forget This Device\n-We never store your texts or call history on our servers or change them on your iPhone.\n-Text Messages.\n-Phone Link allows you to view text (SMS) messages delivered to your iPhone on your Windows devices and send text messages from your Windows device. Phone Link accesses the content of your text messages and the sender\u2019s or recipient\u2019s contact information. These text messages are temporarily stored on your Windows device and only text messages received and sent within your Bluetooth session or iMessage are visible on your Windows devices.\n-Calls.\n-Phone Link allows you to make, receive, and view your recent calls from your iPhone on your Windows device. To activate this feature, you must enable the Sync Contacts feature under Bluetooth settings on your iPhone. These call details are temporarily stored on your Windows device.\n-Notifications.\n-Phone Link allows you to view, read, dismiss, or perform other actions related to your iPhone\u2019s notifications on your Windows device. To activate this Phone Link feature, you must enable certain permissions such as sync notifications, on both your Windows device and iPhone.\n-Contacts.\n-Phone Link allows you to sync your contacts from your iPhone to access them for messaging and calling by going into Bluetooth settings on your iPhone and toggle on Sync Contacts under your PC name after connecting your iPhone to Phone Link.\n-Back to top\n-Cross-device experiences\n-Cross-device experiences in Windows enable access to a linked mobile device from your PC through your Microsoft account. By linking your mobile device and enabling these experiences, Windows may make certain mobile device content available across Windows to deliver features and services that support integrated cross\u2011device functionality. These can be managed under \u201cMobile Devices\u201d in the Bluetooth & Devices section in your Windows PC Settings. As part of providing these features, Microsoft collects performance usage and device data, including information about the hardware capabilities of your mobile and Windows devices. You can turn this feature on or off at any time in your Windows PC Settings.\n+You can use contacts from your Android device to support messaging and calling. If you separately enable Contacts sync in Link to Windows, your Android contacts are synced to the Microsoft cloud, associated with your Microsoft account, and may be available in other Microsoft products and services. You can disable Contacts sync in Link to Windows settings.\n+Files, File Explorer, and Windows Share.\n+You can access and share files from your mobile device in File Explorer and display your linked device in Windows Share. Microsoft does not store the contents of these files in its servers. Files you copy or save to a Windows PC remain on that PC until you delete them.\n Use your mobile device as a connected camera.\n-This feature allows you to use your mobile device\u2019s camera in apps or products on Windows that support camera functionality. You can enable this feature under \u201cMobile Devices\u201d in the Bluetooth & Devices section in the Settings on your PC. Microsoft does not record or store your camera sessions or any of the information displayed by your camera in any of the applications or products.\n-Get new photo notifications from your mobile device.\n-This feature allows you to receive notifications from your linked mobile device on your Windows PC. These photos are temporarily stored on your Windows PC while you are editing or opening those photos. You will need to initiate saving to your PC to store those photos until you decide to delete them. We never store your photos on our servers or change or delete any photos on your mobile device.\n-Show your mobile device in File Explorer and device name in Windows Share.\n-This feature allows you to access your mobile device\u2019s files in File Explorer. You can enable this feature under \u201cMobile Devices\u201d in the Bluetooth & Devices section in the Settings on your PC. Microsoft will not store your file contents in its services.\n-You can also enable access to your linked mobile device through Windows Share. You can turn on this feature in Settings > Bluetooth & devices > Mobile devices. Once enabled, your linked devices are visible in Windows, allowing you to share files and folders between your PC and your mobile device.\n+You can use your mobile device\u2019s camera in Windows apps and products that support camera functionality. Microsoft does not record or store your camera sessions or the information displayed by the camera in those apps or products. You can disable connected-camera access in Mobile devices in Settings.\n+Location sharing.\n+You can access location information from your mobile device after you choose to enable this feature. Because many Windows PCs do not include built-in GPS hardware, location information from your mobile device can help provide location-based experiences on your PC. Microsoft processes location data in accordance with the Microsoft Privacy Statement and uses it to provide and support the location-based experiences you choose to use.\n Back to top",
+   "added": 29,
+   "removed": 48
+  },
+  {
+   "service": "Proton",
+   "page": "pricing",
+   "url": "https://proton.me/pricing",
+   "diff": "@@ -24,3 +24,3 @@\n Priority customer support\n-Billed at $29.88 every 12 months.\n+Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months.\n 50% off\n@@ -42,3 +42,3 @@\n Advanced account protection\n-Billed at $77.88 every 12 months.\n+Billed at $77.88 for the first 12 months, then renews at $119.88 every 12 months.\n All features\n@@ -55,28 +55,18 @@\n Compare our plans\n+Sign up free\n $2.49\n /month\n-Sicher dir das Angebot\n-$1.00\n-Sicher dir das Angebot\n+Get Drive Plus\n Show only differences\n Highlights\n-Mail Plus\n-Proton Unlimited\n+Proton Free\n+Drive Plus 200 GB\n Storage\n-15 GB\n-500 GB\n+Up to 1 GB\n+200 GB\n Users\n Priority customer support\n-Included\n+Not included\n Included\n Easy Switch import assistant\n-Included\n-Included\n-Proton Sentinel program\n-Not included\n-Included\n-Emergency Access\n-Included\n-Included\n-Dark Web Monitoring\n Included\n@@ -94,9 +84,8 @@\n Features\n-Mail Plus\n+Proton Free\n+Sign up free\n+Drive Plus\n $2.49\n /month\n-Sicher dir das Angebot\n-Proton Unlimited\n-$1.00\n-Sicher dir das Angebot\n+Get Drive Plus\n Proton Unlimited\n@@ -104,10 +93,16 @@\n /month\n-Sicher dir das Angebot\n+Get Proton Unlimited\n+Proton Duo\n+$14.99\n+/month\n+Get Proton Duo\n Highlights\n Storage\n-15 GB\n+Up to 1 GB\n+200 GB\n 500 GB\n-500 GB\n+2 TB\n Users\n Priority customer support\n+Not included\n Included\n@@ -117,13 +112,2 @@\n Included\n-Included\n-Included\n-Proton Sentinel program\n-Not included\n-Included\n-Included\n-Emergency Access\n-Included\n-Included\n-Included\n-Dark Web Monitoring\n Included\n@@ -134,4 +118,6 @@\n Custom email domains supported\n+Not included\n Messages per day\n-Unlimited\n+150\n+150\n Unlimited\n@@ -141,3 +127,2 @@\n Unlimited\n-Unlimited\n Labels\n@@ -145,5 +130,3 @@\n Unlimited\n-Unlimited\n Custom filters\n-Unlimited\n Unlimited\n@@ -154,6 +137,3 @@\n 25 MB\n-Desktop app\n-Included\n-Included\n-Included\n+25 MB\n HTML signatures\n@@ -162,2 +142,3 @@\n Included\n+Included\n End-to-end encryption\n@@ -166,2 +147,3 @@\n Included\n+Included\n Password-protected emails\n@@ -170,2 +152,3 @@\n Included\n+Included\n Encrypted contact details\n@@ -174,2 +157,3 @@\n Included\n+Included\n Hide-my-email aliases\n@@ -177,38 +161,2 @@\n Unlimited\n-Short @pm.me address\n-Included\n-Included\n-Included\n-Contact groups\n-Included\n-Included\n-Included\n-Email client support (via IMAP/SMTP)\n-Included\n-Included\n-Included\n-Auto-reply\n-Included\n-Included\n-Included\n-Catch-all email\n-Included\n-Included\n-Included\n-Automatic forwarding\n-Included\n-Included\n-Included\n-Auto-delete spam and trash\n-Included\n-Included\n-Included\n-Schedule and snooze emails for any time\n-Included\n-Included\n-Included\n-Proton Scribe writing assistant\n-Add-on with free trial\n-Add-on with free trial\n-Add-on with free trial\n Proton Calendar\n@@ -219,5 +167,2 @@\n Included\n-Calendar sharing\n-Included\n-Included\n Included\n@@ -227,4 +172,6 @@\n Included\n+Included\n Appointment scheduling\n-1 booking page\n+Not included\n+Not included\n 1 booking page\n@@ -233,5 +180,6 @@\n Drive storage\n-15 GB\n+Up to 5 GB\n+200 GB\n 500 GB\n-500 GB\n+2 TB\n Online document editor\n@@ -240,2 +188,3 @@\n Included",
+   "added": 71,
+   "removed": 88
+  },
+  {
+   "service": "Cloudflare",
+   "page": "privacy",
+   "url": "https://www.cloudflare.com/privacypolicy/",
+   "diff": "@@ -31,3 +31,3 @@\n We have updated our <DATE> Privacy Policy to include our new Addendum applicable to users in South Korea\n-This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n+This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u0000\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n CLOUDFLARE\u2019S PROMISE",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Squarespace",
+   "page": "pricing",
+   "url": "https://www.squarespace.com/pricing",
+   "diff": "@@ -10,2 +10,3 @@\n Basic\n+30% off\n Publish your personal or business website with the essentials.\n@@ -15,4 +16,6 @@\n /mo\n-Get started\n-Get started\n+Start Free Trial\n+Buy Now\n+Start Free Trial\n+Buy Now\n Free custom domain*\n@@ -28,3 +31,3 @@\n Core\n-Recommended\n+30% off\n Start selling with a foundation for service businesses.\n@@ -34,4 +37,6 @@\n /mo\n-Get started\n-Get started\n+Start Free Trial\n+Buy Now\n+Start Free Trial\n+Buy Now\n Free custom domain*\n@@ -51,2 +56,3 @@\n Plus\n+30% off\n Power an expanding inventory and grow your revenue.\n@@ -56,4 +62,6 @@\n /mo\n-Get started\n-Get started\n+Start Free Trial\n+Buy Now\n+Start Free Trial\n+Buy Now\n Free custom domain*\n@@ -74,2 +82,3 @@\n Advanced\n+30% off\n Scale with the lowest fees to optimize operations.\n@@ -79,4 +88,6 @@\n /mo\n-Get started\n-Get started\n+Start Free Trial\n+Buy Now\n+Start Free Trial\n+Buy Now\n Free custom domain*\n@@ -109,4 +120,4 @@\n /mo\n-Get started\n-Get started\n+Buy Now\n+Buy Now\n Core\n@@ -117,4 +128,4 @@\n /mo\n-Get started\n-Get started\n+Buy Now\n+Buy Now\n Plus\n@@ -124,4 +135,4 @@\n /mo\n-Get started\n-Get started\n+Buy Now\n+Buy Now\n Advanced\n@@ -131,4 +142,4 @@\n /mo\n-Get started\n-Get started\n+Buy Now\n+Buy Now\n Build your website",
+   "added": 28,
+   "removed": 17
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -28,3 +28,3 @@\n Accessibility\n-Access our 1M+ catalog with membership\n+Choose the plan that's right for you\n Switch plans or cancel anytime.\n@@ -33,19 +33,20 @@\n Try for $0.00\n-Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.\n-Standard\n-1 audiobook a month\n-$8.99/mo after 30 days\n+Auto-renews at $8.99/mo after 30 days. Cancel anytime.\n+Standard 30-day free trial\n+$8.99/mo after free trial\n Try for $0.00\n Auto-renews at $14.95/mo after 30 days. Cancel anytime.\n-Premium\n-150k+ included titles\n-$14.95/mo after 30 days\n+Premium 30-day free trial\n+$14.95/mo after free trial\n Sign up for Premium Annual\n Auto-renews at $149.50/yr. Cancel anytime.\n+Premium\n 12 audiobooks\n-$149.50/year\n-Sign up for Premium Annual\n+$149.50 a year\n+Select this plan\n Auto-renews at $229.50/yr. Cancel anytime.\n-24 audiobooks\n-$229.50/year\n+Premium\n+12 creditos/a\u00f1o\n+$229.50/yr\n+Save 16%\n LIMITED TIME OFFER | $99 for a year of Premium",
+   "added": 13,
+   "removed": 12
+  },
+  {
+   "service": "Mailchimp",
+   "page": "pricing",
+   "url": "https://mailchimp.com/pricing/marketing/",
+   "diff": "@@ -64,2 +64,3 @@\n Then, starts at\n+$20\n /month\u2020\n@@ -95,3 +96,3 @@\n Phone & Priority Support\n-Popup Forms\n+Custom-Coded and Pre-built Email Templates\n Multivariate and A/B Testing",
+   "added": 2,
+   "removed": 1
+  },
+  {
+   "service": "Mailchimp",
+   "page": "privacy",
+   "url": "https://www.intuit.com/privacy/statement/",
+   "diff": "@@ -2,2 +2,3 @@\n You deserve transparency into our data use\n+Select your preferred language\n English",
+   "added": 1,
+   "removed": 0
+  },
+  {
+   "service": "Grindr",
+   "page": "terms",
+   "url": "https://trust.grindr.com/en-US/legal/2026-terms-of-service",
+   "diff": "@@ -148,3 +148,3 @@\n Where we use AI Technology to present or recommend profiles, our\n-Help Center\n+Recommender System Transparency Notice\n describes the main parameters those systems use and your options to influence them.",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Tubi",
+   "page": "privacy",
+   "url": "https://tubitv.com/static/privacy",
+   "diff": "@@ -577,3 +577,3 @@\n All rights reserved.\n-Device ID: a1e1ed68-5160-4dc3-9e26-6fcba84a1a35\n+Device ID: dc0b224e-56e4-4bec-a268-1fbac086b298\n Made with",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Booking.com",
+   "page": "terms",
+   "url": "https://www.booking.com/content/terms.html",
+   "diff": "@@ -1529,2 +1529,2 @@\n Close calendar\n-2657560\n+2657560,2687140",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Netlify",
+   "page": "terms",
+   "url": "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/",
+   "diff": "@@ -1,5 +1,2 @@\n-                                     Self-Serve Subscription Agreement\n-\n-Last Updated: November 4, 2026\n-\n+Self-Serve Subscription Agreement\n This Self-Serve Subscription Agreement (\u201cAgreement\u201d) is between Netlify, Inc., a Delaware corporation (\u201cNetlify\u201d),\n@@ -16,573 +13,566 @@\n Agreement with Netlify is governed by that agreement, and not this Agreement.\n-\n-1\u200b      Definitions\n-        \u201cAcceptable Use Policy\u201d means the policy available at https://www.netlify.com/legal/acceptable-use-policy.\n-        \u201cAffiliate\u201d means a party that controls, is controlled by, or is under common control with a party to this\n-        Agreement where \u201ccontrol\u201d means the power to direct the management or affairs of an entity, for example\n-        through the beneficial ownership of more than 50% of the voting equity securities or other equivalent\n-        voting interests of the entity.\n-        \u201cConfidential Information\u201d means information provided to the receiving party (\u201cReceiving Party\u201d) that is\n-        designated by the disclosing party (\u201cDisclosing Party\u201d) as \u201cconfidential\u201d or \u201cproprietary\u201d or that a\n-        reasonable person would understand to be confidential given the nature of the information and the\n-        circumstances of the disclosure. Confidential Information does not include information that: (a) is or\n-        becomes generally known to the public through no fault of the Receiving Party; (b) is in the Receiving\n-        Party\u2019s possession prior to receipt from the Disclosing Party; (c) is acquired by the Receiving Party from a\n-        third party without breach of a confidentiality obligation; or (d) is independently developed by the\n-        Receiving Party without reference to the Disclosing Party\u2019s Confidential Information.\n-        \u201cCustomer Content\u201d means all content, code, data, files, and other materials that Customer or its users\n-        submit to, or store or process on, the Services under Customer\u2019s account, including data that end users\n-        submit to Customer\u2019s sites and applications hosted on the Services, logs of requests that end users make to\n-        those sites and applications, and AI Inputs and AI Outputs (as defined in Section 7.1).\n-        \u201cDPA\u201d      means        the      Netlify      Data      Processing      Agreement       available     at\n-        https://www.netlify.com/pdf/netlify-dpa.pdf, as updated from time to time, or such other data processing\n-        agreement as the parties may execute.\n-        \u201cIntellectual Property Rights\u201d means all patents, copyrights, trademarks, service marks, trade secrets,\n-        moral rights, database rights, and other intellectual property and proprietary rights anywhere in the world,\n-        whether registered or unregistered, including all applications for and renewals of any of them.\n-\n-\n-Self-Serve Subscription Agreement\u200b                                                                                1\n-Nov 2026\n-\n-        \u201cNetlify Service Guides\u201d means the application programming interfaces, software development kits,\n-        standards, and relevant procedures and policies available at https://docs.netlify.com, as updated from time\n-        to time by Netlify.\n-        \u201cService Data\u201d means data generated by or on behalf of Netlify in connection with the use and operation of\n-        the Services under Customer\u2019s account, including usage metrics, system logs, diagnostic and performance\n-        data, and other telemetry, but excluding logs of requests made by Customer\u2019s end users to Customer\u2019s sites\n-        and applications. Service Data may include Customer Content (for example, file names or URLs in build\n-        logs).\n-        \u201cSubscription Term\u201d means the period during which Customer has agreed to subscribe to the Services.\n-        \u201cThird-Party Software\u201d means applications, software, or platforms provided by Customer or a third party.\n-\n-2\u200b      Access to the Services, Use, and Restrictions\n-        2.1\u200b    Accounts and Email Addresses. Customer must provide accurate information when it creates its\n-                Netlify account and must keep that information current. If the email address associated with\n-                Customer\u2019s account becomes invalid or undeliverable, Netlify may suspend or terminate the account.\n-                If the domain of the email address associated with Customer\u2019s account is owned or controlled by an\n-                organization that has or later enters into a subscription agreement with Netlify, Customer\u2019s account\n-                may be consolidated into that organization\u2019s account after notice to Customer. If Customer does not\n-                change the email address associated with the account within the period stated in such notice, the\n-                account, including its Customer Content, will be controlled by that organization.\n-        2.2\u200b    Age Restriction. The Services may only be used or accessed by persons at least 13 years of age.\n-                Should Netlify learn that a user is under the age of 13, Netlify will immediately terminate that user\u2019s\n-                access to the Services. If Customer resides outside the United States, the minimum age in\n-                Customer\u2019s country may be higher, and Customer is responsible for complying with that country\u2019s\n-                laws. Netlify may restrict access to certain AI Features (as defined in Section 7.1) to users who are at\n-                least 18 years of age.\n-        2.3\u200b    Use of the Services. Subject to Customer\u2019s compliance with the terms and conditions of this\n-                Agreement (including all payment obligations), Netlify hereby grants Customer the right to access\n-                and use the Services during the Subscription Term solely in accordance with the Netlify Service\n-                Guides and this Agreement, and any other restrictions or obligations mutually agreed upon in writing\n-                by the parties.\n-        2.4\u200b    Netlify Service Guides. Customer will integrate with and use the Services in accordance with the\n-                Netlify Service Guides. Netlify may take reasonable actions to limit the impact of any failure by\n-                Customer to comply with the Netlify Service Guides. Netlify will not be responsible for any delay,\n-                limitations, or Services performance issues relating to such failure.\n-        2.5\u200b    Restrictions and Acceptable Use. Except as otherwise agreed by Netlify in a separate written\n-                agreement, Customer will not: (a) resell, sublicense, or otherwise make the Services available to\n-                third parties as a standalone service, except that Customer may use the Services to build, deploy, and\n-                host sites and applications for third parties; (b) interfere with the integrity or performance of the\n-                Services; (c) use the Services to store or transmit infringing, libelous, defamatory, or otherwise\n-                unlawful or tortious material, or to store or transmit material in violation of third-party privacy\n-                rights; or (d) use the Services to store code, files, scripts, agents, or programs intended to cause\n-\n-\n-Self-Serve Subscription Agreement\u200b                                                                                    2\n-Nov 2026\n-\n-                harm, including viruses, worms, malware, or Trojan horses. Customer will respond promptly to any\n-                reasonable request by Netlify in the event of any actual or anticipated breach of this Section 2.5.\n-                Customer will promptly notify Netlify if Customer becomes aware of any unauthorized use or other\n-                compromise of Customer\u2019s account. Customer will comply, and is responsible for its users\u2019\n-                compliance, with the Acceptable Use Policy. Netlify may reasonably update the Acceptable Use\n-                Policy on at least thirty (30) days\u2019 notice to Customer.\n-        2.6\u200b    Credentials. Customer will keep confidential all usernames, passwords, API tokens, and other\n-                credentials for its account (\u201cCredentials\u201d) and is responsible for all activities that occur under them.\n-                If Customer\u2019s plan limits the number of users, each user\u2019s Credentials may be used by only one\n-                individual, Customer may reassign Credentials to replace a user who no longer needs access, and\n-                Netlify may charge Customer for use beyond that limit. Netlify may deactivate any Credentials that it\n-                reasonably believes have been used by an unauthorized party, and will promptly notify Customer\n-                and replace those Credentials on request. All Credentials will be deactivated when this Agreement\n-                terminates or expires.\n-        2.7\u200b    Compliance with Laws. Customer will use the Services in compliance with all applicable laws and\n-                regulations and is solely responsible for obtaining any consents, authorizations, or registrations\n-                required for its activities under this Agreement. Customer will not, and will not permit any other\n-                party to, use the Services to harvest or collect information about any third party without a lawful\n-                basis for doing so.\n-        2.8\u200b    Use with Sites and Applications on Netlify. Customer will use Netlify DNS only for zones that include\n-                at least one hostname served by a site or application deployed on the Services, although those zones\n-                may also contain records pointing to resources outside Netlify. Customer will use the following only\n-                as part of sites or applications deployed on the Services, and not as standalone compute, storage,\n-                database, or content delivery services: Netlify Functions (including serverless, scheduled, and\n-                background functions), Netlify Edge Functions, Netlify Server, Netlify Database, Netlify Blobs, Netlify\n-                Image CDN, and any other Services that the Netlify Service Guides describe as available only for sites\n-                or applications deployed on Netlify.\n-\n-3\u200b      Confidentiality\n-        3.1\u200b    Confidentiality Obligations. Receiving Party will use Confidential Information solely as contemplated\n-                by this Agreement and will disclose such information on a need-to-know basis only to its employees,\n-                agents, vendors, and contractors who are bound by obligations of confidentiality at least as strict as\n-                those contained in this Section 3. Receiving Party will use reasonable care to protect Disclosing\n-                Party\u2019s Confidential Information and to prevent unauthorized disclosure of Confidential Information.\n-                Subject to the terms and conditions of this Agreement, Receiving Party will, upon written request,\n-                destroy all copies of the Disclosing Party\u2019s Confidential Information that are in its possession or\n-                control, except for copies retained in backup, archival, or logging systems in accordance with\n-                Receiving Party\u2019s standard retention practices or as required by law, which will remain subject to this\n-                Section 3 until deleted. Netlify\u2019s use and disclosure of Service Data and Customer Content in\n-                accordance with Section 6.2 (Customer Content), Section 6.3 (Service Data), Section 6.6 (Verified\n-                Domains), and the DPA will not breach this Section 3.\n-        3.2\u200b    Mandated Disclosures. Receiving Party may disclose Disclosing Party\u2019s Confidential Information to\n-                the extent required by law or by order of a court, administrative agency, or other governmental\n-                authority, provided that, unless legally prohibited, Receiving Party gives Disclosing Party reasonable\n-\n-Self-Serve Subscription Agreement\u200b                                                                                    3\n-Nov 2026\n-\n-                prior notice to allow it to seek a protective order or other remedy and reasonably cooperates with\n-                those efforts, at Disclosing Party\u2019s expense.\n-\n-4\u200b      Fees and Payment\n-        4.1\u200b    Plans and Fees. Customer may select either a plan for which Netlify charges subscription or\n-                usage-based fees (a \u201cPaid Plan\u201d) or a plan that Netlify offers with no subscription or usage-based\n-                fees (the \u201cFree Usage Tier\u201d). If Customer selects a Paid Plan, Customer will pay the fees for that Paid\n-                Plan and any usage-based fees for use exceeding the capacity included in it, as described in the\n-                applicable plan description (collectively, \u201cFees\u201d). Customer will not be charged for use on the Free\n-                Usage Tier, and Netlify may pause the affected Services if that use exceeds the capacity included in\n-                the Free Usage Tier. Customer may upgrade to any other plan that Netlify then offers at any time\n-                during the Subscription Term, and may downgrade to any other plan, including the Free Usage Tier,\n-                effective at the end of the then-current Subscription Term.\n-        4.2\u200b    Payment. Customer will pay the applicable fees for any Paid Plan in advance for each Subscription\n-                Term, including each renewal term, and will pay any usage-based fees as described in the applicable\n-                plan description, including by purchasing credits in advance that are drawn down as the Services are\n-                used. Except as expressly provided in this Agreement, all Fees are non-cancellable and\n-                non-refundable, including if Customer terminates before the end of the Subscription Term. If\n-                Customer terminates, Customer will continue to have access to the Services through the end of the\n-                then-current Subscription Term.\n-        4.3\u200b    Changes in Fees. Netlify reserves the right to change the Fees or to institute new charges; provided,\n-                however, that any such changes will apply only: (a) to new Services procured after the changes; and\n-                (b) to continuing Services for any renewal term(s) starting after notice of such changes was provided\n-                or such earlier time as Customer affirmatively accepts the changes.\n-        4.4\u200b    Taxes. The Fees do not include any local, state, federal, or foreign taxes, levies, or duties of any\n-                nature (e.g., value-added, sales, use, or withholding taxes assessable by any local, state, provincial,\n-                or foreign jurisdiction). Customer is responsible for paying any such taxes, and Netlify may invoice\n-                them, excluding taxes based on Netlify\u2019s income.\n-        4.5\u200b    Failed Payments. If Netlify is unable to charge Customer\u2019s payment method for any Fees when due,\n-                Netlify may immediately suspend the Services until the Fees are paid. If Netlify takes action to collect\n-                any overdue Fees, Customer will pay Netlify\u2019s costs of collection, including reasonable attorneys\u2019 fees\n-                and collection agency fees, whether or not a lawsuit is filed.\n-\n-5\u200b      Free Usage Tier\n-        5.1\u200b    Free Access to the Services. Netlify offers the Free Usage Tier at its sole discretion and may change\n-                its features, limits, or availability, or discontinue it, at any time. Netlify may suspend, disable, or\n-                remove any site or application on the Free Usage Tier at any time, with or without notice, for any\n-                reason or no reason, including to address performance problems or security threats such as a\n-                malicious attack. Where practical, Netlify will try to give advance notice before removing a site or\n-                application. The Free Usage Tier may run on infrastructure shared with other users, and Netlify\n-                makes no service level commitments for it.\n-\n-\n-\n-\n-Self-Serve Subscription Agreement\u200b                                                                                    4\n-Nov 2026\n-\n-6\u200b      Intellectual Property Rights and Customer Content\n-        6.1\u200b    Rights over the Services. Netlify shall own and retain all right, title, and interest in and to the Services\n-                and related software, all improvements, enhancements, or modifications thereto, and all Intellectual\n-                Property Rights associated with the foregoing. Except for the limited access rights expressly granted\n-                in this Agreement, Customer obtains no rights to the Services or Intellectual Property Rights by\n-                implication, estoppel, or otherwise.\n-        6.2\u200b    Customer Content. As between the parties, Customer owns all Intellectual Property Rights in\n-                Customer Content. Customer grants Netlify, and its subprocessors and service providers acting on\n-                Netlify\u2019s behalf, a worldwide, non-exclusive, royalty-free license to host, copy, transmit, display, and\n-                otherwise process Customer Content solely to provide, secure, support, and customize the Services,\n-                to create aggregated or de-identified data to improve the Services, as directed by Customer, to\n-                enforce this Agreement, to comply with applicable law, as described in Section 6.6 (Verified\n-                Domains), and as described in the DPA (if applicable). Netlify will not use Customer Content,\n-                including in aggregated or de-identified form, to train or fine-tune artificial intelligence or machine\n-                learning models, whether Netlify\u2019s or a third party\u2019s, unless Customer expressly opts in. Netlify will\n-                maintain appropriate administrative, technical, and physical security measures to protect Customer\n-                Content against unauthorized access, disclosure, and loss, as further described at\n-                https://www.netlify.com/security/. Customer is solely responsible for creating backup copies of",
+   "added": 566,
+   "removed": 576
+  },
+  {
+   "service": "Netlify",
+   "page": "privacy",
+   "url": "https://www.netlify.com/privacy/",
+   "diff": "@@ -1,1355 +1,188 @@\n-\n-\n- \n-\n- \n- \n-     \n-\n-Privacy Policy | Netlify\n-\n- \n-\n- \n-  \n- \n-  \n- \n- \n-\n- \n- \n-   \n-\n- \n- \n- \n- \n-\n- \n-  \n-   \n- \n-\n-Netlify&#39;s official Discord is live.\n- \n-Join to share your work and connect with builders.\n-\n- \n- \n-Close announcement bar\n- \n-   \n-\n-  \n- \n- \n-  \n-  \n- \n-Site navigation\n- \n- \n-Go to homepage\n- \n- \n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n-\n- \n- \n- \n- \n-\n- \n- \n- \n- \n- \n-Skip to content\n- \n- \n- \n- \n-Search\n- \n-   \n-\n-  \n- \n- \n- \n- \n- Log in \n- \n- \n- \n- Contact \n- \n- \n- \n- \n- \n-\n- \n-    \n-\n- \n- \n- \n- \n- \n-Toggle main menu\n- \n-   \n-\n-  \n- \n- \n- \n- \n-Platform\n- \n- \n- \n-Toggle platform submenu\n- \n-   \n-\n-  \n- \n- \n- \n- \n-The Netlify Platform\n- \n- \n-Your app, live instantly.\n- From AI tools or Git to global deployment in seconds. Everything included. \n- \n- \n-  \n- Explore the platform \n- \n- \n- \n-\n- \n-Key Features\n-  \n- \n-  \n- Agent Runners \n- \n-\n-  \n- Deploy Previews \n- \n-\n-  \n- AI Gateway \n- \n-\n-  \n- Functions \n- \n-\n-  \n- Database \n- \n-\n-  \n- Observability \n- \n-\n-  \n- Security \n- \n-\n-  \n- Edge network \n- \n- \n- \n- \n- \n-  ",
+   "added": 21,
+   "removed": 1188
+  },
+  {
+   "service": "Vrew",
+   "page": "terms",
+   "url": "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc",
+   "diff": "@@ -1,163 +1,56 @@\n-\n-\n-                             \n-Upcoming changes to Vrew Terms of Service and Privacy Policy on December 1, 2026\n-\n- \n-\n-Vrew-US\n-\n-Article Title, Content\n-\n-Vrew Homepage\n-\n-Release Notes\n-\n-Notices\n-\n-FAQ\n-\n-Powered by Channel Talk\n-\n-Notices\n-\n-Upcoming changes to Vrew Terms of Service and Privacy Policy on December 1, 2026\n-\n-Upcoming changes to Vrew Terms of Service and Privacy Policy on December 1, 2026\n-\n+Upcoming changes to Vrew Terms of Service and Privacy Policy on <DATE>\n Hello from the Vrew team.\n-\n We're continuing to develop Vrew to make creating the videos you want easier with AI, from generating images and videos to editing them. We want to better understand what you're trying to create and provide help that fits your creative process.\n-\n-To support these changes, we're updating our Terms of Service and Privacy Policy effective December 1, 2026. We're changing the account rules to allow only one account per person, and we'll use AI to analyze project content and editing history to provide a personalized editing experience. Here are the details.\n-\n+To support these changes, we're updating our Terms of Service and Privacy Policy effective <DATE>. We're changing the account rules to allow only one account per person, and we'll use AI to analyze project content and editing history to provide a personalized editing experience. Here are the details.\n Key changes to the Terms of Service\n-\n Only one account per person is allowed.\n-\n Starting December 1, you may use only one account, even if you have different email addresses.\n-\n Item\n-\n Current\n-\n Revised\n-\n Number of accounts\n-\n The Service supports only one account per email address.\n-\n Article 5, Paragraph 1\n-\n Only one account is permitted per User for the Service.\n-\n Article 6, Paragraph 1\n-\n One person may not use multiple accounts.\n-\n-The plan changes taking effect on December 1 will give you more options to choose a plan that fits your usage. If you run out of credits, you'll also be able to purchase Additional Credits on a paid plan. If you've been using multiple paid accounts because the existing plan options were limited, please use a single account going forward. \n-\n+The plan changes taking effect on December 1 will give you more options to choose a plan that fits your usage. If you run out of credits, you'll also be able to purchase Additional Credits on a paid plan. If you've been using multiple paid accounts because the existing plan options were limited, please use a single account going forward.\n [Learn more about the plan changes]\n-\n Multiple people may not share one account.\n-\n Please create and use a separate account for each person, so that people's materials and usage histories don't get mixed together in a shared account.\n-\n This applies whenever multiple people currently share an account, including within companies and teams. Please prepare to use your own accounts before the revised Terms take effect on December 1.\n-\n We also understand that there are practical reasons why people may need to share an account. Separately from this update to the Terms of Service, the Vrew team is working on a way for companies and teams to manage multiple people's accounts more easily. We'll share more information once the details are decided.\n-\n Other changes to the Terms of Service\n-\n We've also clarified rules that weren't clearly covered in the current Terms, including rights to and use of content, and the procedures for restricting use when the Terms are violated. Please see the revised Terms of Service below for details.\n-\n [View the current Terms of Service]\n-\n- / \n-\n [View the revised Terms of Service]\n-\n Key changes to the Privacy Policy\n-\n We're introducing AI analysis to provide an editing experience that fits your work.\n-\n To understand creative patterns, such as video topics and editing styles, and offer help that fits them, we'll use AI to analyze project content and editing history.\n-\n The analysis will also cover materials in your projects, such as images, videos, audio, and captions (assets). We'll organize the results into information such as categories that classify video topics and summaries that condense the content, and use this information to provide an editing experience better suited to you.\n-\n Information processed\n-\n Purpose\n-\n Retention period\n-\n Project categories, summaries, and assets; your editing history\n-\n Provision of personalized services\n-\n Until you delete your account\n-\n New processing category \u00b7 Revised Privacy Policy, Article 1, Paragraph 1, \u201cProvision of personalized services\u201d\n-\n As before, Vrew uses your information only for the purposes stated in the Privacy Policy. We also want to make clear that we do not use your information to train AI for any purpose other than providing the personalized editing experience described here.\n-\n Item\n-\n Current\n-\n Revised\n-\n AI analysis for personalization\n-\n The Company does not use project files or the content contained in projects for training, does not arbitrarily access or analyze the content of such files without the user's consent, and ensures that even with consent only the minimum necessary personnel can access such content.\n-\n Article 1, footnote to \u201cProvision of personal cloud service\u201d\n-\n In order to provide an optimized and personalized editing experience to the user, the Company analyzes the contents and assets of projects and the user's editing history using artificial intelligence. The Company does not use the user's information for training artificial intelligence other than for this purpose.\n-\n Article 1, footnote (**) to \u201cProvision of personalized services\u201d\n-\n Other changes to the Privacy Policy\n-\n We've also added user survey responses to the information processed to improve service features. We've updated the details of service providers located outside South Korea that handle tasks such as AI features and inquiry support, including the information transferred, its purposes, and retention rules. Please see the revised Privacy Policy below for details.\n-\n [View the current Privacy Policy]\n-\n- / \n-\n [View the revised Privacy Policy]\n-\n Questions and notice of changes to the Terms of Service\n-\n If you have any questions about these changes, please contact us in Vrew through [Help] - [Support] - [Chat Support].\n-\n-If you do not agree to the revised Terms of Service, please let us know through the chat support above by December 1, 2026. You may also delete your account to terminate your service agreement.\n-\n+If you do not agree to the revised Terms of Service, please let us know through the chat support above by <DATE>. You may also delete your account to terminate your service agreement.\n If you do not let us know that you object by the effective date, we will consider you to have agreed to the revised Terms of Service and apply them from December 1.\n-\n We'll keep improving Vrew to make it easier for you to create the videos you want.\n-\n The Vrew team\n-\n-Key changes to the Terms of Service\n-\n-Only one account per person is allowed.\n-\n-One person may not use multiple accounts.\n-\n-Multiple people may not share one account.\n-\n-Other changes to the Terms of Service\n-\n-Key changes to the Privacy Policy\n-\n-We're introducing AI analysis to provide an editing experience that fits your work.\n-\n-Other changes to the Privacy Policy\n-\n-Questions and notice of changes to the Terms of Service\n-\n-Table of Contents\n-\n-                 \n-",
+   "added": 4,
+   "removed": 111
+  },
+  {
+   "service": "Muse",
+   "page": "privacy",
+   "url": "https://choosemuse.com/pages/privacy",
+   "diff": "@@ -1,294 +1,22 @@\n-\n-  \n- \n-     \n-     \n-    \n-    \n-Legal | Muse\u00ae EEG Mental Fitness & Sleep Headband\n-  \n- \n- \n-    \n-    \n-    \n-     \n-    \n-     \n-    \n-    \n-     \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n-  \n- \n- \n- \n- \n- \n- \n- \n- \n-      \n-     \n-    \n-  \n- \n- \n- \n-  \n-    \n-       \n-    \n-       \n-    \n-     \n-  \n- \n-   \n- \n-   \n-   \n- \n- \n- \n- \n- \n- \n- \n-  \n- \n-   \n- \n-  \n-    \n-    \n-      \n-    \n- \n-  \n-    \n-    \n-  \n-  \n-  \n-      \n-  \n-  \n-    \n-        \n-Subtotal:\n-      \n-        \n-        \n-        $0.00\n-      \n-    \n-    \n-      Proceed to Checkout\n-    \n-    \n-      \n-        \n-      \n-      Continue Shopping\n-    \n-  \n-  \n-  \n- \n-  \n-  \n-    \n-      \n-    \n-    \n-      \n-        \n-      \n-      \n-        \n-          \n-          \n-          \n-          \n-          \n-        \n-      \n-            \n-              Shop\n-            \n-          \n-            \n-              How It Works\n-            \n-          \n-            \n-              Benefits\n-            \n-          \n-            \n-              Backed by research\n-            \n-          \n-            \n-              App + Premium Subscription\n-            \n-          \n-            \n-              Testimonials\n-            \n-          \n-    \n-      \n-        \n-      \n-      \n-        \n-      \n-        \n-          \n-          \n- US Store \n-        \n-      \n-      \n-        Shop\n-      \n-      \n-        \n-        \n-        \n-      \n-    \n-  \n-  \n-    \n-    \n-    \n-    \n-    \n-  \n-    \n-      \n-  \n-    \n-      \n-        End User License Agreement\n-      \n-    \n-    \n-      \n-        Terms of Sale \u2013 Hardware\n-      ",
+   "added": 382,
+   "removed": 3588
+  }
+ ]
+}

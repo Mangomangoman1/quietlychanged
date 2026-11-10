@@ -1,0 +1,86 @@
+[
+ {
+  "service": "Anthropic Claude",
+  "page": "pricing",
+  "headline": "Fable 5.2 launches at 20% lower output and caching prices than Fable 5.1",
+  "tldr": "Anthropic's pricing page now lists Fable 5.2 at $40 per million output tokens, down from $50 for Fable 5.1, with prompt caching also 20% cheaper. Fable 5.1 moves to the legacy list.",
+  "impact": 2,
+  "themes": [],
+  "url": "https://www.anthropic.com/pricing",
+  "who": "Developers and companies paying for Anthropic's top Fable model through the Claude API, especially long-running agent workloads that produce a lot of output or reuse cached prompts",
+  "seo_title": "Fable 5.2 API pricing: $40 output, 20% cheaper than Fable 5.1 (Nov 10, 2026)",
+  "seo_desc": "Anthropic's pricing page swapped Fable 5.1 for Fable 5.2 on Nov 10, 2026: output $50 to $40 per million tokens, cache reads $0.25 to $0.20, cache writes $12.50 to $10. Fable 5.1 stays listed at its old rates.",
+  "redline": [
+   {
+    "before": "Fable 5.1 Next generation intelligence for long-running agents",
+    "after": "Fable 5.2 Next generation intelligence for long-running agents",
+    "label": "Pricing · Featured API model",
+    "note": "The headline API model card now shows Fable 5.2 instead of Fable 5.1.",
+    "src": "raw"
+   },
+   {
+    "before": "Output $50 / MTok",
+    "after": "Output $40 / MTok",
+    "label": "Pricing · Fable output tokens",
+    "note": "Output tokens are 20% cheaper on Fable 5.2 than on Fable 5.1.",
+    "src": "raw"
+   },
+   {
+    "before": "Get up to 2.5x faster speeds with fast mode for Opus 5.5 at 2x standard pricing.",
+    "after": "Get up to 2.5x faster speeds with fast mode for Opus 5.5 and Fable 5.2 at 2x standard pricing.",
+    "label": "Pricing · Fast mode",
+    "note": "Fast mode, at double the standard rates, now also covers Fable 5.2.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you call Fable 5.1 through the API, compare your bill against Fable 5.2's lower output and caching rates before switching model IDs",
+   "Check the full price table at anthropic.com/pricing for Fable 5.2's input-token rate, which our snapshot of the card did not capture",
+   "Remember fast mode bills at 2x standard pricing if you turn it on for Fable 5.2"
+  ],
+  "what": "Anthropic's pricing page changed overnight. The featured API model card that read \"Fable 5.1\" on Nov 9 reads \"Fable 5.2\" on Nov 10, with the same description: \"Next generation intelligence for long-running agents.\"\n\n## Change 1: Lower prices on the new model\n\nFable 5.1's card listed prompt caching at $0.25 per million tokens (MTok) to read and $12.50 to write, and output at $50 / MTok. Fable 5.2's card lists caching at $0.20 to read and $10 to write, and output at $40 / MTok. Each of those is 20% lower. Our snapshot of the Fable 5.2 card did not capture an input-token figure, so we are not reporting one; Fable 5.1's input rate was $10 / MTok.\n\n## Change 2: Fable 5.1 moves to the older-models list\n\nFable 5.1 now appears further down the page, alongside Haiku 4.5, still at its old rates: $0.25 cache read, $12.50 cache write, $10 input and $50 output per MTok.\n\n## Change 3: Fast mode covers Fable 5.2\n\nThe fast mode line changed from \"Get up to 2.5x faster speeds with fast mode for Opus 5.5 at 2x standard pricing\" to \"...for Opus 5.5 and Fable 5.2 at 2x standard pricing.\"\n\nWhat you can do: API customers still on Fable 5.1 pay the higher rates until they switch model versions.\n\nWhat stays the same: The consumer plan cards still say Fable is included on Max and Ultra \"up to half your weekly limit\" and is \"paid with usage credits\" on Pro."
+ },
+ {
+  "service": "Microsoft 365",
+  "page": "privacy",
+  "headline": "Microsoft adds outside \"workplace and productivity data\" companies as a data source, and age checks for logged-out users",
+  "tldr": "Microsoft's privacy statement now says it gets data from companies that supply workplace and productivity data for product research, and may use device info to apply age protections when you aren't signed in.",
+  "impact": 2,
+  "themes": [
+   "ads-and-tracking"
+  ],
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "who": "Anyone with a Microsoft account or Windows PC, including people who use Microsoft services without signing in and Phone Link users",
+  "seo_title": "Microsoft privacy statement update: workplace data sources, logged-out age checks (Nov 2026)",
+  "seo_desc": "Microsoft's privacy statement adds companies that provide workplace and productivity data as a source, device-based age protections without sign-in, more device data, and rewritten Phone Link and location-sharing sections.",
+  "redline": [
+   {
+    "before": "",
+    "after": "Companies that provide workplace and productivity data for research, development, and improvement of our products and services.",
+    "label": "Privacy Statement · Personal data we collect · Sources",
+    "note": "A new kind of third party joins Microsoft's list of places it gets personal data from.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "In services you can use without logging in, we may use device-based information to help us apply age-appropriate protections.",
+    "label": "Privacy Statement · Providing Age Appropriate Experiences",
+    "note": "Age protections now reach people who aren't signed in, based on their device.",
+    "src": "raw"
+   },
+   {
+    "before": "For example, IP addresses, device identifiers, nearby networks",
+    "after": "For example, IP addresses, age of the device, device identifiers and type, device language and locale settings, nearby networks",
+    "label": "Privacy Statement · Device, connectivity, and configuration data",
+    "note": "The examples of device data Microsoft collects now include the device's age, type, and language settings.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "Review Windows Settings > Privacy & security and turn off Personalized offers if you don't want tips and ads tailored in Windows",
+   "Manage linked phones under Settings > Bluetooth & devices > Mobile devices, and turn off location sharing there if you enabled it",
+   "Use Microsoft's privacy dashboard via the Privacy support and requests page if you want to see or delete data tied to your account"
+  ],
+  "what": "Microsoft revised its privacy statement. We compared the Nov 10 capture with Nov 9.\n\n## Change 1: A new source of personal data\n\nThe list of sources Microsoft collects data from (which already included \"Publicly available sources, such as open public sector, academic, and commercial data sets\") gains a new line: \"Companies that provide workplace and productivity data for research, development, and improvement of our products and services.\" The statement doesn't name those companies.\n\n## Change 2: Age protections without signing in\n\nThe age-appropriate experiences section, which already covered age range signals from app stores and sharing age group information with third-party apps, adds: \"In services you can use without logging in, we may use device-based information to help us apply age-appropriate protections.\"\n\n## Change 3: More device data named\n\nDevice data examples now read: \"IP addresses, age of the device, device identifiers and type, device language and locale settings, nearby networks,\" adding device age, type and language settings.\n\n## Change 4: Personalized offers off still uses some data\n\nA new paragraph says that if you turn off Personalized offers in Windows, Microsoft \"may use basic account data and contextual info about your device\" to avoid irrelevant tips and ads, for example \"your active subscriptions to avoid showing you ads for products you have already purchased.\"\n\n## Change 5: Phone Link rewritten, location sharing added\n\nThe separate Android and iPhone sections of Phone Link were merged into one \"linked mobile experiences\" section that also covers apps such as WhatsApp. It adds a Location sharing feature: \"You can access location information from your mobile device after you choose to enable this feature.\" Microsoft still says it does not store the content of your texts, call history, photos, files or notifications on its servers, except where a feature says otherwise.\n\nThe page does not state a new effective date in our capture."
+ }
+]

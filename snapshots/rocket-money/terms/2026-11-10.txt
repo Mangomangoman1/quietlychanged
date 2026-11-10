@@ -1,0 +1,578 @@
+Features
+Learn
+Rowan
+Terms of service
+Terms of service
+Table of contents
+General Terms
+These Terms of Service and Supplemental Terms and Conditions for the Services (âAgreementâ or "Terms of Service") set forth the terms and conditions that apply to your access and use of the RocketMoney.com website and mobile application (the âAppâ) as owned and operated by Rocket Money, Inc. (f/k/a Truebill, Inc.) (âRocket Moneyâ), collectively the "Services."
+The Services are intended ONLY for users in the United States, and their use is governed by US law.
+As used in this Agreement, the term "Sites" includes all RocketMoney.com andâ¯pages that are associated or within each website and all devices, applications or services that Rocket Money operates or offers that link to this Agreement.â¯
+By accepting electronically (clicking âI Agreeâ), installing, accessing or using the Services, you agree to be bound by the terms and conditions of this Agreement, as they may be amended from time to time in the future (see âModificationsâ below).
+â¯ Rocket Money will interpret your compliance with these Terms, as well as any ambiguities in these Terms, at our discretion, and any headings used in this Agreement are included for convenience only and will not limit or otherwise affect these Terms. If you don't agree to this Agreement, then you may not use the Services.
+By agreeing to this Agreement, you also agree to
+Rocket Accountâs Terms of Use
+â¯and acknowledge that you have read the Rocket Account Security And Privacy Policy.
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY, AS THEY CONTAIN AN AGREEMENT TO ARBITRATE AND OTHER IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES, AND OBLIGATIONS. THE AGREEMENT TO ARBITRATE REQUIRES (WITH LIMITED EXCEPTION) THAT YOU SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION, AND FURTHER (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST COMPANY ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK CERTAIN, LIMITED RELIEF ON AN INDIVIDUAL BASIS, AND (3) YOU MAY NOT BE ABLE TO HAVE ANY CLAIMS YOU HAVE AGAINST US RESOLVED BY A JURY OR IN A COURT OF LAW.
+Accepting the Terms
+By using the information, tools, features, software and functionality including content, updates and new releases provided by Rocket Money, you agree to be bound by this Agreement, whether you are a âVisitorâ (meaning youâre simply browsing the
+RocketMoney.com
+website), or a âMemberâ (meaning youâve registered for the Services).
+The term âyouâ or âUserâ refers to a Visitor, or Member. The term âweâ refers to Rocket Money. If you wish to become a Member, communicate with other Members, or make use of the Services, you must read this Agreement and indicate your acceptance during the registration process.
+You may not use the Services, and you may not accept this Agreement, if youâre not at least 18 years of age and, in any event, of a legal age to form a binding contract with Rocket Money.
+If you accept this Agreement, you represent that you have the capacity to be bound by it or, if youâre acting on behalf of a company or entity, that you have the authority to bind such an entity.
+Privacy and Your Personal Information
+We will process your personal information as described in the
+Rocket Family of Companies Privacy Policy
+Description of the Services
+The Services are personal finance information management services that allow you to consolidate and track your financial information. The Services are provided to you by Rocket Money without charge (itâs free) and are meant to provide you with information to allow you to organize and manage your finances. The Service are intended only to assist you in your financial organization and decision-making and is broad in scope. Rocket Money may also utilize third party services to identify security risks associated with the information that you provide and suggest external options to help mitigate said risks. Your personal financial situation is unique, and any information and advice obtained through the Service may not be appropriate for your situation.
+For an optional premium fee which may vary in price (plus any applicable taxes), you may access Rocket Money Premium or Premium+ Services.
+Premium
+You may choose the price you pay for Rocket Money Premium Services, with no change in service or functionality in premium features or services. Rocket Money Premium Services features include access to savings plan(s), unlimited budgeting categories, custom spend categories, real time account balance updates, premium chat and subscription cancellation concierge. Premium services may be updated from time to time.
+Premium+
+Premium+ is an enhanced tier of subscription services. Premium+ includes all features and services available with Premium Services, plus additional features and services made available exclusively to Premiumâ¯+ members, such as access to Agent Services, access to a High Yield Savings Account, and Bill Negotiation services without a negotiation success fee.
+See
+Section 15 (Savings Plans)
+for more information regarding High Yield Savings Account.
+See
+Section 16 (Bill Negotiation
+for more information regarding the Bill Negotiation process. Premium+ services may be updated from time to time.
+Members may upgrade from Premium Services to Premium+ at any time. Members may downgrade from Premium+ to Premium Services or the free tier, with the downgrade taking effect at the end of the memberâs then current billing cycle. Access to Premium + features and services will continue until the downgrade becomes effective.
+âAgentâ Services
+The âAgentâ is a feature that may be powered by artificial intelligence and may also connect to and leverage Rocket Moneyâs other technology and service offerings to provide its functionality (the âAgent Servicesâ). By using the Agent, you authorize Rocket Money to leverage said technology and services to (a) access, process, and use information you provide to the Agent and information available through your Rocket Money account and connected services, and (b) take actions you request through the Agent, such as drafting, summarizing, recommending, or initiating workflows.
+You are responsible for your instructions and decisions.
+You will not direct the Agent to take any action that is illegal or that you are not authorized to request. You are responsible for reviewing and confirming the Agentâs outputs and any action the Agent proposes or initiates. Do not rely on the Agent as a substitute for professional advice (including financial, legal, or tax advice).
+Outputs may be incorrect.
+The Agent may generate content that is inaccurate, incomplete, or not suited to your situation. Always review the Agentâs outputs before instructing the Agent to take any actions on your behalf. Rocket Money does not guarantee that the Agent Services will be error-free, uninterrupted, or available at all times, and may modify, suspend, or discontinue the Agent Services at any time.
+Connected services.
+If the Agent Services interact with other Rocket Money features or services you enable (including third-party services you connect), the Agentâs capabilities and results may depend on those services and the permissions you grant. You can disconnect accounts through your account settings; doing so may limit or disable the Agent Services.
+Conversation memory.
+The Agent may retain summarized information from your conversations, such as your goals, preferences, and communication style to personalize future interactions and avoid asking you to repeat information youâve already provided. You can ask the Agent what it has stored about you, and to correct or delete that information, at any time. This retained information is processed in accordance with our Privacy Policy.
+Telephone Consumer Protection Act.
+You also expressly consent by electronic signature to receive sales, marketing and other calls and texts, including those sent by any automated system or other means for selecting and dialing telephone numbers, or using an artificial or prerecorded voice message when a connection is completed, from Rocket Money at the telephone number you provided, even if that telephone number is on a do-not-call list. Agreement to receive such texts is a condition of using the messaging services.
+As of <DATE>, the price you pay for Premium or Premium+ is not inclusive of any applicable taxes. Therefore, if you are in a state and/or municipality that charges an additional tax, the required amount of tax will be added to the price that you chose.
+Appropriate taxes will be added where applicable, including for example only, to the following Rocket Money Services:
+Rocket Money Premium
+Savings Only
+ID Theft Protection
+We identify your location from information provided for the purpose of charging the appropriate tax amount and remitting the same to the taxing authority. If your location has not been accurately identified, please reach out to
+support@rocketmoney.com
+to update your location.
+Account Information from Third Party Sites
+Users may direct Rocket Money to retrieve their own information maintained online by third-parties with which they have customer relationships, maintain accounts or engage in financial transactions (âAccount Informationâ). Rocket Money works with one or more online service providers to access this Account Information. Rocket Money makes no effort to review the Account Information for any purpose, including, but not limited to, accuracy, legality or non-infringement. Rocket Money isnât responsible for the products and services offered by, or on, third-party sites. If you use third party messaging services to interact with any part of the Services, this may result in your information being transmitted via and subject to the terms of said services, e.g. Google Messages for Business or Apple Business Messaging.
+Rocket Money cannot always foresee or anticipate technical or other difficulties which may result in failure to obtain data or loss of data, personalization settings or other service interruptions.â¯
+Rocket Money does not assume responsibility for the timeliness, accuracy, deletion, non-delivery or failure to store any User data, communications or personalization settings.â¯
+For example
+, when displayed through the Services, Account Information is only as fresh as the time shown, which reflects when the information is obtained from such sites. Such information may be more up-to-date when obtained directly from the relevant sites. You can refresh your Account Information through the Services, in the manner prescribed in the associated instructions.
+Email Data Access via Google
+1. What We Access
+If you choose to connect a Google Account (e.g., Gmail) to Rocket Money, you authorize us to access certain data from your Google Account, including but not limited to:
+Email metadata and content relevant to identifying financial transactions, subscriptions, bills, receipts, and related account activity (e.g., sender, subject line, date, and relevant message body content)
+Any additional Google data categories you explicitly authorize during the connection process
+We access only the scopes of data necessary to provide the features youâve enabled, and only after youâve granted permission through Googleâs OAuth consent flow.
+2. How We Use This Data
+We use data obtained from your Google Account solely for use by our AI agent Rowan to:
+Identify and organize financial transactions, subscriptions, and billing information
+Power the specific Rocket Money features youâve opted into
+Improve the accuracy of the above features
+We do not use data obtained through Googleâs APIs to serve advertisements, and we do not sell this data to third parties, consistent with Googleâs API Services User Data Policy, including the Limited Use requirements.
+3. Human Access
+Rocket Money personnel do not read your email content except in the following limited circumstances:
+With your explicit consent (e.g., for customer support troubleshooting)
+Where necessary for security purposes, to comply with applicable law, or to enforce our policies
+In aggregated, anonymized form for internal operations
+4. Data Retention
+We retain data obtained from your Google Account only as long as necessary to provide the Services or as required by law. You may revoke Rocket Money Rowanâs access to your Google Account at any time via:
+Your Rocket Money Rowan thread
+Your Google Account security settings
+Upon revocation, we will delete the associated data pursuant to the Rocket FOC Privacy Policy, except where retention is required for legal, security, or dispute-resolution purposes.
+5. Third-Party Sharing
+We do not transfer data obtained from your Google Account to third parties except:
+To provide or improve user-facing features, and only with service providers bound by confidentiality obligations at least as protective as this policy
+To comply with applicable law, regulation, or legal process
+As part of a merger, acquisition, or sale of assets, subject to continued protection of your data under equivalent terms
+We do not transfer this data for purposes unrelated to providing or improving user-facing features without your affirmative consent.
+Security
+Data obtained from your Google Account is encrypted in transit and at rest, and access is restricted to systems and personnel with a legitimate operational need.
+Rocket Money Offers and Third-Party Links
+Some parts of the Services are supported by sponsored links from advertisers and display Rocket Money Offers that may be custom matched to you, based on information stored in the Services, queries made through the Services or other information. We will always disclose when a particular Rocket Money Offer is sponsored. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). The site does not review or include all companies or all available products.
+In connection with Rocket Money Offers, the Services will provide links to other websites belonging to Rocket Money advertisers and other third parties. Rocket Money doesnât endorse, warrant or guarantee the products or services available through the Rocket Money Offers (or any other third-party products or services advertised on or linked from our site), whether or not sponsored. Rocket Money isnât an agent or broker or otherwise responsible for the activities or policies of those web sites. These offers are for informational purposes only.
+Rocket Money doesnât guarantee that the loan, investment, plan or other service terms, rates or rewards offered by any particular advertiser or other third party on the Sites are actually the terms that may be offered to you if you pursue the offer, or that theyâre the best terms or lowest rates available in the market.
+If you elect to use or purchase services from third parties, youâre subject to their terms and conditions and privacy policy.
+Your Registration Information
+In order to allow you to use the Services, youâll need to sign up for an account with Rocket Money.
+We may verify your identity. You authorize us to make any inquiries we consider necessary to validate your identity. These inquiries may include asking you for further information, requiring you to provide your full address and Social Security number, and/or requiring you to take steps to confirm ownership of your email address or financial instruments, ordering a credit report, or verifying information you provide against third party databases or through other sources.
+If you donât provide this information, or Rocket Money cannot verify your identity, we can refuse to allow you to use the Services.
+You agree and understand that youâre responsible for maintaining the confidentiality of your password which, together with your LoginID e-mail address, allows you to access the Sites.
+That LoginID and password form your âRegistration Information.â
+By providing us with your e-mail address, you agree to receive all required notices electronically, through the Services by displaying links to notices generally on the Site, to that e-mail address.
+Itâs your responsibility to update or change that address, as appropriate. Notices will be provided in HTML (or, if your system does not support HTML, in plain-text) in an e-mail or through a link to the appropriate page on our site, accessible through any standard, commercially available internet browser.
+If you become aware of any unauthorized use of your Registration Information or Account Information for the Services, you agree to notify Rocket Money immediately at the email address - hello@RocketMoney.com.
+Shared Accounts
+You may invite another individual (âSecondary Userâ) to access and view certain information in your Rocket Money account. Shared Account Access is view-only access and does not create a joint account, transfer any ownership interest, or grant the Secondary User power of attorney or any other authority over your accounts. The Secondary User may not make purchases, initiate transfers, open new accounts, or otherwise transact on your behalf or under your name through Shared Account Access.
+The Secondary User must create and maintain a Rocket Money username and password specifically for purposes of accessing the shared account and must use those credentials to access the information shared with them. The Secondary Userâs Shared Account Access credentials are separate from, and will not provide access to, any other Rocket Money account the Secondary User may have. You are responsible for all activity taken by a Secondary User in connection with your account, whether or not you authorized or were aware of that activity. You are responsible for ensuring that you only invite individuals you trust to access your account information.
+For more information about Account Sharing, please see our Account Sharing Help Center article.
+If you believe that your Registration Information or Account Information or device that you use to access the Services has been lost or stolen, or that someone is using your account without your permission, you must notify Rocket Money immediately.
+The following is Rocket Moneyâs contact information:
+Email: hello@RocketMoney.com
+Address: 8455 Colesville Road, Suite 1645, Silver Spring, MD 20910
+Your Use of the Services
+Your right to access and use the Sites and the Services is personal to you and isnât transferable by you to any other person or entity. Youâre only entitled to access and use the Sites and Services for lawful purposes. Accurate records enable Rocket Money to provide the Services to you. You must provide true, accurate, current and complete information about your accounts maintained at other websites, as requested in our âadd accountâ setup forms, and you may not misrepresent your Registration Information and Account Information.â¯
+In order for the Services to function effectively, you must also keep your Registration Information and Account Information up to date and accurate.
+â¯If you donât do this, the accuracy and effectiveness of the Services will be affected. You represent that youâre a legal owner of, and that youâre authorized to provide us with, all Registration and Account Information and other information necessary to facilitate your use of the Services.
+Your access and use of the Services may be interrupted from time to time for any of several reasons, including, without limitation, the malfunction of equipment, periodic updating, maintenance or repair of the Services or other actions that Rocket Money, in its sole discretion, may elect to take.â¯
+In no event will Rocket Money be liable to any party for any loss, cost, or damage that results from any scheduled or unscheduled downtime.
+Your sole and exclusive remedy for any failure or non-performance of the Services, including any associated software or other materials supplied in connection with such Services, shall be for Rocket Money to use commercially reasonable efforts to effectuate an adjustment or repair of the applicable Services.
+Some features may leverage or test artificial intelligence tools to improve or provide the services, in accordance with our Terms and Privacy Policy.
+From time to time, Rocket Money may include new and/or updated pre-release features and trial-use âSneak Previewâ features in Services for your use, which permit you to provide feedback.â¯
+You understand and agree that your use of Sneak Preview features is voluntary and Rocket Money is not obligated to provide you with any Sneak Preview features.
+â¯
+Furthermore, if you decide to use the Sneak Preview features, you agree to abide by any rules or restrictions Rocket Money may place on them. You understand that once you use the Sneak Preview features, you may be unable to revert back to the earlier version of the same or similar feature.â¯
+Additionally, if such reversion is possible, you may not be able to return or restore data created within the Sneak Preview feature back to the earlier version. The Sneak Preview features are provided on an âas isâ basis and may contain errors or inaccuracies that could cause failures, corruption or loss of data and/or information from any connected device. You acknowledge and agree that all use of the Sneak Preview features is at your sole risk.
+Not a Financial Planner, Broker or Tax Advisor
+NEITHER ROCKET MONEY NOR THE SERVICES ARE INTENDED TO PROVIDE LEGAL, TAX OR FINANCIAL ADVICE. ROCKET MONEY ISNâT A FINANCIAL PLANNER, BROKER OR TAX ADVISOR.
+The Service are intended only to assist you in your financial organization and decision-making and are broad in scope. Your personal financial situation is unique, and any information and advice obtained through the Service may not be appropriate for your situation. Accordingly, before making any final decisions or implementing any financial strategy, you should consider obtaining additional information and advice from your accountant or other financial advisers who are fully aware of your individual circumstances.
+Use with Your Mobile Device
+Use of the Services may be available through a compatible mobile device, Internet and/or network access and may require software. You agree that youâre solely responsible for these requirements, including any applicable changes, updates and fees as well as the terms of your agreement with your mobile device and telecommunications provider.
+ROCKET MONEY MAKES NO WARRANTIES OR REPRESENTATIONS OF ANY KIND, EXPRESS, STATUTORY OR IMPLIED AS TO: (i) THE AVAILABILITY OF TELECOMMUNICATION SERVICES FROM YOUR PROVIDER AND ACCESS TO THE SERVICES AT ANY TIME OR FROM ANY LOCATION; (ii) ANY LOSS, DAMAGE, OR OTHER SECURITY INTRUSION OF THE TELECOMMUNICATION SERVICES; AND (iii) ANY DISCLOSURE OF INFORMATION TO THIRD PARTIES OR FAILURE TO TRANSMIT ANY DATA, COMMUNICATIONS OR SETTINGS CONNECTED WITH THE SERVICES.
+Online and Mobile Alerts
+Rocket Money may from time to time provide automatic alerts and voluntary account-related alerts. Automatic alerts may be sent to you following certain changes to your account or information, such as a change in your Registration Information.
+Voluntary account alerts may be turned on by default as part of the Services. They may then be customized, deactivated or reactivated by you. These alerts allow you to choose alert messages for your accounts. Rocket Money may add new alerts from time to time, or cease to provide certain alerts at any time upon its sole discretion. Each alert has different options available, and you may be asked to select from among these options upon activation of your alerts service.
+â
+You understand and agree that any alerts provided to you through the Services may be delayed or prevented by a variety of factors.
+Rocket Money may make commercially reasonable efforts to provide alerts in a timely manner with accurate information, but cannot guarantee the delivery, timeliness, or accuracy of the content of any alert. Rocket Money shall not be liable for any
+delays, failure to deliver, or misdirected delivery of any alert;
+errors in the content of an alert; or
+actions taken or not taken by you or any third party in reliance on an alert.
+Electronic alerts will be sent to the email address youâve provided as your primary email address for the Services. If your email address or your mobile deviceâs email address changes, youâre responsible for informing us of that change. You can also choose to have alerts sent to a mobile device that accepts text messages. Changes to your email address or mobile number will apply to all of your alerts.
+Because alerts arenât encrypted, weâll never include your passcode. However, alerts may include your LoginID and some information about your accounts. Depending upon which alerts you select, information such as an account balance or the due date for your credit card payment may be included. Anyone with access to your email will be able to view the content of these alerts. At any time you may disable future alerts.
+Widgets
+Rocket Money may offer Mobile Device Widgets (âWidgetâ) which may provide information regarding your financial status, including but not limited to a Safe to Spend Widget estimating how much money you may have available in a linked account. Widgets are provided as informational tools only and should not be relied upon to make financial decisions. â
+You understand and agree that any information provided to you via the Widgets may be delayed or prevented by a variety of factors and may as a result be inaccurate and should not be relied on.
+Rocket Money may make commercially reasonable efforts to ensure the Widgets contain accurate information, but cannot guarantee the delivery, timeliness, or accuracy of the content of any alert. Rocket Money shall not be liable for any
+â¯delays, failure to deliver, or misdirected delivery of any information on the Widget
+errors in the content on the Widget; or
+actions taken or not taken by you or any third party in reliance on the Widgets.
+Depending upon which Widget you select, information such as an account balance or due dates may be included. Anyone with access to your unsecured device will be able to view the content of these Widgets. At any time you may disable the Widgets.
+Rights You Grant to Us
+By submitting information, data, passwords, usernames, PINs, credentials, other log-in information, materials and other content to Rocket Money through the Services, youâre expressly directing us to use that content, and licensing that content to Rocket Money for the purpose of providing the Services. Rocket Money may use and store the content in accordance with this Agreement and our Privacy Statement.
+You represent that you're entitled and authorized to disclose and submit that content to Rocket Money for use for this purpose, without any obligation by Rocket Money to pay any fees or be subject to any restrictions or limitations. By using the Services, you expressly authorize Rocket Money to access your Account Information maintained by identified third parties, on your behalf as your agent.
+When you use the âAdd Accountsâ feature of the Services, youâll be directly connected to the website for the third party youâve identified. Rocket Money will submit information including usernames and passwords that you provide to log into the Site. You hereby authorize and permit Rocket Money to use and store information submitted by you to accomplish the foregoing, and to configure the Services so that itâs compatible with the third-party sites for which you submit your information.
+For purposes of this Agreement, and solely to provide the Account Information to you as part of the Service, you grant Rocket Money a limited power of attorney, and appoint Rocket Money or Rocket Money Bills as your attorney-in-fact and agent, to access third-party sites, retrieve and use your information with the full power and authority to do so, and perform each thing necessary in connection with such activities, as you could do in person.
+In order to provide some of our Services, including but not limited to Bill Negotiations or Cancellations, Rocket Money will need to interact with third-party service providers on your behalf. Some of these providers may make it difficult to access your information or manage your account. Therefore, it may be necessary for our agents to represent, as your limited agent and for the limited authorized purpose, that they are the account holder. This may include accepting standard terms of service necessary to move forward with the cancellation or bill negotiation process. You consent to such representation on your behalf solely for the authorized limited purpose of performing the authorized service, e.g. Bill Negotiation or Cancellation, you requested.
+YOU ACKNOWLEDGE AND AGREE THAT WHEN ROCKET MONEY IS ACCESSING AND RETRIEVING ACCOUNT INFORMATION FROM THIRD-PARTY SITES, ROCKET MONEY IS ACTING AS YOUR LIMITED AGENT. YOU UNDERSTAND THAT ROCKET MONEY IS NOT ACTING AS THE AGENT OF OR ON BEHALF OF THE THIRD PARTY THAT OPERATES THE THIRD PARTY SITE.
+You understand and agree that the Services arenât sponsored or endorsed by any third parties accessible through the Services. Rocket Money isnât responsible for any payment processing errors or fees or other Services-related issues, including those issues that may arise from inaccurate account information.
+Your Authorization for ACH Debits and Credits
+By creating a Rocket Money account, you provide your electronic signature to this Agreement, and you authorize Rocket Money to electronically debit and credit your external Bank Account via the Automated Clearing House (âACHâ) in connection with your use of the Services and, if applicable, to correct erroneous debits and credits via ACH. If requested, you agree to provide a valid form of identification to aid us in authenticating your identity directly or through our partnerâs verification tools.
+If you choose to use the Rocket Money High Yield Savings Account (âHYSAâ) or Rocket Money Goals (âGoalsâ), this authorization extends for the purposes of making automated deposits on your behalf, consistent with the automated deposit method you chose, which you may change at any time. You acknowledge that the electronic authorization contained in this section represents your prior written authorization for any automated ACH debit transactions as provided in this section, and will remain in full force and effect until you notify Rocket Money that you wish to revoke this debit authorization by contacting us via the âContact Supportâ link in the chat section of the App or emailing us at
+support@RocketMoney.com
+If you sign up for Rocket Money automated deposits, you can stop Rocket Money from initiating any additional automated transfers to savings from taking place by pausing automated deposits through the App, or by closing your Goal(s) or HYSA. For Rocket Money Premium and Premium+ subscription fees, you can stop any additional subscription fee debits from taking place by canceling your Rocket Money Premium or Premium+ subscription, or by closing your Rocket Money account. You must notify us that youâre exercising your right to stop a debit or revoke your authorization for automated deposits at least 3 business days before the next scheduled debit date.
+If you close your Goals or HYSA, pause automated deposits, cancel your Premium or Premium+ subscription or notify us that youâre revoking this debit authorization, but do so less than 3 business days before the next scheduled debit date, we may nonetheless attempt, in our sole discretion, to cancel that scheduled debit transaction. However, we assume no responsibility for our failure to do so. If we are unable to cancel the scheduled debit transaction and funds are deposited into your account after closure, cancellation, or revocation, such funds will be treated as inactive or abandoned.
+If your account becomes inactive or abandoned, your account may be closed and funds may be reported and remitted to the appropriate governmental authority as required by applicable law.
+By agreeing to this Agreement, you authorize Rocket Money to electronically debit your external Bank Account via ACH as follows:
+Amount of Debits:
+As determined by Rocket Money, subscription fees for services provided as part of our Bill Negotiation, Premium and Premium+ Services, or recurring automated deposits you setup for your Goal(s) or HYSA.
+Frequency of Automated Debits:
+on a per-use basis for payments of Bill Negotiation; monthly or annually for Rocket Money Premium and Premium+ Services payments, or as part of recurring automated deposits you setup for your Goal(s) or HYSA.
+You may cancel ACH authorization at any time. However, we must be notified at least three (3) business days before the debit is scheduled to occur, to prevent the upcoming transaction from processing.
+Rocket Money reserves the right to cancel or suspend transactions due to fraud or compliance related concerns.
+â
+You agree
+to cooperate with us in correcting errors that may occur as part of the Services. If you receive funds or a credit in an amount greater than what you are entitled to receive under the Services and these Terms, then you agree to immediately return and pay the excess amount to us.
+You agree
+to contact us immediately if you believe an error has occurred or an unauthorized transfer has been made from your account. We will handle your notice in accordance with Regulation E and our error resolution procedures. Your notice will be forwarded to our bank partner(s) for investigation and resolution, and we will communicate with you throughout the process regarding provisional credit, investigation status, and final resolution as required by applicable law.
+You agree
+that we and our agents may reverse, withdraw or cancel any debit, transaction or item that provided you with funds in error. You agree that an error occurred if we or our agents send any funds to you after we receive evidence indicating that you defrauded us or provided us or our agents with false information.
+You agree
+that we may initiate a new ACH debit to your external Bank Account in an amount equal to such overpayment plus the amount of expenses we incurred in recovering such overpayment, including the amount of your obligations, if any, under the âIndemnityâ provision below.
+In addition to any of your other representations and warranties in these Terms, you represent that: (i) your browser is equipped with at least 128-bit security encryption; (ii) you are capable of printing, storing or otherwise saving a copy of this electronic authorization for your records; (iii) the ACH transactions you hereby authorize comply with applicable law; and (iv) your email address on record with us is yours and that email address is accurate and up-to-date, in accordance with your obligations under the Rocket Money Electronic Communication Disclosure and Consent.
+â
+In case of errors or questions about your electronic transfers,
+message us in-App or email us at
+support@RocketMoney.com
+as soon as possible, if you think your statement or receipt is wrong or if you need more information about a transfer listed on the statement or receipt. We must hear from you no later than 90 days after we sent the FIRST statement on which the problem or error appeared.
+Tell us your name and Rocket Money-associated email address.
+Describe the error or the transfer youâre unsure about, and explain as clearly as you can why you believe itâs an error, or why you need more information.
+Tell us the dollar amount of the suspected error.
+If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.
+Weâll determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, weâll credit your account within 10 business days for the amount you think is in error, so that youâll have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account.
+In lieu of ACH: In some instances it may be possible to pay for Premium, Premium+, or other services via non-ACH payment instrument (e.g. a credit card), in those cases the above applies to our ability to credit or debit, as made possible by the applicable payment processor (e.g. Apple, Stripe) in the same fashion we would if you provided an ACH method of payment. Except that certain services, e.g. deposits into and withdrawals from Goals and HYSA, may only be available for credit or debit via ACH. Our payment processor is Stripe, Inc. and if you choose to pay with a credit card you agree to be bound by Stripeâs terms associated with credit card payments and that Stripe may process your payment. Stripeâs Consumer Terms of Service can be found here:
+https://stripe.com/legal/consumer
+Rocket Money Savings Plans
+15.A. Goals
+Premium features include a savings plan Goals (âGoalsâ). By enrolling in Goals, you authorize us to automatically make recurring withdrawals of funds from a linked external bank account that you select during enrollment ("Linked Account"), subject to the Electronic Fund Transfer (âEFTâ) Authorization (see ACH terms above, to which you agree when you create a Goal). These automated deposits to your Goal will be withdrawn from your Linked Account and held in a custodial account as described below.
+Goals may allow for: in-App initiated manual deposits and withdrawals and automated deposits (Custom Savings and Smart Savings, see below). You may pause or change your enrollment in automated deposits any time by changing your settings in-App. Weâll hold your funds in a Custodial Account as described below. Weâll hold your savings funds for your benefit in a non-interest bearing custodial account weâve established for your benefit at our bank partner(s) or another FDIC-insured financial institution we may select. We may, from time to time, move your savings funds from one custodial account to a custodial account at another insured depository institution, for liquidity, backup, storage or other lawful purposes. However, this wonât affect your ability to access your savings funds, and you remain the legal owner of your funds held in the custodial account. However, you may not use the savings funds in your Goal(s), held for your benefit in the custodial account, to make any purchases, withdraw cash (other than to transfer your funds back to your Linked Account), transfer funds to any third party, or for any other purposes.
+15.B. High Yield Savings Account
+Premium+ provides access to Goals as well as a High Yield Savings Account (âHYSAâ). A HYSA allows you to save money while accruing interest at a rate higher than traditional savings accounts. By enrolling in HYSA, you (a) authorize us to withdraw funds from a Linked Account, in the amount(s) you designate, and you (b) agree that we may credit your HYSA for accrued interest and other amounts owed to you in connection with the HYSA subject to the EFT Authorization (see ACH terms above, to which you agree when you create a HYSA).
+Your HYSA may allow for: in-App initiated manual deposits and withdrawals; externally-initiated manual deposits and withdrawals; and automated deposits (Smart Savings, see below). These funds will be withdrawn from your Linked Account.
+The Annual Percentage Yield (âAPYâ) is variable and may change at any time without notice, unless otherwise required by applicable law. You must maintain a Rocket Money Premium+ subscription to earn interest on your HYSA balance. As long as you have Rocket Money Premium+, you will be eligible to earn interest on deposits in your HYSA at the interest rate and APY disclosed.
+We reserve the right, in our sole discretion and subject to applicable law, to suspend, restrict, or close your HYSA if the account has a negative balance, if you fail to cure a negative balance within a reasonable period of time specified by us, or if we determine that continued maintenance of the account presents operational, fraud, compliance, credit, or financial risk.
+Upon closure of a HYSA account with an outstanding negative balance, you remain responsible for all amounts owed to us, our banking partner(s), or our service providers. We may pursue any lawful means of recovery, including offset, collections, or to the extent authorized by your EFT Authorization and permitted by applicable law. Eligibility for any future financial account or savings product will be determined in our reasonable discretion and may be subject to additional review, verification, repayment of outstanding obligations, or other requirements.
+15.C. Savings Plans General Terms
+Unless specifically and directly stated, terms in this section apply to both Goals and HYSA. Youâre solely responsible for ensuring your Linked Account has sufficient funds for each withdrawal at the time such funds are withdrawn. Youâre also responsible for ensuring each savings amount designated by you is appropriate for your particular situation. If you don't have sufficient funds in your Linked Account, you may incur an insufficient funds or overdraft fee from your bank, and we bear no liability for any fee that may be imposed by your bank. Only
+Rocket Moneyâs High Yield Savings Account (HYSA) is an interest-yielding savings account. You will not earn any interest on funds in any other Rocket Money savings plan including Goals.
+You remain the legal owner of the funds held for your benefit in the custodial account as a user of Goals, and the legal owner of funds held in your HYSA, as applicable. You may not use your savings funds to withdraw cash (other than to transfer your funds back to your Linked Account), transfer funds to any third party, or for any other purposes. Weâll hold your savings funds at our bank partner(s) or another FDIC-insured financial institution we may select. For Goals, funds are held in a non-interest bearing custodial account weâve established for your benefit
+We may, from time to time, move your savings funds from one insured depository institution to another insured depository institution, for liquidity, backup, storage or other lawful purposes. However, this wonât affect your ability to access your savings funds, and you remain the legal owner of your funds.
+Rocket Money and our bank partner(s) may exercise discretion in limiting the amount of funds that can be transferred from your Linked Account into your Goal or HYSA per day or per month. Limits may change at any time without notice. We may establish limits for deposits, withdrawals, and other activities on your HYSA at any time.
+Funds deposited in your applicable Goal(s) or HYSA are insured by the FDIC and subject to FDIC rules and recordkeeping requirements; eligible deposits are insured up to applicable FDIC limits. The FDIC insures deposits according to the ownership category in which the funds are insured and how the accounts are titled.
+For questions about FDIC insurance coverage, call the FDIC at 877-275-3342 or visit the FDICâs website at
+www.fdic.gov
+Your savings funds will remain in the custodial account or HYSA until you instruct us to transfer your funds back to your Linked Account. It may take up to 5 business days from when we receive your request to complete the transfer. Itâs important for you to know the amount of funds youâve saved before you request a transfer to your Linked Account. If you instruct us to transfer your funds back to your Linked Account and the amount of your requested transfer exceeds the available balance of your savings funds, your request will be declined. Please note that pending deposits and funds subject to a hold period are not included in your available balance.
+You may check your balance and initiate a transfer back to your external Linked Account at any time by accessing your savings through the Rocket Money app. You authorize us to transfer your funds back to your external Linked Account without notice to you if
+you terminate your participation in the Goals or HYSA,
+you terminate your Rocket Money account,
+weâre required to do so under applicable law or by any government agency, or
+we, in our sole discretion, suspect that your use of savings is for illicit purposes or otherwise is in violation of these Terms.
+Access to Goal(s) is included as part of the subscription features for Rocket Money Premium and Premium+ users. Access to HYSA, subject to application and verification, is included as part of the subscription features for Rocket Money Premium+ users.
+In addition to this Agreement, in order to open and continue to use HYSA, you have agreed to the necessary terms from and related to our banking partner(s).
+Savings Methods
+Rocket Money Savings Plans allow for different automated deposit methods, such as:
+Smart Savings: If you select this automated deposit method Rocket Money may consider factors such as the timing of your most recent automated deposit, your Linked Account balance, and your savings aggressiveness level to determine an appropriate deposit amount to transfer on your behalf to help you reach your savings objectives. Aggressiveness preferences can be modified at any time through the app. This feature is available with Goals and HYSA.
+Custom Savings: This automated deposit method allows users to set a target amount that they want to save each month. This can be determined at initial sign up, but you can also adjust this target amount within the app. The automated deposit method will try throughout the course of the specified time period to make small deposits on your behalf to help you reach your savings target. In some extreme cases, larger deposits may be required if deposits were unable to be made during the specified time period. This feature is available with Goals.
+Weâll continue to automatically withdraw funds from your Linked Account to hold in your HYSA or in the custodial account as applicable, unless
+you tell us to stop by pausing automated deposits to your Goal(s) or HYSA,
+you delete your Goal(s) or HYSA, or
+weâre unable to process your transfer (e.g., if there are insufficient funds in your Linked Account).
+Rocket Money Subscription Downgrade
+For users who maintain a balance in their Goal(s) but are not currently enrolled in Rocket Money Premium or Premium+, including through downgrading your subscription tier, Rocket Money will no longer allow access to contribute more deposits into Goals, however users will still be able to make withdrawals back into their Linked Account. This applies whether the change in subscription status is voluntary, such as choosing to downgrade your subscription tier, or involuntary, such as when your subscription is canceled due to non-payment, failed payment method, or other account issues.
+Rocket Money Account Downgrade
+Goals
+Rocket Money Premium and Premium+ includes access to Goals.
+For users who downgrade their subscription from Premium+ to Premium, their Goals feature functionality will remain the same.
+For users who downgrade to the free tier or service but maintain a balance in their Goal(s),
+Rocket Money will no longer allow access to contribute more deposits into the Goal(s), however users will still be able to make withdrawals back into their Linked Account.
+HYSA
+Rocket Money Premium+ includes access to HYSA, subject to application and verification.
+For users who downgrade their subscription from Premium+ to Premium, while maintaining a balance in the HYSA they opened while they had a Premium+ subscription, Rocket Money will allow the account to remain open as a Rocket Money Basic Savings account that does not accrue interest (0.00% interest rate ). Usersâ automated deposit settings will not change and users may continue to make manual deposits. Users will still be able to make withdrawals to their Linked Account.
+For users who downgrade to the free tier or service but maintain a balance in the HYSA they opened while they had a Premium+ subscription, Rocket Money will allow the account to remain open as a Rocket Money Limited Basic Savings account that does not accrue interest (0.00% interest rate). Users automated deposit settings will be paused, users will not be able to make more in-App deposits, however users will still be able to make withdrawals to their Linked Account.
+If, at any point, you no longer meet this HYSA eligibility criterion (i.e., you do not have a Rocket Money Premium+), you will not be eligible to earn interest and a 0.00% interest rate will apply to the balance in your HYSA for any period during which you are ineligible.
+DEPOSIT NETWORK SERVICE ACKNOWLEDGEMENT
+By utilizing the services (Rocket Moneyâs Savings Products), your beneficial funds (Goals) may be held at nbkc bank (âBankâ) in an omnibus custodial account (âOmnibus Accountâ). In its ordinary course of business, Bank may deposit your funds into a network of other FDIC-insured depository institutions (each a âNetwork Bankâ and together, the âNetwork Banksâ) through a deposit network program administered by a third-party service provider (âDeposit Network Administratorâ) and held in custody by a third-party custodian (the âCustodian Bankâ) (a âDeposit Network Serviceâ). To facilitate the placement of these funds, you appoint nbkc bank as your agent with respect to the Deposit Network Service, further authorizing nbkc bank to appoint a Deposit Network Administrator. At any given time, all, none or a portion of the funds deposited into your Omnibus Account may be placed into a Deposit Network Service and held beneficially in your name at Network Banks. You are not required or permitted to take any action with respect to the Deposit Network Services. The use of the Deposit Network Services will not create a direct relationship between you and: (i) any of the Network Banks, (ii) the Deposit Network Administrator or (iii) the Custodian Bank. The Deposit Network Administrator, as agent of Bank, maintains records of the balance of each depositor beneficially held at each Network Bank. Bank utilizes Deposit Network Services provided by a third party such as ModernFI, Inc, and your account will receive services exclusively from the Deposit Network Administrator. For a list of participating network banks, visit: https://nbid.modernfi.com/p/n/members.
+Applicability and Impact of FDIC Insurance.
+The FDIC is an independent agency created by the United States Congress that provides deposit insurance to depositors in commercial banks and savings institutions legally chartered to offer banking services in the United States. FDIC deposit insurance is backed by the full faith and credit of the United States government. FDIC deposit insurance covers the depositors of a failed FDIC-insured depository institution dollar-for-dollar, principal plus any interest accrued, through the date of a bank failure, up to at least the then current Standard Maximum Deposit Insurance Amount, or âSMDIA,â as determined by the FDIC. As of <DATE>, the current SMDIA is $250,000, per depositor, per insured bank. As a part of the Deposit Network Services, the amount of your beneficial funds from the Omnibus Account deposited at any Network Bank will not exceed the then applicable SMDIA. As a result, assuming that you have no funds in any of the Network Banks, your funds would be eligible for extended protection through FDIC insurance once funds arrive at the Network Banks. The Deposit Network Service allocates funds solely on data provided to it by Bank. Therefore, if you or Bank maintain funds at any of the Network Banks directly or through an intermediary, your funds at such Network Bank may not be fully insured by the FDIC in the event the aggregate balance of all accounts beneficially owned by you at such Network Bank exceeds the then-current SMDIA. In the event you have funds at any of the Network Banks, your deposit insurance coverage may be adversely affected, and your principal and any accrued interest may not be fully insured by the FDIC, even if the total amount deposited in that Network Bank through the Deposit Network Service is less than the SMDIA. Therefore, you may be subject to loss in the event of a failure of a Network Bank if the aggregate amount of your beneficial funds exceeds the SMDIA at such institution. To learn more about FDIC insurance please carefully review the information provided by the FDIC at:
+https://www.fdic.gov/deposit/deposits
+Rocket Money Bill Negotiation
+Rocket Money offers bill negotiation services (âBill Negotiationâ) as part of the Services. As of <DATE>, Bill Negotiation is exclusively a Premium+ feature. Negotiations already in progress or on a payment plan will continue. Auto-renegotiations will sunset on <DATE>.
+In order to receive Bill Negotiation Services, you must provide us with the information we need to perform the Services. This information includes the account holderâs name, your name and relationship to the account holder (if different), and your respective addresses, phone numbers and email addresses, the name of the service provider (âProviderâ), your Provider account number, the applicable password, pin number, or other security credentials to access the account, and any other specific information your Provider may require for us to make changes to your account. You also agree to provide a copy of the current monthly billing statement for the account showing the products and features you receive and the amounts you are billed. This information may be provided either by uploading a photo of the bill, or by enabling Rocket Money to access your online bill via a third-party provider.
+You also agree to provide us with any additional information relevant to the negotiations prior to the start of the negotiation, including if youâre planning to cancel or switch Providers within the next year. We may decline to provide the requested Bill Negotiation based on the information provided in our sole discretion.
+You represent and warrant that all of the information you provide to us is accurate, complete and correct. You agree that we may rely upon and share your information with our agents, referral partners, providers and otherwise, as necessary in order to offer and provide the Services to you. Your personal information will only be used in the manner and for the purposes set forth in our Privacy Policy.
+By requesting a Bill Negotiation, you authorize Rocket Money to contact your Provider as your limited agent in order to secure a better rate on the service on your behalf. Rocket Money will provide account verification details including, but not limited to, your full name, respective addresses, phone numbers, and email addresses, the name of the Provider, your Provider account number, the applicable password, PIN number, or other security credentials to access the account or validate the account with the service provider in order to proceed with the negotiation. If itâs necessary for our agents to represent to your Provider that theyâre the account holder, you consent to such representation solely in order to perform the Bill Negotiation.
+A Bill Negotiation request can be canceled anytime before itâs completed by contacting our Support team or canceling the request in the App. If youâd like to attempt to negotiate your own bill, you must cancel your request prior to Rocket Money completing the requested Bill Negotiation or youâll be held responsible for all associated fees.
+Bill Negotiation services are included within the Premium+ subscription service without a Negotiation Fee.
+Prior to <DATE>, Bill Negotiation is available as follows for all other levels of subscription service:
+For all other levels of subscription service, we may charge a Bill Negotiation fee (the âNegotiation Feeâ) for our Services connected with Bill Negotiation. The current Negotiation Fee is decided by the user, anywhere between 35-60% of the 12-month savings achieved as a result of the negotiation. As of <DATE>, Bill Negotiations will only be available with a Premium+ subscription and there will not be a Negotiation Fee for any negotiation initiated after that date. Negotiations in progress or on a payment plan will continue with the agreed upon Negotiation Fee for that Bill Negotiation.
+For instance, if a 40% fee is chosen and Rocket Money is able to lower a bill by $10 per month, that would equal savings of $120 over 12 months and a Negotiation Fee of $48. We may charge the Negotiation Fee to the credit or debit card provided and authorized at the time the Bill Negotiation is submitted. The Negotiation Fee is non-refundable, except in the event that an error was made during the Bill Negotiation, or except as otherwise required by applicable law.
+You agree, that if we find out that your rate is soon to go up, and manage to negotiate maintenance of your current bill instead, this may result in Rocket Money adding a promotion to your bill, this may occur before a current promotion expires, if we are able to negotiate the same. This may result in your bill remaining unchanged in an effort to ensure there is no lapse in the promotional rate. For users who are not Premium+ members, this action will result in our standard Bill Negotiation fee if we are able to negotiate the same or better rate.
+For instance, we know your bill is about to increase from $100 a month to $120 per month for the next 12 months and we are able to negotiate the rate remaining at $100 we will charge you the original Bill Negotiation fee split chosen, between 35-60% except as otherwise required by applicable law.
+In the event that you choose to cancel the service for which Rocket Money performed a Bill Negotiation, you must notify Rocket Money in writing no later than thirty (30) days after your provider services are canceled in order to receive a pro-rata credit for the days remaining in the month in which your services are canceled. If you cancel your service before all savings for a given billing period appear on your bill(s), you must send documentation to Rocket Money within thirty (30) days after such cancellation takes effect showing the last date of service, and Rocket Money will adjust your invoice on a pro-rata basis taking into account the date of service cancellation. If youâve paid in advance, weâll issue you a credit to use toward future Bill Negotiations with Rocket Money.
+Rocket Moneyâs negotiated savings generally take 1 to 2 billing cycles to reflect on your statement, most likely your next billing statement. By default, you consent to Rocket Money improving the quality of your service if it doesnât increase your cost of service. Youâre responsible for fees resulting from any and all negotiations that are submitted through your Rocket Money account.
+Rocket Money Subscription Cancellation
+By requesting a Subscription Cancellation you authorize Rocket Money to contact your service provider as your limited agent in order to cancel, on your behalf, your subscription/service with the specified provider. Rocket Money will provide account verification details including, but not limited to, your full name, service address, account number, payment verification, security code or other security credentials, to validate the account with the service provider in order to proceed with the cancellation. If it is necessary for our agents to represent to your service provider that they are the account holder, you consent to such representation solely in order to perform the Subscription Cancellation. This includes accepting any terms of service necessary to continue with the Subscription Cancellation process.
+By cancelling a service earlier than the term stated within an agreement with the service provider, it is possible you will incur an early cancellation fee from that service. This is not a Rocket Money fee. Rocket Money will try to negotiate this fee for you, but any early cancellation fees charged will be between you and the specific service provider as provided in the service providerâs terms of service.
+Intellectual Property Rights
+The contents of Sites and the Services, including their âlook and feelâ (e.g., text, graphics, images, logos, and button icons), photographs, editorial content, notices, software (including html-based computer programs),and other material are protected under both United States and other applicable copyright, trademark, and other laws.
+The contents of the Services belong or are licensed to Rocket Money or Rocket Money Bills, or its software or content suppliers.
+Third-party trademarks, service marks, graphics and logos used in connection with the Services are the intellectual property of their respective owners and are used for identification purposes only. Use of these names, trademarks and logos does not imply a relationship with Rocket Money.
+Rocket Money grants you the right to view and use the Services subject to these terms. You may download or print a copy of information for theServices for your personal, internal, and non-commercial use only. Any distribution, reprint, or electronic reproduction of any content from theServices, in whole or in part for any other purpose, is expressly prohibited without our prior written consent. You agree not to use, nor permit any third party to use, the Site or the Services or content in a manner that violates any applicable law, regulation, or this Agreement.
+Access and Interference
+You agree that youâll not:
+Use any robot, spider, scraper, deep link or other similar automated data gathering or extraction tools, program, algorithm or methodology to access, acquire, copy or monitor the Services or any portion of the Services, without Rocket Money's express written consent, which may be withheld in Rocket Money's sole discretion.
+Use or attempt to use any engine, software, tool, agent or other device or mechanism (including, without limitation, browsers, spiders, robots, avatars or intelligent agents) to navigate or search the Services, other than the search engines and search agents available through the Services and other than generally available third-party web browsers (such as Microsoft Explorer).
+Post or transmit any file which contains viruses, worms, Trojan horses or any other contaminating or destructive features, or that otherwise interferes with the proper working of the Services.
+Attempt to decipher, decompile, disassemble or reverse-engineer any of the software comprising or in any way making up a part of the Services.â
+âSocial Media Sites
+Rocket Money may provide experiences on social media platforms
+that
+enable online sharing and collaboration among Users whoâve registered to use them. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those platforms. Please refer to those social media platforms to better understand your rights and obligations with regard to such content.
+Disclaimer of Representations and Warranties
+THE SITES, SERVICES, INFORMATION, DATA, FEATURES, AND ALL CONTENT AND ALL SERVICES AND PRODUCTS ASSOCIATED WITH THE SERVICES OR PROVIDED THROUGH THE SERVICES (WHETHER OR NOT SPONSORED) ARE PROVIDED TO YOU ON AN âAS-ISâ AND âAS AVAILABLEâ BASIS. ROCKET MONEY, ITS AFFILIATES, AND ITS THIRD-PARTY PROVIDERS, LICENSORS, DISTRIBUTORS OR SUPPLIERS (COLLECTIVELY, "SUPPLIERS ") MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE CONTENT OR OPERATION OF THE SITE OR OF THE SERVICES. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK.
+NEITHER ROCKET MONEY OR ITS SUPPLIERS MAKE ANY REPRESENTATIONS, WARRANTIES OR GUARANTEES, EXPRESS OR IMPLIED, REGARDING THE ACCURACY, RELIABILITY OR COMPLETENESS OF THE CONTENT ON THE SITES OR OF THE SERVICES (WHETHER OR NOT SPONSORED), AND EXPRESSLY DISCLAIMS ANY WARRANTIES OF NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE. NEITHER ROCKET MONEY OR ITS SUPPLIERS MAKE ANY REPRESENTATION, WARRANTY OR GUARANTEE THAT THE CONTENT THAT MAY BE AVAILABLE THROUGH THE SERVICES IS FREE OF INFECTION FROM ANY VIRUSES OR OTHER CODE OR COMPUTER PROGRAMMING ROUTINES THAT CONTAIN CONTAMINATING OR DESTRUCTIVE PROPERTIES OR THAT ARE INTENDED TO DAMAGE, SURREPTITIOUSLY INTERCEPT OR EXPROPRIATE ANY SYSTEM, DATA OR PERSONAL INFORMATION.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. IN SUCH STATES LIABILITY IS LIMITED TO THE EXTENT PERMITTED BY LAW. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 15 AND 18 OF THIS PROVISION MAY NOT APPLY TO YOU.
+âLimitations on Rocket Money's Liability
+ROCKET MONEY SHALL, IN NO EVENT, BE RESPONSIBLE OR LIABLE TO YOU OR TO ANY THIRD PARTY, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, LIQUIDATED OR PUNITIVE DAMAGES INCLUDING, BUT NOT LIMITED, TO LOSS OF PROFIT, REVENUE OR BUSINESS, ARISING IN WHOLE OR IN PART FROM YOUR ACCESS TO THE SITES, YOUR USE OF THE SERVICES, THE SITES OR THIS AGREEMENT, EVEN IF ROCKET MONEY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, ROCKET MONEYâS LIABILITY TO YOU FOR ANY CAUSE WHATEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO A MAXIMUM OF $500.00 (FIVE HUNDRED UNITED STATES DOLLARS).
+Your Indemnification of Rocket Money
+You shall defend, indemnify and hold harmless Rocket Money and its affiliates, officers, directors, shareholders and employees from and against all claims, suits, proceedings, losses, liabilities and expenses, whether in tort, contract or otherwise that arise out of or relate including, but not limited to, attorneys fees, in whole or in part, arising out of or attributable to any breach of this Agreement or any activity by you in relation to the Sites or your use of the Services.
+Ending Your Relationship with Rocket Money
+This Agreement will continue to apply until terminated by either you or Rocket Money as set out below. If you want to terminate your legal agreement with Rocket Money, you may do so as follows:
+To close your account for the Services, please use the directions below:
+For Web:
+Login to your Rocket Money.com account.
+Go to âYour Account.â
+Locate the âdelete Rocket Money accountâ option under âMore Options.â
+Type in âdeleteâ where prompted.
+Enter the password for your Rocket Money.com account.
+Press âYes.â
+Within the Application:
+Log into the Rocket Money app
+Click the Settings gear
+Go to your Profile
+Scroll down to âDelete My Accountâ
+Your account will be closed and your ability to log in deactivated immediately. Your rockemoney.com account data will be removed within 48 hours, subject to and as explained in our Privacy Statement.
+Rocket Money may, at any time, suspend your account and/or terminate its legal agreement with you and your access to the Services for any reason, and at any time, with or without notice.â¯ Some but not all of the reasons that we may terminate your services include: If youâve breached any provision of this Agreement (or have acted in a manner which clearly shows that you donât intend to, or are unable to comply with, the provisions of this Agreement).
+If Rocket Money, in its sole discretion, believes itâs required to do so by law (for example, where the provision of the Service to you is, or becomes, unlawful). You acknowledge and agree that Rocket Money may immediately suspend, deactivate or delete your account and all related information and files in your account and/or prohibit any further access to all files and the Services by you. Further, you agree that Rocket Money shall not be liable to you or any third party for any suspension or termination of your access to the Services.
+Modifications
+Rocket Money reserves the right, at any time and from time to time, to modify or discontinue, temporarily or permanently, the Sites or Services with or without notice. Rocket Money reserves the right to change the Services, including applicable fees, in our sole discretion and from time to time. In certain circumstances, if youâre a paying User of the Services, Rocket Money will provide notice to you. If you donât agree to the changes after receiving a notice of the change to the Services, you may stop using the Services. Your use of the Services, after you are notified of any change(s) will constitute your agreement to such change(s). You agree that Rocket Money shall not be liable to you or to any third party for any modification, suspensions or discontinuance of the Services.
+Rocket Money may modify this Agreement from time to time. Any and all changes to this Agreement may be provided to you by electronic means (i.e., via email or the App or by posting the information on the Sites). The Agreement will always indicate the date it was last revised. Youâre deemed to accept, and agree to be bound by, any changes to the Agreement when you use the Services after those changes are posted.
+Governing Law, Forum for Disputes, and Arbitration Agreement
+Michigan state law governs this Agreement without regard to its conflicts of laws provisions.
+ANY DISPUTE OR CLAIM RELATING IN ANY WAY TO THE SERVICES OR ANY OTHER SERVICES OFFERED IN THE FUTURE WITHIN THESE TERMS OF SERVICE WILL BE RESOLVED BY BINDING ARBITRATION, RATHER THAN IN COURT
+, except that Rocket Money or you may pursue matters in small claims court if the claims qualify.
+Mandatory Pre-Arbitration Notice:
+You must notify us in writing within two (2) years of any dispute arising under this Agreement. Notice shall be sent to Rocket Money Inc., 8455 Colesville Road, Suite 1645, Silver Spring, MD 20910, or may be submitted via email to legal@rocketmoney.com, or you will waive your right to bring these claims in arbitration or small claims court
+.â¯ The notice you submit must be on your behalf only and must bear your signature, not the signature of your attorney.â¯ The notice cannot be co-signed by another party or otherwise combined with the notice of another party.â¯ The notice must describe with sufficient details to allow Rocket Money to investigate and evaluate: (a) your relationship with Rocket Money; (b) the facts supporting your allegations; and (c) the claims or dispute that you are asserting
+. You must allow sixty (60) days from receipt of notice for you and Rocket Money to try and resolve the dispute before you may proceed in filing an arbitration matter or in small claims court.
+While you and Rocket Money attempt to resolve the dispute, your claims shall be tolled for this sixty-day period, and tolling will end when the parties either agree to a resolution or fail to reach an agreement by the sixtieth day, whichever date is later.â¯
+Coordinated Claims:
+If more than thirty (30) customers give notice of claims that are substantially similar and counsel for the customers are the same or coordinated, or reasonably expected to be coordinated given the similar nature of the claims, the claims shall proceed in arbitration in a coordinated proceeding.â¯ Counsel for Rocket Money and counsel for claimants shall each select fifteen (15) claims to proceed in arbitration in a bellwether proceeding before the same arbitrator(s) to promote efficiency and cost savings for the parties.â¯ The remaining claims shall not be filed in arbitration and shall be tolled from the date notice is given until the
+arbitration is terminated, the parties settle, the bellwether claimants opt out of arbitration, the claimants opt out of mediation, or you opt-out of the coordinated proceedings, whichever event is earliest.â¯ If following the bellwether arbitration any claims still remain and have not been withdrawn or otherwise resolved, the results of the bellwether proceedings shall be given to a mediator who the parties jointly select.â¯ The mediator shall conduct a global mediation so that the parties may attempt to resolve all remaining claims.â¯ If the global mediation is unsuccessful, the parties shall each select another thirty (30) claims to proceed in a second bellwether proceeding, and (if necessary) subsequent mediation (subject to any modifications jointly agreed upon by the parties in writing).â¯ If the parties fail to reach a global settlement, claimants may proceed to individual arbitration.â¯ If the parties reach a global settlement, claimants may choose to opt out of this settlement and proceed to individual arbitration or assert claims in small claims court, if eligible.
+If Rocket Money makes a settlement offer to you as part ofâ¯ a global mediation, before you may proceed to individual arbitration, you (directly or through your counsel) shall certify in a writing bearing your signature that you personally received and were made aware of the offer and any counterclaims including for fees and costs that Rocket Money may bring should you proceed to arbitration, and had the opportunity to review and discuss the offer and the risk of counterclaims with counsel before rejecting the offer.â¯
+Unless aâ¯ party demonstrates that it is reasonably unable to pay, an arbitrator shall award the reasonable arbitration costs, fees and attorneyâs fees to the opposing party upon a finding of any of the following:â¯ (a) the claims brought were frivolous, lacking sufficient pre-notice investigation, lacking evidentiary support, or brought in bad faith; (b) a prevailing party rejected a settlement offer or refund prior to the conclusion of arbitration proceedings that had a value greater than the value of the recovery awarded in the arbitration; or (c) a claimant brings an arbitration with substantially similar claims as brought in a prior arbitration that previously failed and/or were rejected, the claimant (including the claimantâs attorney(s)) knew or reasonably should have known that the claims were previously unsuccessful against the Company,â¯ and the claimant did not raise unique legal or factual allegations that were warranted and nonfrivolous.
+The Federal Arbitration Act governs the interpretation and enforcement of this provision; the arbitrator shall apply Michigan law to all other matters. Notwithstanding anything to the contrary, any party to the arbitration may, at any time, seek injunctions or other forms of equitable relief from any court of competent jurisdiction.â¯
+Class Action Waiver:â¯ WE EACH AGREE THAT ANY AND ALL DISPUTES MUST BE BROUGHT IN THE PARTIES' INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. BY ENTERING INTO THIS AGREEMENT AND AGREEING TO ARBITRATION: YOU AGREE THAT YOU AND ROCKET MONEY ARE EACH WAIVING THE RIGHT TO FILE A LAWSUIT AND THE RIGHT TO A TRIAL BY JURY; YOU AGREE TO WAIVE THE RIGHT TO PARTICIPATE IN A CLASS ACTION OR LITIGATE ON A CLASS-WIDE BASIS; AND YOU AGREE THAT YOUâVE EXPRESSLY AND KNOWINGLY WAIVED THESE RIGHTS.
+Arbitration Rules and Fees:â¯
+Unless agreed to separately by you and us, any Arbitration will be conducted by the Federal Arbitration (âFedArbâ), before a single FedArb arbitrator under the FedArb's rules, which are available at
+www.FedArb.com
+or by calling (650)328-9500. If the parties elect and agree that the Arbitration is not conducted by FedArb, it will instead be conducted by JAMS, before a single JAMS arbitrator under the FedArb's rules, which are available at www.FedArb.com or by calling (650)328-9500. If conducted by JAMS we agree here that JAMS shall appoint a process arbitrator under the JAMS rules where JAMS or either party submit that at least thirty claims are coordinated claims.
+Payment of all filing, administration and arbitrator fees and costs will be governed by the FedArb's rules, but if youâre unable to pay any of them, weâll pay them for you, subject to the rights to recover fees and costs outlined above.
+You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location. The decision of the arbitrator shall be final and not appealable, and judgment on the arbitration award may be entered in any court having jurisdiction thereof. This Section shall survive expiration, termination or rescission of this Agreement.
+Opt Out Procedure:
+You have the right to opt-out of this version of the Arbitration Clause and it will not affect any other terms and conditions of this Agreement or your relationship with us. If you choose to opt-out you will remain subject to the prior dispute resolution and arbitration terms available
+Here
+for the duration of your current agreement with us. TO OPT OUT, YOU MUST, WITHIN 30 DAYS OF OCTOBER 24rd, 2024, SEND AN EMAIL TO US AT
+NOTICE@ROCKETMONEY.COM
+FROM THE EMAIL ASSOCIATED WITH YOUR ROCKET MONEY ACCOUNT WITH "I opt-out of the updates to the arbitration terms." An election to opt out applies only to Claims arising under this Agreement or, if this Agreement is not specifically identified in your notice, then to any services you requested within the 30-day period before we received your notice. The Arbitration Clause will apply to any Claims between us relating to any account(s) or services for which we do not receive an opt-out notice as described in this paragraph. If you opt out of the updates to these arbitration provisions, the prior arbitration provisions will remain in effect between us.
+Severability of Arbitration Terms: âIf a court or the arbitrator decides that any term or provision of this Arbitration Agreement (other than the âClass Action Waiverâ subsection above) is invalid or unenforceable, the parties agree to replace such term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Arbitration Agreement will be enforceable as so modified. If a court or the arbitrator decides that any of the provisions in the âClass Action Waiverâ subsection are invalid or unenforceable, then the entirety of this Arbitration Agreement will be null and void.
+Allegations of Copyright and Trademark Infringements; Notification
+Rocket Money respects the intellectual property rights of others, and Rocket Money asks that users of the Site and Services do the same. If you believe that your intellectual property is being used on the Site in a way that constitutes copyright infringement, please provide our Designated Agent (set forth below) the following information (as required by Section 512(c)(3) of the Digital Millennium Copyright Act):
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right thatâs allegedly infringed.
+Identification of the copyrighted work claimed to have been infringed or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
+Identification of the material thatâs claimed to be infringing or to be the subject of infringing activity, and thatâs to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material.
+Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number and, if available, an email address at which the complaining party may be contacted.
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of isnât authorized by the copyright owner, its agent or the law.
+A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right thatâs allegedly infringed.
+The information specified above must be sent to Rocket Money's Designated Agent, at the following address:
+Rocket Money, Inc.
+8455 Colesville Road
+Suite 1645
+Silver Spring, MD 20910
+Email: hello@RocketMoney.com
+Please note that Section 512(f) of the Digital Millennium Copyright Act may impose liability for damages on any person who knowingly sends meritless notices of infringement. Please donât make false claims.
+Any information or correspondence that you provide to Rocket Money may be shared with third parties, including the person who provided Rocket Money with the allegedly infringing material.
+Upon receipt of a bona fide infringement notification by the Designated Agent, itâs Rocket Money's policy to remove or disable access to the infringing material, notify the user that itâs been removed or has disabled access to the material and, for repeat offenders, to terminate such User's access to the Services.
+If you believe that your content shouldnât have been removed for alleged copyright infringement, you may send Rocket Money's Designated Agent a written counter-notice with the following information:
+Identification of the copyrighted work that was removed, and the location on the Site where it wouldâve been found prior to its removal
+A statement, under penalty of perjury, that you have a good faith belief that the content was removed as a result of a mistake or misidentification
+Your physical or electronic signature and your contact information (address, telephone number and, if available, email address)
+If a counter-notice is received by the Designated Agent, we may send a copy of the counter-notice to the original complaining party, informing that person that it may replace the removed material or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the user, the removed material may be replaced or access to it restored in 14 business days or more after receipt of the counter-notice, at our discretion.
+Apple Requirements
+Supplemental Apple Terms and Conditions apply for the Services and shall prevail over any conflict or inconsistency with the full Agreement as it relates to Apple. Capitalized terms not otherwise defined below have the meanings provided in the General Terms above.
+If you downloaded the App, any of the Services or product from the Mac App Store, the following terms also apply to you:
+â
+A. Acknowledgement:
+You acknowledge that this Agreement is between you and Rocket Money only, and not with Apple, and Rocket Money, not Apple, is solely responsible for the Software and the content thereof.
+â
+B. Scope of License:
+The license granted to you for the Software is a limited, non-transferable license to use the Software on Mac product that you own or control, and as permitted by the Usage Rules set forth in the terms of service applicable to the Mac App Store.
+â
+C. Maintenance and Support:
+Rocket Money and not Apple is solely responsible for providing any maintenance and support services, for which additional fees may apply, with respect to the Services. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Software.
+â
+D. Warranty:
+Rocket Money is solely responsible for any product warranties, whether expressed or implied by law, to the extent not effectively disclaimed. In the event of any failure of the Software to conform to any applicable warranty, you may notify Apple and theyâll refund the purchase price for the Software to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Software, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be Rocket Moneyâs sole responsibility.
+â
+E. Product Claims:
+Rocket Money, not Apple, is responsible for addressing any user or third-party claims relating to the Software or the userâs possession and/or use of the Software, including, but not limited to: (i) product liability claims, (ii) any claim that the Software fail to conform to any applicable legal or regulatory requirement, and (iii) claims arising under consumer protection or similar legislation.
+F. Intellectual Property Rights:
+You acknowledge that, in the event of any third-party claim, that the Software or your possession and use of the Software infringes that third partyâs intellectual property rights, Rocket Money, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+G. Legal Compliance:
+You represent and warrant that (i) you are not located in a country thatâs subject to a U.S. Government embargo, or thatâs been designated by the U.S. Government as a terrorist-supporting country, and (ii) youâre not listed on any U.S. Government list of prohibited or restricted parties.
+â
+H. Developer Contact Info:
+Direct any questions, complaints or claims to:
+Rocket Money Inc., 8455 Colesville Road, Suite 1645, Silver Spring, MD 20910 or email us at hello@RocketMoney.com.
+I. Third Party Terms of Agreement:
+You must comply with any applicable third-party terms of agreement when using the Software.
+J. Third-Party Beneficiary:
+You acknowledge and agree that Apple and Appleâs subsidiaries are third-party beneficiaries of this Agreement and that, upon your acceptance of the terms and conditions of the Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce the Agreement against you as a third-party beneficiary thereof.
+Free Credit Score
+Supplemental FICO Terms and Conditions below apply for the Services and shall prevail over any conflict or inconsistency with the full Agreement as it relates to FICO. Capitalized terms not otherwise defined below have the meanings provided in the General Terms above.
+Rocket Money provides all Members with free access to their FICOÂ® Score 2 credit score and provides Members who pay for Rocket Money Premium Services with access to their credit report (collectively âCredit Scoreâ). By accessing your Credit Score through the Services, you agree to provide Rocket Money the following credit pull authorization:â¯
+I hereby authorize Rocket Money to periodically obtain and use consumer reports about me in order to provide me with
+(1)
+access to my free credit score, including periodic updates to my credit score, and
+(2)
+recommendations regarding financial products and services that may be of interest to me, including credit cards, personal loans, home loans and other financial products and services offered by Rocket Money partners.â¯
+If you find discrepancies with your credit score or information from your credit report, please contact Experian directly.
+About FICOÂ® Score 2
+FICO
+Score 2,
+with scores ranging from 300 to 850, is a user-friendly credit score model developed by the nationwide credit reporting agency,
+ExperianÂ®.
+FICOÂ® Score 2 is used by some, but not all, lenders. Higher scores represent a greater likelihood that you'll pay back your debts, so youâre viewed as being a lower credit risk to lenders. A lower score indicates to lenders that you may be a higher credit risk.
+There are three (3) different major credit reporting agencies (Experian, TransUnion and Equifax) that maintain a record of your credit history, also known as your credit file. Credit scores are based on the information in your credit file at the time itâs requested. Your credit file information can vary from agency to agency because some lenders report your credit history to only one or two of the agencies.â¯
+Your credit scores can vary if the information they have on file for you is different. Since the information in your file can change over time, your credit scores also may be different from day-to-day. Different credit scoring models can also give a different assessment of the credit risk (risk of default) for the same consumer and same credit file.â¯
+There are different credit scoring models which may be used by lenders and insurers. Your lender may not use FICOÂ® Score 2, so don't be surprised if your lender gives you a score that's different from your FICO Score. Your FICOÂ® Score 2 may also differ from your score under other types of FICO Scoresâ¯
+Just remember that your associated risk level is often the same even if the number isnât. For some consumers, however, the risk assessment of FICOÂ® Score 2 could vary, sometimes substantially, from a lenderâs score. If the lender's score is lower than your FICOÂ® Score 2, itâs possible that this difference can lead to higher interest rates and sometimes credit denial.
+View Previous Terms of Service
+Redfin
+Get a real estate agent handpicked for you and search the latest home listings.
+Rocket Mortgage
+Buy a home, refinance or manage your mortgage online with Americaâs largest retail mortgage lender.*
+Rocket Money
+Save more, spend less, see everything, and take back control of your financial life.
+Rocket Loans
+Get a personal loan to consolidate debt, renovate your home and more.
+Rocket Pro
+Build and grow your wholesale lending business.
+Rocket Close
+Appraisal, title, and closing solutions that drive speed, confidence, and savings for Rocket clients.
+Features
+Manage Subscriptions
+Financial Goals
+Spending Insights
+Credit Scores
+Bill Negotiation
+Budgeting
+Net Worth
+Widgets
+Rowan
+Compare
+Best Budgeting Apps
+Mint
+Monarch Money
+Origin
+YNAB
+Copilot
+About
+Careers
+About us
+Company updates
+Frequently asked questions
+Rocket
+Support
+Security
+Contact us
+Help center
+Affiliates
+Press inquiries
+Terms of service
+Privacy policy
+Notice at collections
+Do Not Sell or Share My Personal Information
+Â© 2015-2026 Rocket Money All Rights Reserved
+We donât accept cash, crypto, tacos, or private jets in exchange for your personal information. Some states (hi, California) have their own rules, so check out our
+Privacy Policy
+for the full scoop.
+Banking services provided by nbkc bank, member FDIC
+* Based on Rocket Mortgage data in comparison to public data records.
+Rocket Mortgage, LLC, Rocket Loans, LLC, Rocket Close, LLC, and Rocket Money, Inc. are separate operating subsidiaries of Rocket Limited Partnership. Redfin Corporation is an affiliated business. Each company is a separate legal entity operated and managed through its own management and governance structure. Rocket Limited Partnership and Redfin Corporation are wholly owned subsidiaries of Rocket Companies, Inc. (NYSE: RKT).
+Apple and the Apple logo are trademarks of Apple Inc. registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+Wear OS by Google and Google Play are trademarks of Google LLC.
+Redfin
+Get a real estate agent handpicked for you and search the latest home listings.
+Rocket Mortgage
+Buy a home, refinance or manage your mortgage online with Americaâs largest retail mortgage lender.*
+Rocket Money
+Save more, spend less, see everything, and take back control of your financial life.
+Rocket Loans
+Get a personal loan to consolidate debt, renovate your home and more.
+Rocket Pro
+Build and grow your wholesale lending business.
+Rocket Close
+Appraisal, title, and closing solutions that drive speed, confidence, and savings for Rocket clients.
+Features
+Manage Subscriptions
+Financial Goals
+Spending Insights
+Credit Scores
+Bill Negotiation
+Budgeting
+Net Worth
+Widgets
+Rowan
+Compare
+Best Budgeting Apps
+Mint
+Monarch Money
+Origin
+YNAB
+Copilot
+About
+Careers
+About us
+Company updates
+Frequently asked questions
+Rocket
+Support
+Security
+Contact us
+Help center
+Affiliates
+Press inquiries
+Terms of service
+Privacy policy
+Notice at collections
+Do Not Sell or Share My Personal Information
+Â© 2015-2026 Rocket Money All Rights Reserved
+We donât accept cash, crypto, tacos, or private jets in exchange for your personal information. Some states (hi, California) have their own rules, so check out our
+Privacy Policy
+for the full scoop.
+Banking services provided by nbkc bank, member FDIC
+* Based on Rocket Mortgage data in comparison to public data records.
+Rocket Mortgage, LLC, Rocket Loans, LLC, Rocket Close, LLC, and Rocket Money, Inc. are separate operating subsidiaries of Rocket Limited Partnership. Redfin Corporation is an affiliated business. Each company is a separate legal entity operated and managed through its own management and governance structure. Rocket Limited Partnership and Redfin Corporation are wholly owned subsidiaries of Rocket Companies, Inc. (NYSE: RKT).
+Apple and the Apple logo are trademarks of Apple Inc. registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+Wear OS by Google and Google Play are trademarks of Google LLC.
+Redfin
+Get a real estate agent handpicked for you and search the latest home listings.
+Rocket Mortgage
+Buy a home, refinance or manage your mortgage online with Americaâs largest retail mortgage lender.*
+Rocket Money
+Save more, spend less, see everything, and take back control of your financial life.
+Rocket Loans
+Get a personal loan to consolidate debt, renovate your home and more.
+Rocket Pro
+Build and grow your wholesale lending business.
+Rocket Close
+Appraisal, title, and closing solutions that drive speed, confidence, and savings for Rocket clients.
+Features
+Manage Subscriptions
+Financial Goals
+Spending Insights
+Credit Scores
+Bill Negotiation
+Budgeting
+Net Worth
+Widgets
+Rowan
+Compare
+Best Budgeting Apps
+Mint
+Monarch Money
+Origin
+YNAB
+Copilot
+About
+Careers
+About us
+Company updates
+Frequently asked questions
+Rocket
+Support
+Security
+Contact us
+Help center
+Affiliates
+Press inquiries
+Terms of service
+Privacy policy
+Notice at collections
+Do Not Sell or Share My Personal Information
+Â© 2015-2026 Rocket Money All Rights Reserved
+We donât accept cash, crypto, tacos, or private jets in exchange for your personal information. Some states (hi, California) have their own rules, so check out our
+Privacy Policy
+for the full scoop.
+Banking services provided by nbkc bank, member FDIC
+* Based on Rocket Mortgage data in comparison to public data records.
+Rocket Mortgage, LLC, Rocket Loans, LLC, Rocket Close, LLC, and Rocket Money, Inc. are separate operating subsidiaries of Rocket Limited Partnership. Redfin Corporation is an affiliated business. Each company is a separate legal entity operated and managed through its own management and governance structure. Rocket Limited Partnership and Redfin Corporation are wholly owned subsidiaries of Rocket Companies, Inc. (NYSE: RKT).
+Apple and the Apple logo are trademarks of Apple Inc. registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+Wear OS by Google and Google Play are trademarks of Google LLC.

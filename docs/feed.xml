@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>QuietlyChanged</title><link href="https://quietlychanged.com/"/><link rel="self" href="https://quietlychanged.com/feed.xml"/><id>https://quietlychanged.com/</id><updated>2026-11-09T12:00:00Z</updated><entry><title>Xbox Game Pass plans and prices (November 2026): Ultimate, Premium, Essential and PC Game Pass compared</title><link href="https://quietlychanged.com/guides/xbox-game-pass-plans-and-prices-2026-every-price-change/"/><id>https://quietlychanged.com/guides/xbox-game-pass-plans-and-prices-2026-every-price-change/</id><updated>2026-11-09T12:00:00Z</updated><summary>Short answer: when we checked Microsoft&#x27;s US store on November 9, 2026, Game Pass Ultimate was $22.99 a month, Premium $14.99, Essential $9.99 and PC Game Pass $13.99. Ultimate peaked at $29.99 in October 2025 before Microsoft cut it in April 2026, and from November every console plan includes only a set number of cloud gaming hours a month.</summary></entry><entry><title>Netlify Dec 4 terms: verified domains can see staff accounts and may absorb them</title><link href="https://quietlychanged.com/changes/2026-11-09-netlify-dec-4-terms-a-verified-email-domain-can-see-your-account-and-public-sit/"/><id>https://quietlychanged.com/changes/2026-11-09-netlify-dec-4-terms-a-verified-email-domain-can-see-your-account-and-public-sit/</id><updated>2026-11-09T12:00:00Z</updated><summary>Netlify published a changelog on Nov 4, 2026 saying it updated its Self-Serve Subscription Agreement, Privacy Statement and Acceptable Use Policy, and that the changes take effect on December 4, 2026. We compared the live Self-Serve Subscription Agreement PDF (Last Updated: November 4, 2026) to the prior PDF archived by the Wayback Machine on Oct 16, 2026 (Last Updated: October 1, 2025), and read the live Privacy Statement (Last updated: November 4, 2026).
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>QuietlyChanged</title><link href="https://quietlychanged.com/"/><link rel="self" href="https://quietlychanged.com/feed.xml"/><id>https://quietlychanged.com/</id><updated>2026-11-10T12:00:00Z</updated><entry><title>Fable 5.2 API pricing: $40 output, 20% cheaper than Fable 5.1 (Nov 10, 2026)</title><link href="https://quietlychanged.com/changes/2026-11-10-anthropic-claude-fable-5-2-launches-at-20-lower-output-and-caching-prices-than/"/><id>https://quietlychanged.com/changes/2026-11-10-anthropic-claude-fable-5-2-launches-at-20-lower-output-and-caching-prices-than/</id><updated>2026-11-10T12:00:00Z</updated><summary>Anthropic&#x27;s pricing page changed overnight. The featured API model card that read &quot;Fable 5.1&quot; on Nov 9 reads &quot;Fable 5.2&quot; on Nov 10, with the same description: &quot;Next generation intelligence for long-running agents.&quot;
+
+## Change 1: Lower prices on the new model
+
+Fable 5.1&#x27;s card listed prompt caching at $0.25 per million tokens (MTok) to read and $12.50 to write, and output at $50 / MTok. Fable 5.2&#x27;s card lists caching at $0.20 to read and $10 to write, and output at $40 / MTok. Each of those is 20% lower. Our snapshot of the Fable 5.2 card did not capture an input-token figure, so we are not reporting one; Fable 5.1&#x27;s input rate was $10 / MTok.
+
+## Change 2: Fable 5.1 moves to the older-models list
+
+Fable 5.1 now appears further down the page, alongside Haiku 4.5, still at its old rates: $0.25 cache read, $12.50 cache write, $10 input and $50 output per MTok.
+
+## Change 3: Fast mode covers Fable 5.2
+
+The fast mode line changed from &quot;Get up to 2.5x faster speeds with fast mode for Opus 5.5 at 2x standard pricing&quot; to &quot;...for Opus 5.5 and Fable 5.2 at 2x standard pricing.&quot;
+
+What you can do: API customers still on Fable 5.1 pay the higher rates until they switch model versions.
+
+What stays the same: The consumer plan cards still say Fable is included on Max and Ultra &quot;up to half your weekly limit&quot; and is &quot;paid with usage credits&quot; on Pro.</summary></entry><entry><title>Microsoft privacy statement update: workplace data sources, logged-out age checks (Nov 2026)</title><link href="https://quietlychanged.com/changes/2026-11-10-microsoft-365-microsoft-adds-outside-workplace-and-productivity-data-companies/"/><id>https://quietlychanged.com/changes/2026-11-10-microsoft-365-microsoft-adds-outside-workplace-and-productivity-data-companies/</id><updated>2026-11-10T12:00:00Z</updated><summary>Microsoft revised its privacy statement. We compared the Nov 10 capture with Nov 9.
+
+## Change 1: A new source of personal data
+
+The list of sources Microsoft collects data from (which already included &quot;Publicly available sources, such as open public sector, academic, and commercial data sets&quot;) gains a new line: &quot;Companies that provide workplace and productivity data for research, development, and improvement of our products and services.&quot; The statement doesn&#x27;t name those companies.
+
+## Change 2: Age protections without signing in
+
+The age-appropriate experiences section, which already covered age range signals from app stores and sharing age group information with third-party apps, adds: &quot;In services you can use without logging in, we may use device-based information to help us apply age-appropriate protections.&quot;
+
+## Change 3: More device data named
+
+Device data examples now read: &quot;IP addresses, age of the device, device identifiers and type, device language and locale settings, nearby networks,&quot; adding device age, type and language settings.
+
+## Change 4: Personalized offers off still uses some data
+
+A new paragraph says that if you turn off Personalized offers in Windows, Microsoft &quot;may use basic account data and contextual info about your device&quot; to avoid irrelevant tips and ads, for example &quot;your active subscriptions to avoid showing you ads for products you have already purchased.&quot;
+
+## Change 5: Phone Link rewritten, location sharing added
+
+The separate Android and iPhone sections of Phone Link were merged into one &quot;linked mobile experiences&quot; section that also covers apps such as WhatsApp. It adds a Location sharing feature: &quot;You can access location information from your mobile device after you choose to enable this feature.&quot; Microsoft still says it does not store the content of your texts, call history, photos, files or notifications on its servers, except where a feature says otherwise.
+
+The page does not state a new effective date in our capture.</summary></entry><entry><title>Xbox Game Pass plans and prices (November 2026): Ultimate, Premium, Essential and PC Game Pass compared</title><link href="https://quietlychanged.com/guides/xbox-game-pass-plans-and-prices-2026-every-price-change/"/><id>https://quietlychanged.com/guides/xbox-game-pass-plans-and-prices-2026-every-price-change/</id><updated>2026-11-09T12:00:00Z</updated><summary>Short answer: when we checked Microsoft&#x27;s US store on November 9, 2026, Game Pass Ultimate was $22.99 a month, Premium $14.99, Essential $9.99 and PC Game Pass $13.99. Ultimate peaked at $29.99 in October 2025 before Microsoft cut it in April 2026, and from November every console plan includes only a set number of cloud gaming hours a month.</summary></entry><entry><title>Netlify Dec 4 terms: verified domains can see staff accounts and may absorb them</title><link href="https://quietlychanged.com/changes/2026-11-09-netlify-dec-4-terms-a-verified-email-domain-can-see-your-account-and-public-sit/"/><id>https://quietlychanged.com/changes/2026-11-09-netlify-dec-4-terms-a-verified-email-domain-can-see-your-account-and-public-sit/</id><updated>2026-11-09T12:00:00Z</updated><summary>Netlify published a changelog on Nov 4, 2026 saying it updated its Self-Serve Subscription Agreement, Privacy Statement and Acceptable Use Policy, and that the changes take effect on December 4, 2026. We compared the live Self-Serve Subscription Agreement PDF (Last Updated: November 4, 2026) to the prior PDF archived by the Wayback Machine on Oct 16, 2026 (Last Updated: October 1, 2025), and read the live Privacy Statement (Last updated: November 4, 2026).
 
 ## Change 1: Verified Domains can see that your account exists
 
