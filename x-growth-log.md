@@ -1697,3 +1697,45 @@ Reach per tier (final-ish): replies over 45 min stay single digits even when the
 - O1 pinned roundup (logo grid) + /due-soon/ self-reply; pin replaces 2117292806964400275.
 - Booking.com self-reply (from Nov 8), post once.
 - No quote (no in-lane 500K+). No extra original; the deep dive should hold its X post unless Samuel OKs a 2nd.
+
+## Session 2026-11-09 ~5:20 PM MT (Monday evening)
+Account (public X read 5:22 PM MT): **23 followers** (up 2 from 21 this AM), 14 following, 229 posts. Pinned = Nov 9 roundup 2119832006922215798. Nothing posted since the AM batch; the Rakuten deep-dive X post (social/2026-11-09/deepdive/) is **not posted**, still held for Samuel's OK.
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 9 9:27 AM | Wario64 PS5 Pro reply 2119829155328164046 | reply | 23 | 372K | **11,096** | 19 | 0 | 1 | 4 |
+| Nov 9 9:32 AM | PopBase SKIMS/Klarna reply 2119830466039816629 | reply | 59 | 2.10M | 599 | 0 | 0 | 0 | 0 |
+| Nov 9 9:38 AM | Due-soon roundup original (pinned) 2119832006922215798 | original | – | – | 37 | 0 | 0 | 1 | 0 |
+| Nov 9 9:38 AM | Roundup self-reply 2119832132893941886 | self-reply | – | – | 7 | 0 | 0 | 0 | 0 |
+| Nov 9 9:43 AM | Booking.com self-reply 2119833328748732749 | self-reply | – | – | 23 | 0 | 0 | 0 | 0 |
+| Nov 8 3:32 PM | Booking.com Wallet Credits original 2119558682870731172 | original (2nd) | – | – | 39 | 0 | 0 | 1 | 0 |
+| Nov 8 9:48 AM | Quote thsottiaux OpenAI Pro 2119472199358930944 | parent-quote | ~11 h | 2.94M | 23 | 0 | 0 | 0 | 0 |
+| Nov 8 9:42 AM | JetBlue self-reply 2119470629854593305 | self-reply | – | – | 29 | 0 | 0 | 0 | 0 |
+| Nov 8 9:37 AM | JetBlue bag-fee original 2119469244165538293 | original | – | – | 33 | 0 | 0 | 1 | 0 |
+| Nov 8 9:31 AM | Dexerto Ram reply 2119467769670565901 | reply | 46 | 1.94M | 7 | 0 | 0 | 0 | 0 |
+| Nov 8 9:25 AM | IGN PS Plus perks reply 2119466242910433690 | reply | 85 | 172K | 10 | 0 | 0 | 0 | 0 |
+| Nov 7 6:26 PM | Quote Dexerto/Claude deleted files 2119224994941255993 | parent-quote | ~4 h | 1.38M | 28 | 2 | 0 | 0 | 0 |
+
+Reach per tier (replies; parent size at reply time):
+- 50K+ and ≤45 min: Wario64 (≈50K at 21 min when drafted, 23 min at post) → **11,096**. Best reply the account has ever had.
+- 50K+ and >45 min: SKIMS 599 (59 min, 2.1M parent), Dexerto 7 (46 min, 1.9M), IGN 10 (85 min, 172K).
+- 20–50K: no replies in this window.
+- Parent-quotes (tracked separately): 23 and 28, both posted hours after the parent.
+- Originals 33–39; self-replies 7–29.
+
+### What we learned
+1. Timing decides everything: the same day, same image style, a reply at 23 min under a still-climbing parent got 11.1K impressions and +2 followers; one at 59 min under a 2.1M parent got 599; 46+ min replies on Nov 8 got single digits. Keep the ≤30-minute target for replies.
+2. A "before you buy" fine-print fact on a deal/restock post (PS5 Pro: no disc drive, $79 add-on, price ladder) gets bookmarks (4), so deal posts from Wario64/charlieINTEL are the best lane for receipt-style replies.
+3. Originals and quotes stay flat at 20–40 no matter how strong the topic; growth is coming only from fast replies.
+
+### Topic log
+- GTA VI pre-load night (Xbox live 5 PM MT; PS5 midnight local): 212GB, code-in-box no disc, $79.99/$99.99. Reply under charlieINTEL (93K at 23 min).
+- ISP promo fine print: Xfinity 15-day boost clock starts at claim, redeem by Dec 3; legacy 1.2TB caps. Reply under FearedBuck (50K at 33 min).
+- AI memory/privacy: Gemini Memory summary editing ≠ deleting chats; reviewed chats kept 3 years. Conditional reply under PopBase (36K at 62 min, slowing).
+
+### Drafted (social/2026-11-09/pm/xgrowth-pm-drafts.md)
+- R1 charlieINTEL GTA 6 pre-load (93.3K / 53 / 23 min at 5:23 PM MT): Rockstar logo + pre-load card.
+- R2 FearedBuck Xfinity boost (49.7K / 26 / 33 min): Xfinity logo + fine-print card.
+- R3 conditional PopBase Gemini (36.1K / 27 / 62 min): Gemini logo + Privacy Hub card.
+- No quote (no in-lane 500K+ parent). No original (slot used); Rakuten still held.
+- Flag: 2118843009706205494 (Nov 6, an Elon/Tesla opinion reply under @Luzemielle) is on the @QuietlyChanged timeline and off-brand; Samuel may want to check who posted it.
