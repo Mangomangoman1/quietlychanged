@@ -1774,3 +1774,8 @@ Reach per tier (replies; parent size at reply time):
 - R2 Wario64 Xbox record (55.1K / 22 / 20 min): Xbox logo + Microsoft pre-order card.
 - R3 charlieINTEL PS Store record (35.0K / 24 / 15 min): PlayStation logo + same Sony card (alt: DiscussingFilm 132.5K / 94).
 - No quote (no in-lane 500K+). No original (Nov 10 slot used). Rakuten still held.
+
+### Posted (Nov 10 AM, box browser as @QuietlyChanged)
+- R1 Wario64 PS Store GTA VI record reply: https://x.com/QuietlyChanged/status/2120189485866729526 (9:18 AM MT, ~33 min after parent, parent ~116K) with PlayStation logo + refund fine-print card.
+- R2 Wario64 Xbox GTA VI record reply: https://x.com/QuietlyChanged/status/2120191238385320065 (9:25 AM MT, ~29 min, parent ~55K+) with Xbox logo only (dropped fine-print card: one line sourced from a fan guide, not verified on Xbox's own page).
+- R3 charlieINTEL PS Store record reply: https://x.com/QuietlyChanged/status/2120192972876816434 (9:32 AM MT, ~30 min, parent 52.6K) with PlayStation logo + refund card.
