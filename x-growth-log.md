@@ -1739,3 +1739,38 @@ Reach per tier (replies; parent size at reply time):
 - R3 conditional PopBase Gemini (36.1K / 27 / 62 min): Gemini logo + Privacy Hub card.
 - No quote (no in-lane 500K+ parent). No original (slot used); Rakuten still held.
 - Flag: 2118843009706205494 (Nov 6, an Elon/Tesla opinion reply under @Luzemielle) is on the @QuietlyChanged timeline and off-brand; Samuel may want to check who posted it.
+
+## Session 2026-11-10 ~9:15 AM MT (Tuesday AM)
+Account (public X read 9:13 AM MT): **23 followers** (flat since Nov 9 PM), 14 following, 234 posts, 112 media. Pinned = Nov 9 roundup 2119832006922215798. Since last session: Nov 9 PM replies (3) and Fable 5.2 original + self-reply posted.
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 10 6:22 AM | Fable 5.2 self-reply 2120145063309398192 | self-reply | – | – | 10 | 0 | 0 | 0 | 0 |
+| Nov 10 6:21 AM | Fable 5.2 pricing original 2120144891267408200 | original | – | – | 12 | 0 | 0 | 1 | 0 |
+| Nov 9 5:36 PM | Gemini memory reply 2119952330057785823 | reply | 76 | 90K | 10 | 0 | 0 | 0 | 0 |
+| Nov 9 5:31 PM | Xfinity boost reply 2119950957631111510 | reply | 41 | 243K | 32 | 0 | 0 | 0 | 0 |
+| Nov 9 5:27 PM | GTA 6 pre-load reply 2119950005478047762 | reply | 27 | 335K | 15 | 0 | 0 | 0 | 0 |
+| Nov 9 9:27 AM | Wario64 PS5 Pro reply 2119829155328164046 | reply | 23 | 485K | **11,844** | 20 | 0 | 3 | 4 |
+| Nov 9 9:32 AM | PopBase SKIMS reply 2119830466039816629 | reply | 59 | 3.00M | 602 | 0 | 0 | 0 | 0 |
+| Nov 9 9:38 AM | Roundup original (pinned) 2119832006922215798 | original | – | – | 39 | 0 | 0 | 1 | 0 |
+
+Reach per tier (replies; parent size at reply time):
+- 50K+ and ≤45 min: Wario64 PS5 Pro (23 min) **11,844**; charlieINTEL GTA pre-load (27 min, ~93K) **15**; Xfinity (41 min, ~50K) 32. Timing alone doesn't explain it.
+- 50K+ and >45 min: SKIMS 602 (59 min); Gemini 10 (76 min, ~36K then, 90K now).
+- 20–50K: none this window.
+- Parent-quotes: none this window.
+- Originals 12–39; self-replies 10.
+
+### What we learned
+1. Fast isn't enough: the GTA pre-load reply was 27 min under a 93K→335K charlieINTEL parent yet got 15 impressions. Wario64 PS5 Pro (23 min) got 11.8K. Difference: Wario64 deal posts have few replies and a buying audience, while the GTA pre-load thread had 117 replies of hype and Rockstar fans, with our reply ranked low. Prefer Wario64/deal-style parents with <60 replies.
+2. Evening (5:30 PM MT) replies all flopped (10–32), so the Monday PM window looks weak vs the 9–10 AM window.
+3. The Fable original got 12 impressions in 3 hours; originals are still flat (12–39). Followers flat at 23.
+
+### Topic log
+- GTA VI "most pre-ordered ever" (PS Store + Microsoft Store announced ~8:44–9:00 AM MT) + PS5 pre-load opened midnight today: Sony refunds end once the main download starts (auto-downloads count); Microsoft lets you cancel online until the Nov 19 launch (billed = refund).
+
+### Drafted (social/2026-11-10/am/xgrowth-am-drafts.md)
+- R1 Wario64 PS Store record (115.6K / 52 / 31 min at 9:16 AM MT): PlayStation logo + PS Store refund fine-print card.
+- R2 Wario64 Xbox record (55.1K / 22 / 20 min): Xbox logo + Microsoft pre-order card.
+- R3 charlieINTEL PS Store record (35.0K / 24 / 15 min): PlayStation logo + same Sony card (alt: DiscussingFilm 132.5K / 94).
+- No quote (no in-lane 500K+). No original (Nov 10 slot used). Rakuten still held.
