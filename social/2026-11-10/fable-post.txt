@@ -1,0 +1,7 @@
+Anthropic just cut the price of its top model.
+
+Fable 5.2 is now on the pricing page at $40 per million output tokens, down from $50 for Fable 5.1. Prompt caching is 20% cheaper too ($0.20 read, $10 write).
+
+Fable 5.1 stays listed at the old rates.
+
+https://quietlychanged.com/changes/2026-11-10-anthropic-claude-fable-5-2-launches-at-20-lower-output-and-caching-prices-than/
