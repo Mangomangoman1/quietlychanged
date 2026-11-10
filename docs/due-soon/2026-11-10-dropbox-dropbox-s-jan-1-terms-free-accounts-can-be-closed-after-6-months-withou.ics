@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dropbox · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-10-dropbox-dropbox-s-jan-1-terms-free-accounts-can-be-closed-a
+ fter-6-months-withou@quietlychanged.com
+DTSTAMP:20261110T200229Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Dropbox: Takes effect
+DESCRIPTION:From Jan 1\, 2027\, Dropbox can close a free account after 6 m
+ onths without use\, down from 12. Users must be 18\, and keeping an accou
+ nt means you accept the new terms.\n\nhttps://quietlychanged.com/changes/
+ 2026-11-10-dropbox-dropbox-s-jan-1-terms-free-accounts-can-be-closed-afte
+ r-6-months-withou/
+URL:https://quietlychanged.com/changes/2026-11-10-dropbox-dropbox-s-jan-1-
+ terms-free-accounts-can-be-closed-after-6-months-withou/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Dropbox — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

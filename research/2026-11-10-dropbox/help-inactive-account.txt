@@ -1,0 +1,267 @@
+
+ -->
+ Main navigation
+ Help center
+ Community
+ Dropbox learn
+ Contact support
+ Help center
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ Community
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ Dropbox learn
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ Contact support
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ -->
+ Open/close search
+Clear
+SearchLoading
+ Help center
+ Account
+ Account access
+ Billing
+ Account settings
+ Plans
+ Storage space
+ Security
+ Using Dropbox
+ Sync
+ Delete and restore
+ Share
+ View and edit
+ Installs
+ Create and upload
+ Organize
+ Integrations
+ AI integrations
+ Products
+ Dropbox Dash
+ Dropbox Protect
+ Dropbox Sign
+ Dropbox DocSend
+ Dropbox Backup
+ Dropbox Replay
+ Dropbox Transfer
+ Get started
+-->
+Clear
+SearchLoading
+ Dropbox Help Center - How to use Dropbox 
+ Account access 
+ What to do if you got an email about an inactive Dropbox account
+ What to do if you got an email about an inactive Dropbox account
+ Updated Aug 31, 2026
+ In this article
+What does "inactive" mean?How to keep your Dropbox accountHow to close your Dropbox accountFAQs about account closures
+ person icon
+  The information in this article applies to users on Dropbox Basic.
+ Dropbox may close and delete inactive Dropbox Basic accounts. If there's no activity on your Dropbox account for an extended period of time, Dropbox will notify you (the account owner) by email.
+To keep your account active, log in and we'll know you want to keep it. If you no longer want your account, you can close it instead.
+What does "inactive" mean?
+Dropbox determines inactive accounts by looking at log-ins and file activity (adding, editing, or deleting) anywhere on Dropbox during the past 12 months. If you've logged in or had any file activity on Dropbox within the previous 12 months, your account is considered active.
+ highlighter icon
+ Note: Activity on other Dropbox services, such as Dropbox Sign or DocSend, doesn’t count as Dropbox account activity.
+ How to keep your Dropbox account
+Why did I receive an email even though I use Dropbox?
+If you recently used your Dropbox account but still received an email about account closure, it's likely the email refers to a different Dropbox account that you no longer use or may have forgotten about.
+Many of our users have multiple Dropbox accounts, and even the addition or removal of a period (".") from the email address can indicate a different account.
+Before contacting support, check the following:
+Confirm that the email was sent to the same email address you actively use with Dropbox.
+Check whether the email was forwarded from another email account.
+If you have multiple email addresses, log in to each Dropbox account to verify which one the email refers to.
+If you’ve confirmed that the email refers to the Dropbox account you actively use and believe you received it in error, you can contact Dropbox support using the instructions at the bottom of this article.
+How do I keep my account active?
+To keep your account active:
+Log in to your account on dropbox.com, the Dropbox desktop app on your computer, or the Dropbox mobile app.
+Use any Dropbox app on your account.
+View, add, edit, or remove files or folders.
+ What if I forgot my password?
+You can reset your password if you’ve forgotten it.
+What if I’ve lost access to my email address?
+If you no longer have access to the email address associated with your Dropbox account, you can contact your email service provider to try to regain access. If you’re not sure what the email address on your Dropbox account is, learn how to find your Dropbox account email.
+ How to close your Dropbox account
+If you no longer want your Dropbox Basic account, you can simply leave it inactive. If your account is eligible for deletion due to inactivity, we’ll send you multiple reminder emails before your account is closed. Each reminder includes the scheduled deletion date and explains how to keep your account active.
+If we don’t notify you that your account is inactive, your account won’t be deleted due to inactivity.
+Can I close my account now?
+If you want to close your account, visit the account deletion page. You can also learn how to close a Dropbox Basic, Plus, Family, or team account.
+How do I save my files before closing my account?
+You can log in to dropbox.com or the Dropbox mobile app and save your files onto your hard drive or mobile device.
+ highlighter icon
+ Note: Logging in again will reset the 12-month clock. After you’ve got the files you need, you can manually close your account.
+ What happens when my account closes?
+After your account is closed, any remaining files in your account will be subject to deletion, and you won't be able to log into the account on dropbox.com or any of the devices on which you have installed the Dropbox app.
+Learn more about our closed-account policy.
+Does Dropbox delete files after inactivity?
+If you receive an email that your account is inactive and don’t take steps to keep it active, we’ll send multiple reminder emails before it’s automatically closed, and your files will be deleted within 90 days. Each email includes the scheduled deletion date and explains what to do to keep your account.
+If you don’t receive an email about account inactivity, your account won’t be subject to deletion for inactivity.
+ FAQs about account closures
+I tried to log in, but got a message that my account doesn't exist
+The “Account doesn’t exist” message usually means the email address you entered doesn’t match the one associated with your Dropbox account. First, try logging in again and check that you’ve entered the correct email address. If that doesn’t work, and you received an email about an inactive account, it’s possible your account has already been closed. If so, contact us using the instructions below.
+Can I recover an account that was closed?
+Dropbox doesn't reopen accounts that were closed because of inactivity. If your account was closed without permission, and you have proof that it wasn’t you (like signs of suspicious activity), we may be able to help. Contact Dropbox support to look into it.
+Who do I contact Dropbox about account closures?
+If you have questions about an account closure or an inactivity email:
+Log out of your Dropbox account.
+Navigate to our sign in issues support page.
+From the What’s your issue? dropdown, select Disabled account.
+Complete the form.Note: Under email, enter the email associated with the account you're asking about. 
+Click Submit.
+ highlighter icon
+ Note: Account closures only affect users on Dropbox Basic. If you have a paid account and you received an inactivity email, you likely also have a Dropbox Basic account associated with that email address.
+ Was this article helpful?
+ Yes, thanks!
+ Not really
+ Let us know how why it didn't help:
+ Thanks for letting us know! 
+ The article didn't answer my question
+ The steps in the article didn't work for me
+ I found this article confusing and difficult to read
+ Other
+ Please enter feedback before submitting.
+ Submit feedback
+ Thanks for your feedback!
+ Related Articles
+ How many devices can I use with my Dropbox account?
+ -->
+ Discover the device limit for your Dropbox plan, what to do if your device limit is reached, and how admins can manage device limits for their teams.
+ View article
+ -->
+ Can I log in to Dropbox without access to my email address?
+ -->
+ No longer have access to the email address associated with your Dropbox account? Learn what to do and how to recover your account.
+ View article
+ -->
+ Find account email
+ -->
+ To log in to Dropbox, you use with the email address associated with your account. Learn how to find the email address on your Dropbox account.
+ View article
+ -->
+ Issues logging in to Dropbox using Sign in with Apple
+ -->
+ If you’re seeing an error message when you try to log in to Dropbox with Sign in with Apple, it could be an issue with your Apple ID. Learn more.
+ View article
+ -->
+ Community answers
+ I want to download all my Dropbox files into OneDrive
+ Posted by: M_Spano
+ 382 days ago
+ 918
+ 2
+ If I pay for a subscription, can my Dropbox account still be deleted due to inactivity?
+ Posted by: [Deleted User]
+ 863 days ago
+ 1296
+ 3
+ My password expired and I didn’t have my email anymore, and other account issues.
+ Posted by: Jose_Jimenez
+ 1592 days ago
+ 1798
+ 0
+ Gmail and Dropbox
+ Posted by: Amy
+ 1875 days ago
+ 8166
+ 8
+ Hackers abusing Dropbox to access Gmail?!!!
+ Posted by: gebruikersnaam
+ 2532 days ago
+ 8343
+ 11
+ Other ways to get help
+ Contact support
+ Community
+ Social media support
+ Footer-Help
+ Dropbox
+ Desktop app
+ Mobile app
+ Integrations
+ Features
+ Solutions
+ Security
+ Early access
+ Templates
+ Free tools
+ Products
+ Plus
+ Professional
+ Business
+ Enterprise
+ Dash
+ DocSend
+ Dropbox Sign
+ Reclaim.ai
+ Plans
+ Product updates
+ Features
+ Send large files
+ Send long videos
+ Cloud photo storage
+ Secure file transfer
+ Cloud backup
+ Edit PDFs
+ Electronic signatures
+ Convert to PDF
+ Support
+ Help center
+ Contact us
+ Privacy & terms
+ Cookie policy
+ Cookies & CCPA preferences
+ AI principles
+ Sitemap
+ Learning resources
+ Resources
+ Blog
+ Events
+ Customer stories
+ Resources library
+ Developers
+ Community forums
+ Referrals
+ Reseller partners
+ Integration partners
+ Find a partner
+ Company
+ About us
+ Jobs
+ Investor relations
+ Corporate responsibility
+ Choose a language
+ Bahasa Indonesia
+ Bahasa Malaysia
+ Dansk
+ Deutsch
+ English (Australia)
+ English (United Kingdom)
+ English (United States)
+ Español (España)
+ Español (Latinoamérica)
+ Français (France)
+ Italiano
+ Nederlands
+ Norsk (bokmål)
+ Polski
+ Português (Brasil)
+ Pусский
+ Svenska
+ Українська
+ ไทย
+ 中文（简体）
+ 中文（繁體）
+ 日本語
+ 한국어
+ English (United States)

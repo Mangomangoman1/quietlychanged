@@ -76,21 +76,6 @@
       "statusCode": 301
     },
     {
-      "source": "/services/dropbox",
-      "destination": "/services.html#dropbox",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/dropbox/",
-      "destination": "/services.html#dropbox",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/dropbox/index.html",
-      "destination": "/services.html#dropbox",
-      "statusCode": 301
-    },
-    {
       "source": "/services/emotiv",
       "destination": "/services.html#emotiv",
       "statusCode": 301
@@ -178,21 +163,6 @@
     {
       "source": "/services/mailchimp/index.html",
       "destination": "/services.html#mailchimp",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/microsoft-365",
-      "destination": "/services.html#microsoft-365",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/microsoft-365/",
-      "destination": "/services.html#microsoft-365",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/microsoft-365/index.html",
-      "destination": "/services.html#microsoft-365",
       "statusCode": 301
     },
     {

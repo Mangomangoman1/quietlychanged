@@ -1,0 +1,244 @@
+
+ -->
+ Main navigation
+ Help center
+ Community
+ Dropbox learn
+ Contact support
+ Help center
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ Community
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ Dropbox learn
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ Contact support
+ Open/close secondary menu-->
+ Open/close tertiary menu
+ BackClose tertiary menu
+ -->
+ -->
+ Open/close search
+Clear
+SearchLoading
+ Help center
+ Account
+ Account access
+ Billing
+ Account settings
+ Plans
+ Storage space
+ Security
+ Using Dropbox
+ Sync
+ Delete and restore
+ Share
+ View and edit
+ Installs
+ Create and upload
+ Organize
+ Integrations
+ AI integrations
+ Products
+ Dropbox Dash
+ Dropbox Protect
+ Dropbox Sign
+ Dropbox DocSend
+ Dropbox Backup
+ Dropbox Replay
+ Dropbox Transfer
+ Get started
+-->
+Clear
+SearchLoading
+ Dropbox Help Center - How to use Dropbox 
+ Security 
+ Dropbox Terms of Service and Privacy Policy updates
+ Dropbox Terms of Service and Privacy Policy updates
+ Updated Aug 14, 2026
+ In this article
+ person icon
+ The information in this article applies to all Dropbox users unless otherwise stated.
+ We’re constantly looking for ways to improve the Dropbox experience with new feature offerings and to ensure that our policies explain how our services work. So we’re letting you know about a few updates to our Dropbox Services Agreement, Terms of Service, and Privacy Policy. Here’s a summary of the key changes:
+Dropbox Services AgreementWe’ve clarified your and Dropbox’s right to disclose confidential information in the event of certain types of regulatory audits.
+We’ve changed the scope of your and Dropbox’s indemnification obligations in the case of misuse, and we’ve updated what happens when a customer experiences an acquisition or change of control.
+We’ve clarified that Dropbox may now only be used by those over 18.
+We’ve made some stylistic and structural changes to improve the clarity of the Agreement.
+Terms of ServiceWe will begin allowing users to access multiple individual and team workspaces with a single account. We’ve revised our Terms to explain what it means if you use this feature.
+We’ve clarified that Dropbox may now only be used by those over 18.
+We’ve updated our policies on refunds, the notice period for changes to our fees, and users’ obligations if they don’t agree to updates to our Terms of Service.
+We’ve changed the time period of inactivity required before we may terminate non-paying accounts to 6 consecutive months. We’ll continue to provide notice before doing so.
+We’ve clarified what happens if you use your corporate email address to join a non-Team plan.
+Privacy PolicyWe’ve added details on how your data is handled when you access multiple individual and team workspaces with a single account, including clarifying what team admins can see.
+We’ve further explained our collection and use of your data to better identify what data is being used for which purposes.
+We’ve included additional details on how to appeal decisions we make about how we handle your data.
+Learn more by reading our updated Dropbox Services Agreement, Terms of Service, and Privacy Policy, and our blog post.
+When do these updates take effect?
+The updated Terms of Service, Privacy Policy, and Dropbox Services Agreement take effect on January 1, 2027.
+Will these updates affect the way I use Dropbox?
+You can continue using Dropbox the same way you always have to store and share your stuff. But we’ve made a few changes to our Terms of Service and Privacy Policy that will help support the ability for users to join multiple teams or workspaces using a single account. 
+For example, changes to our Privacy Policy clarify what type of information your team admin may be able to view regarding changes in account state for all of your accounts, and Dropbox’s role as controller or processor in this scenario. Changes to our Terms of Service make clear, for example, what legal agreement will apply to each of your workspaces.
+How old must I be to use Dropbox?
+Starting January 1, 2027, you must be at least 18 years old in order to use Dropbox.
+How do these updates affect how my data is used or shared?
+For many users, these updates do not change how your data is used or shared, as they only clarify or better explain our existing handling of your data. For users who wish to join multiple team or plan workspaces using a single account, these updates set out how this will work.
+What changes are you making to your refund policy?
+Previously, our policy stated that we would only offer refunds where legally required. We’re clarifying that we may also grant refunds in other limited circumstances.
+What changes did you make regarding users’ obligations if they don’t agree to Dropbox’s Terms of Service updates?
+Our update clarifies that if you don’t agree with updates we make to the Terms of Service, you must cancel and delete your account before the updated Terms become effective. By maintaining an account after the updates come into effect, you agree to be bound by the revised Terms.
+What if I don’t want to agree to these terms?
+You will agree to our updated Terms by maintaining a Dropbox account after the effective date of the updated Terms. If, after reviewing the updates, you decide that you don’t want to agree to these Terms, you must cancel your account subscription following the steps outlined here and delete your account following the steps outlined here.
+Do these changes apply to me if I’m an existing Dropbox team customer?
+The changes to our Terms of Service don't affect your Dropbox team’s agreement. The changes to the Dropbox Services Agreement will instead apply to you. 
+ Was this article helpful?
+ Yes, thanks!
+ Not really
+ Let us know how why it didn't help:
+ Thanks for letting us know! 
+ The article didn't answer my question
+ The steps in the article didn't work for me
+ I found this article confusing and difficult to read
+ Other
+ Please enter feedback before submitting.
+ Submit feedback
+ Thanks for your feedback!
+ Related Articles
+ Data storage
+ -->
+ All files stored in Dropbox are encrypted and secured in online servers. Learn more about Dropbox servers, where they're located, and how to change where your data is stored.
+ View article
+ -->
+ Digital Services Act (DSA) Information
+ -->
+ Learn about how Dropbox complies with the Digital Services Act (DSA) implemented by the European Parliament.
+ View article
+ -->
+ Dropbox incident response policies and procedures
+ -->
+ Learn about Dropbox incident response policies, and the procedures in place to address service availability, integrity, security, privacy, confidentiality, and more.
+ View article
+ -->
+ How Dropbox responds to legal requests for information
+ -->
+ Dropbox sometimes receives requests from governments for information about users. Learn how Dropbox responds to legal requests for information.
+ View article
+ -->
+ Community answers
+ Dropbox Community Guidelines
+ Posted by: DBXCommunity
+ 188 days ago
+ 194
+ 0
+ My Dropbox account was deleted by a business partner. How can I restore it?
+ Posted by: swap0
+ 394 days ago
+ 437
+ 7
+ Uploading Videos to Vimeo
+ Posted by: Optiknerd
+ 1034 days ago
+ 2770
+ 4
+ Incorrect name in Dropbox email
+ Posted by: Srgreenwood
+ 1121 days ago
+ 10918
+ 11
+ Can Dropbox’s trusted third party companies request to view the files in my account?
+ Posted by: Thoughts
+ 1604 days ago
+ 3521
+ 4
+ Other ways to get help
+ Contact support
+ Community
+ Social media support
+ Footer-Help
+ Dropbox
+ Desktop app
+ Mobile app
+ Integrations
+ Features
+ Solutions
+ Security
+ Early access
+ Templates
+ Free tools
+ Products
+ Plus
+ Professional
+ Business
+ Enterprise
+ Dash
+ DocSend
+ Dropbox Sign
+ Reclaim.ai
+ Plans
+ Product updates
+ Features
+ Send large files
+ Send long videos
+ Cloud photo storage
+ Secure file transfer
+ Cloud backup
+ Edit PDFs
+ Electronic signatures
+ Convert to PDF
+ Support
+ Help center
+ Contact us
+ Privacy & terms
+ Cookie policy
+ Cookies & CCPA preferences
+ AI principles
+ Sitemap
+ Learning resources
+ Resources
+ Blog
+ Events
+ Customer stories
+ Resources library
+ Developers
+ Community forums
+ Referrals
+ Reseller partners
+ Integration partners
+ Find a partner
+ Company
+ About us
+ Jobs
+ Investor relations
+ Corporate responsibility
+ Choose a language
+ Bahasa Indonesia
+ Bahasa Malaysia
+ Dansk
+ Deutsch
+ English (Australia)
+ English (United Kingdom)
+ English (United States)
+ Español (España)
+ Español (Latinoamérica)
+ Français (France)
+ Italiano
+ Nederlands
+ Norsk (bokmål)
+ Polski
+ Português (Brasil)
+ Pусский
+ Svenska
+ Українська
+ ไทย
+ 中文（简体）
+ 中文（繁體）
+ 日本語
+ 한국어
+ English (United States)

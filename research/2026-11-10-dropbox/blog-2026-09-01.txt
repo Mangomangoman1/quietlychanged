@@ -1,0 +1,84 @@
+
+ -->
+ Share
+ 'close share' @ i18n}
+ Twitter
+ Facebook
+ LinkedIn
+ Copy Link
+ open search
+ close search
+ -->
+ -->
+ -->
+ Company
+ Updates to our Terms of Service, Privacy Policy, and Dropbox Services Agreement
+ By
+ Dropbox Team
+ Published on
+ September 01, 2026
+ -->
+We’re constantly looking for ways to improve the Dropbox experience with new feature offerings and ensure that our policies explain how our services work. So we’re letting you know about a few updates to our Dropbox Services Agreement, Terms of Service, and Privacy Policy. Here’s a summary of the key changes:
+Dropbox Services Agreement   
+We’ve clarified your and Dropbox’s right to disclose confidential information in the event of certain types of regulatory audits. 
+We’ve changed the scope of your and Dropbox’s indemnification obligations in the case of misuse, and we’ve updated what happens when a customer experiences an acquisition or change of control. 
+We’ve clarified that Dropbox may now only be used by those over 18. 
+We’ve made some stylistic and structural changes to improve the clarity of the Agreement.
+Terms of Service
+We’ll begin allowing users to access multiple individual and team workspaces with a single account. We’ve revised our Terms to explain what it means if you use this feature. 
+We’ve clarified that Dropbox may now only be used by those over 18. 
+We’ve updated our policies on refunds, the notice period for changes to our fees, and users’ obligations if they don’t agree to updates to our Terms of Service. 
+We’ve changed the time period of inactivity required before we may terminate non-paying accounts to 6 consecutive months. We’ll continue to provide notice before doing so.
+We’ve clarified what happens if you use your corporate email address to join a non-Team plan. 
+Privacy Policy
+We’ve added details on how your data is handled when you access multiple individual and team workspaces with a single account, including clarifying what team admins can see. 
+We’ve further explained our collection and use of your data to better identify what data is being used for which purposes.
+We’ve included additional details on how to appeal decisions we make about how we handle your data.
+Please take a look at the full Dropbox Services Agreement, Terms of Service, and Privacy Policy, which will go into effect on January 1, 2027. You can also find our previous Terms here, our previous Privacy Policy here, and the previous Dropbox Services Agreement here. For more details, visit our Help Center.
+ Filed under
+ News
+ Company
+ The Author
+ -->
+ -->
+ -->
+ Dropbox Team
+ Share
+ 'close share' @ i18n}
+ Twitter
+ Facebook
+ LinkedIn
+ Copy Link
+ Related Articles
+ -->
+ -->
+ -->
+ Congratulations to our new co-CEO, Ashraf Alkarmi!
+ By
+ Dropbox Team
+ -->
+ -->
+ -->
+ Welcome Ali Dasdan, our new Chief Technology Officer
+ By
+ Dropbox Team
+ -->
+ -->
+ -->
+ Dropbox and NVIDIA Team to Bring Personalized Generative AI to Millions of Customers
+ By
+ Dropbox Team
+ -->
+ -->
+ -->
+ The context layer for AI: Bringing trusted Dropbox content into OpenAI workflows
+ By
+ Dropbox Team
+ Get the latest from Dropbox in your inbox.
+ Get the latest from Dropbox
+ In the future, we may send you information about Dropbox products and services.
+ In the future we may email about Dropbox products and services.
+ Thank you! A confirmation email has been sent.
+ Please enter a valid email address.
+ Close
+-->

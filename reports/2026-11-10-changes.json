@@ -82,5 +82,136 @@
    "Use Microsoft's privacy dashboard via the Privacy support and requests page if you want to see or delete data tied to your account"
   ],
   "what": "Microsoft revised its privacy statement. We compared the Nov 10 capture with Nov 9.\n\n## Change 1: A new source of personal data\n\nThe list of sources Microsoft collects data from (which already included \"Publicly available sources, such as open public sector, academic, and commercial data sets\") gains a new line: \"Companies that provide workplace and productivity data for research, development, and improvement of our products and services.\" The statement doesn't name those companies.\n\n## Change 2: Age protections without signing in\n\nThe age-appropriate experiences section, which already covered age range signals from app stores and sharing age group information with third-party apps, adds: \"In services you can use without logging in, we may use device-based information to help us apply age-appropriate protections.\"\n\n## Change 3: More device data named\n\nDevice data examples now read: \"IP addresses, age of the device, device identifiers and type, device language and locale settings, nearby networks,\" adding device age, type and language settings.\n\n## Change 4: Personalized offers off still uses some data\n\nA new paragraph says that if you turn off Personalized offers in Windows, Microsoft \"may use basic account data and contextual info about your device\" to avoid irrelevant tips and ads, for example \"your active subscriptions to avoid showing you ads for products you have already purchased.\"\n\n## Change 5: Phone Link rewritten, location sharing added\n\nThe separate Android and iPhone sections of Phone Link were merged into one \"linked mobile experiences\" section that also covers apps such as WhatsApp. It adds a Location sharing feature: \"You can access location information from your mobile device after you choose to enable this feature.\" Microsoft still says it does not store the content of your texts, call history, photos, files or notifications on its servers, except where a feature says otherwise.\n\nThe page does not state a new effective date in our capture."
+ },
+ {
+  "service": "Dropbox",
+  "page": "terms",
+  "headline": "Dropbox's Jan 1 terms: free accounts can be closed after 6 months without a login, and you must be 18",
+  "tldr": "From Jan 1, 2027, Dropbox can close a free account after 6 months without use, down from 12. Users must be 18, and keeping an account means you accept the new terms.",
+  "impact": 3,
+  "themes": [
+   "shutdowns",
+   "accept-or-else"
+  ],
+  "effective": "2027-01-01",
+  "deadline": "Takes effect",
+  "url": "https://www.dropbox.com/terms2026",
+  "who": "Anyone with a free Dropbox Basic account, especially people who keep old files there and rarely sign in, plus users aged 13 to 17 and anyone with several Dropbox accounts on one email address.",
+  "seo_title": "Dropbox terms change Jan 1, 2027: free accounts closed after 6 months inactive, 18+ only",
+  "seo_desc": "Dropbox's new terms, effective January 1, 2027, cut the inactivity window for free accounts from 12 months to 6, raise the minimum age to 18, and say keeping your account means you accept. What changed and what to do.",
+  "redline": [
+   {
+    "before": "you don’t have a Paid Account and haven't accessed our Services for 12 consecutive months.",
+    "after": "you don’t have a Paid Account and haven't accessed our Services for 6 consecutive months.",
+    "label": "Terms of Service · Termination",
+    "note": "The inactivity window for free accounts is cut in half.",
+    "src": "quoted"
+   },
+   {
+    "before": "to use our Services, you must be at least 13 if you reside in the United States, and 16 if you reside anywhere else.",
+    "after": "to use our Services, you must be at least 18. Dropbox may use and rely on information from third parties, including age signals from app stores, for the purpose of enforcing this restriction.",
+    "label": "Terms of Service · Your Stuff & Your Permissions (eligibility)",
+    "note": "Teens are out, and Dropbox may check ages using app-store signals.",
+    "src": "quoted"
+   },
+   {
+    "before": "please cancel your account and stop using the Services before the updated Terms become effective. ... By continuing to use or access the Services after the updates come into effect, you agree to be bound by the revised Terms.",
+    "after": "please cancel and delete your account before the updated Terms become effective. ... By maintaining an account after the updates come into effect, you agree to be bound by the revised Terms.",
+    "label": "Terms of Service · Changes to these Terms",
+    "note": "Just keeping an account, even one you never open, now counts as agreeing.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "Sign in to any free Dropbox account you want to keep before January 1, 2027, and at least every few months after that (log-ins and adding, editing or deleting files count)",
+   "Check old email addresses for Dropbox inactivity notices; the reminder emails include the scheduled deletion date",
+   "If you don't accept the new terms, or you're under 18, sign in at dropbox.com or in the mobile app and save your files to your own device before January 1, 2027, then delete the account"
+  ],
+  "what": "Dropbox posted new Terms of Service and a new Privacy Policy on September 1, 2026. Both take effect January 1, 2027. We compared the new terms (dropbox.com/terms2026, marked \"Posted: September 1, 2026\" and \"Effective: January 1, 2027\") with the terms in force today (\"Posted: January 7, 2025\"), and did the same for the privacy policy (in force since May 30, 2025). We fetched all four on Nov 10, 2026. Dropbox's announcement leads with a new feature, using one account for several personal and team workspaces. Several changes for free users are listed further down.\n\n## Change 1: Free accounts can be closed after 6 months, not 12\n\nThe current terms let Dropbox suspend or terminate your access with notice if you \"don't have a Paid Account and haven't accessed our Services for 12 consecutive months.\" The new terms say \"6 consecutive months.\" The rest of the clause stays the same: Dropbox says it will give \"reasonable advance notice via the email address associated with your account\" and a chance to \"export Your Stuff\" first. Dropbox's announcement adds: \"We'll continue to provide notice before doing so.\"\n\nThis matters most to people on Dropbox Basic, the free 2 GB plan, who keep old files there and rarely sign in. Dropbox's help page on inactive accounts (checked Nov 10, 2026) still describes the old rule. It says activity means \"log-ins and file activity (adding, editing, or deleting) anywhere on Dropbox during the past 12 months,\" and that \"Logging in again will reset the 12-month clock.\" The page also says: \"If we don't notify you that your account is inactive, your account won't be deleted due to inactivity,\" and that you'll get \"multiple reminder emails\" with the scheduled deletion date. Activity on Dropbox Sign or DocSend \"doesn't count.\"\n\nWhen the clock matters: if the six-month test applies as soon as the terms take effect, a free account nobody has signed in to since before July 1, 2026 would already be past six months on January 1, 2027. Dropbox hasn't said whether it counts inactivity from before January 1.\n\n## Change 2: You must be 18 to use Dropbox\n\nThe current terms say you must be \"at least 13 if you reside in the United States, and 16 if you reside anywhere else.\" The new terms say \"you must be at least 18,\" and add: \"Dropbox may use and rely on information from third parties, including age signals from app stores, for the purpose of enforcing this restriction.\" Dropbox's help page says: \"Starting January 1, 2027, you must be at least 18 years old in order to use Dropbox.\" Neither the terms nor the help pages say what happens to accounts that 13- to 17-year-olds already have, or to their files.\n\n## Change 3: To say no, you now have to delete your account\n\nThe current terms say that if you don't agree to an update, \"please cancel your account and stop using the Services,\" and that \"continuing to use or access the Services\" means you agree. The new terms say \"please cancel and delete your account,\" and \"By maintaining an account after the updates come into effect, you agree to be bound by the revised Terms.\" Dropbox's help page spells it out: \"You will agree to our updated Terms by maintaining a Dropbox account after the effective date of the updated Terms.\" So an account you never open still counts as agreeing on January 1.\n\n## Other changes\n\nRefunds: \"Refunds are only issued if required by law\" becomes \"Refunds are only issued in limited circumstances or if required by law.\" Dropbox's help page calls this a clarification that \"we may also grant refunds in other limited circumstances.\" The terms don't say what those circumstances are.\n\nPrice-change notice: the promise of \"no less than 30 days' advance notice\" of a new renewal price now starts with \"Unless a shorter notice period is necessitated by applicable law.\" You still get the chance to cancel before the new fee.\n\nSeveral accounts on one email: the new terms treat each team or personal workspace you join as \"its own account\" and say \"Actions taken on one account, including suspension, deletion, termination, or removal from a Dropbox Team, may impact your access to or use of the Services.\" If an admin removes you from a team and deletes that account, \"you may be unable to access your other accounts until you change the email address for those accounts.\" And: \"If you have multiple accounts associated with the same email address, and we suspend or terminate your access to the Services, that action may apply to all associated accounts.\"\n\nWork email addresses: today, your organization \"may be able to block\" a personal Dropbox account opened with a work address. The new terms add that \"even if your organization does not block your use of Dropbox, we may block your use of Dropbox\" until you move to a Dropbox Team or switch to a personal email address.\n\nPrivacy policy: the new policy adds that team admins \"may be able to view changes in account state for your other accounts, such as suspension, deletion, termination, account capture, or removal from another Dropbox Team,\" and a way to appeal privacy decisions (email privacy@dropbox.com). It also now points straight to its FAQ \"for more detail regarding how Your Stuff may be used to improve the Services.\" That FAQ says (the sentence has been there since at least April 2025, per the Wayback Machine): \"We may build models that identify keywords and topics from a given document. These models may be trained on your documents and metadata, and power features within Dropbox such as improved search relevance, auto-sorting and organization features, and document summaries.\"\n\n## How 6 months compares\n\nGoogle says it may delete a personal Google Account \"if you are inactive across Google for at least two years\" (Google Account Help, checked Nov 10, 2026). Microsoft's Services Agreement (effective Sept 30, 2026) says you \"must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period, otherwise we will close your Outlook.com inbox and your OneDrive for you,\" and sign in to the Microsoft account itself at least once every two years. From January 1, Dropbox's limit for free accounts is half of OneDrive's and a quarter of Google's. Proton went the other way this month: it now waits 24 months, not 12, before it can delete an unused free account (see our Nov 6 report on Proton).\n\nWhat you can do: If you have a free Dropbox account you care about, sign in at dropbox.com or in the app before January 1 and at least every few months after that. Dropbox counts log-ins and adding, editing or deleting files. Watch for Dropbox emails about inactivity, including at old email addresses: the help page notes that many people have more than one account. If you'd rather not accept the new terms, the only way out is to download your files and delete your account before January 1, 2027. Under-18s, and parents of teens with accounts, should download any files they want to keep now.\n\nCoverage (checked Nov 10, 2026): Dropbox announced the update on its blog on Sept 1, 2026, and in its help center. SMBtech (Sept 20) covered the 18+ age limit and the six-month window, Security Online covered the six-month window, and the independent Dropbox Watchdog site published a clause-by-clause comparison. We found no coverage in major consumer or tech outlets, and none that compared the new limit with Google's and Microsoft's or pointed out that the inactive-account help page still says 12 months.",
+  "faq": [
+   [
+    "When do Dropbox's new terms take effect?",
+    "January 1, 2027. Dropbox posted the new Terms of Service and Privacy Policy on September 1, 2026, at dropbox.com/terms2026 and dropbox.com/privacy2026."
+   ],
+   [
+    "Will Dropbox delete my free account if I don't use it?",
+    "It can. From January 1, 2027, the terms let Dropbox suspend or terminate access to a free account that hasn't accessed the service for 6 consecutive months, down from 12. Dropbox says it will email you first and give you a chance to export your files. Its help page says it sends multiple reminders with the scheduled deletion date, and that an account won't be deleted for inactivity if you weren't notified."
+   ],
+   [
+    "What counts as activity on Dropbox?",
+    "Dropbox's help page says it looks at log-ins and file activity (adding, editing, or deleting) anywhere on Dropbox. Activity on Dropbox Sign or DocSend doesn't count. Signing in to dropbox.com, the desktop app or the mobile app resets the clock."
+   ],
+   [
+    "Does this affect paid Dropbox plans?",
+    "The inactivity rule only applies to accounts without a Paid Account. The 18+ age limit, the new refund wording, the multi-account rules and the 'maintaining an account' acceptance apply to all personal accounts. Dropbox team customers are covered by the separate Dropbox Services Agreement, which also now requires users to be over 18."
+   ],
+   [
+    "I'm under 18. Can I still use Dropbox?",
+    "Not after January 1, 2027. The new terms say you must be at least 18 and that Dropbox may use app-store age signals to enforce it. Dropbox hasn't said what happens to existing teen accounts, so download any files you want to keep."
+   ],
+   [
+    "How do I reject Dropbox's new terms?",
+    "You can't keep the account and reject them. Dropbox's help page says you agree 'by maintaining a Dropbox account after the effective date', and that if you don't agree you must cancel any subscription and delete your account before January 1, 2027."
+   ],
+   [
+    "Does Dropbox use my files to train AI?",
+    "Dropbox's privacy FAQ, which the new policy now points to, says it may build models that identify keywords and topics in documents and that 'these models may be trained on your documents and metadata' to power search, auto-sorting and document summaries. That FAQ wording has been there since at least April 2025 (Wayback Machine); it isn't new on January 1."
+   ],
+   [
+    "How does Dropbox's 6-month limit compare with Google and OneDrive?",
+    "Google may delete a personal Google Account after at least two years of inactivity. Microsoft closes an Outlook.com inbox and OneDrive if you don't sign in to each at least once a year. Dropbox's new limit for free accounts is six months."
+   ]
+  ],
+  "sources": [
+   [
+    "Dropbox Terms of Service (posted Sept 1, 2026; effective Jan 1, 2027)",
+    "https://www.dropbox.com/terms2026"
+   ],
+   [
+    "Dropbox Terms of Service (in force; posted Jan 7, 2025)",
+    "https://www.dropbox.com/terms"
+   ],
+   [
+    "Dropbox Privacy Policy (posted Sept 1, 2026; effective Jan 1, 2027)",
+    "https://www.dropbox.com/privacy2026"
+   ],
+   [
+    "Dropbox Privacy Policy (in force; May 30, 2025)",
+    "https://www.dropbox.com/privacy"
+   ],
+   [
+    "Dropbox blog: Updates to our Terms of Service, Privacy Policy, and Dropbox Services Agreement (Sept 1, 2026)",
+    "https://blog.dropbox.com/topics/company/updates-to-our-terms-of-service-and-privacy-policy-2026"
+   ],
+   [
+    "Dropbox Help: Terms of Service and Privacy Policy updates",
+    "https://help.dropbox.com/security/terms-service-privacy-policy"
+   ],
+   [
+    "Dropbox Help: What to do if you got an email about an inactive Dropbox account",
+    "https://help.dropbox.com/account-access/email-about-inactive-account"
+   ],
+   [
+    "Dropbox Help: Privacy Policy FAQ",
+    "https://help.dropbox.com/security/privacy-policy-faq"
+   ],
+   [
+    "Google Account Help: Inactive Google Account policy",
+    "https://support.google.com/accounts/answer/12418290?hl=en"
+   ],
+   [
+    "Microsoft Services Agreement (effective Sept 30, 2026)",
+    "https://www.microsoft.com/en-us/servicesagreement"
+   ],
+   [
+    "Dropbox Watchdog: New Terms from 1 January 2027",
+    "https://dropboxwatchdog.com/issues/2026-terms-rewrite-six-month-inactivity-over-18"
+   ],
+   [
+    "SMBtech: Dropbox raises minimum age to 18, halves inactivity window (Sept 20, 2026)",
+    "https://smbtech.au/news/dropbox-raises-minimum-age-to-18-halves-inactivity-window-and-lets-users-access-multiple-accounts/"
+   ]
+  ],
+  "modified": "2026-11-10"
  }
 ]
