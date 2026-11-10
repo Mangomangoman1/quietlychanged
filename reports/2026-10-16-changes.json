@@ -58,7 +58,7 @@
   "service": "Robinhood",
   "page": "terms",
   "headline": "Auto-enrolls accounts in class-action claims, keeps 20% of payouts",
-  "what": "Robinhood's Customer Agreement (revised October 1, 2026) adds Section 36A, a \"Class Action Service\" whose terms take effect \"on or after November 18, 2026.\" It reads: \"Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.\" Robinhood and a third-party vendor will automatically file claims for you in securities class-action settlements involving stocks held in your account, and the RHF Fee Schedule sets the Class Action Service Fee at \"20% of the class action settlement proceeds received on your behalf.\" Enrollment lets Robinhood appoint the vendor \"as your agent and attorney-in-fact,\" binds you to the settlement's releases, and means \"you cannot separately bring a lawsuit, at any time, against any named defendant\" in a case where a claim was filed for you. You also can't submit your own claim form for that settlement. Robinhood says it will notify you before each filing. You get seven business days to exclude that case, and you can unenroll from the service at any time through the app or Robinhood Customer Service. The September 1, 2026 version of the agreement had no such section. Settlement administrators don't usually charge anything to file your own claim form, so staying enrolled by default costs you a fifth of any payout. Other brokers run similar auto-enrolled services, but the cut varies: E*TRADE from Morgan Stanley's vendor deducts 6% of payments (etrade.com class action terms), Edward Jones' administrator Broadridge deducts 15% (Edward Jones service disclosure), and Interactive Brokers charges a 20% contingency fee (IBKR Securities Class Action Recovery page), so Robinhood's 20% sits at the top of that range. Checked October 16, 2026.",
+  "what": "Robinhood's Customer Agreement (revised October 1, 2026) adds Section 36A, a \"Class Action Service\" whose terms take effect \"on or after November 18, 2026.\" It reads: \"Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.\" Robinhood and a third-party vendor will automatically file claims for you in securities class-action settlements involving stocks held in your account, and the RHF Fee Schedule sets the Class Action Service Fee at \"20% of the class action settlement proceeds received on your behalf.\" Enrollment lets Robinhood appoint the vendor \"as your agent and attorney-in-fact,\" binds you to the settlement's releases, and means \"you cannot separately bring a lawsuit, at any time, against any named defendant\" in a case where a claim was filed for you. You also can't submit your own claim form for that settlement. Robinhood says it will notify you before each filing. You get seven business days to exclude that case, and you can unenroll from the service at any time through the app or Robinhood Customer Service. The September 1, 2026 version of the agreement had no such section. Settlement administrators don't usually charge anything to file your own claim form, so staying enrolled by default costs you a fifth of any payout. Other brokers run similar auto-enrolled services, but the cut varies: E*TRADE from Morgan Stanley's vendor deducts 6% of payments (etrade.com class action terms), Edward Jones' administrator Broadridge deducts 15% (Edward Jones service disclosure), Interactive Brokers charges a 20% contingency fee (IBKR Securities Class Action Recovery page), and Vanguard's Class Action Service lists a fee of 20% of class-action settlement funds recovered on your behalf (Vanguard Brokerage Services commission and fee schedules, effective July 10, 2026), so Robinhood's 20% sits at the top of that range with Interactive Brokers and Vanguard. Other brokers checked October 16, 2026; Vanguard's fee schedule checked November 10, 2026.",
   "who": "Robinhood brokerage customers, especially anyone holding individual stocks that later become part of securities class-action settlements",
   "url": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
   "seo_title": "Robinhood Class Action Service: auto-enrollment on Nov 18, 2026 and a 20% fee (how to opt out)",
@@ -86,7 +86,7 @@
    {
     "after": "20% of the class action settlement proceeds received on your behalf",
     "label": "RHF Fee Schedule · Class Action Service Fee",
-    "note": "E*TRADE's vendor takes 6%, Edward Jones' 15%.",
+    "note": "E*TRADE's vendor takes 6%, Edward Jones' 15%, IBKR 20%, Vanguard 20%.",
     "src": "quoted",
     "before": ""
    }
@@ -113,7 +113,13 @@
     "Yes. Once a claim is filed for you, you \"cannot separately bring a lawsuit, at any time, against any named defendant\" in that case, and you're bound by the settlement's releases. If you unenroll, you can still submit a claim form directly to the claims administrator yourself."
    ]
   ],
-  "modified": "2026-10-25"
+  "modified": "2026-11-10",
+  "sources": [
+   [
+    "Vanguard Brokerage Services commission and fee schedules (effective July 10, 2026)",
+    "https://investor.vanguard.com/client-benefits/investment-fees"
+   ]
+  ]
  },
  {
   "service": "DoorDash",
