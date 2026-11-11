@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chase · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-11-chase-chase-bars-external-ai-and-data-aggregators-from-usin
+ g-your-login-and-may@quietlychanged.com
+DTSTAMP:20261111T221509Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Chase: May require app by
+DESCRIPTION:Chase bars external AI and aggregators from using your login\,
+  and says to change a shared password. From Jan 1\, 2027\, it may require
+  the mobile app and a Trusted Device.\n\nhttps://quietlychanged.com/chang
+ es/2026-11-11-chase-chase-bars-external-ai-and-data-aggregators-from-usin
+ g-your-login-and-may/
+URL:https://quietlychanged.com/changes/2026-11-11-chase-chase-bars-externa
+ l-ai-and-data-aggregators-from-using-your-login-and-may/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Chase — May require app by
+END:VALARM
+END:VEVENT
+END:VCALENDAR

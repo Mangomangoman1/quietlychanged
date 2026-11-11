@@ -330,5 +330,8 @@
  },
  "Dave & Buster's": {
   "privacy": "https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy"
+ },
+ "Chase": {
+  "terms": "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf"
  }
 }

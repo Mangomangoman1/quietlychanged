@@ -200,5 +200,99 @@
     "https://en.wikipedia.org/wiki/Dave_%26_Buster%27s"
    ]
   ]
+ },
+ {
+  "service": "Chase",
+  "page": "terms",
+  "headline": "Chase bars external AI and data aggregators from using your login, and may require the mobile app and a Trusted Device from Jan 1, 2027",
+  "tldr": "Chase bars external AI and aggregators from using your login, and says to change a shared password. From Jan 1, 2027, it may require the mobile app and a Trusted Device.",
+  "impact": 3,
+  "themes": [
+   "ai-and-your-data",
+   "accept-or-else"
+  ],
+  "effective": "2027-01-01",
+  "deadline": "May require app by",
+  "url": "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf",
+  "who": "Anyone who uses Chase Online, Chase Mobile, Chase Business Online, Chase Point of Sale, J.P. Morgan Online or J.P. Morgan Mobile — especially customers who have given a budgeting app, data aggregator or AI assistant their login.",
+  "seo_title": "Chase Digital Services Agreement (Oct 2026): External AI login bar, Trusted Device from Jan 1, 2027",
+  "seo_desc": "Chase's Digital Services Agreement, last updated October 2026, bars External AI, automated tools and data aggregators from using your login (effective Oct 27). From Jan 1, 2027, it may require the Chase mobile app and a Trusted Device, or deny access.",
+  "redline": [
+   {
+    "before": "If you permit any other person or entity, including any data aggregation service providers, to use the Digital Platforms or to access or use your Card numbers, account numbers, PINs, user IDs, Passwords, or other means to access your accounts, you are responsible for any transactions and activities performed from your accounts",
+    "after": "Third parties — including External AI, automated tools, or data aggregators — are prohibited from using your Login Credentials to access the Digital Platforms or your accounts or Services thereon.",
+    "label": "Digital Services Agreement · sharing credentials (Wayback Feb 19, 2022 capture, last updated 4/1/2021, vs. October 2026 text)",
+    "note": "The 2021 wording made you responsible if you let an aggregator in. The October 2026 wording forbids External AI, automated tools and aggregators from using your login.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "If you have shared your Login Credentials with any third party, you must change those credentials to ensure that the third party can no longer use them or access your information through the Digital Platforms.",
+    "label": "Digital Services Agreement · key changes cover and sharing section (effective October 27, 2026)",
+    "note": "If you already gave a budgeting app or AI tool your password, Chase says you have to change it.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "Effective January 1, 2027, we may require you to (i) download and use our mobile application, and (ii) use a Trusted Device, as defined in this agreement to verify your identity. Until you do, we may deny access to our Digital Platforms, the Services, and your accounts, unless an accommodation is required by law.",
+    "label": "Digital Services Agreement · key changes cover (last updated October 2026)",
+    "note": "This January 1, 2027 date is in the cover summary. The body section \"Authentication via Trusted Device\" has the same may-require and may-deny language, without that date.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "If you have shared your Chase login with any third party (an AI tool, a budgeting app, an aggregator), change that password, as the October 2026 agreement requires",
+   "Before January 1, 2027, install the Chase Mobile app on a smartphone you control and only you use; Chase may deny access to online banking until you do, unless an accommodation is required by law",
+   "Don't give your Chase username and password to an AI agent or aggregator; the agreement says third-party access is permitted through approved APIs with your authorization"
+  ],
+  "what": "Chase's Digital Services Agreement, the contract for Chase Online, Chase Mobile, Chase Business Online, Chase Point of Sale, J.P. Morgan Online and J.P. Morgan Mobile, was last updated October 2026. We fetched the current PDF at static.chasecdn.com (dsa1_la.pdf) on November 11, 2026. A longer related PDF at the same library (dsa_la.pdf) is last updated November 2026 and opens with the same two dated changes, plus new Zelle Brokerage terms; the quotes below are from dsa1_la.pdf unless noted.\n\nThe October 2026 PDF opens with a \"We're making key changes\" cover. Two dates matter.\n\n## Change 1: External AI, automated tools and data aggregators may not use your login (effective October 27, 2026)\n\nThe cover says: \"Effective October 27, 2026, we have made changes to ratify your obligation to not share credentials with third parties and that third parties — including External AI, automated tools, or data aggregators — are prohibited from using your Login Credentials to access the Digital Platforms or your accounts or Services thereon. We permit third-party applications and tools, including External AI, to access customer account data through approved application programming interfaces (\"APIs\") with your authorization.\"\n\nThe same paragraph continues: \"If you have shared your Login Credentials with any third party, you must change those credentials to ensure that the third party can no longer use them or access your information through the Digital Platforms.\"\n\nThat wording is repeated in the body under \"Sharing Your Login Credentials with Third Parties is Prohibited.\" The definitions section says \"External AI: means, collectively, Third-party AI and Third-party AI Agent, and includes any provider thereof.\" A \"Third-party AI Agent\" includes \"any AI-based software or service provided by a third party that takes autonomous, semi-autonomous, or non-autonomous action on behalf of, or at the instruction of, any person (human or entity), including you.\" \"Login Credentials\" are \"PINs, user IDs, passwords, biometrics, security keys, syncable authenticators (e.g., passkeys), or any other means of accessing the Digital Platforms or your accounts or Services thereon.\"\n\nIf you still let a third party, \"including External AI,\" access the platforms or your accounts, a long \"Consequences\" list says you \"expressly authorize that third party to transact in your account,\" that Chase will \"rely on, and treat as evidence of your authorization, any actions taken or instructions given by the third party as if you personally took or gave those actions or instructions,\" and that you \"assume all risks and losses associated with such access or use.\" Chase also \"reserve[s] the right to deny, decline, suspend, or terminate your access to the Digital Platforms, your accounts, or Services — including access facilitated by External AI or other third party — or to close your account(s), at any time, in our sole discretion and without notice. This may render External AI or your account(s) non-functional.\"\n\nWhat it replaces (Wayback, fetched November 11, 2026): the Internet Archive has two captures of this same dsa1_la.pdf URL, from December 30, 2020 and February 19, 2022. We fetched the February 19, 2022 file. It is last updated 4/1/2021. Its \"Passwords & Other Sensitive Information\" section says you agree \"to protect and keep confidential your Card number, account number, PIN, user ID, Password, or other means of accessing your accounts via the Digital Platforms.\" It also says: \"If you permit any other person or entity, including any data aggregation service providers, to use the Digital Platforms or to access or use your Card numbers, account numbers, PINs, user IDs, Passwords, or other means to access your accounts, you are responsible for any transactions and activities performed from your accounts and for any use of your personal and account information by any person or entity to whom they may provide that personal and account information.\" There is no \"External AI\" definition, no ban on automated tools using your login, no instruction to change a password you have already shared, and no Trusted Device section. We could not retrieve a later pre-October 2026 capture of the related dsa_la.pdf from the Wayback Machine in this session (the archive listed captures through September 26, 2026, but returned HTTP 429). Intermediate versions may exist; the comparison above is to the 2022 capture of this same filename.\n\n## Change 2: From January 1, 2027, Chase may require the mobile app and a Trusted Device, and may deny access until you comply\n\nThe cover says: \"Effective January 1, 2027, we may require you to (i) download and use our mobile application, and (ii) use a Trusted Device, as defined in this agreement to verify your identity. Until you do, we may deny access to our Digital Platforms, the Services, and your accounts, unless an accommodation is required by law.\"\n\nThe body section \"Authentication via Trusted Device\" repeats the may-require and may-deny language but does not repeat the January 1, 2027 date: \"To help protect your account from fraud and unauthorized access, we may require you to download and use our mobile application, and use a Trusted Device, as defined in this Agreement, to verify your identity. Until you do, we may deny access to our Digital Platforms, the Services, and your accounts, unless an accommodation is required by law. You should use only your personal device – one you control and only you use – as your Trusted Device. If you lose access to your Trusted Device (for example, if it is lost or stolen), you may need to verify a new one via Trusted Device Enrollment, as defined in this Agreement, which could temporarily delay your ability to access our Digital Platforms, accounts, or complete transactions and other banking activities.\"\n\nA Trusted Device is defined as \"A smartphone that (1) runs a Supported Mobile Operating System, and (2) we recognize as your trusted device after you use our mobile applications (for example, the Chase Mobile® app) and meet our security requirements, which we may modify from time to time in our sole discretion.\" Trusted Device Enrollment \"may include specific identity verification and authentication methods (for example, taking a photo of an acceptable form of identification with your smartphone camera).\"\n\nChase's customer FAQ (chase.com/personal/banking/education/basics/trusteddevice, fetched November 11, 2026) matches that definition: \"A trusted device is a smartphone that you’ve verified with the Chase Mobile app in accordance with requirements established by Chase.\" It also says: \"Currently, only smartphones with the Chase Mobile app installed and a supported operating system (such as iOS 16.0 or later or Android 11 or later) can be trusted devices. Tablets, laptops, desktop computers, and iPads are not eligible at this time.\" And: \"For your security, only use your own device to access your Chase account, and don't enroll a device you share.\" The FAQ does not mention the January 1, 2027 date.\n\nWhat you can do: if you have given your Chase password to an app, an aggregator or an AI assistant, change it. Before January 1, 2027, if you want to keep using Chase in a browser, be ready to enroll a personal smartphone in the Chase Mobile app; the agreement says Chase may deny access until you do, unless the law requires an accommodation. If you only have a tablet, laptop or shared phone, the FAQ says those are not eligible as Trusted Devices.\n\nCoverage (checked November 11, 2026): a November 4 Hunton Andrews Kurth alert in the National Law Review, \"Major banks move to block or limit customer-directed AI agents,\" discusses Chase alongside Schwab, Citi and Wells Fargo. Its table dates Chase's action to an October 13, 2026 earnings-call remark by Jamie Dimon and describes \"an updated Digital Services Agreement (effective Jan. 1, 2027)\" as providing that a customer who gives an AI agent access \"authorizes everything that AI agent does.\" The October 2026 PDF we fetched dates the External AI and credential-sharing rules to October 27, 2026, and uses January 1, 2027 for the Trusted Device and mobile-app requirement. The \"authorizes everything\" consequences are in the current PDF body, not only as a January 1 term. We did not find a consumer news story that quotes the October 27 External AI bar or the \"you must change those credentials\" line.\n",
+  "faq": [
+   [
+    "Can a budgeting app or AI assistant still log in to my Chase account with my password?",
+    "Not under the October 2026 agreement. From October 27, 2026, \"third parties — including External AI, automated tools, or data aggregators — are prohibited from using your Login Credentials\" to access Chase's digital platforms or your accounts. Chase says third-party apps, including External AI, may access account data \"through approved application programming interfaces (\"APIs\") with your authorization.\""
+   ],
+   [
+    "I already shared my Chase password with an app. What does the agreement say I should do?",
+    "Change it. The agreement says: \"If you have shared your Login Credentials with any third party, you must change those credentials to ensure that the third party can no longer use them or access your information through the Digital Platforms.\""
+   ],
+   [
+    "When might Chase require the mobile app and a Trusted Device?",
+    "The cover of the October 2026 Digital Services Agreement says: \"Effective January 1, 2027, we may require you to (i) download and use our mobile application, and (ii) use a Trusted Device… Until you do, we may deny access to our Digital Platforms, the Services, and your accounts, unless an accommodation is required by law.\" It is a \"may require,\" not a promise that every customer will be locked out on that date."
+   ],
+   [
+    "What counts as a Trusted Device?",
+    "The agreement defines it as a smartphone that runs a supported mobile operating system and that Chase recognizes after you use its mobile apps and meet its security requirements. Chase's FAQ (fetched November 11, 2026) says only smartphones with the Chase Mobile app and a supported OS (it gives iOS 16.0 or later or Android 11 or later as examples) can be trusted devices, and that tablets, laptops, desktop computers and iPads are not eligible at this time. It also says to use your own device and not to enroll a device you share."
+   ],
+   [
+    "Is this the same as Wells Fargo's Nov 24 AI-agent terms?",
+    "No. Wells Fargo's upcoming Online Access Agreement (effective November 24, 2026) lets AI agents be used but puts the risk on the customer. Chase's October 2026 agreement prohibits External AI, automated tools and data aggregators from using your login credentials, points them to approved APIs, and, from January 1, 2027, may require the mobile app and a Trusted Device."
+   ]
+  ],
+  "sources": [
+   [
+    "Chase Digital Services Agreement (dsa1_la.pdf, last updated October 2026)",
+    "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf"
+   ],
+   [
+    "Chase Digital Services Agreement (dsa_la.pdf, last updated November 2026; same Oct 27 and Jan 1 cover changes)",
+    "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa_la/versions/dsa_la.pdf"
+   ],
+   [
+    "Wayback Machine capture of dsa1_la.pdf, February 19, 2022 (last updated 4/1/2021)",
+    "https://web.archive.org/web/20220219003038/https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf"
+   ],
+   [
+    "Chase: Trusted Device Enrollment: FAQs & How It Works (fetched Nov 11, 2026)",
+    "https://www.chase.com/personal/banking/education/basics/trusteddevice"
+   ],
+   [
+    "National Law Review / Hunton Andrews Kurth: Major banks move to block or limit customer-directed AI agents (Nov 4, 2026)",
+    "https://natlawreview.com/article/major-banks-move-block-or-limit-customer-directed-ai-agents"
+   ],
+   [
+    "Wells Fargo Online Access Agreement (upcoming; Version Effective November 24, 2026)",
+    "https://www.wellsfargo.com/online-banking/online-access-agreement/upcoming/"
+   ]
+  ]
  }
 ]

@@ -1,0 +1,2859 @@
+Digital Services Agreement
+We’re making key changes:
+Effective October 27, 2026, we have made changes to ratify your obligation to not share
+credentials with third parties and that third parties — including External AI, automated tools,
+or data aggregators — are prohibited from using your Login Credentials to access the Digital
+Platforms or your accounts or Services thereon. We permit third-party applications and tools,
+including External AI, to access customer account data through approved application
+programming interfaces ("APIs") with your authorization.
+
+If you have shared your Login Credentials with any third party, you must change those
+credentials to ensure that the third party can no longer use them or access your information
+through the Digital Platforms.
+
+Effective January 1, 2027, we may require you to (i) download and use our mobile application,
+and (ii) use a Trusted Device, as defined in this agreement to verify your identity. Until you do,
+we may deny access to our Digital Platforms, the Services, and your accounts, unless an
+accommodation is required by law. Please see the Authentication via Trusted Device Section
+for more information.
+
+Last updated: October 2026
+
+This Digital Services Agreement ("DSA" or "Agreement") governs your use of the following
+websites and mobile applications owned by JPMorgan Chase Bank, National Association, an
+affiliate of such entity that holds your accounts or provides you services; and/or any agent,
+independent contractor, designee, or assignee that we may, at our sole discretion, involve in
+the provision of the following websites and mobile applications ("JPMC", "we", "us", or "our"):
+
+   • Chase Online
+   • Chase Mobile®
+   • Chase Business Online
+   • Chase Point of Sale (POS)SM
+   • J.P. Morgan Online
+   • J.P. Morgan Mobile (collectively, the "Digital Platforms").
+
+In this Agreement, we outline your obligations to us and our obligations to you as a user and
+provider of the Digital Platforms, respectively. Certain mobile products, services, functionality
+and associated documentation or software available on a mobile application or otherwise
+through the use of a mobile device or tablet device ("Mobile Services") and certain online
+products, services, functionality and associated documentation or software available on a
+website through the use of a desktop computer or laptop ("Online Services") are available to
+you on the Digital Platforms and certain third party digital platforms as determined by us
+from time to time, including products and services that use artificial intelligence (“AI”),
+(collectively, "Services"). These Services include, but are not limited to
+
+   • Alerts
+   • Bill Payments
+   • Transfers
+   • Personal Financial Management
+   • Gifting
+   • Real-Time Payments
+   • Digital wallets/third-party wallets
+
+If you have any questions regarding this Agreement, please call (877) CHASE-PC.
+
+NOTE: Unless otherwise defined within a provision, capitalized terms used in this Agreement
+have the meanings given to them in Section X. Definitions. Additionally, all references to the
+"Online Services Agreement" in any addenda to the Online Services Agreement, displayed on
+the Digital Platforms, or in any communications that we send to you, shall be replaced by this
+DSA.
+
+
+TABLE OF CONTENTS
+I. General Terms Applicable To Your Use of the Digital Platforms
+       General Terms
+       Fees Associated with the Digital Platforms & Services
+       Our Artificial Intelligence Features
+       Records; Communications
+       Account Information
+       Notices Associated with Electronic Communications, Change in Terms of this
+       Agreement, or New Features
+       Computer Equipment; Browser Access and Internet Services
+       Access to Digital Platforms and Services: Login Credentials and Other Sensitive
+       Information
+II. Terms Applicable to Your Use of the Mobile Services
+       Communications
+       Differences from the Online Services
+       Identity and Device Verification
+       Alerts
+III. Terms Applicable to your use of the Bill Payments and Transfers Services for both
+Consumer and Business Accounts
+       A. General Terms Applicable to your use of the Bill Payments and Transfers Services for
+       both Consumer and Business Accounts
+       B. Terms Applicable to Your Use of the Bill Payments & Transfers Services for Consumer
+       Accounts Only
+       C. Terms Applicable to your use of the Payments & Transfers Services for Business
+       Accounts Only
+IV. Terms Applicable to your use of the PFM Service
+       General Terms Applicable to PFM Software Users and Use of Other Third Party Software
+       The PFM Service
+       Cancellation of your PFM Service
+V. Terms Applicable to Your Investment Accounts
+       Use of Other Third Party Software for Asset Accounts
+       Risks of Electronic Transactions and Access to Information
+       Conflicts of Interest
+       Information Providers
+       Portfolio Information
+       Right to Restrict Access
+       Access by your JPMorgan Online Team
+       Access by your Advisors
+       Investment Products and Services; JPMorgan Funds
+VI. Terms Applicable to Your Use of the Gifting Service
+VII. Terms Applicable to Your Use of the Real-Time Payments Service
+       About the Real-Time Payments Service
+       Sending Funds
+       Risks Associated with the Real-Time Payments Service
+       Receiving Payments
+       Fees
+       Requests for Payment
+       Failed Service Transfers
+       Availability of Funds
+       Prohibited Payments
+       Transaction Errors; Unauthorized Transactions; Lost or Stolen Passwords
+VIII. Terms Applicable To Your Use of Digital Wallets with Chase Cards
+       Adding/Activating Your Chase Card
+       Chase Card Eligibility for PazeSM and other Wallets with Automatic Provisioning
+       Your Chase Card Terms Do Not Change
+       Applicable Fees
+       Chase Is Not Responsible for a Third-Party Wallet
+       Transaction History
+       Contacting You Electronically and by Email or through Your Mobile Device
+       Removing Your Chase Card from a Wallet
+       Governing Law and Disputes
+       Ending or Changing these Terms; Assignments
+       Privacy
+       Notices
+       Limitation of Liability; No Warranties
+       Questions
+IX. Additional Terms Applicable To All Users of the Digital Platforms
+       Limitation of Liability
+     No Warranties
+     Disputes
+     Binding Arbitration
+     What claims or disputes are subject to arbitration?
+     What about class actions or representative actions?
+     Does arbitration apply to Claims involving third parties?
+     How does arbitration work?
+     Is the arbitrator's decision final? Is there an appeal process?
+     Who will pay for costs?
+     How do I (customer) file an arbitration claim?
+     Choice of Law/Successors; Waiver; Severability
+     Restrictions
+     Termination; Availability; No Assignment
+     Privacy
+     Indemnity
+     Risk of Loss
+     Authorization for Minors and Children to Access Digital Platforms and Services
+     Special Provision for Business Customers
+     Intellectual Property
+X. Definitions
+
+
+I. General Terms Applicable To Your Use of the Digital
+Platforms
+
+General Terms
+
+This Agreement contains the terms and conditions that govern your use of the Digital
+Platforms and Services. When you use or access, or permit any other person(s) or entity(ies)
+to use or access the Digital Platforms or Services on your behalf, you agree to the terms and
+conditions of this Agreement.
+
+Additionally, you agree to be bound by and comply with such other written requirements as
+we may provide to the Digital Platforms or Services, including, but not limited to, all account
+agreements, any end user license agreement (EULA), and all applicable State, Federal and
+International laws and regulations. To the extent there is a conflict between the terms of this
+Agreement and your applicable account agreements with us, any addenda to this Agreement
+or any EULA provided in conjunction with your use of the Digital Platforms or Services, the
+terms of your account agreement, the addenda or EULA, as the case may be, will control
+except as may be otherwise stated in this Agreement.
+
+Services described in this Agreement, as well as any associated fees, charges, interest rates
+and balance requirements, may differ among geographic locations. Not all Services are
+offered at all locations. Therefore, you may not be eligible for all the Services described in this
+Agreement. We reserve the right to determine your eligibility for any Service. By offering the
+Services via the Digital Platforms, we make no distribution or solicitation to any person and/or
+entity to use the Services in jurisdictions where the provision of the Services is prohibited by
+law.
+
+Fees Associated with the Digital Platforms & Services
+
+   • General Access: General access to the Digital Platforms is currently provided to you at
+     no additional cost. However, you may incur fees if you access or use some of the
+     Services available on the Digital Platforms. Additionally, you will be responsible for
+     paying any telephone company or utility charges and/or Internet access service fees
+     incurred while using telephone lines and/or Internet access services to connect with the
+     Digital Platforms.
+   • Alerts: There is no service fee for Alerts services, but you are responsible for any and all
+     charges, including, but not limited to, fees associated with text messaging imposed by
+     your Communications Service Provider.
+   • Bill Payments & Transfers Services; Gifting Services: Unless otherwise noted in your
+     account agreement, we do not charge a monthly service fee for your use of the Bill
+     Payments Service, Transfers or the Gifting Service. If we process a Bill Payment, Transfer
+     or a Gifting transaction in accordance with your Instructions that overdraws your
+     account or exceeds your Chase credit card limit, we may assess a fee or charge interest
+     in accordance with the terms of your account agreement, Cardmember agreement, or
+     other applicable agreement.
+   • PFM Service Fees: Generally, when you use PFM Software to access your accounts
+     through the PFM Service, a fee may be charged by the PFM Software providers for the
+     use of such software, and additional terms and conditions may apply.
+     Consumer Accounts: There is no PFM Service Fee for customers who use the PFM Service
+     for their personal accounts.
+     Business Accounts: The PFM Service Fee for customers who use the PFM Service for their
+     Business Accounts is $9.95 each month. You authorize us to deduct this PFM Service Fee
+     each month from the eligible Business checking account or asset management account
+     you designate as your Primary Account. If there are insufficient funds in your Primary
+     Account, you authorize us to charge any other account of yours with us in order to pay
+     such fees and charges. The PFM Service Fee is in addition to any regular transaction fees
+     that may be in effect for your Business Account(s).
+
+Our Artificial Intelligence Features
+
+General
+
+Certain Services made available through the Digital Platforms may use artificial intelligence
+(“AI”) to process your requests, generate responses, or assist you in managing your accounts,
+including investment accounts. Additional account-level restrictions may apply. AI may be the
+default or only way to interact with certain Services.
+
+Customer Responsibilities
+
+You agree that you are responsible for the accuracy and completeness of all information,
+instructions, and requests you submit to Services that use AI, regardless of whether the AI
+feature is optional or required. You are also responsible for reviewing and verifying any
+information or responses provided by AI features before you act on the information or
+responses. You should not rely solely on AI for important decisions, and you are encouraged
+to independently confirm any information. You are responsible for any decisions you make or
+actions you take in reliance on AI outputs.
+
+Limitations of Artificial Intelligence
+
+You understand that responses generated by AI may be incorrect, incomplete, out of date, or
+not accurately reflect your intent. AI features may misunderstand your requests, lack full
+context, make mistakes, or not function as expected. We cannot guarantee that our AI
+outputs on the Digital Platforms will be uninterrupted or error-free. AI outputs do not
+constitute financial, investment, legal, tax, or other professional advice, guidance or
+recommendations and do not reflect our views or policies. AI features may be updated,
+suspended, or discontinued at our discretion.
+
+Reviewing and Reporting Issues with AI Responses
+
+You are responsible for reviewing all information, responses, and transactions generated or
+facilitated by AI features. If you believe that any information or transaction is incorrect,
+unauthorized, or inaccurate, you must notify us promptly through the contact methods and
+within the time frame stated within your account’s relevant agreement or the Service’s terms
+and conditions.
+
+Records; Communications
+
+Our records shall be presumed to accurately reflect the contents of your Instructions to us
+and, in the absence of manifest error, will be binding and conclusive.
+
+You agree to provide a valid e-mail address so that we may send you certain information
+related to the Digital Platforms, including but not limited to, for the purpose of servicing or
+managing any of your accounts. Unless otherwise prohibited by law, any communication or
+material you transmit to us via the Digital Platforms or electronic mail is on a non-confidential
+basis and we may use such communication or material for any purpose, including, but not
+limited to, reproduction, publication, broadcast and posting. We are entitled, but not
+obligated, to monitor, retain and review all communications to us or made via the Digital
+Platforms, including those by telephone, e-mail and other formats, for reasonable business
+purposes, such as to survey the quality of service that you receive, to assure compliance with
+this Agreement and industry regulations, and to maintain the security of the Digital Platforms.
+You agree that information you provide to us will be complete and accurate.
+
+By accessing the Digital Platforms, you agree we may send you emails and other notifications
+through your mobile device or tablet device regarding benefits and features that you may
+receive in connection with the Digital Platforms. When you give us your mobile phone
+number, we have your permission to contact you at that number about all your accounts.
+Your consent allows us to use text messaging, artificial or prerecorded voice messages and
+automatic dialing technology for informational and account service calls, but not for
+telemarketing or sales calls. It may include contact from companies working on our behalf to
+service your accounts. You may contact us at any time to change these preferences or to opt
+out of these communications.
+
+You agree that you will not transmit securities trade orders or any other transactional
+instructions to us using electronic mail. You acknowledge that we will not act upon
+Instructions transmitted through electronic mail and that we may not be in a position, by
+virtue of time zone difference and otherwise, to respond to your communications sent by
+electronic mail within the time frame contemplated by you.
+
+Account Information
+
+Account information provided to you on the Digital Platforms is not the official record of your
+account or its activity. Your account statement, furnished to you by us in a paper format, or
+electronically if you are enrolled in the Paperless Statements Service, will remain the official
+record. Information provided on the Digital Platforms is generally updated regularly, but is
+subject to adjustment and correction, and therefore should not be relied upon by you for
+taking, or forbearing to take, any action.
+
+Notices Associated with Electronic Communications, Change in Terms of
+this Agreement, or New Features
+
+We may amend or change the terms of this Agreement (including applicable fees and service
+charges or adding new terms) or update, discontinue or modify any of the Digital Platforms,
+Services, or features to the Digital Platforms or Services (including adding additional/new
+Services), at any time in our sole discretion. If any change would adversely affect you, we will
+notify you in advance, unless the change is necessary to comply with a legal requirement or
+as otherwise permitted by regulation. Otherwise, we will post the updated terms on the
+Digital Platforms. We may, at our option, also send you notice by email or by regular mail,
+unless the law requires a different method. Continuing to have a digital profile with us (i.e.,
+login credentials that provide access to your account on our Digital Platforms) (“Digital
+Profile”) after we have made such amendments, changes, new Services or features available
+will be considered your agreement to the change or addition. To shut down your Digital
+Profile please call (877) CHASEPC (877-242-7372). Please access and review this Agreement
+regularly. If you find this Agreement unacceptable to you at any time, please discontinue your
+use of the Digital Platforms and the Services.
+
+You agree that by using the Digital Platforms and any Service, all notices or other
+communications which we may be required to give you arising from our obligations under
+this Agreement may be sent to you by any or all of the following sources, at our option: Any
+manner permitted by law including posting it on our website or on the Digital Platforms;
+through electronic notice given to any email we have for you, any other email address or
+phone number you provide to us, sending a message to you via our Digital Platforms, or
+sending mail to the current address we have on file for you.
+
+Computer Equipment; Browser Access and Internet Services
+
+You are responsible for obtaining, installing, maintaining and operating all Systems necessary
+for you to access and use the Digital Platforms. You are additionally responsible for obtaining
+Internet services via the Internet Service Provider of your choice. You acknowledge that there
+are certain security, corruption, transmission error, and access availability risks associated
+with using open networks such as the Internet and you hereby expressly assume such risks.
+
+You acknowledge that you are responsible for the data security of the Systems used to access
+the Digital Platforms, and for the transmission and receipt of information using such Systems.
+You acknowledge that you have requested to use and access the Digital Platforms for your
+convenience, have made your own independent assessment of the adequacy of the Internet
+and Systems, and that you are satisfied with that assessment. We are not responsible for any
+errors or problems that arise from the malfunction or failure of the Internet or your Systems,
+nor are we responsible for notifying you of any upgrades, fixes, or enhancements to, or for
+providing technical or other support for your Systems. Although we may provide a link to a
+third party site where you may download software, we make no endorsement of any specific
+software, hardware or Internet Service Provider and your use of any such software, hardware
+or service may also be subject to the EULA or other agreements of that provider, in addition
+to the terms and conditions of this Agreement. You will not use the Services in any manner so
+as to interfere with the operation of the Digital Platforms.
+
+Access to Digital Platforms and Services: Login Credentials and Other
+Sensitive Information
+
+Sharing Your Login Credentials with Third Parties is Prohibited
+
+Third parties — including External AI, automated tools, or data aggregators — are prohibited
+from using your Login Credentials to access the Digital Platforms or your accounts or Services
+thereon. We permit third-party applications and tools, including External AI, to access
+customer account data through approved application programming interfaces ("APIs") with
+your authorization.
+If you have shared your Login Credentials with any third party, you must change those
+credentials to ensure that the third party can no longer use them or access your information
+through the Digital Platforms.
+
+Consequences of Sharing Login Credentials with Third Parties
+
+If you permit, direct, or facilitate a third party, including External AI, to access the Digital
+Platforms or your accounts or Services, you will be deemed to:
+
+     i. Expressly authorize that third party to transact in your account and the actions or
+        transactions they initiate, request, or complete;
+    ii. Agree that we will rely on, and treat as evidence of your authorization, any actions taken
+        or instructions given by the third party as if you personally took or gave those actions or
+        instructions. You acknowledge that such actions or instructions may be inaccurate,
+        incomplete, unintended, or inconsistent with your actual requests, and may result in the
+        retrieval, transmission, creation, modification, or deletion of information related to your
+        account(s);
+  iii. Agree that you are responsible for any resulting errors, including where the third party
+        performs unintended actions, makes transactions you did not intend, or exceeds the
+        authority you gave it;
+   iv. Acknowledge and explicitly consent to sharing your sensitive account information with
+        the third party on this basis;
+    v. Acknowledge that our privacy policies do not apply to your relationship with the third
+        party, and that we have no control over, and no responsibility for, how the third party
+        uses, reuses, stores, or protects your data;
+   vi. Agree it is solely your responsibility to monitor the third party’s activities to ensure they
+        remain within your agreed-upon scope, and that we have no obligation to automatically
+        or subsequently review or screen the third party’s activities — including transactions —
+        for predictability, authorization, practicality, or appropriateness.
+  vii. Acknowledge and agree that (a) your use of any third party and its services and tools is
+        governed by that third-party provider and your agreement with such provider, and (b)
+        we are not responsible for how any third party tool or service operates, have no control
+        over its operation or any AI or other models it employs, and do not assume
+        responsibility for, review, audit, or certify any third party’s security, privacy policies, or
+        data handling practices; and
+ viii. Agree that to the fullest extent permitted by law, you assume all risks and losses
+        associated with such access or use, including liability for any further use of your
+        personal and account information by the third party or by any individual, entity, or tool
+        to whom the third party may provide that information.
+
+Consequences of Sharing Other Sensitive Account Information with Third Parties
+
+You must not share account or digital profile sensitive information, or allow any individual,
+entity, tool, or other third party — including External AI, automated tools, or data aggregators
+— to use them to access the Digital Platforms, or your accounts or Services thereon. This
+includes card numbers, account numbers, routing numbers, PINs, user IDs, passwords,
+biometrics, or any other means of accessing the Digital Platforms, your accounts, or Services.
+
+The consequences described in (i)–(viii) above in this Section 9 apply equally to (a) any sharing
+or disclosure of your sensitive information to, or access permitted by, any third party,
+including any individual, entity, or tool; and (b) any account data access you authorize
+through APIs.
+
+Suspension, Termination, and Additional Terms
+
+We may, at our option, change the parameters for your Password without prior notice. If we
+do so, you will be required to change your password the next time you access the Digital
+Platforms or Services.
+
+We reserve the right to deny, decline, suspend, or terminate your access to the Digital
+Platforms, your accounts, or Services — including access facilitated by External AI or other
+third party — or to close your account(s), at any time, in our sole discretion and without
+notice. This may render External AI or your account(s) non-functional.
+
+Additional account-level terms and conditions may apply.
+
+The loss, theft, or unauthorized use of your login credentials and other sensitive information
+could cause you to lose some or all of the money in your accounts, plus any amount available
+under your overdraft protection credit line, including if you have a Business Account, or
+draws on your credit card account. It could also permit unauthorized persons, External AI, or
+systems to gain access to your sensitive personal and account information and to use that
+information for fraudulent purposes, including identity theft.
+
+If you believe someone, or an External AI or other non-human actor, may attempt to
+use or has used the Digital Platforms to access your accounts without your permission,
+or that any other unauthorized use or security breach has occurred, you agree to
+immediately notify us at 877-242-7372, (J.P. Morgan Online clients only, call 866-265-
+1727 or 302-634-5115 for international clients).
+
+ACCOUNT ACCESS THROUGH THE DIGITAL PLATFORMS OR SERVICES IS SEPARATE AND
+DISTINCT FROM YOUR EXISTING SIGNATURE ARRANGEMENTS FOR YOUR ACCOUNTS.
+THEREFORE, WHEN YOU GIVE ANY OTHER PERSON(S) OR ENTITY(IES), INCLUDING EXTERNAL
+AI, THE AUTHORITY TO ACCESS ACCOUNTS THROUGH THE DIGITAL PLATFORMS OR
+SERVICES, THAT INDIVIDUAL, OR SYSTEM MAY HAVE ACCESS TO ONE OR MORE ACCOUNTS
+TO WHICH THAT INDIVIDUAL OR SYSTEM WOULD NOT OTHERWISE HAVE SIGNATURE ACCESS.
+
+SUBJECT TO APPLICABLE LAW, YOU ASSUME THE ENTIRE RISK FOR THE FRAUDULENT,
+UNAUTHORIZED OR OTHERWISE IMPROPER USE OF YOUR LOGIN CREDENTIALS. WE SHALL BE
+ENTITLED TO RELY ON THE GENUINENESS AND AUTHORITY OF ALL INSTRUCTIONS RECEIVED
+BY US WHEN ACCOMPANIED BY SUCH LOGIN CREDENTIALS, AND TO ACT ON SUCH
+INSTRUCTIONS.
+
+Credential Managers
+
+The use of credential managers or other services to store and/or manage your login
+credentials (e.g., Passwords, passkeys) is governed by your agreement with such third-party
+service provider. You acknowledge and agree that you are solely responsible for the selection
+and use of a credential manager or other service to store and/or manage your login
+credentials. We do not endorse, guarantee or assume responsibility for the security or
+functionality of any credential manager or other service to store and/or manage your login
+credentials and we are not liable for any damages or liabilities related to these services.
+
+Identity Verification and Authentication
+
+We may give you the option to enable login credentials or identity verification methods
+beyond user ID and Passwords, such as biometrics, security keys, and syncable
+authenticators (e.g., passkeys) for certain Services on our Digital Platforms. We may also
+require specific identity verification methods (including Trusted Device) for opening,
+accessing, managing, or transacting on your accounts to help keep your accounts safe and
+help prevent identity theft. You are responsible for understanding the requirements for each
+login credential or identity verification method. These requirements are provided when you
+are presented with these credentials or methods, and additional information may also be
+available in FAQs. We do not endorse, guarantee or assume responsibility for the
+functionality of physical devices (e.g., security keys) used for authentication.
+
+Authentication via Trusted Device
+
+To help protect your account from fraud and unauthorized access, we may require you to
+download and use our mobile application, and use a Trusted Device, as defined in this
+Agreement, to verify your identity. Until you do, we may deny access to our Digital Platforms,
+the Services, and your accounts, unless an accommodation is required by law. You should use
+only your personal device – one you control and only you use – as your Trusted Device. If you
+lose access to your Trusted Device (for example, if it is lost or stolen), you may need to verify
+a new one via Trusted Device Enrollment, as defined in this Agreement, which could
+temporarily delay your ability to access our Digital Platforms, accounts, or complete
+transactions and other banking activities.
+
+
+II. Terms Applicable to Your Use of the Mobile Services
+Your enrollment in the Digital Platforms may include access to the Mobile Services. By using
+the Mobile Services, you agree to the following terms.
+Communications
+
+You agree that we may send you information related to the Mobile Services through your
+Communication Service Provider and that your Communication Service Provider is acting as
+your agent in this capacity. You agree to provide a valid phone number, e-mail address or
+other delivery location so that we may send you information related to the Mobile Services,
+including but not limited to, information about your applicable account or Card.
+
+You understand and agree these services may not be encrypted and may include personal or
+confidential information about you, such as your account activity or status. Delivery and
+receipt of information, including Instructions for Bill Payment, Transfer and/or other move
+money transactions through the Mobile Services may be delayed or impacted by factor(s)
+pertaining to your Internet Service Provider(s), Communication Service Provider(s) or other
+parties, or because of other reasons outside of our control. You also understand that there
+may be a disruption in service when you change your Communication Service Provider.
+
+Differences from the Online Services
+
+Not all of the Services described in the Agreement may be available when you use a mobile
+device.
+
+Additionally, information available through the Online Services may not be available via the
+Mobile Services or may differ from the information available via the Mobile Services. Such
+information available through the Online Services may also be described using different
+terminology (including capitalized terms used in the Agreement or on certain of our Digital
+Platforms), or may be more current than the information available via the Mobile Services.
+This includes but is not limited to, account balance information, and Transfer and bill
+payment information.
+
+The method of entering Instructions via the Mobile Services may also differ from the method
+of entering Instructions directly through the Online Services.
+
+Processing of Bill Payment and Transfer Instructions may take longer through the Mobile
+Services.
+
+Identity and Device Verification
+
+You authorize your wireless carrier to use and/or disclose information about you and your
+wireless device to JPMC directly or through a service provider, which we may use for the
+duration of your relationship with us, to help identify you or your wireless device and to help
+protect against fraud or unauthorized use of our services under this Agreement. Those
+details may include, among others, name, billing address, email, phone number, and device
+information.
+Alerts
+
+Your enrollment in the Mobile Services includes access to Alerts. Alerts are provided for your
+convenience and do not replace your monthly account statement(s) or other notices, such as
+trade confirmation for Investment Accounts, which are the official record of your accounts.
+Alerts are only available to customers who have an eligible account with us. An eligible
+account includes a Consumer Account, a Business Account, an auto, mortgage, or home
+equity account, and Investment Accounts, and may include other accounts as determined by
+J.P. Morgan Chase in the future. You may be automatically enrolled to receive certain Alerts.
+
+By receiving or otherwise using the Services, you understand and agree that: (a) we may send
+messages through your Communication Service Provider in order to deliver them to you and
+that your Communication Service Provider is acting as your agent in this capacity; (b) we may
+use a phone number, email address or other delivery location we have in our records for you
+or other such contact information as you may provide to us for the Service so that we may
+send you certain information about your applicable account; (c) the alerts may be delivered at
+any time of the day or night and you specifically consent to receive such alerts between the
+hours of 9 p.m. and 8 a.m. local time in your location; and (d) we cannot guarantee the
+delivery of email or other electronic notifications, and delivery may be delayed, fail, or
+otherwise impacted by many circumstances, including wireless or internet service provider
+outages, storage limitations or other factors.
+
+Message and data rates may apply. Such charges include those from your
+Communication Service Provider. To cancel the Alerts sent via text message, send STOP
+to 24273 at any time (J.P. Morgan Online clients only, send STOP to 576746). For help or
+information on Alerts services, text HELP to 24273 (J.P. Morgan Online clients only, text HELP
+to 576746). For additional assistance with Alerts, contact customer service at 1-877-242-7372
+(J.P. Morgan Online clients only call 866-265-1727).
+
+
+III. Terms Applicable to your use of the Bill Payments and
+Transfers Services for both Consumer and Business
+Accounts
+
+A. General Terms Applicable to your use of the Bill Payments and
+Transfers Services for both Consumer and Business Accounts
+
+When you use, or allow another to use on your behalf, the Services to send Instructions to us
+to make Bill Payments or Transfers through the Bill Payments Service or Transfers Service,
+you agree to the terms and conditions set forth in this Agreement.
+
+You also agree to be bound by and comply with such other written requirements as we may
+furnish to you in connection with your deposit accounts, prepaid accounts, credit card
+accounts, and other products that may be accessed via the Bill Payments and Transfers
+Services, including without limitation, your Deposit Account Agreement, Cardmember
+agreement, or other terms and conditions governing your account, credit card, mortgage,
+auto, installment loan, or line of credit agreements. In the event of a conflict between the
+terms applicable to this Section III of this Agreement and such other applicable agreements,
+these terms and conditions shall control.
+
+All of the Bill Payments and Transfers that you initiate through the Bill Payment Service or
+Transfers Service will appear on the statement for your respective accounts. You agree that
+you will not use the Bill Payment Service or Transfers Service for international ACH
+transactions, which are prohibited under this Agreement.
+
+Not all accounts are eligible for the Bill Payment Service or Transfers Service. We reserve the
+right to limit eligibility to certain types of accounts and to change such eligibility from time to
+time. We also reserve the right to restrict categories of recipients to whom Bill Payments and
+Transfers may be made in our sole discretion.
+
+As a sender of Instructions to make Bill Payments or Transfers using the Bill Payment Service
+or Transfers Service, you acknowledge and agree that we may delay or cancel the execution
+of your Instructions and/or charge back the amount of any credit to the applicable account as
+we determine in our discretion or claim a refund from you for such amount for various
+reasons including fraud, duplicate payment, incorrect amount or incorrect recipient. You also
+agree that we are not responsible for any Bill Payment or Transfer request if there isn't
+enough money in the designated Pay From or From Account.
+
+Cutoff Times for Scheduling and Cancelling Bill Payments or Transfer
+
+Cutoff Times for initiating Bill Payments or Transfers are as follows on any Business Day:
+
+(i) Cutoff Times to schedule Bill Payments and Transfers are as follows in Eastern Standard
+Time:
+
+Transfers to or from Chase deposit accounts:
+
+   • 11:00 PM on any Business Day for Internal Transfers
+   • 8:00 PM on any Business Day for External Transfers
+
+Transfers from Chase line of credit accounts:
+
+   • 11:59 PM any day for Internal Transfers to a Chase checking or prepaid account
+   • 8:00 PM on any Business Day for External Transfers
+
+Bill Payments to Chase mortgage loans:
+
+   • 7:30 PM on any Business Day for payments from a Chase checking or prepaid account
+   • 8:00 PM on any Business Day for payments from a non-Chase checking account
+Bill Payments to Chase commercial term lending mortgage loans:
+
+   • 7:30 PM ET on any Business Day for payments from a Chase checking or prepaid
+     account
+   • 8:00 PM ET on any Business Day for payments from a non-Chase checking account
+
+Bill Payments to Chase home equity or personal loan or line of credit accounts:
+
+   • 11:59 PM on any day for payments from a Chase checking or prepaid account, with the
+     exception of Future Dated payments, which can be made by 11:59 PM on any Business
+     Day.
+   • 8:00 PM on any Business Day for payments from a non-Chase checking account
+
+Bill Payments to Chase auto loan or lease accounts:
+
+   • 11:00 PM on any Business Day for payments from a Chase checking or prepaid account
+   • 8:00 PM on any Business Day for payments from a non-Chase checking account
+
+Bill Payments to non-Chase accounts (excluding payments made using a Chase credit card):
+
+   • For Bill Payments with a Send On date falling on a Business Day, 8:00 PM on that Send
+     On date
+
+Transfers to or from Investment Accounts:
+
+   • 4:30 PM on any Business Day for initiating a Current Day Transfer to Investment
+     Accounts
+   • 4:30 PM on any Business Day for initiating a Current Day Transfer from Investment
+     Accounts
+
+(ii) Cutoff Times to Cancel Payments and Transfers are as follows in Eastern Standard Time:
+
+Bill Payments to a Chase home equity or personal loan or line of credit account:
+
+   • 8:00 PM for same day payments from a Chase deposit or prepaid account, if the
+     payment was scheduled prior to 8:00 PM
+   • 11:00 PM for same day payments from a Chase deposit or prepaid account, if the
+     payment was scheduled after 8:00 PM
+   • 8:00 PM on the Bill Payment date for Future Dated payments from a Chase deposit or
+     prepaid account or a non-Chase checking account
+
+Bill Payments to Chase mortgage loans:
+
+   • 7:30 PM on any Business Day for payments from a Chase checking or prepaid account
+   • 8:00 PM on any Business Day for payments from a non-Chase checking account
+
+Bill Payments to Chase commercial term lending mortgage loans:
+   • 7:30 PM ET on any Business Day for payments from a Chase checking or prepaid
+     account
+   • 8:00 PM ET on any Business Day for payments from a non-Chase checking account
+
+Payments to Chase auto loan or lease accounts:
+
+   • 11:00 PM on any Business Day for payments from a Chase checking or prepaid account
+   • 8:00 PM on any Business Day for payments from a non-Chase checking account
+
+Bill Payments to non-Chase accounts (excluding payments made using a Chase credit card):
+
+   • Automatic and future-dated Bill Payments must be canceled before 10:00 AM on the day
+     that Bill Payment is to be processed
+   • For all other Bill Payments with a Send On date falling on a Business Day, 8:00 PM on
+     that Send On date
+
+Transfers to or from Chase deposit accounts:
+
+   • 11:00 PM on any Business Day for Future Dated Internal Transfers, except as provided
+     below
+   • Once you initiate a same day Internal Transfer, you have no ability to stop or cancel
+     such Transfer.
+   • 8:00 PM on any Business Day for External Transfers
+
+Transfers from Chase line of credit accounts:
+
+   • 11:59 PM any day for Internal Transfers to a Chase checking or prepaid account
+   • Once you initiate a same day Internal Transfer, you have no ability to stop or cancel
+     such Transfer.
+   • 8:00 PM on any Business Day for External Transfers
+
+If you wish to Cancel a Bill Payment or Transfer, you should cancel your transaction online.
+
+All Cutoff Times referenced in this Agreement reflect the times displayed on our internal
+system clocks and may not necessarily be synchronized with the internal clock displayed on
+your computer or mobile device. For this reason, we suggest that you transmit any
+Instructions to us sufficiently in advance of such Cutoff Times to eliminate the possibility of
+missing the cutoff. Instructions entered after the Cutoff Time with a Send On date that is the
+Current Day or next Business Day may start to process immediately, and may be Funded
+prior to the requested Send On date.
+
+Repeating Bill Payments and Transfers
+
+Repeating Bill Payments and Transfers that are for the same fixed amount each month will be
+sent on the same calendar day of each month, or on the prior Business Day if the regular
+Send On date falls on a non-Business Day (for Bill Payments) or on the next Business Day if
+the regular Transfer date falls on a non-Business Day (for Transfers). Repeating Bill Payments
+and Transfers will be deducted from your Pay From account or From Account, or charged to
+your Chase credit card, on the Send On date or Transfer date, as applicable. In order to
+authorize a Repeating Bill Payment or Transfer, you agree to have means to print a copy of
+your authorization for your records. If you do not have a printer, you agree to continue to
+authorize a Repeating Bill Payment or Transfer on a transaction-by-transaction basis until you
+have means of printing a copy of your authorization for your records.
+
+If you order us to stop a Repeating Bill Payment or Transfer three (3) Business Days or more
+before the Send On date or Transfer date, and we do not do so, we will be liable to you for
+those losses or damages as provided by law. If you call, we may also require you to present
+your request in writing within fourteen (14) days. Repeating Transfers are not available for
+Investment Transfers.
+
+Some Chase Loan and Credit Accounts will allow you to set up Automatic Bill Payments.
+Automatic Bill Payments differ from Repeating Bill Payments in that Automatic Bill Payments
+are triggered based on the associated billing date and the payment amount may vary each
+month. Terms and conditions for Automatic Bill Payments to Chase Loan and Credit Accounts
+will be presented to you at the time you set up the payments for the service.
+
+Terms Applicable to your use of the Bill Payments Service for both Consumer and
+Business Accounts
+
+
+General Terms Applicable to the Bill Payments Service
+
+
+   1. Your responsibilities. You authorize us to remove funds from your designated Pay From
+      account for all Bill Payments that you initiate and you agree to have sufficient available
+      funds on the Send On date or Bill Payment date for each such Bill Payment you
+      schedule. Please note that if you have Chase Overdraft Protection for your Pay From
+      account, available funds in the account that you use for overdraft protection are
+      included in the determination of funds used to pay Bill Payments under the Service. If
+      there are insufficient available funds to cover a Current Day Bill Payment, we will not
+      retry the Bill Payment and it will be immediately rejected. In the case of Future Dated Bill
+      Payments, if sufficient funds are not in your account on the Send On or Bill Payment
+      date we may reject the request, or accept the request and process the Bill Payment for
+      delivery (even if such payment processing causes you to exceed your credit limit or
+      overdraw your account). In the alternative, if sufficient available credit or funds are not
+      in your account on the Send On date or Bill Payment date, we will automatically try to
+      debit your account up to two (2) more times on each of the three (3) succeeding
+      Business Days. For these attempts, a status of "Funds Needed" will appear online. After
+      the final attempt, the Bill Payment request will be Cancelled. A status of "Funding Failed"
+      will appear. We will send you a message advising you of each failed attempt to debit
+      your Pay From account.
+  You agree that we may, at our option, follow your Instructions to make Bill Payments to
+  a named Payee, even though a charge to or a debit from your Pay From account may
+  cause you to exceed your credit limit, or bring about or increase an overdraft. In the
+  event of an overdraft to your Pay From account, we may charge any of your other
+  deposit accounts for the amount of the overdraft. WE ARE NOT RESPONSIBLE FOR ANY
+  CHARGES IMPOSED OR ANY OTHER ACTION BY A PAYEE RESULTING FROM A LATE
+  BILLPAYMENT, INCLUDING ANY APPLICABLE FINANCE CHARGES AND/OR LATE FEES
+  UNLESS WE CAUSE PROCESSING DELAYS THAT CAUSE YOUR BILL PAYMENT TO BE LATE.
+
+  Bill Payment can be used to make one-time or repeating payments to companies,
+  merchants or individuals you have designated as a Payee to pay bills such as rent,
+  utilities, or car payments (sometimes referred to as the "Bill Payment" or other trade
+  name or trademark as determined by us from time to time). You must have an eligible
+  checking account, Chase Liquid Card, AMA, or investment account with us in order to
+  use the Bill Payments Service. The eligible accounts from which a Bill Payment can be
+  made do not include a Chase home equity line of credit or other line of credit account,
+  except for Chase credit cards. We reserve the right to determine eligibility and to restrict
+  categories of recipients to whom Bill Payments may be made in our sole discretion.
+
+  Further, for Bill Payments to certain eligible healthcare providers only, you authorize us
+  to charge your Chase credit card for any eligible Bill Payments to certain healthcare
+  providers that you initiate using your Chase credit card and you agree to have sufficient
+  available credit balance on the Send On date or Bill Payment date for each such Bill
+  Payment you schedule. If your Chase credit card payment is rejected for any reason, we
+  will not retry the Bill Payment and you will be notified of the failed attempt to charge
+  your Chase credit card. You agree that we may, at our option, follow your Instructions to
+  make Bill Payments to a named Payee, even though a charge to your Chase credit card
+  may cause you to exceed your credit limit. WE ARE NOT RESPONSIBLE FOR ANY OVER-
+  THE-CREDIT-LIMIT FEE, OR CHARGES IMPOSED OR ANY OTHER ACTION BY A PAYEE
+  RESULTING FROM A LATE BILLPAYMENT, INCLUDING ANY APPLICABLE FINANCE
+  CHARGES AND/OR LATE FEES; PROVIDED, HOWEVER, THAT IF WE CAUSE PROCESSING
+  DELAYS THAT CAUSE YOUR BILL PAYMENT TO BE LATE, WE WILL BE RESPONSIBLE FOR
+  ANY LATE FEES ONLY, IN ACCORDANCE WITH OUR BILL PAY GUARANTEE.
+
+2. Description of Services. To make Bill Payments, you must maintain an eligible checking
+   account, Chase Liquid Card, AMA or investment account with us and designate one of
+   your eligible accounts with us as your Pay From account. You may select Payees located
+   within the United States to pay using Bill Payment, subject to our and the Payee's
+   approval with the following exceptions: You agree not to use the Bill Payment Service
+   to pay Payees to whom you are obligated for payments to loan sharks, gambling
+   debts or illegal payments otherwise prohibited by law.
+
+  The minimum Bill Payment allowed is normally $0.01. The maximum total dollar amount
+  of all Bill Payments is $100,000.00 in the aggregate attributable to any Business Day.
+  Your PFM Software may set different limits but we will not be responsible for Bill
+  Payment Instructions that are rejected because they do not meet the limits described in
+  the preceding sentence.
+
+  To use Bill Payments you must provide sufficient information online to us to properly
+  identify your Payees, direct your Bill Payment and permit the Payee to identify you as
+  the payment source upon receipt of a Bill Payment. You must complete all required
+  fields with accurate information, as directed by the screen messages.
+
+  By providing us with the names and account information of those Payees to whom you
+  wish us to direct your Bill Payment, you authorize us to follow the Instructions that we
+  receive through the Bill Payments Service. You further authorize us to update or change
+  any of your Payee information (including but not limited to changes to account
+  information, Payee name and mailing address) as requested or provided by your Payee,
+  the U.S. Post Office or pursuant to any updates or changes through other tools and
+  resources we may use from time to time to effectuate the Bill Payment. When we
+  receive a Bill Payment Instruction (for the current or a future date), we will send funds to
+  the Payee on your behalf, from the funds in your Pay From account or charged to your
+  Chase credit card. You authorize us to charge your designated Pay From account or
+  Chase credit card, for all Bill Payments that you authorize through the Bill Payments
+  Service. We and any agent used by us in connection with the Bill Payment Service is
+  authorized to prepare Drafts drawn on your Pay From account, charge your Chase credit
+  card, and/or electronically debit your Pay From account for the purpose of making
+  payments. We are authorized to accept any Draft drawn on the Pay From account on
+  presentment and charge the Pay From account even though it does not bear your
+  signature where such Draft has been issued as part of Bill Payments. Such Drafts may
+  originate from us or any financial institution in the United States used by us or any of
+  our agents.
+
+  Because your Bill Payment Instructions are transmitted to us on your computer, mobile
+  device or tablet device, the Bill Payment will not be sent to your Payee with the Payee's
+  payment stub. Bill Payments received without the payment stub are sometimes
+  processed at a different location. Some Payees may take longer to post the Bill Payment
+  to your account if the payment stub is not included with the payment, although federal
+  regulations may limit certain creditors (such as credit card issuers) to a period of up to
+  five (5) days. For this reason, we recommend that you contact your Payees to ensure
+  that you have the right address and that you schedule payments in sufficient time to
+  allow for your payment to be sent to your Payee and the payment to be posted.
+
+3. Scheduling Payments Through your PFM Software. You will enter the Deliver By date
+   when scheduling a Bill Payment via your PFM Software. You should enter Instructions
+   for electronic payments at least three (3) Business Days before the desired Deliver By
+   date, and Instructions for paper payments or Bill Payment Instructions for newly added
+   Payees at least six (6) Business Days before the desired Deliver By date.
+4. Delivery Method (excluding Chase credit card Bill Payments). We remit two types of Bill
+   Payments on your behalf to your Payees: electronic and paper check, depending on
+   your Payees' determined method of receiving Bill Payments. The Delivery Method and
+   lead time expected for each type of Bill Payment your Payee will ordinarily receive will
+   be indicated on the Digital Platforms when your Bill Payment is scheduled. The Delivery
+   Method for a Payee is subject to change. If a Payee no longer accepts electronic Bill
+   Payments, or the Bill Payment encounters delivery errors, Bill Payments to that Payee
+   will be delivered by paper check and the Send On Date will be changed to five (5)
+   Business Days before the Deliver By date for all subsequent Bill Payments and for the
+   most current if the Payee provides us with sufficient notice. If a Payee begins accepting
+   electronic Bill Payments, Bill Payments to that Payee will be processed electronically and
+   the Send On date will be changed accordingly for all subsequent Bill Payments. In
+   addition, if an electronic Bill Payment is undeliverable the Bill Payment may be
+   resubmitted by check. We will notify you via e-mail of a change to a Delivery Method for
+   Pending Bill Payments you have scheduled if that change results in a Delivery Method
+   that increases the delivery time of your Bill Payment, otherwise you will not be notified
+   of Delivery Method changes. Please note that, in some situations, if a Bill Payment is
+   scheduled to be sent electronically to a Payee who can no longer process payments
+   using the Delivery Method in which it was sent, then that payment may be late and we
+   will not be responsible for any associated late charges that might be incurred as a result.
+   Late payments arising from changes in your Payee's Delivery Method are explicitly
+   excluded from coverage of our Guarantee as we have no control over your Payee's
+   acceptance of or changes to a particular Delivery Method.
+
+  While it is anticipated that most transactions will be delivered by the Deliver By date, it is
+  understood that due to circumstances beyond our control, particularly delays in
+  handling and posting Bill Payments by other companies or financial institutions, some
+  transactions may take a few days longer to be credited by your Payee to your Payee
+  account. FOR THIS REASON, YOU NEED TO SELECT A DELIVER BY DATE WHICH IS
+  SUFFICIENTLY IN ADVANCE OF THE ACTUAL DUE DATE (NOT THE LATE DATE) OF YOUR
+  PAYMENT OBLIGATION TO ENSURE THAT YOUR BILL PAYMENT ARRIVES ON OR BEFORE
+  YOUR DUE DATE, AND NOT AFTER THE DUE DATE OR DURING THE GRACE PERIOD.
+
+5. Additional Terms Applicable to Only Variable Automatic Bill Payments. You may now
+   also set up variable automatic bill payments for select Payees participating in the e-Bills
+   Service. Variable automatic bill payments differ from repeating payments in that
+   variable automatic payments are triggered based on the associated billing date and/or
+   the bill due date, as set up by you, and the payment amount may vary each month.
+   While it is anticipated that most variable automatic bill payments will be delivered by the
+   Deliver By date you set, it is understood that due to circumstances beyond our control,
+   particularly when your Payee is late in providing the e-Bill and/or we receive the e-Bill
+   too close to, on, or after the bill’s due date, WE MAY BE UNABLE TO PAY THAT BILL AND
+   YOU WILL HAVE TO MAKE ALTERNATIVE PAYMENT ARRANGEMENTS DIRECTLY WITH THE
+     PAYEE. These terms apply in addition to the other terms applicable to repeating
+     payments in this Section III(A)(1), and additional terms for variable automatic bill
+     payments may be presented to you at the time you set up the variable automatic bill
+     payment.
+
+   6. Canceling Bill Payments. You may cancel any Pending or Funded Bill Payment if you do
+      so no later than the Cutoff Time on the Send On Date. Funds will be returned to your
+      Pay From account by the following Business Day. You may not stop a Bill Payment after
+      the Cutoff Time has passed.
+
+     For Chase credit card Bill Payments only, the Cutoff Times do not apply and you may
+     cancel the payment any time before it is sent.
+
+
+Bill Payments to Chase Loans or Credit Accounts
+
+
+Only Business Days may be chosen as Bill Payment dates for Chase Loan or Credit Accounts,
+and Instructions must be received by us by the Cutoff Time to receive credit on that same
+Business Day. Instructions received on any non-Business Day or after the Cutoff Time on any
+Business Day will be processed on the next Business Day. Bill Payments to Chase Loan or
+Credit Accounts made before the Cutoff Time on any Business Day will be applied with the
+date the Bill Payment is submitted. Bill Payments made after the Cutoff Time will be applied
+with the next Business Day's date. Updates to the outstanding balances of the Chase Loan or
+Credit Account will be made by the Business Day following the Bill Payment date.
+
+Instructions for Bill Payments to Chase Loan or Credit Accounts may be Cancelled until the
+Cutoff Time on the Bill Payment date. Bill Payments to a Chase Loan or Credit Account from
+an account held by us may be made in amounts of up to the available balance in your Pay
+From account (plus any available balance in any associated overdraft protection account) per
+day. Bill Payments to Chase credit card or student loan accounts have separate terms that will
+be provided at the time Instructions are provided by you.
+
+
+Bill Payments to Certain Healthcare Providers
+
+
+Provided that you maintain an eligible checking account, Chase Liquid Card, AMA or
+investment account with us and designate one of your eligible accounts with us as your Pay
+From account, you may also have the option to use one of your Chase credit cards to pay
+certain healthcare providers listed in our Bill Pay directory. Your Chase credit card will be
+shown as one of the payment options if a healthcare provider you are trying to pay is eligible
+to receive Chase credit card payments. You may be able to schedule a one-time, future-dated,
+or recurring Bill Payment using a Chase credit card for certain healthcare providers and may
+cancel any such payment at any time before it is sent. Sent Chase credit card payments will
+be authorized immediately so you will not be able to cancel any payment after it has been
+sent. These terms apply in addition to and, in the event of conflict shall supersede, the other
+terms applicable to the Bill Payment Service.
+
+For Business Accounts: Even if the dual control function has been turned on for the Bill
+Payment Service, payments to healthcare providers using a Chase credit card will not be
+submitted for approval.
+
+
+The Bill Pay Guarantee – for Online and Mobile Bill Payments and for Online and Mobile
+Payments to a Chase Loan or Credit Account made from a Chase checking account or
+Chase Liquid Card
+
+
+If we ever cause processing delays of your online or mobile bill payments or online or mobile
+payments to a Chase Loan or Credit Account made from a Chase checking account, Chase
+credit card, or Chase Liquid Card that result in late fees, we will cover 100% of those fees. This
+guarantee covers everything within our control. Our guarantee does not cover losses which
+you cause, or payment processing delays, which are not caused by us or within our control,
+such as:
+
+   • Your failure to make your payment request by the Cutoff Time sufficiently in advance of
+     the Payee's due date for the payment to arrive on time (before the grace period begins);
+   • Your input errors or errors made by your Payees;
+   • Your negligent handling of User Ids and Passwords;
+   • Your failure to completely log out of the Online Service or logging in to the Online
+     Service and leaving your computer, mobile device or tablet device unattended;
+   • Your failure to notify us of any suspected unauthorized transaction from your Account,
+     or theft of your ID or Password within the time periods specified in this Agreement and
+     your account agreement; if you suspect any suspicious activity on your account with us,
+     notify us immediately at 1- 877-242-7372;
+   • Your failure to follow the procedures or to otherwise fail to use the Online Service in
+     accordance with the terms of this Agreement;
+   • Your Payee's change to the Delivery Method resulting in an increase in processing time
+     for your payments or your Payee mishandles or delays processing or posting a payment.
+
+As a precondition to this guarantee, you agree not to enter into any agreements where one of
+the purposes is to generate late payment fees. The risk of incurring and the responsibility for
+paying any and all late charges or penalties shall be borne by you in the event you do not
+follow the procedures or otherwise fail to use Payments and Transfers in accordance with the
+terms of this Agreement.
+
+
+Duplicate Payments
+
+
+If you submit a duplicate Bill Payment request, an error message may be displayed on the
+Digital Platforms but you may choose to bypass the message and schedule the Bill Payment.
+If you submit a duplicate Bill Payment to a Chase Loan or Credit Account, an error message
+may be displayed and such duplicate Bill Payments may not be permitted. No error message
+will be displayed for duplicate Bill Payments made through different methods (e.g., Bill Pay
+and PFM) and the Bill Payments will be processed as normal.
+
+For customers making Bill Payments via your PFM Software, you may not receive an error
+message for duplicate Bill Payments. If you decide for any reason to reload your original PFM
+Software or to change PFM Software at any time after you have begun using the Digital
+Platforms with your original PFM Software, you MUST (1) check to see if any Pending Bill
+Payments which you have ordered to be made remain outstanding, and (2) cancel any
+Pending Bill Payments prior to loading the new software. Failure to cancel Pending Bill
+Payments prior to installing the new software may result in the issuance of duplicate Bill
+Payments. You authorize us to pay any duplicate Bill Payments that you have directed. WE
+WILL NOT BE RESPONSIBLE FOR ANY PAYEE'S REFUSAL TO RETURN ANY DUPLICATE BILL
+PAYMENTS MADE AS A RESULT OF SOFTWARE CHANGES THAT YOU DIRECT.
+
+
+Stale Dated Payments
+
+
+If we issue a paper check to your Payee and it is not presented before the end of the period
+noted on the check, usually 90 days, we will decline to pay the check. Occasionally, paper
+check payments are not cashed by your Payee within the negotiable period. When this
+happens, we will notify you and credit your Pay From account. We have no liability to you,
+your Payee or any other party for refusing payment on any check that remains outstanding
+after the end of the negotiable period.
+
+
+Merchant or Payee Limitation
+
+
+We reserve the right to refuse to pay any Payee whom you may designate for a payment. We
+will notify you promptly if we decide to refuse to pay a Payee designated by you. This
+notification is not required if you attempt to pay tax or court related payments, make
+payments to Payees located outside the United States or make any other payments
+prohibited by law, each of which is prohibited under this Agreement.
+
+Terms Applicable to your use of the e-Bills Service for both Consumer and Business
+Accounts
+
+e-Bills is a feature of the Bill Payment Service that enables you to receive bills electronically
+from participating Payees.
+
+   i. Electronic Communications/Payee Terms. By activating e-Bills, you agree to abide by
+      the terms and conditions stated in this Section to get e-Bills, and to get other related
+      communications electronically. By activating e-Bills, you will be required to agree to each
+      Payee’s terms and conditions, which will also include the requirement not to receive
+      paper bills. For avoidance of doubt, you understand and agree that enrollment into e-
+       Bills will terminate the provision of paper statements to you by the Payee, including any
+       reformatted paper statements, i.e. Braille or enlarged font, that you were receiving from
+       the Payee, and any accommodations or exceptions will be agreed upon and made
+       between you and the Payee and not Chase.
+   ii. Limitations. You must enroll each Payee individually in e-Bills. You also acknowledge
+       and agree that the right to activate and receive e-Bills for each Payee is limited to one
+       financial institution. If you activate e-Bills for a particular Payee through us, you will no
+       longer receive e-Bills for that Payee through the financial institution through which
+       you’re currently receiving such e-Bills. Conversely, if you activate e-Bills for a particular
+       Payee through another financial institution, your action will effectively terminate the e-
+       Bills service for that Payee and you will no longer receive such e-Bills through us.
+ iii. Approval of e-Bills. Participating Payees establish their own criteria for reviewing
+       requests to receive e-Bills and have sole discretion to accept or decline your request. We
+       do not participate in this decision. Participating Payees generally take up to five (5)
+       Business Days to approve an e-Bill set-up request. By requesting that bills, statements,
+       or other related communications be sent to you electronically, you warrant that you
+       have the right, power, and authority to receive them.
+  iv. Individual and Joint Responsibility. Any individual borrower, account holder or
+       authorized user on your loan, line of credit, or account can enroll in and use e-Bills.
+       Regardless of the individual who enrolls in e-Bills, the terms of this Section apply to all
+       borrowers/account holders/authorized users, individually and jointly.
+   v. Timely Delivery of e-Bills. We take no responsibility if a Payee does not provide the
+       necessary data to forward an e-Bill in a timely manner. If you do not receive a bill, it is
+       your responsibility to contact the Payee directly. We are not responsible for any late
+       charges or other adverse consequences. Any questions regarding your bill details
+       should be directed to your Payee.
+  vi. Cancel e-Bills. All parties have the right to cancel the service at any time. We may also
+       elect to discontinue delivering e-Bills for certain Payees or customers. We will notify you
+       if Chase or a Payee discontinues/stops e-Bills. If you request that an e-Bill be
+       discontinued, we generally require at least seven (7) Business Days for the Payee to
+       receive and process the request. Therefore, you may not receive a paper statement
+       from the Payee, and/or you may not receive an e-Bill through the new financial
+       institution through which you have activated the e-Bill service for the Payee, but
+       continue to receive e-Bills from us instead for one or two cycles. We also reserve the
+       right to terminate a Payee’s participation in e-Bills at any time.
+ vii. Privacy. When you request e-Bills from a participating Payee you will provide certain
+       information such as required username and password, and you authorize us and our
+       third party service provider to collect and forward such information onto the Payee on
+       your behalf, and you appoint us and our third party service provider as your agent for
+       the limited purpose of completing your enrollment. If you have concerns about the
+       future use of this information by the Payee you should contact your Payee directly.
+viii. Fees, Charges or Other Terms. Unless otherwise noted in your account agreement, we
+       do not charge any fees for using e-Bills. We reserve the right to change the charges,
+    fees, or terms for e-Bills. If we make a change, we’ll provide notice to you in accordance
+    with terms of this Addendum. We also reserve the option, in our business judgment, to
+    waive, reduce, or reserve charges or fees in individual situations.
+ix. Acknowledgements and Agreements.
+        • You understand and agree that e-Bills are provided for your convenience, and
+          payments due continue to be your responsibility.
+        • You also understand and agree that the e-Bills service and therefore the e-Bills
+          (and any content contained therein) may only be available in English, and not in a
+          foreign language, including Spanish, regardless of whether you currently receive a
+          Payee’s bill in a foreign language, depending on the Payee. By using this service,
+          you agree to receive the e-Bills in English, even if you use or access Chase’s
+          website, mobile application or Chase’s other products and services in a foreign
+          language. You agree that Chase is not responsible for delivering the e-Bills to you
+          in a foreign language, and any questions regarding this issue will be directed to
+          your Payee.
+        • You also understand and agree that the e-Bill summary (and any content
+          contained therein) is accessible via screen reader software and other Assistive
+          Technology (AT) as presented on any Chase digital platform. The e-Bill summary
+          may include the statement date, due date, amounts due and/or other information,
+          and is different from the e-Bill.
+        • You also understand and agree that the e-Bills service and therefore the e-Bills
+          (and any content contained therein) may not be presented in a way which is
+          accessible to screen reader software or AT which are conformant to web content
+          accessibility guidelines (WCAG) version 2.0, level AA success criteria, regardless of
+          whether you currently can access Payee’s bill online or via digital application using
+          screen reader software or other AT, depending on the Payee. By using this Service,
+          you agree to receive the e-Bills as provided, which may include an inaccessible
+          format, even if you use or access Chase’s website, mobile application or Chase’s
+          other products and services by using screen reader software or other AT. You
+          agree that Chase is not responsible for delivering the e-Bills to you in a digitally
+          accessible format which conforms to WCAG v. 2.0 AA, and any questions regarding
+          this issue will be directed to your Payee.
+ x. Accuracy or Completeness. An e-Bill may or may not have all the same information as
+    the paper version, depending on the Payee. Chase presents the e-Bills as provided by
+    the Payee. Chase is not responsible for any information or communications related to
+    them, or for the acts or omissions of any Payee.
+xi. Chase Is Not Responsible for Third Parties. We are not responsible for any aspect of
+    your relationships with the Payees, or for the performance or non-performance of these
+    third parties. We do not act as a service provider of the Payees. Transactions between
+    you and a Payee are governed by the Payee’s terms and conditions. We do not endorse
+    or assume any liability for any Payee you use, and we do not have any liability for
+    payments, returns, refunds, chargebacks, loyalty and rewards related offers and
+    benefits or any disputes between you and a Payee or other third parties.
+Terms Applicable to your use of the Transfers Service for both Consumer and Business
+Accounts
+
+
+General Terms Applicable to Transfers
+
+
+You authorize us to charge your designated From Account for all Transfers of funds that you
+initiate and you agree to have sufficient funds or available credit in your From Account on the
+Transfer date for each such Transfer you schedule. If there are insufficient available funds (or
+available credit) to cover a Current Day Transfer, we will not retry the transaction and the
+Transfer will be immediately rejected.
+
+In the case of Future Dated Transfers (excluding Autosave Transfers), if sufficient funds are
+not in your account on the Transfer date, we will automatically try to debit your account up to
+two (2) more times on each of the three (3) succeeding Business Days. For these attempts, a
+status of "Funds Needed" will appear on the Digital Platforms. After the final attempt, the
+Transfer request will be Cancelled. A status of "Funding Failed" will appear on the Digital
+Platforms. We will send a message advising you of each failed attempt to Transfer from your
+From Account.
+
+Any Transfer made from any of your savings accounts by using the Transfers Service is a
+restricted Transfer subject to certain limitations. Please refer to our Deposit Account
+Agreement, or other terms and conditions governing your account, for full details.
+
+
+Internal Transfers
+
+
+Internal Transfers can be used for Transfers between your eligible account(s) held by us, or
+for Payments from an eligible account held by us to a Chase Loan or Credit Account.
+Notwithstanding the foregoing, Chase home equity line of credit or other line of credit
+accounts are not eligible Pay From accounts for Payments to a Chase Loan or Credit Account.
+We reserve the right to determine eligibility and to restrict categories of recipients to whom
+Internal Transfers may be made in our sole discretion.
+
+   1. Transfer Limits: To protect your account, we place a daily dollar limit on Internal
+      Transfers sent to or from your eligible Chase accounts, even if your available balance is
+      higher than the daily limit. However, we may allow transactions that exceed your limits
+      or temporarily reduce your limits without notice, for security purposes. We may refuse
+      to process any transaction that exceeds the applicable limits or to protect the security of
+      your account or the transfer system. You may make Internal Transfers up to (A) your
+      available balance plus any amount in your overdraft protection account; or (B) your
+      credit limit, to the extent applicable. If you have selected a home equity line of credit
+      secured by Texas homestead property as your From Account, the minimum allowed
+      through Transfers is $4,000.00, to the extent eligible. Current Day Internal Transfer
+      Instructions begin to process immediately and cannot be Cancelled. If your From
+   Account is a Chase home equity line of credit, to the extent eligible, you may make
+   Internal Transfers up to a maximum amount of (A) $200,000 daily; or (B) $500,000 daily,
+   if you are a Private Banking customer.
+2. Transfers between eligible deposit and prepaid accounts held by us. Current Day
+   transfers between deposit accounts held by us that are made before the Cutoff Time will
+   be processed immediately and the transferred funds will be available the same day to
+   cover all transfers. Funds transferred to deposit accounts held by us and made after the
+   Cutoff Time on the Current Day or on a non- Business Day will be available for
+   immediate cash withdrawal at ATMs and for online transactions, however the funds will
+   not be available to cover other payments such as paper checks until the next Business
+   Day. Future Dated Transfers may not be scheduled for a non-Business Day. Repeating
+   Transfers will be paid on the same calendar day of each Transfer Period, or on the next
+   Business Day if the regular Transfer date falls on a non-Business Day. Future Dated
+   Transfers (including Repeating Transfer(s) from deposit accounts held by us) will be
+   deducted from your From Account on the Transfer date. For questions about your
+   preauthorized Transfers or for status regarding whether an incoming Preauthorized
+   Electronic Funds Transfer has been deposited to your account, you may contact us at
+   the telephone number on your account statement or deposit account agreement.
+3. Transfers from line of credit accounts held by us. Current Day money transfers from line
+   of credit accounts held by us will be reflected in your account as soon as we receive the
+   transfer request. The minimum or maximum you will be able to withdraw via Transfers
+   is subject to the terms of your existing credit agreements with us. Future Dated and
+   Repeating Transfers cannot be made from line of credit accounts with us.
+4. Transfers to or from Investments. Current Day Transfers can be made between eligible
+   deposit accounts held by us and an Investment Account. NOTE: You can cancel an
+   existing one time transfer request or cancel/modify a recurring transfer request
+   online. However, in order to modify a recurring distribution from a retirement
+   account, you must call Investment Services at 1-800-392-5749.
+       1. Transfers to Investment Account
+          When Instructions are received by us on a Business Day between 3:00AM ET and
+          the Cutoff Time, funds will be posted to, and viewable in, the Investment Account
+          and available for trading immediately as of the day the Instruction was made.
+          When Instructions are received after the Cutoff Time, funds will be posted to, and
+          viewable in the Investment Account and available for trading at or about 4:00AM
+          ET on the next Business Day following the day the Instruction was made. When
+          Instructions are received on a non-Business Day, funds will be posted to, and
+          viewable in, the Investment Account and available for trading at or about 4:00AM
+          ET on the next available Business Day following the day the Instruction was made.
+       2. Transfers from Investment Account
+          When Instructions are received by us on a Business Day between 3:00AM ET and
+          the Cutoff Time, Transfers will typically be posted to, and available for withdrawal
+          in the To Account on the same day, however, it may take up to 1 business day to
+          process the Transfer. When Instructions are received by us on a Business Day
+            before 3:00 AM ET, after the Cutoff Time, or on a non-Business Day, Transfers will
+            typically be posted to, and available for withdrawal in the To Account at or about
+            3:00AM ET on the next Business Day following the day the Instruction was made,
+            however, it may take up to 1 business day to process the Transfer. In all
+            instances, the Investment Account cash balance will be immediately reduced
+            by the amount of the Transfer and no longer be available for withdrawal or
+            trading, regardless of whether Instructions are received at or before/after
+            the Cutoff Time.
+               1. Manual Approval
+                  Certain transfers including, but not limited to, Transfers from an Investment
+                  Account over $100,000.00, multiple same day Transfers and certain future
+                  dated Transfers are subject to manual approval and Transfers to/from
+                  Investment Accounts will occur according to these terms upon such approval.
+   5. Autosave Feature: You can set up automatic Transfers from your eligible checking
+      account to your eligible savings account, or to other types of eligible accounts that we
+      may specify from time to time. We may offer certain Autosave features which, if used by
+      you, give us discretion, within limits set by you, to make periodic transfers based on
+      factors such as your account balance and spending patterns, and you agree to regularly
+      monitor such transfers closely and change or cancel them as you determine necessary.
+      Use the Chase mobile app or chase.com to set up, review, change or cancel your
+      Transfers. Except as specifically set forth herein or where the law requires a different
+      standard, we are not liable for any errors, losses or damages in connection with any
+      transfer of funds or failure to transfer funds under any Autosave feature that you select,
+      for any reason, including system outages or defects. In particular, we will not be liable
+      for any interest, gains or dividends you might have earned or not earned in any account
+      as a result of your use of Autosave.
+
+
+
+
+External Transfers
+
+
+We may allow you to add eligible accounts from other financial institutions (“External
+Accounts”) to your Online Services profile for use with the Chase Bill Payments and Transfers
+and/or for use with our Aggregation Service, our informational and complimentary service
+that allows you to retrieve your financial account information, such as balances, transaction
+history, holdings, and account and routing number, and account ownership information
+(“Aggregated Data”), from accounts with other financial institutions.
+
+To add an eligible External Account, you may digitally link it (“Account Linking”), which may be
+done directly by us, or by a third party service provider engaged by us (“Aggregation Vendor”),
+or add the external account through Trial Deposits, if applicable. During Account Linking, you
+will be presented with and required to accept our Account Aggregation Agreement which
+governs the process for linking your eligible External Account with your eligible Chase
+account, and, among other things, provides your consent to obtain your data. If linking for
+use with Chase Bill Payments and Transfers, your data will be used to verify your ownership
+of the accounts you want to add and to otherwise support your use of Chase Bill Payments
+and Transfers. Acceptance of the Account Aggregation Agreement does not enroll you in the
+Aggregation Service, which you would need to do separately in order to use that service. See
+our Privacy Policy and the Account Aggregation Agreement for information on how your
+External Account data may be used by us and by our Aggregation Vendor.
+
+If your other financial institution does not support Account Linking or we cannot verify your
+account through Account Linking, we may, in our discretion, allow you to add your external
+account using Trial Deposits. During Trial Deposits, we will ask you to authorize us to make
+microdeposits (each less than $1.00) to the account you are seeking to add, and a
+corresponding withdrawal from that account equaling the amount of those microdeposits. It
+may take 1-2 business days for the microdeposits to appear in your other account. Once they
+appear, you must return to your Chase account to tell us the microdeposit amounts so we
+can complete account validation.
+
+
+Using an Added Account for External Transfers
+
+
+External Transfers can be used to transfer funds between an eligible account held by us and
+an External Account. To initiate External Transfers you must have at least one eligible deposit
+account, Investment Account, line of credit, mortgage, installment loan or auto loan account
+with us. We reserve the right to determine eligibility and to restrict categories of recipients to
+whom External Transfers may be made in our sole discretion.
+
+   i. Transfer Limits: To protect your account, we place a daily dollar limit on External
+      Transfers sent to or from your eligible Chase accounts, even if your available balance is
+      higher than the daily limit. However, we may allow transactions that exceed your limits
+      or temporarily reduce your limits without notice, for security purposes. We may refuse
+      to process any transaction that exceeds the applicable limits or to protect the security of
+      your account or the transfer system. Excluding Transfers to or from Investment
+      Accounts, Transfers to or from External Accounts may be made in amounts of up to the
+      daily maximum noted below for your applicable account segment in the aggregate from
+      all your combined Chase accounts, except as otherwise noted below. To help protect
+      you from fraud and scams, Chase dynamically determines the limit for each External
+      Transfer(s) based on internal Chase criteria at the time you schedule the transfer. The
+      maximum daily limit applicable to you will be displayed at the time you set up the
+      transfer and may be lower than the maximum shown in the table below. If your From
+      Account is a home equity line of credit secured by your Texas homestead, to the extent
+      eligible, each transfer must be a minimum of $4,000.
+                                                    Maximum Daily Limit
+                                                    (all accounts in the aggregate)
+         Consumer Banking                              $25,000.00
+         Chase Sapphire Banking                        $100,000.00
+         Chase Private Client                          $100,000.00
+         Private Banking                               $100,000.00
+         Business Banking                              $100,000.00
+ ii. If your From Account is a Chase home equity line of credit, to the extent eligible, you
+     may make External Transfers up to a maximum amount of (A) $200,000 daily; or (B)
+     $500,000 daily, if you are a Private Banking customer.
+iii. Transfers between eligible deposit accounts held by us and an External Account that we
+     receive by the Cutoff Time on any Business Day will begin processing on the same day.
+     Transfers to an External Account will be deducted from your From Account held by us
+     on the calendar date and will usually be reflected in your External Account on the
+     Deliver By date. Transfers from External Accounts are subject to the processing times of
+     the financial institution holding your External Account. Instructions for transfers from
+     External Accounts that we receive by the Cutoff Time on a Business Day will be sent to
+     the holder of your External Account on the same day for processing. Instructions
+     entered via the External Transfer Service may be Cancelled until the Cutoff Time on the
+     Send On date.
+iv. Transfers to or from Investment Accounts
+         a. Transfers to Investment Account
+            When Instructions are received by us at or before the Cutoff Time, funds will be
+            posted to, and viewable in, the Investment Account by 5:01 pm ET on the next
+            Business Day after the day the Instruction was made. These funds will be available
+            for trading at or about 11:59 PM ET on the day they post and are viewable in the
+            Investment Account. When Instructions are received after the Cutoff Time, funds
+            will be posted to, and viewable in, the Investment Account by 5:01 PM ET on the
+            second Business Day following the day the Instruction was made. These funds will
+            be available for trading at or about 11:59 PM ET on the day they post and are
+            viewable in the Investment Account. During the interim period between when the
+            funds are posted and are viewable and available for trading, a hold for the amount
+            in question will be placed on the External Account in the amount of the transfer for
+            up to four (4) Business Days
+         b. Transfers from Investment Account
+            When Instructions are received at or before the Cutoff Time, funds will be posted
+            to, and viewable in, the External Account as of 5:01 PM ET on the next Business
+            Day after the day the Instruction was made. These funds will be available in the
+            External Account at or about 11:59 PM ET on the day they post and are viewable in
+            the External Account. When Instructions are received after the Cutoff Time, funds
+            will be posted to, and viewable in, the bank account as of 5:01 PM ET that day. The
+            funds will be available in the External Account at or about 11:59 PM ET on the day
+            they post and are viewable in the External Account. Regardless of whether
+            Instructions are received at or before/after the Cutoff Time, the Investment
+            Account cash balance will be immediately reduced by the amount of the
+            Transfer and no longer be available for withdrawal or trading.
+   v. Transfer instructions relating to External Accounts and the transmission and issuance of
+      data related to such instructions shall be received pursuant to the terms of this
+      Addendum and the rules of the National Automated Clearing House Association
+      ("Nacha") and the applicable automated clearing house ("Regional ACH") (collectively,
+      the "Rules") and you and we agree to be bound by such Rules as in effect from time to
+      time. In accordance with such Rules, any credit to your deposit account held by us, or
+      your External Account shall be provisional until such credit has been finally settled by us
+      or the third party institution which holds your External Account, as the case may be. You
+      acknowledge that you have received notice of this requirement and of the fact that if we
+      do not receive final settlement for a transfer for any reason, we shall charge back the
+      amount of such transfer to the Transfer To or From Account (as applicable) or any other
+      of your accounts or claim a refund from you.
+
+B. Terms Applicable to Your Use of the Bill Payments & Transfers Services
+for Consumer Accounts Only
+
+If you perform transactions from a home equity line of credit or other credit account or
+Investment Account, please see your home equity line of credit documents for information
+about your liability for unauthorized charges or other errors or questions relative to those
+accounts.
+
+Your Liability for Unauthorized Transfers or Bill Payments
+
+If you permit other persons to use the Bill Payments and Transfers Services, or use or access
+your Password, you are responsible for any transactions they authorize from your accounts.
+If you believe that your Password has been lost or stolen or that someone has made
+payments, Transferred or may Transfer money from your account without your
+permission, notify us AT ONCE, by calling 1-877-242-7372 (J.P. Morgan Online clients
+only, call 877- 840-0723) or writing us at Online Customer Service, P. O. Box 2558,
+Houston, TX 77252-9968.
+
+You must tell us immediately if you believe your Password has been lost or stolen or that an
+unauthorized Transfer or Bill Payment has been made from any of your deposit or prepaid
+accounts. Telephoning us is the best and fastest way of keeping your possible losses to a
+minimum. If you do not do so, you could lose all the money in each of the accounts, as well as
+all of the available funds in any overdraft protection account or any other credit line included
+among your accounts.
+
+If you do not tell us within two (2) Business Days after you discover the loss or theft of your
+Password, you may not be reimbursed if someone makes a Transfer or Bill Payment without
+your authorization. If you do not tell us within two (2) Business Days after you discover the
+loss or theft of your Password or that an unauthorized Transfer or Bill Payment has been
+made from any of your deposit or prepaid accounts, and we can prove we could have
+stopped someone from making a Transfer or payment without your authorization if you had
+told us, you could lose as much as $500.
+
+Furthermore, if any account statement shows online Transfers or payments that you did not
+make, tell us AT ONCE. If you do not tell us within sixty (60) days after a statement showing
+such a Transfer or Bill Payment was transmitted to you, you may not be reimbursed the
+money you lost after the sixty (60) days if we can prove that we could have stopped someone
+from taking the money if you had told us in time.
+
+If a good reason, such as a long trip or hospital stay, kept you from telling us, we may extend
+the time periods.
+
+Our Liability for Failure to Complete Bill Payments and Transfers
+
+If we do not complete a Transfer or Bill Payment to or from a Consumer account in the
+correct amount or according to our agreement with you, we will be liable for those damages
+as the law imposes in such cases. However, there are some exceptions. We will not be liable,
+for example:
+
+    i. If, through no fault of ours, your account does not contain sufficient funds to make the
+       Transfer or payment and the Transfer or payment would exceed any credit line or any
+       overdraft for such account.
+   ii. Your operating system or software was not functioning properly at the time you
+       attempted to initiate such Transfer or payment, and it was evident to you at the time
+       you began the Transfer or Bill Payment. Circumstances beyond our control, such as
+       fires, floods, acts of God, power outages and the like.
+  iii. The Payee or, for Bill Payments and Transfers from an External Account, the third party
+       financial institution holding your account, mishandles or delays processing or posting a
+       payment or Transfer sent by Bill Payments and Transfer.
+  iv. If you have not provided us with complete and correct payment or Transfer information,
+       including without limitation the financial institution name, address, account number,
+       Transfer amount for a Transfer or Bill Payment amount for the Payee on a Bill Payment.
+
+The list of examples set out in this paragraph is meant to illustrate circumstances under
+which we would not be liable for failing to make a Transfer or Bill Payment and is not
+intended to list all of the circumstances where we would not be liable.
+
+Errors and Questions about Bill Payments and Transfers
+
+If you think your statement is wrong with regard to a Bill Payment or Transfer, or if you need
+more information about a transaction listed on it, call us at 877-242-7372 (J.P. Morgan Online
+clients only, call 877- 840-0723) or write us at Online Customer Service, P. O. Box 2558,
+Houston, TX 77252-9968.
+
+We must hear from you NO LATER than 60 days after we sent you the FIRST statement on
+which the error appeared. Please provide us with the following information:
+
+   • Your name and account number;
+   • A description of the error or the transaction you are unsure about, and why you think it
+     is an error or want more information; and
+   • The amount of the suspected error.
+
+We will determine whether an error occurred within 10 Business Days after we hear from you
+and will correct any error promptly. However, if we need more time, we may take up to 45
+days to investigate your complaint or question. If we do this, we will credit your balance
+within 10 Business Days for the amount you think is in error, so that you will have the use of
+the money during the time it takes us to complete our investigation. If you opened your
+account less than 30 days before the date of the suspected error, the 10 Business Day period
+is extended to 20 Business Days. If you opened your account less than 30 days before the
+date of the suspected error or the transaction occurred at a point-of- sale location or outside
+the U.S., the 45-day period is extended to 90 days.
+
+If you call us, we may require that you send us your complaint or question in writing within 10
+Business Days. If we do not receive it within 10 Business Days, we may not credit your
+balance.
+
+We will tell you the results within three Business Days after completing our investigation. If
+we decide that there was no error, we will send you a written explanation. You may ask for
+copies of the documents that we used in our investigation. In case of errors or questions
+about your electronic Transfers that appear on your External Account statements, please
+contact the financial institution that provided such statement to you in accordance with the
+terms and conditions of your External Account.
+
+The Online and Mobile Banking Guarantee – Only for Online and Mobile Payments and
+Transfers (for Consumer Deposit and Prepaid Accounts Only)
+
+In the event that money is removed from Your Consumer deposit accounts (i.e., checking or
+savings) or prepaid accounts with us without your authorization through the Bill Payments or
+Transfers Services, we will reimburse you 100% if you tell us within two Business Days of your
+discovery of the unauthorized transaction.
+
+C. Terms Applicable to your use of the Payments & Transfers Services for
+Business Accounts Only
+
+Linking Multiple Accounts
+You may use Chase Business Online to access eligible accounts. These accounts may include
+a Multiple- Business Subscription. You may be permitted to link Consumer accounts to your
+profile on the Digital Platforms provided: (i) the authorized signer on the Business account is
+also an authorized signer on the Consumer accounts to be linked and (ii) the Consumer
+account information provided during linkage is accurate and can be validated.
+
+Liability for Unauthorized Bill Payments and Transfers
+
+You are responsible for all Bill Payments and Transfers that are authorized using your
+Password for accessing the Digital Platforms. If you permit other persons to use your
+Password to access the Digital Platforms, you are responsible for any transactions they
+authorize. If you make information available to persons that would enable them to create a
+Password for and/or access your accounts for Bill Payments and/or Transfers, you are
+responsible for the Bill Payments and/or Transfers they complete. You make information
+available when you provide it and/or fail to secure it.
+
+ACCOUNT ACCESS THROUGH THE DIGITAL PLATFORMS IS SEPARATE AND DISTINCT FROM
+YOUR EXISTING SIGNATURE ARRANGEMENTS FOR YOUR ACCOUNTS. THEREFORE, WHEN YOU
+GIVE AN INDIVIDUAL THE AUTHORITY TO ACCESS ACCOUNTS THROUGH THE DIGITAL
+PLATFORMS, THAT INDIVIDUAL MAY HAVE ACCESS TO ONE OR MORE ACCOUNTS TO WHICH
+THAT INDIVIDUAL WOULD NOT OTHERWISE HAVE SIGNATURE ACCESS. YOU ASSUME THE
+ENTIRE RISK FOR THE FRAUDULENT, UNAUTHORIZED OR OTHERWISE IMPROPER USE OF
+YOUR PASSWORD. WE SHALL BE ENTITLED TO RELY ON THE GENUINENESS AND AUTHORITY
+OF ALL INSTRUCTIONS RECEIVED BY US WHEN ACCOMPANIED BY SUCH PASSWORD, AND TO
+ACT ON SUCH INSTRUCTIONS.
+
+We are not liable to you for any errors or losses you sustain in using the Services except
+where we fail to exercise ordinary care in processing any transaction. We are also not liable
+for any failure to provide any service if the account(s) involved is no longer linked for the Bill
+Payments and Transfer Services. Our liability in any case shall be limited to the amount of any
+money improperly Transferred from your Pay From account or From Account less any
+amount, which, even with the exercise of ordinary care, would have been lost.
+
+Without regard to care or lack of care of either you or us, a failure to report to us any
+unauthorized Transfer, Bill Payment or error from any of your accounts within thirty (30) days
+of our providing or making available to you a bank statement showing such unauthorized
+Transfer, Bill Payment or error shall relieve us of any liability for any losses sustained after the
+expiration of such thirty-day period and you shall thereafter be precluded from asserting any
+such claim or error.
+
+Errors and Questions about Bill Payments and Transfers
+
+In case of errors or questions about your electronic Transfers that appear on your External
+Account statements, please contact the financial institution that provided such statement to
+you in accordance with the terms and conditions of your External Account.
+
+   • “Payment date” means the date you would like your payment sent, including payment to
+     your Chase Loan or Credit Account.
+   • “Payment(s)” refers to the service that allows for payments, including to eligible Chase
+     Loans or Credit Accounts.
+   • “Preauthorized Electronic Funds Transfer” means an electronic funds transfer you have
+     authorized in advance to recur at substantially regular intervals (e.g., Repeating
+     Transfers and Payments, and Automatic Payments).
+   • “Processed” means an electronic payment has been sent to the payee; however, since
+     electronic payees do not provide us with confirmation of receipt or processing of
+     electronic payments, you need to contact payee directly for confirmation.
+   • “Repeating” means recurring transfers made on fixed intervals (e.g. monthly) to the
+     same Payee or To Account, respectively, for the same amount which you can authorize
+     for transmission.
+   • “Sent” means the status of a Payment or Transfer where the funds have been debited
+     from the applicable account, but which Payment or Transfer has not yet been posted to
+     the account.
+   • “Transfers” means, collectively, Internal and External Transfers.
+
+
+IV. Terms Applicable to your use of the PFM Service
+
+General Terms Applicable to PFM Software Users and Use of Other Third
+Party Software
+
+The PFM Service allows you to use PFM Software, to access the Online Service to make Bill
+Payments and Transfers and access account information, such as balance and transaction
+history.
+
+The Digital Platforms utilize current releases of Quicken, QuickBooks and TurboTax, as may
+be made available from time to time from the respective software manufacturer. You are
+responsible for obtaining and maintaining any PFM Software that is required for operation of
+the PFM Service.
+
+The PFM Service
+
+The PFM Service allows you to make Bill Payments and Transfers, and to access account
+information.
+
+To activate the PFM Service you must have a checking, AMA or credit card account with us.
+Some services and functionality that may be available directly through the Digital Platforms
+may not be available via your PFM Software.
+
+Information about your account activity is synchronized with your PFM Software. You may
+access such information directly through the Digital Platforms, including information about
+Bill Payments and Transfers initiated through your PFM Software. Transfer and Bill Payment
+information via your PFM Software may differ from the information that is available directly
+through the Digital Platforms, may be described using different terminology, or may be less
+current than the information available via the Digital Platforms. The method of entering
+Instructions via your PFM Software may also differ from the method of entering Instructions
+directly through the Digital Platforms. We are not responsible for such differences, whether
+or not attributable to your use of PFM Software.
+
+The following Bill Payment or Transfer services or features are not available via PFM Software:
+
+   • Transfers to or from Investment Accounts;
+   • External Transfers; and
+   • Future Dated and Repeating Transfers.
+
+Depending on your PFM Software, you may not be able to enter Repeating Bill Payment
+Instructions via your software.
+
+Cancellation of your PFM Service
+
+You can cancel the PFM Service by calling 1-877-242-7372. When you call us, we may also
+require you to put your request in writing. You should cancel any Pending Bill Payments prior
+to canceling the PFM Service. When you cancel the PFM Service, you will no longer be able to
+access any of your PFM Service features via your PFM Software. Fees applicable to the PFM
+Service will continue to apply until you cancel the PFM Service. You will not receive a refund of
+any PFM Service Fee if your PFM Service is cancelled.
+
+
+V. Terms Applicable to Your Investment Accounts
+To the extent that the provisions in this Section V conflict with other provisions in this
+Agreement, the provisions in this Section V will prevail.
+
+Use of Other Third Party Software for Asset Accounts
+
+If you are an Investment Account holder, you may be given the ability to use third party
+software (such as Quicken or TurboTax) to access information regarding your accounts and
+transactions. We are not responsible for the use, interpretation, or presentation of
+information through such third party software or any data, reports, advice or other
+information produced by such third party software (including without limitation any data,
+reports, advice or information created for tax filing purposes) notwithstanding that we may
+allow or provide access to certain third party software to access such information for asset
+account download purposes.
+
+Risks of Electronic Transactions and Access to Information
+Your ability to access the Digital Platforms may be limited during periods of high volume,
+systems upgrades and maintenance or for other reasons. If the Digital Platforms are not
+available for transactions or if conditions render its use inappropriate, you agree to use
+alternative means to place your orders, such as calling J.P. Morgan Online Site Support. We
+will not be liable to you if you are unable to access the Digital Platforms or complete
+transactions through it.
+
+Conflicts of Interest
+
+J.P. Morgan Securities LLC has diverse business dealings with companies and entities that
+may be issuers of securities described in the website. Accordingly, J.P. Morgan Securities LLC
+and its employees may hold a position or act as market maker in the financial instruments of
+any issuer discussed herein or act as underwriter, placement agent, advisor, or lender to any
+such agent.
+
+Information Providers
+
+   1. By your use of the Online Service, you agree to the following conditions: Market Data is
+      solely for your individual use, and you will not retransmit or furnish Market Data to any
+      other person or entity. The Market Data is and shall remain the property of the
+      respective Information Providers or of the market on which the reported transaction
+      took place or a reported transaction was entered. The Information Providers are third-
+      party beneficiaries under these provisions and may enforce these provisions against
+      you. At any time, Information Providers may cease disseminating any category of Market
+      Data, may change or eliminate any transmission method and may change transmission
+      speeds or signal characteristics, and you shall not hold neither the Information
+      Providers nor us liable for any resulting liability, loss or damages that may arise
+      therefrom. These terms and conditions shall remain in effect as long as you have the
+      ability to receive Market Data through the Online Service as contemplated hereunder.
+   2. You agree to use the quotes provided by Information Providers only for your individual
+      use. You will not furnish the quotes to any person or entity.
+   3. Some of the financial market information, news and information (collectively,
+      Information) accessible through the Online Service is prepared by Information
+      Providers, who are independent parties. We may not identify information as provided by
+      third parties. Information and JPMorgan Securities LLC research reports are not
+      intended to provide tax, legal or investment advice. JPMorgan Securities LLC research is
+      subject to a disclaimer included in all research. Any materials excerpted or summarized
+      from a full research report are subject to the terms of the disclaimer. Neither we nor
+      any Information Provider assesses for you, or any particular investor, the suitability of
+      any particular investment on which you may receive information through the Online
+      Service. We do not assess for you or any particular investor the potential value of any
+      particular investment or the suitability of any Information source. We will treat as
+      unsolicited any security order you place after accessing Information.
+   4. If you are a securities professional, such as an investment advisor, you may occasionally
+      furnish limited amounts of quotes to your clients, but solely in the regular course of
+      your securities business. If you furnish quotes to your clients who are not on your
+      premises, you may do so solely (a) in written advertisements, educational material, sales
+      literature or similar written communications and (b) during telephonic voice
+      communication not entailing the use of computerized voice synthesis or similar
+      technology. You shall not permit any customer or client to take physical possession of
+      "your equipment" (i.e., the equipment that you use to receive, display, or otherwise use
+      quotes). You shall abide by any additional limitations on use of quotes that we may
+      specify in the future.
+   5. Neither the Information nor the research available through the Services is an offer to
+      buy or sell any security or financial instrument. No services or securities will be offered
+      or sold in any jurisdiction in which such offer or solicitation, purchase or sale would be
+      contrary to applicable local laws or regulations. The Information is for the use of the
+      private client who is the specific signatory to the Agreement and may not be reproduced
+      or distributed in any way without our specific written authorization.
+
+Portfolio Information
+
+The Online Service may permit you to view account data for your Investment Account and any
+other accounts linked to it. By accessing and using the Online Service, you represent on a
+continuing basis that you are authorized to have viewing access to any account that you
+access. All account data is provided as a convenience and for your information, but it is not
+the official record of your account or its activity. Your account statement shall remain the
+official record. The Online Service is generally updated regularly but is subject to adjustment
+and correction and therefore should not be relied upon as justification for taking any action
+or forbearing to take any action. All account information should be confirmed with J.P.
+Morgan Online Site Support before you take investment action.
+
+Right to Restrict Access
+
+J.P. Morgan Securities LLC reserves the right to terminate your access to Information and to
+take any other action it deems appropriate, at its sole discretion, without limitation for any
+reason whatsoever, including but not limited to, the unauthorized use of your account
+number(s), breach of this Agreement, discontinuance of J.P. Morgan Securities LLC's access to
+any Information or research reports or termination of one or more agreements between J.P.
+Morgan Securities LLC and the Information Providers.
+
+Access by your JPMorgan Online Team
+
+You acknowledge and agree that any information you enter or provide through the Online
+Service will be accessible by any member of your J.P. Morgan team, including, without
+limitation, your banker, relationship manager, broker, sales trader, investment manager,
+wealth advisor and members of the Client Service team. Information which you enter that will
+be accessed by members of your J.P. Morgan team includes information relating to assets
+held at other institutions and other personal information.
+
+Access by your Advisors
+
+    i. If you would like to grant your advisors access to the Service, please contact your client
+       service team to make the appropriate arrangements. If you grant access to such
+       specified third parties, they will be able to view all information related to you and your
+       accounts (including family member accounts and other accounts that are linked to your
+       accounts) and assets provided through various designated sections of the Service, as
+       well as any other information provided by those sections of the Service. Any authorized
+       third party whom you permit access to the Digital Platforms will also be able to
+       print out such information.
+   ii. Your Responsibilities. After you have granted your Agent(s) and/or Attorney(s)-in-Fact
+       access to the Online Service by making the necessary arrangements through your client
+       service team, your Agent(s) and/or Attorney(s)-in-Fact will be given a user name and
+       individually selected password, which we will transmit to them. It is your responsibility
+       to ensure that your Agent(s) and/or Attorney(s)-in-Fact will not share their passwords
+       with any person and will take all reasonable precautions to keep the passwords
+       confidential and to prevent unauthorized access. Upon the conclusion of each session
+       your Agent(s) and/or Attorney(s)-in-Fact must log off the Online Service to ensure that
+       no one else can enter your account if they leave their computer unattended. You agree
+       to take full responsibility for the consequences of any unauthorized access, including
+       responsibility for all orders entered through and under each of your Agent's and/or
+       Attorney-in-Fact's passwords. Any orders received by J.P. Morgan will be deemed to have
+       been received by us at the time received and in the form received. You assume full
+       responsibility for the disclosure of any confidential information by your employees,
+       Agent(s), Attorney(s)-in-Fact or other third parties.
+  iii. You must notify us or ensure that your Agent(s) and/or Attorney(s)-in-Fact notify us
+       immediately by calling 866-265-1727 (or 302-634-5115) if you are an international client)
+       if you or they become aware of: the loss or compromising of any password or other
+       secure access information entrusted to your Agent(s) and/or Attorney(s)-in-Fact any
+       unauthorized use of your password(s) assigned to Agent(s) and/or Attorney(s)-in-Fact
+       any inaccuracies in your personal or account information you agree to hold us harmless
+       from any loss or liability resulting from acting, purporting to act or disclosing any
+       information in accordance with your authorization pursuant to electronic or other
+       written instructions granting View Only, View and Update and View and Transact
+       privileges on the Online Service to your Agent(s) and/or Attorney(s)-in-Fact.
+
+Investment Products and Services; JPMorgan Funds
+
+Investment products and services are offered through J.P. Morgan Securities LLC, a member
+of FINRA and SIPC.
+
+J.P. Morgan Securities LLC is an affiliate of JPMorgan Chase Bank, National Association.
+
+Securities (including mutual funds) are not bank deposits and are not FDIC insured, nor
+are they obligations of or guaranteed by JPMorgan Chase Bank, National Association,
+or its affiliates. Securities (including mutual funds) involve investment risks, including
+the possible loss of the principal amount invested.
+
+JPMorgan Funds are distributed by JPMorgan Distribution Services, Inc., member FINRA,
+which is an affiliate of JPMorgan Chase & Co. Affiliates of JPMorgan Chase & Co., including,
+among others, JPMorgan Chase Bank, National Association receive fees for providing various
+services to JPMorgan Funds and JPMorgan Distribution Services, Inc. An investment in the
+JPMorgan Funds Money Market Funds is not insured or guaranteed by the Federal Deposit
+Insurance Corporation or any other government agency. Although such Funds seek to
+preserve the value of your investment at $1.00 per share, it is possible to lose money by
+investing in the Funds. For additional information about the JPMorgan Funds, including
+charges and expenses, call 1-800-480-4111 for a prospectus. Please read the prospectus
+carefully before investing or sending money.
+
+Your enrollment may also provide you with access to Market Alerts. Market Alerts are
+provided as an accommodation to you. You should not rely on Market Alerts, or the absence
+of a Market Alert, for any purpose, including without limitation, as the basis for any trade or
+other action in regard to any investment or security. Market Alerts may be delayed at least 20
+minutes and should not be considered real time information. Market Alerts are provided for
+informational purposes only and are not offers or solicitations for the purchase or sale of any
+securities or financial instrument or for the provision of any investment service or advice.
+Market Alerts are not recommendations by us or any other party, and specifically are not,
+without limitation: (a) recommendations regarding the purchase or sale of any investment or
+security; (b) investment advice; (c) a judgment regarding the suitability of any investment or
+security; or (d) a representation regarding the availability of any investment or security at the
+price presented or other price.
+
+
+VI. Terms Applicable to Your Use of the Gifting Service
+    i. You may use your eligible Pay From Account to buy a digital merchant gift card (“Gift
+       Card”) to send to another Chase customer, as well as anyone you know residing in the
+       United States (the “Gifting Service”). Eligible accounts for this service are currently
+       certain Chase checking accounts and Chase Liquid® card. We have the right to
+       determine eligibility and to restrict categories of accounts and recipients to whom Gift
+       Cards can be sent using the Gifting Service in our sole discretion.
+   ii. You cannot buy a physical gift card through the Gifting Service.
+  iii. We provide the Gifting Service through an arrangement with our gift card service
+       provider or the merchant that accepts the Gift Card and the merchant’s vendor. We
+      have the right to determine eligibility and to restrict categories of merchants from
+      whom Gift Cards can be purchased using the Gifting Service in our sole discretion.
+  iv. We do not sell or issue the Gift Cards. When you buy a Gift Card through the Gifting
+      Service, you are purchasing a Gift Card from the merchant or its vendor that can only be
+      used with that merchant. We are not responsible for any damage or harm to you or any
+      third party resulting from the purchase of a Gift Card through the Gifting Service. We do
+      not warrant the availability or functionality of a Gift Card purchased through the Gifting
+      Service.
+   v. To buy a Gift Card, you must enter the Gift Card amount, the Send On date, and the
+      recipient’s email address or other information as we may require. The email address
+      must belong to the intended recipient residing in the United States. You should only use
+      the Gifting Service to send Gift Cards to people that you know. Please make sure you
+      accurately enter the recipient's email address since your obligation to pay for the Gift
+      Card will not be excused by an error in the information you enter. Both Chase and a
+      merchant may limit the amount of a Gift Card you can purchase. You acknowledge and
+      agree that Gift Card purchase will be completed using only the email address you
+      provided for the recipient, even if it identifies a person different from your intended
+      recipient. The name you enter will help you identify your intended recipient and the
+      purchase in your transaction history but will not be used to process the Gift Card
+      purchase or to validate that the intended recipient owns or has authorized access to the
+      email address you entered.
+  vi. We will not process your payment for the Gift Card if you do not have sufficient funds in
+      your designated Pay From Account on the Send On date or at the time the transaction is
+      initiated for Current Day purchases of Gift Cards. If sufficient funds are not in the Pay
+      From Account on the Send On date or at the time the transaction is initiated for Current
+      Day purchases, the Gift Card transaction will fail and we will not make repeat attempts
+      to debit the applicable account.
+ vii. We will share your Gift Card information including recipient’s information with our gift
+      card service provider or the merchant, who will share the information with their vendor.
+      Our gift card service provider or the merchant and the merchant’s vendor are
+      responsible for delivering the Gift Card to the person you choose and to the email
+      address or other contact information you provided. If your payment for the Gift Card is
+      successful, you authorize us to withdraw and transfer money from your Pay From
+      Account in the amount of the Gift Card immediately or on the Send On date, as
+      applicable, to pay our gift card service provider or the merchant.
+viii. Gift Cards can be purchased in amounts of up to $100 per transaction with a maximum
+      of $1,000 per day, and $5,000 in any calendar month, in the aggregate from all your
+      combined accounts registered with the Gifting Service. All limits are subject to
+      temporary reductions to protect the security of customer accounts and/or our
+      processing systems. At our discretion we may refuse to process any transaction that
+      exceeds any of the limits. In this case, you are responsible for making alternate
+      arrangements or rescheduling the Gift Card purchase.
+ ix. We are not responsible for any acts or omissions by our gift card service provider or the
+       merchant or their vendor.
+   x. A Gift Card is subject to terms and conditions imposed by the merchant that accepts the
+       Gift Card and the merchant’s vendor. We do not control the terms of a Gift Card
+       purchased through the Gifting Service. Nothing in those terms and conditions limits our
+       rights or your obligations under any agreement between you and us. We do not provide
+       Gift Card support services related to issues arising after the issuance of the Gift Card.
+       You must contact our gift card service provider or the merchant or their vendor to
+       resolve issues related to a Gift Card arising after issuance of the Gift Card.
+  xi. There is no service fee from us to use the Gifting Service. However, if we process a
+       payment in accordance with your Instructions that overdraws your Pay From Account
+       with us, we may assess a fee or charge interest for any such overdraft in accordance
+       with the terms of your Deposit Account Agreement. Fees are subject to change from
+       time to time upon notice to you as may be required by law.
+ xii. You may not edit or cancel a pending or processed Gift Card, but you may cancel any
+       Future Dated Gift Cards up until the Send On date.
+ xiii. Gift Cards cannot be returned, refunded, replaced, or redeemed for cash.
+ xiv. Gift Cards may only be sent to a recipient in the United States and may only be
+       redeemed within the United States.
+
+
+VII. Terms Applicable to Your Use of the Real-Time
+Payments Service
+By sending payments or receiving payments through the Real-Time Payments Service, you
+agree that you accept and will comply with the terms and conditions set forth in this
+Agreement. If you wish to return a payment received through the Real-Time Payments
+Service, you must contact us at 877-242-7372 (J.P. Morgan Online clients only, call 877-840-
+0723).
+
+About the Real-Time Payments Service
+
+The Real-Time Payments Service enables you to send payments to and receive payments
+from Persons that bank with Service Participants, which includes the ability to send payments
+to your accounts with other Service Participants. In addition, if enabled by us, you can use the
+Real-Time Payments Service to receive requests for payment from Persons that bank with
+Service Participants and to send requests for payment to Persons that bank with Service
+Participants.
+
+Sending Funds
+
+You may initiate a Service Transfer by submitting a request (a “Service Transfer Request”)
+through Chase Online, Chase Mobile®, Chase Business Online, J.P. Morgan Online, J.P.
+Morgan Mobile, or such other Digital Platforms as we may make available from time to time.
+When you submit a Service Transfer Request, you will be required to provide Receiver
+Addressing Information for the Receiver and the Service Transfer Amount. By submitting a
+Service Transfer Request, you represent and warrant that the Service Transfer complies with
+these Terms.
+
+By submitting a Service Transfer Request, you irrevocably and unconditionally authorize us to
+deduct the Payment Amount from your account. We may deduct this amount immediately
+upon receipt of your submission of the Service Transfer Request.
+
+The Real-Time Payments Service is typically available 24 hours a day, 7 days a week, including
+weekends and state and federal holidays. However, the Real-Time Payments Service may be
+unavailable from time to time, including due to scheduled or unscheduled maintenance.
+
+     You may not send through the Real-Time Payments Service more than: (i) $5,000.00 in a
+     single transaction, $10,000.00 in one day, or $50,000.00 in one month from a Consumer
+     Account; (ii) $25,000.00 in a single transaction or your currently applicable daily
+     transfers limit (with no monthly limit) from a Business Account; or (iii) $10,000.00 in a
+     single transaction or $20,000.00 in one day (with no monthly limit) from a Private
+     Banking Account. We may establish lower transaction limits for you and may block any
+     attempted Service Transfer that exceeds the limit(s). We may adjust the limits at any
+     time in our sole discretion. We will notify you of such adjustments.
+
+Risks Associated with the Real-Time Payments Service
+
+There are risks associated with using the Real-Time Payments Service. Service Transfers are
+irrevocable and cannot be reversed. You should only use the Real-Time Payments Service to
+make payments to Persons that you know. If you receive a request for payment through the
+Real-Time Payments Service, you should verify that the request relates to a payment you
+were expecting to make to the Person who requested payment. If a request for payment that
+you receive through the Real-Time Payments Service does not relate to a payment you were
+expecting to make to the Person who requested payment, please notify us at 877-242-7372
+(J.P. Morgan Online clients only, call 877-840-0723). If a Person contacts you outside of the
+Real-Time Payments Service and asks for payment, you should verify the identity, legitimacy
+and contact information of the requestor and the amount of the payment prior to submitting
+a Service Transfer Request. If you send payment to a Person that you do not know, or
+you do not verify the identity and legitimacy of Persons who contact you and ask for
+payment, you may lose the full amount of your payment.
+
+We do not provide buyer protection with respect to Service Transfers. That means that you
+cannot reverse or dispute a Service Transfer on the basis that you are dissatisfied with the
+goods or services provided by the Receiver; because the Receiver has failed to deliver goods
+or perform services, whether at all or in a timely manner; or because you wish to return
+purchased goods or cancel a pre-paid service.
+The Real-Time Payments Service does enable you to request that a Receiver return funds to
+you, but the Receiver is not obligated to return the funds. This includes circumstances in
+which the incorrect amount of funds was transferred because you entered the incorrect
+Service Transfer Amount or funds were sent to someone other than your intended Receiver
+because you incorrectly entered the Receiver Addressing Information or the Receiver
+Addressing Information you entered was associated with someone other than your intended
+Receiver. If you wish to request that a Receiver return funds that you sent through the Real-
+Time Payments Service (a “Return Request”), please notify us at 877-242-7372 (J.P. Morgan
+Online clients only, call 877-840-0723). Our sole obligation is to transmit the Return Request
+to the Receiving Financial Institution through the Real-Time Payments Service. We cannot
+guarantee that funds will be returned in whole or in part and shall have no obligation to make
+any effort to recover such funds beyond the transmission of the Return Request.
+
+Any dispute between you and a Receiver must be resolved directly between you and the
+Receiver. We have no responsibility for, and shall not be liable to you in connection
+with, any dispute between you and a Receiver.
+
+By submitting a Service Transfer Request, you irrevocably and unconditionally authorize us to
+initiate a payment using the Receiver Addressing Information. Based on information available
+to us, we will provide you the Receiver name associated with the Receiver Addressing
+Information. HOWEVER, WE MAKE NO REPRESENTATION THAT THE INFORMATION
+AVAILABLE TO US IS CORRECT, AND YOU ARE RESPONSIBLE FOR VERIFYING THAT THE
+RECEIVER ADDRESSING INFORMATION IS ACCURATE AND COMPLETE, THAT SUCH
+INFORMATION IS ASSOCIATED WITH YOUR INTENDED RECEIVER, AND THAT THE
+AMOUNT OF THE PAYMENT IS CORRECT PRIOR TO SUBMITTING A SERVICE TRANSFER
+REQUEST. YOU ACKNOWLEDGE AND AGREE THAT WE HAVE NO OBLIGATION TO VERIFY
+THE ACCURACY OR COMPLETENESS OF THE RECEIVER ADDRESSING INFORMATION OR
+THAT THE RECEIVER ADDRESSING INFORMATION IS ASSOCIATED WITH YOUR INTENDED
+RECEIVER. EXCEPT AS OTHERWISE REQUIRED BY STATE OR FEDERAL LAW, OUR SOLE
+OBLIGATION SHALL BE TO INITIATE A PAYMENT THROUGH THE REAL-TIME PAYMENTS
+SERVICE IN THE SERVICE TRANSFER AMOUNT INDICATED BY YOU USING THE RECEIVER
+ADDRESSING INFORMATION PROVIDED BY YOU. EXCEPT AS OTHERWISE REQUIRED BY
+STATE OR FEDERAL LAW, WE SHALL HAVE NO LIABILITY TO YOU WITH RESPECT TO ANY
+LOSS THAT YOU EXPERIENCE DUE TO THE INACCURACY OR INCOMPLETENESS OF SUCH
+RECEIVER ADDRESSING INFORMATION, THE FAILURE OF SUCH INFORMATION TO BE
+ASSOCIATED WITH YOUR INTENDED RECEIVER, OR YOUR FAILURE TO CORRECTLY ENTER
+THE RECEIVER ADDRESSING INFORMATION OR THE SERVICE TRANSFER AMOUNT.
+
+Receiving Payments
+
+You are not obligated to accept a payment that is sent to you through the Real-Time
+Payments Service. If you wish to reject a payment sent to you through the Real-Time
+Payments Service, please contact us at 877-242-7372 (J.P. Morgan Online clients only, call 877-
+840-0723).
+
+A Sender may request that you return funds sent through the Real-Time Payments Service. If
+we receive a return request, we will contact you.
+
+Incoming payments to you through the Real-Time Payments Service cannot exceed
+$25,000.00 per transfer. If you are expecting a Service Transfer, it is your responsibility to
+advise the Sender of this limit.
+
+Fees
+
+There are no fees to use the Real-Time Payments Service at this time. However, we may
+charge fees at a later time, in which case we will provide you with notice prior to charging any
+fees. Your continued use of the Real-Time Payments Service after such notice constitutes your
+agreement to the fees.
+
+The fee for sending a payment using Real-Time Payments Service for Vendors and Employees
+will be the lesser of $25 or 1% of the total payment amount; provided, however, that this
+amount may vary if you are also a Private Banking customer.
+
+Requests for Payment
+
+If enabled, you may use the Real-Time Payments Service to submit requests for payment,
+subject to the following terms:
+
+   • You may only submit requests for payment to Persons who: (i) are known to you; and (ii)
+     would reasonably expect to receive a request for payment from you.
+   • By submitting a request for payment, you represent and warrant that the request is not
+     for a Prohibited Payment (as defined below) and is not fraudulent, abusive, or unlawful.
+   • You acknowledge and agree that we do not guarantee that the Sender will send
+     payment in response to or otherwise accept your request for payment.
+   • Any dispute between you and a Sender must be resolved directly between you and the
+     Sender. We have no responsibility for, and shall not be liable to you in connection
+     with, any dispute between you and a Sender.
+   • You acknowledge and agree that we may suspend or terminate your ability to submit
+     requests for payment or your access to the Real-Time Payments Service in the event
+     that we reasonably suspect you have failed to comply with these Terms in conjunction
+     with requests for payment.
+
+Failed Service Transfers
+
+A Service Transfer may fail if:
+
+   • There are insufficient funds available in the Sender’s account when the Sender submits
+     the Service Transfer Request;
+   • The Sending Institution or Receiving Institution suspects or determines that the Service
+     Transfer does not comply with these Terms or the rules of the Real-Time Transfer
+     System;
+   • The Receiver rejects the Service Transfer or has declined to receive Service Transfers;
+   • The Service Transfer Request exceeds the Sender’s limit(s);
+   • The Receiver’s account at the Receiving Institution is closed, invalid, ineligible to receive
+     Service Transfers, or being monitored for suspected fraudulent or other illegal activity;
+   • The Sender’s account at the Sending Institution is being monitored for suspected
+     fraudulent or other illegal activity;
+   • The Sending Institution or Receiving Institution otherwise declines to process the Service
+     Transfer for risk-management, legal, or regulatory reasons; or
+   • The Real-Time Payments Service is unavailable.
+
+In addition, completion of a Service Transfer may be delayed if the Service Transfer is subject
+to review by the Sending Institution or Receiving Institution for fraud, regulatory or
+compliance purposes. Service Transfer Requests are typically completed within 15 seconds of
+transmission of the Service Transfer Request by the Sender, unless the Service Transfer fails
+or is delayed as described above.
+
+If you are the Sender, we will notify you if a Service Transfer fails. If you are the Receiver, we
+will not communicate to you that the Service Transfer has failed. If you have not received a
+Service Transfer that you were expecting, you must contact the Sender.
+
+Availability of Funds
+
+Funds transferred through the Real-Time Payments Service will be credited to the Receiver’s
+account by the Receiving Institution immediately upon completion of the Service Transfer
+Request, and will be available for withdrawal by the Receiver immediately. Funds are available
+immediately 24 hours per day, 7 days per week, including weekends and state and federal
+holidays.
+
+Prohibited Payments
+
+You agree that you shall not use the Real-Time Payments Service to make or receive any of
+the following types of payments (each, a “Prohibited Payment”): (i) payments that violate or
+appear to violate any local, state, or federal law or regulation; (ii) payments to accounts
+domiciled outside the United States; (iii) payments transmitted solely for the purpose of
+determining whether the Receiver Addressing Information is valid (a “Test Payment”),
+provided, that you may conduct a Test Payment if you have a bona fide need to do so in order
+to determine the validity of Receiver Addressing Information provided to you by a Receiver
+that wishes to receive a payment from you; or (iv) any other payment that violates this
+Agreement.
+
+You acknowledge that you are permitted to use the Real-Time Payments Service solely for the
+purpose of making or receiving payments: (i) on your own behalf; or (ii) on behalf of Persons
+that are resident of or domiciled in the United States of America. If you make or receive
+payments on behalf of another Person, you must comply with all applicable laws and
+regulations in conjunction with such payments, including all regulations of the Office of
+Foreign Assets control. You acknowledge that any payment that violates the foregoing
+restrictions is a Prohibited Payment.
+
+Transaction Errors; Unauthorized Transactions; Lost or Stolen Passwords
+
+If you permit other persons to use the Real-Time Payments Services, or use or access your
+Password, you are responsible for any transactions they authorize from your accounts. If you
+believe that your Password has been lost or stolen or that someone has or may initiate
+a Service Transfer from your account without your permission, notify us AT ONCE, by
+calling 1-877-242-7372 (J.P. Morgan Online clients only, call 877- 840-0723) or writing us
+at Online Customer Service, P. O. Box 2558, Houston, TX 77252-9968.
+
+You must tell us immediately if you believe your Password has been lost or stolen or that an
+unauthorized Service Transfer has been made from any of your deposit or prepaid accounts.
+Telephoning us is the best and fastest way of keeping your possible losses to a minimum. If
+you do not do so, you could lose all the money in each of the accounts, as well as all of the
+available funds in any overdraft protection account or any other credit line included among
+your accounts.
+
+If you do not tell us within two (2) Business Days after you discover the loss or theft of your
+Password, you may not be reimbursed if someone makes a Service Transfer without your
+authorization. If you do not tell us within two (2) Business Days after you discover the loss or
+theft of your Password or that an unauthorized Service Transfer has been made from any of
+your deposit or prepaid accounts, and we can prove we could have stopped someone from
+making a Service Transfer without your authorization if you had told us, you could lose as
+much as $500.
+
+Furthermore, if any account statement shows Service Transfers that you did not make, tell us
+AT ONCE. If you do not tell us within sixty (60) days after a statement showing such a Service
+Transfer was transmitted to you, you may not be reimbursed the money you lost after the
+sixty (60) days if we can prove that we could have stopped someone from taking the money if
+you had told us in time.
+
+If a good reason, such as a long trip or hospital stay, kept you from telling us, we may extend
+the time periods.
+
+
+VIII. Terms Applicable To Your Use of Digital Wallets with
+Chase Cards
+This Section contains the terms for adding or activating your Chase Card in an online
+payment tool such as an app, online website or service, or software program owned by us or
+by a third party that stores virtual versions of debit and credit cards for making transactions
+electronically without presentment of the physical card, often called a wallet, e-wallet or
+digital wallet (“Wallet”). These terms (the “Terms”) apply when you choose to add or Activate
+an eligible Chase credit card or debit card ("Chase Card") in a Wallet. “Activate” means using
+or choosing to retain your eligible Chase Card that has been pre-populated or automatically
+provisioned to a Wallet. In these Terms, "you" and "your" refer to the cardholder of the Chase
+Card, and "we," "us," "our," and "Chase" refer to JPMorgan Chase Bank, N.A.
+
+When you add or Activate a Chase Card in a Wallet, you agree to these Terms:
+
+Adding/Activating Your Chase Card
+
+You can add or Activate an eligible Chase Card to a Wallet by either following our instructions
+as they appear on a Chase proprietary platform (e.g., Chase Mobile® app or chase.com) or by
+following the instructions of the Wallet Provider. “Wallet Provider” means a third party
+provider of a Wallet or Chase, if Chase directly provides the Wallet. Chase may provision
+certain eligible Chase Cards into Wallets owned or operated by Chase. Chase may also
+provision certain eligible Chase Cards into other Wallets, such as PazeSM, a Wallet owned and
+operated by Early Warning Services, LLC. Only Chase Cards that we determine are eligible can
+be added to or Activated in a Wallet. If your Chase Card or underlying account is not in good
+standing, that Chase Card will not be eligible to be added to or provisioned in a Wallet. We
+may determine other eligibility criteria in our sole discretion.
+
+When you add a Chase Card to a Wallet, the Wallet may allow you to: (a) use the Chase Card
+to (i) enable transfers of money between you and others who are enrolled with the Wallet
+Provider or a partner of such Wallet Provider, and/or (ii) enter into transactions where the
+Wallet is accepted, including the ability to use the Chase Card to complete transactions at
+participating merchants' physical locations, ecommerce locations, and at ATMs; and (b) use
+other services that are described in the Wallet Provider's agreement or that they may offer
+from time to time. A Wallet may not be accepted at all places where your Chase Card is
+accepted. We reserve the right to terminate our participation in a Wallet or with a Wallet
+Provider at any time and the right to designate a maximum number of Chase Cards that may
+be added to a Wallet. We may block a Chase Card in a Wallet from certain transactions or
+purchases at any time.
+
+Chase Card Eligibility for PazeSM and other Wallets with Automatic
+Provisioning
+
+Unless otherwise stated herein, your Chase Card may be eligible for Chase to provision your
+card into PazeSM or other Wallets to enable your use of your card in PazeSM or other Wallets.
+Your Chase Card may be eligible for provisioning, and Chase may provision your Chase Card,
+into PazeSM or another Wallet if your Chase Card is in good standing, you are a Chase Card
+customer and have an active digital profile (i.e., login credentials that provide access to your
+account on our Digital Platforms) (“Digital Profile”) or you are a new or existing Chase
+customer with a Digital Profile who opens a new Chase checking or credit card account. Other
+eligibility criteria may apply and may be determined at our sole discretion.
+
+If your Chase Card is eligible for PazeSM or another Wallet, Chase will securely send your
+Chase Card information and other information about your account and device to the Wallet
+Provider to prepopulate your eligible Chase Cards into the Wallet for your use. Other
+information securely provided to the Wallet Provider may include your social security
+number, phone number, and email address.
+
+Early Warning Services, LLC is the PazeSM Wallet Provider.
+
+You will need to accept the PazeSM Terms of Service in order to activate your PazeSM Wallet
+and use it for purchases at participating merchants. For more information on PazeSM, please
+visit https://chase.com/paze. Other Wallets may have similar requirements to Activate your
+ability to use your Chase Card therein.
+
+Your Chase Card Terms Do Not Change
+
+The terms and agreement that govern your Chase Card do not change when the Chase Card
+is added to, provisioned in, or Activated in a Wallet. The applicable Card Member Agreement
+or account agreement that governs the Chase Card, as amended from time to time, are
+incorporated by reference as part of these Terms and remain in full force and effect. Please
+review those agreements for important information on your rights and responsibilities when
+making transactions through a Wallet.
+
+Applicable Fees
+
+Any applicable interest, fees, and charges that apply to your Chase Card or underlying
+account will also apply when you use a Wallet to access your Chase Card. Chase does not
+charge you any additional fees for adding your Chase Card to or using your Chase Card in a
+Wallet. The Wallet Provider and other third parties, such as wireless companies or data
+service providers, may charge you fees in your use of a Wallet. You are solely responsible for
+reporting and paying any applicable taxes arising from transactions originated using your
+Chase Card information transmitted by a Wallet and you shall comply with any and all
+applicable tax laws in connection therewith.
+
+Chase Is Not Responsible for a Third-Party Wallet
+
+Chase is not the Wallet Provider of non-Chase owned and operated Wallets (“third-party
+Wallets”) and we are not responsible for providing third-party Wallet services to you. In your
+use of third-party Wallets, Chase is only responsible for supplying information securely to the
+third-party Wallet Provider to allow usage of the Chase Card in the third-party Wallet. We are
+not responsible for any failure of a third-party Wallet, for any errors in the third-party Wallet
+or delays caused by or the inability to use a third-party Wallet for any transaction. We are not
+responsible for the performance or non-performance of a third-party Wallet Provider or any
+other third parties regarding any agreement you enter into with the third-party Wallet
+Provider or associated third-party relationships that may impact your use of a third-party
+Wallet.
+
+Transaction History
+
+You agree and acknowledge that the transaction history displayed in a Wallet solely
+represents our authorization of your Wallet transaction and may not reflect complete
+information about the transaction, nor any post-authorization activity, including but not
+limited to clearing, settlement, foreign currency exchange, reversals, returns or chargebacks.
+Accordingly, the purchase amount, currency, and other details for the Wallet Provider's
+transaction history in connection with use of your Card in a Wallet may be preliminary and/or
+incomplete, and may not match the transaction amount that ultimately clears, settles, and
+posts to your Card's billing or monthly statement, which shall be deemed the prevailing
+document.
+
+Contacting You Electronically and by Email or through Your Mobile Device
+
+You consent to receive electronic communications and disclosures from us in connection with
+your Chase Card and a Wallet. You agree that we can contact you by email at any email
+address you provide to us in connection with any Chase product, service or account, or
+through the mobile device on which you have downloaded the Chase Mobile app.
+Communications to you may include contact from companies working on our behalf to
+service your accounts. You agree to update your contact information with us when it changes.
+
+Removing Your Chase Card from a Wallet
+
+You should contact the Wallet Provider on how to remove a Chase Card from a Wallet. If the
+wallet is located on a Chase proprietary platform (e.g., Chase Mobile® app, chase.com, or
+other) information may be located on that proprietary platform.
+
+Governing Law and Disputes
+
+These Terms are governed by federal law and, to the extent that state law applies, the laws of
+the state that apply to the agreement under which your Chase Card is covered. Disputes
+arising out of or relating to these Terms will be subject to any dispute resolution procedures
+in your Chase Card agreement.
+
+Ending or Changing these Terms; Assignments
+We can terminate these Terms at any time. We can also change these Terms, or add or delete
+any items in these Terms, at any time. Your use of a Chase Card in a Wallet after we have
+made such changes available will be considered your agreement to the changes. We will
+provide notice if required by law. We can also assign these Terms. Furthermore, subject to
+applicable law, at any time we may (i) terminate your use of any Chase Card in connection
+with a Wallet, (ii) modify or suspend the type or dollar amounts of transactions allowed using
+Chase Cards in connection with a Wallet, (iii) change a Chase Card's eligibility for use with a
+Wallet and/or (iv) change the Chase Card authentication process. You cannot change these
+terms, but you can terminate these Terms at any time by removing all Chase Cards from the
+Wallet. You may not assign these Terms.
+
+Privacy
+
+Your privacy and the security of your information are important to us. Our Online Privacy
+Policy and, where appropriate, our U.S. Consumer Privacy Notice (available online at:
+https://www.chase.com/), as amended from time to time, applies to your use of your Chase
+Card in the Wallet. You may be provided with the ability to share your Chase Card number
+with Wallet Providers or a payment network, and you agree that we may share certain of your
+other information with the Wallet Providers, merchants, a payment network, and others in
+order to provide the services you have requested, to make information available to you about
+your Chase Card transactions, and to improve our ability to offer these services. This
+information helps us to add your Chase Card to the Wallet and to maintain the Wallet.
+Customers whose cards are automatically provisioned into a Wallet such as PazeSM will have
+their information securely transmitted to the Wallet Provider for wallet creation. This
+information includes, but is not limited to, the Chase Card number, Social Security Number,
+phone numbers and email addresses on file with Chase. We do not control the privacy and
+security of your information that may be held by the Wallet Provider and that is governed by
+the privacy policy given to you by the Wallet Provider. Consult your Wallet Provider’s privacy
+policy for details on how they use your data.
+
+Notices
+
+We can provide notices to you concerning these Terms and your use of a Chase Card in a
+Wallet by posting the material on our website, through electronic notice given to any
+electronic mailbox we maintain for you or to any other email address or telephone number
+you provide to us, or by contacting you at the current address we have on file for you. You
+may contact us at: 1-888-364-7250.
+
+Limitation of Liability; No Warranties
+
+CHASE IS NOT AND SHALL NOT BE LIABLE FOR ANY LOSS, DAMAGE OR INJURY OR FOR ANY
+DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES,
+INCLUDING LOST PROFITS, ARISING FROM OR RELATED TO THE ADDING OF A CHASE CARD
+TO A WALLET, OR YOUR ACCESS OR USE OF A WALLET. TO THE FULLEST EXTENT PERMITTED
+BY LAW, WE DISCLAIM ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS OF ANY KIND
+(EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE AND
+NON-INFRINGEMENT OF PROPRIETARY RIGHTS) AS TO ANY AND ALL WALLETS AND ALL
+INFORMATION, PRODUCTS AND OTHER CONTENT INCLUDED IN OR ACCESSIBLE FROM THE
+WALLETS.
+
+Questions
+
+If you have any questions, disputes, or complaints about a Wallet, contact the Wallet Provider
+using the information given to you by the provider. If your question, dispute, or complaint is
+about your Chase Card, then contact us at: 1-888-364-7250.
+
+Esta página contiene información acerca del uso de su tarjeta Chase Visa® en billeteras
+digitales. Si tiene alguna pregunta, por favor, llame al número que aparece en el reverso de
+su tarjeta.
+
+Credit and debit card products are provided by JPMorgan Chase Bank, N.A. Member FDIC
+
+
+IX. Additional Terms Applicable To All Users of the Digital
+Platforms
+
+Limitation of Liability
+
+EXCEPT AS SPECIFICALLY SET FORTH HEREIN OR WHERE THE LAW REQUIRES A DIFFERENT
+STANDARD, WE SHALL NOT BE RESPONSIBLE FOR ANY LOSS, DAMAGE OR INJURY OR FOR
+ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES,
+INCLUDING LOST PROFITS, ARISING FROM OR RELATED TO THE SYSTEM, EQUIPMENT,
+BROWSER AND/OR THE INSTALLATION OR MAINTENANCE THEREOF, ACCESS TO OR USE OF
+THE DIGITAL PLATFORMS AND SERVICES, YOUR GRANTING US SCREEN SHARING OR REMOTE
+CONTROL ACCESS TO YOUR COMPUTER SYSTEMS, FAILURE OF ELECTRONIC OR MECHANICAL
+EQUIPMENT, THE INTERNET, THE SYSTEM, OR COMMUNICATION LINES, TELEPHONE OR
+OTHER INTERCONNECT PROBLEMS, BUGS, ERRORS, CONFIGURATION PROBLEMS OR
+INCOMPATIBILITY OF COMPUTER HARDWARE, SOFTWARE, THE INTERNET, OR THE SYSTEM,
+FAILURE OR UNAVAILABILITY OF INTERNET ACCESS, PROBLEMS WITH INTERNET SERVICE
+PROVIDERS, PROBLEMS OR DELAYS WITH INTERMEDIATE COMPUTER OR COMMUNICATIONS
+NETWORKS OR FACILITIES, PROBLEMS WITH DATA TRANSMISSION FACILITIES OR ANY OTHER
+PROBLEMS YOU EXPERIENCE DUE TO CAUSES BEYOND OUR CONTROL.
+
+No Warranties
+
+EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN ANY APPLICABLE AGREEMENT, YOU
+UNDERSTAND AND AGREE THAT WE PROVIDE NO WARRANTIES REGARDING YOUR USE OF
+THE DIGITAL PLATFORMS AND SERVICES. THE DIGITAL PLATFORMS AND SERVICES ARE
+INFORMATION, SOFTWARE, PRODUCTS AND OTHER CONTENT (INCLUDING THIRD PARTY
+INFORMATION, PRODUCTS AND CONTENT) PROVIDED ON AN "AS IS" "WHERE-IS" AND
+"WHERE AVAILABLE" BASIS, AND ARE SUBJECT TO CHANGE AT ANY TIME WITHOUT NOTICE TO
+YOU. YOU ACKNOWLEDGE THAT WE MAKE NO WARRANTY THAT THE ONLINE SERVICE WILL
+BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE UNLESS OTHERWISE STATED ON THE
+SITE OR IN ANY APPLICABLE AGREEMENT. TO THE FULLEST EXTENT PERMITTED BY LAW, WE
+DISCLAIM ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS OF ANY KIND (EXPRESS,
+IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-
+INFRINGEMENT OF PROPRIETARY RIGHTS) AS TO THE DIGITAL PLATFORMS AND SERVICES
+AND ALL INFORMATION, PRODUCTS AND OTHER CONTENT (INCLUDING THIRD PARTY
+INFORMATION, PRODUCTS AND CONTENT) INCLUDED IN OR ACCESSIBLE FROM THE SITES.
+NO LICENSE TO YOU IS IMPLIED IN THESE DISCLAIMERS.
+
+Disputes
+
+In the event of a dispute arising under or relating in any way to this Agreement or to the
+Digital Platforms provided under this Agreement, you and we agree to resolve this dispute by
+looking to the terms of this Agreement. If there is a conflict between what one of our
+employees says and the terms of this Agreement, the terms of this Agreement shall control.
+
+Binding Arbitration
+
+YOU AND WE AGREE THAT UPON THE ELECTION OF EITHER OF US, ANY DISPUTE RELATING IN
+ANY WAY TO THIS AGREEMENT, OR YOUR USE OF THE DIGITAL PLATFORMS AND SERVICES,
+WILL BE RESOLVED BY BINDING ARBITRATION AS DISCUSSED BELOW, AND NOT THROUGH
+LITIGATION IN ANY COURT (EXCEPT FOR MATTERS IN SMALL CLAIMS COURT). THIS
+ARBITRATION AGREEMENT IS ENTERED INTO PURSUANT TO THE FAA.
+
+YOU AND WE ARE WAIVING THE RIGHT TO HAVE OUR DISPUTE HEARD BEFORE A JUDGE OR
+JURY, OR OTHERWISE TO BE DECIDED BY A COURT OR GOVERNMENT TRIBUNAL. YOU AND
+WE ALSO WAIVE ANY ABILITY TO ASSERT OR PARTICIPATE IN A CLASS OR REPRESENTATIVE
+BASIS IN COURT OR IN ARBITRATION. ALL DISPUTES, EXCEPT AS STATED BELOW, MUST BE
+RESOLVED BY BINDING ARBITRATION WHEN EITHER YOU OR WE REQUEST IT.
+
+What claims or disputes are subject to arbitration?
+
+Claims are subject to arbitration, regardless of what theory they are based on or whether
+they seek legal or equitable remedies. Arbitration applies to any and all such Claims, whether
+they arose in the past, may currently exist or may arise in the future.
+
+The only exception to arbitration of Claims is that both you and we have the right to pursue a
+Claim in a small claims court instead of arbitration, if the Claim is in that court's jurisdiction
+and proceeds on an individual basis.
+
+What about class actions or representative actions?
+
+Claims in arbitration will proceed on an individual basis, on behalf of the named parties only.
+YOU AND WE AGREE NOT TO:
+
+   1. SEEK TO PROCEED ON ANY CLAIM IN ARBITRATION AS A CLASS CLAIM OR CLASS ACTION
+      OR OTHER COMPARABLE REPRESENTATIVE PROCEEDING;
+   2. SEEK TO CONSOLIDATE IN ARBITRATION ANY CLAIMS INVOLVING SEPARATE CLAIMANTS
+      (EXCEPT FOR CLAIMANTS WHO ARE ON THE SAME ACCOUNT), UNLESS ALL PARTIES
+      AGREE;
+   3. BE PART OF, OR BE REPRESENTED IN, ANY CLASS ACTION OR OTHER REPRESENTATIVE
+      ACTION BROUGHT BY ANYONE ELSE; NOR
+   4. SEEK ANY AWARD OR REMEDY IN ARBITRATION AGAINST OR ON BEHALF OF ANYONE
+      WHO IS NOT A NAMED PARTY TO THE ARBITRATION.
+
+If these terms relating to class or representative procedures are legally unenforceable for any
+reason with respect to a Claim, then this agreement to arbitrate will be inapplicable to that
+Claim, and the Claim will instead be handled through litigation in court rather than by
+arbitration. No arbitrator shall have authority to entertain any Claim on behalf of a person
+who is not a named party, nor shall any arbitrator have authority to make any award for the
+benefit of, or against, any person who is not a named party.
+
+Does arbitration apply to Claims involving third parties?
+
+Arbitration applies whenever there is a Claim between you and us. If a third party is also
+involved in a Claim between you and us, then the Claim will be decided with respect to the
+third party in arbitration as well, and it must be named as a party in accordance with the rules
+of procedure governing the arbitration. No award or relief will be granted by the arbitrator
+except on behalf of, or against, a named party. For purposes of arbitration, "you" includes any
+person who is listed on your account, and "we" includes JPMorgan Chase Bank, N.A., all its
+affiliates, and all third parties who are regarded as agents or representatives of ours in
+connection with a Claim. (If we assign your account to an unaffiliated third party, then "we"
+includes that third party.) The arbitration may not be consolidated with any other arbitration
+proceeding.
+
+How does arbitration work?
+
+The party filing a Claim in arbitration must select either: JAMS or the AAA as the arbitration
+administrator. That organization will apply its code of procedures in effect at the time the
+arbitration claim is filed. If there is a conflict between that code of procedures and this
+arbitration provision and/or this Agreement, this arbitration provision and this Agreement will
+control. In the event that JAMS or the AAA is unable to handle the Claim for any reason, then
+the matter shall be arbitrated instead by a neutral arbitrator selected by agreement of the
+parties (or, if the parties cannot agree, selected by a court in accordance with the FAA),
+pursuant to the AAA rules of procedure. The arbitrator will decide the Claim in accordance
+with all applicable law, including recognized principles of equity and statutes of limitations,
+and will honor all claims of privilege recognized by law. The arbitrator will have the power to
+award to a party any damages or other relief provided for under applicable law. A single
+arbitrator will conduct the arbitration and will use applicable substantive law, including the
+Uniform Commercial Code, consistent with the FAA and the applicable statutes of limitations
+or conditions precedent to suit, and will honor claims of privilege recognized at law. The
+arbitrator can award damages or other relief provided for by law to you or us, but not to
+anyone else. The arbitrator's authority is limited to the Claims between you and us.
+
+Is the arbitrator's decision final? Is there an appeal process?
+
+The arbitrator's decision will be final and binding on the parties. A party can file a written
+appeal to the arbitration administrator within 30 days of award issuance. The appeal must
+request a new arbitration in front of three neutral arbitrators designated by the same
+arbitration administrators. The panel will reconsider all factual and legal issues, following the
+same rules of procedure, and will make decisions based on majority vote. Any final arbitration
+award will be binding on the named parties and enforceable by any court having jurisdiction.
+
+Who will pay for costs?
+
+We will pay any costs that are required to be paid by us under the arbitration administrator's
+rules of procedure. Even if not otherwise required, we will reimburse you up to $500 for any
+initial arbitration filing fees you have paid. We will also pay any fees of the arbitrator and
+arbitration administrator for the first two days of any hearing. If you win the arbitration, we
+will reimburse you for any fees you paid to the arbitration organization and/or arbitrator. All
+other fees will be allocated according to the arbitration administrator's rules and applicable
+law. If you consider that you are unable to afford any fees that would be yours to pay, you
+may request that we pay or reimburse them, and we will consider your request in good faith.
+
+How do I (customer) file an arbitration claim?
+
+Rules and forms may be obtained from, and Claims may be filed with, JAMS (1-800-352-5267
+or www.jamsadr.com) or the AAA (1-800-778-7879 or www.adr.org). Arbitration hearings will
+take place in the federal judicial district that includes your address at the time the Claim is
+filed, unless the parties agree to a different place.
+
+Choice of Law/Successors; Waiver; Severability
+
+Disputes related to the Digital Platforms or Services covered by this Agreement shall be
+governed by the laws of the State of New York, without regard to any choice of law provision,
+except for section 5-1401 of the New York General Obligations Law, which does apply, and
+shall inure to the benefit of our successors and assigns, whether by merger, consolidation, or
+otherwise.
+
+Any disputes relating to transactions on your account(s), or products and services access via
+the Digital Platforms, shall be governed by the laws set forth in the underlying applicable
+account, product or service agreements.
+
+We will not be deemed to have waived any of our rights or remedies under this Agreement
+unless such waiver is in writing and signed by us. No delay or omission on our part in
+exercising any rights or remedies shall operate as a waiver of such rights or remedies or any
+other rights or remedies. A waiver on any one occasion shall not be construed as a bar or
+waiver of any rights or remedies on future occasions.
+
+If any provision of this Agreement conflicts with the law under which this Agreement is to be
+construed or if any provision of this Agreement is held invalid or unenforceable by a court of
+competent jurisdiction, that provision will be deemed to be restated to reflect as nearly as
+possible the original intentions of the parties in accordance with applicable law. The
+remaining provisions of this Agreement and the application of the challenged provision to
+persons or circumstances other than those as to which it is invalid or unenforceable will not
+be affected thereby, and each of those provisions will be valid and enforceable to the full
+extent permitted by law.
+
+Restrictions
+
+You agree not to attempt to log on to the Digital Platforms from any country under sanctions
+by the Office of Foreign Assets Control (OFAC). Information regarding which countries are
+under sanctions may be obtained on the U.S. Department of the Treasury website. Any
+attempt to log on to the Digital Platforms from one of these countries may result in your
+access being restricted and/or terminated.
+
+Termination; Availability; No Assignment
+
+We may terminate or suspend this Agreement, or terminate, suspend or limit your access
+privileges to the Services, in whole or part, at any time for any reason without prior notice,
+including but not limited to, your failure to access the Services for a period of three (3)
+months or greater, or for reasons involving your use of the Services which we may deem to
+be illegal or potentially brand damaging, when you no longer have an eligible account after
+we receive notice of death, or if you share your Login Credentials or other sensitive account
+information with third-parties, including External AI. The obligations and liabilities of the
+parties incurred prior to the termination date shall survive the termination of this Agreement
+for all purposes. Upon termination, you shall immediately discontinue use of the Services and
+delete any applicable copies. Termination of this Agreement or any Addendum will not affect
+the terms or status of any underlying account you have with us. Each account agreement will
+continue to be governed by its own terms.
+
+You may not assign this Agreement.
+
+Privacy
+
+Your privacy and the security of your information are important to us. Our Online Privacy
+Policy and, where appropriate, our U.S. Consumer Privacy Notice, as amended from time to
+time (available online at https://chase.com), applies to your use of any of the Services. You
+agree that we may collect, use and share your personal information in accordance with each
+of the Online Privacy Policy and the U.S. Consumer Privacy Notice, and to provide the Services
+you have requested and to maintain the Services. Our sharing of your information may
+include providing a merchant, the applicable payment network (such as Visa), a digital wallet
+provider, and others (such as a payment processing entity or a token service provider) your
+name, card number, card expiration date, email address, phone number, billing address, and
+shipping address as required to complete a purchase or transaction, and/or to facilitate
+customer participation in customer benefit programs such as loyalty and rewards programs
+to the extent maintained by those third parties. We can also share your information in order
+to make information available to you about your Card transactions, and to improve our ability
+to offer these services. Once we share your information with a merchant, digital wallet
+provider, or such other third party, you agree that the merchant or such other third party,
+and not Chase, is responsible for the security and use of your information, and that your data
+will be subject to their privacy policies. You acknowledge that the use and disclosure of any
+personal information provided by you directly to the payment network (such as Visa) or other
+third parties will be governed by such party's privacy policy and not our Online Privacy Policy
+or Privacy Notice.
+
+Indemnity
+
+You acknowledge and agree that you are responsible for your conduct, and the conduct of
+any individual or agent, including External AI, to whom you provided access, while using the
+Digital Platforms and/or Services – whether or not such conduct is intended by you – and
+agree to indemnify and hold us and our officers, directors, employees and agents harmless
+from and against any loss, damage, liability, cost or expense of any kind (including, but not
+limited to, reasonable attorneys' fees) that we may incur in connection with a third party
+claim resulting or arising from:
+
+   • your use of the Digital Platforms, any Service or Product, or the use of the Digital
+     Platforms or any Service by anyone using your Card number, account number, PIN, user
+     ID or Password, or other login credentials, identity verification methods or sensitive
+     information, or your violation of this Agreement or the rights of any third party
+     (including privacy rights);
+   • your acts or omissions or the acts or omissions of any other person or entity, including
+     any employee or agent, such as AI agents or agentic AI, to whom you give access to your
+     account, Digital Platforms of Services, including but not limited to erroneous
+     transactions or actions that were not within the scope of your agent’s authority;
+   • any transmission or Instruction, whether or not authorized, acted upon by us in good
+     faith and in reliance upon the user IDs, Passwords, or your other login credentials,
+     identity verification methods, or sensitive information;
+   • our acting, purporting to act or disclosing any information in accordance with your
+     authorization pursuant to electronic or other written instructions granting view only,
+     view and update and view and transact privileges to the Services to your agent(s),
+     including AI agents or agentic AI, attorney(s)-in-fact, or other third parties;
+   • your violation of this Agreement or the rights of any third party (including, but not
+     limited to, privacy rights).
+
+For purposes of clarity, if you are a business entity, the obligations under this Section will
+extend to the acts and omissions of your employees, consultants, and agents, including AI
+agents and agentic AI.
+
+Your obligations under this paragraph shall survive termination of this Agreement.
+
+   A. Mobile Services Indemnity
+
+     Additionally, you agree to indemnify, defend and hold us harmless from and against any
+     and all claims, losses, liability, cost and expenses (including reasonable attorneys' fees)
+     arising from your provision of a phone number, e-mail address, or other delivery
+     location that is not your own or your violation of applicable federal, state or local law,
+     regulation or ordinance. Your obligation under this paragraph shall survive termination
+     of the Agreement. We will not be liable for losses or damages arising from any
+     disclosure of account information to third parties, non-delivery, delayed delivery,
+     misdirected delivery or mishandling of, or inaccurate content in, information and
+     instructions sent through the Mobile Services.
+
+     We are not responsible for such differences, whether or not attributable to your use of
+     the Mobile Services.
+
+     Additionally, you agree that neither we nor our service providers will be liable for any
+     errors or delays in the content, or for any actions taken in reliance thereon. You are
+     responsible for any and all charges, including, but not limited to, fees associated with
+     text messaging imposed by your communications service provider. We are not
+     responsible for any damages resulting from your failure to comply with any terms and
+     conditions provided by your communication service provider or any app store.
+
+   B. Alerts and Text Services Indemnification
+
+     Additionally, you agree to indemnify, defend and hold us harmless from and against any
+     and all claims, losses, liability, cost and expenses (including reasonable attorneys' fees)
+     arising from your provision of a phone number, e-mail address, or other delivery
+     location that is not your own or your violation of applicable federal, state or local law,
+     regulation or ordinance. Your obligation under this paragraph shall survive termination
+     of the Agreement.
+
+     We will not be liable for losses or damages arising from any disclosure of account
+     information to third parties, non-delivery, delayed delivery, misdirected delivery or
+     mishandling of, or inaccurate content in, the messages sent through the Alerts and Text
+     Services.
+
+Risk of Loss
+
+In the event of a system failure or interruption, your data may be lost or destroyed. Any
+transaction(s) that you initiated, were in the process of completing, or completed shortly
+before a system failure or interruption should be verified by you through means other than
+online to ensure the accuracy and completeness of such transaction(s). You assume the risk
+of loss of your data during any system failure or interruption and the responsibility to verify
+the accuracy and completeness of any transaction(s) so affected.
+
+Authorization for Minors and Children to Access Digital Platforms and
+Services
+
+We may allow you to grant your child use or access to certain Digital Platforms and Services
+that are linked to your profile on the Digital Platforms. If you authorize us to grant your child
+such use or access, you acknowledge and agree that this Agreement, and any applicable
+digital wallet agreement or third-party wallet agreement, will apply to your child. You further
+agree and accept full responsibility for your child’s use of the Digital Platforms and Services,
+including any liability that he or she may incur in connection with their use of the Digital
+Platforms or Services.
+
+Special Provision for Business Customers
+
+Any user ID or Password we provide to you is provided to you in your capacity as a
+representative of the business entity registered with the Online Service only, and may not be
+retained by you after any termination of your relationship with such business entity. You
+agree to inform us immediately if a person with access to a Password leaves the employ of
+the entity to which that Password has been assigned.
+
+Intellectual Property
+
+The Digital Platforms offer a variety of content, products and services. We grant to you, for
+your personal or internal business purposes only, a non-exclusive, non-Transferable, limited
+and revocable right to access and use the Digital Platforms, as well as any software, in object
+code. Any software provided through the Digital Platforms must be downloaded by you in the
+United States. You agree not to use the Digital Platforms for any other purpose, including
+commercial purposes, such as co-branding, framing, linking, or reselling any portion of the
+Digital Platforms without our prior written consent.
+
+You may not, and will not allow or cause any third party to: (a) decompile, reverse engineer,
+disassemble, attempt to derive the source code of, or modify any portion of the Digital
+Platforms, or use the Digital Platforms to develop similar functionality; (b) copy any portion of
+the Digital Platforms, except as expressly permitted by this Agreement; (c) sublicense,
+distribute, export or resell any portion of the Digital Platforms or otherwise Transfer any
+rights; (d) remove any proprietary or intellectual property rights notices or labels on the
+Digital Platforms; or (e) otherwise exercise any other right to the Digital Platforms not
+expressly granted in this Agreement. We, or our licensors, own all right, title and interest in
+and to the Services. No license or other right in or to the Digital Platforms is granted to you
+except for the rights specifically set forth in this Agreement.
+
+Please note that upon submission, any suggestion, idea, proposal or other material you
+provide to us becomes our property without limitation or further consideration.
+
+"Chase Online", "Chase Mobile", "Chase Business Online", "J.P. Morgan Online", and "J.P.
+Morgan Mobile" are trademarks of JPMorgan Chase Bank, N.A.
+
+
+X. Definitions
+   • Agreement or DSA: refers to this Digital Services Agreement.
+   • We, our, us, JPMC: means JPMorgan Chase Bank, National Association, or the affiliate of
+     such entity that holds your accounts or provides you services and any agent,
+     independent contractor, designee, or assignee that we may, at our sole discretion,
+     involve in the provision of the Online Service.
+   • You, your, them, user: (1) an individual or entity that is the owner of an account or a
+     party-in-interest to an account (such as a grantor, beneficiary or co-trustee of a trust
+     account) or (2) an individual authorized by an account owner or a party-in-interest to
+     view account information and/or effect transactions in an account.
+   • Chase Online: refers to the online, client-facing platform, www.chase.com, on which
+     JPMC customers may conduct online banking and access the Online Services.
+   • Chase Business Online: refers to the online, client-facing platform,
+     www.chase.com/business, on which JPMC customers who hold a Business Account may
+     conduct online banking and access the Online Services.
+   • Chase Mobile: refers to the mobile platform on which JPMC customers may conduct
+     mobile banking and access the Mobile Services.
+   • Digital Platforms: refers to websites or mobile applications owned by JPMC, including:
+     Chase Online, Chase Business Online, Chase Mobile, J.P. Morgan Online and J.P. Morgan
+     Mobile.
+   • JPMorgan Online: refers to the online, client-facing platform,
+  www.jpmorgan.chase.com, on which certain JPMC customers who are clients of our
+  Private Bank and J.P. Morgan Securities businesses manage their assets and access their
+  investment, banking and credit account information.
+• JPMorgan Mobile: refers to the mobile, client-facing platform on which certain JPMC
+  customers who are clients of our Private Bank and J.P. Morgan Securities businesses
+  manage their assets and access their investment, banking and credit account
+  information.
+
+• AAA: refers to the American Arbitration Association.
+• ACH (Automated Clearing House): refers to an electronic deposit to, or withdrawal
+  from, your account that we receive or send through the "automated clearing house"
+  network.
+• Alerts: refers to an online and mobile service which provides customers with the option
+  of receiving text message communications, email communications and push
+  notifications regarding their accounts from JPMC.
+• Artificial Intelligence or AI: refers to a machine-based system that is designed to
+  operate with varying levels of autonomy.
+• Bill Payment: refers to a one-time payment or repeating payments made from an
+  eligible account to companies, merchants, individuals or Chase Loans or Credit
+  Accounts. This can include JPMC for payments to Chase Loan or Credit Accounts (if set
+  up as a Payee through the Bill Payment service prior to December 2, 2012; otherwise, it
+  would be a Transfer).
+• Bill Payment date: refers to the date you would like your payment sent, including
+  payment to your Chase Loan or Credit Account.
+• Bill Payment Service: refers to a service which permits customers to make one-time or
+  repeating payments to companies, merchants, individuals or Chase Loans or Credit
+  Accounts.
+• Business Account: refers to any deposit account, such as a checking or savings
+  account, you have with us that is used for business (non-personal) banking purposes.
+• Business Day: refers to Monday through Friday, excluding Federal holidays. For
+  purposes of Transfers to or from Investment accounts via Internal Transfers, "Business
+  Day" also excludes Good Friday.
+• Cancelled: refers to when a payment or Transfer will neither be processed nor sent for
+  any reason.
+• Card: refers to the credit or debit card issued by us.
+• Chase Loan or Credit Account: refers to one of our credit or loan accounts (including,
+  but not limited to, a mortgage, auto or student loan or credit card) held in your name
+  that has been added as a Payee.
+• Claim: refers to any dispute, claim or controversy arising now or in the future under or
+  relating in any way to this Agreement, the Digital Platforms or the Services.
+• Communication Service Provider: refers to an entity offering the transmission,
+  routing, or providing of connections for communications or access via the telephone.
+• Consumer Account: refers to any deposit account, such as a checking or savings
+  account, you have with us that is used for personal, family or household banking
+  purposes.
+• Current Day: refers to Bill Payments or Transfers from an account held by us that are
+  scheduled with a present day Send On date; or the next Business Day if scheduled after
+  the Cutoff Time.
+• Cutoff Time: refers to the time by which we must receive Instructions to have them
+  considered entered on that particular Business Day.
+• Deliver By date: refers to the date you would like your Bill Payment or Transfer
+  delivered to your intended recipient (i.e., your Payee or your To Account); this may or
+  may not be the date your Bill Payment will be posted by your Payee.
+• Delivery Method: refers to the way your Bill Payment is transmitted (i.e., either
+  electronically or via check).
+• Draft: refers to checks, or other negotiable instruments or items prepared by us or our
+  agents and issued pursuant to your Instructions under the Bill Payment Service.
+• EULA: refers to an end user license agreement or software license agreement whereby
+  a licensor and purchaser establish the purchaser's right to use the software.
+• External Account: refers to checking and savings accounts held by institutions other
+  than us and registered for External Transfers. The account holder of the External
+  Account must be the same individual or business entity as the account holder of the
+  deposit or prepaid account, or line of credit, mortgage, installment loan or auto account
+  who is authorized to access the Online Service.
+• External AI: means, collectively, Third-party AI and Third-party AI Agent, and includes
+  any provider thereof.
+• External Transfers: refers to the portion of the Payments and Transfers Services that
+  allows you to issue Instructions to us for Payments or Transfers, as applicable, to or
+  from accounts not held by us. External Transfers can be used to Transfer funds between
+  an eligible account held by us and an External Account.
+• FAA: refers to the Federal Arbitration Act, 9 U.S.C. sections one through sixteen.
+• From Account: refers to an eligible account from which a Transfer is being requested
+  by you through Payments and Transfers, including from a reloadable, prepaid account
+  established under the Chase Liquid Card program.
+• Funded: refers to when a payment amount has been withdrawn from the available
+  balance or available credit of your Pay From account or when an amount to be
+  Transferred has been withdrawn from (or in the case of a line of credit, charged against)
+  the available balance of your From Account.
+• Funding Failed: refers to when a payment or Transfer will not be delivered after
+  multiple unsuccessful attempts have been made to withdraw funds from the
+  appropriate Pay From account or From Account on consecutive Business Days or when
+  the financial institution holding your External Account notifies us that your attempted
+  Transfer from your External Account could not be completed.
+• Funds Needed: means when an Instruction made through Payments and Transfers is
+  not processed because the respective Pay From account or From Account had
+  insufficient funds or available credit to complete the transaction after an attempt to
+  withdraw the funds.
+• Future Dated: refers to Instructions that are not scheduled to begin processing on the
+  current Business Day; only Business Days may be selected for Future Dated payments
+  and Transfers.
+• Gift Card: has the meaning set forth in Section VII(i) ("Terms Applicable to Your Use of
+  the Gifting Service").
+• Gifting Service: has the meaning set forth in Section VII(i) ("Terms Applicable to Your
+  Use of the Gifting Service").
+• Information: refers to financial market information, news and research.
+• Information Providers: refers to information providers for securities prices and
+  quotations available on the Service. These will include such securities markets as the
+  New York Stock Exchange, Inc.; the American Stock Exchange; NASDAQ Stock Market,
+  Inc.; and other exchanges, their affiliates, agents and other parties.
+• Instructions: refers to the information provided by you to us for a Bill Payment or
+  Transfer to be delivered to the Payee, Chase Loan or Credit Account or To Account (such
+  as, but not limited to, Payee or To Account name, account number, and Deliver By date).
+• Internal Transfers: refers to a type of Transfer that allows you to issue Instructions to
+  us between two eligible accounts held by us or make a payment from an eligible
+  account held by us to a Chase Loan or Credit Account.
+• Internet Service Provider: refers to an entity offering the transmission, routing, or
+  providing of connections for digital communications or access via the Internet.
+• Investment Account: refers to certain non-FDIC insured investment products and
+  services offered by JPMorgan Chase Bank, N.A. and its affiliates, which may include
+  bank-managed accounts and custody, as part of its trust and fiduciary services, as well
+  as brokerage and advisory accounts offered through J.P. Morgan Securities LLC.
+• Login Credentials: Refers to PINs, user IDs, passwords, biometrics, security keys,
+  syncable authenticators (e.g., passkeys), or any other means of accessing the Digital
+  Platforms or your accounts or Services thereon.
+• Market Alerts: refers to a feature of the Online Service which will allow you to receive
+  alerts via e-mail for events related to markets and securities, such as the price of a
+  specified security reaching a particular threshold.
+• Mobile Services: refers to any mobile products, services, functionality and associated
+  documentation or software available on Chase Mobile or JPMorgan Mobile through the
+  use of a mobile device or tablet device.
+• Multiple-Business Subscription: refers to accounts which may include accounts of
+  affiliated, subsidiary, or non-affiliated businesses bearing the same tax identification
+  number which may be added to your business subscription with the agreement of each
+  such business.
+• NACHA: refers to the National Automated Clearing House Association.
+• Online Services: refers to any online products, services, functionality and associated
+  documentation or software available on Chase Online or JPMorgan Online through the
+  use of a desktop computer or laptop.
+• Password: the password used to access your profile on the Digital Platforms.
+• Paperless Statements Service: refers to the service whereby customers can elect to
+  receive certain communications from us in an electronic format. These communications
+  include, but are not limited to, any customer agreements or amendments thereto,
+  monthly billing or account statements, tax statements, disclosures, prospectuses, trade
+  confirmations, notices, responses to claims, transaction history, privacy policies and all
+  other information that we are required by law to provide to you in writing.
+• Payee: refers to the merchant or other person or entity to whom you designate a
+  payment to be directed.
+• Pay From Account: refers to an eligible deposit or prepaid account you maintain with
+  us from which Bill Payments will be made.
+• Payment Amount: refers to the Service Transfer Amount plus any fees payable by you
+  to us in conjunction with the applicable Service Transfer.
+• Pending: refers to any Instruction that you have requested to be made that has not
+  started to process and has not been Cancelled by you.
+• Person: means a natural person or a business, government, or nonprofit entity.
+• PFM Service: refers to a service that allows you to use PFM Software to access the
+  Online Service to make Bill Payments and Transfers, and access account information
+  such as balance and transaction history.
+• PFM Service Fee: refers to a monthly service fee for customers who subscribe to the
+  PFM Service.
+• PFM Software: refers to third party software, such as Quicken, QuickBooks, or
+  TurboTax. Quicken, QuickBooks and TurboTax are trademarks or registered trademarks
+  of Intuit Inc., in the United States and other countries.
+• Primary Account: refers to the checking or prepaid account, if eligible, you designate
+  for paying any potential monthly service-fees.
+• Real-Time Payments Service: refers to a service that allows you to send or receive
+  payments to other Persons.
+• Real-Time Payments Service for Vendors and Employees: refers to a type of Real-
+  Time Payments Service that allows you to send payments to your vendors and/or
+  employees, but only if you have a Business Account and are enrolled in ACH Payments
+  Services. For clarity, Real-Time Payments Service for Vendors and Employees is a “Real-
+  Time Payments Service,” as defined and used herein, except as expressly referenced
+  separately by name in the Fees section under “Terms Applicable to Your Use of the Real-
+  Time Payments Service".
+• Real-Time Transfer System: refers to the real-time transfer system that is accessed
+  through the Real-Time Payments Service.
+• Receiver: refers to a Person that receives a payment through the Real-Time Payments
+  Service.
+• Receiver Addressing Information: refers to addressing information of the Receiver,
+  which may include the Receiver’s account number, routing number, telephone number,
+  and/or email address, as applicable.
+• Receiving Financial Institution: refers to us, when you are the Receiver, and the
+  Receiver’s financial institution, when you are the Sender.
+• Regional ACH: refers to the applicable automated clearing house.
+• Repeating Bill Payments: refers to automatic recurring Bill Payments or Transfers to
+  the same Payee or To Account, respectively, for the same amount (or varying amount, in
+  the case of variable automatic bill payments) which you can authorize for transmission.
+• Rules: refers to the rules of NACHA and Regional ACH.
+• Send On Date: refers to the date we will begin the delivery process or the date we will
+  send a request to withdraw funds from your External Account, and begin the delivery
+  process. The Send On date may or may not be the date funds are withdrawn from your
+  Pay From account.
+• Sender: refers to a Person that sends a payment through the Real-Time Payments
+  Service.
+• Sending Financial Institution: refers to us, which you are the Sender, and means the
+  financial institution that holds the Sender’s account, when you are the Receiver. Service
+  Participant: refers to a financial institution that participates in the Real-Time Payments
+  System, which includes JPMC.
+• Service Transfer: refers to a payment from a Sender to a Receiver through the Real-
+  Time Payments Service.
+• Service Transfer Amount: refers to the amount of funds that the Sender directs the
+  Sending Financial Institution to transfer to the Receiver.
+• Services: refers to any Online Services and Mobile Services available on the Digital
+  Platforms.
+• Supported Mobile Operating Systems: The operating systems we support for our
+  mobile applications (for example, the Chase Mobile® app), as listed in the Digital
+  Platforms (for example, Android or iOS). This list may change from time to time in our
+  sole discretion.
+• Systems: refers to all software, hardware or other equipment necessary for you to
+  access and use the Digital Platforms and Services.
+• Third-party AI: refers to any third-party provided AI-based software or service.
+• Third-party AI Agent: refers to (i) any third party that provides, makes available, or
+  enables access to AI-based software or service, and/or (ii) any AI-based software or
+  service provided by a third party that takes autonomous, semi-autonomous, or non-
+  autonomous action on behalf of, or at the instruction of, any person (human or entity),
+  including you.
+• To Account: refers to the account to which a Transfer is being requested by you via the
+  Bill Payments and Transfers Services.
+• Transfer Date: refers to the date we will begin the delivery process for Transfers made
+  via the Internal Transfer Service, or the External Transfer Service, this is the date the
+  Transfer request will be sent.
+• Trusted Device: A smartphone that (1) runs a Supported Mobile Operating System, and
+  (2) we recognize as your trusted device after you use our mobile applications (for
+  example, the Chase Mobile® app) and meet our security requirements, which we may
+  modify from time to time in our sole discretion. Depending on the circumstances, you
+  may meet our Trusted Device security requirements either by using our mobile
+  applications without additional steps or by completing Trusted Device Enrollment.
+• Trusted Device Enrollment: The steps we may require to set up a smartphone as your
+  Trusted Device, which we may modify from time to time in our sole discretion. This may
+  include specific identity verification and authentication methods (for example, taking a
+  photo of an acceptable form of identification with your smartphone camera). We may
+  prompt you to complete Trusted Device Enrollment or you may be able to start it
+  through our mobile applications.
+• Transfers Service: refers to a service which permits users to Transfer funds between
+  your eligible accounts held by us or between an eligible account held by us and an
+  External Account.
+
