@@ -1,6 +1,6 @@
 # Distribution drafts — 2026-11-11 (Robinhood Class Action Service, Nov 18; Dave & Buster's Nov 4 privacy policy)
 
-NOTHING HERE HAS BEEN SENT OR POSTED. Every send/post below waits for Samuel's OK.
+SENT 2026-11-11 ~3:08 PM MT from quietlychangedbiz@gmail.com (standing permission): Pitch 1 (Pete Grieve), Pitch 3 (Joseph Cox), Pitch 4 (Jonathan Maze). See growth-log.md for message ids. NOT SENT: Pitch 2 (My Money Blog contact form). Bluesky and Reddit still wait for Samuel's OK.
 
 ## Stories chosen
 1. **Robinhood Class Action Service (lead).** Auto-enrollment starts Nov 18 (7 days out), affects every Robinhood brokerage customer, money angle (20% of settlement payouts), opt-out action, and still no news coverage. Robinhood was pitched once (Oct 16, Jennifer Sor/BI and Andrew Cohen/InvestmentNews; no replies), so new reporters only.
