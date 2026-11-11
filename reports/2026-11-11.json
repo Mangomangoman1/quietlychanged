@@ -1,0 +1,907 @@
+{
+ "date": "2026-11-11",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Wells Fargo",
+   "terms",
+   "https://www.wellsfargo.com/online-banking/online-access-agreement/"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ],
+  [
+   "AT&T",
+   "terms",
+   "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  ],
+  [
+   "Cricket Wireless",
+   "terms",
+   "https://www.cricketwireless.com/terms"
+  ],
+  [
+   "California",
+   "terms",
+   "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  ],
+  [
+   "Xero",
+   "terms",
+   "https://www.xero.com/us/legal/terms/"
+  ],
+  [
+   "Xero",
+   "privacy",
+   "https://www.xero.com/us/legal/privacy/"
+  ],
+  [
+   "Grindr",
+   "terms",
+   "https://trust.grindr.com/en-US/legal/2026-terms-of-service"
+  ],
+  [
+   "Grindr",
+   "privacy",
+   "https://trust.grindr.com/en-US/privacy"
+  ],
+  [
+   "Social Security",
+   "privacy",
+   "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest"
+  ],
+  [
+   "Toyota",
+   "privacy",
+   "https://www.toyota.com/support/privacy-notice/"
+  ],
+  [
+   "Tubi",
+   "privacy",
+   "https://tubitv.com/static/privacy"
+  ],
+  [
+   "Calm",
+   "terms",
+   "https://www.calm.com/terms"
+  ],
+  [
+   "Calm",
+   "privacy",
+   "https://www.calm.com/privacy-policy"
+  ],
+  [
+   "Stripe",
+   "privacy",
+   "https://stripe.com/privacy"
+  ],
+  [
+   "JetBlue",
+   "pricing",
+   "https://www.jetblue.com/legal/fees"
+  ],
+  [
+   "JetBlue",
+   "terms",
+   "https://www.jetblue.com/legal/flights-terms"
+  ],
+  [
+   "BeReal",
+   "privacy",
+   "https://bereal.com/privacy"
+  ],
+  [
+   "BeReal",
+   "terms",
+   "https://bereal.com/terms"
+  ],
+  [
+   "Booking.com",
+   "terms",
+   "https://www.booking.com/content/terms.html"
+  ],
+  [
+   "Netlify",
+   "terms",
+   "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/"
+  ],
+  [
+   "Netlify",
+   "privacy",
+   "https://www.netlify.com/privacy/"
+  ],
+  [
+   "Vrew",
+   "terms",
+   "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
+  ],
+  [
+   "Muse",
+   "privacy",
+   "https://choosemuse.com/pages/privacy"
+  ]
+ ],
+ "failed": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Emotiv",
+   "privacy",
+   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Anthropic Claude",
+   "page": "pricing",
+   "url": "https://www.anthropic.com/pricing",
+   "diff": "@@ -28,3 +28,3 @@\n Hand off and schedule tasks\n-Claude Dashboards (beta)\n+Claude Data, plus Sheets and Whiteboards (beta)\n Claude Code\n@@ -99,3 +99,3 @@\n Yes\n-Claude Dashboards (beta)\n+Claude Data\n Yes\n@@ -114,4 +114,14 @@\n Claude Motion (beta)\n+New\n+Claude Sheets (beta)\n+Yes\n+Yes\n+Yes\n Claude Slides\n Yes\n+Yes\n+Yes\n+Yes\n+New\n+Claude Whiteboards (beta)\n Yes\n@@ -246,3 +256,3 @@\n Yes\n-User and organizational level spend controls\n+Organizational level spend controls\n Model training\n@@ -310,3 +320,3 @@\n Claude Design, Slides, and Docs\n-Claude Motion and Dashboards (beta)\n+Claude Data, plus Motion, Sheets, and Whiteboards (beta)\n Claude Science\n@@ -375,3 +385,3 @@\n Yes\n-Claude Dashboards (beta)\n+Claude Data\n Yes\n@@ -391,3 +401,13 @@\n Yes\n+New\n+Claude Sheets (beta)\n+Yes\n+Yes\n+Yes\n Claude Slides\n+Yes\n+Yes\n+Yes\n+New\n+Claude Whiteboards (beta)\n Yes\n@@ -514,3 +534,3 @@\n Yes\n-User and organizational level spend controls\n+Spend controls\n Yes",
+   "added": 26,
+   "removed": 6
+  },
+  {
+   "service": "Microsoft 365",
+   "page": "pricing",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
+   "diff": "@@ -1,15 +1,20 @@\n See how Copilot powers everything you do in Microsoft 365. Discover more\n-Word, Outlook, OneDrive, and Copilot, all in one plan\n-With Microsoft 365, get powerful productivity apps with Copilot, your personal AI assistant, plus advanced AI features,\n-digital security, and spacious cloud storage across your devices.\n-Buy now\n+Limited-time offer\n+Save 30% and get more from Microsoft 365\n+Start with Microsoft 365 Premium, now\n+$19.99\n+$13.99\n+for your first month, and bring together powerful productivity apps with Copilot, extensive AI usage and exclusive features,\n+and advanced security\u2014all in one plan. Terms apply.\n+Get offer\n For individuals\n For business\n-Save up to 17% when you pay yearly for Microsoft 365\n Paid yearly\n Paid monthly\n-Save $19.89 with a yearly plan\n-Microsoft 365 Personal\n-$9.99/month\n-$99.99/year\n+Limited-time offer\n+Microsoft 365 Personal\n+$9.99\n+$6.99/first month\n+$99.99\n+$69.99/first year\n Microsoft 365 Personal includes:\n@@ -31,8 +36,9 @@\n in Teams\n-Buy now\n-Buy now\n-Or buy at $99.99/year\n-Or buy at $9.99/month\n-Try free for 1 month\n-Save $25.89 with a yearly plan\n+Get offer\n+Get offer\n+$99.99\n+$69.99/first year\n+$9.99\n+$6.99/first month\n+Try free for 1 month\n Microsoft 365 Family\n@@ -49,6 +55,8 @@\n Try free for 1 month\n-Save $39.89 with a yearly plan\n-Microsoft 365 Premium\n-$19.99/month\n-$199.99/year\n+Limited-time offer\n+Microsoft 365 Premium\n+$19.99\n+$13.99/first month\n+$199.99\n+$139.99/first year\n Everything in Microsoft 365 Family, plus:\n@@ -60,9 +68,11 @@\n Extensive usage for AI image creation in Copilot\n-Buy now\n-Buy now\n-Or buy at $199.99/year\n-Or buy at $19.99/month\n-Try free for 1 month\n-Subscription automatically renews at the regular price and selected term, unless cancelled in Microsoft account. See\n-Microsoft Store Terms of Sale\n+Get offer\n+Get offer\n+$199.99\n+$139.99/first year\n+$19.99\n+$13.99/first month\n+Try free for 1 month\n+Limited-time offer and 1 month trial cannot be combined. Subscription automatically renews at the regular price unless cancelled in Microsoft account.\n+See terms\n Already have a subscription?\n@@ -83,7 +93,10 @@\n Compare Microsoft 365 with Office\n+Limited-time offer\n Microsoft 365 Personal\n Subscription\n-$99.99/year\n-Buy now\n-Or buy at $9.99/month\n+$99.99\n+$69.99/first year\n+Get offer\n+$9.99\n+$6.99/first month\n Try free for 1 month\n@@ -95,7 +108,10 @@\n Try free for 1 month\n+Limited-time offer\n Microsoft 365 Premium\n Subscription\n-$199.99/year\n-Buy now\n-Or buy at $19.99/month\n+$199.99\n+$139.99/first year\n+Get offer\n+$19.99\n+$13.99/first month\n Try free for 1 month\n@@ -106,3 +122,3 @@\n Microsoft 365 Personal\n-Buy now for $99.99/year\n+Buy now for $69.99/year\n Try free for 1 month\n@@ -112,3 +128,3 @@\n Microsoft 365 Premium\n-Buy now for $199.99/year\n+Buy now for $139.99/year\n Try free for 1 month\n@@ -378,2 +394,9 @@\n You have selected:\n+Microsoft 365 Premium\n+$19.99\n+$13.99/first month\n+Continue\n+Next step: Sign in or sign up\n+You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n+You have selected:\n Microsoft 365 Family\n@@ -385,2 +408,8 @@\n Microsoft 365 Family\n+$12.99/month (billed monthly)\n+Continue\n+Next step: Sign in or sign up\n+You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n+You have selected:\n+Microsoft 365 Family\n $129.99/year (billed yearly)\n@@ -396,2 +425,30 @@\n You have selected:\n+Microsoft 365 Personal\n+$99.99\n+$69.99/first year\n+Continue\n+Next step: Sign in or sign up\n+You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n+You have selected:\n+Microsoft 365 Personal\n+$9.99\n+$6.99/first month\n+Continue\n+Next step: Sign in or sign up\n+You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n+You have selected:\n+Microsoft 365 Personal\n+$99.99\n+$69.99/first year\n+Continue\n+Next step: Sign in or sign up\n+You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n+You have selected:\n+Microsoft 365 Personal\n+$9.99\n+$6.99/first month\n+Continue\n+Next step: Sign in or sign up\n+You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n+You have selected:\n Microsoft 365 Family\n@@ -409,81 +466,53 @@\n Microsoft 365 Personal\n-$99.99/year (billed yearly)\n-Continue\n-Next step: Sign in or sign up\n-You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n-You have selected:\n-Microsoft 365 Personal\n-$9.99/month (billed monthly)\n-Continue\n-Next step: Sign in or sign up\n-You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n-You have selected:\n-Microsoft 365 Personal\n-$99.99/year (billed yearly)\n-Continue\n-Next step: Sign in or sign up\n-You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n-You have selected:\n-Microsoft 365 Personal\n-$9.99/month (billed monthly)\n-Continue\n-Next step: Sign in or sign up\n-You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n-You have selected:\n-Microsoft 365 Family\n-$129.99/year (billed yearly)\n-Continue\n-Next step: Sign in or sign up\n-You'll need an account to download and update apps, set up recurring billing, and work seamlessly across multiple devices.\n-You have selected:\n-Microsoft 365 Family\n-$12.99/month (billed monthly)\n-Continue",
+   "added": 143,
+   "removed": 113
+  },
+  {
+   "service": "Slack",
+   "page": "pricing",
+   "url": "https://slack.com/pricing",
+   "diff": "@@ -18,3 +18,3 @@\n AI conversation summaries\n-Slackbot (personal AI agent)\n+Slackbot\n AI workflow generation\n@@ -48,3 +48,3 @@\n Catch up on channels in just a click. Get meeting summaries with transcripts, key takeaways, and action items.\n-Slackbot (personal AI agent)\n+Slackbot\n AI workflow generation\n@@ -79,4 +79,4 @@\n Catch up on channels in just a click. Get meeting summaries with transcripts, key takeaways, and action items.\n-Slackbot (personal AI agent)\n-Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\n+Slackbot\n+Find answers, summarize channels, and work across your apps. 15 messages per user each week. Contact sales to add more.\n AI workflow generation\n@@ -99,3 +99,5 @@\n Maximize performance on the most comprehensive work OS\n-Contact sales for pricing\n+$45\n+USD\n+per user / month, when paying annually\n Contact Sales\n@@ -112,4 +114,4 @@\n Catch up on channels in just a click. Get meeting summaries with transcripts, key takeaways, and action items.\n-Slackbot (personal AI agent)\n-Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\n+Unlimited Slackbot\n+Find answers, summarize channels, and work across your apps. It\u2019s unlimited for your whole team.\n AI workflow generation\n@@ -195,4 +197,8 @@\n Embed third-party agents and modern AI apps to work alongside you in Slack.\n-Slackbot (personal AI agent)\n-Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\n+Slackbot\n+Find answers, summarize channels, and work across your apps. Limits vary by plan. Contact sales to add more.\n+Consumption based\n+Consumption based\n+Usage limits\n+Unlimited\n Daily recaps\n@@ -369,4 +375,8 @@\n Embed third-party agents and modern AI apps to work alongside you in Slack.\n-Slackbot (personal AI agent)\n-Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\n+Slackbot\n+Find answers, summarize channels, and work across your apps. Limits vary by plan. Contact sales to add more.\n+Consumption based\n+Consumption based\n+Usage limits\n+Unlimited\n Daily recaps\n@@ -531,4 +541,7 @@\n educational institutions\n-Existing Salesforce customers on Slack Free and Pro invoice plans can get access to Slackbot, and Slack Business+ customers on invoice plans can unlock higher message limits by purchasing Flex Credits through Salesforce.\n-Please reach out to your sales executive to buy Flex Credits.\n+Existing Salesforce customers on Slack Free and Pro invoice plans can get access to Slackbot, and Slack Business+ customers on invoice plans can unlock higher message limits by purchasing\n+Flex Credits\n+through Salesforce.\n+Please reach out to your sales executive to buy\n+Flex Credits\n Get more information on",
+   "added": 26,
+   "removed": 13
+  },
+  {
+   "service": "Reddit",
+   "page": "terms",
+   "url": "https://redditinc.com/policies/user-agreement",
+   "diff": "@@ -1537,2 +1537,35 @@\n 24 \u0633\u062a\u0645\u0628\u0631 2024\n+Transparency\n+Guidelines for Law Enforcement\n+Reddit's Anti-Slavery and Human Trafficking Statement\n+Developer Data Protection Addendum\n+Impressum\n+Responsible Builder Policy\n+Gujarati\n+All\n+Reddit \u0aa8\u0acb \u0aaf\u0ac1\u0a9d\u0ab0 \u0a95\u0ab0\u0abe\u0ab0\n+1 \u0a9c\u0ac1\u0ab2\u0abe\u0a88, 2026\n+Reddit \u0a86\u0ab0\u0acd\u0aa5\u0abf\u0a95 \u0ab6\u0ab0\u0aa4\u0acb\n+24 \u0ab8\u0aaa\u0acd\u0a9f\u0ac7\u0aae\u0acd\u0aac\u0ab0, 2024\n+\u0aaa\u0acd\u0ab0\u0abf\u0ab5\u0acd\u0aaf\u0ac2\u0a9d\u0aa8\u0ac0 \u0a89\u0aaa\u0aaf\u0acb\u0a97\u0aa8\u0ac0 \u0ab6\u0ab0\u0aa4\u0acb\n+\u0a95\u0acd\u0ab0\u0abf\u0a8f\u0a9f\u0ab0 \u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0ac0 \u0ab6\u0ab0\u0aa4\u0acb\n+\u0aa1\u0ac7\u0ab5\u0ab2\u0aaa\u0ab0 \u0ab6\u0ab0\u0aa4\u0acb\n+\u0aa1\u0ac7\u0a9f\u0abe API \u0aa8\u0ac0 \u0ab6\u0ab0\u0aa4\u0acb\n+Reddit \u0a8f\u0aae\u0acd\u0aac\u0ac7\u0aa1\u0acd\u0ab8 \u0ab6\u0ab0\u0aa4\u0acb\n+Responsible Disclosure and Bug Bounty Program Terms\n+\u0a9f\u0acd\u0ab0\u0ac7\u0aa1\u0aae\u0abe\u0ab0\u0acd\u0a95 \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0aa8\u0ac0\u0aa4\u0abf\n+Reddit \u0a97\u0acb\u0aaa\u0aa8\u0ac0\u0aaf\u0aa4\u0abe \u0aa8\u0ac0\u0aa4\u0abf\n+Public Content Policy\n+Reddit Rules\n+\u0aae\u0acb\u0aa1\u0ab0\u0ac7\u0a9f\u0ab0 \u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0ac0 \u0a86\u0a9a\u0abe\u0ab0 \u0ab8\u0a82\u0ab9\u0abf\u0aa4\u0abe\n+Information for EU users\n+Information for UK users\n+Information for AU users\n+Advertising Platform Terms & Conditions\n+Brand Guidelines\n+Press & Broadcast Guidelines\n+\u0a95\u0aae\u0abe\u0aa3\u0ac0\u0aa8\u0ac0 \u0ab6\u0ab0\u0aa4\u0acb\n+24 \u0ab8\u0aaa\u0acd\u0a9f\u0ac7\u0aae\u0acd\u0aac\u0ab0, 2024\n+Reddit \u0a95\u0aae\u0abe\u0aa3\u0ac0\u0aa8\u0ac0 \u0aa8\u0ac0\u0aa4\u0abf\n+24 \u0ab8\u0aaa\u0acd\u0a9f\u0ac7\u0aae\u0acd\u0aac\u0ab0, 2024\n Transparency\n@@ -1578,2 +1611,3 @@\n \u09ac\u09be\u0982\u09b2\u09be\n+\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\n \u0e44\u0e17\u0e22\n@@ -1621,2 +1655,3 @@\n \u09ac\u09be\u0982\u09b2\u09be\n+\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\n \u0e44\u0e17\u0e22",
+   "added": 35,
+   "removed": 0
+  },
+  {
+   "service": "Delta",
+   "page": "terms",
+   "url": "https://www.delta.com/us/en/legal/contract-of-carriage-dgr",
+   "diff": "@@ -10,3 +10,3 @@\n Rule 11: Passenger Medical Oxygen\n-Rule 19: Flight Delays/Cencellations\u00c2\n+Rule 19: Flight Delays/Cancellations\n Rule 4: Personal Data",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Proton",
+   "page": "pricing",
+   "url": "https://proton.me/pricing",
+   "diff": "@@ -55,6 +55,8 @@\n Compare our plans\n-Sign up free\n+$0.00\n+/month\n+Ontvang gratis\n $2.49\n /month\n-Get Drive Plus\n+Koop Plus\n Show only differences\n@@ -62,6 +64,6 @@\n Proton Free\n-Drive Plus 200 GB\n+Mail Plus\n Storage\n Up to 1 GB\n-200 GB\n+15 GB\n Users\n@@ -72,2 +74,11 @@\n Included\n+Included\n+Proton Sentinel program\n+Not included\n+Not included\n+Emergency Access\n+Not included\n+Included\n+Dark Web Monitoring\n+Not included\n Included\n@@ -84,16 +95,14 @@\n Features\n-Proton Free\n-Sign up free\n-Drive Plus\n+Free\n+$0.00\n+/month\n+Ontvang gratis\n+Mail Plus\n $2.49\n /month\n-Get Drive Plus\n-Proton Unlimited\n+Koop Plus\n+Onbeperkt\n $6.49\n /month\n-Get Proton Unlimited\n-Proton Duo\n-$14.99\n-/month\n-Get Proton Duo\n+Koop Unlimited\n Highlights\n@@ -101,5 +110,4 @@\n Up to 1 GB\n-200 GB\n+15 GB\n 500 GB\n-2 TB\n Users\n@@ -109,3 +117,2 @@\n Included\n-Included\n Easy Switch import assistant\n@@ -113,2 +120,13 @@\n Included\n+Included\n+Proton Sentinel program\n+Not included\n+Not included\n+Included\n+Emergency Access\n+Not included\n+Included\n+Included\n+Dark Web Monitoring\n+Not included\n Included\n@@ -120,3 +138,2 @@\n Messages per day\n-150\n 150\n@@ -137,3 +154,6 @@\n 25 MB\n-25 MB\n+Desktop app\n+14-day free trial\n+Included\n+Included\n HTML signatures\n@@ -142,3 +162,2 @@\n Included\n-Included\n End-to-end encryption\n@@ -147,3 +166,2 @@\n Included\n-Included\n Password-protected emails\n@@ -152,3 +170,2 @@\n Included\n-Included\n Encrypted contact details\n@@ -157,6 +174,40 @@\n Included\n-Included\n Hide-my-email aliases\n Unlimited\n-Unlimited\n+Short @pm.me address\n+Not included\n+Included\n+Included\n+Contact groups\n+Not included\n+Included\n+Included\n+Email client support (via IMAP/SMTP)\n+Not included\n+Included\n+Included\n+Auto-reply\n+Not included\n+Included\n+Included\n+Catch-all email\n+Not included\n+Included\n+Included\n+Automatic forwarding\n+Not included\n+Included\n+Included\n+Auto-delete spam and trash\n+Not included\n+Included\n+Included\n+Schedule and snooze emails for any time\n+Not included\n+Included\n+Included\n+Proton Scribe writing assistant\n+Not included\n+Add-on with free trial\n+Add-on with free trial\n Proton Calendar\n@@ -167,2 +218,5 @@\n Included\n+Calendar sharing\n+Not included\n+Included\n Included\n@@ -172,5 +226,3 @@\n Included\n-Included\n Appointment scheduling\n-Not included\n Not included\n@@ -181,5 +233,4 @@\n Up to 5 GB\n-200 GB\n+15 GB\n 500 GB\n-2 TB\n Online document editor\n@@ -188,3 +239,2 @@\n Included\n-Included\n Online spreadsheets\n@@ -193,3 +243,2 @@\n Included\n-Included\n End-to-end encryption\n@@ -198,3 +247,2 @@\n Included\n-Included\n Share files and folders via link\n@@ -203,3 +251,2 @@\n Included\n-Included\n Advanced sharing security\n@@ -208,7 +255,5 @@\n Included\n-Included\n Version history\n Not included\n-Included\n-Included\n+Not included\n Included\n@@ -220,3 +265,2 @@\n 20000+ servers in 140+ countries\n-20000+ servers in 140+ countries\n VPN speed\n@@ -225,3 +269,2 @@\n Highest\n-Highest",
+   "added": 80,
+   "removed": 64
+  },
+  {
+   "service": "Cloudflare",
+   "page": "privacy",
+   "url": "https://www.cloudflare.com/privacypolicy/",
+   "diff": "@@ -31,3 +31,3 @@\n We have updated our <DATE> Privacy Policy to include our new Addendum applicable to users in South Korea\n-This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u0000\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n+This Cloudflare Privacy Policy (\u201cPolicy\u201d) outlines the personal information that Cloudflare, Inc. (\u201cCloudflare\u201d, \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.\n CLOUDFLARE\u2019S PROMISE",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Venmo",
+   "page": "terms",
+   "url": "https://venmo.com/legal/us-user-agreement/",
+   "diff": "@@ -1,2 +1,13 @@\n Venmo Legal Agreements\n+Privacy Statement\n+User Agreement\n+Venmo Long Form Disclosure\n+Licenses\n+Consent\n+Helpful Information\n+Approved Business Account Addendum\n+Mastercard Cardholder Agreement\n+Venmo Mastercard Privacy Policy\n+Cryptocurrency Terms & Conditions\n+Open Source Attribution\n User Agreement",
+   "added": 11,
+   "removed": 0
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -28,3 +28,3 @@\n Accessibility\n-Choose the plan that's right for you\n+Access our 1M+ catalog with membership\n Switch plans or cancel anytime.\n@@ -33,20 +33,19 @@\n Try for $0.00\n-Auto-renews at $8.99/mo after 30 days. Cancel anytime.\n-Standard 30-day free trial\n-$8.99/mo after free trial\n+Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.\n+Standard\n+1 audiobook a month\n+$8.99/mo after 30 days\n Try for $0.00\n Auto-renews at $14.95/mo after 30 days. Cancel anytime.\n-Premium 30-day free trial\n-$14.95/mo after free trial\n+Premium\n+150k+ included titles\n+$14.95/mo after 30 days\n Sign up for Premium Annual\n Auto-renews at $149.50/yr. Cancel anytime.\n-Premium\n 12 audiobooks\n-$149.50 a year\n-Select this plan\n+$149.50/year\n+Sign up for Premium Annual\n Auto-renews at $229.50/yr. Cancel anytime.\n-Premium\n-12 creditos/a\u00f1o\n-$229.50/yr\n-Save 16%\n+24 audiobooks\n+$229.50/year\n LIMITED TIME OFFER | $99 for a year of Premium",
+   "added": 12,
+   "removed": 13
+  },
+  {
+   "service": "Tubi",
+   "page": "privacy",
+   "url": "https://tubitv.com/static/privacy",
+   "diff": "@@ -577,3 +577,3 @@\n All rights reserved.\n-Device ID: dc0b224e-56e4-4bec-a268-1fbac086b298\n+Device ID: 4eb23d3e-1d29-4c96-afe4-d3f332e942cb\n Made with",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Booking.com",
+   "page": "terms",
+   "url": "https://www.booking.com/content/terms.html",
+   "diff": "@@ -1529,2 +1529,2 @@\n Close calendar\n-2657560,2687140\n+2687140,2657560",
+   "added": 1,
+   "removed": 1
+  }
+ ]
+}

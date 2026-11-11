@@ -1,0 +1,101 @@
+[
+ {
+  "service": "Slack",
+  "page": "pricing",
+  "headline": "Slack caps Slackbot at 15 messages per user a week on Business+ and posts a $45 Enterprise+ price",
+  "tldr": "Slack's $15-a-seat Business+ plan now limits its Slackbot AI agent to 15 messages per user each week. Unlimited Slackbot is an Enterprise+ feature, now listed at $45 per user a month.",
+  "impact": 2,
+  "themes": ["plan-shuffles"],
+  "url": "https://slack.com/pricing",
+  "who": "Teams on Slack Business+ that lean on Slackbot for answers and channel summaries, and companies weighing an upgrade to Enterprise+",
+  "seo_title": "Slack Business+ Slackbot limit: 15 messages per user a week (Nov 11, 2026)",
+  "seo_desc": "Slack's pricing page now caps Slackbot on Business+ at 15 messages per user each week, makes unlimited Slackbot an Enterprise+ feature, and lists Enterprise+ at $45 per user a month billed annually.",
+  "redline": [
+   {
+    "before": "Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.",
+    "after": "Find answers, summarize channels, and work across your apps. 15 messages per user each week. Contact sales to add more.",
+    "label": "Pricing · Business+ · Slackbot",
+    "note": "A vague \"plan limits apply\" becomes a hard number: 15 messages per person per week.",
+    "src": "raw"
+   },
+   {
+    "before": "Contact sales for pricing",
+    "after": "$45 USD per user / month, when paying annually",
+    "label": "Pricing · Enterprise+",
+    "note": "Enterprise+ gets a public list price for the first time on this page.",
+    "src": "raw"
+   },
+   {
+    "before": "Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.",
+    "after": "Find answers, summarize channels, and work across your apps. It’s unlimited for your whole team.",
+    "label": "Pricing · Enterprise+ · Slackbot",
+    "note": "Unlimited Slackbot is now the selling point of the $45 tier.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If your team is on Business+, check how many Slackbot messages people actually send in a week before the 15-message cap bites",
+   "Ask Slack sales what extra Slackbot messages cost before committing to a renewal, since the page says to contact sales to add more",
+   "Compare Business+ at $15 per user a month (billed annually) with Enterprise+ at $45 if unlimited Slackbot matters to you"
+  ],
+  "what": "Slack's pricing page changed overnight in two ways that matter for anyone paying for its AI features.\n\n## Change 1: Slackbot gets a weekly cap on Business+\n\nOn Nov 10, the Business+ plan described Slackbot as \"Your personal AI agent that understands conversations, files, and projects in Slack. Plan limits apply.\" On Nov 11 the same row reads: \"Find answers, summarize channels, and work across your apps. 15 messages per user each week. Contact sales to add more.\" Business+ is listed at $15 per user a month billed annually, or $18 billed monthly. The feature is also renamed from \"Slackbot (personal AI agent)\" to plain \"Slackbot\" across the plan table, and the comparison table adds \"Consumption based\" and \"Usage limits\" rows.\n\n## Change 2: Enterprise+ gets a price, and unlimited Slackbot\n\nEnterprise+ used to say \"Contact sales for pricing.\" It now shows \"$45 USD per user / month, when paying annually,\" still with a Contact Sales button. Its Slackbot row now reads \"Unlimited Slackbot\" with \"It’s unlimited for your whole team.\"\n\nWhat stays the same: The note that Business+ customers on Salesforce invoice plans can unlock higher message limits by buying Flex Credits through Salesforce is unchanged apart from formatting. Pro still lists Slackbot without a stated number.\n\nWhat you can do: Business+ admins should check how heavily their teams use Slackbot; 15 messages a week is about three a workday."
+ },
+ {
+  "service": "Microsoft 365",
+  "page": "pricing",
+  "headline": "Microsoft 365 runs a 30%-off first term on Personal and Premium",
+  "tldr": "Microsoft is offering 30% off the first year or first month of Microsoft 365 Personal ($69.99 instead of $99.99 a year) and Premium ($139.99 instead of $199.99). Both renew at full price.",
+  "impact": 1,
+  "themes": ["plan-shuffles"],
+  "url": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
+  "who": "People buying a new Microsoft 365 Personal or Premium subscription",
+  "redline": [
+   {
+    "before": "Microsoft 365 Personal $9.99/month $99.99/year",
+    "after": "Limited-time offer Microsoft 365 Personal $9.99 $6.99/first month $99.99 $69.99/first year",
+    "label": "Pricing · Microsoft 365 Personal",
+    "note": "The discount covers only the first month or first year.",
+    "src": "raw"
+   },
+   {
+    "before": "Subscription automatically renews at the regular price and selected term, unless cancelled in Microsoft account.",
+    "after": "Limited-time offer and 1 month trial cannot be combined. Subscription automatically renews at the regular price unless cancelled in Microsoft account.",
+    "label": "Pricing · Fine print",
+    "note": "You can take the discount or the free month, not both.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "Set a reminder before your first year ends: Personal renews at $99.99 and Premium at $199.99",
+   "Pick either the 30% offer or the one-month free trial; the page says they can't be combined"
+  ],
+  "what": "Microsoft's compare-plans page now leads with a \"Limited-time offer\": \"Save 30% and get more from Microsoft 365.\" Microsoft 365 Personal shows $6.99 for the first month (regularly $9.99) or $69.99 for the first year (regularly $99.99). Microsoft 365 Premium shows $13.99 for the first month (regularly $19.99) or $139.99 for the first year (regularly $199.99). Family is not part of the offer and stays at $12.99 a month or $129.99 a year.\n\nThe fine print now says: \"Limited-time offer and 1 month trial cannot be combined. Subscription automatically renews at the regular price unless cancelled in Microsoft account.\" The page no longer shows the \"Save up to 17% when you pay yearly\" banner. It gives no end date for the offer."
+ },
+ {
+  "service": "Anthropic Claude",
+  "page": "pricing",
+  "headline": "Claude Dashboards becomes Claude Data, and Sheets and Whiteboards betas join the plan table",
+  "tldr": "Anthropic's pricing page renames Claude Dashboards (beta) to Claude Data and adds two new betas, Claude Sheets and Claude Whiteboards. Prices didn't change.",
+  "impact": 1,
+  "themes": ["plan-shuffles"],
+  "url": "https://www.anthropic.com/pricing",
+  "who": "Claude subscribers and Team or Enterprise buyers comparing which apps each plan includes",
+  "redline": [
+   {
+    "before": "Claude Dashboards (beta)",
+    "after": "Claude Data, plus Sheets and Whiteboards (beta)",
+    "label": "Pricing · Plan highlights",
+    "note": "Dashboards drops its beta label under a new name, and two new betas are added.",
+    "src": "raw"
+   },
+   {
+    "before": "User and organizational level spend controls",
+    "after": "Organizational level spend controls",
+    "label": "Pricing · Plan comparison",
+    "note": "The row no longer mentions user-level spend controls; elsewhere it now just says \"Spend controls.\"",
+    "src": "raw"
+   }
+  ],
+  "what": "Anthropic's pricing page changed its feature lists without changing any prices. \"Claude Dashboards (beta)\" is now \"Claude Data\" without a beta tag, and two new rows marked \"New\" appear: \"Claude Sheets (beta)\" and \"Claude Whiteboards (beta).\" The Team plan's summary changes from \"Claude Motion and Dashboards (beta)\" to \"Claude Data, plus Motion, Sheets, and Whiteboards (beta).\"\n\nOther changes: One comparison row changes from \"User and organizational level spend controls\" to \"Organizational level spend controls,\" and another to just \"Spend controls.\" The page doesn't say whether per-user spending limits were removed."
+ }
+]
