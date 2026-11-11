@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dave & Buster's · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-11-dave-buster-s-dave-buster-s-new-privacy-policy-says-it-sell
+ s-your-data-to-data@quietlychanged.com
+DTSTAMP:20261111T195440Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Dave & Buster's: Took effect
+DESCRIPTION:Dave & Buster's replaced its 2020 privacy notice on Nov 4. The
+  old one opened with "We do not sell"\; the new one says it sells or shar
+ es data with ad networks and data brokers\, and adds CCTV video and ID de
+ tails.\n\nhttps://quietlychanged.com/changes/2026-11-11-dave-buster-s-dav
+ e-buster-s-new-privacy-policy-says-it-sells-your-data-to-data/
+URL:https://quietlychanged.com/changes/2026-11-11-dave-buster-s-dave-buste
+ r-s-new-privacy-policy-says-it-sells-your-data-to-data/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Dave & Buster's — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

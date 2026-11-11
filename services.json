@@ -327,5 +327,8 @@
  },
  "Emotiv": {
   "privacy": "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/"
+ },
+ "Dave & Buster's": {
+  "privacy": "https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy"
  }
 }

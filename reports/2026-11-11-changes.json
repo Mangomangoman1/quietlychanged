@@ -5,7 +5,9 @@
   "headline": "Slack caps Slackbot at 15 messages per user a week on Business+ and posts a $45 Enterprise+ price",
   "tldr": "Slack's $15-a-seat Business+ plan now limits its Slackbot AI agent to 15 messages per user each week. Unlimited Slackbot is an Enterprise+ feature, now listed at $45 per user a month.",
   "impact": 2,
-  "themes": ["plan-shuffles"],
+  "themes": [
+   "plan-shuffles"
+  ],
   "url": "https://slack.com/pricing",
   "who": "Teams on Slack Business+ that lean on Slackbot for answers and channel summaries, and companies weighing an upgrade to Enterprise+",
   "seo_title": "Slack Business+ Slackbot limit: 15 messages per user a week (Nov 11, 2026)",
@@ -46,7 +48,9 @@
   "headline": "Microsoft 365 runs a 30%-off first term on Personal and Premium",
   "tldr": "Microsoft is offering 30% off the first year or first month of Microsoft 365 Personal ($69.99 instead of $99.99 a year) and Premium ($139.99 instead of $199.99). Both renew at full price.",
   "impact": 1,
-  "themes": ["plan-shuffles"],
+  "themes": [
+   "plan-shuffles"
+  ],
   "url": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
   "who": "People buying a new Microsoft 365 Personal or Premium subscription",
   "redline": [
@@ -77,7 +81,9 @@
   "headline": "Claude Dashboards becomes Claude Data, and Sheets and Whiteboards betas join the plan table",
   "tldr": "Anthropic's pricing page renames Claude Dashboards (beta) to Claude Data and adds two new betas, Claude Sheets and Claude Whiteboards. Prices didn't change.",
   "impact": 1,
-  "themes": ["plan-shuffles"],
+  "themes": [
+   "plan-shuffles"
+  ],
   "url": "https://www.anthropic.com/pricing",
   "who": "Claude subscribers and Team or Enterprise buyers comparing which apps each plan includes",
   "redline": [
@@ -97,5 +103,102 @@
    }
   ],
   "what": "Anthropic's pricing page changed its feature lists without changing any prices. \"Claude Dashboards (beta)\" is now \"Claude Data\" without a beta tag, and two new rows marked \"New\" appear: \"Claude Sheets (beta)\" and \"Claude Whiteboards (beta).\" The Team plan's summary changes from \"Claude Motion and Dashboards (beta)\" to \"Claude Data, plus Motion, Sheets, and Whiteboards (beta).\"\n\nOther changes: One comparison row changes from \"User and organizational level spend controls\" to \"Organizational level spend controls,\" and another to just \"Spend controls.\" The page doesn't say whether per-user spending limits were removed."
+ },
+ {
+  "service": "Dave & Buster's",
+  "page": "privacy",
+  "headline": "Dave & Buster's new privacy policy says it sells your data to data brokers and lists CCTV video and keystroke tracking",
+  "tldr": "Dave & Buster's replaced its 2020 privacy notice on Nov 4. The old one opened with \"We do not sell\"; the new one says it sells or shares data with ad networks and data brokers, and adds CCTV video and ID details.",
+  "impact": 2,
+  "themes": [
+   "ads-and-tracking"
+  ],
+  "effective": "2026-11-04",
+  "deadline": "Took effect",
+  "url": "https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy",
+  "who": "Anyone who uses daveandbusters.com or the Dave & Buster's app, plays with a Power Card, is in the D&B Rewards program, or visits a Dave & Buster's location.",
+  "seo_title": "Dave & Buster's privacy policy (Nov 4, 2026): sells data to data brokers, CCTV video, keystroke tracking",
+  "seo_desc": "Dave & Buster's replaced its 2020 privacy notice on November 4, 2026. It now says it sells or shares data with ad networks and data brokers, records CCTV video and lets tools capture keystrokes. What changed and how to opt out.",
+  "redline": [
+   {
+    "before": "We do not sell or otherwise share personal information about you, except as described in this Privacy Notice.",
+    "after": "We sell or share this information with advertising networks, data brokers and other companies involved in digital advertising to assist us in delivering personalized ads to you.",
+    "label": "Privacy Policy · Selling and sharing",
+    "note": "The old notice led with a no-sale promise (with a California caveat further down). The new one names data brokers as buyers.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "This may include tools that capture your keystrokes, mouse clicks, screen touches, and information about when, how and from where you accessed our Sites.",
+    "label": "Privacy Policy · Cookies and Other Tracking Technologies",
+    "note": "Third parties on the site may record what you type, click and tap.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "Video of you captured on CCTV security cameras installed in our locations.",
+    "label": "Privacy Policy · Information We Collect (Audio and visual information)",
+    "note": "In-store camera footage and ID details are now listed as personal information D&B collects.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "Opt out of the sale and sharing of your data with Dave & Buster's online form (the \"Your Privacy Choices\" link at the bottom of daveandbusters.com), or email guest.relations@daveandbusters.com or call 1-888-300-1515",
+   "Turn on Global Privacy Control in each browser you use; D&B says it honors the signal per browser, only in states with privacy laws that apply to it",
+   "If you're in D&B Rewards and want out, call (844) 515-5157, the number the policy gives for leaving the program"
+  ],
+  "what": "Dave & Buster's posted a new privacy policy marked \"Effective Date: November 4, 2026\". It replaces a notice marked \"Effective Date: January 1, 2020\", which was still live when the Wayback Machine captured the page on October 15, 2026. We compared that capture with the live page on November 11, 2026. This is a full rewrite, not a few edits. It now covers the website, the app, and anyone who will \"play games or enjoy other digital experiences at our locations\", which means the arcade floor as well as the website.\n\n## Change 1: from \"We do not sell\" to naming data brokers\n\nThe 2020 notice's sharing section began: \"We do not sell or otherwise share personal information about you, except as described in this Privacy Notice.\" Its California section did say that ad partners' access \"may be considered a sale under CCPA under certain circumstances\" and that D&B \"engages in online advertising practices that may potentially be considered 'sales' under the CCPA.\" The new policy states it outright: \"We sell or share this information with advertising networks, data brokers and other companies involved in digital advertising to assist us in delivering personalized ads to you.\" The data in question is \"personal identifiers (including email address; phone number; and unique identifier) and internet or other electronic activity information.\" The policy says this happens \"by allowing third parties to place cookies or other tracking technologies on our website\" and \"by sharing information with our advertising partners.\" It lists \"Advertising companies and data brokers\" as the third parties that receive personal information, and \"advertising companies and data brokers\" among the places D&B gets information from. (The 2020 notice already listed \"Third-party data resellers\" as a source.)\n\n## Change 2: tools that capture keystrokes\n\nA new cookies section says D&B lets third parties use tracking tools \"so that they can provide analytics information and deliver targeted ads tailored to you\", and that \"This may include tools that capture your keystrokes, mouse clicks, screen touches, and information about when, how and from where you accessed our Sites.\" It names one tool: \"Among other tools, we use Google Ads.\" The 2020 notice didn't mention keystrokes. It only said data \"might be collected by us or 3rd parties, such as Smartlook.com, s.r.o.\", without saying what that company collects.\n\n## Change 3: CCTV video, IDs and in-store data\n\nThe list of what D&B collects now includes \"Video of you captured on CCTV security cameras installed in our locations\", \"drivers' license or other identification card information\", \"status as a first responder\", \"Power Card and Rewards accounts information and balances\", and \"information collected electronically from you in our stores.\" The 2020 notice mentioned Power Card purchases but none of the others. The policy says it has \"collected these same categories of personal information in the 12 months before the date of this Policy\", so this describes what D&B was already doing, not only what it plans to do. It also lists \"Inferences drawn from personal information\", and says D&B has disclosed \"video of you captured on CCTV security cameras\" for business purposes in the past 12 months, without saying to whom.\n\n## What D&B says your data is worth\n\nThe policy adds a \"Notice of Financial Incentive\" for the Dave & Buster's Rewards program. It says D&B collects \"your name and phone number and track your associated purchases so we can send you personalized offers\". Then it puts a price on it: \"We estimate the value of personal information as less than a dollar, based upon the value of bonus Game Chips.\"\n\n## What got better\n\nSome of the changes help you. Opt-outs must be honored \"no later than 15 business days after receipt of your request\", down from \"no later than 45 days\" in the 2020 notice. D&B now says \"We recognize the Global Privacy Control signal when sent from IP addresses in states with privacy laws that apply to us\", although only \"for that browser only\". It says that \"if we know you are under the age of 18, we won't knowingly sell or share your personal information for targeted advertising\". The 2020 notice only promised not to knowingly sell the data of children under 13. The policy now lists rights for residents of 17 states, and says rights for Alabama, Louisiana and Oklahoma residents come when those laws take effect in 2027.\n\n## Odd details\n\nThe SMS section ends: \"You can also reach us at privacy@mainevent.com.\" Main Event is the family-entertainment chain Dave & Buster's has owned since 2022 (Wikipedia). Main Event's own privacy policy, \"Effective January 1, 2026\", doesn't contain the data-broker, CCTV or keystroke language. D&B also says \"We do not respond to the DNT or 'Do Not Track' signal.\"\n\n## Why this matters now\n\nIn October 2025, two California residents filed a proposed class action in federal court in the Northern District of California. They allege that daveandbusters.com kept sending browsing data to Meta, Google, TikTok, Microsoft and X after visitors clicked \"Reject All\" on the cookie banner (National Law Review, October 30, 2025). These are allegations, not findings. The new policy describes in much more detail the tracking that suit is about.\n\nCoverage (checked Nov 11, 2026): we found no news coverage of the November 4 policy. Search results show only the policy itself.",
+  "faq": [
+   [
+    "When did Dave & Buster's change its privacy policy?",
+    "The new policy is marked \"Effective Date: November 4, 2026\". It replaced a notice dated January 1, 2020, which was still on the site in an October 15, 2026 Wayback Machine capture."
+   ],
+   [
+    "Does Dave & Buster's sell my data?",
+    "Its policy now says so. It says D&B may \"sell\" (as some state laws define it) personal identifiers such as email, phone number and a unique identifier, plus internet activity, and that it shares them \"with advertising networks, data brokers and other companies involved in digital advertising\". It says it doesn't sell or share other categories this way."
+   ],
+   [
+    "How do I opt out of Dave & Buster's selling my data?",
+    "Use the opt-out form linked from \"Your Privacy Choices\" at the bottom of daveandbusters.com, email guest.relations@daveandbusters.com, or call 1-888-300-1515. D&B also honors the Global Privacy Control signal, per browser, from states with privacy laws that apply to it. It says it will act on opt-outs within 15 business days."
+   ],
+   [
+    "Does Dave & Buster's record video of customers?",
+    "The policy lists \"Video of you captured on CCTV security cameras installed in our locations\" as personal information it collects. It also says it disclosed CCTV video for business purposes in the past 12 months."
+   ],
+   [
+    "What does Dave & Buster's say my data is worth?",
+    "In its Rewards program notice: \"We estimate the value of personal information as less than a dollar, based upon the value of bonus Game Chips.\""
+   ],
+   [
+    "Does the website record my keystrokes?",
+    "The policy says third-party tools on its sites \"may include tools that capture your keystrokes, mouse clicks, screen touches, and information about when, how and from where you accessed our Sites.\" It doesn't say which tools or which pages."
+   ]
+  ],
+  "sources": [
+   [
+    "Dave & Buster's Privacy Policy (effective Nov 4, 2026)",
+    "https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy"
+   ],
+   [
+    "Dave & Buster's Privacy Notice (effective Jan 1, 2020), Wayback Machine capture Oct 15, 2026",
+    "https://web.archive.org/web/20261015000710/https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy"
+   ],
+   [
+    "Dave & Buster's Rewards Program Official Rules",
+    "https://www.daveandbusters.com/us/en/official-rules"
+   ],
+   [
+    "Main Event Privacy Policy (effective Jan 1, 2026)",
+    "https://www.mainevent.com/privacy-policy"
+   ],
+   [
+    "National Law Review: CIPA class action complaint filed against Dave & Buster's (Oct 30, 2025)",
+    "https://natlawreview.com/article/playing-rules-california-invasion-privacy-act-class-action-complaint-filed-against"
+   ],
+   [
+    "Wikipedia: Dave & Buster's (Main Event acquisition)",
+    "https://en.wikipedia.org/wiki/Dave_%26_Buster%27s"
+   ]
+  ]
  }
 ]
