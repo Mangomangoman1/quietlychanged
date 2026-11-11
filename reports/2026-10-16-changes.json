@@ -58,7 +58,7 @@
   "service": "Robinhood",
   "page": "terms",
   "headline": "Auto-enrolls accounts in class-action claims, keeps 20% of payouts",
-  "what": "Robinhood's Customer Agreement (revised October 1, 2026) adds Section 36A, a \"Class Action Service\" whose terms take effect \"on or after November 18, 2026.\" It reads: \"Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.\" Robinhood and a third-party vendor will automatically file claims for you in securities class-action settlements involving stocks held in your account, and the RHF Fee Schedule sets the Class Action Service Fee at \"20% of the class action settlement proceeds received on your behalf.\" Enrollment lets Robinhood appoint the vendor \"as your agent and attorney-in-fact,\" binds you to the settlement's releases, and means \"you cannot separately bring a lawsuit, at any time, against any named defendant\" in a case where a claim was filed for you. You also can't submit your own claim form for that settlement. Robinhood says it will notify you before each filing. You get seven business days to exclude that case, and you can unenroll from the service at any time through the app or Robinhood Customer Service. The September 1, 2026 version of the agreement had no such section. Settlement administrators don't usually charge anything to file your own claim form, so staying enrolled by default costs you a fifth of any payout. Other brokers run similar auto-enrolled services, but the cut varies: E*TRADE from Morgan Stanley's vendor deducts 6% of payments (etrade.com class action terms), Edward Jones' administrator Broadridge deducts 15% (Edward Jones service disclosure), Interactive Brokers charges a 20% contingency fee (IBKR Securities Class Action Recovery page), and Vanguard's Class Action Service lists a fee of 20% of class-action settlement funds recovered on your behalf (Vanguard Brokerage Services commission and fee schedules, effective July 10, 2026), so Robinhood's 20% sits at the top of that range with Interactive Brokers and Vanguard. Other brokers checked October 16, 2026; Vanguard's fee schedule checked November 10, 2026.",
+  "what": "Robinhood's Customer Agreement (revised October 1, 2026) adds Section 36A, a \"Class Action Service\" whose terms take effect \"on or after November 18, 2026.\" It reads: \"Your Account is automatically enrolled in Robinhood's Class Action Service (the \"Class Action Service\"), unless you unenroll as described in this Section 36A.\" Robinhood and a third-party vendor will automatically file claims for you in securities class-action settlements involving stocks held in your account, and the RHF Fee Schedule sets the Class Action Service Fee at \"20% of the class action settlement proceeds received on your behalf.\" Enrollment lets Robinhood appoint the vendor \"as your agent and attorney-in-fact,\" binds you to the settlement's releases, and means \"you cannot separately bring a lawsuit, at any time, against any named defendant\" in a case where a claim was filed for you. You also can't submit your own claim form for that settlement. Robinhood says it will notify you before each filing. You get seven business days to exclude that case, and you can unenroll from the service at any time through the app or Robinhood Customer Service. The September 1, 2026 version of the agreement had no such section. Settlement administrators don't usually charge anything to file your own claim form, so staying enrolled by default costs you a fifth of any payout. Other brokers run similar auto-enrolled services, but the cut varies: E*TRADE from Morgan Stanley's vendor deducts 6% of payments (etrade.com class action terms), Edward Jones' administrator Broadridge deducts 15% (Edward Jones service disclosure), Interactive Brokers charges a 20% contingency fee (IBKR Securities Class Action Recovery page), and Vanguard's Class Action Service lists a fee of 20% of class-action settlement funds recovered on your behalf (Vanguard Brokerage Services commission and fee schedules, effective July 10, 2026), so Robinhood's 20% sits at the top of that range with Interactive Brokers and Vanguard. Robinhood also gives you less time to skip a case: seven business days from its notice, against 15 business days at E*TRADE (E*TRADE Class Action Service terms) and at Apex Clearing, the clearing firm behind many app-based brokers, whose vendor Broadridge also deducts 20% (Apex Class Action Service summary). If a settlement payment reaches you without the fee taken out, the agreement says \"you agree to pay the applicable fee to us\", that \"the unpaid fee creates an Obligation owed by you\", and that Robinhood may recover it \"by debiting your Account\". Other brokers checked October 16, 2026; Vanguard's fee schedule checked November 10, 2026; E*TRADE's and Apex's opt-out windows checked November 11, 2026. Rechecked November 11, 2026: Robinhood's current Customer Agreement (\"Revised November 2, 2026\") carries Section 36A word for word as in the October 1 version, and the RHF Fee Schedule still lists the 20% fee.",
   "who": "Robinhood brokerage customers, especially anyone holding individual stocks that later become part of securities class-action settlements",
   "url": "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf",
   "seo_title": "Robinhood Class Action Service: auto-enrollment on Nov 18, 2026 and a 20% fee (how to opt out)",
@@ -111,13 +111,33 @@
    [
     "Do I give up any rights if Robinhood files a claim for me?",
     "Yes. Once a claim is filed for you, you \"cannot separately bring a lawsuit, at any time, against any named defendant\" in that case, and you're bound by the settlement's releases. If you unenroll, you can still submit a claim form directly to the claims administrator yourself."
+   ],
+   [
+    "Is Robinhood's opt-out window shorter than other brokers'?",
+    "Yes. Robinhood gives you seven business days from its notice to exclude a particular case. E*TRADE's Class Action Service terms and Apex Clearing's service summary both give 15 business days. Edward Jones says it won't notify you before filing at all."
+   ],
+   [
+    "Can Robinhood take the fee from my account later?",
+    "Yes. If you receive a settlement payment for a claim the service processed and the fee wasn't collected, the agreement says the unpaid fee is \"an Obligation owed by you\" and Robinhood may recover it \"by debiting your Account\"."
    ]
   ],
-  "modified": "2026-11-10",
+  "modified": "2026-11-11",
   "sources": [
    [
     "Vanguard Brokerage Services commission and fee schedules (effective July 10, 2026)",
     "https://investor.vanguard.com/client-benefits/investment-fees"
+   ],
+   [
+    "E*TRADE from Morgan Stanley Class Action Service Terms and Conditions (6% fee, 15 business days to opt out of a case)",
+    "https://us.etrade.com/l/f/agreement-library/class-action-terms-conditions"
+   ],
+   [
+    "Apex Clearing Class Action Service summary (Broadridge deducts 20%, 15 business days)",
+    "https://library.apexfintechsolutions.com/wp-content/uploads/2024/04/Class-Action-Service-Overview.pdf"
+   ],
+   [
+    "Edward Jones Class Action Claim Filing Service disclosure (15%, no advance notice)",
+    "https://www.edwardjones.com/sites/default/files/dam/lgl-17823-a.pdf"
    ]
   ]
  },
