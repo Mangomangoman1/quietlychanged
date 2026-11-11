@@ -1779,3 +1779,69 @@ Reach per tier (replies; parent size at reply time):
 - R1 Wario64 PS Store GTA VI record reply: https://x.com/QuietlyChanged/status/2120189485866729526 (9:18 AM MT, ~33 min after parent, parent ~116K) with PlayStation logo + refund fine-print card.
 - R2 Wario64 Xbox GTA VI record reply: https://x.com/QuietlyChanged/status/2120191238385320065 (9:25 AM MT, ~29 min, parent ~55K+) with Xbox logo only (dropped fine-print card: one line sourced from a fan guide, not verified on Xbox's own page).
 - R3 charlieINTEL PS Store record reply: https://x.com/QuietlyChanged/status/2120192972876816434 (9:32 AM MT, ~30 min, parent 52.6K) with PlayStation logo + refund card.
+
+## Session 2026-11-10 ~5:15 PM MT (Tuesday PM)
+Account (public X read 5:13 PM MT): **23 followers** (flat), 14 following, 237 posts, 115 media. Pinned = Nov 9 roundup. Nothing posted since the AM replies.
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 10 9:32 AM | charlieINTEL PS Store record reply 2120192972876816434 | reply | ~32 | 116K | 13 | 0 | 0 | 0 | 0 |
+| Nov 10 9:25 AM | Wario64 Xbox record reply 2120191238385320065 | reply | ~30 | 129K | 25 | 0 | 0 | 0 | 0 |
+| Nov 10 9:18 AM | Wario64 PS Store record reply 2120189485866729526 | reply | ~34 | 225K | 16 | 0 | 0 | 0 | 0 |
+| Nov 10 6:21 AM | Fable 5.2 original 2120144891267408200 | original | – | – | 18 | 0 | 0 | 1 | 0 |
+| Nov 10 6:22 AM | Fable self-reply 2120145063309398192 | self-reply | – | – | 13 | 0 | 0 | 0 | 0 |
+| Nov 9 5:31 PM | Xfinity boost reply | reply | 41 | 269K | 32 | 0 | 0 | 0 | 0 |
+
+Reach per tier: 50K+ and ≤45 min: three AM GTA replies 13–25 (parents 116K–225K). Nothing else new. Parent-quotes: none.
+
+### What we learned
+1. All three AM replies landed ~30 min under 100K+ climbing parents and got 13–25. The Wario64 PS5 Pro 11.8K hit is now looking like an outlier, not a repeatable timing rule. Common thread in the flops: our reply was a refund/caveat on a hype post ("most pre-ordered ever"), which fans don't engage with. PS5 Pro worked as a "before you buy" fact on a deal post.
+2. **Posting bug:** the AM replies went out as "@Wario64 @Wario64 ..." and "@charlieINTEL @charlieINTEL ...", a doubled handle. Draft text must not start with the @handle; X adds it. Possibly hurting ranking (looks spammy).
+3. Evening pool was thin: no in-lane parent past 50K and fresh. Kalshi's Costco hot-dog delivery post (25K) was the only one near the bar, and it was slowing.
+
+### Topic log
+- Costco food court delivery markups (No Tip, SoCal): $1.50 hot dog combo to $18 (12x), pizza $9.95 to $30, chef salad $7.99 to $28, all-inclusive (SFGate / Independent, Nov 9). Good "cost analysis" lane; candidate for a future chart original on delivery-app markups.
+- Apple outage Nov 10 from 2:49 PM PT: iCloud sign-in, Mail, Calendar, Contacts, Photos, iWork, Game Center down; Find My slow (Apple System Status).
+- X Premium subscribers reporting ads returning (news cluster, Nov 10). Small posts (≤12K) so far; watch for a big parent, our lane (subscription terms) and on-platform.
+- Charlie Bilello 7-year price increases chart (145K) and coffee +122% chart: chart posts on price increases are travelling today; supports doing a chart original soon.
+
+### Drafted (social/2026-11-10/pm/xgrowth-pm-drafts.md)
+- R1 Kalshi No Tip/Costco (25.3K / 40 / ~78 min at 5:18 PM MT): price chart image.
+- R2 conditional 9to5mac Apple outage (11.2K / 5 / ~30 min): Apple logo + status card; post only if past ~20K.
+- No quote, no original (slot used; Dropbox 2nd original still held).
+
+## Session 2026-11-11 ~9:15 AM MT (Wednesday AM)
+Account (public X read 9:12 AM MT): **22 followers** (down 1 from 23), 14 following, 240 posts, 117 media. Pinned lookup returned "not found" for 2119832006922215798 though the post itself still reads fine (API quirk or unpinned; check the profile).
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 11 6:25 AM | Slack self-reply 2120508331727216882 | self-reply | – | – | 1 | 0 | 0 | 0 | 0 |
+| Nov 11 6:24 AM | Slack Slackbot-cap original 2120507938158891126 | original | – | – | 4 | 0 | 0 | 1 | 0 |
+| Nov 10 5:22 PM | Kalshi No Tip/Costco reply 2120311157995295024 (chart) | reply | ~82 | 128K | **320** | 0 | 0 | 0 | 0 |
+| Nov 10 9:32 AM | charlieINTEL PS Store reply | reply | ~32 | 190K | 13 | 0 | 0 | 0 | 0 |
+| Nov 10 9:25 AM | Wario64 Xbox reply | reply | ~30 | 140K | 30 | 0 | 0 | 0 | 0 |
+| Nov 10 9:18 AM | Wario64 PS Store reply | reply | ~34 | 246K | 19 | 0 | 0 | 0 | 0 |
+| Nov 10 6:21 AM | Fable 5.2 original | original | – | – | 21 | 0 | 0 | 1 | 0 |
+
+Reach per tier: 50K+ and >45 min with image: Kalshi chart reply 320 (0.25% of parent), beating all three ≤45-min GTA text-ish replies (13–30). Parent-quotes: none.
+
+### What we learned
+1. Slack original: 4 impressions in ~3 h, worst original yet. B2B/workplace AI pricing does not pass the mass-appeal test; keep those site-only.
+2. The chart reply under a cost-analysis parent (Costco hot dog) got 10–20x the GTA refund replies despite landing at ~82 min. Data/chart replies under price-outrage posts > caveats under hype posts.
+3. Followers slipped to 22.
+
+### Topic log
+- EU low-value import changes: €3 duty (Jul 1) + €2 Union Handling Fee (Nov 1) per item on B2C ≤€150; Japan Post stopped B2C mail to Germany Nov 9. Anime/merch fans furious (7_reoni 155K, BlueStatice_ 150K). Strong "fees" story with a viral audience; fresh copies keep coming.
+- X Premium+ ads in replies (news cluster Nov 10–11): on-platform, subscription-terms lane; parents so far either stale (DariusJButler 225K) or small (thiojoe).
+- EU Digital Fairness Act unveiled Nov 11 (easy cancellation, dark patterns, loot boxes); posts small so far (engadget 4K).
+- Wario64 deal posts still open slots (4 replies at 40K): "before you buy" warranty/returns fact.
+
+### Drafted (social/2026-11-11/am/xgrowth-am-drafts.md)
+- R1 Wario64 MSI QD-OLED $299.99 at Costco (40.0K / 4 replies / ~32 min at 9:17 AM MT): MSI logo + burn-in warranty card.
+- R2 7_reoni Japan Post/Germany "forbidden" (155K / 97 / ~5.5 h): Japan Post logo + notice card. Late; conditional on still climbing.
+- No quote, no original (Slack used today's slot).
+
+### Posted (Nov 11 AM, box browser as @QuietlyChanged)
+- R1 9:23 AM MT: MSI QD-OLED burn-in warranty reply under Wario64 (parent 43.5K at post time): https://x.com/QuietlyChanged/status/2120553130975019198 (handle not doubled, 2 images).
+- R2 Japan Post/Germany correction under 7_reoni: SKIPPED, parent ~5.5 h old, past the 90-min image-reply window.
+- Pinned check: Nov 9 "Due soon" roundup is still pinned.
