@@ -1,0 +1,8 @@
+Slack just put a number on its AI.
+
+Business+ ($15/user/mo): Slackbot is now capped at 15 messages per user per week. That's 3 a workday.
+
+Unlimited Slackbot? That's Enterprise+, which now shows a $45/user/mo list price.
+
+Before/after wording:
+https://quietlychanged.com/changes/2026-11-11-slack-slack-caps-slackbot-at-15-messages-per-user-a-week-on-business-plus-and-p/
