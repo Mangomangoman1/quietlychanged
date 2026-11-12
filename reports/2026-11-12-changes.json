@@ -110,5 +110,111 @@
    "If you're buying the $229.50 annual Premium plan, confirm at checkout how many credits it includes before paying"
   ],
   "what": "Audible's member-benefits page changed its plan cards again. The Standard card dropped \"Unused monthly audiobook selections don't roll over\", the line we logged being added on Oct 23; the FAQ still describes Standard as selecting 1 audiobook a month. The two annual Premium cards now read \"12 audiobooks\" at \"$149.50 a year\" and, for the $229.50 plan, \"12 creditos/año\" (Spanish for 12 credits a year) with \"Save 16%\", where yesterday it said \"24 audiobooks\". The page doesn't explain the change, and the Spanish wording suggests a labeling error rather than a new allowance, so we'd treat the 24-credit plan as unconfirmed until Audible's checkout says otherwise. The headline also changed from \"Access our 1M+ catalog with membership\" to \"Choose the plan that's right for you\", and the monthly cards now say \"30-day free trial\"."
+ },
+ {
+  "service": "United Airlines",
+  "page": "terms",
+  "headline": "United's new contract of carriage doubles how early kids flying alone must be dropped off, to 60 minutes, next to its AI-agent ban",
+  "tldr": "United's Nov 11 contract of carriage says an unaccompanied minor must be brought to the airport 60 minutes early, up from 30. United's own help page still says 30. The same revision bans booking with AI agents.",
+  "impact": 2,
+  "effective": "2026-11-11",
+  "deadline": "Took effect",
+  "themes": [
+   "accept-or-else",
+   "ai-and-your-data"
+  ],
+  "url": "https://www.united.com/en/us/fly/contract-of-carriage.html",
+  "who": "Parents and guardians sending a child aged 5 to 14 alone on United or United Express (unaccompanied minor service is mandatory at those ages, optional at 15 to 17), and anyone who uses an AI assistant, AI browser or travel-agency AI tool to book or manage United trips.",
+  "seo_title": "United contract of carriage (Nov 11, 2026): unaccompanied minors 60 minutes early, AI agents banned",
+  "seo_desc": "United's contract of carriage revised November 11, 2026 says unaccompanied minors must be brought to the airport 60 minutes early (was 30), while United's help page still says 30. It also bans booking with AI agents. Before/after text.",
+  "redline": [
+   {
+    "before": "Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 30 minutes early (in addition to regular airport processing times shown for the airport).",
+    "after": "Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 60 minutes early (in addition to regular airport processing times shown for the airport).",
+    "label": "Contract of Carriage · Rule 13, Children/Minors Traveling Unaccompanied (revised September 30, 2026 vs. revised November 11, 2026)",
+    "note": "One number changed: 30 minutes became 60. The rest of the paragraph is word for word the same. United's unaccompanied minors help page still tells parents to \"arrive 30 minutes earlier than the minimum required check-in time.\"",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product.",
+    "label": "Contract of Carriage · Rule 6, Prohibited Practices (new item 6, revised November 11, 2026)",
+    "note": "Added to the same list as hidden-city, throwaway and back-to-back ticketing. Rule 5 now also lists \"reservations made, modified or serviced by AI Agents\" among the reservations United will cancel without notice.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "AI Agent means any software or service, including but not limited to an AI assistant, AI agent or AI-enabled browser that takes autonomous or semi-autonomous action, whether or not Passenger or another individual supervises or approves its actions",
+    "label": "Contract of Carriage · Rule 1, Definitions (new, revised November 11, 2026)",
+    "note": "Approving each step yourself doesn't take a tool outside the definition.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "If you're sending a child alone on United, plan to hand them over 60 minutes earlier than the airport's normal processing time, as the November 11 contract says, not the 30 minutes United's help page still lists. Check in at the ticket counter (unaccompanied minors can't check in online)",
+   "Book, change and pay for United trips yourself on united.com or the United app. You can still use AI for research, but finish the booking on United's own site or app, since United says it may cancel reservations an AI agent made, modified or serviced on or after November 11",
+   "If you've given an AI tool your MileagePlus login, change your password, as United recommends"
+  ],
+  "what": "United's Contract of Carriage, the legal terms for every United and United Express passenger, now reads \"(revised November 11, 2026)\". Its preamble says you accept it \"By purchasing a ticket or accepting transportation\". The AI-agent ban in this revision got plenty of coverage on November 11 and 12, from travel blogs, Bloomberg Law, PhocusWire, Fast Company and PPC Land. We compared the live text (fetched November 12, 2026) with the September 30, 2026 revision, captured by the Wayback Machine on October 17, 2026. One other change in the rules we compared hasn't been reported anywhere we could find. It affects parents sending kids on holiday flights alone.\n\n## Change 1: kids flying alone must be dropped off 60 minutes early, not 30\n\nRule 13 covers children and minors. In the September 30 version, it said: \"Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 30 minutes early (in addition to regular airport processing times shown for the airport).\" The November 11 version says the same thing with one number changed: \"60 minutes early (in addition to regular airport processing times shown for the airport).\"\n\nThe rest of the paragraph hasn't changed. The adult \"shall remain with the unaccompanied child(ren)/minor(s) until the unaccompanied child(ren)/minor(s) has boarded and the plane is airborne\", and has to give United the name, address and phone number(s) of the person meeting the child. United still requires the service for ages five to 14, offers it only on \"non-stop flights operated by UA and Carriers doing business as United Express\", and doesn't accept children under five traveling alone. The fee in the contract is also unchanged: \"a service charge of 150 USD/150 CAD assessed for each one-way journey\".\n\nUnited's own help pages haven't caught up. Its unaccompanied minors page (fetched November 12, 2026) says: \"For starters, make sure you arrive 30 minutes earlier than the minimum required check-in time.\" It also says \"Kids have to check in at the airport ticket counter when traveling alone.\" United's airport process page lists domestic check-in cutoffs of 30 minutes without checked bags and 45 with them. So under the help page's wording, a domestic drop-off without bags means arriving at least an hour before departure. The contract's new wording asks for an hour on top of \"regular airport processing times\", which it doesn't define.\n\nUnited didn't announce this change, and we found no coverage of it. The help page's fee table also doesn't match the contract. The contract says \"One service charge assessed for each one-way journey applies to two or more children traveling together on the same reservation.\" The help page charges $150 one way for 1-2 kids, $300 for 3-4 and $450 for 5-6.\n\n## Change 2: AI agents can't book, change or buy, and United may cancel what they touch\n\nThis is the change that was reported. A new definition in Rule 1 says: \"AI Agent means any software or service, including but not limited to an AI assistant, AI agent or AI-enabled browser that takes autonomous or semi-autonomous action, whether or not Passenger or another individual supervises or approves its actions, to discover, search for, book, purchase, ticket, service or manage any product or service offered by or through United\". The examples include \"AI assistants built into social media, messaging, search or other consumer platforms\", \"AI-enabled browsers and standalone AI agents\" and \"any third-party AI assistant that accesses United through a tool, application or connection provided by a travel agency or other intermediary.\"\n\nRule 6's list of Prohibited Practices used to have six items: hidden-city, throwaway and back-to-back ticketing, fare-rule circumvention, fraud, and \"Any practice that United believes, in its sole discretion, is exploitative\". It now has a seventh, inserted as item 6: \"The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product.\" The remedies section that follows applies to tickets booked \"in violation of the law, these rules or any fare rule\". It lets United \"Invalidate the Ticket(s)\", \"Permanently ban or refuse to board the Passenger\", and \"Delete miles, points, credits or any other benefits in or related to the Passenger's frequent flyer account\". Those remedies weren't new. What's new is that AI booking is now on the list they cover.\n\nRule 5's list of reservations \"that UA will cancel without notice\" used to end with \"reservations with connections that depart before the arrival on the inbound flight.\" It now ends with \"and reservations made, modified or serviced by AI Agents.\"\n\nUnited's help page on AI agents adds detail that isn't in the contract. \"You can still use AI to research and plan trips, as long as the tool doesn't access united.com or the United app. Assistive technology for customers with disabilities isn't affected.\" It says \"agent bookings made prior to November 11, 2026 will not be canceled\". On whether it works with any outside AI agents, the answer is \"Not yet\". It warns that an AI agent checking you in automatically \"could result in you missing important safety content\", and recommends changing your password if you have shared MileagePlus login details with an AI agent.\n\n## How this compares\n\nOther big US airlines have taken different approaches. Delta's website Terms of Use don't ban AI agents. They say that if you use a \"Third-Party Agent\", including an \"artificial intelligence assistant, automated agent\", \"you do so at your own risk\", that Delta \"reserves the right to refuse to recognize, interact with, or service any Third-Party Agent\", and that \"You agree to indemnify and hold Delta harmless\". The clause isn't in an April 17, 2026 Wayback capture and is in an October 13, 2026 one. Southwest's contract of carriage (59th revision, effective 11/06/2026) has no AI-agent language. The only change from the September 24 revision we found is in its same-day standby wording. Southwest launched a ChatGPT plugin on October 6 that hands you to Southwest.com to book.\n\n## What we couldn't check\n\nThe live contract is long, and our fetch of the November 11 text ended partway through Rule 21 (Refusal of Transport). So we compared Rules 1 through 21. Rules 22 to 30 (smoking, baggage, delays, denied boarding, rerouting, refunds, liability, complaints, personal data) weren't compared, and this revision may have changed them too.\n\nCoverage (checked November 12, 2026): The AI-agent ban was covered by View from the Wing, InsideFlyer, Bloomberg Law, PhocusWire, Fast Company, PPC Land and others. Terminair and Fast Company compared it with Delta and American. We found no coverage of the unaccompanied-minor change.",
+  "sources": [
+   [
+    "United Airlines Contract of Carriage (revised November 11, 2026)",
+    "https://www.united.com/en/us/fly/contract-of-carriage.html"
+   ],
+   [
+    "United Contract of Carriage (revised September 30, 2026), Wayback Machine capture Oct 17, 2026",
+    "https://web.archive.org/web/20261017160144/https://www.united.com/en/us/fly/contract-of-carriage.html"
+   ],
+   [
+    "United: Unaccompanied minors (help page)",
+    "https://www.united.com/en/us/fly/travel/accessibility-and-assistance/unaccompanied-minors.html"
+   ],
+   [
+    "United: Unauthorized third-party AI agents or assistants (help page)",
+    "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"
+   ],
+   [
+    "United: Airport process and check-in time limits",
+    "https://www.united.com/en/us/fly/travel/airport/airport-process.html"
+   ],
+   [
+    "PPC Land: United bans AI agents from buying its tickets, seats and upgrades",
+    "https://ppc.land/united-bans-ai-agents-from-buying-its-tickets-seats-and-upgrades/"
+   ],
+   [
+    "Fast Company: United Airlines just made a big change to flight bookings",
+    "https://www.fastcompany.com/91640548/united-airlines-just-made-a-big-change-to-flight-bookings-heres-why-delta-and-american-arent-following"
+   ],
+   [
+    "Delta Air Lines Terms of Use (Third-Party Agent clause)",
+    "https://www.delta.com/us/en/legal/terms-of-use"
+   ]
+  ],
+  "faq": [
+   [
+    "How early do I have to drop off an unaccompanied minor at United?",
+    "United's contract of carriage, revised November 11, 2026, says unaccompanied children must be brought to the departure airport by a parent, legal guardian or responsible adult \"60 minutes early (in addition to regular airport processing times shown for the airport).\" The September 30, 2026 version said 30 minutes. United's unaccompanied minors help page still says to \"arrive 30 minutes earlier than the minimum required check-in time,\" so the two don't match. The contract is the binding document."
+   ],
+   [
+    "When did United change the unaccompanied minor drop-off time?",
+    "Sometime after the September 30, 2026 revision. That version, captured by the Wayback Machine on October 17, 2026, says 30 minutes. The current version, \"revised November 11, 2026\", says 60. We couldn't confirm whether an intermediate revision existed between the two."
+   ],
+   [
+    "Did United change the unaccompanied minor fee?",
+    "No. The contract still says the service charge is \"150 USD/150 CAD assessed for each one-way journey\", and that \"One service charge assessed for each one-way journey applies to two or more children traveling together on the same reservation.\" United's help page has a different table: $150 one way for 1-2 kids, $300 for 3-4 and $450 for 5-6."
+   ],
+   [
+    "Can I use ChatGPT or another AI assistant to book a United flight?",
+    "Not to book, change or pay. Since November 11, 2026, United's contract of carriage prohibits \"The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product,\" and lets United cancel \"reservations made, modified or serviced by AI Agents.\" United's help page says \"You can still use AI to research and plan trips, as long as the tool doesn't access united.com or the United app.\""
+   ],
+   [
+    "Will United cancel a booking an AI agent made before November 11?",
+    "United's help page says \"agent bookings made prior to November 11, 2026 will not be canceled.\""
+   ],
+   [
+    "Does the AI-agent ban affect assistive technology?",
+    "United's help page says \"Assistive technology for customers with disabilities isn't affected.\" We didn't find that exception in the contract of carriage text itself."
+   ]
+  ]
  }
 ]

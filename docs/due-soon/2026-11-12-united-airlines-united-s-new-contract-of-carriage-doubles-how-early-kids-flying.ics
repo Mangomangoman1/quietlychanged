@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Airlines · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-12-united-airlines-united-s-new-contract-of-carriage-doubles-h
+ ow-early-kids-flying@quietlychanged.com
+DTSTAMP:20261112T200011Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:United Airlines: Took effect
+DESCRIPTION:United's Nov 11 contract of carriage says an unaccompanied min
+ or must be brought to the airport 60 minutes early\, up from 30. United's
+  own help page still says 30. The same revision bans booking with AI agen
+ ts.\n\nhttps://quietlychanged.com/changes/2026-11-12-united-airlines-unit
+ ed-s-new-contract-of-carriage-doubles-how-early-kids-flying/
+URL:https://quietlychanged.com/changes/2026-11-12-united-airlines-united-s
+ -new-contract-of-carriage-doubles-how-early-kids-flying/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: United Airlines — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

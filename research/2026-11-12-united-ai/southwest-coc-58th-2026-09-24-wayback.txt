@@ -1,0 +1,2374 @@
+Contract of Carriage - Passenger
+English Version
+
+Revision: 58th Revised
+
+Effective Date: 09/24/2026
+
+Contract of Carriage
+Table of Contents
+Contract of Carriage - Passenger ............................................................................................................ 1
+1.
+
+Introduction ..................................................................................................................................... 4
+a.
+
+Application of Conditions of Contract ......................................................................................................... 4
+
+b.
+
+Definitions .................................................................................................................................................... 5
+
+2.
+
+Reservations .................................................................................................................................... 9
+a.
+
+Reservations ................................................................................................................................................ 9
+
+b.
+
+Group Policies ............................................................................................................................................ 11
+
+3.
+
+Fares .............................................................................................................................................. 12
+a.
+
+Application of Fares ................................................................................................................................... 12
+
+b.
+
+Stopovers ................................................................................................................................................... 13
+
+c.
+
+Military Fares ............................................................................................................................................. 13
+
+d.
+
+Government Fares ..................................................................................................................................... 13
+
+e.
+
+Basic fares and Choice fares ...................................................................................................................... 13
+
+4.
+
+Tickets ........................................................................................................................................... 14
+a.
+
+Tickets ........................................................................................................................................................ 14
+
+b.
+
+Ticket Acceptability .................................................................................................................................... 15
+
+c.
+
+Refunds ...................................................................................................................................................... 15
+
+5.
+
+Check-in ......................................................................................................................................... 19
+a.
+
+Boarding Passes ......................................................................................................................................... 19
+
+b.
+
+Check-in Requirements .............................................................................................................................. 19
+
+6.
+
+Acceptance of Passengers ............................................................................................................. 20
+a.
+
+Refusal to Transport—General .................................................................................................................. 20
+
+b.
+
+Refusal to Transport—Unruly/Disruptive Passenger................................................................................. 21
+
+c.
+
+Carriage of Children ................................................................................................................................... 24
+
+d.
+
+Carriage of Passengers with Disabilities .................................................................................................... 25
+
+e.
+
+Pets ............................................................................................................................................................ 27
+
+f.
+
+Law Enforcement and Search and Rescue Dogs ........................................................................................ 28
+
+7.
+
+Baggage ........................................................................................................................................ 30
+a.
+
+Carryon and Checked Baggage Allowance ................................................................................................. 30
+
+b.
+
+Acceptance of Carryon Baggage ................................................................................................................ 30
+
+c.
+
+Acceptance of Checked Baggage ............................................................................................................... 30
+2
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+d.
+
+Surveillance and Inspection of Baggage .................................................................................................... 31
+
+e.
+
+Checking of Baggage. ................................................................................................................................. 31
+
+f.
+
+Unsuitable Baggage Subject to limited release of liability ........................................................................ 32
+
+g.
+
+Limitations of Liability ................................................................................................................................ 32
+
+8.
+
+International Travel ....................................................................................................................... 36
+a.
+
+Application of Montreal or Warsaw Convention ....................................................................................... 36
+
+b.
+
+Death or Injury of Passengers .................................................................................................................... 36
+
+c.
+
+Delay of Passengers ................................................................................................................................... 37
+
+d.
+
+Destruction, Loss, or Delay of Baggage ..................................................................................................... 38
+
+e.
+
+Time Limitations on Claims and Actions .................................................................................................... 39
+
+f.
+
+International Travel Documents ................................................................................................................ 39
+
+g.
+
+Foreign Currency ........................................................................................................................................ 40
+
+h.
+
+Partial Tax Refunds in Limited Circumstances ........................................................................................... 40
+
+i.
+
+Check-in Times for International Flights .................................................................................................... 40
+
+j.
+
+Travel by Persons under the Age of 18 ...................................................................................................... 41
+
+k.
+
+Carriage of Animals .................................................................................................................................... 41
+
+l.
+
+Firearms ..................................................................................................................................................... 41
+
+9.
+
+Flight Changes, Cancellations, Delays, and Diversions................................................................... 42
+a.
+
+Changes to Flight Schedules. ..................................................................................................................... 42
+
+b.
+
+Southwest Cancellations and Significantly Delayed or Changed Flights ................................................... 42
+
+c.
+
+Denied Boarding Procedures Due to an Oversale ..................................................................................... 42
+
+d.
+
+Ground Transportation .............................................................................................................................. 45
+
+10.
+
+Interline Transportation ............................................................................................................. 46
+
+a.
+
+General ...................................................................................................................................................... 46
+
+11.
+
+Miscellaneous ............................................................................................................................ 48
+
+a.
+
+Claims ......................................................................................................................................................... 48
+
+b.
+
+Customer Service Plan ............................................................................................................................... 48
+
+c.
+
+Choice of Law, Entire Agreement .............................................................................................................. 48
+
+3
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+1. Introduction
+a. Application of Conditions of Contract
+(1) Reservations, purchase, ticketing, and transportation by Southwest Airlines Co. (“Carrier”
+or “Southwest Airlines” or “Southwest”) are subject to this Contract of Carriage in effect
+on the earliest of the date on which the Ticket is reserved, purchased, or issued, and as
+amended through the date of travel, in addition to any terms, conditions, and restrictions
+applicable to your booking channel and included on any Ticket, except as otherwise
+provided within specific fare rules. The terms and conditions contained in this Contract of
+Carriage shall govern all published routes and services provided by Southwest as well as
+all fares and charges published by Southwest. This Contract of Carriage is subject to
+applicable tariffs on file with the U.S. Department of Transportation and laws, regulations,
+and rules imposed by U.S. or foreign governmental agencies; however, such tariffs, laws,
+regulations, and rules do not create any contractual or other obligations by Southwest
+that are owed to the Passenger, the Customer, or any other person or entity, or any right
+of action as against Southwest. If any portion of this Contract of Carriage conflicts with
+applicable laws, rules, or security directives from U.S. or foreign government agencies,
+the applicable laws, rules, or security directives shall govern. Southwest shall not be
+liable for any damage arising out of its compliance with any laws, government
+regulations, orders, rules, requirements, or security directives.
+By making a reservation, purchasing a Ticket, or accepting Carriage, the Passenger and
+Customer agree to adhere to, be bound by, and comply with all of the terms, conditions,
+and requirements set forth herein and applicable laws and regulations, including but not
+limited to federal laws protecting federal, airport, and air carrier employees who have
+security duties from assault and interference with the performance of their duties.
+Carriage offered by Southwest under this Contract of Carriage is subject to the
+Passenger’s and Customer’s compliance with these obligations, and a failure to comply
+shall constitute a material breach of this Contract of Carriage.
+(2) Southwest Airlines reserves the right, in its sole discretion and to the extent not prohibited
+by law, to change, delete, or add to any of the terms of this Contract of Carriage without
+prior notice. All changes must be in writing and approved by an authorized
+representative of Southwest Airlines.
+(3) If; (i) this Contract of Carriage is amended after a Ticket is reserved, purchased, or issued
+but before commencement of travel, (ii) the amendment substantially affects the terms
+and conditions of a Passenger’s Carriage, and (iii) the Passenger does not agree to be
+bound by the Contract of Carriage as amended, then the Passenger’s sole recourse is to
+request a refund of the fare paid for unused travel. Such request for a refund must be
+made prior to the date on which travel was to commence. Any such refund will be issued
+in accordance with Section 4.c.(3).
+
+4
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(4) Southwest’s obligations hereunder extend only to the Passenger, and as expressly set
+forth herein, to the Customer. In the event of a refund payment, Southwest may, in its
+sole discretion, refund all or a portion of the payment to the Customer but such payment
+shall not create a contractual relationship between Southwest and such third-party payor.
+(5) This Contract of Carriage does not create, and shall not be construed to create, any right
+or cause of action based on any state, local, federal or international law, statute,
+regulation, rule, policy, guidance, treatise, convention, or other form of legal statements
+or requirements, and Southwest Airlines does not, in this Contract of Carriage, expressly
+or implicitly incorporate any such law, statute, regulation, rule, policy, guidance, treatise,
+convention, or other form of legal statements or requirements by reference.
+(6) The Customer and Passenger waive any right of a travel insurer to exercise rights and
+remedies under this Contract of Carriage against Southwest with respect to any loss
+covered by a travel insurance policy.
+(7) The invalidity of any provision herein shall not affect the validity of any other provision
+that shall remain in full force and effect.
+(8) Unless specifically stated otherwise herein or where any limitation would expressly violate
+any applicable law, Southwest shall not be liable for any consequential, compensatory,
+indirect, incidental, or punitive damages arising out of or in connection with the
+performance of its obligations under this Contract of Carriage.
+(9) For Interline Transportation, please refer to Section 10 for additional information, terms
+and conditions.
+b. Definitions
+Baggage means all luggage and contents contained inside, including but not limited to,
+suitcases, garment bags, tote bags, packages, camera and electronics bags, computer and
+equipment cases, briefcases, musical instruments, and similar articles, whether carried by
+the Passenger in the cabin or carried in the aircraft cargo compartments. Coats and wraps,
+when carried by the Passenger in the passenger cabin, will not be considered as Baggage.
+Boarding Pass means a document (paper or electronic) issued by Southwest that bears the
+title Boarding Pass, the Passenger’s first and last name, the flight number and date, the
+departure and destination airports, and a seat and boarding group assignment.
+Carriage means the transportation of Passengers and/or Baggage by air, gratuitously or for
+hire, and all services of Southwest related thereto.
+Checked Baggage means Baggage of which Southwest takes sole custody and for which
+Southwest has issued a baggage claim check and to which Southwest or Passenger affixed
+a baggage tag.
+Customer means the person, agent, or entity who held a reservation or paid for, changed, or
+canceled a Ticket for the Passenger. For clarity, if the Passenger holds a reservation or
+purchases, changes, or cancels a Ticket, the Passenger is the Customer.
+5
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+Flight Credit means a credit in a specified U.S. dollar amount, which has no cash value and
+may be redeemed solely for the purchase of Tickets. Flight Credits created from Tickets
+issued or changed on or after May 28, 2025, have an expiration date by which travel must be
+booked and flown. You may not transfer a Flight Credit for any reason unless expressly
+stated otherwise in this contract. More information about the terms that apply to Flight Credits
+can be found in our Help Center.
+Force Majeure Event means any event outside of Southwest’s control, including, without
+limitation, acts of God, and meteorological events, such as storms, polar vortex, rain, wind,
+fire, fog, flooding, earthquakes, haze, or volcanic eruption. It also includes, without limitation,
+a pandemic, public health emergency, catastrophe, government action, disturbance, or
+potentially volatile international condition, armed conflict, civil unrest or commotion, riot,
+embargo, war, or hostility, whether actual, threatened, or reported, strike, work stoppage,
+slowdown, lockout, or any other labor related dispute involving or affecting Southwest’s
+service, mechanical difficulties by entities other than Southwest, Air Traffic Control, or the
+inability to obtain fuel, supplies, components, parts, fluids, airport gates, labor, landing
+facilities, or other items which Carrier, in its unilateral discretion, decides is reasonably
+necessary for the flight in question, or any fact or situation that was not foreseen, anticipated,
+or predicted by Southwest.
+Individual with a Disability, as defined in 14 CFR § 382.3, means any individual who has a
+physical or mental impairment that, on a permanent or temporary basis, substantially limits
+one or more major life activities, has a record of such an impairment, or is regarded as
+having such an impairment.
+Interline Carrier means an airline subject to an interline agreement with Southwest over
+whose routes a Passenger and their Checked Baggage are transported on a single ticket
+involving Southwest.
+Interline Transportation means carriage on more than one carrier where carriers agree to
+accept each other’s tickets and baggage pursuant to an interline agreement.
+Interline Itinerary means flights reflected on a single ticket involving Southwest and a carrier
+with which Southwest has entered into an interline agreement.
+Limited Release of Liability means Passenger’s tender, and Southwest’s acceptance, of
+Checked Baggage in a condition, or of a nature, unsuitable for Carriage and/or where
+Southwest limits or excludes liability for loss, damage, or delay under Section 7.
+Montreal Convention means, unless the context requires otherwise, the Convention for the
+Unification of Certain Rules for International Carriage by Air, done at Montreal, May 28, 1999.
+A nonstop Flight is a flight scheduled to operate between origin and destination airports
+without any intermediate stops.
+One-way means Scheduled Air Service on Southwest Airlines from an originating airport to a
+destination airport.
+Passenger means any person, except members of the Crew working on the flight, who is
+carried or will be carried in an aircraft with the consent of Southwest.
+6
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+Qualified Individual with a Disability, as defined in 14 CFR § 382.3, means an Individual
+with a Disability who, as a Passenger:
+(i) With respect to obtaining a Ticket for air transportation on Southwest Airlines, offers
+or makes a good faith attempt to offer, purchase, or otherwise validly obtain a Ticket.
+(ii) With respect to obtaining air transportation, or other services or accommodations:
+a. Buys or otherwise validly obtains, or makes a good faith effort to obtain, a
+Ticket for air transportation on Southwest Airlines and presents themselves at
+the airport for the purpose of traveling on the flight to which the Ticket
+pertains; and
+b. Meets reasonable, nondiscriminatory Contract of Carriage requirements
+applicable to all Passengers.
+(iii) With respect to accompanying or meeting a traveler, using ground transportation,
+using terminal facilities, or obtaining information about schedules, fares, reservations,
+or policies, takes those actions necessary to use facilities or services offered by
+Southwest to the general public, with reasonable accommodations, as needed,
+provided by Southwest.
+Roundtrip means Scheduled Air Service on Southwest Airlines from an originating airport to
+a destination airport and back to the originating airport or Southwest Airlines-recognized coterminal.
+Same-Plane Service means service between an origin and destination airport with
+scheduled stops at one or more intermediate airports. With the exception of unexpected
+ground delays or other unforeseen flight disruptions, Passengers on Same-Plane Service are
+not required to disembark the aircraft at any intermediate stop.
+Scheduled Air Service means any current or future flight published on the Southwest
+Airlines website, Southwest Airlines mobile apps, or in a computer reservation system used
+by Southwest.
+Significantly Delayed or Changed Flight means because of a Southwest-imposed flight
+delay or change:
+A. The Passenger is scheduled to depart from the origination airport three hours or more
+for domestic itineraries and six hours or more for international itineraries earlier than
+the original scheduled departure time;
+B. The Passenger is scheduled to arrive at the destination airport three hours or more
+for domestic itineraries or six hours or more for international itineraries later than the
+original scheduled arrival time;
+C. The Passenger is scheduled to depart from a different origination airport or arrive at a
+different destination airport;
+D. The Passenger is scheduled to travel on an itinerary with more connection points than
+that of the original itinerary; or
+E. The Passenger is downgraded to a lower class of service; or
+F. The Passenger is an Individual with a Disability and is scheduled to travel through
+one or more connecting airports that are different from the original itinerary.
+
+7
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+Southwest LUV Voucher means a voucher issued by Southwest, at Southwest’s sole
+discretion in a specified dollar amount with a specified expiration date. Southwest LUV
+Vouchers are redeemable solely for the purchase of Tickets and may not be redeemed for
+cash. Southwest LUV Vouchers are not redeemable as payment toward Governmentimposed segment fees, excise taxes, Passenger Facility Charges, or September 11th
+Security Fees or as payment toward miscellaneous charges, Southwest Airlines Group
+tickets, Getaways by Southwest® packages, or travel either wholly or in part on other air
+carriers. Southwest LUV Vouchers must be used (travel booked and flown) by the Southwest
+LUV Voucher’s expiration date. Additional Terms and Conditions applicable to Southwest
+LUV Vouchers may be found on Southwest.com and/or accompanying receipt of the
+voucher.
+Special Drawing Rights (SDR) means a unit of currency created by the International
+Monetary Fund (IMF) in 1969, which operates as a supplement to the existing reserves of
+member countries. The current value of an SDR in U.S. dollars is provided daily by the IMF
+at http://www.imf.org/external/np/fin/data/rms_sdrv.aspx.
+Standby Passengers means Passengers who will be enplaned on a flight subject to
+availability of space at departure time and only after all Passengers with confirmed reserved
+space for such flight have been enplaned on such flight.
+Ticket means the electronic number issued by Southwest, an authorized travel agent, or
+another carrier as part of an Interline Itinerary, which provides for the Carriage of the
+Passenger occupying a seat.
+Ticketing Time Limit (TTL) means the time by which the Passenger must secure their
+Ticket for a confirmed reservation.
+Trained Service Animal means a dog, regardless of breed or type, that is individually
+trained to do work or perform tasks for the benefit of a Qualified Individual with a Disability,
+including a physical, sensory, psychiatric, intellectual, or other mental disability. A Trained
+Service Animal also must be trained to behave properly in a public setting, remain under the
+control of the handler, and avoid engaging in disruptive behavior at all times. Animal species
+other than dogs, emotional support animals, comfort animals, companionship animals, and
+service animals in training are not Trained Service Animals for the purposes of this Contract
+of Carriage. Southwest does not agree to admit any animal onboard the aircraft where such
+animal carriage is not required by the federal Air Carrier Access Act or applicable rules and
+regulations of the U.S. Department of Transportation.
+Transferable Flight Credit™ means a Flight Credit that allows a one-time transfer of the
+credit between Rapid Rewards™ Members® before the expiration date of the credit. More
+information about the terms that apply to Transferable Flight Credits is available in our Help
+Center.
+
+8
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+2. Reservations
+a. Reservations
+(1) Confirmation of Reservations. A reservation on a given flight is confirmed by the
+issuance of a Ticket.
+(2) Cancellation of Reservations.
+(i) Passenger or Customer Initiated Cancellation Prior to Travel. If a Passenger or
+Customer cancels a Ticket at least ten (10) minutes prior to the scheduled departure
+time, eligible refunds will be provided consistent with Section 4.c. if affirmatively
+requested within one year from the date the Ticket was issued. If a Passenger does
+not travel and either the Passenger or Customer fails to cancel a Ticket at least ten
+(10) minutes prior to the scheduled departure time, the fare paid for such unused
+travel associated with the Ticket will be handled in accordance with the procedures
+specified in Section 2.a.(2)(iii).
+(ii) Southwest has the right to cancel reservations (whether or not confirmed) due to the
+Customer’s or Passenger’s failure to comply with the rules set forth herein, including
+but not limited to, the failure to pay for the applicable Ticket under the conditions
+applicable to the fare for such travel and the failure to meet our check-in
+requirements as described in Section 5.
+(iii) No-Show Policy.
+(a) Subject to Section 9, if a Basic fare segment on a Ticket is not canceled at least
+ten minutes prior to the scheduled departure time and the Passenger does not
+travel, then all segments associated with the Ticket are canceled, and the Rapid
+Rewards™ points and/or funds used to purchase the Basic fare segment(s),
+including taxes and government fees associated with those segments, are
+forfeited.
+(b) Subject to Section 9, if a Choice fare segment on a Ticket is not canceled or
+changed at least ten minutes prior to the scheduled departure time and the
+Passenger does not travel, then all segments associated with the Ticket are
+canceled, and Rapid Reward points and/or funds used to purchase the Choice
+fare segment(s), including the taxes and government fees associated with those
+segments, are forfeited.
+(c) Subject to Section 9, if a Choice Extra fare or Choice Preferred fare segment on a
+Ticket is not changed or canceled at least ten minutes prior to the scheduled
+departure time and the Passenger does not travel, all segments associated with
+the Ticket are canceled, and funds (including taxes and government fees)
+associated with the Choice Extra Fare or Choice Preferred Fare segment(s) are
+returned as a Transferable Flight Credit™. Any Rapid Rewards™ points used to
+purchase the Choice Extra fare or Choice Preferred fare segment(s) will be
+returned to the account used to purchase the fare segment.
+
+9
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(d) Subject to Section 9, when a Ticket contains flight segments with mixed fare
+types and the Ticket is not changed or canceled at least ten minutes prior to the
+scheduled departure time and the Passenger does not travel, all segments
+associated with the Ticket are canceled and the individual flight segments will
+follow the aforementioned rules associated with the fare type in regard to
+forfeiture of Rapid Rewards™ points and funds under Sections 2.a.(2)(iii)(a), (b),
+and (c).
+(vi) Prohibited Booking Practices
+(a) Fraudulent, fictitious, and/or abusive bookings violate Southwest Airlines rules.
+Reservations made by Passengers or Customers, or Tickets issued to
+Passengers, must be made and issued only in respect of a Passenger’s genuine
+travel requirements. Reservations made to exploit or circumvent fare and Ticket
+rules are strictly prohibited. Examples include (but are not limited to):
+• Purchasing a Ticket without intending to fly all flights to gain lower fares
+(hidden cities);
+• Purchasing a Ticket without intent to travel, including to gain access to
+facilities;
+• Combining two or more roundtrip excursion fares end-to-end to circumvent
+minimum stay requirements (back-to-back ticketing);
+• Reserving a Ticket in someone’s name without the person’s consent; and
+• Reserving duplicate or impossible trips; for example, multiple trips for the
+same Passenger around the same time (i.e., trips a Passenger physically
+could not complete), multiple trips for the same Passenger departing from the
+same city on the same date, or any multiple reservations containing conflicting
+or overlapping itineraries (such as departures for the same Passenger from
+multiple cities at the same time).
+(b) If Southwest finds evidence that the Passenger or Customer is using a prohibited
+practice, then without advance notice to the Passenger or Customer, Southwest
+reserves the right to the following:
+• Cancel any unused part of the Ticket;
+• Cancel any other reservations that it believes, in its sole discretion, were
+made without intent to travel;
+• Refuse to let the Passenger and Passenger’s Checked Baggage fly;
+• Not refund an otherwise refundable Ticket;
+• Charge the Customer for what the Ticket would have cost if the Customer
+hadn’t engaged in a prohibited practice, and;
+• Require the Passenger or Customer to refund to Southwest Airlines any
+compensation Southwest Airlines provided to the Passenger or Customer
+(such as costs for delivering Baggage or reimbursements for clothes or
+toiletries).
+(c) If Southwest proactively cancels a Ticket, the fare paid for the unused portions of
+travel that are canceled by Southwest may be refunded or applied toward a Flight
+Credit or a Transferable Flight Credit™ depending on the fare purchased in
+accordance with this Contract of Carriage.
+10
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(vii) Limitation of Liability. The Customer and Passenger agree that Southwest will not be
+liable for any type of special, incidental, consequential, or any other type of damages
+when Southwest cancels the reservations of any Passenger pursuant to Section
+2.a.(2).
+b. Group Policies
+(1) Groups Booked as Individuals. When ten (10) or more Passengers are booked by a
+single individual, company, corporation, booking agency, or other entity for travel on the
+same scheduled flight(s), the reservations must be made as a group through Southwest
+Airlines Group Desk and are otherwise subject to cancellation, and all applicable group
+policies, procedures, and terms and conditions set forth in a group travel agreement must
+be followed. In the event of a conflict between this Contract of Carriage and applicable
+group policies, procedures, and terms and conditions set forth in a group travel
+agreement (including fare rules and refunds), such group policies, procedures, and terms
+and conditions set forth in a group travel agreement shall apply. If a booking entity fails to
+make such reservations as a group, Southwest Airlines reserves the right, in its sole
+discretion, to assess a penalty upon and/or revoke the authority of the booking entity to
+sell Southwest Airlines transportation services.
+(2) Group Reservations. Southwest Airlines reserves the right to:
+(i) Limit seats by flight for group reservations.
+(ii) Cancel group reservation requests.
+(iii) Make changes to group reservations to accommodate Southwest Airlines' flight
+schedule.
+(iv) Not accept group reservations.
+(v) Require that group reservations be converted to ticketed individual reservations at the
+applicable individual fare or be forfeited if group reservation utilization reveals what
+Southwest Airlines considers, in its sole discretion, to be an inadequate usage of
+reserved seats.
+(vi) Prohibit Passengers traveling on group reservations from voluntary standby.
+(3) Group Reservations made through Southwest Airlines are valid on flights operated by
+Southwest Airlines only and are not available for travel on itineraries that combine flights
+with other carriers.
+
+11
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+3. Fares
+a. Application of Fares
+(1) Transportation is subject to the fares and charges in effect when the Ticket is purchased.
+The fare is guaranteed once a reservation is purchased and a Ticket is issued. If a Ticket
+is purchased before an increase in the fare becomes effective, the Ticket shall be
+honored for transportation between the airports and at the fare for which it was
+purchased.
+(2) Changes to any portion of a Ticket initiated by the Customer or the Passenger after its
+original issue will be subject to the fares, fare rules, tax increases, and charges in effect
+on the date the change is initiated. For these purposes, a change constitutes a change in
+flight number, origin, destination, intermediate points, flight date, flight time, or fare
+product. A Basic fare segment on a Ticket can only be canceled or upgraded to a higher
+fare product.
+(3) Fares may be obtained on Southwest Airlines websites at Southwest.com or
+SWABIZ.com; through Southwest Airlines mobile apps; from Southwest Airlines by
+telephone at 1 (800) 435-9792 (1-800-I-FLY-SWA), in Spanish at 1 (800) 826-6667 (1800-VAMONOS), from Mexico (Border Cities) at 001(800) 435-9792 (English) or 001(800) 826-6667 (Spanish), through TTY service at 1(800) 533-1305, for groups at (800)
+433-5368; at a ticket counter of Southwest; or through a travel agent or other entity
+authorized by Southwest to access Southwest Airlines fares.
+(4) All published fares and charges are stated in U.S. currency (“dollars” or “U.S. dollars”).
+(5) On the day of travel, when Passengers voluntarily request to travel standby on an
+itinerary differing from their purchased Ticket, Southwest will quote an estimated amount
+for the taxes and government fees in line with the planned standby itinerary at the time of
+request by the Passenger. Passengers traveling on group reservations and Passengers
+under the age of 12 unless accompanied by a Passenger at least 12 years old are
+prohibited from voluntary standby travel. Voluntary standby travel is subject to eligibility
+and the availability of seats at departure time. Passengers flying standby have an
+unconfirmed status for all scheduled stops at any intermediate or connecting points on
+the flight and must receive confirmation of reserved space for each intermediate or
+connecting points on the flight in order to be provided travel on such flight. Passengers
+flying standby are responsible for any expenses incurred as a result of not receiving
+confirmed reserved space at any intermediate or connecting airports. Southwest may, at
+the discretion of Southwest, establish a hierarchy for the order in which Passengers
+traveling standby will be accommodated.
+Because the Passenger’s requested (voluntary standby) itinerary may not be available as
+originally planned, and a new itinerary may be required, the amount of the taxes and
+government fees may vary from the initial estimated amount at the time that the
+Passenger made the request for standby travel. Passengers who travel on an itinerary of
+a standby nature are responsible for any change in taxes and/or fees that result from the
+Passenger’s final completed ticketed routing, regardless of the initial proposed standby
+quote.
+
+12
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+b. Stopovers
+(1) A stopover is a deliberate interruption of the itinerary by the Passenger. No Passengerinitiated stopovers are permitted on published fares, except upon combination of
+individually purchased One-way fares.
+c. Military Fares
+(1) United States military personnel on active duty (including reservists, National Guard
+members, and Coast Guard members with active orders and cadets/midshipmen
+attending the U.S. Air Force Academy, U.S. Naval Academy, U.S. Military Academy
+[West Point], and the U.S. Coast Guard Academy) and their authorized dependents are
+eligible for military fares. Military dependents ages 2 through 11 years old must be
+accompanied by a military Passenger or a military dependent Passenger at least 12
+years old. Military personnel who have been discharged from active military duty and
+their authorized dependents traveling together remain eligible for military fares if travel
+will be completed within seven (7) days of the military member’s date of discharge.
+(2) Government Transportation Requests (GTRs) are not permitted or accepted for purchase
+of transportation booked at a military fare.
+A valid United States Uniformed Services Active Duty Identification Card or a copy of
+discharge orders must be presented at the time of check-in for military personnel.
+Dependents, other than dependents traveling with a discharged military member within
+seven (7) days of the member’s discharge from active duty, must present a United States
+Uniformed Services Identification and Privilege Card marked Active.
+(3) Military fares are not available on Southwest.com and may only be purchased by calling
+Southwest or at an airport ticket counter of Southwest. Passengers traveling on a military
+fare will need to verify ID at the airport ticket counter in order to receive a Boarding Pass.
+d. Government Fares
+(1) Federal government fares are not available on Southwest.com and may only be
+purchased through an eligible federal government personnel’s authorized travel
+management system, travel agency, or commercial travel office or through the Southwest
+Airlines Government Reservation Desk by calling 1 (888) 871-8167. Eligible federal
+government personnel should use their agency’s preferred channel for purchasing a
+Ticket.
+(2) State government fares are not available on Southwest.com and may only be purchased
+through an eligible state government personnel’s authorized travel agency or through the
+Southwest Airlines Government Reservation Desk by calling 1 (888) 871-8167. Eligible
+state government personnel should use their agency’s preferred channel for purchasing a
+Ticket.
+e. Basic fares and Choice fares
+(1) Basic fares and Choice fares are discounted, restricted, and nonrefundable fares.
+(2) Restrictions on Basic fares and Choice fares are set forth in various provisions of this
+Contract of Carriage.
+13
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+4. Tickets
+a. Tickets
+(1) No person shall be entitled to Carriage except upon presentation of a valid Ticket or proof
+of identification acceptable to Southwest to confirm that Carriage has been purchased.
+Such Ticket shall entitle the Passenger to Carriage subject to this Contract of Carriage
+and, in particular, certain terms and conditions as follows:
+(i) Such Ticket is valid between the points of origin and destination via the specific
+routing designated on the Passenger’s itinerary only.
+(ii) The Passenger is in compliance with fare requirements as provided in Section 3.c.,
+including proof of age and status, where applicable, that entitles the Passenger to
+military fares.
+(iii) The Passenger is in compliance with any other requirements of the Passenger’s fare
+rules.
+(iv) The Passenger’s Ticket is in the Passenger’s own name.
+(v) The Ticket has not been altered or improperly issued.
+(2) Tickets are Nontransferable. Tickets are nontransferable unless:
+• Specified explicitly on the Ticket, or;
+• Passenger holds a Ticket purchased subject to an agreement with Southwest Airlines
+and, in accordance with such agreement, the purchasing company or its designated
+travel agent is permitted to request a Ticket exchange replacing the Passenger’s name
+with a different Passenger on a new Ticket. If the company or its designated travel
+agent makes the Ticket exchange request as permitted by the foregoing clause (ii) at
+least 24 hours prior to the original scheduled departure time for the flight, then the
+name of the Passenger on the ticketed reservation may be changed in accordance
+with the terms of such corporate agreement and Southwest shall not be liable for any
+type of actual, special, incidental, or consequential damages (including for
+transportation, a refund, or a Flight Credit[s] or Transferable Flight Credit[s]™) to the
+Passenger named on the Ticket prior to the Ticket exchange.
+(3) Except as expressly permitted by this Contract of Carriage, Southwest is not liable to the
+holder of a Ticket for use or refund of such Ticket when presented by a person other than
+the person named on the Ticket. If a Ticket is used by a person other than the person
+named on the Ticket, Southwest shall not be liable for the loss, destruction, damage, or
+delay of such unauthorized person’s Baggage or other personal property or the death or
+injury of such unauthorized person arising from or in connection with such unauthorized
+use.
+(4) Adjacent Seats. The purchase of more than one seat for use by a single Passenger is
+required in two situations. First, the purchase of an adjacent seat is required when
+necessary to transport large musical instruments or electronic audio/video, medical, or
+otherwise sensitive equipment unsuitable for Carriage as Checked Baggage, as specified
+in Section 7. Second, the purchase of more than one seat for use by a single Passenger
+may sometimes be necessary to accommodate the pet of a Passenger with unique
+seating needs, per Section 6.(e)(7). An adjacent seat is required for Passengers who, at
+the Carrier’s discretion, cannot be safely accommodated in a single seat, whether
+because of a disability or because the Passenger would encroach upon the neighboring
+seat. Southwest’s policies for Customers of size and Customers with disabilities who
+require more than one seat, including how to obtain an adjacent seat, can be found in our
+14
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+Help Center.
+(5) Purchase of more than one seat for use by a single Passenger for the sole purpose of
+seeking additional personal space is prohibited except when expressly allowed by
+Southwest. If Southwest, in its sole discretion, determines that a Passenger cannot be
+safely accommodated in a single seat, and an additional adjacent seat is not available,
+Southwest will rebook the Customer on an alternate flight with available adjacent seats.
+In accordance with Section 6, Southwest may refuse to transport individuals who are
+unable or unwilling to comply with Southwest’s seating requirements.
+(6) Tickets Issued by an Authorized Ticket Agent Using a Global Distribution System (GDS).
+(i) For Passengers holding a Ticket issued by an authorized ticket agent using a GDS,
+flight changes, Ticket exchanges and refunds must be processed via the Ticket’s
+original booking source/agent in order to retain the forms of payment on the initial
+Ticket and keep the Ticket and funds associated with such Ticket accessible to the
+initial booking source/agent.
+(ii) If a Customer or Passenger holding a Ticket issued by an authorized ticket agent
+using a GDS, exchanges, cancels, or surrenders such Ticket via a Southwest Airlines
+system or by a Southwest Airlines Agent, the funds associated with such Ticket
+henceforth become nonrefundable, subject to Section 9. Thereafter, upon surrender
+or cancellation of the unused Ticket, the fare paid for unused travel will be held as a
+Flight Credit or a Transferable Flight Credit™, depending on the fare purchased.
+b. Ticket Acceptability
+(1) Tickets Accepted. Southwest will accept only Southwest Airlines Tickets. Any Tickets
+issued in conjunction with travel on another airline will not be accepted unless required
+by federal government regulation or at Southwest’s sole discretion.
+(2) In the event that a Passenger does not comply with the terms and conditions in this
+Contract of Carriage, their Ticket shall be invalidated, and Southwest has the right to:
+(i) Cancel any remaining portion of the Passenger’s itinerary.
+(ii) Refuse to allow the Passenger to board or check Baggage.
+(iii) Confiscate the Ticket.
+c. Refunds
+(1) Refundable Tickets. The fare paid for unused travel by Customers who purchase fully
+refundable, fare segments, including taxes and government fees, may, for any reason
+and upon surrender or cancellation of the unused fare segments, be refunded in
+accordance with Section 4.c.(3). A Passenger may instead choose to hold the funds as a
+Flight Credit or Transferable Flight Credit™ (depending on the fare purchased).
+(2) Changes, Exchanges, and No Show. Ticket changes and exchanges within the same
+reservation will result in the initial Ticket being applied as the form of payment for the new
+Ticket. Subject to Section 2.a.(2)(i), Southwest Airlines’ unrestricted fares are fully
+refundable if canceled and then refunded instead of exchanging or changing your Ticket.
+
+15
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(3) Form of Refunds. Southwest Airlines shall make all refunds in U.S. dollars. See Section 8
+for additional information for international travel. For those refunds requiring a request
+before any refund is due from Southwest Airlines, the Customer must make the request
+no later than one year from the date the Ticket was issued. When no portion of the
+transportation has been provided, the eligible refund will be issued in accordance with
+this Section in an amount equal to the fare (including taxes and government fees) paid.
+When a portion of the transportation has been provided, the eligible refund will be issued
+in accordance with this Section in an amount equal to the difference, if any, between the
+total fare paid and the fare applicable to the transportation provided. Subject to Section 9,
+refunds issued to the form of payment will occur as set forth below.
+(i) For purchases using a credit card, Southwest Airlines will process the eligible refund
+for crediting to the credit card account used to purchase the Ticket, typically no later
+than seven business days from the date Southwest determines the refund is due.
+(ii) For purchases in cash, Southwest Airlines will process the eligible refund as a check,
+typically no later than 20 calendar days from the date Southwest determines the
+refund is due.
+(iii) For purchases using an exchanged Ticket, Flight Credit, or Transferable Flight
+Credit™, Southwest Airlines will issue a Flight Credit or a Transferable Flight Credit™
+depending on the fare purchased.
+(iv) For purchases using Rapid Rewards™ Points, Southwest Airlines will redeposit
+points associated with eligible unused transportation to the Rapid Rewards™ account
+holder’s account; taxes and government fees associated with unused Rapid
+Rewards™ travel will be refunded at the direction of the Customer: (1) back to the
+original form of payment or (2) in the form of a Flight Credit or a Transferable Flight
+Credit™, depending on the fare purchased.
+(v) For purchases using a Southwest® gift card, Southwest Airlines will issue a
+Transferable Flight Credit™ in the amount applied from the Southwest® gift card,
+regardless of the fare purchased.
+(vi) For non-interline purchases that occurred outside of Southwest Airlines (for example,
+through a travel agent or with a universal air travel plan number), Southwest Airlines
+shall process the refund for crediting via the ticket issuer and may, for example, issue
+a credit to the subscriber against whose number the Ticket was charged.
+(vii) For purchases using any other form of payment (such as a Southwest LUV Voucher),
+Southwest Airlines will, in its sole discretion, (1) issue a Flight Credit or a Transferable
+Flight Credit™, depending on the fare purchased, or (2) issue a refund back to the
+original form of payment (subject to any limitations on the original form of payment,
+such as an expiration date).
+
+16
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(viii) Transferable Flight Credit™. Unless otherwise stated by Southwest Airlines, at the
+direction of the Customer, the fare paid for unused Choice Preferred or Choice Extra
+fare segments, including taxes and government fees, may be held as a Transferable
+Flight Credit™. When a Ticket combines a Choice Preferred or Choice Extra fare
+segment with a Basic fare segment, if the Customer does not travel and the
+Customer cancels the Ticket at least ten minutes prior to the scheduled departure
+time, then the fare paid for unused travel, including taxes and government fees, may
+be held as a Transferable Flight Credit™. The Passenger named on the Ticket can
+(A) request a refund of the refundable segment associated with the Transferable
+Flight Credit™ in accordance with Section 4.c.(3), (B) use a Transferable Flight
+Credit™ for travel on Southwest Airlines, or (C) if such Passenger is a Rapid
+Rewards™ Member and their Rapid Rewards™ number is associated with the
+Transferable Flight Credit™ prior to transfer, transfer the Transferable Flight Credit™
+to another Rapid Rewards™ Member. A Transferable Flight Credit™ may only be
+transferred once. Any Transferable Flight Credit™ resulting from a Ticket purchased
+via a corporate booking tool, a GDS, SWABIZ.com, or a Southwest Airlines mobile
+app or the Southwest Airlines mobile website using a valid corporate credential
+issued by Southwest Airlines may only be transferred between employees within the
+same organization. A refundable flight segment associated with a Transferable Flight
+Credit™ becomes nonrefundable following the transfer to another Passenger.
+Although transferable, a Transferable Flight Credit™ may not be sold or bartered by
+the Passenger, a Customer, or any designee. Transferable Flight Credits™ obtained
+through prohibited sale or barter transactions are void and will not be honored for
+travel.
+(ix) Limitation of Liability. If, under a separate provision of the Contract of Carriage,
+Southwest Airlines refunds all or a portion of a refund payment to a person or entity
+other than the Passenger, Southwest shall not be liable to the Passenger for another
+refund or Flight Credit or Transferable Flight Credit™.
+(x) When due, eligible refunds for unused ancillary fees or optional services will be
+processed in accordance with 4(c)(3)(i).
+(4) Nonrefundable Tickets.
+(i) General. As the term “nonrefundable” reflects, the fare paid for unused travel by
+Passengers who purchase restricted, nonrefundable Tickets (including taxes and
+government fees) are not eligible for form-of-payment refunds, except as provided in
+Section 9.
+(ii) Flight Credit. Upon voluntary cancellation, the fare paid for unused Basic fare
+segments, including taxes and government fees, is returned as a Flight Credit unless
+it has been six months or more between the initial ticketing date and the date of
+cancellation. In that instance, the Passenger will forfeit all funds associated with the
+fare segment upon cancellation.
+
+17
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(iii) Transferable Flight Credit™. Upon voluntary cancellation, the fare paid for unused
+Choice fare segments, including taxes and government fees, is returned as a
+Transferable Flight Credit™. When a Ticket combines a Choice fare segment with a
+Basic fare segment, upon voluntary cancellation, the fare paid for unused travel,
+including taxes and government fees, is returned as a Transferable Flight Credit™.
+Any Transferable Flight Credit™ resulting from a Ticket purchased via a corporate
+booking tool, a GDS, SWABIZ.com, or a Southwest Airlines mobile app or the
+Southwest Airlines mobile website using a valid corporate credential issued by
+Southwest may only be transferred between employees within the same organization.
+Although transferable, a Transferable Flight Credit™ may not be sold or bartered by
+the Passenger, a Customer, or any designee. Transferable Flight Credits™ obtained
+through prohibited sale or barter transactions are void and will not be honored for
+travel.
+(iv) Changes and Exchanges. Ticket changes and exchanges within the same reservation
+will result in the initial Ticket being applied as the form of payment for the new Ticket.
+The new Ticket may be more or less expensive or subject to different terms,
+conditions, or restrictions from the original Ticket. If the fare is lower, in Southwest’s
+sole discretion, the difference will be refunded in accordance with Section 4(c)(3) or a
+Flight Credit or a Transferable Flight Credit™ depending on the fare purchased will be
+issued for the difference. No cash refund or credit card adjustments will be made for
+nonrefundable Tickets.
+
+18
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+5. Check-in
+a. Boarding Passes
+(1) General. Boarding Passes may be obtained at Southwest.com, SWABIZ.com, Southwest
+Airlines mobile app, or at the airport from Southwest at:
+(i) Kiosks (where available)
+(ii) Skycap podiums (where available)
+(iii) Ticket counters, or
+(iv) Departure gate podiums. Southwest reserves the right, in its sole discretion, to restrict
+Boarding Pass distribution to the departure gate podium.
+(2) Standby Travel. Boarding Passes for Standby Passengers must be retrieved by Standby
+Passengers for each scheduled stop at any intermediate or connecting points on the
+flight.
+(3) Invalid Boarding Passes. A Boarding Pass that has been altered or improperly issued
+shall not be valid and will not be accepted by Southwest.
+(4) Transferability of Boarding Passes. Boarding Passes are nontransferable unless explicitly
+stated on the Boarding Pass. Southwest is not liable to the holder of a Boarding Pass for
+use of such Boarding Pass when presented by a person other than the person to whom it
+was issued. If a Boarding Pass is used by a person other than the person to whom it was
+issued, Southwest shall not be liable for the loss, destruction, damage, or delay of such
+unauthorized person’s Baggage or other personal property or the death or injury of such
+unauthorized person arising from or in connection with such unauthorized use.
+b. Check-in Requirements
+(1) General. Failure of a Passenger to check-in and obtain either a Boarding Pass or a
+security document at least 30 minutes before scheduled departure time may result in
+cancellation of the Passenger’s reservation without notice at Southwest’s sole discretion.
+Refer to Section 8 for information regarding check-in requirements for international travel.
+(2) Ten-Minute Rule for Boarding. Failure of a Passenger with a Boarding Pass to be present
+and available for boarding in the flight’s gate area at least ten (10) minutes before the
+scheduled departure time may result in cancellation of the Passenger’s reservation
+without notice at Southwest’s sole discretion. Refer to Section 8 for information regarding
+check-in requirements for international travel.
+(3) Early Departure. Southwest Airlines reserves the right, in its sole discretion, to depart
+early when all Passengers who have met the check-in requirements as outlined in
+Section 5.b.(2) are onboard the aircraft. The scheduled departure and arrival times as
+published for the flight will not be changed or otherwise affected if Southwest Airlines
+departs early. It is the Passenger’s responsibility to arrive at the departure airport with
+adequate time to allow for check-in requirements and security screening.
+
+19
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+6. Acceptance of Passengers
+By purchasing and accepting Carriage under this Contract of Carriage, the Passenger agrees to
+adhere to and comply with all the requirements of this Section 6. Carriage offered by Southwest
+under this Contract of Carriage, including International Travel described in Section 8, is subject to
+the Passenger’s compliance with these obligations, and a Passenger’s failure to comply shall
+constitute a material breach of this Contract of Carriage.
+a. Refusal to Transport—General
+Southwest may, in its sole discretion, refuse to transport, or may remove from an aircraft at
+any point, any Passenger in any of the circumstances listed below. The fare of any
+Passenger denied transportation or removed from Southwest Airlines aircraft en route under
+the provisions of this Section 6.a. will be refunded in accordance with Section 4.c.(3). The
+sole recourse of any Passenger refused transportation or removed en route under this
+Section 6.a. will be the recovery of the refund value of the unused portion of his or her Ticket.
+Under no circumstances shall Southwest be liable to any Passenger for any type of special,
+incidental, consequential, or other type of damages.
+(1) Safety. Whenever such action is necessary, with or without notice, for reasons of aviation
+safety as determined unilaterally by Southwest, Southwest may cancel or delay a flight
+without any type of special, incidental, consequential, or other type of damages owed to
+the Passenger. Such reasons, in the unilateral judgment of Southwest, may include,
+without limitation, the lack of sufficient materials, staffing, or supplies for a flight to be
+operated.
+(2) Force Majeure Event. Whenever advisable due to a Force Majeure Event.
+(3) Government Request or Regulation. Whenever such action is necessary to comply with
+any Federal Aviation Regulation or other applicable government regulation or request, or
+to comply with any governmental request for emergency transportation in connection with
+the national defense.
+(4) Incompatible Medical Requirements. Southwest will refuse to transport persons requiring
+the following medical equipment or services, which either are not authorized or cannot be
+accommodated on Southwest’s aircraft: medical oxygen for use onboard the aircraft
+except FAA-approved and Southwest-accepted Portable Oxygen Concentrators (POCs),
+incubators, medical devices requiring electrical power from the aircraft, or travel on a
+stretcher.
+(5) Comfort and Safety. Southwest may refuse to transport, or remove from the aircraft at any
+point, any Passenger in any of the circumstances listed below as may be necessary in the
+discretion of Southwest for the comfort or safety of such Passenger or other Passengers
+and Crew Members:
+(i) Persons who are barefoot and older than 5 years old, unless required due to a
+disability.
+(ii) Persons who are unable to occupy a seat with the seatbelt fastened.
+(iii) Persons who have an offensive odor, unless caused by a disability.
+
+20
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(iv) Any person who cannot be transported safely for any reason, whose carriage poses a
+safety risk (including poses a direct threat in accordance with 14 CFR Part 382),
+whose carriage would violate FAA or TSA requirements or applicable requirements of
+a government or when such transport may be inimical to safety under 49 U.S.C. §
+44902.
+(v) As set forth below, any person who acts inappropriately, violently, or poses any
+potential threat to any other person onboard the aircraft or of the public generally.
+(6) Prisoners or Persons Under Electronic Monitoring. Southwest may refuse to transport
+Prisoners (persons charged with or convicted of a crime) under escort of law enforcement
+personnel; other persons in the custody of law enforcement personnel who are being
+transported while wearing manacles or other forms of restraint; persons brought into the
+airport in manacles or other forms of restraint; persons fitted with an electronic monitor
+that transmits data and may interfere with navigation; persons who have resisted escorts;
+or escorted persons who express to Southwest an objection to being transported on the
+flight.
+b. Refusal to Transport—Unruly/Disruptive Passenger
+Southwest may, in its sole discretion, refuse to transport, or may remove from an aircraft at
+any point, any Passenger in any of the circumstances described below. A Passenger who is
+so refused or removed is without further recourse to Southwest for any damages claimed by
+Passenger, including the refund value of any unused portion of their Ticket, and may be liable
+to Southwest for costs and damages as set forth in Section 6.b.(4).
+(1) The Passenger, at all times, agrees to conduct themselves in a manner that is not
+disruptive, unruly, or in contravention of any federal law, applicable regulation,
+government directive or request, or the laws of any state which has jurisdiction over the
+aircraft.
+Conduct is considered to be disruptive or unruly when a Passenger fails to adhere to
+orderly rules of conduct while embarking upon or being carried onboard Southwest
+Airlines aircraft or fails to follow the instructions of the Crew and thereby disturbs the good
+order and discipline onboard the aircraft or in the airport. (In this section, the term “Crew”
+shall mean flight crew, cabin crew, or any other employee of Southwest.) Disruptive or
+unruly conduct includes, but is not limited to, the following:
+(i)
+Interfering in any way with or disrupting the operation of the aircraft or any of its
+components or parts;
+(ii) Interfering in any way with or disrupting the Crew, including, but not limited to failing
+to cooperate or interfering with the Crew’s duties; verbal or physical assault of the
+Crew; refusing to follow instructions to board or leave the aircraft; or using portable
+electronic devices in contravention of instructions from the Crew;
+(iii) Refusing to follow or obey the instructions of any member of the Crew (e.g.,
+instructions to fasten a seat belt, a command to return to one’s seat, instructions not
+to smoke, or instructions to turn off a portable electronic device) or disrupting a
+safety announcement;
+(iv) Verbal confrontation with Crew Members or other Passengers;
+(v) Physical confrontation with Crew Members or other Passengers;
+21
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(vi)
+
+Refusing to permit the search of his or her person or property by Southwest, Crew,
+or an authorized government agency for explosives, hazardous materials,
+contraband, or concealed, deadly, or dangerous weapons or articles;
+(vii) Refusing to produce a positive identification acceptable to Southwest upon request.
+For international travel, any Passenger refusing to obtain and complete all
+documentation required for entry into and exit from each country, as well as comply
+with the laws, requirements, or procedures of each country listed on such itinerary;
+(viii) Making an intentional misrepresentation in response to a question or inquiry by
+Southwest or Crew, or otherwise attempting to commit, or committing, a fraudulent
+act against Southwest;
+(ix) Making threats against the safety of the Crew, Passengers, and aircraft (includes all
+types of threats, whether directed against a person, [e.g., threat to injure someone],
+or intended to cause confusion and chaos, such as statements referring to a bomb
+threat, or simply any threatening behavior that could affect the safety of the Crew,
+Passengers, and aircraft);
+(x) Boarding or attempting to board an aircraft when the Passenger has an infectious
+disease or infection that poses a direct threat (as defined in 14 CFR § 382.3) to the
+health or safety of Passengers and/or Crew that cannot be eliminated by a
+modification of policies, practices, or procedures, or by the provision of auxiliary aids
+or services;
+(xi) Boarding or attempting to board an aircraft with a weapon (Southwest will carry
+Passengers who meet the qualifications and conditions established in 49 CFR §
+1544.219);
+(xii) Being or appearing to be intoxicated or under the influence of drugs or alcohol;
+(xiii) Engaging in, or threatening, sexual abuse or harassment;
+(xiv) Engaging in lewd, obscene, or patently offensive behavior, including wearing clothes
+that are lewd, obscene, or patently offensive;
+(xv) Refusing to comply with instructions given by Southwest or Crew prohibiting the
+solicitation of items for sale or purchase, including airline Tickets, reduced-rate
+travel passes, or travel award certificates;
+(xvi) Smoking or attempting to smoke onboard the aircraft; and
+(xvii) Other types of riotous, disorderly, offensive, threatening, intimidating, violent, or
+belligerent behavior (e.g., screaming; annoying behavior; kicking and/or banging
+seat backs/tray tables; harassment related to race, color, gender, religion, national
+origin, disability, age, ethnicity, or sexual orientation).
+
+(2) Southwest Action.
+If Southwest determines in its sole discretion that a Passenger has failed or is failing to
+comply with any of the requirements of this section, Southwest may take any of the
+following actions that it considers necessary to prevent the continued disruptive or unruly
+conduct, protect aircraft Passengers and/or Crew, and/or protect the good order, safety,
+and discipline onboard the aircraft including:
+• Physical restraint of that Passenger
+• Diversion of the aircraft
+• Removal of that Passenger from the aircraft and termination of carriage of that
+Passenger
+• Refusal to carry that Passenger on ticketed and/or future flights
+• Reporting of that Passenger to law enforcement authorities
+22
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(3) Exoneration of Liability.
+(i) Southwest is not liable to a Passenger who fails to comply with any of the
+requirements of this section for any type of actual, special, incidental, or
+consequential damages arising out of any actions Southwest may undertake as
+described in Section 6.b.(2).
+(ii) In any action for damages, however founded, if Southwest proves that the loss or
+damage was caused or contributed to by the disruptive or unruly conduct of the
+Passenger claiming compensation, Southwest shall be exonerated from liability to the
+extent the conduct caused or contributed to the damage.
+(iii) When the loss or damage is claimed by a person other than that Passenger,
+Southwest, to the extent permitted by applicable law, shall likewise be exonerated
+from its liability to the extent it proves that the damage was caused or contributed to
+by the unruly or disruptive conduct of that Passenger.
+(iv) In the case of damage occasioned by delay, Southwest shall not be liable if it proves
+that:
+(a) The delay was caused by the disruptive or unruly conduct of that Passenger; or
+(b) In the case of International Travel, Southwest and its agents took all measures
+that could reasonably be required to avoid the damage caused wholly or partly by
+that Passenger’s unruly or disruptive conduct, or that it was impossible for it or
+them to take such measures.
+(4) Southwest’s Right of Recourse Against Disruptive/Unruly Passenger
+(i) Passenger agrees that they shall be liable, upon demand by Southwest, for all of
+Southwest’s costs and damages incurred as a result of that Passenger’s disruptive or
+unruly conduct within the meaning of this section including, but not limited to the
+following:
+• Repair or replacement of property, including Baggage, that was damaged or
+destroyed by the disruptive or unruly conduct of that Passenger or that resulted
+from efforts to subdue, restrain, or remove that disruptive or unruly Passenger;
+• Any damage, including death or bodily injury, of any Passenger or Crew member
+caused or contributed to by the disruptive or unruly conduct of that Passenger;
+• Compensation for delay to Passengers, Crew Members, and Southwest caused
+by the disruptive or unruly conduct of that Passenger; and
+• The costs incurred by Southwest attributable to any diversion or delay or other
+interference with the operation of the aircraft due to the disruptive or unruly
+conduct of that Passenger, including landing and parking fees, fuel purchases,
+and payments for food and lodging made available to Passengers as a result of
+the diversion.
+(ii) Southwest expressly preserves any other right of recourse or remedy it may have
+under applicable law against any Passenger engaged in disruptive or unruly conduct,
+including without limitation, all rights of contribution and indemnity.
+
+23
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+c. Carriage of Children
+(1) Accompanied Minor Children
+(i) Children younger than 5 years old. Southwest will not accept for Carriage any child
+less than 5 years old unless accompanied by a Passenger at least 12 years old.
+(ii) Children younger than 14 days old. Southwest will not accept for carriage any child
+younger than 14 days old, unless a written statement is provided by an attending
+physician approving such child for air travel.
+(iii) Children younger than two years old. Southwest will not accept any child younger
+than two years old unless (1) seated on the lap of an accompanying adult 18 years
+old or older or (2) in a seat purchased for the child.
+(iv) See Section 8 for additional requirements for the Carriage of Children for international
+travel.
+(2) Unaccompanied Minor Children
+(i) Children younger than 5 years old. Southwest will not accept for Carriage any child
+less than 5 years old unless accompanied by a Passenger at least 12 years old.
+(ii) Children 5 through 11 years old. Unaccompanied children ages 5 through 11 years
+old will be required to use Southwest’s unaccompanied minor service and will be
+accepted for Carriage by Southwest provided the child has a Ticket and the flight on
+which he or she travels does not require a change of aircraft or flight number.
+Unaccompanied children aged 5 through 11 years old may not travel standby. Any
+unaccompanied child aged 5 through 11 years old will not be accepted for Carriage if,
+because of operational disruptions, Southwest determines, in its sole discretion, that
+the flight on which the child holds a reservation is anticipated to terminate short of or
+bypass the child’s destination. Southwest will not transport unaccompanied minor
+children on international itineraries. See Section 8 for additional information.
+The parent or guardian who brings an unaccompanied minor child to the departure
+airport will be required to remain at the departure gate until the flight is airborne.
+Southwest must be furnished with documentation (a duplicate of which must be in the
+child’s possession) that the child will be met by another parent or guardian upon
+deplaning at his or her destination. The parent or guardian meeting the child at his or
+her destination will be required to present a valid government-issued photo ID and
+sign a release form designated by Southwest.
+(iii) Unaccompanied Minor Charge. In addition to the applicable fare, children for whom
+unaccompanied minor Carriage is required must pay the applicable unaccompanied
+minor charge. Following a request by the Customer, the unaccompanied minor
+charge may be refundable under the following circumstances:
+• The reservation is canceled by the Customer.
+• Southwest cancels the flight, and the Customer elects to not rebook.
+24
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+•
+
+The child does not travel unaccompanied (i.e., the fee was paid, but an
+accompanying Passenger 12 years old or older ultimately travels with
+the child). An eligible refund will be issued in accordance with Section
+4.c.3.
+
+(iv) Southwest, in its sole discretion, may refuse to transport any person under the age of
+18 on any itinerary that includes an overnight connection (with a layover occurring at
+any point during the hours of 12:00 a.m. and 5:00 a.m. local time) unless
+accompanied by a parent or companion at least 18 years old. Any unaccompanied
+child under the age of 18 may not be accepted for Carriage if Southwest determines,
+in its sole discretion, that the flight on which the child holds a reservation is
+anticipated to terminate short of or bypass the child’s destination.
+(3) Child Restraint Systems
+(i) Only federally approved child restraint systems (CRSs) are permitted for use onboard
+Southwest Airlines aircraft.
+d. Carriage of Passengers with Disabilities
+(1) Southwest will transport Qualified Individuals with a Disability pursuant to the Air Carrier
+Access Act and the U.S. Department of Transportation regulations, 14 CFR Part 382,
+unless the Carriage of such individuals may impair the safety of the flight, pose a direct
+threat, or violate Federal Aviation Regulations; however, this should not be construed as
+imposing a contractual obligation of any kind on Southwest. Customers and Passengers
+do not have a private right of action to enforce the ACAA or any other federal law or
+regulation relating to individuals with a disability. Pursuant to 14 CFR § 382.113,
+Southwest will not provide certain extensive inflight special services such as assistance
+in eating, assistance with elimination functions in the lavatory or at the Passenger’s seat,
+or provision of medical services. Southwest may require, at its sole discretion, pursuant
+to 14 CFR § 382.29, that a Qualified Individual with a Disability be accompanied by a
+safety assistant as a condition of being provided air transportation in the following
+circumstances:
+(i) When the Passenger is unable to comprehend or respond appropriately to safety
+instructions from Southwest, including the safety briefing required by 14 CFR §
+121.571(a)(3) and (a)(4) because of a mental disability;
+(ii) When the Passenger has a mobility impairment so severe that the Passenger is
+unable to physically assist in his or her own emergency evacuation of the aircraft; or
+(iii) When the Passenger has both severe hearing and severe vision impairments that
+prevent the Passenger from establishing a means of communication with Southwest
+in order to permit transmission of the safety briefing required by 14 CFR § 121.571
+(a)(3) and (a)(4).
+
+25
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(2) Assistive Devices. Mobility and other assistive devices used by a Qualified Individual with
+a Disability may be carried in the aircraft cabin in addition to the carryon Baggage
+allowance. If necessary due to the Passenger’s disability, Southwest will provide
+assistance in loading, stowing, and retrieving carryon items, including assistive devices.
+If the assistive device cannot be carried in the Passenger cabin pursuant to FAA
+regulations, the assistive device will be checked and carried free of charge. No oversize
+or excess weight charges will be assessed for the assistive device. Assistive devices not
+for the personal use of the Passenger will be accepted subject to a Limited Release of
+Liability and may be subject to charges.
+(3) Limitation of Liability. Southwest’s liability with respect to damage to or loss of mobility
+and other assistive devices shall not exceed the documented original purchase price of
+the assistive device pursuant to 14 CFR § 382.131. Southwest will also compensate the
+Passenger for other reasonable expenses incurred as a direct result of the loss of,
+damage to, or delayed delivery of the mobility or assistive device.
+(4) Trained Service Animals
+(i)
+
+Per 14 CFR § 382.72 to § 382.80, Southwest permits fully Trained Service Animals
+used by a Qualified Individual with a Disability, as that term is defined in this
+Contract of Carriage, to accompany the Passenger onboard the aircraft at no
+charge. See Section 8 for additional information for international travel. Southwest
+does not agree to admit any animal onboard the aircraft where such animal carriage
+is not required by the federal Air Carrier Access Act or applicable rules and
+regulations of the U.S. Department of Transportation.
+
+(ii) Per 14 CFR § 382.73, to determine if an animal is a Trained Service Animal that
+must be accepted for transport, Southwest may ask appropriate questions of the
+Qualified Individual with a Disability or may observe the behavior of the animal. To
+travel with a Trained Service Animal, a Qualified Individual with a Disability must
+provide a completed U.S. Department of Transportation Service Animal Air
+Transportation Form.
+(iii) Per 14 CFR § 382.79, Southwest may refuse to transport a Trained Service Animal
+if:
+(a) The animal poses a direct threat to the health or safety of others;
+(b) The animal causes a significant disruption in the cabin or at an airport gate
+area, or its behavior on the aircraft or at an airport gate area indicates that it has
+not been trained to behave properly in public (e.g., running freely, barking, or
+growling repeatedly at other persons on the aircraft, biting or jumping on people,
+or urinating or defecating in the cabin or gate area); or
+(c) The animal’s carriage would violate applicable safety or health requirements of
+any U.S. federal agency, U.S. territory, or foreign government.
+(iv) For large Trained Service Animals, which do not fit in the Passenger’s lap or foot
+space, Southwest will be guided by the procedures set forth in 14 CFR § 382.77.
+(v) The Trained Service Animal must be harnessed, leashed, or otherwise tethered at all
+times by the Trained Service Animal user or handler while in the airport and on the
+aircraft.
+26
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(vi) Southwest will accept a maximum of two (2) Trained Service Animals per Qualified
+Individual with a Disability.
+(vii) A Trained Service Animal accompanied by a trainer will be permitted to travel
+aboard Southwest Airlines aircraft only if the animal is being delivered to the
+domicile of a Qualified Individual with a Disability who either owns or, upon delivery,
+will take immediate ownership of the animal for that individual’s personal use. No
+charge will be assessed for Carriage of a Trained Service Animal being delivered to
+the domicile of the animal’s owner under such circumstances.
+(viii) Southwest only accepts service animals in training from Canine Companions for
+Independence (CCI). CCI dogs are transported at no charge and are exempt from
+the requirements for pets. The following guidelines apply to the transport of CCI
+dogs:
+• CCI ID or letter must be presented.
+• Current vaccination record on CCI or veterinarian letterhead must be presented.
+• Young or small puppies may need to be transported in carriers.
+• Trainers and dogs preboard after Passengers with disabilities.
+• Cabin seating restrictions apply (e.g., no exit row, must not block egress).
+(ix) The local laws and regulations at a Qualified Individual with a Disability’s final or
+intermediate destination(s) may apply to the Passenger and impose further
+requirements or restrictions. Qualified Individuals with a Disability assume full
+responsibility for compliance with all governmental laws and regulations, including but
+not limited to, health certificates, permits, and vaccinations required by the country,
+state, or territory from and/or to which the Trained Service Animal is being
+transported. Southwest is not liable for any assistance or information provided by
+Southwest to any Qualified Individual with a Disability relating to compliance with
+such laws and regulations. Subject to applicable laws and regulations, a Qualified
+Individual with a Disability is solely responsible for any expenses incurred or any
+consequences resulting from his or her failure to comply with applicable laws and
+regulations. Southwest expressly reserves the right to seek reimbursement from a
+Qualified Individual with a Disability for any loss, damage, or expense suffered or
+incurred by Southwest resulting from such Qualified Individual with a Disability’s
+failure to comply with applicable laws and regulations.
+e. Pets
+(1) Pets Allowed in the Cabin. Southwest may accept small vaccinated domestic cats and
+dogs at least eight (8) weeks old, contained in a pet carrier, and traveling with a
+Passenger. One (1) pet carrier may be allowed per Passenger. The pet carrier may
+contain up to two (2) animals of the same species. Unaccompanied Minors may not
+travel with a pet. Southwest reserves the right to limit the number of pet carriers per flight
+to six (6), and pets will be accepted on a first-come, first-served basis.
+
+27
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(2) Pet Carriers. All pets in the cabin must be carried in an appropriate pet carrier and
+remain in the carrier at all times (including head and tail) while in the gate area, during
+boarding/deplaning, and while onboard the aircraft. The pet carriers must be leak-proof
+and well ventilated, and the pet(s) must be able to stand up and move around the carrier
+with ease. The pet carrier must be of a size small enough to fit under the seat in front of
+the Passenger and must remain stowed under the seat in front of the Passenger during
+the entire duration of the flight. Passengers traveling with a pet may not occupy an exit
+row seat or a seat with no forward under seat stowage.
+(3) Pet Fares. All occupied pet carriers are subject to the applicable pet fare. Pet
+reservations can only be booked by calling Southwest. The pet fare must be collected at
+the airport ticket counter. A Passenger traveling with a pet must check the pet in at the
+airport ticket counter and pay the pet fare before proceeding to the departure gate. The
+Passenger or Customer is eligible for a refund of the pet fare if the reservation is
+canceled.
+(4) Pets Incompatible with Air Travel. Southwest retains the right, at its sole discretion, to
+refuse to transport any pet that exhibits aggressive behavior or any other characteristics
+that appear to Southwest to be incompatible with air travel at the airport, in the boarding
+gate area, or onboard the aircraft. The pet(s) must be healthy, harmless, inoffensive,
+odorless, and require no attention during the flight. If the pet becomes ill during the flight,
+oxygen or other first aid procedures will not be administered. In the event of an
+emergency, an oxygen mask will not be available for the pet. Southwest assumes no
+liability for the heath or wellbeing of carryon pets.
+(5) No Pets Carried in Cargo Compartment. Southwest will not transport pets in the aircraft
+cargo compartments.
+(6) No Pets will be accepted on international itineraries. See Section 8 for additional
+information.
+(7) In accordance with Section 4.a.(4) purchase of an additional seat may be required, at the
+discretion of Southwest, to accommodate the pet of a Passenger with unique seating
+needs.
+(8) No pets are accepted on itineraries between the continental United States and Hawaii.
+f.
+
+Law Enforcement and Search and Rescue Dogs
+(1) Law Enforcement and Search and Rescue Dogs Allowed in the Cabin. Southwest
+accepts fully-trained law enforcement service dogs trained in explosives or drug detection
+(or other specific functions) and search and rescue dogs for transportation, without
+charge, when accompanied by their respective handlers on official business. See Section
+8 for additional information for international travel.
+(2) Documentation. Each Passenger traveling with a law enforcement or search and rescue
+dog must present a letter of mission and a copy of the animal’s certification.
+(3) Law enforcement and search and rescue animals in training will not be accepted by
+Southwest for transport.
+28
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(4) Law Enforcement and Search and Rescue Dogs Incompatible with Air Travel. Southwest
+retains the right, at its sole discretion, to refuse to transport any dog that exhibits
+aggressive behavior or any other characteristics that appear to Southwest to be
+incompatible with air travel at the airport, in the boarding gate area, or onboard the
+aircraft.
+(5) No Law Enforcement or Search and Rescue Dogs Carried in Cargo Compartment.
+Southwest will not transport law enforcement or search and rescue dogs in the aircraft
+cargo compartments.
+g. Military Working Dogs
+(1) Military Working Dogs Allowed in the Cabin. Military working dogs can travel on
+Southwest as part of a military working dog team. A military working dog team includes a
+trained military handler and a trained canine.
+(2) Reservations. The trained military handler should utilize the online Defense Travel
+System (DTS) to schedule military working dog team travel and generate orders. Trained
+military handlers making the reservation or an assisting kennel master/supervisor should
+follow up directly with Southwest Customer Service to confirm the reservation and verify
+the traveling military working dog's information, including the military working dog’s name
+and tattoo number. The trained military handler can contact Southwest Customer Service
+directly or ask their commercial travel office (CTO) or travel management company
+(TMC) to contact Southwest Customer Service via the Government Hotline 877-633-4425
+to verify the reservation. Southwest can only support a CTO or TMC representative when
+using the Government Hotline. A second seat for the military working dog may be
+purchased, but the military working dog will not be allowed to occupy the seat.
+(3) Documentation. At check-in, the trained military handler must provide their Department of
+Defense (DOD) I.D. and a copy (paper or electronic) of their DD Form 1610 (Request
+and Authorization for Temporary Duty Travel of DOD Personnel) or Permanent Change
+of Station (PCS Order), which will include the military working dog’s name and tattoo
+number. A Temporary Duty (TDY) or PCS Order, DOD I.D., and government reservation
+together serve as indicators of official travel for the trained military handler. The trained
+miliary handler is responsible for having appropriate health certifications and supporting
+documentation required for MWDT travel. The trained military handler is responsible for
+complying with any additional restrictions associated with itineraries between the
+continental United States and Hawaii.
+(4) Military Working Dogs Incompatible with Air Travel. Southwest retains the right, at its sole
+discretion, to refuse to transport any dog that exhibits aggressive behavior or any other
+characteristics that appear to Southwest to be incompatible with air travel at the airport,
+in the boarding gate area, or onboard the aircraft.
+(5) No Military Working Dogs Carried in Cargo Compartment. Southwest will not transport
+military working dogs in the aircraft cargo compartments.
+
+29
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+7. Baggage
+a. Carryon and Checked Baggage Allowance
+(1) General. Ticketed Passengers may carry on and check baggage subject to this Section.
+Fees for checked baggage apply with some exceptions. Additional fees apply to
+overweight or oversized bags and some special items. Southwest’s baggage policies and
+fees can be found at Southwest.com and are incorporated by reference as if set forth in
+the Contract of Carriage. These policies restrict the quantity, size, and weight of
+baggage, and they govern the carriage of hazardous and dangerous goods and special
+items (such as sporting equipment, assistive devices, musical instruments, and fragile
+and perishable items).
+b. Acceptance of Carryon Baggage
+(1) Southwest, in its sole discretion, will determine whether or not any Baggage, because of
+its weight, size, contents, or character, may be carried in the passenger cabin of the
+aircraft. All carryon Baggage must be stowed underneath a seat or in an overhead bin.
+(2) Responsibility of Passenger. Carryon Baggage is the sole responsibility of the
+Passenger.
+(3) Southwest, at its sole discretion, will not transport items of carryon Baggage that it
+determines may be harmful or dangerous to a Passenger(s), the flight crew, or the
+aircraft.
+c. Acceptance of Checked Baggage
+(1) General. Southwest, in its sole discretion, will determine whether or not any Baggage,
+because of its weight, size, contents, or character, may be carried as Checked Baggage.
+Southwest, in its sole discretion, may accept personal property of the Passenger as
+Baggage subject to the following conditions:
+(i) Southwest will only accept Baggage for transportation on a flight on which the
+Passenger is transported.
+(ii) Southwest will only accept Baggage for transportation if it and its contents can
+withstand ordinary handling, and if its weight, size, and character render it suitable for
+transportation on the particular aircraft on which it is to be carried, unless the
+Passenger agrees to assume the risk of checking the Baggage and Southwest
+accepts the Baggage subject to a Limited Release of Liability, as outlined in Section
+7.g.
+(iii) Each piece of Baggage tendered to Southwest must have a current identification tag
+or label with the Passenger’s name, address, and telephone number.
+
+30
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(iv) With the exception of musical instruments, sports equipment, or wheelchairs, mobility
+aids, and other assistive devices used by a Qualified Individual with a Disability,
+Southwest will not accept as Baggage any item having outside measurements (i.e.,
+the sum of the greatest outside length plus height plus width) that exceed eighty (80)
+inches or that weigh more than one hundred (100) pounds. Southwest will not accept
+as Baggage any musical instrument if the sum of the length, height, and width of the
+outside linear dimensions of the instrument (including case or covering) exceeds one
+hundred fifty (150) inches, or the weight of the musical instrument exceeds one
+hundred sixty-five (165) pounds (including case or covering). Southwest will not
+accept as Baggage any assistive device with a weight that exceeds five hundred
+(500) pounds. Southwest will not accept as Baggage any assistive device with a
+height that exceeds 34 inches or a width or depth that exceeds 45 inches.
+(v) Southwest will not accept Baggage to an intermediate stop or connection point on the
+Passenger’s Ticket or to a point beyond the Passenger’s final ticketed destination.
+(vi) Southwest will not accept Baggage that, because of its nature, contents, or
+characteristics (e.g., sharp objects, paint, corrosives, or other prohibited hazardous
+materials), might cause injury to Passengers or Southwest, damage to aircraft or
+other equipment, or damage to other Baggage.
+(vii) Southwest will not accept Baggage that it determines cannot safely be carried in the
+Baggage compartment of the aircraft for any reason.
+(viii) In total, a Ticketed Passenger (including military Passengers) may not check more
+than twenty (20) pieces of Baggage per flight.
+d. Surveillance and Inspection of Baggage
+(1) All Baggage tendered to Southwest for transportation is subject to surveillance and
+inspection by electronic and/or physical means with or without the Passenger’s consent
+or knowledge by Southwest and/or authorized government agencies.
+e. Checking of Baggage.
+Southwest provides no guarantee or assurance that Baggage will arrive on the same flight
+as the Passenger.
+(1) Southwest will not accept or hold Baggage from a Passenger on day of travel at
+Southwest’s airport ticket counter or curbside check-in locations (where available) if
+tendered to Southwest earlier than four (4) hours in advance of flight departure time.
+(2) Where available, Baggage may be accepted at an earlier time at authorized offsite
+Baggage check-in facilities.
+(3) Baggage for domestic flights must be checked at Southwest’s airport ticket counter or
+curbside check-in locations (where available) at least forty-five (45) minutes prior to the
+flight’s scheduled departure time (or at least ninety (90) minutes for flights departing from
+St. Thomas). Passengers who present baggage to be checked after the minimum checkin time may be refused transport.
+31
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(4) Check-In Time Limits. Southwest has the right to cancel reservations (whether or not
+confirmed), deny boarding, and/or refuse the acceptance of Baggage of any Passenger
+who fails to present himself or herself within the applicable check-in or loading gate time
+limits for Passengers and/or Baggage.
+(5) Baggage for international flights must be checked at Southwest’s airport ticket counter at
+least sixty (60) minutes (or at least seventy-five (75) minutes for flights departing from
+Aruba) prior to scheduled departure. Passengers cannot voluntarily separate from
+luggage on international flights.
+f.
+
+Unsuitable Baggage Subject to limited release of liability
+Southwest may, at its sole discretion, but is not obligated to, accept Baggage unsuitable for
+Carriage as Checked Baggage, subject to a Limited Release of Liability, as provided below:
+(1) Voluntary separation for which Southwest is not liable for delay;
+(2) Fragile and unsuitably packed items for which Southwest is not liable for damage and
+loss of contents;
+(3) Previously damaged items for which Southwest is not liable for damage and loss of
+contents;
+(4) Inadequately packaged or over-packed items for which Southwest is not liable for
+damage and loss of contents;
+(5) Perishable items for which Southwest is not liable for spoilage, damage, or delay;
+(6) Soft-sided cases or unprotected/unpacked items, for which Southwest is not liable for
+damage and loss of contents;
+(7) High-Value Items described in paragraph (g)(2) of this Section, for which Southwest
+assumes no responsibility for loss, damage, or delay;
+(8) Late-tendered Baggage (checked in 45 minutes or less prior to a flight’s scheduled
+departure time) for which Southwest is not liable for delay; and
+(9) Items where specific requirements under this Section are not met, for which Southwest is
+not liable for loss, damage, or delay.
+The Passenger’s tender of unsuitable baggage for check-in constitutes the Passenger’s
+agreement to the Limited Release of Liability specified in this paragraph. Southwest, in its
+sole discretion, may require the Passenger to sign a Limited Release of Liability form, but it is
+not necessary.
+
+g. Limitations of Liability
+(1) General. The liability, if any, of Southwest for loss of, damage to, or delay in the delivery
+of Checked or carryon Baggage and/or its contents, with the exception of wheelchairs,
+mobility aids, and assistive devices used by a Qualified Individual with a Disability, is
+limited to the proven amount of damage or loss, but in no event shall be greater than
+Four Thousand Seven Hundred and 00/100 dollars ($4700.00) per fare paying
+Passenger pursuant to 14 CFR § 254.4 unless the Passenger at time of check-in has
+declared the value of the baggage to be in excess of Four Thousand Seven Hundred and
+00/100 dollars ($4700.00) (“excess valuation”) and has paid an additional charge of One
+and 00/100 dollar ($1.00) for each One Hundred and 00/100 dollars ($100.00) of excess
+valuation. See Paragraph (2) below for excess valuation limitations and Section 8 for
+information regarding international travel.
+32
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(i) Southwest will compensate the Passenger for reasonable, documented damages
+incurred as a direct result of the loss of, damage to, or substantially delayed delivery
+of such Baggage up to the limit of liability, provided the Passenger has exercised
+reasonable efforts and good judgment to minimize the amount of damage. Actual
+value for reimbursement of lost or damaged property shall be determined by the
+documented original purchase price less depreciation for prior usage.
+(ii) Provided the Passenger has notified Southwest of the loss or delay and received a
+Baggage report number, Southwest will refund the excess, oversize, and/or
+overweight charge paid if baggage is lost or delayed by twelve (12) or more hours
+following the arrival of the flight on which the baggage was expected to travel.
+(iii) Southwest does not assume liability for claims of missing or damaged articles if a
+Passenger’s Checked Baggage is not damaged, delayed, or lost.
+(iv) For a Passenger who is traveling standby on a Southwest reduced-rate pass of any
+kind (e.g., employee travel, companion pass, guest pass, dependent pass, or other
+airline industry employee travel), Southwest’s liability for loss of, damage to, or delay
+in the delivery of Checked Baggage or carryon Baggage and/or its contents is
+governed and limited by the policies, agreements, and terms and conditions
+applicable to such travel.
+(2) Excess Valuation.
+The declared excess valuation for baggage shall not exceed One Thousand Two
+Hundred Fifty and 00/100 dollars ($1,250.00) above the Four Thousand Seven Hundred
+and 00/100 dollars ($4700.00) limitation of Southwest’s liability established by this
+Contract of Carriage, for a total maximum declared valuation of Five Thousand Nine
+Hundred Fifty and 00/100 dollars ($5950.00). Excess valuation coverage is not available
+for money; jewelry; photographic, video and optical equipment; computers and other
+electronic equipment; computer software; silverware and china; fragile or perishable
+items; liquids; precious gems and metals; negotiable instruments; securities; business or
+personal documents; samples; items intended for sale; paintings, artifacts, and other
+works of art; antiques; collectors’ items; unique or irreplaceable items; heirlooms;
+research, experimental, and scholastic items and documents; manuscripts; furs;
+irreplaceable books or publications; and similar valuables.
+(i) When excess value is declared, the Passenger’s Baggage and its contents may be
+inspected by Southwest. Such Baggage must be checked, and excess valuation
+coverage will apply only to the point to which it is checked by Southwest and claimed
+by the Passenger.
+
+33
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(3) Baggage Delivery.
+(i) General. Southwest will pay delayed Checked Baggage delivery charges only so long
+as such Baggage was tendered to Southwest by the Passenger at least forty-five (45)
+minutes prior to the scheduled departure time of the Passenger’s first flight. If
+Southwest accepts Baggage tendered to Southwest less than forty-five (45) minutes
+prior to the scheduled departure of the Passenger’s first flight, Southwest cannot
+guarantee that the Baggage will be transported on the Passenger’s flight(s), and
+Southwest will not assume responsibility for delivery charges if such Baggage arrives
+at the Passenger’s destination on a subsequent flight. See Section 8 for conditions
+applicable to international travel.
+(4) Personal Property Carried Onboard Aircraft. Except as otherwise provided in Section 8,
+Southwest assumes no responsibility and will not be liable for loss of or damage to
+personal property carried onboard an aircraft by a Passenger.
+(5) High-Value Items Unsuitable for Carryon or Checked Baggage. Southwest assumes no
+responsibility for and will not be liable for money; jewelry; photographic, video, and optical
+equipment; computers and other electronic equipment; computer software; silverware
+and china; fragile or perishable items; liquids; precious gems and metals; negotiable
+instruments; securities; business or personal documents; samples; items intended for
+sale; paintings, artifacts, and other works of art; antiques; collectors’ items; unique or
+irreplaceable items; heirlooms; research, experimental, and scholastic items and
+documents; manuscripts; furs; irreplaceable books or publications; and similar valuables
+contained in carryon Baggage or Checked Baggage. For the Passenger’s protection,
+these items should not be transported in or as Checked Baggage. See Section 8 for
+information about coverage for international travel.
+(6) Normal Wear and Defects. Southwest assumes no responsibility and will not be liable for
+loss or damage arising from normal wear and tear, such as cuts, scratches, scuffs,
+stains, dents, punctures, marks, and dirt. Furthermore, Southwest assumes no liability for
+defects in Baggage manufacture.
+(7) Previously Damaged Items. Southwest assumes no responsibility and will not be liable
+for further damage to previously damaged items. Southwest may, but is not obligated to,
+accept previously damaged items subject to a Limited Release of Liability, as outlined in
+Section 7.f.
+(8) Claims. In the case of loss of, damage to, or substantial delay in delivery of Checked
+Baggage, Southwest will not consider a claim unless the following steps are completed
+by the Passenger:
+(i) In the case of loss of or substantial delay in delivery, the Passenger must notify
+Southwest of the claim and receive a Baggage report number not later than four (4)
+hours after either:
+(a) Arrival of the flight on which the loss or delay is alleged to have occurred, or;
+(b) Receipt of the Baggage, whichever is applicable to the claim; and
+
+34
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(ii) In the case of damage, the Passenger must notify Southwest of the claim in person at
+the airport and receive a Baggage report number not later than 24 hours after either:
+(a) Arrival of the flight on which the damage is alleged to have occurred, or;
+(b) Receipt of the Baggage, whichever is applicable to the claim.
+(iii) In the case of lost Baggage, the Passenger must also submit a completed Property
+Loss Claim form to Southwest. The form will either be mailed to the address on file or
+sent electronically through the Baggage Claim Web Portal to the Passenger upon
+receipt of written notice of the claim as stated in Section 7.g.(8)(ii). The form must be
+completed and either postmarked (for paper claim forms) or submitted via our
+Baggage Claim Web Portal (for online claim forms) within thirty (30) days of date of
+issue by Southwest.
+
+35
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+8. International Travel
+a. Application of Montreal or Warsaw Convention
+(1) For the purposes of international carriage governed by the Montreal Convention or the
+Warsaw Convention, whichever may apply, the liability rules set out in the applicable
+Convention as implemented by this Section are fully incorporated by reference in this
+Contract of Carriage and shall supersede any other provisions of this contract which may
+be inconsistent with those rules.
+Advice to International Passengers on Limitations of Liability
+Passengers embarking upon a journey involving an ultimate destination or a stop in a
+country other than the country of departure are advised that the provisions of an
+international treaty (the Warsaw Convention, the 1999 Montreal Convention, or other
+treaty), as well as a carrier's own contract of carriage or tariff provisions, may be
+applicable to their entire journey, including any portion entirely within the countries of
+departure and destination. The applicable treaty governs and may limit the liability of
+carriers to passengers for death or personal injury, destruction or loss of, or damage to,
+baggage, and for delay of passengers and baggage.
+Additional protection can usually be obtained by purchasing insurance from a private
+company. Such insurance is not affected by any limitation of the carrier's liability under an
+international treaty. For further information please consult your airline or insurance
+company representative.
+b. Death or Injury of Passengers
+(1) Southwest shall be liable under Article 17 of the Montreal Convention or Warsaw
+Convention, whichever may apply, for recoverable compensatory damages sustained in
+the case of death or bodily injury of a Passenger, as provided in the following
+paragraphs:
+(i) Southwest shall not be able to exclude or limit its liability for damages not exceeding
+One Hundred Fifty-One Thousand Eight Hundred Eighty (151,880) Special Drawing
+Rights for each Passenger.
+(ii) Southwest shall not be liable for damages to the extent that they exceed One
+Hundred Fifty-One Thousand Eight Hundred Eighty (151,880) Special Drawing Rights
+for each Passenger if Southwest proves that:
+(a) Such damage was not due to the negligence or other wrongful act or omission of
+Southwest or its agents; or
+(b) Such damage was solely due to the negligence or other wrongful act or omission
+of a third party.
+(iii) Southwest reserves all other defenses and limitations available under the Montreal
+Convention or Warsaw Convention, whichever may apply to such claims, including,
+but not limited to, the exoneration defense of Article 20 of the Montreal Convention
+and Article 21 of the Warsaw Convention, except that Southwest shall not invoke
+Articles 20 and 22(1) of the Warsaw Convention in a manner inconsistent with
+paragraphs (i) and (ii) hereof.
+36
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(iv) With respect to third parties, Southwest reserves all rights of recourse against any
+other person, including, without limitation, rights of contribution and indemnity.
+(v) Southwest agrees that subject to applicable law, recoverable compensatory damages
+for such claims may be determined by reference to the laws of the country of the
+domicile or country of permanent residence of the Passenger.
+(2) In cases of bodily injury or death, Southwest shall make an advance payment where
+Southwest determines it is necessary to meet the immediate economic needs of, and
+hardship suffered by, a Passenger as provided in the following paragraphs:
+(i) Unless a dispute arises over the identity of the person to whom an advance payment
+shall be made, Southwest shall, without delay, make the advance payment to the
+Passenger in an amount or amounts determined by Southwest in its sole discretion.
+In the event of death of a Passenger, the amount of the advance payment shall not
+be less than Sixteen Thousand (16,000) Special Drawing Rights, which shall be paid
+to a representative of the Passenger’s next of kin eligible to receive such advance
+payment as determined by Southwest in its sole discretion.
+(ii) Southwest shall make the advance payment as an advance against Southwest’s
+liability under the Montreal Convention or the Warsaw Convention, whichever may
+apply. An advance payment shall not constitute recognition of liability. An advance
+payment shall be offset against, or deducted from the payment of, any settlement or
+judgment with respect to any claim for compensation on behalf of the Passenger.
+(iii) Southwest, in making an advance payment, does not waive any rights, defenses, or
+limitations available under the Montreal Convention or the Warsaw Convention,
+whichever may apply, to any claim, nor shall acceptance of an advance payment
+constitute a release of any claim, whatsoever, by any person.
+(iv) Southwest, in making an advance payment, preserves its right to seek contribution or
+indemnity from any other person for such payment, which shall not be deemed to be
+a voluntary contribution or contractual payment on the part of Southwest.
+(v) Southwest may recover an advance payment from any person where it is proven that
+Southwest is not liable for any damage sustained by the Passenger, or where it is
+proven that the person was not entitled to receive the payment, or where and to the
+extent that it is proven that the person who received the advance payment caused, or
+contributed to, the damage.
+c. Delay of Passengers
+(1) Southwest shall be liable for damage occasioned by delay in the carriage of Passengers
+by air, as provided in the following paragraphs or pursuant to local law for flights
+departing from an international location:
+(i) Southwest shall not be liable if it proves that it and its agents took all measures that
+could reasonably be required to avoid the damage, or that it was impossible for it or
+them to take such measures.
+37
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(ii) Airport, Air Traffic Control, security, and other facilities or personnel, whether public
+or private, not under the control and direction of Southwest are not agents of
+Southwest, and Southwest is not liable to the extent the delay is caused by these
+kinds of facilities or personnel.
+(iii) Damages occasioned by delay are subject to the terms, limitations and defenses set
+forth in the Montreal Convention and the Warsaw Convention, whichever may apply.
+They include foreseeable compensatory damages sustained by a Passenger and do
+not include mental injury damages.
+(iv) Southwest reserves all defenses and limitations available under the Montreal
+Convention or the Warsaw Convention, whichever may apply to claims for damage
+occasioned by delay, including, but not limited to, the exoneration defense of Article
+20 of the Montreal Convention and Article 21 of the Warsaw Convention. Under the
+Montreal Convention, the liability of Southwest for damage caused by delay is limited
+to Six Thousand Three Hundred Three (6,303) Special Drawing Rights per
+Passenger. The limits of liability shall not apply in cases described in Article 22 (5) of
+the Montreal Convention or Article 25 of the Warsaw Convention, whichever may
+apply.
+d. Destruction, Loss, or Delay of Baggage
+(1) Southwest is liable for damages sustained in the case of destruction or loss of, damage
+to, or delay of Checked Baggage and unchecked Baggage, as provided in the following
+paragraphs:
+(i) Except as provided below, the liability of Southwest is limited to One Thousand Five
+Hundred Nineteen (1,519) Special Drawing Rights for each Passenger in the case of
+destruction, loss, damage, or delay of Baggage, whether checked or unchecked,
+under the Montreal Convention or the Warsaw Convention, whichever may apply.
+Unless the Passenger proves otherwise:
+(a) All Baggage checked by a Passenger shall be considered to be the property of
+that Passenger;
+(b) A particular piece of Baggage, checked or unchecked, shall not be considered to
+be the property of more than one (1) Passenger;
+(c) Unchecked Baggage, including personal items, shall be considered to be the
+property of the Passenger in possession of the Baggage at the time of
+embarkation.
+(ii) Provided the Passenger has notified Southwest of the loss or delay and received a
+Baggage report number, Southwest will refund the excess, oversize, and/or
+overweight charge paid if baggage is lost or delayed by fifteen (15) or more hours
+following the arrival of the flight on which the baggage was expected to travel.
+
+38
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(iii) If a Passenger makes, at the time Checked Baggage is handed to Southwest, a
+special declaration of interest and has paid a supplementary sum, if applicable,
+Southwest will be liable for destruction, loss, damage, or delay of such Checked
+Baggage in an amount not exceeding the declared amount, unless Southwest proves
+that the declared amount is greater than the Passenger’s actual interest in delivery at
+destination. The declared amount, and Southwest’s liability, shall not exceed the total
+amount of declaration permissible under Southwest’s regulations, inclusive of the
+limitation of paragraph (1)(i) hereof. In the case of transportation under the Warsaw
+Convention, no supplementary sum shall apply unless the declared amount exceeds
+Twenty-Six (26) Special Drawing Rights per kilogram of the total recorded weight of
+the checked Baggage at the time the Baggage is handed to Southwest.
+(iv) In the case of unchecked Baggage, Southwest is liable only to the extent the damage
+resulted from its fault, or that of its agents.
+(v) Southwest is not liable for destruction, loss, damage, or delay of baggage not in the
+charge of Southwest, including Baggage undergoing security inspections or measures
+not under the control and direction of Southwest.
+(vi) Southwest reserves all defenses and limitations available under the Montreal
+Convention and the Warsaw Convention, whichever may apply, to such claims
+including, but not limited to, the defense of Article 20 of the Warsaw Convention and
+Article 19 of the Montreal Convention, and the exoneration defense of Article 21 of the
+Warsaw Convention and Article 20 of the Montreal Convention, except that Southwest
+shall not invoke Article 22(2) and (3) of the Warsaw Convention in a manner
+inconsistent with paragraph (i) hereof. The limits of liability shall not apply in cases
+described in Article 25 of the Warsaw Convention or Article 22(5) of the Montreal
+Convention, whichever may apply.
+e. Time Limitations on Claims and Actions
+(1) Under the Montreal Convention and the Warsaw Convention, whichever may apply, an
+action for damages must be brought within two (2) years, and a complaint must be made
+to Southwest no later than seven (7) calendar days in the case of damage to baggage,
+and twenty-one (21) calendar days in the case of delay thereof. In the case of damage to
+baggage, the Passenger must notify Southwest of the damage in person at the airport.
+f.
+
+International Travel Documents
+(1) Each Passenger traveling on an international itinerary is solely responsible for obtaining
+and completing all documentation required for entry into and exit from each country, as
+well as for complying with the laws, requirements or procedures of each country listed on
+such itinerary. Southwest is not liable for any assistance or information provided by any
+employee or agent of Southwest to any Passenger relating to such documents or
+compliance with such laws.
+
+39
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(2) Parents/guardians of persons under 18 years old are responsible for compliance with all
+requirements and procedures for persons under 18 years old traveling internationally,
+which may include, but may not be limited to, documentary evidence, such as a notarized
+letter of relationship and permission for the child’s travel from the birth parent(s) or legal
+guardian(s) not present.
+(3) Southwest reserves the right, in its sole discretion, to deny boarding to any Passenger
+whose documentation is deemed by either Southwest or a governmental agency to be
+insufficient for travel or who otherwise does not comply with laws, requirements, or
+procedures of the specific country the Passenger is traveling to, departing from, transiting
+through, or returning to.
+(4) Subject to applicable laws and regulations, the Passenger is solely responsible for any
+expenses incurred or any consequences resulting from his or her failure to obtain,
+complete, or present sufficient documentation for entry into and exit from each country,
+as well as for complying with the applicable laws and regulations. Southwest expressly
+reserves the right to seek reimbursement from the Passenger for any loss, damage, or
+expense suffered or incurred by Southwest resulting from Passenger’s failure to obtain,
+complete, or present sufficient documentation for entry into and exit from each country,
+as well as for complying with the applicable laws and regulations.
+g. Foreign Currency
+(1) To the extent permitted by local law, Passenger agrees to contract exclusively in U.S.
+dollars.
+(2) All refunds will be subject to government laws, rules, regulations, or orders of the country
+in which the Ticket was originally purchased and of the country in which the refund is
+being made.
+(3) Refunds will be made in the currency in which the fare was paid, or, at Southwest’s
+election where legally permissible, in U.S. dollars in the amount equivalent to the amount
+due in the currency in which the fare or fares for the flight covered by the Ticket as
+originally issued was collected.
+h. Partial Tax Refunds in Limited Circumstances
+(1) For administrative purposes, Southwest may collect certain taxes, fees, and charges
+imposed by a governmental entity without regard to whether the Passenger is exempt
+from the tax, fee, or charge by applicable law. Additional information regarding such
+taxes, fees, and charges (including the potential availability if any of a refund) may be
+found on Southwest.com.
+i.
+
+Check-in Times for International Flights
+(1) Minimum check-in time for Passengers (with or without Checked Baggage) is at least
+sixty (60) minutes prior to scheduled departure. Passengers who do not meet this checkin time will not be permitted to check-in or board the flight. For flights departing Aruba, the
+minimum check-in time for Passengers (with or without Checked Baggage) is at least
+seventy-five (75) minutes prior to scheduled departure. Passengers who do not meet this
+check-in time will not be permitted to check-in or board the flight.
+40
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(2) Passengers must arrive at the gate and be ready to board at least ten (10) minutes prior
+to scheduled departure. See Section 2.a.(2) and Section 5.b. for complete information on
+check-in requirements.
+(3) Early Departure. Southwest Airlines reserves the right, at its sole discretion, to depart
+early when all Passengers who have met the check-in requirements as outlined in
+Section 8.i.(2) are onboard the aircraft. The scheduled departure and arrival times, as
+published for the flight, will not be changed, or otherwise affected if Southwest Airlines
+departs early. It is the Passenger’s responsibility to arrive at the departure airport with
+adequate time to allow for check-in requirements and security screening.
+j.
+
+Travel by Persons under the Age of 18
+(1) Unaccompanied Travel of Persons under the Age of 18. Southwest will not transport a
+person under the age of 18 on an international flight unless accompanied by an adult at
+least 18 years old or older.
+(2) Persons under the Age of 18 Accompanied by One Parent or Someone who is not a
+Parent. Special documentation may be required for admission to or departure from
+certain countries when a person under the age of 18 is accompanied by only one parent
+or a person who is not the legal guardian. See Section 8.f.
+(3) Children younger than 2 years old carried on the lap of an accompanying adult 18 years
+old or older. When a child younger than 2 years old is added as a lap child to the
+reservation of an accompanying adult 18 years old or older, applicable governmentimposed taxes and fees must be paid, and a Ticket will be issued for each such lap child.
+
+k. Carriage of Animals
+(1) Pets. No pets are accepted on international itineraries.
+(2) Law Enforcement and Search and Rescue Dogs. Law enforcement and search and
+rescue dogs are allowed, subject to the requirements contained in Section 6.f., except
+where prohibited due to a conflict of law.
+(3) Trained Service Animals. Trained Service Animals for Qualified Individuals with a
+Disability are accepted as required by 14 CFR Part 382, except where prohibited due to a
+conflict of law. See Section 6.d.(4) for more information.
+l.
+
+Firearms
+(1) Southwest will not accept firearms or ammunition for international travel.
+
+41
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+9. Flight Changes, Cancellations, Delays, and Diversions
+Refer to Section 8 for conditions applicable to international travel.
+a. Changes to Flight Schedules.
+Flight schedules are not guaranteed and are subject to change without prior notice. At times,
+Southwest might need to substitute one aircraft for another or change, add, or omit
+intermediate stops, and such changes are allowed under the Contract of Carriage without
+requiring Southwest to give Passengers prior notice. Southwest does not guarantee that a
+Passenger will make connections to other flights, whether operated by Southwest or another
+airline. In the event of changes, Southwest Airlines will attempt to notify affected Passengers
+as early as reasonably possible.
+b. Southwest Cancellations and Significantly Delayed or Changed Flights
+(1) In the event Southwest cancels a flight, or a flight is Significantly Delayed or Changed:
+(i) Southwest may offer to transport the Passenger at no additional charge on the next
+Southwest Airlines flight(s) on which space is available to the Passenger’s intended
+destination or provide alternative transportation on Southwest Airlines (subject to
+availability) in accordance with its established re-accommodation practices; and/or
+(ii) Southwest may advise the Passenger that the unused portion of their fare (including
+taxes and government fees) may be held as a Flight Credit or a Transferable Flight
+Credit™; and
+(iii) If the Passenger chooses not to fly on the Significantly Delayed or Changed Flight, is
+not offered or chooses not to accept alternative transportation as provided in
+9(b)(1)(i) above, and does not choose to hold the value of the unused transportation
+as Flight Credit or Transferable Flight Credit™, the Passenger is eligible for a form-ofpayment refund in accordance with Section 4(c)(3)(i)-(vii) when due.
+(2) A refund to the original form of payment is your exclusive remedy in the event of a
+Southwest cancellation or Significantly Delayed or Changed Flight, and Southwest’s
+liability is limited to the amount of the unused portion of the reservation (including airfare,
+fees for optional travel charges (ancillary service fees), government fees, and taxes).
+Under no circumstances will Southwest be liable for incidental damages, consequential
+damages, special damages, or interest.
+c. Denied Boarding Procedures Due to an Oversale
+(1) The following definitions, as found in 14 CFR § 250.1, pertain solely to the denied
+boarding compensation provisions of this section:
+Airport means the airport at which the direct or connecting flight on which the Passenger
+holds Confirmed Reserved Space is planned to arrive or some other airport serving the
+same metropolitan area, provided that the transportation to the other airport is accepted
+(i.e., used) by the Passenger.
+
+42
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+Alternate Transportation means air transportation with a confirmed reservation at no
+additional charge, operated by a Carrier as defined below or other transportation
+accepted and used by the Passenger in the case of denied boarding.
+Carrier means:
+(i) A direct air carrier, except a helicopter operator, holding a certificate issued by
+the Department of Transportation pursuant to 49 U.S.C. § 41102 or that has
+been found fit to conduct commuter operations under 49 U.S.C. § 41738, or
+an exemption from 49 U.S.C. § 41102, authorizing the scheduled
+transportation of persons; or
+(ii) A foreign air carrier holding a permit issued by the Department pursuant to 49
+U.S.C. § 41302, or an exemption from that provision, authorizing the
+scheduled foreign air transportation of persons.
+Class of Service means seating in the same cabin class such as First, Business, or
+Economy class, or in the same seating zone if the Carrier has more than one (1) seating
+product in the same cabin such as Economy and Premium Economy class.
+Confirmed Reserved Space means space on a specific date and on a specific flight and
+Class of Service of the Carrier which has been requested by a Passenger, including a
+Passenger with a ‘‘zero fare ticket,’’ and which the Carrier or its agent has verified, by
+appropriate notation on the Ticket or in any other manner provided therefore by the
+Carrier, as being reserved for the accommodation of the Passenger.
+Fare means the price paid for air transportation including all mandatory taxes and
+government fees. It does not include ancillary fees for optional services.
+Stopover means a deliberate interruption of a journey by the Passenger, scheduled to
+exceed four (4) hours, at a point between the place of departure and the place of final
+destination.
+Zero Fare Ticket means a Ticket acquired without a substantial monetary payment such
+as by using frequent flyer points or vouchers, or a consolidator Ticket obtained after a
+monetary payment that does not show a Fare amount on the Ticket. A Zero Fare Ticket
+does not include free or reduced rate air transportation provided to airline employees and
+guests.
+(2) Request for Volunteers.
+(i) In the event of an oversold flight, Southwest shall request volunteers for denied
+boarding before using any other boarding priority pursuant to 14 CFR § 250.2b. A
+“volunteer” is a person, including the holder of a Zero Fare Ticket, who responds to
+Southwest’s request for volunteers and who willingly accepts Southwest’s offer of
+compensation, in any amount, in exchange for relinquishing their Confirmed
+Reserved Space. Any other Passenger denied boarding is considered to have been
+denied boarding involuntarily, even if that Passenger accepts denied boarding
+compensation.
+
+43
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(ii) Southwest will advise each Passenger solicited to volunteer for denied boarding, no
+later than the time Southwest solicits that Passenger to volunteer, whether he or she
+is in danger of being involuntarily denied boarding and, if so, the compensation
+Southwest is obligated to pay if the Passenger is involuntarily denied boarding. If an
+insufficient number of volunteers come forward, Southwest may deny boarding to
+other Passengers in accordance with Southwest’s boarding priority rules as specified
+in Section 9.b.(6).
+(3) Conditions for Payment of Compensation to Passengers Involuntarily Denied Boarding
+due to an Oversale. Subject to the exception in Section 9.b.(4) Southwest will tender to a
+Passenger the amount of compensation specified in Section 9.b.(5), provided that:
+(i) The Passenger holds a Ticket, including a Zero Fare Ticket, for Confirmed Reserved
+Space and presents himself or herself for Carriage at the appropriate time and place,
+having complied fully with Southwest’s requirements as to ticketing, check-in, and
+acceptability for transportation in accordance with this Contract of Carriage; and
+(ii) Other than for reasons set forth in Section 6, or when resulting from substitution, for
+operational or safety reasons, of an aircraft having a lesser seating capacity than the
+aircraft originally scheduled, Southwest is unable to accommodate the Passenger on
+the flight for which the Passenger holds a Confirmed Reserved Space, and such flight
+departs without the Passenger.
+(4) Comparable Transportation. The Passenger will not be eligible for compensation if
+Southwest offers comparable air transportation, or other transportation used by the
+Passenger at no extra cost, that, at the time such arrangements are made, is planned to
+arrive at the airport of the Passenger’s next Stopover or, if none, at the Airport of the
+Passenger’s final destination no later than one (1) hour after the planned arrival time of
+the Passenger’s original flight or flights.
+(5) Involuntarily Denied Boarding Compensation for an Oversale pursuant to 14 CFR §
+250.5.
+(i) Compensation shall be at least two hundred percent (200%) of the Fare to the
+Passenger’s destination or first Stopover, or One Thousand Seventy-Five and 00/100
+dollars ($1075.00), whichever is lower, if Southwest offers Alternate Transportation
+that, at the time the arrangement is made, is planned to arrive at the Airport of the
+Passenger’s first Stopover, or if none, the Airport of the Passenger’s final destination:
+• More than one (1) hour but less than two (2) hours after the planned arrival time
+of the Passenger’s original flight on a domestic itinerary; or
+• More than one (1) hour but less than four (4) hours after the planned arrival time
+of the Passenger’s original flight on an international itinerary; and
+(ii) Compensation shall be at least four hundred percent (400%) of the Fare to the
+Passenger’s destination or first Stopover, or Two Thousand One Hundred Fifty and
+00/100 dollars ($2150.00), whichever is lower, if Southwest does not offer Alternate
+Transportation that, at the time the arrangement is made, is planned to arrive at the
+Airport of the Passenger’s first Stopover, of if none, the Airport of the Passenger’s
+final destination:
+44
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+•
+•
+
+Less than two (2) hours after the planned arrival time of the Passenger’s original
+flight on a domestic itinerary; or
+Less than four (4) hours after the planned arrival time of the Passenger’s original
+flight on an international itinerary.
+
+(iii) Compensation will be paid by Southwest on the day and at the place where the
+denied boarding occurs, except that if Southwest arranges, for the Passenger’s
+convenience, alternate means of transportation that departs before the payment can
+be made, payment will be sent by mail or other means within twenty-four (24) hours
+after the time the denied boarding occurs.
+(iv) Compensation will initially be provided in the form of a draft payable to the
+Passenger. With the Passenger’s consent, Southwest may also offer a Southwest
+LUV Voucher to be applied toward future travel in lieu of the draft. The Passenger
+may refuse Southwest’s offer of a voucher and insist on receiving compensation by
+draft in the amount specified in Section 9.b.(5).
+(v) Acceptance of compensation by the Passenger relieves Southwest from any further
+liability to the Passenger or Customer caused by Southwest’s failure to honor the
+confirmed reservation.
+(6) Denied Boarding Priority Rules.
+(i) Southwest will prioritize boarding to Passengers who purchase our Choice Extra fare
+and Rapid Rewards A-List Preferred and A-List Members. For all other confirmed
+Passengers, Southwest will prioritize boarding to Passengers with Interline Itineraries,
+higher fare classes, earlier booking dates, and earlier check-in times. Within each
+priority group, Customers are further prioritized based on similar factors and itinerary
+details (e.g., the Customer is traveling through the location in question, the cost of the
+Customer’s fare).
+(ii) Written Explanation of Denied Boarding Compensation and Boarding Priority Rules.
+When a denied boarding occurs, Southwest will give Passengers who are denied
+boarding involuntarily a written explanatory statement describing the terms and
+conditions of denied boarding compensation and Southwest’s boarding priority rules.
+(iii) In addition to the denied boarding compensation specified herein, Southwest shall
+refund all unused ancillary fees for optional services paid by a Passenger who is
+voluntarily or involuntarily denied boarding. An eligible refund will be issued in
+accordance with Section 4.c.(3). Southwest is not required to refund the ancillary fees
+for services that are provided with respect to the Passenger’s Alternate
+Transportation.
+d. Ground Transportation
+(1) Unless provided at the direction of Southwest, Southwest does not assume responsibility
+for the ground transportation of any Passenger or his or her Baggage between any Airport
+used by Southwest and any other location. Ground Transportation is at the Passenger’s
+expense.
+45
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+10. Interline Transportation
+a. General
+(1) Carriage on any Interline Carrier is governed by the Interline Carrier’s contract or
+conditions of carriage. For more information, please see the relevant Interline Carrier’s
+contract or conditions of carriage, which can be obtained from the Interline Carrier:
+• Air Premia: https://www.airpremia.com/a/en/terms/transit
+• All Nippon Airways: https://www.ana.co.jp/en/us/siteinfo/conditions-ofcarriage/summary/
+• China Airlines: https://www.china-airlines.com/us/en/terms-andconditions/transportation-clauses
+• Condor: https://www.condor.com/us/help-contact/usa-gtbc.jsp
+• EVA Air: https://www.evaair.com/en-us/website-disclaimer/conditions-of-carriage/
+• Icelandair: https://www.icelandair.com/support/terms-and-conditions/conditions-ofcarriage/
+• Philippine Airlines: https://www.philippineairlines.com/us/en/about-us/legalnotices/general-conditions-of-carriage.html
+• Singapore Airlines: www.singaporeair.com/en_UK/us/global_footer/conditionscarriage/
+• TAP Air Portugal: https://www.flytap.com/en-us/legal-info/conditions-of-carriage
+• Turkish Airlines:
+https://cdn.turkishairlines.com/m/6b5be5b912c2fab3/original/General-CONDITIONSOF-CARRIAGE-OF-PASSENGERS-AND-BAGGAGE.pdf
+(2) In the case of Carriage on a Southwest-operated flight as part of an Interline Itinerary,
+transportation on the Southwest-operated flight is governed by this Contract of Carriage,
+but Southwest may apply rules and policies of the Interline Carrier in the following areas:
+(3) Reservation changes, cancellations, and refunds; and
+(4) Baggage policies and fees (including those concerning acceptance, size, weight, and
+quantity).
+(5) When Southwest issues a Ticket or makes any other arrangements for the
+transportation of Passengers or Baggage with an Interline Carrier, Southwest acts only
+on behalf of such Interline Carrier.
+(6) SOUTHWEST SHALL NOT BE LIABLE FOR ANY DEATH OR INJURY TO A
+PASSENGER IN CONJUNCTION WITH FLIGHTS THAT ARE NOT OPERATED BY
+SOUTHWEST.
+(7) SOUTHWEST ASSUMES NO LIABILITY FOR THE ACTS OR OMISSIONS OF AN
+INTERLINE CARRIER.
+(8) Passengers traveling on Interline Itineraries are prohibited from voluntary standby travel.
+(9) Southwest shall not be liable for the loss of, damage to, or delay in delivery of any
+Baggage accepted by another carrier for interline transfer to Southwest if the Baggage is
+not acceptable for Carriage as Checked Baggage by Southwest.
+46
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(10) Passengers traveling on Interline Itineraries who, at the Carrier’s discretion, cannot be
+safely accommodated in a single seat will be required to purchase an additional,
+adjacent, non-refundable seat for the Southwest-operated flight(s). The interline
+Carrier’s policy applies to flights operated by the Interline Carrier.
+(11) A ticket must be purchased at the applicable fare for any children younger than 2 years
+old traveling on an Interline itinerary.
+
+47
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+11. Miscellaneous
+a. Claims
+(1) No claim for personal injury or death of a Passenger will be entertained by Southwest
+unless written notice of such claim is received by Southwest Airlines within twenty-one
+(21) days after the occurrence of the event giving rise to the claim.
+(2) No legal action on any claim described above may be maintained against Southwest
+unless commenced within one (1) year of Southwest Airlines' written denial of a claim, in
+whole or in part.
+(3) Class Action Waiver. Both Passenger and Customer agree to waive any right to assert
+any claim against Southwest as a representative or member in any class or
+representative action. To the extent the Passenger or the Customer is permitted by law or
+court of law to proceed with a class or representative action against Southwest, the
+Passenger and Customer agree that neither the Passenger, the Customer, nor any legal
+or other representative or person purporting to act on behalf of the either shall:
+(i) Be entitled to recover attorneys’ fees or costs associated with pursuing the class or
+representative action; and
+(ii) Submit a claim or otherwise participate in any recovery secured through the class or
+representative action.
+b. Customer Service Plan
+(1) The Southwest Airlines Customer Service Plan (“SWA CSP”) is issued by Southwest
+Airlines pursuant to 14 CFR § 259.5. The SWA CSP reflects Southwest Airlines’
+dedication to high-quality Customer service but is not a contract and does not create any
+contractual obligations on the part of Southwest. In addition, if there is any conflict
+between the language of the SWA CSP and the Contract of Carriage, the Contract of
+Carriage shall govern.
+c. Choice of Law, Entire Agreement
+(1) Any and all matters arising out of or relating to this Contract of Carriage and/or the
+subject matter hereof shall be governed by, construed, and enforced in accordance with
+the laws of the United States of America and, to the extent not preempted by federal law,
+the laws of the State of Texas without regard to conflict of law principles, regardless of
+the legal theory upon which such matter is asserted.
+(2) This Contract of Carriage represents the entire, integrated agreement between the
+parties relating to transportation by Southwest and shall supersede all prior
+representations, understandings, or agreements pertaining thereto, either oral or written.
+No other covenants, warranties, undertakings, or understandings may be implied in law
+or in equity.
+
+48
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+Contract of Carriage
+(3) To the extent that an implied covenant of good faith and fair dealing would otherwise be
+deemed applicable to this Contract of Carriage, the agreement to transport the
+Passenger, or any aspect of the relationship between Southwest, the Customer, and the
+Passenger, to the extent permissible by applicable state law the implied covenant of good
+faith and fair dealing is hereby rendered inapplicable and is disclaimed.
+d. Consent to Use of Personal Data. Upon booking a Ticket for transportation, purchasing other
+services, or participating in any Southwest program or service such as Rapid Rewards™, the
+Passenger and Customer hereby authorize Southwest and its authorized agents to: Collect,
+process, retain, and use, and Transfer to third parties, including, but not limited to,
+subcontractors, agents, affiliates, marketing partners, other carriers, and government
+agencies, for their use, processing and retention, any and all personal data that is provided to
+Southwest when Southwest believes in good faith that it is in the interests of aviation security
+or that disclosure is otherwise necessary or advisable or as Southwest deems necessary to
+carry out any and all business purposes related to the program or services being requested
+and/or in the promotion of other information, goods, and services that may be of interest to
+the Passenger or Customer, including, but not limited to, the following purposes: Making a
+reservation; Purchasing a Ticket; Purchasing cargo services; Participating in Rapid
+Rewards™; Obtaining ancillary services, including accommodating special service requests;
+Accounting, billing and auditing; checking credit or other payment mechanisms; Operating
+frequent flyer programs; systems testing, maintenance and development; Customer relations;
+Sales and marketing; Promotions for Southwest; Statistical analysis; Developing and tailoring
+current and future services; Facilitating travel, including obtaining immigration, security, and
+customs clearance; Complying with applicable laws, regulations, government requests, law
+enforcement requests, and/or valid court orders; Providing data to third parties or
+governmental or law enforcement agencies to comply with, or assist in the development of,
+security, safety, or health measures for Passengers, baggage or cargo, or to provide for the
+prevention or detection of imminent criminal acts or the apprehension or prosecution of
+offenders; and protecting the legal rights of Southwest. If a Passenger or Customer wants to
+learn more about the Southwest Airlines Privacy Policy, it may be viewed at Southwest.com.
+This policy is merely a statement of administrative protocol; it is not a contract, nor is it made,
+or intended to be made, a part of this Contract of Carriage, nor does it create any contractual
+or legal rights.
+
+49
+
+Southwest Airlines Co.
+
+58th Revised
+09/24/2026
+
+
