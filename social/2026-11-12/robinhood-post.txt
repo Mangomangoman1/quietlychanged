@@ -1,0 +1,7 @@
+Robinhood's earnings-bet contracts stop being free on Jan 1.
+
+New fee schedule: KPI binary options are $0 through Dec 31, then 12% × p(1−p) per contract (7% with Gold).
+
+A 10¢ long shot loses 10.8% of your stake to fees. A 90¢ favorite: 1.2%.
+
+https://quietlychanged.com/changes/2026-11-12-robinhood-robinhood-sets-fees-for-its-kpi-binary-options-from-jan-1-2027-up-to/
