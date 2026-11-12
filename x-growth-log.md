@@ -1872,3 +1872,33 @@ Reach per tier: 50K+ and ≤45 min: MSI reply 23 (parent 113K, only 9 replies ah
 - R1 DFA "proposal not law + streaming withdrawal change" (r1-dfa.txt), for any big aggregator DFA/loot-box post.
 - R2 United AI-agent contract-of-carriage fine print (r2-united.txt), for any United post past ~20K.
 - Nothing posted: no in-lane parent past ~20K and climbing. No quote, no original (Nov 11 slot used; D&B deep-dive post still held for Samuel).
+
+## Session 2026-11-12 ~9:15 AM MT (Thursday AM)
+Account (public X read 9:15 AM MT): **24 followers** (up 2 from 22), 14 following, 243 posts, 119 media. Pinned lookup still "not found" for 2119832006922215798; Monday session must check the profile and re-pin a fresh roundup.
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 12 6:19 AM | Robinhood self-reply 2120868994055872699 | self-reply | – | – | 1 | 0 | 0 | 0 | 0 |
+| Nov 12 6:18 AM | Robinhood KPI fees original 2120868750237061436 | original | – | – | 5 | 0 | 0 | 1 | 0 |
+| Nov 11 9:23 AM | MSI QD-OLED warranty reply | reply | ~39 | 130K | 23 | 0 | 0 | 0 | 0 |
+| Nov 11 6:24 AM | Slack original | original | – | – | 13 | 0 | 0 | 1 | 0 |
+| Nov 10 5:22 PM | Kalshi No Tip/Costco chart reply | reply | ~82 | 151K | **364** | 0 | 0 | 0 | 0 |
+
+Reach per tier: nothing new since PM. Parent-quotes: none.
+
+### What we learned
+1. Robinhood KPI original: 5 impressions in 3 h. Prediction-market fee math is niche (fails the mass-appeal test). Originals at 6:15 AM MT keep landing in single digits; consider moving originals to ~9-10 AM MT and to broad cost topics (chart format due this week: none since Oct).
+2. Followers +2 to 24 with no breakout; probably drift from the Kalshi chart reply.
+3. AM feed: gaming/film hype + Nvidia/Huang (off-lane). Only in-lane price post: Wario64 PS5 Pro 2TB $899 restock again (41.7K / 30 replies at 14 min), same setup as the Nov 9 11.8K winner.
+
+### Topic log
+- X Premium+ ads in replies still trending (X news card updated Nov 12); X Help says Premium+ keeps For You/Following ad-free but ads may appear in replies/Explore. Parents still small or stale.
+- Starlink demand-based pricing (Residential Max $130→$156) trending since Nov 9: candidate chart/cost original.
+- Star Wars fan complaints about a Jan price/release slate (small).
+
+### Drafted (social/2026-11-12/am/)
+- R1 Wario64 PS5 Pro 2TB $899 restock (https://x.com/Wario64/status/2120909792655061204; 41.7K / 30 replies / ~14 min at 9:15 AM MT): new wording (r1.txt, 220 chars), PlayStation logo + Nov 9 "what the $899 Pro does and doesn't include" card.
+- No other in-lane parent past ~20K. No quote (no in-lane 500K+). No original (Nov 12 slot used by Robinhood).
+
+### Posted (Nov 12 AM, box browser as @QuietlyChanged)
+- R1 9:21 AM MT: PS5 Pro disc-drive/price-path reply under Wario64 (parent 47.6K views, 32 replies, ~20 min after parent; tier 20-50K, ≤45 min, with image): https://x.com/QuietlyChanged/status/2120914826276802705 (handle not doubled, 2 images). Re-test of the Nov 9 11.8K format.
