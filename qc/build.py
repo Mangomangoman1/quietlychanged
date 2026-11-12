@@ -345,9 +345,29 @@ def main():
         btn = "" if past else f'<a class="btn" href="{root}due-soon/{c["_art"]}.ics">Add to calendar</a>'
         return (f'<li class="{"past" if past else "hot" if n <= 7 else ""}"><span class="n">{num}</span><div><div class="metarow">{kind(c.get("page","terms"))}<span class="svc">{E(c["service"])}</span><span class="when">{E(c.get("deadline") or "Takes effect")} {E(short_y(c["effective"]))}</span></div>'
                 f'<h3><a href="{root}changes/{c["_art"]}/">{E(c.get("headline",""))}</a></h3><p>{E(c.get("tldr",""))}</p></div>{btn}</li>')
+    DEC_FINE_SLUGS = (
+        "2026-11-05-smule-smule-s-dec-4-terms-your-recordings-can-train-ai-and-be-licensed-to-other",
+        "2026-11-09-netlify-dec-4-terms-a-verified-email-domain-can-see-your-account-and-public-sit",
+        "2026-11-08-booking-com-price-match-will-pay-wallet-credits-not-a-refund",
+        "2026-10-20-ikea-gift-registry-shuts-down-after-dec-27-2026-and-saved-registries-will-be-de",
+    )
+    by_art = {c["_art"]: c for d, c in ALL}
+    dec_fine = [by_art[s] for s in DEC_FINE_SLUGS if s in by_art]
+    dec_fine.sort(key=lambda c: (c.get("effective") or "", c["service"]))
+    dec_html = ""
+    if dec_fine:
+        dec_html = (
+            f'<section class="wide section" style="margin-top:1rem" aria-labelledby="dec-h">'
+            f'<div class="sec-title"><h2 id="dec-h">December fine print</h2><span class="label">{plural(len(dec_fine), "date")}</span></div>'
+            f'<p class="lede" style="max-width:44rem">Four deadlines in December: Smule and Netlify\'s new terms take effect Dec 4, Booking.com\'s US price match starts paying wallet credits on Dec 10, and IKEA deletes gift registries after Dec 27 — nothing transfers. Subscribe to every deadline, or add one date at a time from the list below.</p>'
+            f'<div class="btnrow" style="margin:1rem 0 1.2rem"><a class="btn solid" href="calendar.ics">Subscribe to every deadline (.ics)</a></div>'
+            f'<div class="due" tabindex="0" aria-label="December fine print deadlines">{"".join(due_card(c, "../") for c in dec_fine)}</div>'
+            f'</section>'
+        )
     body = (f'<header class="wide page-head"><p class="label">Due soon</p><h1>Dates that matter in the fine print</h1>'
             f'<p class="lede">Every deadline, start date and shutdown we have found in a change: when new terms take effect, when a feature disappears, when you have to act. Counted from today.</p>'
             f'<div class="btnrow" style="margin-top:1.2rem"><a class="btn solid" href="calendar.ics">Subscribe to every deadline (.ics)</a><a class="btn" href="../threads/">Browse threads</a></div></header>'
+            + dec_html +
             f'<section class="wide section" style="margin-top:1rem"><div class="sec-title"><h2>Coming up</h2><span class="label">{plural(len(upcoming), "date")}</span></div>'
             + (f'<ul class="duelist">{"".join(due_row(c, "../") for d, c in upcoming)}</ul>' if upcoming else '<p class="coverage">Nothing scheduled right now.</p>') + "</section>"
             + (f'<section class="wide section"><div class="sec-title"><h2>Recently passed</h2></div><ul class="duelist">{"".join(due_row(c, "../", True) for d, c in recent_past)}</ul></section>' if recent_past else ""))

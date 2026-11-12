@@ -1,220 +1,332 @@
 [
- {
-  "service": "Robinhood",
-  "page": "pricing",
-  "headline": "Robinhood sets fees for its KPI binary options from Jan 1, 2027: up to 3 cents a contract, 6% of a 50-cent bet",
-  "tldr": "Robinhood's earnings-metric contracts are free only through Dec 31, 2026. From Jan 1 a fee formula kicks in: 3 cents on a 50-cent contract without Gold, 1.75 cents with it.",
-  "impact": 2,
-  "effective": "2027-01-01",
-  "deadline": "Fees start",
-  "themes": ["price-creep"],
-  "url": "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf",
-  "who": "Robinhood customers who trade KPI binary options, the Cboe-listed yes/no contracts that pay $1 if a company's reported metric (like EPS or revenue) hits a strike; cheap long-shot contracts are hit hardest as a share of what you pay",
-  "seo_title": "Robinhood KPI binary options fees from Jan 1, 2027: the formula explained",
-  "seo_desc": "Robinhood's fee schedule now says KPI binary options are $0 through Dec 31, 2026, then charge a contract fee of 10% (5% with Gold) and an exchange fee of 2% times p(1-p) per contract. Worked examples inside.",
-  "redline": [
-   {
-    "before": "",
-    "after": "Contract Fee: $0 through December 31, 2026 Effective January 1, 2027 Total Contract Fee = (k × p × (1 − p) × c)",
-    "label": "Fee Schedule · KPI Binary Options · Contract Fee",
-    "note": "The launch promo has an end date, and the price after it is now in writing.",
-    "src": "quoted"
-   },
-   {
-    "before": "",
-    "after": "k = 10% without a Robinhood Gold subscription ● k = 5% with a Robinhood Gold subscription",
-    "label": "Fee Schedule · KPI Binary Options · Contract Fee rate",
-    "note": "Gold members pay half the Robinhood contract fee.",
-    "src": "raw"
-   },
-   {
-    "before": "",
-    "after": "Total Exchange Fee = (k × p × (1 − p) × c) k = tier-based constant ● k = 2% ● k = 5% for “Professional” orders",
-    "label": "Fee Schedule · KPI Binary Options · Exchange Fee",
-    "note": "A second, exchange fee stacks on top, and both are rounded up to the next cent.",
-    "src": "raw"
-   }
-  ],
-  "actions": [
-   "If you trade KPI binary options, note that the fee-free period ends Dec 31, 2026",
-   "Before placing an order in 2027, work out the fee: multiply 12% (7% with Gold) by p × (1 − p) by the number of contracts, where p is the price in dollars",
-   "Check the current fee schedule at cdn.robinhood.com (RHF Fee Schedule PDF) before trading, since Robinhood says regulatory fees can change without notice"
-  ],
-  "what": "Robinhood Financial's fee schedule, revised Nov 10, 2026 (the PDF's own timestamp), adds a new row for KPI Binary Options, the yes/no contracts Cboe lists on company metrics such as earnings per share, revenue or a company's subscriber count. Each contract pays $1 if the reported figure meets the strike and nothing if it doesn't, so its price p sits between $0 and $1.\n\nChange 1: The fees are free only for now. Both the exchange fee and Robinhood's contract fee read \"$0 through December 31, 2026\", followed by \"Effective January 1, 2027\" and a formula.\n\nChange 2: The formula. Robinhood's Contract Fee is k × p × (1 − p) × c, with \"k = 10% without a Robinhood Gold subscription\" and \"k = 5% with a Robinhood Gold subscription\". The Exchange Fee uses the same formula with \"k = 2%\" (\"k = 5% for 'Professional' orders\"). Both are \"rounded up to the nearest $0.01 increment\". The contracts are also subject to the Regulatory Fee, Trading Activity Fee and CAT fee, with the CAT fee \"reduced to 1/100 of the standard rate\".\n\n## What that means in dollars\n\nOur arithmetic from the published formula, before the small regulatory fees: 100 contracts at 50 cents cost $50; from Jan 1 that order would carry a $2.50 contract fee plus a $0.50 exchange fee, $3.00 in total, or 6% of the stake ($1.75, or 3.5%, with Gold). Because p × (1 − p) shrinks more slowly than the price, cheap long shots pay more as a share of the stake: 100 contracts at 10 cents ($10) would carry $0.90 + $0.18 = $1.08, about 10.8%. At 90 cents the same $1.08 is about 1.2% of the $90 stake. The most any single contract can cost without Gold is 3 cents, at a 50-cent price.\n\nWhat stays the same: Stock and ETF trades stay commission-free, and the footnote says the $0.50-per-contract \"Professional\" options fee \"does not apply to KPI Binary Options\"; professional orders pay the 5% exchange-fee rate instead.\n\nThe rest of today's fee-schedule diff was the PDF's layout being reflowed; the transfer, wire, margin and debit card fees read the same as before.",
-  "sources": [
-   ["Robinhood Financial fee schedule (PDF)", "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"],
-   ["Cboe and Robinhood announce planned launch of KPI contracts (Sep 30, 2026)", "https://ir.cboe.com/news/news-details/2026/Cboe-and-Robinhood-Announce-Planned-Launch-of-New-KPI-Contracts-Further-Expanding-Prediction-Market-Offerings/default.aspx"]
-  ],
-  "faq": [
-   ["Are Robinhood KPI binary options free?", "Through December 31, 2026, yes: the fee schedule lists the exchange fee and contract fee as $0 until then. From January 1, 2027 both follow the formula k × p × (1 − p) × contracts."],
-   ["How much will a KPI binary option cost to trade in 2027?", "Without Gold, up to 3 cents per contract (at a 50-cent price) plus small regulatory fees; with Gold, up to 1.75 cents. On 100 contracts at 50 cents that's $3.00 without Gold or $1.75 with it."],
-   ["Does Robinhood Gold lower the fee?", "Yes. Robinhood's contract fee uses k = 5% with Gold instead of 10%; the 2% exchange fee is the same."]
-  ]
- },
- {
-  "service": "Xbox Game Pass",
-  "page": "pricing",
-  "headline": "Xbox Game Pass fine print: promo subscribers may not get Fortnite Crew benefits",
-  "tldr": "Xbox's Game Pass page now warns that some perks, including Fortnite Crew benefits, aren't available during a promotional period, and says a payment method rather than a credit card is required.",
-  "impact": 1,
-  "themes": ["plan-shuffles"],
-  "url": "https://www.xbox.com/en-US/xbox-game-pass",
-  "who": "People signing up for Xbox Game Pass on a trial or promotional price, especially for the Fortnite Crew perk",
-  "redline": [
-   {
-    "before": "",
-    "after": "Some experiences not available during the promotional period, including Fortnite Crew benefits.",
-    "label": "Game Pass · Fine print",
-    "note": "A new carve-out: a discounted start may not include every advertised perk.",
-    "src": "raw"
-   },
-   {
-    "before": "Offers available in select regions only. Credit card required. After promotional period, subscription automatically continues at the then-current regular price (subject to change), unless canceled, plus applicable taxes.",
-    "after": "Offers are available for a limited time in select regions only. Valid payment method required. After promotional period, subscription automatically continues at the then-current regular price unless canceled.",
-    "label": "Game Pass · Promotional Offers",
-    "src": "raw"
-   }
-  ],
-  "actions": [
-   "If you're joining Game Pass on a promo for Fortnite Crew, confirm the benefit is included before you pay",
-   "Set a reminder before the promotional period ends; the subscription still renews at the regular price unless you cancel"
-  ],
-  "what": "The fine print on Xbox's Game Pass page was rewritten. A new line says \"Some experiences not available during the promotional period, including Fortnite Crew benefits.\" The promotional-offer terms now say \"Valid payment method required\" instead of \"Credit card required\", and \"Eligibility varies by offer; some offers are for new subscribers only.\" The renewal sentence still says the subscription \"automatically continues at the then-current regular price unless canceled\"; the words \"(subject to change)\" and \"plus applicable taxes\" were dropped from it. The subscription terms link moved from xbox.com/subscriptionterms to xbox.com/terms, now labeled \"XBOX Subscription and Cloud Terms\". Other edits trimmed the Rewards and gift card footnotes and reordered menu links."
- },
- {
-  "service": "Audible",
-  "page": "pricing",
-  "headline": "Audible's plan page drops the 'don't roll over' warning and lists its $229.50 plan as 12 credits",
-  "tldr": "Audible's Standard plan card no longer says unused monthly picks don't roll over, and the $229.50-a-year Premium card now reads \"12 creditos/año\" where it said 24 audiobooks.",
-  "impact": 1,
-  "themes": ["plan-shuffles"],
-  "url": "https://www.audible.com/ep/memberbenefits",
-  "who": "People comparing Audible's Standard and annual Premium plans before signing up",
-  "redline": [
-   {
-    "before": "Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.",
-    "after": "Auto-renews at $8.99/mo after 30 days. Cancel anytime.",
-    "label": "Pricing · Standard",
-    "note": "The roll-over warning added Oct 23 is gone from the card; the FAQ still says Standard is 1 audiobook a month.",
-    "src": "raw"
-   },
-   {
-    "before": "24 audiobooks",
-    "after": "12 creditos/año",
-    "label": "Pricing · Premium Annual, $229.50/yr",
-    "note": "A Spanish label showing 12 credits on the plan that offered 24; it may be a page error, so check checkout.",
-    "src": "raw"
-   }
-  ],
-  "actions": [
-   "If you're buying the $229.50 annual Premium plan, confirm at checkout how many credits it includes before paying"
-  ],
-  "what": "Audible's member-benefits page changed its plan cards again. The Standard card dropped \"Unused monthly audiobook selections don't roll over\", the line we logged being added on Oct 23; the FAQ still describes Standard as selecting 1 audiobook a month. The two annual Premium cards now read \"12 audiobooks\" at \"$149.50 a year\" and, for the $229.50 plan, \"12 creditos/año\" (Spanish for 12 credits a year) with \"Save 16%\", where yesterday it said \"24 audiobooks\". The page doesn't explain the change, and the Spanish wording suggests a labeling error rather than a new allowance, so we'd treat the 24-credit plan as unconfirmed until Audible's checkout says otherwise. The headline also changed from \"Access our 1M+ catalog with membership\" to \"Choose the plan that's right for you\", and the monthly cards now say \"30-day free trial\"."
- },
- {
-  "service": "United Airlines",
-  "page": "terms",
-  "headline": "United's new contract of carriage doubles how early kids flying alone must be dropped off, to 60 minutes, next to its AI-agent ban",
-  "tldr": "United's Nov 11 contract of carriage says an unaccompanied minor must be brought to the airport 60 minutes early, up from 30. United's own help page still says 30. The same revision bans booking with AI agents.",
-  "impact": 2,
-  "effective": "2026-11-11",
-  "deadline": "Took effect",
-  "themes": [
-   "accept-or-else",
-   "ai-and-your-data"
-  ],
-  "url": "https://www.united.com/en/us/fly/contract-of-carriage.html",
-  "who": "Parents and guardians sending a child aged 5 to 14 alone on United or United Express (unaccompanied minor service is mandatory at those ages, optional at 15 to 17), and anyone who uses an AI assistant, AI browser or travel-agency AI tool to book or manage United trips.",
-  "seo_title": "United contract of carriage (Nov 11, 2026): unaccompanied minors 60 minutes early, AI agents banned",
-  "seo_desc": "United's contract of carriage revised November 11, 2026 says unaccompanied minors must be brought to the airport 60 minutes early (was 30), while United's help page still says 30. It also bans booking with AI agents. Before/after text.",
-  "redline": [
-   {
-    "before": "Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 30 minutes early (in addition to regular airport processing times shown for the airport).",
-    "after": "Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 60 minutes early (in addition to regular airport processing times shown for the airport).",
-    "label": "Contract of Carriage · Rule 13, Children/Minors Traveling Unaccompanied (revised September 30, 2026 vs. revised November 11, 2026)",
-    "note": "One number changed: 30 minutes became 60. The rest of the paragraph is word for word the same. United's unaccompanied minors help page still tells parents to \"arrive 30 minutes earlier than the minimum required check-in time.\"",
-    "src": "quoted"
-   },
-   {
-    "before": "",
-    "after": "The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product.",
-    "label": "Contract of Carriage · Rule 6, Prohibited Practices (new item 6, revised November 11, 2026)",
-    "note": "Added to the same list as hidden-city, throwaway and back-to-back ticketing. Rule 5 now also lists \"reservations made, modified or serviced by AI Agents\" among the reservations United will cancel without notice.",
-    "src": "quoted"
-   },
-   {
-    "before": "",
-    "after": "AI Agent means any software or service, including but not limited to an AI assistant, AI agent or AI-enabled browser that takes autonomous or semi-autonomous action, whether or not Passenger or another individual supervises or approves its actions",
-    "label": "Contract of Carriage · Rule 1, Definitions (new, revised November 11, 2026)",
-    "note": "Approving each step yourself doesn't take a tool outside the definition.",
-    "src": "quoted"
-   }
-  ],
-  "actions": [
-   "If you're sending a child alone on United, plan to hand them over 60 minutes earlier than the airport's normal processing time, as the November 11 contract says, not the 30 minutes United's help page still lists. Check in at the ticket counter (unaccompanied minors can't check in online)",
-   "Book, change and pay for United trips yourself on united.com or the United app. You can still use AI for research, but finish the booking on United's own site or app, since United says it may cancel reservations an AI agent made, modified or serviced on or after November 11",
-   "If you've given an AI tool your MileagePlus login, change your password, as United recommends"
-  ],
-  "what": "United's Contract of Carriage, the legal terms for every United and United Express passenger, now reads \"(revised November 11, 2026)\". Its preamble says you accept it \"By purchasing a ticket or accepting transportation\". The AI-agent ban in this revision got plenty of coverage on November 11 and 12, from travel blogs, Bloomberg Law, PhocusWire, Fast Company and PPC Land. We compared the live text (fetched November 12, 2026) with the September 30, 2026 revision, captured by the Wayback Machine on October 17, 2026. One other change in the rules we compared hasn't been reported anywhere we could find. It affects parents sending kids on holiday flights alone.\n\n## Change 1: kids flying alone must be dropped off 60 minutes early, not 30\n\nRule 13 covers children and minors. In the September 30 version, it said: \"Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 30 minutes early (in addition to regular airport processing times shown for the airport).\" The November 11 version says the same thing with one number changed: \"60 minutes early (in addition to regular airport processing times shown for the airport).\"\n\nThe rest of the paragraph hasn't changed. The adult \"shall remain with the unaccompanied child(ren)/minor(s) until the unaccompanied child(ren)/minor(s) has boarded and the plane is airborne\", and has to give United the name, address and phone number(s) of the person meeting the child. United still requires the service for ages five to 14, offers it only on \"non-stop flights operated by UA and Carriers doing business as United Express\", and doesn't accept children under five traveling alone. The fee in the contract is also unchanged: \"a service charge of 150 USD/150 CAD assessed for each one-way journey\".\n\nUnited's own help pages haven't caught up. Its unaccompanied minors page (fetched November 12, 2026) says: \"For starters, make sure you arrive 30 minutes earlier than the minimum required check-in time.\" It also says \"Kids have to check in at the airport ticket counter when traveling alone.\" United's airport process page lists domestic check-in cutoffs of 30 minutes without checked bags and 45 with them. So under the help page's wording, a domestic drop-off without bags means arriving at least an hour before departure. The contract's new wording asks for an hour on top of \"regular airport processing times\", which it doesn't define.\n\nUnited didn't announce this change, and we found no coverage of it. The help page's fee table also doesn't match the contract. The contract says \"One service charge assessed for each one-way journey applies to two or more children traveling together on the same reservation.\" The help page charges $150 one way for 1-2 kids, $300 for 3-4 and $450 for 5-6.\n\n## Change 2: AI agents can't book, change or buy, and United may cancel what they touch\n\nThis is the change that was reported. A new definition in Rule 1 says: \"AI Agent means any software or service, including but not limited to an AI assistant, AI agent or AI-enabled browser that takes autonomous or semi-autonomous action, whether or not Passenger or another individual supervises or approves its actions, to discover, search for, book, purchase, ticket, service or manage any product or service offered by or through United\". The examples include \"AI assistants built into social media, messaging, search or other consumer platforms\", \"AI-enabled browsers and standalone AI agents\" and \"any third-party AI assistant that accesses United through a tool, application or connection provided by a travel agency or other intermediary.\"\n\nRule 6's list of Prohibited Practices used to have six items: hidden-city, throwaway and back-to-back ticketing, fare-rule circumvention, fraud, and \"Any practice that United believes, in its sole discretion, is exploitative\". It now has a seventh, inserted as item 6: \"The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product.\" The remedies section that follows applies to tickets booked \"in violation of the law, these rules or any fare rule\". It lets United \"Invalidate the Ticket(s)\", \"Permanently ban or refuse to board the Passenger\", and \"Delete miles, points, credits or any other benefits in or related to the Passenger's frequent flyer account\". Those remedies weren't new. What's new is that AI booking is now on the list they cover.\n\nRule 5's list of reservations \"that UA will cancel without notice\" used to end with \"reservations with connections that depart before the arrival on the inbound flight.\" It now ends with \"and reservations made, modified or serviced by AI Agents.\"\n\nUnited's help page on AI agents adds detail that isn't in the contract. \"You can still use AI to research and plan trips, as long as the tool doesn't access united.com or the United app. Assistive technology for customers with disabilities isn't affected.\" It says \"agent bookings made prior to November 11, 2026 will not be canceled\". On whether it works with any outside AI agents, the answer is \"Not yet\". It warns that an AI agent checking you in automatically \"could result in you missing important safety content\", and recommends changing your password if you have shared MileagePlus login details with an AI agent.\n\n## How this compares\n\nOther big US airlines have taken different approaches. Delta's website Terms of Use don't ban AI agents. They say that if you use a \"Third-Party Agent\", including an \"artificial intelligence assistant, automated agent\", \"you do so at your own risk\", that Delta \"reserves the right to refuse to recognize, interact with, or service any Third-Party Agent\", and that \"You agree to indemnify and hold Delta harmless\". The clause isn't in an April 17, 2026 Wayback capture and is in an October 13, 2026 one. Southwest's contract of carriage (59th revision, effective 11/06/2026) has no AI-agent language. The only change from the September 24 revision we found is in its same-day standby wording. Southwest launched a ChatGPT plugin on October 6 that hands you to Southwest.com to book.\n\n## What we couldn't check\n\nThe live contract is long, and our fetch of the November 11 text ended partway through Rule 21 (Refusal of Transport). So we compared Rules 1 through 21. Rules 22 to 30 (smoking, baggage, delays, denied boarding, rerouting, refunds, liability, complaints, personal data) weren't compared, and this revision may have changed them too.\n\nCoverage (checked November 12, 2026): The AI-agent ban was covered by View from the Wing, InsideFlyer, Bloomberg Law, PhocusWire, Fast Company, PPC Land and others. Terminair and Fast Company compared it with Delta and American. We found no coverage of the unaccompanied-minor change.",
-  "sources": [
-   [
-    "United Airlines Contract of Carriage (revised November 11, 2026)",
-    "https://www.united.com/en/us/fly/contract-of-carriage.html"
-   ],
-   [
-    "United Contract of Carriage (revised September 30, 2026), Wayback Machine capture Oct 17, 2026",
-    "https://web.archive.org/web/20261017160144/https://www.united.com/en/us/fly/contract-of-carriage.html"
-   ],
-   [
-    "United: Unaccompanied minors (help page)",
-    "https://www.united.com/en/us/fly/travel/accessibility-and-assistance/unaccompanied-minors.html"
-   ],
-   [
-    "United: Unauthorized third-party AI agents or assistants (help page)",
-    "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"
-   ],
-   [
-    "United: Airport process and check-in time limits",
-    "https://www.united.com/en/us/fly/travel/airport/airport-process.html"
-   ],
-   [
-    "PPC Land: United bans AI agents from buying its tickets, seats and upgrades",
-    "https://ppc.land/united-bans-ai-agents-from-buying-its-tickets-seats-and-upgrades/"
-   ],
-   [
-    "Fast Company: United Airlines just made a big change to flight bookings",
-    "https://www.fastcompany.com/91640548/united-airlines-just-made-a-big-change-to-flight-bookings-heres-why-delta-and-american-arent-following"
-   ],
-   [
-    "Delta Air Lines Terms of Use (Third-Party Agent clause)",
-    "https://www.delta.com/us/en/legal/terms-of-use"
-   ]
-  ],
-  "faq": [
-   [
-    "How early do I have to drop off an unaccompanied minor at United?",
-    "United's contract of carriage, revised November 11, 2026, says unaccompanied children must be brought to the departure airport by a parent, legal guardian or responsible adult \"60 minutes early (in addition to regular airport processing times shown for the airport).\" The September 30, 2026 version said 30 minutes. United's unaccompanied minors help page still says to \"arrive 30 minutes earlier than the minimum required check-in time,\" so the two don't match. The contract is the binding document."
-   ],
-   [
-    "When did United change the unaccompanied minor drop-off time?",
-    "Sometime after the September 30, 2026 revision. That version, captured by the Wayback Machine on October 17, 2026, says 30 minutes. The current version, \"revised November 11, 2026\", says 60. We couldn't confirm whether an intermediate revision existed between the two."
-   ],
-   [
-    "Did United change the unaccompanied minor fee?",
-    "No. The contract still says the service charge is \"150 USD/150 CAD assessed for each one-way journey\", and that \"One service charge assessed for each one-way journey applies to two or more children traveling together on the same reservation.\" United's help page has a different table: $150 one way for 1-2 kids, $300 for 3-4 and $450 for 5-6."
-   ],
-   [
-    "Can I use ChatGPT or another AI assistant to book a United flight?",
-    "Not to book, change or pay. Since November 11, 2026, United's contract of carriage prohibits \"The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product,\" and lets United cancel \"reservations made, modified or serviced by AI Agents.\" United's help page says \"You can still use AI to research and plan trips, as long as the tool doesn't access united.com or the United app.\""
-   ],
-   [
-    "Will United cancel a booking an AI agent made before November 11?",
-    "United's help page says \"agent bookings made prior to November 11, 2026 will not be canceled.\""
-   ],
-   [
-    "Does the AI-agent ban affect assistive technology?",
-    "United's help page says \"Assistive technology for customers with disabilities isn't affected.\" We didn't find that exception in the contract of carriage text itself."
-   ]
-  ]
- }
+  {
+    "service": "Robinhood",
+    "page": "pricing",
+    "headline": "Robinhood sets fees for its KPI binary options from Jan 1, 2027: up to 3 cents a contract, 6% of a 50-cent bet",
+    "tldr": "Robinhood's earnings-metric contracts are free only through Dec 31, 2026. From Jan 1 a fee formula kicks in: 3 cents on a 50-cent contract without Gold, 1.75 cents with it.",
+    "impact": 2,
+    "effective": "2027-01-01",
+    "deadline": "Fees start",
+    "themes": [
+      "price-creep"
+    ],
+    "url": "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf",
+    "who": "Robinhood customers who trade KPI binary options, the Cboe-listed yes/no contracts that pay $1 if a company's reported metric (like EPS or revenue) hits a strike; cheap long-shot contracts are hit hardest as a share of what you pay",
+    "seo_title": "Robinhood KPI binary options fees from Jan 1, 2027: the formula explained",
+    "seo_desc": "Robinhood's fee schedule now says KPI binary options are $0 through Dec 31, 2026, then charge a contract fee of 10% (5% with Gold) and an exchange fee of 2% times p(1-p) per contract. Worked examples inside.",
+    "redline": [
+      {
+        "before": "",
+        "after": "Contract Fee: $0 through December 31, 2026 Effective January 1, 2027 Total Contract Fee = (k × p × (1 − p) × c)",
+        "label": "Fee Schedule · KPI Binary Options · Contract Fee",
+        "note": "The launch promo has an end date, and the price after it is now in writing.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "k = 10% without a Robinhood Gold subscription ● k = 5% with a Robinhood Gold subscription",
+        "label": "Fee Schedule · KPI Binary Options · Contract Fee rate",
+        "note": "Gold members pay half the Robinhood contract fee.",
+        "src": "raw"
+      },
+      {
+        "before": "",
+        "after": "Total Exchange Fee = (k × p × (1 − p) × c) k = tier-based constant ● k = 2% ● k = 5% for “Professional” orders",
+        "label": "Fee Schedule · KPI Binary Options · Exchange Fee",
+        "note": "A second, exchange fee stacks on top, and both are rounded up to the next cent.",
+        "src": "raw"
+      }
+    ],
+    "actions": [
+      "If you trade KPI binary options, note that the fee-free period ends Dec 31, 2026",
+      "Before placing an order in 2027, work out the fee: multiply 12% (7% with Gold) by p × (1 − p) by the number of contracts, where p is the price in dollars",
+      "Check the current fee schedule at cdn.robinhood.com (RHF Fee Schedule PDF) before trading, since Robinhood says regulatory fees can change without notice"
+    ],
+    "what": "Robinhood Financial's fee schedule, revised Nov 10, 2026 (the PDF's own timestamp), adds a new row for KPI Binary Options, the yes/no contracts Cboe lists on company metrics such as earnings per share, revenue or a company's subscriber count. Each contract pays $1 if the reported figure meets the strike and nothing if it doesn't, so its price p sits between $0 and $1.\n\nChange 1: The fees are free only for now. Both the exchange fee and Robinhood's contract fee read \"$0 through December 31, 2026\", followed by \"Effective January 1, 2027\" and a formula.\n\nChange 2: The formula. Robinhood's Contract Fee is k × p × (1 − p) × c, with \"k = 10% without a Robinhood Gold subscription\" and \"k = 5% with a Robinhood Gold subscription\". The Exchange Fee uses the same formula with \"k = 2%\" (\"k = 5% for 'Professional' orders\"). Both are \"rounded up to the nearest $0.01 increment\". The contracts are also subject to the Regulatory Fee, Trading Activity Fee and CAT fee, with the CAT fee \"reduced to 1/100 of the standard rate\".\n\n## What that means in dollars\n\nOur arithmetic from the published formula, before the small regulatory fees: 100 contracts at 50 cents cost $50; from Jan 1 that order would carry a $2.50 contract fee plus a $0.50 exchange fee, $3.00 in total, or 6% of the stake ($1.75, or 3.5%, with Gold). Because p × (1 − p) shrinks more slowly than the price, cheap long shots pay more as a share of the stake: 100 contracts at 10 cents ($10) would carry $0.90 + $0.18 = $1.08, about 10.8%. At 90 cents the same $1.08 is about 1.2% of the $90 stake. The most any single contract can cost without Gold is 3 cents, at a 50-cent price.\n\nWhat stays the same: Stock and ETF trades stay commission-free, and the footnote says the $0.50-per-contract \"Professional\" options fee \"does not apply to KPI Binary Options\"; professional orders pay the 5% exchange-fee rate instead.\n\nThe rest of today's fee-schedule diff was the PDF's layout being reflowed; the transfer, wire, margin and debit card fees read the same as before.",
+    "sources": [
+      [
+        "Robinhood Financial fee schedule (PDF)",
+        "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+      ],
+      [
+        "Cboe and Robinhood announce planned launch of KPI contracts (Sep 30, 2026)",
+        "https://ir.cboe.com/news/news-details/2026/Cboe-and-Robinhood-Announce-Planned-Launch-of-New-KPI-Contracts-Further-Expanding-Prediction-Market-Offerings/default.aspx"
+      ]
+    ],
+    "faq": [
+      [
+        "Are Robinhood KPI binary options free?",
+        "Through December 31, 2026, yes: the fee schedule lists the exchange fee and contract fee as $0 until then. From January 1, 2027 both follow the formula k × p × (1 − p) × contracts."
+      ],
+      [
+        "How much will a KPI binary option cost to trade in 2027?",
+        "Without Gold, up to 3 cents per contract (at a 50-cent price) plus small regulatory fees; with Gold, up to 1.75 cents. On 100 contracts at 50 cents that's $3.00 without Gold or $1.75 with it."
+      ],
+      [
+        "Does Robinhood Gold lower the fee?",
+        "Yes. Robinhood's contract fee uses k = 5% with Gold instead of 10%; the 2% exchange fee is the same."
+      ]
+    ]
+  },
+  {
+    "service": "Xbox Game Pass",
+    "page": "pricing",
+    "headline": "Xbox Game Pass fine print: promo subscribers may not get Fortnite Crew benefits",
+    "tldr": "Xbox's Game Pass page now warns that some perks, including Fortnite Crew benefits, aren't available during a promotional period, and says a payment method rather than a credit card is required.",
+    "impact": 1,
+    "themes": [
+      "plan-shuffles"
+    ],
+    "url": "https://www.xbox.com/en-US/xbox-game-pass",
+    "who": "People signing up for Xbox Game Pass on a trial or promotional price, especially for the Fortnite Crew perk",
+    "redline": [
+      {
+        "before": "",
+        "after": "Some experiences not available during the promotional period, including Fortnite Crew benefits.",
+        "label": "Game Pass · Fine print",
+        "note": "A new carve-out: a discounted start may not include every advertised perk.",
+        "src": "raw"
+      },
+      {
+        "before": "Offers available in select regions only. Credit card required. After promotional period, subscription automatically continues at the then-current regular price (subject to change), unless canceled, plus applicable taxes.",
+        "after": "Offers are available for a limited time in select regions only. Valid payment method required. After promotional period, subscription automatically continues at the then-current regular price unless canceled.",
+        "label": "Game Pass · Promotional Offers",
+        "src": "raw"
+      }
+    ],
+    "actions": [
+      "If you're joining Game Pass on a promo for Fortnite Crew, confirm the benefit is included before you pay",
+      "Set a reminder before the promotional period ends; the subscription still renews at the regular price unless you cancel"
+    ],
+    "what": "The fine print on Xbox's Game Pass page was rewritten. A new line says \"Some experiences not available during the promotional period, including Fortnite Crew benefits.\" The promotional-offer terms now say \"Valid payment method required\" instead of \"Credit card required\", and \"Eligibility varies by offer; some offers are for new subscribers only.\" The renewal sentence still says the subscription \"automatically continues at the then-current regular price unless canceled\"; the words \"(subject to change)\" and \"plus applicable taxes\" were dropped from it. The subscription terms link moved from xbox.com/subscriptionterms to xbox.com/terms, now labeled \"XBOX Subscription and Cloud Terms\". Other edits trimmed the Rewards and gift card footnotes and reordered menu links."
+  },
+  {
+    "service": "Audible",
+    "page": "pricing",
+    "headline": "Audible's plan page drops the 'don't roll over' warning and lists its $229.50 plan as 12 credits",
+    "tldr": "Audible's Standard plan card no longer says unused monthly picks don't roll over, and the $229.50-a-year Premium card now reads \"12 creditos/año\" where it said 24 audiobooks.",
+    "impact": 1,
+    "themes": [
+      "plan-shuffles"
+    ],
+    "url": "https://www.audible.com/ep/memberbenefits",
+    "who": "People comparing Audible's Standard and annual Premium plans before signing up",
+    "redline": [
+      {
+        "before": "Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.",
+        "after": "Auto-renews at $8.99/mo after 30 days. Cancel anytime.",
+        "label": "Pricing · Standard",
+        "note": "The roll-over warning added Oct 23 is gone from the card; the FAQ still says Standard is 1 audiobook a month.",
+        "src": "raw"
+      },
+      {
+        "before": "24 audiobooks",
+        "after": "12 creditos/año",
+        "label": "Pricing · Premium Annual, $229.50/yr",
+        "note": "A Spanish label showing 12 credits on the plan that offered 24; it may be a page error, so check checkout.",
+        "src": "raw"
+      }
+    ],
+    "actions": [
+      "If you're buying the $229.50 annual Premium plan, confirm at checkout how many credits it includes before paying"
+    ],
+    "what": "Audible's member-benefits page changed its plan cards again. The Standard card dropped \"Unused monthly audiobook selections don't roll over\", the line we logged being added on Oct 23; the FAQ still describes Standard as selecting 1 audiobook a month. The two annual Premium cards now read \"12 audiobooks\" at \"$149.50 a year\" and, for the $229.50 plan, \"12 creditos/año\" (Spanish for 12 credits a year) with \"Save 16%\", where yesterday it said \"24 audiobooks\". The page doesn't explain the change, and the Spanish wording suggests a labeling error rather than a new allowance, so we'd treat the 24-credit plan as unconfirmed until Audible's checkout says otherwise. The headline also changed from \"Access our 1M+ catalog with membership\" to \"Choose the plan that's right for you\", and the monthly cards now say \"30-day free trial\"."
+  },
+  {
+    "service": "United Airlines",
+    "page": "terms",
+    "headline": "United's new contract of carriage doubles how early kids flying alone must be dropped off, to 60 minutes, next to its AI-agent ban",
+    "tldr": "United's Nov 11 contract of carriage says an unaccompanied minor must be brought to the airport 60 minutes early, up from 30. United's own help page still says 30. The same revision bans booking with AI agents.",
+    "impact": 2,
+    "effective": "2026-11-11",
+    "deadline": "Took effect",
+    "themes": [
+      "accept-or-else",
+      "ai-and-your-data"
+    ],
+    "url": "https://www.united.com/en/us/fly/contract-of-carriage.html",
+    "who": "Parents and guardians sending a child aged 5 to 14 alone on United or United Express (unaccompanied minor service is mandatory at those ages, optional at 15 to 17), and anyone who uses an AI assistant, AI browser or travel-agency AI tool to book or manage United trips.",
+    "seo_title": "United contract of carriage (Nov 11, 2026): unaccompanied minors 60 minutes early, AI agents banned",
+    "seo_desc": "United's contract of carriage revised November 11, 2026 says unaccompanied minors must be brought to the airport 60 minutes early (was 30), while United's help page still says 30. It also bans booking with AI agents. Before/after text.",
+    "redline": [
+      {
+        "before": "Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 30 minutes early (in addition to regular airport processing times shown for the airport).",
+        "after": "Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 60 minutes early (in addition to regular airport processing times shown for the airport).",
+        "label": "Contract of Carriage · Rule 13, Children/Minors Traveling Unaccompanied (revised September 30, 2026 vs. revised November 11, 2026)",
+        "note": "One number changed: 30 minutes became 60. The rest of the paragraph is word for word the same. United's unaccompanied minors help page still tells parents to \"arrive 30 minutes earlier than the minimum required check-in time.\"",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product.",
+        "label": "Contract of Carriage · Rule 6, Prohibited Practices (new item 6, revised November 11, 2026)",
+        "note": "Added to the same list as hidden-city, throwaway and back-to-back ticketing. Rule 5 now also lists \"reservations made, modified or serviced by AI Agents\" among the reservations United will cancel without notice.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "AI Agent means any software or service, including but not limited to an AI assistant, AI agent or AI-enabled browser that takes autonomous or semi-autonomous action, whether or not Passenger or another individual supervises or approves its actions",
+        "label": "Contract of Carriage · Rule 1, Definitions (new, revised November 11, 2026)",
+        "note": "Approving each step yourself doesn't take a tool outside the definition.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "If you're sending a child alone on United, plan to hand them over 60 minutes earlier than the airport's normal processing time, as the November 11 contract says, not the 30 minutes United's help page still lists. Check in at the ticket counter (unaccompanied minors can't check in online)",
+      "Book, change and pay for United trips yourself on united.com or the United app. You can still use AI for research, but finish the booking on United's own site or app, since United says it may cancel reservations an AI agent made, modified or serviced on or after November 11",
+      "If you've given an AI tool your MileagePlus login, change your password, as United recommends"
+    ],
+    "what": "United's Contract of Carriage, the legal terms for every United and United Express passenger, now reads \"(revised November 11, 2026)\". Its preamble says you accept it \"By purchasing a ticket or accepting transportation\". The AI-agent ban in this revision got plenty of coverage on November 11 and 12, from travel blogs, Bloomberg Law, PhocusWire, Fast Company and PPC Land. We compared the live text (fetched November 12, 2026) with the September 30, 2026 revision, captured by the Wayback Machine on October 17, 2026. One other change in the rules we compared hasn't been reported anywhere we could find. It affects parents sending kids on holiday flights alone.\n\n## Change 1: kids flying alone must be dropped off 60 minutes early, not 30\n\nRule 13 covers children and minors. In the September 30 version, it said: \"Unaccompanied children/minors must be brought to the airport of departure by a parent, legal guardian, or responsible adult 30 minutes early (in addition to regular airport processing times shown for the airport).\" The November 11 version says the same thing with one number changed: \"60 minutes early (in addition to regular airport processing times shown for the airport).\"\n\nThe rest of the paragraph hasn't changed. The adult \"shall remain with the unaccompanied child(ren)/minor(s) until the unaccompanied child(ren)/minor(s) has boarded and the plane is airborne\", and has to give United the name, address and phone number(s) of the person meeting the child. United still requires the service for ages five to 14, offers it only on \"non-stop flights operated by UA and Carriers doing business as United Express\", and doesn't accept children under five traveling alone. The fee in the contract is also unchanged: \"a service charge of 150 USD/150 CAD assessed for each one-way journey\".\n\nUnited's own help pages haven't caught up. Its unaccompanied minors page (fetched November 12, 2026) says: \"For starters, make sure you arrive 30 minutes earlier than the minimum required check-in time.\" It also says \"Kids have to check in at the airport ticket counter when traveling alone.\" United's airport process page lists domestic check-in cutoffs of 30 minutes without checked bags and 45 with them. So under the help page's wording, a domestic drop-off without bags means arriving at least an hour before departure. The contract's new wording asks for an hour on top of \"regular airport processing times\", which it doesn't define.\n\nUnited didn't announce this change, and we found no coverage of it. The help page's fee table also doesn't match the contract. The contract says \"One service charge assessed for each one-way journey applies to two or more children traveling together on the same reservation.\" The help page charges $150 one way for 1-2 kids, $300 for 3-4 and $450 for 5-6.\n\n## Change 2: AI agents can't book, change or buy, and United may cancel what they touch\n\nThis is the change that was reported. A new definition in Rule 1 says: \"AI Agent means any software or service, including but not limited to an AI assistant, AI agent or AI-enabled browser that takes autonomous or semi-autonomous action, whether or not Passenger or another individual supervises or approves its actions, to discover, search for, book, purchase, ticket, service or manage any product or service offered by or through United\". The examples include \"AI assistants built into social media, messaging, search or other consumer platforms\", \"AI-enabled browsers and standalone AI agents\" and \"any third-party AI assistant that accesses United through a tool, application or connection provided by a travel agency or other intermediary.\"\n\nRule 6's list of Prohibited Practices used to have six items: hidden-city, throwaway and back-to-back ticketing, fare-rule circumvention, fraud, and \"Any practice that United believes, in its sole discretion, is exploitative\". It now has a seventh, inserted as item 6: \"The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product.\" The remedies section that follows applies to tickets booked \"in violation of the law, these rules or any fare rule\". It lets United \"Invalidate the Ticket(s)\", \"Permanently ban or refuse to board the Passenger\", and \"Delete miles, points, credits or any other benefits in or related to the Passenger's frequent flyer account\". Those remedies weren't new. What's new is that AI booking is now on the list they cover.\n\nRule 5's list of reservations \"that UA will cancel without notice\" used to end with \"reservations with connections that depart before the arrival on the inbound flight.\" It now ends with \"and reservations made, modified or serviced by AI Agents.\"\n\nUnited's help page on AI agents adds detail that isn't in the contract. \"You can still use AI to research and plan trips, as long as the tool doesn't access united.com or the United app. Assistive technology for customers with disabilities isn't affected.\" It says \"agent bookings made prior to November 11, 2026 will not be canceled\". On whether it works with any outside AI agents, the answer is \"Not yet\". It warns that an AI agent checking you in automatically \"could result in you missing important safety content\", and recommends changing your password if you have shared MileagePlus login details with an AI agent.\n\n## How this compares\n\n**Drop-off times for kids flying alone.** The big US airlines measure this differently, so the numbers don't line up neatly. American's unaccompanied minors page says: \"Arrive at least 2 hours before the scheduled departure time of your child's flight and speak with a ticket counter agent.\" Delta's consumer page gives no drop-off time. Its travel-agent guide says adults \"should report to the airport 2 hours prior to scheduled departure or arrival and obtain a gate pass at the ticket counter\". Both of those are totals counted back from departure. United's contract now asks for 60 minutes \"in addition to regular airport processing times shown for the airport\", so it is extra time on top of whatever that airport normally needs, and the contract doesn't say what that is. United's help page, with its \"30 minutes earlier than the minimum required check-in time\", is the only one of the three that ties the extra time to the check-in cutoff. American also charges $150 each way and says \"This fee covers additional siblings on the same flight.\" (Pages fetched November 12, 2026.)\n\n**AI agents.** Other big US airlines have taken different approaches. Delta's website Terms of Use don't ban AI agents. They say that if you use a \"Third-Party Agent\", including an \"artificial intelligence assistant, automated agent\", \"you do so at your own risk\", that Delta \"reserves the right to refuse to recognize, interact with, or service any Third-Party Agent\", and that \"You agree to indemnify and hold Delta harmless\". The clause isn't in an April 17, 2026 Wayback capture and is in an October 13, 2026 one. Southwest's contract of carriage (59th revision, effective 11/06/2026) has no AI-agent language. The only change from the September 24 revision we found is in its same-day standby wording. Southwest launched a ChatGPT plugin on October 6 that hands you to Southwest.com to book.\n\n## What we couldn't check\n\nThe live contract is long, and our fetch of the November 11 text ended partway through Rule 21 (Refusal of Transport). So we compared Rules 1 through 21. Rules 22 to 30 (smoking, baggage, delays, denied boarding, rerouting, refunds, liability, complaints, personal data) weren't compared, and this revision may have changed them too.\n\nCoverage (checked November 12, 2026): The AI-agent ban was covered by View from the Wing, InsideFlyer, Bloomberg Law, PhocusWire, Fast Company, PPC Land and others. Terminair and Fast Company compared it with Delta and American. We found no coverage of the unaccompanied-minor change.",
+    "sources": [
+      [
+        "United Airlines Contract of Carriage (revised November 11, 2026)",
+        "https://www.united.com/en/us/fly/contract-of-carriage.html"
+      ],
+      [
+        "United Contract of Carriage (revised September 30, 2026), Wayback Machine capture Oct 17, 2026",
+        "https://web.archive.org/web/20261017160144/https://www.united.com/en/us/fly/contract-of-carriage.html"
+      ],
+      [
+        "United: Unaccompanied minors (help page)",
+        "https://www.united.com/en/us/fly/travel/accessibility-and-assistance/unaccompanied-minors.html"
+      ],
+      [
+        "United: Unauthorized third-party AI agents or assistants (help page)",
+        "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"
+      ],
+      [
+        "United: Airport process and check-in time limits",
+        "https://www.united.com/en/us/fly/travel/airport/airport-process.html"
+      ],
+      [
+        "PPC Land: United bans AI agents from buying its tickets, seats and upgrades",
+        "https://ppc.land/united-bans-ai-agents-from-buying-its-tickets-seats-and-upgrades/"
+      ],
+      [
+        "Fast Company: United Airlines just made a big change to flight bookings",
+        "https://www.fastcompany.com/91640548/united-airlines-just-made-a-big-change-to-flight-bookings-heres-why-delta-and-american-arent-following"
+      ],
+      [
+        "Delta Air Lines Terms of Use (Third-Party Agent clause)",
+        "https://www.delta.com/us/en/legal/terms-of-use"
+      ],
+      [
+        "American Airlines: Unaccompanied minors",
+        "https://www.aa.com/i18n/travel-info/special-assistance/unaccompanied-minors.jsp"
+      ],
+      [
+        "Delta: Unaccompanied Minor Program",
+        "https://www.delta.com/us/en/children-infant-travel/unaccompanied-minor-program"
+      ],
+      [
+        "Delta Pro (travel agents): Unaccompanied Minor (UMNR) Service",
+        "https://pro.delta.com/content/agency/emea/en/products-and-services/special-services/unaccompanied-minor--umnr--service.html"
+      ]
+    ],
+    "faq": [
+      [
+        "How early do I have to drop off an unaccompanied minor at United?",
+        "United's contract of carriage, revised November 11, 2026, says unaccompanied children must be brought to the departure airport by a parent, legal guardian or responsible adult \"60 minutes early (in addition to regular airport processing times shown for the airport).\" The September 30, 2026 version said 30 minutes. United's unaccompanied minors help page still says to \"arrive 30 minutes earlier than the minimum required check-in time,\" so the two don't match. The contract is the binding document."
+      ],
+      [
+        "When did United change the unaccompanied minor drop-off time?",
+        "Sometime after the September 30, 2026 revision. That version, captured by the Wayback Machine on October 17, 2026, says 30 minutes. The current version, \"revised November 11, 2026\", says 60. We couldn't confirm whether an intermediate revision existed between the two."
+      ],
+      [
+        "How does United's drop-off rule compare with American and Delta?",
+        "They count differently. American says to \"Arrive at least 2 hours before the scheduled departure time\" and Delta's travel-agent guide says adults \"should report to the airport 2 hours prior to scheduled departure or arrival\". Those are totals before departure. United's contract asks for 60 minutes \"in addition to regular airport processing times shown for the airport\", so it comes on top of the airport's normal time."
+      ],
+      [
+        "Did United change the unaccompanied minor fee?",
+        "No. The contract still says the service charge is \"150 USD/150 CAD assessed for each one-way journey\", and that \"One service charge assessed for each one-way journey applies to two or more children traveling together on the same reservation.\" United's help page has a different table: $150 one way for 1-2 kids, $300 for 3-4 and $450 for 5-6."
+      ],
+      [
+        "Can I use ChatGPT or another AI assistant to book a United flight?",
+        "Not to book, change or pay. Since November 11, 2026, United's contract of carriage prohibits \"The use of AI Agents to make, modify or service a Ticket, and/or to purchase any service or product,\" and lets United cancel \"reservations made, modified or serviced by AI Agents.\" United's help page says \"You can still use AI to research and plan trips, as long as the tool doesn't access united.com or the United app.\""
+      ],
+      [
+        "Will United cancel a booking an AI agent made before November 11?",
+        "United's help page says \"agent bookings made prior to November 11, 2026 will not be canceled.\""
+      ],
+      [
+        "Does the AI-agent ban affect assistive technology?",
+        "United's help page says \"Assistive technology for customers with disabilities isn't affected.\" We didn't find that exception in the contract of carriage text itself."
+      ]
+    ],
+    "modified": "2026-11-12"
+  },
+  {
+    "service": "Google Play",
+    "page": "terms",
+    "headline": "Dec 17 terms in many countries: same Play-services Content change as the US Nov 17 preview",
+    "tldr": "In Australia, New Zealand and several other countries, Google Play's terms preview is dated Dec 17, not Nov 17. It makes the same Play-services Content change as the US preview.",
+    "impact": 2,
+    "themes": [
+      "not-our-problem"
+    ],
+    "effective": "2026-12-17",
+    "deadline": "New terms take effect",
+    "url": "https://play.google/intl/ALL_gg/play-terms/index-update.html",
+    "who": "People who use Google Play under a country page that shows a December 17, 2026 update notice, including Australia, New Zealand, Singapore, South Africa, Thailand, and Indonesia. US and Canadian pages still say November 17.",
+    "seo_title": "Google Play terms update Dec 17, 2026: same preview as the US Nov 17 change, for many non-US countries",
+    "seo_desc": "Google's Play terms pages for Australia, New Zealand and other countries say the update is Dec 17, 2026. The preview matches the US Nov 17 text, including Play services as Content. US and Canada stay on Nov 17.",
+    "redline": [
+      {
+        "before": "apps (including Android Instant Apps), games, books, or other digital content or services, including in-app digital content or services",
+        "after": "apps (including Android Instant Apps), games, books, or other digital content or services available through the Play Store, and system services (including, but not limited to, those provided by Google Play services)",
+        "label": "Play Terms · Content definition (Dec 17 preview)",
+        "note": "System services, including Google Play services, are pulled into the definition of Content. The US November 17 preview uses the same words.",
+        "src": "quoted"
+      },
+      {
+        "before": "in connection with your use and viewing of Content and Google Play",
+        "after": "in connection with Content and Google Play, including any use, installation, viewing, and maintenance on your device of Content and Google Play",
+        "label": "Play Terms · Third-Party Fees (Dec 17 preview)",
+        "note": "On the current page that carries the December 17 notice, this fee sentence is still shorter. The US terms dated July 29, 2026 already use the longer wording.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "If you use Play outside the US, open your local Play terms page and read the date in the notice at the top; the US and Canada pages still say November 17, 2026",
+      "Read the preview linked from that notice before December 17, 2026",
+      "The US November 17 preview is compared in our earlier article"
+    ],
+    "what": "Google's own Play terms pages use two dates for what is essentially the same preview.\n\n## The date depends on the country page\n\nThe US pages (play.google.com/about/play-terms/ and play.google.com/intl/en_us/about/play-terms/index.html), both fetched November 12, 2026, still say: \"We're updating our Play Terms of Service on November 17, 2026. Until then, the Terms below continue to apply.\" Canada's pages say the same. We already covered that US preview.\n\nOther official Google pages use December 17. The current terms at play.google/intl/ALL_gg/play-terms/, dated July 29, 2026, say: \"We're updating our Play Terms of Service on December 17, 2026.\" The linked preview is dated December 17, 2026. We also saw a December 17 notice on Google's Australia, New Zealand, Singapore, and South Africa pages, and on the Thailand and Indonesia pages (17 ธันวาคม 2569 and 17 Desember 2026). The United Kingdom, Ireland, and Germany pages we checked showed older terms and no November 17 or December 17 banner.\n\n## Change 1: \"Content\" includes Google Play services\n\nThe current terms on the generic page define Content as the apps (including Android Instant Apps), games, books, \"or other digital content or services, including in-app digital content or services.\" The December 17 preview says: \"other digital content or services available through the Play Store, and system services (including, but not limited to, those provided by Google Play services).\" That is the same wording as the US November 17 preview. A separate System Services section, describing background cellular data use when the screen is locked, is already in the current July 29 terms on that page.\n\n## Change 2: Third-party fees, including install and maintenance\n\nOn the current generic page, the Third-Party Fees clause says you are responsible for access or data fees from third parties \"in connection with your use and viewing of Content and Google Play.\" The December 17 preview lengthens this to fees \"in connection with Content and Google Play, including any use, installation, viewing, and maintenance on your device of Content and Google Play,\" and adds: \"This includes fees for data usage that may occur in the background when you are not directly interacting with Content or your device.\"\n\nThat longer fee sentence is already in the current US terms dated July 29, 2026. It is new on the generic current page that carries the December 17 notice, which is why some coverage of a December 17 email has treated the install and maintenance fees as a December change. For US users, those fees are not new on either date.\n\n## Other edits, and what is not a second US update\n\nThe December 17 preview also tells you to \"notify the Provider\" about errors or defects, dropping \"us or\" (Google) as a contact; it drops the cancellation-clause example \"(for example where Content is defective)\"; it describes trials as access \"at no charge for a specified trial period,\" without \"or at a reduced price\"; and it lets \"the Provider or Google or its affiliates\" collect taxes, where the current page says \"the seller of Content or Google.\" All of those edits also appear in the US November 17 preview.\n\nThe only material wording difference we found between the two previews is the seller. The US preview says you contract with Google LLC or the Provider. The December 17 preview says Google Commerce Limited (GCL) or the Provider.\n\nThis is not a later, separate update for people on the US or Canadian pages. Those pages still point to November 17. December 17 is the date on the country pages listed above.\n\nCoverage (checked Nov 12, 2026): Cairo24 and a blog repost of a Google email described a December 17, 2026 Play terms update. We are not treating those as primary sources. The dates and quotes above are from Google's own Play terms and preview pages, fetched November 12, 2026.",
+    "faq": [
+      [
+        "Is December 17 a second Google Play terms update for US users?",
+        "No. The US and Canadian Play terms pages we fetched on Nov 12, 2026, still say the update is November 17, 2026, and they still link to a preview dated November 17. December 17 appears on other official Google country pages, including Australia, New Zealand, Singapore, South Africa, Thailand, and Indonesia."
+      ],
+      [
+        "Does the December 17 preview change something the November 17 US preview does not?",
+        "The Content definition, defective-purchase contact, trial clause, and tax clause match. The December 17 preview names Google Commerce Limited as the seller; the US preview names Google LLC. The longer third-party fee sentence (install, maintenance, and background data) is new on the generic current page, but it is already in the current US terms dated July 29, 2026."
+      ],
+      [
+        "When do the new terms take effect?",
+        "On the US and Canadian pages: November 17, 2026. On the official pages that carry a December 17 notice, including play.google/intl/ALL_gg/play-terms/: December 17, 2026. Check the notice at the top of your local Play terms page."
+      ]
+    ],
+    "sources": [
+      [
+        "Google Play Terms of Service, current, with Dec 17 notice (fetched Nov 12, 2026)",
+        "https://play.google/intl/ALL_gg/play-terms/"
+      ],
+      [
+        "Google Play Terms of Service, preview dated December 17, 2026 (fetched Nov 12, 2026)",
+        "https://play.google/intl/ALL_gg/play-terms/index-update.html"
+      ],
+      [
+        "Google Play Terms of Service, US current, with Nov 17 notice (fetched Nov 12, 2026)",
+        "https://play.google.com/about/play-terms/"
+      ],
+      [
+        "Google Play Terms of Service, US preview dated November 17, 2026 (fetched Nov 12, 2026)",
+        "https://play.google.com/intl/ALL_us/about/play-terms/index-update.html"
+      ],
+      [
+        "Our Nov 17 US Play terms article",
+        "https://quietlychanged.com/changes/2026-10-20-google-play-nov-17-terms-report-broken-purchases-to-the-developer-not-google-pl/"
+      ]
+    ]
+  }
 ]

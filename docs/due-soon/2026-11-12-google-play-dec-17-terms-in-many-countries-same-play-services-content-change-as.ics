@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Google Play · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-12-google-play-dec-17-terms-in-many-countries-same-play-servic
+ es-content-change-as@quietlychanged.com
+DTSTAMP:20261112T220106Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Google Play: New terms take effect
+DESCRIPTION:In Australia\, New Zealand and several other countries\, Googl
+ e Play's terms preview is dated Dec 17\, not Nov 17. It makes the same Pl
+ ay-services Content change as the US preview.\n\nhttps://quietlychanged.c
+ om/changes/2026-11-12-google-play-dec-17-terms-in-many-countries-same-pla
+ y-services-content-change-as/
+URL:https://quietlychanged.com/changes/2026-11-12-google-play-dec-17-terms
+ -in-many-countries-same-play-services-content-change-as/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Google Play — New terms take effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
