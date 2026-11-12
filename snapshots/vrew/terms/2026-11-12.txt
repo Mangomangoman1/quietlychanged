@@ -1,0 +1,56 @@
+Upcoming changes to Vrew Terms of Service and Privacy Policy on <DATE>
+Hello from the Vrew team.
+We're continuing to develop Vrew to make creating the videos you want easier with AI, from generating images and videos to editing them. We want to better understand what you're trying to create and provide help that fits your creative process.
+To support these changes, we're updating our Terms of Service and Privacy Policy effective <DATE>. We're changing the account rules to allow only one account per person, and we'll use AI to analyze project content and editing history to provide a personalized editing experience. Here are the details.
+Key changes to the Terms of Service
+Only one account per person is allowed.
+Starting December 1, you may use only one account, even if you have different email addresses.
+Item
+Current
+Revised
+Number of accounts
+The Service supports only one account per email address.
+Article 5, Paragraph 1
+Only one account is permitted per User for the Service.
+Article 6, Paragraph 1
+One person may not use multiple accounts.
+The plan changes taking effect on December 1 will give you more options to choose a plan that fits your usage. If you run out of credits, you'll also be able to purchase Additional Credits on a paid plan. If you've been using multiple paid accounts because the existing plan options were limited, please use a single account going forward.
+[Learn more about the plan changes]
+Multiple people may not share one account.
+Please create and use a separate account for each person, so that people's materials and usage histories don't get mixed together in a shared account.
+This applies whenever multiple people currently share an account, including within companies and teams. Please prepare to use your own accounts before the revised Terms take effect on December 1.
+We also understand that there are practical reasons why people may need to share an account. Separately from this update to the Terms of Service, the Vrew team is working on a way for companies and teams to manage multiple people's accounts more easily. We'll share more information once the details are decided.
+Other changes to the Terms of Service
+We've also clarified rules that weren't clearly covered in the current Terms, including rights to and use of content, and the procedures for restricting use when the Terms are violated. Please see the revised Terms of Service below for details.
+[View the current Terms of Service]
+[View the revised Terms of Service]
+Key changes to the Privacy Policy
+We're introducing AI analysis to provide an editing experience that fits your work.
+To understand creative patterns, such as video topics and editing styles, and offer help that fits them, we'll use AI to analyze project content and editing history.
+The analysis will also cover materials in your projects, such as images, videos, audio, and captions (assets). We'll organize the results into information such as categories that classify video topics and summaries that condense the content, and use this information to provide an editing experience better suited to you.
+Information processed
+Purpose
+Retention period
+Project categories, summaries, and assets; your editing history
+Provision of personalized services
+Until you delete your account
+New processing category · Revised Privacy Policy, Article 1, Paragraph 1, “Provision of personalized services”
+As before, Vrew uses your information only for the purposes stated in the Privacy Policy. We also want to make clear that we do not use your information to train AI for any purpose other than providing the personalized editing experience described here.
+Item
+Current
+Revised
+AI analysis for personalization
+The Company does not use project files or the content contained in projects for training, does not arbitrarily access or analyze the content of such files without the user's consent, and ensures that even with consent only the minimum necessary personnel can access such content.
+Article 1, footnote to “Provision of personal cloud service”
+In order to provide an optimized and personalized editing experience to the user, the Company analyzes the contents and assets of projects and the user's editing history using artificial intelligence. The Company does not use the user's information for training artificial intelligence other than for this purpose.
+Article 1, footnote (**) to “Provision of personalized services”
+Other changes to the Privacy Policy
+We've also added user survey responses to the information processed to improve service features. We've updated the details of service providers located outside South Korea that handle tasks such as AI features and inquiry support, including the information transferred, its purposes, and retention rules. Please see the revised Privacy Policy below for details.
+[View the current Privacy Policy]
+[View the revised Privacy Policy]
+Questions and notice of changes to the Terms of Service
+If you have any questions about these changes, please contact us in Vrew through [Help] - [Support] - [Chat Support].
+If you do not agree to the revised Terms of Service, please let us know through the chat support above by <DATE>. You may also delete your account to terminate your service agreement.
+If you do not let us know that you object by the effective date, we will consider you to have agreed to the revised Terms of Service and apply them from December 1.
+We'll keep improving Vrew to make it easier for you to create the videos you want.
+The Vrew team

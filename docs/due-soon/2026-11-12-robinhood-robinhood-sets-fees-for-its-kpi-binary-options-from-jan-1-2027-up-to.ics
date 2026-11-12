@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Robinhood · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-12-robinhood-robinhood-sets-fees-for-its-kpi-binary-options-fr
+ om-jan-1-2027-up-to@quietlychanged.com
+DTSTAMP:20261112T131404Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Robinhood: Fees start
+DESCRIPTION:Robinhood's earnings-metric contracts are free only through De
+ c 31\, 2026. From Jan 1 a fee formula kicks in: 3 cents on a 50-cent cont
+ ract without Gold\, 1.75 cents with it.\n\nhttps://quietlychanged.com/cha
+ nges/2026-11-12-robinhood-robinhood-sets-fees-for-its-kpi-binary-options-
+ from-jan-1-2027-up-to/
+URL:https://quietlychanged.com/changes/2026-11-12-robinhood-robinhood-sets
+ -fees-for-its-kpi-binary-options-from-jan-1-2027-up-to/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Robinhood — Fees start
+END:VALARM
+END:VEVENT
+END:VCALENDAR

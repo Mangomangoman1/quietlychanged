@@ -1,0 +1,114 @@
+[
+ {
+  "service": "Robinhood",
+  "page": "pricing",
+  "headline": "Robinhood sets fees for its KPI binary options from Jan 1, 2027: up to 3 cents a contract, 6% of a 50-cent bet",
+  "tldr": "Robinhood's earnings-metric contracts are free only through Dec 31, 2026. From Jan 1 a fee formula kicks in: 3 cents on a 50-cent contract without Gold, 1.75 cents with it.",
+  "impact": 2,
+  "effective": "2027-01-01",
+  "deadline": "Fees start",
+  "themes": ["price-creep"],
+  "url": "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf",
+  "who": "Robinhood customers who trade KPI binary options, the Cboe-listed yes/no contracts that pay $1 if a company's reported metric (like EPS or revenue) hits a strike; cheap long-shot contracts are hit hardest as a share of what you pay",
+  "seo_title": "Robinhood KPI binary options fees from Jan 1, 2027: the formula explained",
+  "seo_desc": "Robinhood's fee schedule now says KPI binary options are $0 through Dec 31, 2026, then charge a contract fee of 10% (5% with Gold) and an exchange fee of 2% times p(1-p) per contract. Worked examples inside.",
+  "redline": [
+   {
+    "before": "",
+    "after": "Contract Fee: $0 through December 31, 2026 Effective January 1, 2027 Total Contract Fee = (k × p × (1 − p) × c)",
+    "label": "Fee Schedule · KPI Binary Options · Contract Fee",
+    "note": "The launch promo has an end date, and the price after it is now in writing.",
+    "src": "quoted"
+   },
+   {
+    "before": "",
+    "after": "k = 10% without a Robinhood Gold subscription ● k = 5% with a Robinhood Gold subscription",
+    "label": "Fee Schedule · KPI Binary Options · Contract Fee rate",
+    "note": "Gold members pay half the Robinhood contract fee.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "Total Exchange Fee = (k × p × (1 − p) × c) k = tier-based constant ● k = 2% ● k = 5% for “Professional” orders",
+    "label": "Fee Schedule · KPI Binary Options · Exchange Fee",
+    "note": "A second, exchange fee stacks on top, and both are rounded up to the next cent.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you trade KPI binary options, note that the fee-free period ends Dec 31, 2026",
+   "Before placing an order in 2027, work out the fee: multiply 12% (7% with Gold) by p × (1 − p) by the number of contracts, where p is the price in dollars",
+   "Check the current fee schedule at cdn.robinhood.com (RHF Fee Schedule PDF) before trading, since Robinhood says regulatory fees can change without notice"
+  ],
+  "what": "Robinhood Financial's fee schedule, revised Nov 10, 2026 (the PDF's own timestamp), adds a new row for KPI Binary Options, the yes/no contracts Cboe lists on company metrics such as earnings per share, revenue or a company's subscriber count. Each contract pays $1 if the reported figure meets the strike and nothing if it doesn't, so its price p sits between $0 and $1.\n\nChange 1: The fees are free only for now. Both the exchange fee and Robinhood's contract fee read \"$0 through December 31, 2026\", followed by \"Effective January 1, 2027\" and a formula.\n\nChange 2: The formula. Robinhood's Contract Fee is k × p × (1 − p) × c, with \"k = 10% without a Robinhood Gold subscription\" and \"k = 5% with a Robinhood Gold subscription\". The Exchange Fee uses the same formula with \"k = 2%\" (\"k = 5% for 'Professional' orders\"). Both are \"rounded up to the nearest $0.01 increment\". The contracts are also subject to the Regulatory Fee, Trading Activity Fee and CAT fee, with the CAT fee \"reduced to 1/100 of the standard rate\".\n\n## What that means in dollars\n\nOur arithmetic from the published formula, before the small regulatory fees: 100 contracts at 50 cents cost $50; from Jan 1 that order would carry a $2.50 contract fee plus a $0.50 exchange fee, $3.00 in total, or 6% of the stake ($1.75, or 3.5%, with Gold). Because p × (1 − p) shrinks more slowly than the price, cheap long shots pay more as a share of the stake: 100 contracts at 10 cents ($10) would carry $0.90 + $0.18 = $1.08, about 10.8%. At 90 cents the same $1.08 is about 1.2% of the $90 stake. The most any single contract can cost without Gold is 3 cents, at a 50-cent price.\n\nWhat stays the same: Stock and ETF trades stay commission-free, and the footnote says the $0.50-per-contract \"Professional\" options fee \"does not apply to KPI Binary Options\"; professional orders pay the 5% exchange-fee rate instead.\n\nThe rest of today's fee-schedule diff was the PDF's layout being reflowed; the transfer, wire, margin and debit card fees read the same as before.",
+  "sources": [
+   ["Robinhood Financial fee schedule (PDF)", "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"],
+   ["Cboe and Robinhood announce planned launch of KPI contracts (Sep 30, 2026)", "https://ir.cboe.com/news/news-details/2026/Cboe-and-Robinhood-Announce-Planned-Launch-of-New-KPI-Contracts-Further-Expanding-Prediction-Market-Offerings/default.aspx"]
+  ],
+  "faq": [
+   ["Are Robinhood KPI binary options free?", "Through December 31, 2026, yes: the fee schedule lists the exchange fee and contract fee as $0 until then. From January 1, 2027 both follow the formula k × p × (1 − p) × contracts."],
+   ["How much will a KPI binary option cost to trade in 2027?", "Without Gold, up to 3 cents per contract (at a 50-cent price) plus small regulatory fees; with Gold, up to 1.75 cents. On 100 contracts at 50 cents that's $3.00 without Gold or $1.75 with it."],
+   ["Does Robinhood Gold lower the fee?", "Yes. Robinhood's contract fee uses k = 5% with Gold instead of 10%; the 2% exchange fee is the same."]
+  ]
+ },
+ {
+  "service": "Xbox Game Pass",
+  "page": "pricing",
+  "headline": "Xbox Game Pass fine print: promo subscribers may not get Fortnite Crew benefits",
+  "tldr": "Xbox's Game Pass page now warns that some perks, including Fortnite Crew benefits, aren't available during a promotional period, and says a payment method rather than a credit card is required.",
+  "impact": 1,
+  "themes": ["plan-shuffles"],
+  "url": "https://www.xbox.com/en-US/xbox-game-pass",
+  "who": "People signing up for Xbox Game Pass on a trial or promotional price, especially for the Fortnite Crew perk",
+  "redline": [
+   {
+    "before": "",
+    "after": "Some experiences not available during the promotional period, including Fortnite Crew benefits.",
+    "label": "Game Pass · Fine print",
+    "note": "A new carve-out: a discounted start may not include every advertised perk.",
+    "src": "raw"
+   },
+   {
+    "before": "Offers available in select regions only. Credit card required. After promotional period, subscription automatically continues at the then-current regular price (subject to change), unless canceled, plus applicable taxes.",
+    "after": "Offers are available for a limited time in select regions only. Valid payment method required. After promotional period, subscription automatically continues at the then-current regular price unless canceled.",
+    "label": "Game Pass · Promotional Offers",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you're joining Game Pass on a promo for Fortnite Crew, confirm the benefit is included before you pay",
+   "Set a reminder before the promotional period ends; the subscription still renews at the regular price unless you cancel"
+  ],
+  "what": "The fine print on Xbox's Game Pass page was rewritten. A new line says \"Some experiences not available during the promotional period, including Fortnite Crew benefits.\" The promotional-offer terms now say \"Valid payment method required\" instead of \"Credit card required\", and \"Eligibility varies by offer; some offers are for new subscribers only.\" The renewal sentence still says the subscription \"automatically continues at the then-current regular price unless canceled\"; the words \"(subject to change)\" and \"plus applicable taxes\" were dropped from it. The subscription terms link moved from xbox.com/subscriptionterms to xbox.com/terms, now labeled \"XBOX Subscription and Cloud Terms\". Other edits trimmed the Rewards and gift card footnotes and reordered menu links."
+ },
+ {
+  "service": "Audible",
+  "page": "pricing",
+  "headline": "Audible's plan page drops the 'don't roll over' warning and lists its $229.50 plan as 12 credits",
+  "tldr": "Audible's Standard plan card no longer says unused monthly picks don't roll over, and the $229.50-a-year Premium card now reads \"12 creditos/año\" where it said 24 audiobooks.",
+  "impact": 1,
+  "themes": ["plan-shuffles"],
+  "url": "https://www.audible.com/ep/memberbenefits",
+  "who": "People comparing Audible's Standard and annual Premium plans before signing up",
+  "redline": [
+   {
+    "before": "Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.",
+    "after": "Auto-renews at $8.99/mo after 30 days. Cancel anytime.",
+    "label": "Pricing · Standard",
+    "note": "The roll-over warning added Oct 23 is gone from the card; the FAQ still says Standard is 1 audiobook a month.",
+    "src": "raw"
+   },
+   {
+    "before": "24 audiobooks",
+    "after": "12 creditos/año",
+    "label": "Pricing · Premium Annual, $229.50/yr",
+    "note": "A Spanish label showing 12 credits on the plan that offered 24; it may be a page error, so check checkout.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you're buying the $229.50 annual Premium plan, confirm at checkout how many credits it includes before paying"
+  ],
+  "what": "Audible's member-benefits page changed its plan cards again. The Standard card dropped \"Unused monthly audiobook selections don't roll over\", the line we logged being added on Oct 23; the FAQ still describes Standard as selecting 1 audiobook a month. The two annual Premium cards now read \"12 audiobooks\" at \"$149.50 a year\" and, for the $229.50 plan, \"12 creditos/año\" (Spanish for 12 credits a year) with \"Save 16%\", where yesterday it said \"24 audiobooks\". The page doesn't explain the change, and the Spanish wording suggests a labeling error rather than a new allowance, so we'd treat the 24-credit plan as unconfirmed until Audible's checkout says otherwise. The headline also changed from \"Access our 1M+ catalog with membership\" to \"Choose the plan that's right for you\", and the monthly cards now say \"30-day free trial\"."
+ }
+]
