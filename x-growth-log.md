@@ -1845,3 +1845,30 @@ Reach per tier: 50K+ and >45 min with image: Kalshi chart reply 320 (0.25% of pa
 - R1 9:23 AM MT: MSI QD-OLED burn-in warranty reply under Wario64 (parent 43.5K at post time): https://x.com/QuietlyChanged/status/2120553130975019198 (handle not doubled, 2 images).
 - R2 Japan Post/Germany correction under 7_reoni: SKIPPED, parent ~5.5 h old, past the 90-min image-reply window.
 - Pinned check: Nov 9 "Due soon" roundup is still pinned.
+
+## Session 2026-11-11 ~5:15 PM MT (Wednesday PM)
+Account (public X read 5:11 PM MT): **22 followers** (flat), 14 following, 241 posts, 118 media. Pinned lookup still returns "not found" for 2119832006922215798 (Nov 9 roundup); the Monday session should check and re-pin.
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 11 9:23 AM | MSI QD-OLED warranty reply 2120553130975019198 (2 img) | reply | ~39 | 113K | 23 | 0 | 0 | 0 | 0 |
+| Nov 11 6:25 AM | Slack self-reply | self-reply | – | – | 5 | 0 | 0 | 0 | 0 |
+| Nov 11 6:24 AM | Slack Slackbot-cap original | original | – | – | 8 | 0 | 0 | 1 | 0 |
+| Nov 10 5:22 PM | Kalshi No Tip/Costco chart reply | reply | ~82 | 148K | **355** | 0 | 0 | 0 | 0 |
+
+Reach per tier: 50K+ and ≤45 min: MSI reply 23 (parent 113K, only 9 replies ahead), so timing plus a quiet thread still didn't help. 50K+ and >45 min with chart: Kalshi 355 (still growing). Parent-quotes: none.
+
+### What we learned
+1. The "before you buy" fact under a Wario64 deal post flopped (23), like the GTA refund caveats. Only the cost-analysis chart under a price-outrage post has worked this week. Lean on price-outrage parents + chart/number images; deprioritize Wario64 deal posts.
+2. Slack original ended at 8 impressions: confirms B2B AI pricing stays site-only.
+3. Evening feed was swamped by the Nvidia/Jensen Huang ouster story (DiscussingFilm, Kobeissi, DeItaone, unusual_whales 50-400K). Off-lane, skipped.
+
+### Topic log
+- United Airlines bans unauthorized AI agents (eff. Nov 11): contract of carriage now defines AI Agents to include AI-enabled browsers even when supervised, and lets United cancel reservations "made, modified or serviced by AI Agents"; pre-Nov 11 bookings kept. In lane (terms) and broad (holiday travel + AI assistants); X posts still small (≤1.5K). **Candidate for a future original**, pairs with the banks-vs-AI-agents outline.
+- EU Digital Fairness Act proposed Nov 11 (easy cancel, renewal reminders, loot boxes off for minors, fines up to 6% turnover; streaming subs lose 14-day withdrawal for a first-month cancel right). Posts ≤2.2K so far; gaming aggregators may pick it up.
+- Starlink double price rise complaint (small).
+
+### Drafted (social/2026-11-11/pm/xgrowth-pm-drafts.md) — conditional only
+- R1 DFA "proposal not law + streaming withdrawal change" (r1-dfa.txt), for any big aggregator DFA/loot-box post.
+- R2 United AI-agent contract-of-carriage fine print (r2-united.txt), for any United post past ~20K.
+- Nothing posted: no in-lane parent past ~20K and climbing. No quote, no original (Nov 11 slot used; D&B deep-dive post still held for Samuel).
