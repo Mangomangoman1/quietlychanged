@@ -1,9 +1,9 @@
 Pinterest's new terms kicked in Nov 12.
 
-• Policy now says your Pins, "regardless of when they were posted," can train its generative AI models
+• Your Pins, "regardless of when they were posted," can train its generative AI
 • Automated tools may scan your messages
 • Disputes go to forced arbitration
 
-Opt out within 30 days (by Dec 12): email litigation@pinterest.com
+Opt out by Dec 12: email litigation@pinterest.com
 
 https://quietlychanged.com/changes/2026-11-13-pinterest-pinterest-s-new-terms-are-live-the-30-day-window-to-opt-out-of-arbitr/
