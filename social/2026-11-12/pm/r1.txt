@@ -1,0 +1,3 @@
+Five hours in, the fine print worth knowing: business Microsoft 365 plans carry a 99.9% monthly uptime SLA. Below that, Exchange Online earns a 25% service credit (50% under 99%).
+
+It isn't automatic. Your admin has to file a claim with the incident ID, by Dec 31 for this one.

@@ -1902,3 +1902,29 @@ Reach per tier: nothing new since PM. Parent-quotes: none.
 
 ### Posted (Nov 12 AM, box browser as @QuietlyChanged)
 - R1 9:21 AM MT: PS5 Pro disc-drive/price-path reply under Wario64 (parent 47.6K views, 32 replies, ~20 min after parent; tier 20-50K, ≤45 min, with image): https://x.com/QuietlyChanged/status/2120914826276802705 (handle not doubled, 2 images). Re-test of the Nov 9 11.8K format.
+
+## Session 2026-11-12 ~5:20 PM MT (Thursday PM)
+Account (public X read 5:19 PM MT): **24 followers** (flat), 14 following, 244 posts, 120 media. Pinned lookup still returns 2119832006922215798 as pinned_tweet_id; Monday session re-pins a fresh roundup.
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 12 9:21 AM | PS5 Pro disc-drive/price-path reply 2120914826276802705 (2 img) | reply | ~20 | 171K | 26 | 0 | 0 | 0 | 0 |
+| Nov 12 6:19 AM | Robinhood self-reply | self-reply | – | – | 6 | 0 | 0 | 0 | 0 |
+| Nov 12 6:18 AM | Robinhood KPI fees original | original | – | – | 11 | 0 | 0 | 1 | 0 |
+| Nov 11 9:23 AM | MSI QD-OLED warranty reply | reply | ~39 | 132K | 25 | 0 | 0 | 0 | 0 |
+| Nov 10 5:22 PM | Kalshi No Tip/Costco chart reply | reply | ~82 | 152K | **366** | 0 | 0 | 0 | 0 |
+
+Reach per tier: 50K+ and ≤45 min with image: PS5 Pro re-test 26 (parent grew to 171K, 64 replies). The Nov 9 11.8K PS5 Pro hit did not repeat: confirmed outlier. Parent-quotes: none.
+
+### What we learned
+1. Third Wario64 "before you buy" reply in a row at ~25 impressions. Stop replying to Wario64 deal/restock posts; keep Wario64 only for actual price-hike news.
+2. Robinhood original ended at 11 impressions: niche fee math stays site-only. Only the price-outrage chart reply (Kalshi/Costco, 366) has travelled this week.
+3. Evening feed: Microsoft 365 global outage (Outlook/Teams/OneDrive/SharePoint/Copilot, from ~12:20 PM MT, still not fully fixed at 5:15 PM; ~130K Downdetector reports) plus Nvidia/Huang Senate testimony, Wolfenstein 3, Avatar on Paramount+. Our angle on the outage: the business SLA credit (consumer-rights adjacent).
+
+### Topic log
+- Microsoft 365 outage Nov 12: Exchange Online SLA 99.9% monthly uptime, 25%/50%/100% credits below 99.9/99/95%, claim-only, by end of the month after the incident (Microsoft Online Services SLA; Partner Center "Request a credit" doc). Incident ID unverified (EX1550543 only from a small account), so not used.
+- Parents seen: Pirat_Nation outage #1 (73.8K, 78 replies, ~5 h, stale), zerohedge (141K, ~5 h, stale), CNBC (37K, ~3.3 h), Pirat_Nation #2 (21.0K, 36 replies, ~55 min, slow climb).
+
+### Drafted (social/2026-11-12/pm/)
+- R1 Pirat_Nation Microsoft outage #2 (https://x.com/Pirat_Nation/status/2121021929800761764; 21.0K / 36 replies / ~55 min at 5:21 PM MT; tier 20-50K, >45 min with image): r1.txt (277 chars), images r1-01-microsoft-logo.png, r1-02-sla-card.png. Post only if before ~5:56 PM MT and still climbing.
+- No quote (no in-lane 500K+ parent). No original (Nov 12 slot used by Robinhood).
