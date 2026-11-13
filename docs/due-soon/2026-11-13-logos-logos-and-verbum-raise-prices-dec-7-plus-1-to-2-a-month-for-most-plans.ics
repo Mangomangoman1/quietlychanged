@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Logos · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-13-logos-logos-and-verbum-raise-prices-dec-7-plus-1-to-2-a-mon
+ th-for-most-plans@quietlychanged.com
+DTSTAMP:20261113T220145Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Logos: New prices start
+DESCRIPTION:English Logos and Verbum Premium\, Pro and Max plans go up Dec
+  7. Most monthly customers see +$1 to $2\; the new everyday list prices a
+ re $10.99\, $16.49 and $21.99 a month. Check your account for your rate.\
+ n\nhttps://quietlychanged.com/changes/2026-11-13-logos-logos-and-verbum-r
+ aise-prices-dec-7-plus-1-to-2-a-month-for-most-plans/
+URL:https://quietlychanged.com/changes/2026-11-13-logos-logos-and-verbum-r
+ aise-prices-dec-7-plus-1-to-2-a-month-for-most-plans/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Logos — New prices start
+END:VALARM
+END:VEVENT
+END:VCALENDAR

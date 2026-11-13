@@ -1,0 +1,229 @@
+General Terms and Conditions – remove.bg Skip to main content
+
+General Terms and Conditions
+
+Last updated: 9th September 2026
+
+1. Preamble
+
+1.1 Canva Austria GmbH (the “ Operator ”, “ We ”, “ Us ”) operates the following brands, services, and websites:
+
+Remove.bg, a web-based application for editing photos;
+
+Unscreen (unscreen.com), a web-based application for editing videos; and
+
+Designify (designify.com), a web-based application for editing photos,
+
+(each, a “ Service ”, or together, the “ Services ”). The Operator develops and sells the software solutions available through each Service.
+
+2. Subject of the Contract
+
+2.1. The subject of this Contract is the provision of temporary, non-exclusive, paid use of the Service software as a service pursuant to this Contract by the customer (the “ Customer ”). The scope of performance and functionality of the Service is derived from the interface description that the Customer has received separately or from the description on each Service’s “ Pricing Page ” (at either https://www.remove.bg/pricing , https://www.unscreen.com/pricing or https://www.designify.com/pricing ) or “ API page ” ( https://www.remove.bg/api , https://www.unscreen.com/api , https://www.designify.com/api-docs ).
+
+2.2. The Service is only available on the internet; the function of the Service therefore depends on a functioning internet connection. The system requirements necessary for the operation of the Service can be found in the interface description according to point 2.1 or at the Service’s Pricing Page. By using the Service, the Customer also agrees to the relevant Service’s “ Terms of Service ” (Remove.bg: https://www.remove.bg/tos , Unscreen: https://www.unscreen.com/tos , Designify: https://www.designify.com/tos ). In the event of any conflict between the Terms of Service and this Contract, this Contract will prevail.
+
+2.3. General terms and conditions of the Customer do not apply.
+
+2.4. Creation of multiple accounts for the same person is not allowed.
+
+3. Rights of use
+
+3.1. The Customer shall acquire the non-exclusive right, which is limited in time to the duration of this Contract, to use the Service to the extent of the selected variant worldwide for internal or its own use.
+
+3.2. The scope of use (commercial or non-commercial) is based on the tariff chosen by the Customer. If the tariff chosen by the Customer so provides, the Customer may use, process or exploit the result of the Service (depending on the chosen tariff) commercially or non-commercially in any manner whatsoever. In the case of non-commercial use, the Customer is prohibited from using the results of the Service for direct or indirect commercial purposes.
+
+3.3. Transfer of the Service for use by third parties or other provision to third parties, such as by way of letting, is not permitted.
+
+3.4. Billing is via credits, subscription packages, or video minutes (depending on the Service), which the Customer can obtain from "Paddle" (paddle.com). Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns.
+
+For Remove.bg - If your subscription started on or after October 22 2025, your monthly credits expire at the end of each monthly cycle. If your subscription started before October 22 2025, your monthly credits roll over, accumulating up to 5 times the credit budget of the selected subscription. These rollover credits shall expire at the end of the billing period when a subscription is canceled. In the context of the use of the Service, the Customer has the right to process photos in the amount equivalent to the credits held (the equivalent value is based on the respective tariff). A photo is considered to have been processed when the Customer is offered the result for download (regardless of whether the Customer downloads the photo). Should a Customer make more than 15% of unsuccessful requests (requests that cannot be processed), the Operator reserves the right to block access to the interface. Please note: All credits (including pay-as-you-go (PAYG) credits, monthly rollover credits and any other type of credits) may be used until December 1 2026 only. Any unused credits will expire on that date and are non-refundable. For clarity, nothing in this clause extends the validity period that applied when credits were purchased or allocated.
+
+For Unscreen - The processing of videos can be purchased individually on a per-video basis. The price for a specific video file is based on the characteristics of the file and is displayed after the upload for confirmation. Monthly subscription minutes shall expire at the end of a billing cycle. In the context of the use of the Service, the Customer has the right to process up to the number of video minutes acquired. A video is considered to have been processed when the Customer is offered the result for download (regardless of whether the Customer downloads the video).
+
+For Designify - Monthly subscriptions include a set of features and maximum number of images that can be processed each billing cycle. Unused image credits shall expire at the end of a billing cycle. In the context of the use of the Service, the Customer has the right to process up to the number of images acquired. An image is considered to have been processed when the Customer is offered the result for download (regardless of whether the Customer downloads the image).
+
+3.6 The Operator shall grant the Customer a right of withdrawal for 30 days from the date of the Contract, unless the Customer has made use of the services (even in part). Use in accordance with point 6.3 also excludes withdrawal.
+
+3.7. Where available, the Operator shall provide the Customer (depending on the selected tariff) with an API interface with which the Customer can integrate the Service into its own websites, apps and software. The Customer has the right to integrate the Service into an unlimited number of its own websites, apps and software. Provision of the API interface to third parties (in return for payment or free of charge) is not permitted. The Customer may install the API interface only on websites in which the Customer is named in the legal notice. Integration into software and apps is permitted only if the Customer holds the rights of use of the respective software.
+
+3.8. In addition to any restrictions set out in the Terms of Service, use for the following purposes is prohibited: Research/development of artificial intelligence (in particular generation of training data), military use, pornography, gambling/betting, terrorism, creation of "fake news", use by organizations that carry out, encourage or require unlawful violence or physical injury to persons or property, or carry out, encourage or require unlawful force against any group based on race, religion, disability, gender, sexual orientation or national origin.
+
+4. Availability
+
+4.1. In the context of the use of a version for which a fee is charged, the Operator undertakes to make the Service available to the Customer 98% of the time, calculated over one year (hereinafter referred to as the Availability). Availability is provided if the Service can be accessed via an internet connection in Austria that meets the system specifications, as described in the specification. Maintenance for which notification has been given by the Operator does not reduce the Availability.
+
+4.2. Higher availability must be agreed separately.
+
+5. Rights and obligations of the Customer
+
+5.1. The Customer undertakes to keep all access data to the Service (e.g. passwords, API keys) secret.
+
+5.2. The Customer undertakes to refrain from any actions that compromise the functionality or operation of the Service. In particular, the Customer is prohibited from carrying out any actions that scan or test weak points of the Service, bypass security systems or access systems of the Service or integrate malware into the Service.
+
+5.3. The Customer guarantees that it has all the necessary rights (such as copyright, ancillary copyright, industrial property rights, trademark rights) for processing the uploaded photos.
+
+6. Contract duration
+
+6.1. This Contract shall begin on activation of the account and is concluded for an indefinite period. If you choose to upgrade your chosen tariff or plan, that takes effect immediately. If you choose to downgrade your chosen tariff or plan, that will take effect at the end of the monthly billing period. The respective minimum contract duration (see point 6.2) shall commence again at the same time.
+
+6.2. This Contract may be terminated by either party subject to a one-month notice period, at the end of the respective accounting period. All required notices from the Operator, including notices of termination, will be sent to the email address associated with the Customer's account or through other legally permissible means. In addition, the Customer has the option of canceling the Contract directly in the account in the "My Dashboard" area, subject to the notice period. The termination shall take effect on the day following the last day of the accounting period. For the avoidance of doubt, if Customer cancels their subscription in the account profile at any time, they can still use the product until the cancellation is effective at the end of the billing period.
+
+6.3. If the Operator, in its sole discretion, offers the API interface free of charge, the Customer has the option of using the API interface provided by the Operator free of charge for the period offered by the Operator or to the extent offered by the Operator. In this case, the Customer is obliged to provide information about the Operator to the recipients of the edited photos by means of a link provided by the Operator. If the tariff selected by the Customer stipulates advertising of the Service, this obligation also exists in the use of the Service in return for payment.
+
+6.4. This Contract may be terminated by the Operator for good cause with immediate effect. The following constitute good causes in any case:
+
+6.4.1. if the Customer breaches the provisions of this Contract and does not desist from the conduct that breaches the Contract even after a written reminder within a period of seven working days;
+
+6.4.2. if the Customer is unable to pay or insolvency proceedings are instigated in respect of the Customer's assets or an application for the instigation of such proceedings is rejected for lack of assets to cover the costs;
+
+6.4.3. if the Customer violates point 5.3 or point 3.8 of this agreement.
+
+7. Terms of payment
+
+For Remove.bg - When choosing a monthly plan, the payment is renewed automatically every month until canceled. With yearly plans, the payment is renewed yearly unless canceled. If your subscription started on or after October 22 2025, your monthly credits expire at the end of each monthly cycle. If your subscription started before October 22 2025, your monthly credits shall roll over up to 5 times the monthly budget but are invalidated at the end of the billing period when a subscription is canceled. Credits exceeding the roll over limit are also invalidated.
+
+For Unscreen - When choosing a monthly plan, the payment is renewed automatically every month until canceled. Monthly minutes cannot be carried over to the next month and shall expire at the end of the billing cycle if not used.
+
+For Designify - When choosing a monthly plan, the payment is renewed automatically every month until canceled. Monthly image credits cannot be carried over to the next month and shall expire at the end of the billing cycle if not used.
+
+7.2. Taxes and duties which are related to the current fee shall be paid by the Customer. The Customer hereby indemnifies the Operator in this respect.
+
+7.3. The Customer's activation shall take place as soon as the current fee has been paid. Should the Customer be in default even for one day only, the Operator is entitled to prohibit the Customer from further use of the Service and cancel all services. This is without prejudice to the obligation of the Customer to pay the agreed fee.
+
+7.4 The Operator reserves the right to charge a reasonable fee for reminders or late payments, at its sole discretion.
+
+7.5. The Customer is not entitled to offset claims against the Operator unless such claims have been legally established by a court.
+
+8. Warranty and liability
+
+8.1. Any warranty for the results of the Service and its Availability is excluded. If, nevertheless, a warranty claim should exist, the warranty period is six months.
+
+8.2. The Operator is not liable for the speed of the Service, its Availability, data loss or the correctness of the results. In addition, the liability of the Operator is excluded unless the damage has been caused intentionally or through gross negligence. This does not apply in cases of loss of life or damage to the health of a person.
+
+8.3. The liability of the Operator is in any case limited to the amount that the Customer has paid in ongoing fees in the last 3 months before the event giving rise to liability.
+
+9 Confidentiality and data privacy
+
+9.1. If the Customer is a private individual and processing is carried out exclusively for personal and family activities, Operator shall process all personal data submitted by the Customer as a data controller.
+
+If the Customer is a company and the Customer submits personal data, the Service’s Data Processing Addendum (available at www.remove.bg/dpa , www.unscreen.com/dpa , www.designify.com/dpa ) shall apply. In using the Service, the Customer accepts the Service’s Data Processing Addendum.
+
+9.2. All other data protection information is available to the Customer in the Service’s Privacy Policy (available at www.remove.bg/privacy , www.unscreen.com/privacy , https://www.designify.com/privacy ).
+
+10. Email Marketing and Publicity
+
+10.1. If Customer has signed up to receive marketing messages, Customer can opt out of receiving marketing messages by clicking on the “unsubscribe” link provided in such communications, or by emailing the Service (via email, Remove.bg: [email protected] , Unscreen: [email protected] , or Designify: [email protected] ) However, you may not opt out of service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
+
+10.2 Customer permits Operator to use Customer’s name and logo to identify Customer as a customer on Operator’s website and in its marketing materials in accordance with any trademark guidelines or instructions provided by Customer. Customer permits Operator to issue a press release announcing Customer as a customer, provided Operator obtains Customer’s approval of the text of any such press release prior to publication. Following an agreed-upon press release, Operator may use the content of the press release on Operator’s website and in marketing materials.
+
+11. Concluding provisions
+
+11.1. Legal disputes arising from this Contract are governed exclusively by Austrian law. Application of the UN Convention for the International Sale of Goods, the referral standards of the IPRG and the Regulation (EC) no. 593/2008 of the European Parliament and of the Council of June 17, 2008 on the law applicable to contractual obligations (Rome I Regulation) is excluded.
+
+11.2. The agreed place of performance is the registered office of the Operator.
+
+11.3. The exclusive jurisdiction for disputes arising out of or in connection with this Contract shall be the competent court in Vienna-Inner City, Austria.
+
+11.4. Operator may modify this Contract (and any policies or agreements referenced in this Contract) at any time. We will post the most current version of this Contract on the Service. We will provide you with reasonable notice of any change to the Contract that, in our sole determination, materially adversely affect your rights or your use of the Service. We may provide you this notice via the Service and/or by email to the email address associated with your account. By continuing to use the Service after any revised Contract becomes effective, you agree to be bound by the new Contract.
+
+11.5. Should individual provisions of this Contract be void, unenforceable and/or invalid, this shall not result in the invalidity, unenforceability and/or invalidity of the entire Contract. In this case, the contracting parties undertake to agree on a provision which is as close as possible economically to the purpose pursued by the void, unenforceable and/or invalid provision to replace the void, unenforceable and/or invalid provision.
+
+11.6. Any non-English translations of this Contract are provided for convenience only. The English version of this Contract will control.
+
+Learn more
+
+All features
+
+Photographers
+
+Marketing
+
+Developers
+
+Ecommerce
+
+Media
+
+Car Dealerships
+
+Enterprise
+
+Success stories
+
+Tools & API
+
+API Documentation
+
+Integrations, tools & apps
+
+Photoshop Extension
+
+Windows / Mac / Linux
+
+Android App
+
+Design Templates
+
+Support
+
+Help & FAQs
+
+Contact us
+
+Refunds
+
+Platform Status
+
+Resources
+
+Company
+
+Blog
+
+Affiliate Program
+
+Create automatic designs
+
+Video Background Removal
+
+Careers
+
+About us
+
+Press & Partnerships
+
+© remove.bg, a Canva Austria GmbH brand
+
+Terms of Service
+
+General Terms and Conditions
+
+Privacy Policy
+
+Cookie Policy
+
+Imprint
+
+Thanks for your feedback!
+
+Want to help us improve? (optional)
+
+Contribute this image & help us make remove.bg better
+
+Teach the Artificial Intelligence
+
+Get better results for similar images in the future
+
+I agree to the Improvement Program Conditions .* Remember my decision for future images that I rate negatively
+
+Yes, contribute image
+Choose if you want us to use this image for quality improvements.
+
+No, don't contribute
+Choose if you do NOT want us to use this image for quality improvements.
+
+Your image will be used for future improvements of remove.bg.
+Close
+
+Your image will NOT be used for future improvements of remove.bg.
+Close

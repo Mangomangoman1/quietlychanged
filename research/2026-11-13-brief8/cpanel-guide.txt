@@ -1,0 +1,276 @@
+     Store
+
+Licensing Guide
+   Valid from December 16, 2026
+Table of Contents
+
+Who is this guide for?...........................................................................................................................................               3
+
+Licensing explained..............................................................................................................................................               3
+
+What is a cPanel account?...................................................................................................................................                    3
+
+Packages Explained..............................................................................................................................................                4
+
+License Pricing.......................................................................................................................................................          4
+
+Become a PartnerNOC..........................................................................................................................................                   4
+
+Manage Your Licenses..........................................................................................................................................                  5
+
+Extended Lifecycle Support Program.................................................................................................................                             5
+
+Glossary of Terms.................................................................................................................................................              6
+
+
+
+
+                    full full
+                TheThe   termsterms
+                                 andand
+                                      conditions
+                                          conditions
+                                                  of these
+                                                      of these
+                                                            programs
+                                                               programs
+                                                                     andand  pricing
+                                                                         pricing  are are
+                                                                                      available
+                                                                                          available
+                                                                                                 our on
+                                                                                                     website.
+                                                                                                         our website.
+                                                                                                               The programs
+                                                                                                                      The programs
+                                                                                                                             and processes
+                                                                                                                                    and processes
+                                                                                                                                            above above
+                                                                                                                                                  may
+ may
+
+                                                                                                                                                                          cpanel.net | 2
+                                                                                                                                                                         cpanel.net
+                   require
+                require additional
+                              additional
+                                     documentation.
+                                         documentation.Programs
+                                                           Programs
+                                                                 maymay be terminated
+                                                                     be terminated    at any
+                                                                                          at any
+                                                                                              timetime
+                                                                                                    withwith
+                                                                                                         notice
+                                                                                                             notice
+                                                                                                                on our
+                                                                                                                    on our
+                                                                                                                       website.
+                                                                                                                           website.
+This licensing guide provides an overview of cPanel’s account-based pricing and licensing structure. Our pricing and
+licensing is standardized for all of our customers, billed monthly, and includes multiple Tiers.
+
+
+
+
+Who is this guide for?
+This guide is for customers who purchased cPanel® products directly from the cPanel Store on our website, and want to
+learn more about our licensing structure and pricing. We hope that this guide is a useful summary. Please refer to the
+licensing information at https://www.cpanel.net/legal-notices/#end-user-license-agreement for specific terms.
+
+
+
+Licensing explained
+The price per license is based on the number of accounts hosted on the same server.
+
+When purchasing a cPanel & WHM® license, the Tier, Type, and Packages will all need to be selected. The "Tier"
+represents the number of accounts purchased. The "Type" is the server environment of choice, whether that is Cloud
+(VPS) or Metal (Dedicated). "Package" represents the billing package, either Fixed or Auto-Scale (only available to
+PartnerNOCs). When selecting a Fixed package, the Tier and Type will also need to be chosen. On an Auto-Scale package,
+only the environment Type needs to be selected (because this package moves seamlessly through Tier based on usage).
+
+A cPanel license includes both WHM® and cPanel interfaces. WHM, also known as Web Host Manager, is the root
+administrator that manages cPanel account(s).
+
+
+
+What is a cPanel account?
+A cPanel account, sometimes called a cPanel user, is an account created by the root administrator or reseller, that logs into
+the cPanel interface to manage their website.
+
+Cloud environment are offered on all Account Tiers, while Metal environment are available on Premier. Below is an
+overview of our pricing tiers and account limits for each Tier.
+
+ cPanel Solo Cloud                                            1 account
+
+ cPanel Admin Cloud                                           Up to 5 accounts
+
+ cPanel Pro Cloud                                             Up to 30 accounts
+
+ cPanel Premier Cloud                                         Up to 100 accounts
+
+ cPanel Premier Cloud Bulk accounts                           Each account above 100 accounts
+
+
+
+ cPanel Premier Metal                                         Up to 100 accounts
+
+ cPanel Premier Metal Bulk accounts                           Each account above 100 accounts
+
+
+
+
+                     The full terms and conditions of these programs and pricing are available on our website. The programs and processes above may
+
+                                                                                                                                                       cpanel.net   3
+                     require additional documentation. Programs may be terminated at any time with notice on our website.
+Packages Explained
+A "Package" is a combination of account Tier (cPanel Solo®, Admin, Pro, or Premier) and License Type (Metal or Cloud)
+that is generated according to what the license type a customer selects as their cPanel offering.
+The cPanel Solo, Admin and Pro Tiers are fixed, meaning that an upgrade process is required through the Store or in-
+product to move to a higher Account Tier. After upgrading to the Premier Tier, no further upgrades are needed to add
+additional accounts because Tiers then auto-scale. Auto-scaling adjusts the number of licenses automatically based on
+the number of accounts created on the server. Bulk accounts start when a server on a Premier Tier reaches 101 accounts.
+
+Bulk Accounts                                                                                  Fixed Packages
+Any account on a cPanel & WHM license over 100 accounts                                        A fixed package is a package that limits the license to a
+is considered a Bulk account. Bulk account pricing starts                                      fixed number of accounts.
+with the 101st cPanel account and is charged per additional
+cPanel account.
+
+
+License Pricing
+                                 cPanel Solo                     Admin                          Pro                                             Premier
+
+         Accounts                       1                        Up to 5                     Up to 30                         Up to 100                   Bulk accounts
+
+Store Pricing
+
+    Cloud - Monthly                 $32.99                       $38.99                       $58.99                            $76.99                       $   0.55
+
+    Metal - Monthly                   N/    A                      N/ A                         N/ A                            $76.99                       $   0.55
+
+    Cloud - Annually               $362.89                      $428.89                       $648.89                             N/A                         N/A
+
+
+
+    Metal - Annually                  N/    A                      N/ A                         N/ A                              N/A                         N/A
+
+
+
+
+Additional accounts are billed monthly, per account, on a fixed reporting date. Bulk accounts start once you reach 101 accounts. Pricing terms and adjustments are set
+
+out in your contract.
+
+
+
+
+Wh    at license package do I need?                                                           Account Tier Changes
+Customers should select the package based on their                                            If you want to upgrade or downgrade the account Tier of
+
+server environment and how many cPanel accounts they                                          your license, you can do this anytime through the cPanel
+
+will require on their server.                                                                 Store under "manage licenses" (refer to page 5) . Changes
+
+                                                                                              will be prorated and reflected immediately.
+I   don’t have a credit card. How can I get a license?
+We now accept PayPal payments through the store. If you
+are looking for other payment alternatives, you may
+contact one of our distributors at: 
+
+
+https://www.cpanel.net/partners-directory/
+
+
+
+
+Become a PartnerNOC
+Maximize your business growth by becoming a cPanel PartnerNOC. Get VIP access to our expert support team, cPanel
+PartnerNOC pricing, an account Manager, and access to the licensing API. PartnerNOCs will also enjoy flexible billing
+options with our Auto-Scale deployment functionality that upgrades or downgrades your license Tier automatically based
+on usage.
+Prospective cPanel PartnerNOCs are required to engage in a consultation with a cPanel sales representative to establish
+a mutually beneficial two-year growth strategy as a prerequisite for PartnerNOC eligibility.
+
+
+
+
+                        The full terms and conditions of these programs and pricing are on available our website. The programs and processes above may
+           cpanel.net   4
+                        require additional documentation. Programs may be terminated at any time with notice on our website.
+Manage Your Licenses
+The "My Products & Services" page offers an overview and status of all licenses associated with a Store account. The
+“Product Details” page provides the status and upgrade paths available for each account Tier. Customers can
+upgrade or downgrade between Tiers at anytime.
+Changes will be prorated and reflected immediately.
+
+
+
+
+Extended Lifecycle Support Program
+CentOS 7 and CloudLinux 7 reached End of Life (EOL) support on June 30, 2024. This means that after that date,
+these operating systems no longer receive security updates from upstream vendors. This makes them more
+vulnerable to potential security issues.
+
+We enrolled all servers running CentOS 7 or CloudLinux 7 on cPanel v110 in the Extended Lifecycle Support (ELS)
+Program to provide critical security updates and technical support for qualifying servers.
+
+ELS Program Fees
+Servers running CentOS 7 or CloudLinux 7 on cPanel v110 that are enrolled in the ELS Program are charged an
+additional monthly fee for the ELS Program’s additional security and support coverage. These fees are based on the
+base cPanel license amount. The ELS Program started July 1, 2024.
+
+
+           cPanel License Edition                             Accounts                                            Additional Fee per Server
+                                                                                                                    Jan 1, 2027 — Dec 31, 2027
+
+  cPanel Solo Cloud                                                1                                                          $9.90
+
+  cPanel Admin Cloud                                               5                                                          $11.70
+
+  cPanel Pro Cloud                                                30                                                          $17.70
+
+  cPanel Premier Cloud                                            100                                                        $23.10
+
+
+How to Opt Out of the Program
+Servers that qualify for the ELS Program will not incur additional fees if their base operating systems are updated to
+one of cPanel’s supported operating systems.
+
+
+                     The full terms and conditions of these programs and pricing are available on our website. The programs and processes above may
+
+                     require additional documentation. Programs may be terminated at any time with notice on our website.
+                                                                                                                                                       cpanel.net   5
+Glossary of Terms
+Account-Based-Licensing: License types are based on                                        Fixed Package: A package that limits the license to a
+the number of accounts hosted on a server.                                                 fixed quantity of accounts.
+
+
+Auto-Scaling: Pricing structure based on the number of                                     License Type: Metal denotes use on dedicated servers
+accounts on the server at the time of invoicing.                                           and Cloud is for use on Virtual Private Servers (VPS).
+
+
+Bulk Accounts: Any account on a cPanel & WHM license                                       Packages: A combination of license type and Tier.
+over 100 accounts is considered a Bulk account.
+                                                                                           PartnerNOC: A cPanel customer who has entered into a
+Cloud: License type specifically for hosting on a virtual                                  PartnerNOC Agreement with cPanel. A PartnerNOC
+private server (VPS) or other virtual machine, where                                       Agreement is only available to certain cPanel customers
+other clients or businesses may also be hosting on the                                     who, among other things, maintain their own servers.
+same hardware.
+                                                                                           Tier: A specific named license such as cPanel Solo,
+cPanel Account: A cPanel account, sometimes called a                                       Admin, Pro, or Premier.
+cPanel user, is an account created by the root
+administrator or reseller, that logs into the cPanel
+interface to manage their website.
+
+
+
+
+                  The full terms and conditions of these programs and pricing are available on our website. The programs and processes above may
+
+                                                                                                                                                    cpanel.net   6
+                  require additional documentation. Programs may be terminated at any time with notice on our website.
+

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:cPanel · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-de
+ c-16@quietlychanged.com
+DTSTAMP:20261113T220145Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:cPanel: New prices start
+DESCRIPTION:cPanel license prices rise on Dec 16 for new orders and every 
+ renewal on or after that date. Solo goes from $29.99 to $32.99 a month\; 
+ Admin\, Pro\, Premier and extra accounts go up as well.\n\nhttps://quietl
+ ychanged.com/changes/2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-3
+ 2-99-a-month-on-dec-16/
+URL:https://quietlychanged.com/changes/2026-11-13-cpanel-cpanel-raises-sol
+ o-from-29-99-to-32-99-a-month-on-dec-16/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: cPanel — New prices start
+END:VALARM
+END:VEVENT
+END:VCALENDAR

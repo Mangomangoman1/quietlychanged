@@ -1,0 +1,41 @@
+Source: https://community.logos.com/forums/topic/239417-subscription-prices-are-changing-december-7-faq/
+Fetched 2026-11-13 via WebFetch (plain curl from the box returned 403).
+Author: Jason Stone (Logos), Administrators, November 2, 2026.
+
+Hi everyone,
+
+Thank you for being part of the Logos community! Your posts and comments here serve Logos users around the world who use Logos to grow in their knowledge and love of God and his Word.
+
+We're writing to let you know subscription prices will increase on December 7, 2026. Subscribers will receive an email tomorrow with these details, but we're sharing here first because you may see some changes on our website today.
+
+What's changing
+
+So we can keep building Logos into the best tool for in-depth study of Scripture, we're raising the price on English Logos and Verbum plans beginning at 12:00 a.m. (PST) on December 7, 2026. You can see your price on your account subscription page. This change doesn't affect Logos Plus, Logos for Church, Logos for Education, or Logos for Ministry.
+
+Most customers will see their current rates increase by the following amount, based on their previous base package ownership and current plan/cycle:
+
+|          | Monthly | Annually | 2-Year  |
+|----------|---------|----------|---------|
+| Premium  | + $1.00 | + $10.00 | + $18.99 |
+| Pro      | + $1.50 | + $15.00 | + $28.49 |
+| Max      | + $2.00 | + $20.00 | + $37.99 |
+
+Anyone who subscribed using a base package ownership discount will still pay less than new customers, and Logos 10 owners will continue to receive the best price. Customers in our academic discount program will receive the same discount percentage off the regular price.
+
+Why
+
+A lot of you are on tight budgets, so we kept the increase as small as we could, because we want Logos to be affordable. This change lets us keep improving the Logos app and cover our rising costs, such as paying our employees fairly and investing in new features and content.
+
+We want to keep giving you the very best Bible study tools, and this change lets us keep investing in Logos at the pace you've seen, with a release about every six weeks. That includes Study Assistant and its upcoming research mode, steady improvements on desktop, mobile, and web, with many more updates on the horizon. We've shipped sixteen releases since October 2024, and you can see them all in the release notes.
+
+When it affects you
+
+The new price takes effect on your first renewal on or after December 7, whether you're on a monthly, annual, or two-year subscription. You'll get an email with your exact price 30 days before you're charged (monthly users will see it in their receipt from the prior month's renewal), and you can check it anytime on your account subscription page.
+
+Legacy Fallback License
+
+December 7 is also the last day to start earning one. If you own a Logos package and aren't subscribed yet, subscribe before then to start the clock so you receive your Legacy Fallback License after 24 concurrent months subscribed.
+
+You can check out our FAQs with some questions we know you will already have. For anything else, ask here. Members of our team will be doing their best to answer questions that aren't already accounted for in the FAQs.
+
+Thank you for your continued feedback and investment in Logos for your Bible study needs!

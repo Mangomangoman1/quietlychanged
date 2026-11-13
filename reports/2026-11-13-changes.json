@@ -152,7 +152,7 @@
       "If you opened your Temu account recently, check whether you're still within 30 days of first accepting the terms; if so, you can opt out of arbitration entirely by mail to the same address",
       "Review your ad choices in the \"Your Rights and Choices\" section of Temu's Privacy Policy before December 7"
     ],
-    "what": "Temu has posted new US Terms of Use and a new US Privacy Policy, both marked \"Effective Date: December 7, 2026.\" Each page now opens with a notice that the text shown \"is for your reference and will become effective from December 7, 2026,\" with a link to the version in force today (\"Last Updated: November 1, 2026\"). The Wayback Machine still shows only the November 1 terms at 06:34 UTC on November 12 and the December 7 notice by 16:37 UTC the same day, so Temu posted the new versions on or about November 12. We compared both documents, sentence by sentence, with the November 1 versions on November 13, 2026. Both are agreements with Whaleco Inc., the US company behind Temu.\n\n## Change 1: Turn down a settlement offer in arbitration and you could pay Temu's legal fees\n\nTemu's terms already require most disputes to go to individual arbitration instead of court. The December 7 version adds an \"offer\" rule that isn't in the November 1 terms: \"In any arbitration between you and us, either party may make a written settlement offer on a claim at any time before the arbitrator issues a final decision on the claim.\" An offer not accepted within 30 days \"shall be deemed withdrawn.\" Then: \"If an offer made by one party is not accepted by the other party, and the other party fails to obtain a more favorable award on the claim at issue, the other party shall pay the offering party's costs incurred after the offer was made, including any attorney's fees and fees paid to the arbitration provider, and shall not recover their own post-offer costs.\"\n\nIn practice, if Temu offers to settle your claim and you go on to win less than the offer (or lose), you could owe Temu's lawyer and arbitration costs from that point on. The rule works both ways on paper, but a shopper with a small claim has far more to fear from a company's legal bill than the reverse. The clause itself says it will be \"limited or eliminated\" where a law or court decision bars shifting those costs.\n\nOther arbitration changes: anyone starting an arbitration must now disclose \"any relationship the party requesting arbitration has with third-party litigation funders\" and hand over \"copies of all applicable litigation funding agreements\"; \"all materials and documents exchanged during the arbitration proceedings shall be kept confidential\"; and the winner of a court fight over whether the required pre-arbitration steps were followed can now also recover costs incurred \"in defending against an improperly commenced arbitration.\" Two changes help consumers: the arbitration \"will be conducted in the county where you reside,\" and the arbitrator no longer has to be licensed \"in the State of New York.\"\n\n## Change 2: AI shopping agents are banned\n\nThe list of things you may not do gets a new item (13): using any feature, \"including but not limited to ordering, payments, promotions, rewards, or account management,\" through \"any automated, programmatic, or non-human means (including but not limited to buy-for-me agents, large language model-driven bots, or any end-to-end flow that attempts to place orders without human review) where such use interferes with, circumvents, or undermines Temu's technical measures, security controls, or the intended operation of the Services, except as expressly permitted by Temu.\" A new item (14) bars framing or embedding \"any part of the Services, including any webpage, interface, login page, or form\" in another site or app. eBay (February 2026), United Airlines (November 11) and several banks have added similar AI-agent rules this year.\n\n## Change 3: The privacy policy drops its promise not to use your name or email for ads\n\nThe November 1 privacy policy says: \"We do not use information which on its own personally identifies you, such as your name or email address, to show you interest-based advertising.\" That sentence is gone from the December 7 version. The section is renamed from \"Interest-based advertising\" to \"Advertising\" and now says Temu and its advertising partners may use your information \"to serve advertisements and to measure the performance of advertisements shown to you.\" Ads on Temu itself are now called \"personalized advertised listings.\" The policy doesn't say Temu will now use names or emails for ads; it no longer says it won't.\n\nAlso removed: \"The merchandise partner will not receive your payment information or device data.\" Added: Temu may get information from \"Age verification service providers\"; \"advertising analytics providers\" are a new data source; affiliates Temu shares data with now include \"entities that are located outside the United States\"; and Temu may send marketing \"via your accounts on messaging applications\" linked to your phone number.\n\n## What gets better\n\nThe terms add a right to cancel: \"you may cancel your order at no cost and without prior notice at any time before it is packed for shipment and obtain a refund,\" and you \"may still return it after you receive it and obtain a refund.\" The sentence saying a refund \"will not cover customs, taxes, or any return shipping costs\" is gone from the terms (the Return and Refund Policy still governs the details). Temu can now end accounts \"for any legitimate reason,\" not \"for any reason in our discretion.\" Customer-service calls and chats may be recorded for \"service optimization\" purposes instead of \"training\" purposes. Creating more than one account is no longer banned outright, only when it's done to get around the terms, account limits or promotion rules.\n\n## What you can do\n\nBoth versions of the terms say that if Temu makes a material change to the arbitration agreement, you can reject it \"within thirty (30) days of such change becoming effective by writing to us at the applicable address set forth in Section 18.5.\" That address is Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA, and notice counts \"when received.\" If you reject the changes, the arbitration terms you first agreed to \"remain in full force and effect,\" so the new settlement-offer rule wouldn't apply to you. By our count the 30 days end on January 6, 2027. If you already opted out of Temu arbitration in the past, both versions say Temu \"will continue to honor\" that. New users can still opt out of arbitration altogether within 30 days \"after first accepting\" it.\n\nCoverage (checked Nov 13, 2026): searches turned up only Temu's own pages and automated document trackers (TosDiff logged a new privacy-policy snapshot on Nov 13). We found no news coverage of the settlement-offer rule, the AI-agent ban or the privacy edits.",
+    "what": "Temu has posted new US Terms of Use and a new US Privacy Policy, both marked \"Effective Date: December 7, 2026.\" Each page now opens with a notice that the text shown \"is for your reference and will become effective from December 7, 2026,\" with a link to the version in force today (\"Last Updated: November 1, 2026\"). The Wayback Machine still shows only the November 1 terms at 06:34 UTC on November 12 and the December 7 notice by 16:37 UTC the same day, so Temu posted the new versions on or about November 12. We compared both documents, sentence by sentence, with the November 1 versions on November 13, 2026. Both are agreements with Whaleco Inc., the US company behind Temu.\n\n## Change 1: Turn down a settlement offer in arbitration and you could pay Temu's legal fees\n\nTemu's terms already require most disputes to go to individual arbitration instead of court. The December 7 version adds an \"offer\" rule that isn't in the November 1 terms: \"In any arbitration between you and us, either party may make a written settlement offer on a claim at any time before the arbitrator issues a final decision on the claim.\" An offer not accepted within 30 days \"shall be deemed withdrawn.\" Then: \"If an offer made by one party is not accepted by the other party, and the other party fails to obtain a more favorable award on the claim at issue, the other party shall pay the offering party's costs incurred after the offer was made, including any attorney's fees and fees paid to the arbitration provider, and shall not recover their own post-offer costs.\"\n\nIn practice, if Temu offers to settle your claim and you go on to win less than the offer (or lose), you could owe Temu's lawyer and arbitration costs from that point on. The rule works both ways on paper, but a shopper with a small claim has far more to fear from a company's legal bill than the reverse. The clause itself says it will be \"limited or eliminated\" where a law or court decision bars shifting those costs.\n\nOther arbitration changes: anyone starting an arbitration must now disclose \"any relationship the party requesting arbitration has with third-party litigation funders\" and hand over \"copies of all applicable litigation funding agreements\"; \"all materials and documents exchanged during the arbitration proceedings shall be kept confidential\"; and the winner of a court fight over whether the required pre-arbitration steps were followed can now also recover costs incurred \"in defending against an improperly commenced arbitration.\" Two changes help consumers: the arbitration \"will be conducted in the county where you reside,\" and the arbitrator no longer has to be licensed \"in the State of New York.\"\n\n## How Temu's offer rule compares\n\neBay's User Agreement (in effect for existing users since June 28, 2026) has a similar rule: \"any party may serve an offer in writing upon the other party to allow judgment on specified terms,\" and if it is turned down and the other side \"fails to obtain a more favorable award,\" that side \"shall pay the offering party's costs from the time of the offer.\" eBay's version doesn't mention lawyers. Temu's goes further and spells out that those costs include \"any attorney's fees and fees paid to the arbitration provider.\" Amazon's Conditions of Use (last updated August 14, 2026) send most disputes back to arbitration, but the version we checked has no settlement-offer rule at all.\n\nTemu's AI-agent wording is nearly the same as eBay's, too. eBay bans \"buy-for-me agents, LLM-driven bots, or any end-to-end flow that attempts to place orders without human review.\" Temu's Costa Rica terms (effective July 27, 2026) already had the same item 13, so the US version is catching up with wording Temu already uses in other countries.\n\n## Change 2: AI shopping agents are banned\n\nThe list of things you may not do gets a new item (13): using any feature, \"including but not limited to ordering, payments, promotions, rewards, or account management,\" through \"any automated, programmatic, or non-human means (including but not limited to buy-for-me agents, large language model-driven bots, or any end-to-end flow that attempts to place orders without human review) where such use interferes with, circumvents, or undermines Temu's technical measures, security controls, or the intended operation of the Services, except as expressly permitted by Temu.\" A new item (14) bars framing or embedding \"any part of the Services, including any webpage, interface, login page, or form\" in another site or app. eBay (February 2026), United Airlines (November 11) and several banks have added similar AI-agent rules this year.\n\n## Change 3: The privacy policy drops its promise not to use your name or email for ads\n\nThe November 1 privacy policy says: \"We do not use information which on its own personally identifies you, such as your name or email address, to show you interest-based advertising.\" That sentence is gone from the December 7 version. The section is renamed from \"Interest-based advertising\" to \"Advertising\" and now says Temu and its advertising partners may use your information \"to serve advertisements and to measure the performance of advertisements shown to you.\" Ads on Temu itself are now called \"personalized advertised listings.\" The policy doesn't say Temu will now use names or emails for ads; it no longer says it won't.\n\nAlso removed: \"The merchandise partner will not receive your payment information or device data.\" Added: Temu may get information from \"Age verification service providers\"; \"advertising analytics providers\" are a new data source; affiliates Temu shares data with now include \"entities that are located outside the United States\"; and Temu may send marketing \"via your accounts on messaging applications\" linked to your phone number.\n\n## What gets better\n\nThe terms add a right to cancel: \"you may cancel your order at no cost and without prior notice at any time before it is packed for shipment and obtain a refund,\" and you \"may still return it after you receive it and obtain a refund.\" The sentence saying a refund \"will not cover customs, taxes, or any return shipping costs\" is gone from the terms (the Return and Refund Policy still governs the details). Temu can now end accounts \"for any legitimate reason,\" not \"for any reason in our discretion.\" Customer-service calls and chats may be recorded for \"service optimization\" purposes instead of \"training\" purposes. Creating more than one account is no longer banned outright, only when it's done to get around the terms, account limits or promotion rules.\n\n## What you can do\n\nBoth versions of the terms say that if Temu makes a material change to the arbitration agreement, you can reject it \"within thirty (30) days of such change becoming effective by writing to us at the applicable address set forth in Section 18.5.\" That address is Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA, and notice counts \"when received.\" If you reject the changes, the arbitration terms you first agreed to \"remain in full force and effect,\" so the new settlement-offer rule wouldn't apply to you. By our count the 30 days end on January 6, 2027. If you already opted out of Temu arbitration in the past, both versions say Temu \"will continue to honor\" that. New users can still opt out of arbitration altogether within 30 days \"after first accepting\" it.\n\nCoverage (checked Nov 13, 2026): searches turned up only Temu's own pages and automated document trackers (TosDiff logged a new privacy-policy snapshot on Nov 13). We found no news coverage of the settlement-offer rule, the AI-agent ban or the privacy edits.",
     "sources": [
       [
         "Temu US Terms of Use (December 7, 2026 version)",
@@ -177,6 +177,18 @@
       [
         "Value Added Resource: eBay bans AI buy-for-me agents (Feb 2026)",
         "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/"
+      ],
+      [
+        "eBay User Agreement (offer-of-judgment rule and AI-agent ban), fetched Nov 13, 2026",
+        "https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259"
+      ],
+      [
+        "Amazon Conditions of Use, last updated Aug 14, 2026 (Wayback, Nov 3, 2026)",
+        "https://web.archive.org/web/20261103172801/https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM"
+      ],
+      [
+        "Temu Costa Rica Terms of Use, effective July 27, 2026",
+        "https://www.temu.com/cr-en/terms-of-use.html"
       ]
     ],
     "faq": [
@@ -199,6 +211,279 @@
       [
         "Will Temu use my name or email for ads?",
         "The new privacy policy doesn't say it will. It removes the old sentence saying Temu does not use information that on its own identifies you, \"such as your name or email address,\" to show you interest-based ads."
+      ],
+      [
+        "Do other shopping sites have the same settlement-offer rule?",
+        "eBay's User Agreement has a similar rule: turn down a written offer, fail to get a more favorable award, and you pay the other side's costs from the time of the offer. Temu's version goes further by saying those costs include attorney's fees and arbitration-provider fees. Amazon's current Conditions of Use don't have a settlement-offer rule."
+      ]
+    ]
+  },
+  {
+    "service": "remove.bg",
+    "page": "terms",
+    "headline": "Dec 1 shutdown: unused credits expire and do not transfer",
+    "tldr": "remove.bg's website, accounts and self-service API stop on Dec 1 at 9:00 a.m. CET. Unused credits expire and are non-refundable; export invoices before then.",
+    "impact": 3,
+    "effective": "2026-12-01",
+    "deadline": "Shuts down",
+    "themes": [
+      "shutdowns"
+    ],
+    "url": "https://www.remove.bg/faq",
+    "who": "Anyone with unused remove.bg credits or a subscription, plus people who use the website, the self-service API, or the Photoshop plugin and other integrations",
+    "seo_title": "remove.bg shuts down Dec 1, 2026: unused credits expire, invoices must be exported first",
+    "seo_desc": "remove.bg's standalone site and self-service API close Dec 1, 2026 at 9:00 a.m. CET. Unused credits expire and are non-refundable. Annual plans get a pro-rata refund; export invoices before the shutdown.",
+    "redline": [
+      {
+        "before": "",
+        "after": "All credits (including pay-as-you-go (PAYG) credits, monthly rollover credits and any other type of credits) may be used until December 1 2026 only. Any unused credits will expire on that date and are non-refundable.",
+        "label": "General Terms and Conditions · credits (updated 9th September 2026)",
+        "note": "This covers PAYG and monthly rollover credits, not only pay-as-you-go.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "If you have unused time on your plan beyond that date, you'll receive a pro-rata refund to your original payment method. No action is required from you to receive this refund.",
+        "label": "FAQ · I have an active annual subscription. Will I receive a refund?",
+        "note": "Annual plans keep working until 9:00 a.m. CET on Dec 1, then end automatically.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "Any final renewal on or after 1 November is free.",
+        "label": "FAQ · I have an active monthly subscription. What happens?",
+        "note": "Monthly plans also end automatically after 9:00 a.m. CET on Dec 1.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Use any remaining credits before December 1, 2026: unused credits expire that day and are non-refundable",
+      "Export your credit usage report and invoices from your remove.bg Account page before December 1; the FAQ says you won't be able to download them afterward",
+      "If you use the self-service API, follow Leonardo.Ai's migration guide before December 1 (enterprise API contracts continue as normal). Website users are pointed to Canva's Background Remover"
+    ],
+    "what": "remove.bg, the background-removal tool now owned by Canva, is closing its standalone website, accounts and self-service API on December 1, 2026 at 9:00 a.m. CET. That is the time on remove.bg's own FAQ, fetched November 13, 2026. Background removal moves into Canva for everyday use, and the self-service API moves to Leonardo.Ai, which Canva also owns. Enterprise API contracts \"aren't affected and continue as normal.\"\n\nThe facts below are from that FAQ and from remove.bg's General Terms and Conditions, which the FAQ links and which are marked \"Last updated: 9th September 2026.\"\n\n## Unused credits expire, and nothing transfers\n\nThe General Terms say: \"All credits (including pay-as-you-go (PAYG) credits, monthly rollover credits and any other type of credits) may be used until December 1 2026 only. Any unused credits will expire on that date and are non-refundable.\" The FAQ's pay-as-you-go answer is shorter: \"Any unused PAYG credits will expire on 1 December 2026. We recommend using your credits before the migration date.\"\n\nNeither the FAQ nor the General Terms describes any transfer of unused credits, invoices or subscriptions to Canva or Leonardo.Ai. Those products are presented as replacements, not as a continuation of your remove.bg balance.\n\n## What happens to subscriptions\n\nAnnual plans \"will continue to work normally until 1 December 2026 at 9:00 a.m. CET.\" After that, the FAQ says, the plan \"ends automatically and you won't be charged again.\" Unused time past that date is refunded \"pro-rata\" to the original payment method, and \"No action is required from you to receive this refund.\"\n\nMonthly plans also keep working until the same moment, then end automatically. \"Any final renewal on or after 1 November is free.\" You can cancel earlier at [remove.bg/dashboard](https://www.remove.bg/dashboard).\n\n## Invoices and account access\n\nAccount data stays available until 9:00 a.m. CET on December 1. After that, \"the website and accounts won't be accessible.\" The FAQ says to export your credit usage report and invoices from your Account page before then: \"You won't be able to download them afterward.\"\n\n## API, plugins and what replace them\n\nThe self-service API \"will stop accepting requests from 1 December 2026.\" remove.bg points those users to Leonardo.Ai's API and a migration guide. Enterprise contracts are unchanged.\n\nThe Photoshop plugin \"won't be available after 1 December 2026.\" The FAQ points Photoshop users to Affinity, also part of Canva; Affinity itself is free, but its built-in background removal \"runs on Canva AI, so you'll need a Canva Pro subscription to use it.\" Other integrations and plugins \"will be discontinued on 1 December 2026.\"\n\n## What to do before December 1\n\n- Spend unused credits. The General Terms make them non-refundable after that date.\n- Export invoices and your credit usage report from the Account page while you can still sign in.\n- If you are on a monthly plan, the final renewal on or after November 1 is already free; cancel earlier only if you want the plan to end sooner.\n- If you are on an annual plan, you do not need to file a refund request for unused time past December 1.\n- Self-service API users should plan the move to Leonardo.Ai now. Website and bulk users are pointed to Canva. Photoshop users are pointed to Affinity, with the Canva Pro caveat above.\n- Enterprise API customers can keep their current contracts.\n\nCoverage (checked Nov 13, 2026): Several independent how-to sites have already written about the shutdown. This page cites only remove.bg's FAQ and General Terms.",
+    "sources": [
+      [
+        "remove.bg FAQ: remove.bg is moving to Canva",
+        "https://www.remove.bg/faq"
+      ],
+      [
+        "remove.bg General Terms and Conditions (last updated 9th September 2026)",
+        "https://www.remove.bg/gtc"
+      ]
+    ],
+    "faq": [
+      [
+        "When does remove.bg shut down?",
+        "December 1, 2026, at 9:00 a.m. CET, according to remove.bg's FAQ (fetched November 13, 2026). The standalone website, accounts and self-service API stop then."
+      ],
+      [
+        "Do unused remove.bg credits transfer to Canva or Leonardo.Ai?",
+        "No transfer is described. The General Terms (updated September 9, 2026) say all unused credits expire on December 1, 2026, and are non-refundable. The FAQ recommends using pay-as-you-go credits before that date."
+      ],
+      [
+        "Do annual subscribers get a refund?",
+        "Yes, for unused time past December 1. The FAQ says you will receive a pro-rata refund to your original payment method and that no action is required."
+      ],
+      [
+        "What happens to monthly subscriptions?",
+        "They work until 9:00 a.m. CET on December 1, then end automatically. Any final renewal on or after November 1 is free. You can cancel earlier at remove.bg/dashboard."
+      ],
+      [
+        "Can I still download invoices after December 1?",
+        "No. The FAQ says to export your credit usage report and invoices from your Account page before December 1, because you will not be able to download them afterward."
+      ]
+    ]
+  },
+  {
+    "service": "cPanel",
+    "page": "pricing",
+    "headline": "cPanel raises Solo from $29.99 to $32.99 a month on Dec 16",
+    "tldr": "cPanel license prices rise on Dec 16 for new orders and every renewal on or after that date. Solo goes from $29.99 to $32.99 a month; Admin, Pro, Premier and extra accounts go up as well.",
+    "impact": 2,
+    "effective": "2026-12-16",
+    "deadline": "New prices start",
+    "themes": [
+      "price-creep"
+    ],
+    "url": "https://www.cpanel.net/pricing/",
+    "who": "Anyone who buys a cPanel Solo, Admin, Pro or Premier license from the cPanel Store, or whose license renews on or after December 16, 2026",
+    "seo_title": "cPanel price increase Dec 16, 2026: Solo $29.99 to $32.99 a month, all tiers up",
+    "seo_desc": "cPanel license prices change December 16, 2026 for new orders and renewals. Solo rises from $29.99 to $32.99 a month. Admin, Pro, Premier and per-account add-ons also increase, per cPanel's pricing page and 2027 licensing guide.",
+    "redline": [
+      {
+        "before": "",
+        "after": "Please note that effective December 16, 2026, cPanel license pricing will be adjusted, affecting new orders and all renewals on or after that date.",
+        "label": "cPanel pricing page · Important Notice",
+        "note": "The same page still lists today's prices, including Solo at $29.99 a month.",
+        "src": "quoted"
+      },
+      {
+        "before": "$29.99/mo – billed monthly",
+        "after": "$32.99",
+        "label": "cPanel Solo, Cloud, billed monthly",
+        "note": "$29.99 is on the live pricing page (fetched Nov 13). $32.99 is in the Store Licensing Guide 2027, valid from December 16, 2026.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "If you want to renew at today's Store price, do it before December 16, 2026: the new prices apply to all renewals on or after that date",
+      "If you buy through a hosting partner rather than the cPanel Store, ask them what you will be charged; the figures below are cPanel Store prices, excluding VAT"
+    ],
+    "what": "cPanel has posted a notice on its [pricing page](https://www.cpanel.net/pricing/): \"effective December 16, 2026, cPanel license pricing will be adjusted, affecting new orders and all renewals on or after that date.\" The notice links to the [Customer Licensing Guide](https://www.cpanel.net/customer-licensing-guide/), which embeds cPanel's Store Licensing Guide 2027, marked \"Valid from December 16, 2026.\" Both pages were fetched November 13, 2026.\n\nThe live pricing page still shows today's Store prices. The 2027 guide shows the prices that apply from December 16. All figures below are official cPanel Store prices, excluding VAT, for Cloud/VPS licenses unless noted. Partners and hosting providers may charge something different.\n\n## The new monthly prices\n\n| Tier | Accounts | Until Dec 15 (pricing page) | From Dec 16 (2027 guide) |\n|---|---|---|---|\n| Solo | 1 | $29.99 | $32.99 |\n| Admin | Up to 5 | $35.99 | $38.99 |\n| Pro | Up to 30 | $53.99 | $58.99 |\n| Premier | Up to 100 | $69.99 | $76.99 |\n| Each account above 100 | Premier only | $0.49 | $0.55 |\n\nSolo, Admin and Pro can also be billed annually. The pricing page today lists those as $27.46, $32.96 and $49.46 a month billed annually. The 2027 guide lists annual Store totals of $362.89, $428.89 and $648.89. Premier stays monthly only, and Metal (dedicated) is offered only at the Premier price.\n\n## When you pay the new price\n\nThe pricing-page notice is specific: the adjustment affects \"new orders and all renewals on or after that date.\" A license that renews on December 16 or later is billed at the new rate. One that you renew before December 16 is still at today's Store price for that term.\n\nCoverage (checked Nov 13, 2026): We are citing only cPanel's pricing page and Store Licensing Guide 2027.",
+    "sources": [
+      [
+        "cPanel Pricing Plans & Licensing Options",
+        "https://www.cpanel.net/pricing/"
+      ],
+      [
+        "cPanel Customer Licensing Guide 2027",
+        "https://www.cpanel.net/customer-licensing-guide/"
+      ],
+      [
+        "cPanel Store Licensing Guide 2027 (PDF, valid from December 16, 2026)",
+        "https://www.cpanel.net/wp-content/uploads/2026/10/cPanel_Store_Licensing_Guide_2027.pdf"
+      ]
+    ],
+    "faq": [
+      [
+        "When do cPanel prices go up?",
+        "December 16, 2026, for new orders and for every renewal on or after that date, according to the notice on cPanel's pricing page (fetched November 13, 2026)."
+      ],
+      [
+        "How much is cPanel Solo after the increase?",
+        "The Store Licensing Guide 2027 lists cPanel Solo Cloud at $32.99 a month, up from $29.99 on the live pricing page. Annual Solo is listed at $362.89."
+      ],
+      [
+        "Do existing licenses stay at the old price?",
+        "Not past their next renewal on or after December 16. The notice says the adjustment affects all renewals on or after that date, as well as new orders."
+      ]
+    ]
+  },
+  {
+    "service": "Logos",
+    "page": "pricing",
+    "headline": "Logos and Verbum raise prices Dec 7: +$1 to $2 a month for most plans",
+    "tldr": "English Logos and Verbum Premium, Pro and Max plans go up Dec 7. Most monthly customers see +$1 to $2; the new everyday list prices are $10.99, $16.49 and $21.99 a month. Check your account for your rate.",
+    "impact": 2,
+    "effective": "2026-12-07",
+    "deadline": "New prices start",
+    "themes": [
+      "price-creep"
+    ],
+    "url": "https://www.logos.com/subscription-faq",
+    "who": "People on English Logos or Verbum Premium, Pro or Max subscriptions, including monthly, annual and two-year plans. Logos Plus, Logos for Church, Logos for Education and Logos for Ministry are not included.",
+    "seo_title": "Logos and Verbum price increase Dec 7, 2026: +$1 to $2 a month for most plans",
+    "seo_desc": "Logos and Verbum raise English Premium, Pro and Max subscription prices on December 7, 2026. Most customers see +$1, +$1.50 or +$2 a month. New everyday prices are $10.99, $16.49 and $21.99. How to check your rate and lock current annual pricing.",
+    "redline": [
+      {
+        "before": "",
+        "after": "we're raising the price on English Logos and Verbum plans beginning at 12:00 a.m. (PST) on December 7, 2026.",
+        "label": "Logos Community · Subscription prices are changing December 7 + FAQ (Jason Stone, Nov 2, 2026)",
+        "note": "The same post says this does not affect Logos Plus, Logos for Church, Logos for Education, or Logos for Ministry.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "Most customers will see their current rates increase by the following amount, based on their previous base package ownership and current plan/cycle: Premium + $1.00 monthly / + $10.00 annually / + $18.99 for 2-year; Pro + $1.50 / + $15.00 / + $28.49; Max + $2.00 / + $20.00 / + $37.99.",
+        "label": "Logos Community · What's changing (Nov 2, 2026)",
+        "note": "Your exact rate is on your account subscription page; ownership and academic discounts still apply.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Sign in at logos.com/account/subscriptions or verbum.com/account/subscriptions to see your exact new price",
+      "If you want another year at today's annual rate, switch from monthly to annual (or buy annual/two-year) before December 7, 2026",
+      "If you own a Logos or Verbum package and want to start earning a Legacy Fallback License, subscribe before December 7; that is the last day to start the 24-month clock"
+    ],
+    "what": "Faithlife is raising prices on English Logos and Verbum subscriptions beginning at 12:00 a.m. Pacific Time on December 7, 2026. The announcement was posted on November 2, 2026, in a [Logos Community thread](https://community.logos.com/forums/topic/239417-subscription-prices-are-changing-december-7-faq/) by Jason Stone of Logos. Matching FAQs are live on [logos.com/subscription-faq](https://www.logos.com/subscription-faq) and [verbum.com/subscription-faq](https://verbum.com/subscription-faq) (all fetched November 13, 2026).\n\nThe change covers Logos and Verbum Premium, Pro and Max. It \"doesn't affect Logos Plus, Logos for Church, Logos for Education, or Logos for Ministry.\"\n\n## How much it goes up\n\nLogos says most customers will see their current rates increase by these amounts, depending on plan and billing cycle:\n\n| | Monthly | Annually | 2-year |\n|---|---|---|---|\n| Premium | +$1.00 | +$10.00 | +$18.99 |\n| Pro | +$1.50 | +$15.00 | +$28.49 |\n| Max | +$2.00 | +$20.00 | +$37.99 |\n\nThe FAQs also state the new everyday list prices for people who still have an ownership discount: they \"keep paying less than the new everyday price of $10.99/month for Premium, $16.49/month for Pro, and $21.99/month for Max.\" Academic discounts stay at the same percentage (the Verbum FAQ says students still get 30% off and faculty 40% off) on the new base rate. Your exact figure is on your account subscription page.\n\n## When you are charged\n\nThe FAQs: \"If you're on a monthly subscription, the new price starts with your first payment on or after 12 a.m. (PST) December 7, 2026. If you're on an annual or two-year subscription, nothing changes until your next renewal after December 7, 2026.\" Logos will email you 30 days before the first payment at the new price (monthly users also see it on the prior month's receipt).\n\nA current two-year term is not cut short. When it renews, the FAQ says it \"renews for a year at the new annual price,\" unless you buy another two-year term.\n\n## What you can do before December 7\n\nYou can switch to annual billing before December 7 and \"pay the current annual price for your next 12 months.\" The FAQ notes that an annual plan \"costs about the same as 10 monthly payments,\" and a two-year plan \"about the same as 19 monthly payments.\"\n\nDecember 7 is also the last day to start earning a Legacy Fallback License. If you own a Logos or Verbum package and are not yet subscribed, you need to subscribe by then and stay subscribed for 24 months in a row. After December 7, \"no one can start earning a Legacy Fallback License.\"\n\nThe FAQs say nothing else about the plan is changing: \"You'll get the same features, books, and billing options. Only the price is changing.\"\n\nCoverage (checked Nov 13, 2026): We are citing Logos's own community announcement and the Logos and Verbum subscription FAQs.",
+    "sources": [
+      [
+        "Logos Community: Subscription prices are changing December 7 + FAQ (Jason Stone, Nov 2, 2026)",
+        "https://community.logos.com/forums/topic/239417-subscription-prices-are-changing-december-7-faq/"
+      ],
+      [
+        "Logos subscription FAQ",
+        "https://www.logos.com/subscription-faq"
+      ],
+      [
+        "Verbum subscription FAQ",
+        "https://verbum.com/subscription-faq"
+      ]
+    ],
+    "faq": [
+      [
+        "When do Logos and Verbum prices go up?",
+        "At 12:00 a.m. Pacific Time on December 7, 2026, for the first renewal on or after that time. Monthly plans are charged the new price on that first payment; annual and two-year plans wait until their next renewal."
+      ],
+      [
+        "How much is the increase?",
+        "Logos's November 2 community post says most customers see +$1.00, +$1.50 or +$2.00 a month on Premium, Pro and Max, or +$10, +$15 or +$20 a year. The new everyday list prices in the FAQs are $10.99, $16.49 and $21.99 a month. Check your account page for your rate."
+      ],
+      [
+        "Does this affect Logos for Church or Logos Plus?",
+        "No. The community announcement says the change does not affect Logos Plus, Logos for Church, Logos for Education, or Logos for Ministry."
+      ],
+      [
+        "Can I keep today's annual price for another year?",
+        "Yes, if you switch to annual (or buy annual or two-year) before December 7, 2026. The FAQ says you will pay the current annual price for the next 12 months."
+      ]
+    ]
+  },
+  {
+    "service": "discovery+",
+    "page": "pricing",
+    "headline": "discovery+ Ad-Free is $11.99 starting with bills from Nov 12",
+    "tldr": "discovery+ raised Ad-Free by $2 to $11.99 a month and the ad plan by $1 to $6.99. New U.S. sign-ups have paid that since Oct 13; existing subscribers are charged on the first bill on or after Nov 12.",
+    "impact": 2,
+    "effective": "2026-11-12",
+    "deadline": "First bill on or after",
+    "themes": [
+      "price-creep"
+    ],
+    "url": "https://help.discoveryplus.com/hc/en-us/articles/44191391175703-discovery-plan-price-changes",
+    "who": "U.S. discovery+ subscribers, especially anyone on the Ad-Free plan billed by discovery+ or an app store. If you are billed through Amazon Prime Video Channels, DIRECTV, the Roku Channel or Sling TV, your provider handles the notice.",
+    "seo_title": "discovery+ price increase 2026: Ad-Free is $11.99 a month as of Nov 12",
+    "seo_desc": "discovery+ Ad-Free rose by $2 to $11.99 a month, and the ad-supported plan by $1 to $6.99. New U.S. subscribers have paid the new prices since October 13, 2026; existing subscribers are charged on the first bill on or after November 12.",
+    "redline": [
+      {
+        "before": "",
+        "after": "The discovery+ plan increased by $1 to $6.99/month (plus applicable taxes). The discovery+ (Ad-Free) plan increased by $2 to $11.99/month (plus applicable taxes).",
+        "label": "discovery+ Help Center · discovery+ plan price changes",
+        "note": "That is $2 more than $9.99 for Ad-Free, and $1 more than $5.99 for the ad plan, by the help center's own arithmetic.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "You'll be charged the new monthly price on your next billing date on or after November 12, 2026.",
+        "label": "discovery+ Help Center · Current subscribers",
+        "note": "New U.S. subscribers have been charged the new prices since October 13, 2026.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Check your next billing date in your discovery+ account, or in the app store or provider that bills you, to see when the new price applies",
+      "If you have a promotional discount, the help center says your price will not increase until that promotional period ends"
+    ],
+    "what": "discovery+'s U.S. help center has a page titled \"discovery+ plan price changes,\" fetched November 13, 2026. It says plan prices \"increased for new subscriptions in the U.S. on October 13, 2026.\"\n\n\"The discovery+ plan increased by $1 to $6.99/month (plus applicable taxes). The discovery+ (Ad-Free) plan increased by $2 to $11.99/month (plus applicable taxes).\" By that wording, Ad-Free was $9.99 and the ad-supported plan was $5.99.\n\n## When existing subscribers pay it\n\nNew subscribers have been charged the new prices since October 13. For current subscribers, the page says: \"You'll be charged the new monthly price on your next billing date on or after November 12, 2026.\"\n\nIf you are billed by discovery+ or an app store, the subscription \"will automatically renew at the new price (plus applicable taxes) on your first billing date on or after November 12, 2026.\" If you have a promotional discount, \"your price won't increase until your promotional period ends.\"\n\nIf you are billed through another provider, such as Amazon Prime Video Channels, DIRECTV, the Roku Channel, or Sling TV, \"your provider will let you know of any price changes (as applicable).\"\n\nThe help center walks through how to see who bills you and when the next date is: sign in at the discovery+ app or discoveryplus.com, open Account, and read the Subscription section.\n\nCoverage (checked Nov 13, 2026): We are citing only discovery+'s own help article.",
+    "sources": [
+      [
+        "discovery+ Help Center: discovery+ plan price changes",
+        "https://help.discoveryplus.com/hc/en-us/articles/44191391175703-discovery-plan-price-changes"
+      ]
+    ],
+    "faq": [
+      [
+        "How much does discovery+ Ad-Free cost now?",
+        "The help center says the Ad-Free plan increased by $2 to $11.99 a month, plus tax. The ad-supported plan increased by $1 to $6.99 a month, plus tax."
+      ],
+      [
+        "When does the new price hit my bill?",
+        "If you are a current U.S. subscriber billed by discovery+ or an app store, on your first billing date on or after November 12, 2026. New U.S. subscribers have paid the new prices since October 13. Promotional discounts last until the promo ends."
+      ],
+      [
+        "What if Amazon or Sling bills me for discovery+?",
+        "The help center says your provider will let you know of any price changes. Check that provider's statement or subscription settings."
       ]
     ]
   }

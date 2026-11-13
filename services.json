@@ -337,5 +337,17 @@
  "Temu": {
   "terms": "https://www.temu.com/terms-of-use.html",
   "privacy": "https://www.temu.com/privacy-and-cookie-policy.html"
+ },
+ "remove.bg": {
+  "terms": "https://www.remove.bg/gtc"
+ },
+ "cPanel": {
+  "pricing": "https://www.cpanel.net/pricing/"
+ },
+ "Logos": {
+  "pricing": "https://www.logos.com/subscription-faq"
+ },
+ "discovery+": {
+  "pricing": "https://help.discoveryplus.com/hc/en-us/articles/44191391175703-discovery-plan-price-changes"
  }
 }

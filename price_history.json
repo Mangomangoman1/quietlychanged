@@ -624,7 +624,7 @@
  },
  "Amazon Prime": {
   "verified": "2026-10-18",
-  "intro": "Amazon Prime launched at $79 a year in 2005 and now costs $139 a year or $14.99 a month. Amazon has raised the membership about every four years, most recently in February 2022, and has not announced an increase in 2026.",
+  "intro": "Amazon Prime launched at $79 a year in 2005 and now costs $139 a year or $14.99 a month in the US. Amazon has raised the US membership about every four years, most recently in February 2022, and has not announced a US increase in 2026.",
   "flagship": "Annual",
   "units": {
    "Annual": "year"
@@ -677,7 +677,8 @@
   },
   "notes": [
    "Amazon's help page lists today's prices: $14.99 a month, $139 a year, Prime Video alone $8.99 a month, Prime for Young Adults $7.49 a month or $69 a year.",
-   "Analysts have predicted a 2026 increase to about $159 a year; Amazon has not confirmed one."
+   "Analysts have predicted a 2026 US increase to about $159 a year; Amazon has not confirmed a US increase.",
+   "In Australia, Amazon's own help page and amazon.com.au/prime listed Prime at A$12.99 a month or A$99 a year as of November 13, 2026. Those pages do not state a date for existing members or the previous prices."
   ],
   "sources": [
    [
@@ -695,6 +696,10 @@
    [
     "Streaming Price Tracker: Prime Video history",
     "https://streamingpricetracker.com/history/"
+   ],
+   [
+    "Amazon.com.au Customer Service: The Amazon Prime Membership Fee (checked Nov 13, 2026)",
+    "https://www.amazon.com.au/gp/help/customer/display.html?nodeId=G34EUPKVMYFW8N2U"
    ]
   ]
  },

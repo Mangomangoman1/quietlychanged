@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:remove.bg · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-t
+ ransfer@quietlychanged.com
+DTSTAMP:20261113T220145Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:remove.bg: Shuts down
+DESCRIPTION:remove.bg's website\, accounts and self-service API stop on De
+ c 1 at 9:00 a.m. CET. Unused credits expire and are non-refundable\; expo
+ rt invoices before then.\n\nhttps://quietlychanged.com/changes/2026-11-13
+ -remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer/
+URL:https://quietlychanged.com/changes/2026-11-13-remove-bg-dec-1-shutdown
+ -unused-credits-expire-and-do-not-transfer/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: remove.bg — Shuts down
+END:VALARM
+END:VEVENT
+END:VCALENDAR

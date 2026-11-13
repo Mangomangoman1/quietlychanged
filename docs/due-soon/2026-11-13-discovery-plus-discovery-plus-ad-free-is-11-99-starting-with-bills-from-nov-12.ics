@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:discovery+ · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-13-discovery-plus-discovery-plus-ad-free-is-11-99-starting-wit
+ h-bills-from-nov-12@quietlychanged.com
+DTSTAMP:20261113T220145Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:discovery+: First bill on or after
+DESCRIPTION:discovery+ raised Ad-Free by $2 to $11.99 a month and the ad p
+ lan by $1 to $6.99. New U.S. sign-ups have paid that since Oct 13\; exist
+ ing subscribers are charged on the first bill on or after Nov 12.\n\nhttp
+ s://quietlychanged.com/changes/2026-11-13-discovery-plus-discovery-plus-a
+ d-free-is-11-99-starting-with-bills-from-nov-12/
+URL:https://quietlychanged.com/changes/2026-11-13-discovery-plus-discovery
+ -plus-ad-free-is-11-99-starting-with-bills-from-nov-12/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: discovery+ — First bill on or after
+END:VALARM
+END:VEVENT
+END:VCALENDAR

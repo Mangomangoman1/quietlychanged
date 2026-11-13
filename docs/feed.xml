@@ -36,6 +36,12 @@ In practice, if Temu offers to settle your claim and you go on to win less than 
 
 Other arbitration changes: anyone starting an arbitration must now disclose &quot;any relationship the party requesting arbitration has with third-party litigation funders&quot; and hand over &quot;copies of all applicable litigation funding agreements&quot;; &quot;all materials and documents exchanged during the arbitration proceedings shall be kept confidential&quot;; and the winner of a court fight over whether the required pre-arbitration steps were followed can now also recover costs incurred &quot;in defending against an improperly commenced arbitration.&quot; Two changes help consumers: the arbitration &quot;will be conducted in the county where you reside,&quot; and the arbitrator no longer has to be licensed &quot;in the State of New York.&quot;
 
+## How Temu&#x27;s offer rule compares
+
+eBay&#x27;s User Agreement (in effect for existing users since June 28, 2026) has a similar rule: &quot;any party may serve an offer in writing upon the other party to allow judgment on specified terms,&quot; and if it is turned down and the other side &quot;fails to obtain a more favorable award,&quot; that side &quot;shall pay the offering party&#x27;s costs from the time of the offer.&quot; eBay&#x27;s version doesn&#x27;t mention lawyers. Temu&#x27;s goes further and spells out that those costs include &quot;any attorney&#x27;s fees and fees paid to the arbitration provider.&quot; Amazon&#x27;s Conditions of Use (last updated August 14, 2026) send most disputes back to arbitration, but the version we checked has no settlement-offer rule at all.
+
+Temu&#x27;s AI-agent wording is nearly the same as eBay&#x27;s, too. eBay bans &quot;buy-for-me agents, LLM-driven bots, or any end-to-end flow that attempts to place orders without human review.&quot; Temu&#x27;s Costa Rica terms (effective July 27, 2026) already had the same item 13, so the US version is catching up with wording Temu already uses in other countries.
+
 ## Change 2: AI shopping agents are banned
 
 The list of things you may not do gets a new item (13): using any feature, &quot;including but not limited to ordering, payments, promotions, rewards, or account management,&quot; through &quot;any automated, programmatic, or non-human means (including but not limited to buy-for-me agents, large language model-driven bots, or any end-to-end flow that attempts to place orders without human review) where such use interferes with, circumvents, or undermines Temu&#x27;s technical measures, security controls, or the intended operation of the Services, except as expressly permitted by Temu.&quot; A new item (14) bars framing or embedding &quot;any part of the Services, including any webpage, interface, login page, or form&quot; in another site or app. eBay (February 2026), United Airlines (November 11) and several banks have added similar AI-agent rules this year.
@@ -54,7 +60,106 @@ The terms add a right to cancel: &quot;you may cancel your order at no cost and 
 
 Both versions of the terms say that if Temu makes a material change to the arbitration agreement, you can reject it &quot;within thirty (30) days of such change becoming effective by writing to us at the applicable address set forth in Section 18.5.&quot; That address is Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA, and notice counts &quot;when received.&quot; If you reject the changes, the arbitration terms you first agreed to &quot;remain in full force and effect,&quot; so the new settlement-offer rule wouldn&#x27;t apply to you. By our count the 30 days end on January 6, 2027. If you already opted out of Temu arbitration in the past, both versions say Temu &quot;will continue to honor&quot; that. New users can still opt out of arbitration altogether within 30 days &quot;after first accepting&quot; it.
 
-Coverage (checked Nov 13, 2026): searches turned up only Temu&#x27;s own pages and automated document trackers (TosDiff logged a new privacy-policy snapshot on Nov 13). We found no news coverage of the settlement-offer rule, the AI-agent ban or the privacy edits.</summary></entry><entry><title>Peacock plans and prices (November 2026): Select vs Premium vs Premium Plus, monthly vs yearly</title><link href="https://quietlychanged.com/guides/peacock-plans-and-prices-2026-every-price-increase/"/><id>https://quietlychanged.com/guides/peacock-plans-and-prices-2026-every-price-increase/</id><updated>2026-11-12T12:00:00Z</updated><summary>Short answer: when we checked peacocktv.com on November 12, 2026, Peacock Select was $8.99 a month, Premium (with ads) $12.99 and Premium Plus $19.99, or $89.99, $129.99 and $199.99 a year. Those prices took effect on August 18, 2026. Peacock has raised prices every summer since 2023, and Premium now costs more than two and a half times its 2020 launch price.</summary></entry><entry><title>Robinhood KPI binary options fees from Jan 1, 2027: the formula explained</title><link href="https://quietlychanged.com/changes/2026-11-12-robinhood-robinhood-sets-fees-for-its-kpi-binary-options-from-jan-1-2027-up-to/"/><id>https://quietlychanged.com/changes/2026-11-12-robinhood-robinhood-sets-fees-for-its-kpi-binary-options-from-jan-1-2027-up-to/</id><updated>2026-11-12T12:00:00Z</updated><summary>Robinhood Financial&#x27;s fee schedule, revised Nov 10, 2026 (the PDF&#x27;s own timestamp), adds a new row for KPI Binary Options, the yes/no contracts Cboe lists on company metrics such as earnings per share, revenue or a company&#x27;s subscriber count. Each contract pays $1 if the reported figure meets the strike and nothing if it doesn&#x27;t, so its price p sits between $0 and $1.
+Coverage (checked Nov 13, 2026): searches turned up only Temu&#x27;s own pages and automated document trackers (TosDiff logged a new privacy-policy snapshot on Nov 13). We found no news coverage of the settlement-offer rule, the AI-agent ban or the privacy edits.</summary></entry><entry><title>remove.bg shuts down Dec 1, 2026: unused credits expire, invoices must be exported first</title><link href="https://quietlychanged.com/changes/2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer/"/><id>https://quietlychanged.com/changes/2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer/</id><updated>2026-11-13T12:00:00Z</updated><summary>remove.bg, the background-removal tool now owned by Canva, is closing its standalone website, accounts and self-service API on December 1, 2026 at 9:00 a.m. CET. That is the time on remove.bg&#x27;s own FAQ, fetched November 13, 2026. Background removal moves into Canva for everyday use, and the self-service API moves to Leonardo.Ai, which Canva also owns. Enterprise API contracts &quot;aren&#x27;t affected and continue as normal.&quot;
+
+The facts below are from that FAQ and from remove.bg&#x27;s General Terms and Conditions, which the FAQ links and which are marked &quot;Last updated: 9th September 2026.&quot;
+
+## Unused credits expire, and nothing transfers
+
+The General Terms say: &quot;All credits (including pay-as-you-go (PAYG) credits, monthly rollover credits and any other type of credits) may be used until December 1 2026 only. Any unused credits will expire on that date and are non-refundable.&quot; The FAQ&#x27;s pay-as-you-go answer is shorter: &quot;Any unused PAYG credits will expire on 1 December 2026. We recommend using your credits before the migration date.&quot;
+
+Neither the FAQ nor the General Terms describes any transfer of unused credits, invoices or subscriptions to Canva or Leonardo.Ai. Those products are presented as replacements, not as a continuation of your remove.bg balance.
+
+## What happens to subscriptions
+
+Annual plans &quot;will continue to work normally until 1 December 2026 at 9:00 a.m. CET.&quot; After that, the FAQ says, the plan &quot;ends automatically and you won&#x27;t be charged again.&quot; Unused time past that date is refunded &quot;pro-rata&quot; to the original payment method, and &quot;No action is required from you to receive this refund.&quot;
+
+Monthly plans also keep working until the same moment, then end automatically. &quot;Any final renewal on or after 1 November is free.&quot; You can cancel earlier at [remove.bg/dashboard](https://www.remove.bg/dashboard).
+
+## Invoices and account access
+
+Account data stays available until 9:00 a.m. CET on December 1. After that, &quot;the website and accounts won&#x27;t be accessible.&quot; The FAQ says to export your credit usage report and invoices from your Account page before then: &quot;You won&#x27;t be able to download them afterward.&quot;
+
+## API, plugins and what replace them
+
+The self-service API &quot;will stop accepting requests from 1 December 2026.&quot; remove.bg points those users to Leonardo.Ai&#x27;s API and a migration guide. Enterprise contracts are unchanged.
+
+The Photoshop plugin &quot;won&#x27;t be available after 1 December 2026.&quot; The FAQ points Photoshop users to Affinity, also part of Canva; Affinity itself is free, but its built-in background removal &quot;runs on Canva AI, so you&#x27;ll need a Canva Pro subscription to use it.&quot; Other integrations and plugins &quot;will be discontinued on 1 December 2026.&quot;
+
+## What to do before December 1
+
+- Spend unused credits. The General Terms make them non-refundable after that date.
+- Export invoices and your credit usage report from the Account page while you can still sign in.
+- If you are on a monthly plan, the final renewal on or after November 1 is already free; cancel earlier only if you want the plan to end sooner.
+- If you are on an annual plan, you do not need to file a refund request for unused time past December 1.
+- Self-service API users should plan the move to Leonardo.Ai now. Website and bulk users are pointed to Canva. Photoshop users are pointed to Affinity, with the Canva Pro caveat above.
+- Enterprise API customers can keep their current contracts.
+
+Coverage (checked Nov 13, 2026): Several independent how-to sites have already written about the shutdown. This page cites only remove.bg&#x27;s FAQ and General Terms.</summary></entry><entry><title>cPanel price increase Dec 16, 2026: Solo $29.99 to $32.99 a month, all tiers up</title><link href="https://quietlychanged.com/changes/2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-dec-16/"/><id>https://quietlychanged.com/changes/2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-dec-16/</id><updated>2026-11-13T12:00:00Z</updated><summary>cPanel has posted a notice on its [pricing page](https://www.cpanel.net/pricing/): &quot;effective December 16, 2026, cPanel license pricing will be adjusted, affecting new orders and all renewals on or after that date.&quot; The notice links to the [Customer Licensing Guide](https://www.cpanel.net/customer-licensing-guide/), which embeds cPanel&#x27;s Store Licensing Guide 2027, marked &quot;Valid from December 16, 2026.&quot; Both pages were fetched November 13, 2026.
+
+The live pricing page still shows today&#x27;s Store prices. The 2027 guide shows the prices that apply from December 16. All figures below are official cPanel Store prices, excluding VAT, for Cloud/VPS licenses unless noted. Partners and hosting providers may charge something different.
+
+## The new monthly prices
+
+| Tier | Accounts | Until Dec 15 (pricing page) | From Dec 16 (2027 guide) |
+|---|---|---|---|
+| Solo | 1 | $29.99 | $32.99 |
+| Admin | Up to 5 | $35.99 | $38.99 |
+| Pro | Up to 30 | $53.99 | $58.99 |
+| Premier | Up to 100 | $69.99 | $76.99 |
+| Each account above 100 | Premier only | $0.49 | $0.55 |
+
+Solo, Admin and Pro can also be billed annually. The pricing page today lists those as $27.46, $32.96 and $49.46 a month billed annually. The 2027 guide lists annual Store totals of $362.89, $428.89 and $648.89. Premier stays monthly only, and Metal (dedicated) is offered only at the Premier price.
+
+## When you pay the new price
+
+The pricing-page notice is specific: the adjustment affects &quot;new orders and all renewals on or after that date.&quot; A license that renews on December 16 or later is billed at the new rate. One that you renew before December 16 is still at today&#x27;s Store price for that term.
+
+Coverage (checked Nov 13, 2026): We are citing only cPanel&#x27;s pricing page and Store Licensing Guide 2027.</summary></entry><entry><title>Logos and Verbum price increase Dec 7, 2026: +$1 to $2 a month for most plans</title><link href="https://quietlychanged.com/changes/2026-11-13-logos-logos-and-verbum-raise-prices-dec-7-plus-1-to-2-a-month-for-most-plans/"/><id>https://quietlychanged.com/changes/2026-11-13-logos-logos-and-verbum-raise-prices-dec-7-plus-1-to-2-a-month-for-most-plans/</id><updated>2026-11-13T12:00:00Z</updated><summary>Faithlife is raising prices on English Logos and Verbum subscriptions beginning at 12:00 a.m. Pacific Time on December 7, 2026. The announcement was posted on November 2, 2026, in a [Logos Community thread](https://community.logos.com/forums/topic/239417-subscription-prices-are-changing-december-7-faq/) by Jason Stone of Logos. Matching FAQs are live on [logos.com/subscription-faq](https://www.logos.com/subscription-faq) and [verbum.com/subscription-faq](https://verbum.com/subscription-faq) (all fetched November 13, 2026).
+
+The change covers Logos and Verbum Premium, Pro and Max. It &quot;doesn&#x27;t affect Logos Plus, Logos for Church, Logos for Education, or Logos for Ministry.&quot;
+
+## How much it goes up
+
+Logos says most customers will see their current rates increase by these amounts, depending on plan and billing cycle:
+
+| | Monthly | Annually | 2-year |
+|---|---|---|---|
+| Premium | +$1.00 | +$10.00 | +$18.99 |
+| Pro | +$1.50 | +$15.00 | +$28.49 |
+| Max | +$2.00 | +$20.00 | +$37.99 |
+
+The FAQs also state the new everyday list prices for people who still have an ownership discount: they &quot;keep paying less than the new everyday price of $10.99/month for Premium, $16.49/month for Pro, and $21.99/month for Max.&quot; Academic discounts stay at the same percentage (the Verbum FAQ says students still get 30% off and faculty 40% off) on the new base rate. Your exact figure is on your account subscription page.
+
+## When you are charged
+
+The FAQs: &quot;If you&#x27;re on a monthly subscription, the new price starts with your first payment on or after 12 a.m. (PST) December 7, 2026. If you&#x27;re on an annual or two-year subscription, nothing changes until your next renewal after December 7, 2026.&quot; Logos will email you 30 days before the first payment at the new price (monthly users also see it on the prior month&#x27;s receipt).
+
+A current two-year term is not cut short. When it renews, the FAQ says it &quot;renews for a year at the new annual price,&quot; unless you buy another two-year term.
+
+## What you can do before December 7
+
+You can switch to annual billing before December 7 and &quot;pay the current annual price for your next 12 months.&quot; The FAQ notes that an annual plan &quot;costs about the same as 10 monthly payments,&quot; and a two-year plan &quot;about the same as 19 monthly payments.&quot;
+
+December 7 is also the last day to start earning a Legacy Fallback License. If you own a Logos or Verbum package and are not yet subscribed, you need to subscribe by then and stay subscribed for 24 months in a row. After December 7, &quot;no one can start earning a Legacy Fallback License.&quot;
+
+The FAQs say nothing else about the plan is changing: &quot;You&#x27;ll get the same features, books, and billing options. Only the price is changing.&quot;
+
+Coverage (checked Nov 13, 2026): We are citing Logos&#x27;s own community announcement and the Logos and Verbum subscription FAQs.</summary></entry><entry><title>discovery+ price increase 2026: Ad-Free is $11.99 a month as of Nov 12</title><link href="https://quietlychanged.com/changes/2026-11-13-discovery-plus-discovery-plus-ad-free-is-11-99-starting-with-bills-from-nov-12/"/><id>https://quietlychanged.com/changes/2026-11-13-discovery-plus-discovery-plus-ad-free-is-11-99-starting-with-bills-from-nov-12/</id><updated>2026-11-13T12:00:00Z</updated><summary>discovery+&#x27;s U.S. help center has a page titled &quot;discovery+ plan price changes,&quot; fetched November 13, 2026. It says plan prices &quot;increased for new subscriptions in the U.S. on October 13, 2026.&quot;
+
+&quot;The discovery+ plan increased by $1 to $6.99/month (plus applicable taxes). The discovery+ (Ad-Free) plan increased by $2 to $11.99/month (plus applicable taxes).&quot; By that wording, Ad-Free was $9.99 and the ad-supported plan was $5.99.
+
+## When existing subscribers pay it
+
+New subscribers have been charged the new prices since October 13. For current subscribers, the page says: &quot;You&#x27;ll be charged the new monthly price on your next billing date on or after November 12, 2026.&quot;
+
+If you are billed by discovery+ or an app store, the subscription &quot;will automatically renew at the new price (plus applicable taxes) on your first billing date on or after November 12, 2026.&quot; If you have a promotional discount, &quot;your price won&#x27;t increase until your promotional period ends.&quot;
+
+If you are billed through another provider, such as Amazon Prime Video Channels, DIRECTV, the Roku Channel, or Sling TV, &quot;your provider will let you know of any price changes (as applicable).&quot;
+
+The help center walks through how to see who bills you and when the next date is: sign in at the discovery+ app or discoveryplus.com, open Account, and read the Subscription section.
+
+Coverage (checked Nov 13, 2026): We are citing only discovery+&#x27;s own help article.</summary></entry><entry><title>Peacock plans and prices (November 2026): Select vs Premium vs Premium Plus, monthly vs yearly</title><link href="https://quietlychanged.com/guides/peacock-plans-and-prices-2026-every-price-increase/"/><id>https://quietlychanged.com/guides/peacock-plans-and-prices-2026-every-price-increase/</id><updated>2026-11-12T12:00:00Z</updated><summary>Short answer: when we checked peacocktv.com on November 12, 2026, Peacock Select was $8.99 a month, Premium (with ads) $12.99 and Premium Plus $19.99, or $89.99, $129.99 and $199.99 a year. Those prices took effect on August 18, 2026. Peacock has raised prices every summer since 2023, and Premium now costs more than two and a half times its 2020 launch price.</summary></entry><entry><title>Robinhood KPI binary options fees from Jan 1, 2027: the formula explained</title><link href="https://quietlychanged.com/changes/2026-11-12-robinhood-robinhood-sets-fees-for-its-kpi-binary-options-from-jan-1-2027-up-to/"/><id>https://quietlychanged.com/changes/2026-11-12-robinhood-robinhood-sets-fees-for-its-kpi-binary-options-from-jan-1-2027-up-to/</id><updated>2026-11-12T12:00:00Z</updated><summary>Robinhood Financial&#x27;s fee schedule, revised Nov 10, 2026 (the PDF&#x27;s own timestamp), adds a new row for KPI Binary Options, the yes/no contracts Cboe lists on company metrics such as earnings per share, revenue or a company&#x27;s subscriber count. Each contract pays $1 if the reported figure meets the strike and nothing if it doesn&#x27;t, so its price p sits between $0 and $1.
 
 Change 1: The fees are free only for now. Both the exchange fee and Robinhood&#x27;s contract fee read &quot;$0 through December 31, 2026&quot;, followed by &quot;Effective January 1, 2027&quot; and a formula.
 

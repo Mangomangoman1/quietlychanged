@@ -1,0 +1,431 @@
+cPanel Pricing Plans & Licensing Options | cPanel Skip to main content Skip to footer
+
+A hosting panel designed for the AI era
+
+Explore cPanel AI
+
+Login Free Trial
+
+Product
+
+Product Overview
+
+cPanel AI
+
+Features
+
+Customize cPanel
+
+Releases
+
+Free Trial
+
+Solutions
+
+Virtualization
+
+SocialBee
+
+Sitejet Builder
+
+Server Monitoring
+
+Site Quality Monitoring
+
+WP Toolkit
+
+WP Squared
+
+Hyperscalers
+
+Extensions
+
+Pricing
+
+Resources
+
+Support
+
+Documentation
+
+Developers center
+
+Roadmap
+
+Blog
+
+cPanel University
+
+Company
+
+Partners
+
+Become a Partner
+
+Partner Asset Library
+
+Login Free Trial
+
+Choose the plan that fits your workflow
+Build, manage, and scale websites with an AI-powered platform designed for everything
+from individual projects to large hosting environments.
+
+Solo
+
+For freelancers and small agencies managing a single server
+
+1 Account
+
+Save 8.4%
+
+with annual billing
+
+$ 29.99/mo – billed monthly
+
+$27.46 /mo – billed annually
+
+Excl. VAT. | Billed Annually
+
+Buy Now - cPanel Solo, billed annually
+Available on Cloud/VPS Only
+
+Admin
+
+For application developers and small dev shops
+
+Up to 5 Accounts
+
+Save 8.4%
+
+with annual billing
+
+$ 35.99/mo – billed monthly
+
+$32.96 /mo – billed annually
+
+Excl. VAT. | Billed Annually
+
+Buy Now - cPanel Admin, billed annually
+Available on Cloud/VPS Only
+
+Pro
+
+For large agencies and growing hosting businesses
+
+Up to 30 Accounts
+
+Save 8.4%
+
+with annual billing
+
+$ 53.99/mo – billed monthly
+
+$49.46 /mo – billed annually
+
+Excl. VAT. | Billed Annually
+
+Buy Now - cPanel Pro, billed annually
+Available on Cloud/VPS Only
+
+Premier
+
+For data centers and enterprise hosting operations
+
+Up to 100 Accounts
+
+Additional accounts $0.49 each
+
+$69.99 /mo
+
+Excl. VAT. | Billed Monthly
+
+Buy Now - cPanel Premier, billed monthly
+Available on Cloud/VPS & Metal/Dedicated
+
+Every cPanel plan includes
+
+WP Toolkit
+
+SSL certificates
+
+Website builder
+
+Website monitoring
+
+Email accounts
+
+Self-guided migration tools
+
+Unlimited websites
+
+New with
+
+Meridian - AI-guided onboarding, setup and workflows
+
+AI Assistant - In-panel help and diagnostics*
+
+AI App Hosting - Deploy Node.js apps in minutes
+
+MCP - Connect your own AI agent*
+
+*Available in v138 and higher
+
+Premier Plan Includes
+
+All Plan features
+
+All cPanel AI features
+
+Custom branding
+
+Additional account
+
+Every cPanel plan includes
+
+WP Toolkit
+
+SSL certificates
+
+Self-guided migration tools
+
+Website Builder
+
+Website monitoring
+
+Email accounts
+
+Unlimited websites
+
+New with
+
+Meridian - AI-guided onboarding, setup and workflows
+
+AI Assistant - In-panel help and Diagnostics*
+
+AI App Hosting - Deploy Node.js apps in minutes
+
+MCP - Connect your own AI agent*
+
+*Available in v138 and higher
+
+Premier Plan Includes
+
+All Plan Features
+
+All cPanel AI features
+
+Custom branding
+
+Additional account
+
+Important Notice: Please note that effective December 16, 2026, cPanel license pricing will be adjusted, affecting new orders and all renewals on or after that date. For more information, click here
+
+Empower Customers With Fast and Intuitive
+Management for WordPress.
+
+Provide speed, security, and reliability with WP Squared, powered by cPanel.
+
+Includes:
+
+Boost performance and reliability with AccelerateWP and CloudLinux Shared Pro
+
+Advanced security powered by Imunify360 Unlimited.
+
+Create stunning, professional sites effortlessly with Extendify's AI-powered tools.
+
+WP Squared
+
+For 10 WordPress sites
+
+(Then $0.40 for each additional)
+
+$84.99 /mo
+
+Excl. VAT. | Billed Monthly
+
+Buy Now - WP Squared, billed monthly Buy Now - WP Squared, billed monthly
+
+Extend Your Stack with Add-ons and Extensions
+Integrations for security, performance, billing, and growth. Available on all plans.
+
+Learn More
+
+Starting from
+
+$45/mo
+
+Learn more
+
+Starting from
+
+$34.95/mo
+
+Learn more
+
+Starting from
+
+$16.80/mo
+
+Learn more
+
+Starting from
+
+$29.00/mo
+
+Learn more
+
+Starting from
+
+$3/mo
+
+Learn more
+
+Starting from
+
+$25/mo
+
+Learn more
+
+Starting from
+
+$8.95/mo
+
+Become a cPanel partner
+
+Grow your hosting business faster with our Partner Program. Enjoy exclusive discounts, dedicated support, and valuable certifications to elevate your offerings.
+
+Apply Today
+
+Frequently Asked Questions
+
+How to migrate to cPanel?
+
+Simplify your migration with cPanel & WHM’s built-in Transfer Tool . If you need assistance, our expert Support Team is ready to handle your migration request.
+
+What is an Account?
+
+An account is another term for a cPanel user account that manages websites, files, domains, and email accounts. Hosting providers create and manage cPanel accounts through WHM. WHM reseller accounts are included as an account.
+
+What IP is required to purchase a license?
+
+As cPanel does not provide web-hosting services, to purchase a monthly cPanel & WHM license through the cPanel Store, it is required to have the public-facing static IP address of the server. The server must meet the minimum requirements listed in the System Requirements documentation which can be found in the Installation Guide .
+
+What payment methods does the cPanel Store accept?
+
+The cPanel store accepts Credit Card and PayPal payment methods. The payment methods can be added and managed by going logging into your store account and going to Account Settings then Payment Methods. Please note: The store does not currently support OTP or 2 Factor authentication for credit card payments.
+
+When does my cPanel license renew?
+
+All new cPanel licenses purchased through the cPanel Store renew automatically on the same day of the month (or year, for annual licenses) on which the service was originally purchased. At the time of renewal, the primary payment method associated with your cPanel Store account will be charged for your licenses. To prevent a license from renewing, you must cancel it before the renewal date by following the instructions in the article How do I cancel my cPanel license?
+
+Do additional IP addresses need to be licensed?
+
+Additional IP addresses do not need to be licensed, as the only the server’s main, public IPv4 is required to be licensed. Additional IP addresses can be utilized for numerous purposes such as being dedicated to an account, utilized for certain services, or reserved for later use.
+
+How can I obtain a Certificate of Tax Residency?
+
+To obtain a Certificate of Residency, also known as IRS Form 6166, please contact the Accounting Department at [email protected] . Please include the following information in the email: Company Name, Requestor Name, Country, Email.
+
+Have questions?
+
+Email Customer Service
+
+Email our Sales Team
+
+Get Help
+
+cPanel, WebHost Manager and WHM are registered trademarks of WebPros International L.L.C. for providing its computer software that facilitates the management and configuration of Internet web servers.
+
+Product
+
+cPanel & WHM Overview
+
+cPanel & WHM Features
+
+Extensions
+
+Customize Products
+
+cPanel & WHM Trial
+
+cPanel & WHM Releases
+
+Pricing
+
+For Partners
+
+Become a Partner
+
+Partner Sign in
+
+Partner Asset Library
+
+cPU Certification
+
+Partner Requirements
+
+Support Agreement
+
+Company
+
+About Us
+
+Giving Back
+
+Contact
+
+Legal
+
+License Verification
+
+Security TSRs & CVEs
+
+Terms of Use
+
+Privacy Policy
+
+Trademarks
+
+Transparency Policy
+
+Support Agreement
+
+End User License Agreements
+
+Imprint
+
+Resources
+
+Documentation
+
+Forums
+
+Blog
+
+Developer Docs
+
+Build for cPanel
+
+Developer License
+
+EDU License
+
+Support
+
+Need Help?
+
+Migrations Services
+
+Support Portal
+
+Knowledge Base
+
+Feature Request
+
+©2026 WebPros International L.L.C.
+
+Part of the WebPros® Family
+
+Part of the WebPros® Family
+
+82293
