@@ -1,0 +1,1 @@
+Day 2 is where the fine print matters for businesses: Microsoft 365 business plans promise 99.9% monthly uptime, and Exchange Online owes a 25% service credit below that (50% under 99%). It isn't automatic: your admin files a claim with the incident ID, by Dec 31.

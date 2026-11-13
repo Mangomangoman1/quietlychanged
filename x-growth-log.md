@@ -1936,3 +1936,32 @@ Reach per tier: 50K+ and ≤45 min with image: PS5 Pro re-test 26 (parent grew t
 ### Posted (Nov 13 original, box browser as @QuietlyChanged)
 - Pinterest live terms (AI training on Pins of any age, message scanning, arbitration opt-out by Dec 12), ~6:20 AM MT, Nov 13's 1st original: https://x.com/QuietlyChanged/status/2121231924672987348 (full text + image verified)
   - Self-reply with link: https://x.com/QuietlyChanged/status/2121231993815916776
+
+## Session 2026-11-13 ~9:15 AM MT (Friday AM)
+Account (public X read 9:16 AM MT): **24 followers** (flat), 14 following, 247 posts, 122 media. pinned_tweet_id still 2119832006922215798 (Monday re-pin).
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 13 6:21 AM | Pinterest live terms original 2121231924672987348 | original | – | – | 4 | 0 | 0 | 1 | 0 |
+| Nov 13 6:21 AM | Pinterest self-reply 2121231993815916776 | self-reply | – | – | 5 | 0 | 0 | 0 | 0 |
+| Nov 12 5:26 PM | MS365 SLA reply under Pirat_Nation 2121036988593873390 (2 img, 1st paragraph dropped) | reply | ~60 | 74.4K | **250** | 0 | 0 | 0 | 0 |
+| Nov 12 9:21 AM | PS5 Pro reply under Wario64 | reply | ~20 | 188K | 28 | 0 | 0 | 0 | 0 |
+| Nov 12 6:18 AM | Robinhood KPI original | original | – | – | 17 | 0 | 0 | 1 | 0 |
+
+Reach per tier: 20-50K at post (grew to 74K), >45 min, with image: MS365 SLA 250, 2nd best reply this week even with the truncated text. Practical "you may be owed money / file a claim" angle travels. Parent-quotes: none.
+
+### What we learned
+1. 6:20 AM originals keep landing in single digits (Pinterest 4 in 3 h). Move originals to ~9-10 AM or evening slots.
+2. Consumer-money angle (credits, refunds, break-even math) under a big outage/price post beats product caveats.
+3. Costco is today's mass-appeal story: X trending card "Costco Adds Entry Scanners and Raises Executive Fees to $130" (updated 8:50 AM MT), driven by jaxoncoder's engagement-bait thread (1.05M imp, 129 replies, ~5.5 h). The $130 is from Sept 1, 2024 (Costco customer service notice), so "hiked" is misleading as news. Good candidate for a chart/cost original too (Executive break-even $3,252/yr).
+
+### Topic log
+- Costco Executive $120→$130 (Sept 1, 2024), 2% Reward cap $1,000→$1,250; break-even $271/mo ($3,252/yr) per costco.com Executive Rewards table; downgrade refund = $65 upgrade minus 2% Reward (Executive 2% Reward FAQs); "cancel and refund your membership fee at any time if you are dissatisfied" (Costco return policy page).
+- Microsoft 365 outage day 2 (Dexerto Japan fax post 17K/47 min); Xbox exec on ads instead of price hikes (Pirat_Nation 6.4K/15 min); MorePerfectUS airport food markup (5.2K, video).
+
+### Drafted (social/2026-11-13/am/)
+- Q1 (best) quote of jaxoncoder Costco thread https://x.com/jaxoncoder/status/2121193556736114711 (1.05M / 129 replies / ~5.5 h): q1.txt; images q1-01-costco-logo.png, q1-02-costco-policy-card.png.
+- R1 reply under same thread: r1.txt (274 chars); images r1-01-costco-logo.png, r1-02-costco-math-card.png.
+- R2 Dexerto MS outage/fax https://x.com/Dexerto/status/2121264379165339656 (17.0K / 27 replies / ~47 min): r2.txt single paragraph; images r2-01-microsoft-logo.png, r2-02-sla-card.png. Post only if it is past ~20K and climbing.
+- R3 Pirat_Nation Xbox ads https://x.com/Pirat_Nation/status/2121272627436335462 (6.4K / 31 replies / ~15 min): r3.txt; images r3-01-xbox-logo.png, r3-02-gamepass-price-chart.png. Post only if past ~20K by ~10:30 AM MT.
+- No original: Nov 13 slot used by Pinterest.
