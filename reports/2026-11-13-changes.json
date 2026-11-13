@@ -106,5 +106,100 @@
         "https://www.jetblue.com/legal/fees"
       ]
     ]
+  },
+  {
+    "service": "Temu",
+    "page": "terms",
+    "headline": "Temu's Dec 7 terms: reject its settlement offer in arbitration and you could pay Temu's legal fees",
+    "tldr": "Temu's new US terms (Dec 7) say if you turn down its settlement offer and win less, you pay its post-offer legal costs. They also ban AI shopping agents, and the privacy policy drops a no-name-or-email ads promise.",
+    "impact": 3,
+    "effective": "2026-12-07",
+    "deadline": "Takes effect",
+    "themes": [
+      "forced-arbitration",
+      "ads-and-tracking",
+      "accept-or-else"
+    ],
+    "url": "https://www.temu.com/terms-of-use.html",
+    "who": "Anyone in the US who shops on Temu or has a Temu account, especially anyone who might ever have a dispute over an order, refund or data, plus people who use AI agents or bots to shop.",
+    "seo_title": "Temu terms Dec 7, 2026: settlement-offer fee shifting, AI agent ban, privacy changes",
+    "seo_desc": "Temu's US Terms of Use and Privacy Policy change December 7, 2026: lose after rejecting a settlement offer and you pay Temu's legal costs, AI buy-for-me agents banned, an ad promise removed. How to reject by Jan 6, 2027.",
+    "redline": [
+      {
+        "before": "",
+        "after": "If an offer made by one party is not accepted by the other party, and the other party fails to obtain a more favorable award on the claim at issue, the other party shall pay the offering party’s costs incurred after the offer was made, including any attorney’s fees and fees paid to the arbitration provider",
+        "label": "Terms of Use · Section 19, Arbitration",
+        "note": "New: say no to Temu's offer, win less, and you cover its lawyers from that point on.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "(including but not limited to buy-for-me agents, large language model-driven bots, or any end-to-end flow that attempts to place orders without human review)",
+        "label": "Terms of Use · Rules and Restrictions, item 13",
+        "note": "AI shopping agents join the list of banned uses unless Temu allows them.",
+        "src": "quoted"
+      },
+      {
+        "before": "We do not use information which on its own personally identifies you, such as your name or email address, to show you interest-based advertising.",
+        "after": "",
+        "label": "Privacy Policy · Advertising",
+        "note": "A limit on how Temu targets ads is deleted, not replaced.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "To keep your current arbitration terms, mail a letter saying you reject the December 7, 2026 changes to Temu's Arbitration Agreement to Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA, so it arrives by January 6, 2027; include your name and the email or phone number on your account, and keep proof of mailing",
+      "If you opened your Temu account recently, check whether you're still within 30 days of first accepting the terms; if so, you can opt out of arbitration entirely by mail to the same address",
+      "Review your ad choices in the \"Your Rights and Choices\" section of Temu's Privacy Policy before December 7"
+    ],
+    "what": "Temu has posted new US Terms of Use and a new US Privacy Policy, both marked \"Effective Date: December 7, 2026.\" Each page now opens with a notice that the text shown \"is for your reference and will become effective from December 7, 2026,\" with a link to the version in force today (\"Last Updated: November 1, 2026\"). The Wayback Machine still shows only the November 1 terms at 06:34 UTC on November 12 and the December 7 notice by 16:37 UTC the same day, so Temu posted the new versions on or about November 12. We compared both documents, sentence by sentence, with the November 1 versions on November 13, 2026. Both are agreements with Whaleco Inc., the US company behind Temu.\n\n## Change 1: Turn down a settlement offer in arbitration and you could pay Temu's legal fees\n\nTemu's terms already require most disputes to go to individual arbitration instead of court. The December 7 version adds an \"offer\" rule that isn't in the November 1 terms: \"In any arbitration between you and us, either party may make a written settlement offer on a claim at any time before the arbitrator issues a final decision on the claim.\" An offer not accepted within 30 days \"shall be deemed withdrawn.\" Then: \"If an offer made by one party is not accepted by the other party, and the other party fails to obtain a more favorable award on the claim at issue, the other party shall pay the offering party's costs incurred after the offer was made, including any attorney's fees and fees paid to the arbitration provider, and shall not recover their own post-offer costs.\"\n\nIn practice, if Temu offers to settle your claim and you go on to win less than the offer (or lose), you could owe Temu's lawyer and arbitration costs from that point on. The rule works both ways on paper, but a shopper with a small claim has far more to fear from a company's legal bill than the reverse. The clause itself says it will be \"limited or eliminated\" where a law or court decision bars shifting those costs.\n\nOther arbitration changes: anyone starting an arbitration must now disclose \"any relationship the party requesting arbitration has with third-party litigation funders\" and hand over \"copies of all applicable litigation funding agreements\"; \"all materials and documents exchanged during the arbitration proceedings shall be kept confidential\"; and the winner of a court fight over whether the required pre-arbitration steps were followed can now also recover costs incurred \"in defending against an improperly commenced arbitration.\" Two changes help consumers: the arbitration \"will be conducted in the county where you reside,\" and the arbitrator no longer has to be licensed \"in the State of New York.\"\n\n## Change 2: AI shopping agents are banned\n\nThe list of things you may not do gets a new item (13): using any feature, \"including but not limited to ordering, payments, promotions, rewards, or account management,\" through \"any automated, programmatic, or non-human means (including but not limited to buy-for-me agents, large language model-driven bots, or any end-to-end flow that attempts to place orders without human review) where such use interferes with, circumvents, or undermines Temu's technical measures, security controls, or the intended operation of the Services, except as expressly permitted by Temu.\" A new item (14) bars framing or embedding \"any part of the Services, including any webpage, interface, login page, or form\" in another site or app. eBay (February 2026), United Airlines (November 11) and several banks have added similar AI-agent rules this year.\n\n## Change 3: The privacy policy drops its promise not to use your name or email for ads\n\nThe November 1 privacy policy says: \"We do not use information which on its own personally identifies you, such as your name or email address, to show you interest-based advertising.\" That sentence is gone from the December 7 version. The section is renamed from \"Interest-based advertising\" to \"Advertising\" and now says Temu and its advertising partners may use your information \"to serve advertisements and to measure the performance of advertisements shown to you.\" Ads on Temu itself are now called \"personalized advertised listings.\" The policy doesn't say Temu will now use names or emails for ads; it no longer says it won't.\n\nAlso removed: \"The merchandise partner will not receive your payment information or device data.\" Added: Temu may get information from \"Age verification service providers\"; \"advertising analytics providers\" are a new data source; affiliates Temu shares data with now include \"entities that are located outside the United States\"; and Temu may send marketing \"via your accounts on messaging applications\" linked to your phone number.\n\n## What gets better\n\nThe terms add a right to cancel: \"you may cancel your order at no cost and without prior notice at any time before it is packed for shipment and obtain a refund,\" and you \"may still return it after you receive it and obtain a refund.\" The sentence saying a refund \"will not cover customs, taxes, or any return shipping costs\" is gone from the terms (the Return and Refund Policy still governs the details). Temu can now end accounts \"for any legitimate reason,\" not \"for any reason in our discretion.\" Customer-service calls and chats may be recorded for \"service optimization\" purposes instead of \"training\" purposes. Creating more than one account is no longer banned outright, only when it's done to get around the terms, account limits or promotion rules.\n\n## What you can do\n\nBoth versions of the terms say that if Temu makes a material change to the arbitration agreement, you can reject it \"within thirty (30) days of such change becoming effective by writing to us at the applicable address set forth in Section 18.5.\" That address is Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA, and notice counts \"when received.\" If you reject the changes, the arbitration terms you first agreed to \"remain in full force and effect,\" so the new settlement-offer rule wouldn't apply to you. By our count the 30 days end on January 6, 2027. If you already opted out of Temu arbitration in the past, both versions say Temu \"will continue to honor\" that. New users can still opt out of arbitration altogether within 30 days \"after first accepting\" it.\n\nCoverage (checked Nov 13, 2026): searches turned up only Temu's own pages and automated document trackers (TosDiff logged a new privacy-policy snapshot on Nov 13). We found no news coverage of the settlement-offer rule, the AI-agent ban or the privacy edits.",
+    "sources": [
+      [
+        "Temu US Terms of Use (December 7, 2026 version)",
+        "https://www.temu.com/terms-of-use.html"
+      ],
+      [
+        "Temu US Privacy Policy (December 7, 2026 version)",
+        "https://www.temu.com/privacy-and-cookie-policy.html"
+      ],
+      [
+        "Wayback Machine: Temu terms, Nov 12, 2026 06:34 UTC (November 1 version only)",
+        "https://web.archive.org/web/20261112063412/https://www.temu.com/terms-of-use.html"
+      ],
+      [
+        "Wayback Machine: Temu terms, Nov 12, 2026 16:37 UTC (December 7 notice)",
+        "https://web.archive.org/web/20261112163757/https://www.temu.com/terms-of-use.html"
+      ],
+      [
+        "TosDiff: Temu Privacy Policy snapshots",
+        "https://tosdiff.org/document/147/"
+      ],
+      [
+        "Value Added Resource: eBay bans AI buy-for-me agents (Feb 2026)",
+        "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/"
+      ]
+    ],
+    "faq": [
+      [
+        "When do Temu's new terms take effect?",
+        "December 7, 2026, for the US Terms of Use and the US Privacy Policy. Until then, the November 1, 2026 versions apply."
+      ],
+      [
+        "What is Temu's new settlement-offer rule?",
+        "In an arbitration, either side can make a written settlement offer. If the other side turns it down and then doesn't get a more favorable award, it must pay the offering side's costs from the date of the offer, \"including any attorney's fees and fees paid to the arbitration provider.\""
+      ],
+      [
+        "Can I reject Temu's new arbitration terms?",
+        "Yes. The terms let you reject a material change to the arbitration agreement within 30 days of it taking effect by writing to Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA. By our count that's by January 6, 2027. Your earlier arbitration terms would then still apply."
+      ],
+      [
+        "Does Temu ban AI shopping agents?",
+        "From December 7, yes, where they interfere with or get around Temu's technical measures, security controls or the intended operation of the service: the terms name \"buy-for-me agents, large language model-driven bots\" and order flows \"without human review,\" unless Temu expressly permits them."
+      ],
+      [
+        "Will Temu use my name or email for ads?",
+        "The new privacy policy doesn't say it will. It removes the old sentence saying Temu does not use information that on its own identifies you, \"such as your name or email address,\" to show you interest-based ads."
+      ]
+    ]
   }
 ]

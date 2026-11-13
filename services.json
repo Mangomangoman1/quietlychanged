@@ -333,5 +333,9 @@
  },
  "Chase": {
   "terms": "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf"
+ },
+ "Temu": {
+  "terms": "https://www.temu.com/terms-of-use.html",
+  "privacy": "https://www.temu.com/privacy-and-cookie-policy.html"
  }
 }

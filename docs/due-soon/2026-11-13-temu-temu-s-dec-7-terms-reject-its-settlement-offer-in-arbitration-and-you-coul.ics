@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Temu · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-13-temu-temu-s-dec-7-terms-reject-its-settlement-offer-in-arbi
+ tration-and-you-coul@quietlychanged.com
+DTSTAMP:20261113T195336Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Temu: Takes effect
+DESCRIPTION:Temu's new US terms (Dec 7) say if you turn down its settlemen
+ t offer and win less\, you pay its post-offer legal costs. They also ban 
+ AI shopping agents\, and the privacy policy drops a no-name-or-email ads 
+ promise.\n\nhttps://quietlychanged.com/changes/2026-11-13-temu-temu-s-dec
+ -7-terms-reject-its-settlement-offer-in-arbitration-and-you-coul/
+URL:https://quietlychanged.com/changes/2026-11-13-temu-temu-s-dec-7-terms-
+ reject-its-settlement-offer-in-arbitration-and-you-coul/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Temu — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
