@@ -1932,3 +1932,7 @@ Reach per tier: 50K+ and ≤45 min with image: PS5 Pro re-test 26 (parent grew t
 ### Posted (Nov 12 PM, box browser as @QuietlyChanged)
 - R1 Microsoft 365 outage SLA reply under Pirat_Nation (parent 22,075 views / 40 replies at post time), 5:26 PM MT: https://x.com/QuietlyChanged/status/2121036988593873390
   - Both images in order (logo, SLA card). DEFECT: published text dropped the first paragraph; only "It isn't automatic. Your admin has to file a claim with the incident ID, by Dec 31 for this one." went live. Not deleted/reposted (needs Samuel's OK). Lesson: tell posting subagents to verify the published text matches and to paste multi-paragraph text carefully (line breaks may be swallowing the first paragraph).
+
+### Posted (Nov 13 original, box browser as @QuietlyChanged)
+- Pinterest live terms (AI training on Pins of any age, message scanning, arbitration opt-out by Dec 12), ~6:20 AM MT, Nov 13's 1st original: https://x.com/QuietlyChanged/status/2121231924672987348 (full text + image verified)
+  - Self-reply with link: https://x.com/QuietlyChanged/status/2121231993815916776
