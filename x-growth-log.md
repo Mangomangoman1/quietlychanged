@@ -1965,3 +1965,9 @@ Reach per tier: 20-50K at post (grew to 74K), >45 min, with image: MS365 SLA 250
 - R2 Dexerto MS outage/fax https://x.com/Dexerto/status/2121264379165339656 (17.0K / 27 replies / ~47 min): r2.txt single paragraph; images r2-01-microsoft-logo.png, r2-02-sla-card.png. Post only if it is past ~20K and climbing.
 - R3 Pirat_Nation Xbox ads https://x.com/Pirat_Nation/status/2121272627436335462 (6.4K / 31 replies / ~15 min): r3.txt; images r3-01-xbox-logo.png, r3-02-gamepass-price-chart.png. Post only if past ~20K by ~10:30 AM MT.
 - No original: Nov 13 slot used by Pinterest.
+
+### Posted (Nov 13 AM, box browser as @QuietlyChanged)
+- Q1 Costco quote of jaxoncoder (1M imp), ~9:25 AM MT: https://x.com/QuietlyChanged/status/2121277053274391017 (text + 2 images verified)
+- R2 MS365 SLA reply under Dexerto (20.7K, ~1 h old), ~9:40 AM MT: https://x.com/QuietlyChanged/status/2121280812070936876
+- R3 Game Pass price-history reply under Pirat_Nation (20.1K, ~59 min old), ~10:02 AM MT: https://x.com/QuietlyChanged/status/2121287610098503968
+- Skipped r1 (Costco reply under jaxoncoder): parent ~5.5 h old, outside 90-min reply window.
