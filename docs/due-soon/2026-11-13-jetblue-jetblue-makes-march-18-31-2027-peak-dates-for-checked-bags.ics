@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JetBlue · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-13-jetblue-jetblue-makes-march-18-31-2027-peak-dates-for-check
+ ed-bags@quietlychanged.com
+DTSTAMP:20261113T131642Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:JetBlue: Peak bag fees start
+DESCRIPTION:Late-March spring break flights on JetBlue now carry peak bag 
+ fees: $5 more per prepaid bag\, $10 more if you pay within 24 hours.\n\nh
+ ttps://quietlychanged.com/changes/2026-11-13-jetblue-jetblue-makes-march-
+ 18-31-2027-peak-dates-for-checked-bags/
+URL:https://quietlychanged.com/changes/2026-11-13-jetblue-jetblue-makes-ma
+ rch-18-31-2027-peak-dates-for-checked-bags/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JetBlue — Peak bag fees start
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pinterest · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-13-pinterest-pinterest-s-new-terms-are-live-the-30-day-window-
+ to-opt-out-of-arbitr@quietlychanged.com
+DTSTAMP:20261113T131642Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Pinterest: Took effect
+DESCRIPTION:Pinterest's rewritten terms and privacy policy took effect Nov
+  12. You have 30 days to opt out of its new arbitration clause by emailin
+ g litigation@pinterest.com.\n\nhttps://quietlychanged.com/changes/2026-11
+ -13-pinterest-pinterest-s-new-terms-are-live-the-30-day-window-to-opt-out
+ -of-arbitr/
+URL:https://quietlychanged.com/changes/2026-11-13-pinterest-pinterest-s-ne
+ w-terms-are-live-the-30-day-window-to-opt-out-of-arbitr/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Pinterest — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

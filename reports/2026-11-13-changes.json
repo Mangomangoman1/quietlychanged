@@ -1,0 +1,110 @@
+[
+  {
+    "service": "Pinterest",
+    "page": "terms",
+    "headline": "Pinterest's new terms are live: the 30-day window to opt out of arbitration is open",
+    "tldr": "Pinterest's rewritten terms and privacy policy took effect Nov 12. You have 30 days to opt out of its new arbitration clause by emailing litigation@pinterest.com.",
+    "impact": 2,
+    "effective": "2026-11-12",
+    "deadline": "Took effect",
+    "themes": [
+      "forced-arbitration",
+      "accept-or-else",
+      "ai-and-your-data"
+    ],
+    "url": "https://policy.pinterest.com/en/terms-of-service",
+    "who": "Pinterest users in the U.S. and everywhere outside the EEA, Switzerland and the UK (the arbitration section doesn't apply to consumers there), and anyone who sends messages on Pinterest or posts Pins",
+    "seo_title": "Pinterest terms took effect Nov 12, 2026: how to opt out of arbitration within 30 days",
+    "seo_desc": "Pinterest's new Terms of Service and Privacy Policy are live as of Nov 12, 2026. Section 11 moves disputes to JAMS and consolidates mass claims before one arbitrator, with a 30-day opt-out via litigation@pinterest.com.",
+    "redline": [
+      {
+        "before": "",
+        "after": "You may opt out of this Section 11 within 30 days of first becoming subject to it by emailing litigation@pinterest.com with your name, account email, and a statement that you’re opting out; otherwise you agree to be bound by it.",
+        "label": "Terms of Service · 11(d) Right to Opt Out",
+        "note": "Now live. For existing users the 30 days started Nov 12.",
+        "src": "quoted"
+      },
+      {
+        "before": "if 25 or more similar arbitration demands are filed within a 60-day period or with the assistance of the same law firm or group of law firms, AAA will consolidate the arbitration demands.",
+        "after": "If 25 or more claimants file similar Claims against Pinterest either within 90 days, or are represented by, assisted by, or otherwise coordinated with the same law firm, group of law firms, or other coordinated counsel or entities (a “Mass Filing”), all of those Claims will be consolidated into one arbitration before one arbitrator",
+        "label": "Terms of Service · 11(c) Mass Filing",
+        "note": "AAA batches, each with its own arbitrator, become a single JAMS case.",
+        "src": "raw"
+      },
+      {
+        "before": "Improve the products and services of our family of companies and offer new features. For example, using information to train, develop and improve our technology such as our machine learning models, regardless of when Pins were posted.",
+        "after": "Improve the products and services of our family of companies and offer new features. For example, using information (such as Pins, regardless of when they were posted) to train, develop and improve our technology such as our machine learning models and our generative artificial intelligence models.",
+        "label": "Privacy Policy · How we use the info we collect",
+        "note": "Old Pins are named as AI training material, generative models included.",
+        "src": "raw"
+      }
+    ],
+    "actions": [
+      "To keep your right to go to court, email litigation@pinterest.com with your name, account email and a statement that you're opting out of Section 11",
+      "Send it by December 12, 2026 (30 days from Nov 12, our count) and keep the sent copy"
+    ],
+    "what": "Pinterest's rewritten Terms of Service and Privacy Policy, first posted as previews around September 1 and covered here on October 20, are now the live versions. Our Nov 13 snapshot of policy.pinterest.com shows the \"We're updating our Terms of Service, effective <DATE>\" banner gone and the new Section 11 in its place. Pinterest's help page says \"changes are effective November 12, 2026\" and \"By continuing to use Pinterest after November 12, 2026, you accept the updates to the Terms.\"\n\n## Change 1: The new arbitration section is in force\n\nFor everyone outside the EEA, Switzerland and the UK, disputes now go to \"binding, individual arbitration administered by JAMS\" instead of the American Arbitration Association. The section \"applies to any Claim you have not filed in court or in arbitration before the date you agreed to these Terms, and supersedes and amends any prior arbitration agreement between you and Pinterest, including as to Claims that arose before this or any prior arbitration agreement.\"\n\nMass claims are handled differently. The old terms sent 25 or more similar demands to AAA batches with \"one arbitrator to resolve each batch.\" The live text says that if 25 or more claimants file similar claims within 90 days or through coordinated lawyers, \"all of those Claims will be consolidated into one arbitration before one arbitrator,\" and the arbitrator may split fees with a claimant's lawyers or funders.\n\n## Change 2: The 30-day opt-out clock has started\n\nThe live Section 11 says: \"You may opt out of this Section 11 within 30 days of first becoming subject to it by emailing litigation@pinterest.com with your name, account email, and a statement that you're opting out; otherwise you agree to be bound by it.\" The old terms had no opt-out. For existing users the new terms took effect November 12, so by our count the window runs to December 12, 2026. Pinterest doesn't print that end date.\n\n## Change 3: The privacy policy now says more about AI and message scanning\n\nThe live Privacy Policy says Pinterest uses information \"(such as Pins, regardless of when they were posted) to train, develop and improve our technology such as our machine learning models and our generative artificial intelligence models.\" It adds \"voice transcripts\" to the activity used \"to make inferences about you and your preferences,\" and says Pinterest \"may also use, or work with vendors who use automated tools to scan and analyze your messages to detect harmful or unlawful content.\" It also says connected TVs and other devices \"that use our Services\" generate log data, and that \"Your connected TV may allow you to manage or limit the use of data for advertising.\"\n\nOne difference from our October 20 write-up: two sentences we quoted from the September preview, about seeing ads \"when you're streaming a show on your connected TV\" and \"associating devices that may relate to the same person or household,\" do not appear in the privacy policy text we captured on November 13. We can't tell from our snapshot whether Pinterest dropped them or moved them to another page.\n\nOther changes: the terms add Pinterest's \"GenAI Acceptable Use Guidelines\" to the policies you agree to; users outside the EEA, Switzerland and the UK are told their \"acceptance of these Terms constitutes your consent to the processing activities described in our Privacy Policy\"; and watching YouTube content on Pinterest binds you to YouTube's Terms of Service.\n\nWhat you can do: to keep your right to sue in court, email litigation@pinterest.com with your name, your account email and a statement that you're opting out of Section 11. Keep the sent copy.",
+    "sources": [
+      [
+        "Pinterest Terms of Service (live)",
+        "https://policy.pinterest.com/en/terms-of-service"
+      ],
+      [
+        "Pinterest Privacy Policy (live)",
+        "https://policy.pinterest.com/en/privacy-policy"
+      ],
+      [
+        "Pinterest Help: Changes to our policies",
+        "https://help.pinterest.com/en/article/changes-to-our-policies"
+      ],
+      [
+        "Our Oct 20 preview coverage",
+        "https://quietlychanged.com/changes/2026-10-20-pinterest-nov-12-terms-mass-claims-go-to-one-arbitrator-ads-follow-you-to-your/"
+      ]
+    ],
+    "faq": [
+      [
+        "When did Pinterest's new terms take effect?",
+        "November 12, 2026, according to Pinterest's help page. Our snapshot of November 13 shows the new Section 11 live on policy.pinterest.com."
+      ],
+      [
+        "How do I opt out of Pinterest arbitration?",
+        "Email litigation@pinterest.com with your name, account email and a statement that you're opting out. Section 11 allows this \"within 30 days of first becoming subject to it\", which for existing users means by December 12, 2026."
+      ]
+    ]
+  },
+  {
+    "service": "JetBlue",
+    "page": "pricing",
+    "headline": "JetBlue makes March 18–31, 2027 peak dates for checked bags",
+    "tldr": "Late-March spring break flights on JetBlue now carry peak bag fees: $5 more per prepaid bag, $10 more if you pay within 24 hours.",
+    "impact": 1,
+    "effective": "2027-03-18",
+    "deadline": "Peak bag fees start",
+    "themes": [
+      "price-creep"
+    ],
+    "url": "https://www.jetblue.com/legal/fees",
+    "who": "JetBlue customers who check paid bags on flights between March 18 and March 31, 2027, typically spring break travel",
+    "redline": [
+      {
+        "before": "March 2027 N/A",
+        "after": "March 2027 3/18-3/31",
+        "label": "Optional Services and Fees · Peak Travel Dates",
+        "note": "Late March was off-peak; now it's peak.",
+        "src": "raw"
+      }
+    ],
+    "actions": [
+      "If you're flying JetBlue March 18–31, 2027, prepay bags at least 24 hours before departure: at peak that saves $15 on the first bag and $10 on the second",
+      "Compare fares just before March 18 or after March 31, when off-peak bag pricing applies"
+    ],
+    "what": "JetBlue's fees page has added a spring-break block to its peak checked-bag calendar. The \"Peak Travel Dates\" table listed March 2027 as \"N/A\" on November 12. On November 13 it reads \"3/18-3/31\". Off-peak pricing still \"applies to all other travel dates.\"\n\n## What that costs\n\nPeak dates raise every paid checked bag. Within the U.S., Latin America, the Caribbean and Canada, the page lists a prepaid first bag at $50 off-peak and $55 peak, and a second bag at $70 off-peak and $75 peak. Adding back the \"savings\" the page shows, paying within 24 hours of departure costs $60 vs $70 for the first bag and $75 vs $85 for the second. On transatlantic flights, Main Base and EvenMore Base pay $80 vs $90 for the first bag and $115 vs $125 for the second.\n\nOur arithmetic: a round trip with one prepaid bag each way, flying between March 18 and 31, 2027, now costs $110 in bag fees instead of $100; with one bag paid at check-in each way, $140 instead of $120.\n\nWhat stays the same: the rest of the peak calendar (Feb 11–22, Apr 1–26 and the summer months) is unchanged, and the fees themselves are the ones JetBlue set for bookings made from November 3, which we covered on November 7.",
+    "sources": [
+      [
+        "JetBlue Optional Services and Fees",
+        "https://www.jetblue.com/legal/fees"
+      ]
+    ]
+  }
+]

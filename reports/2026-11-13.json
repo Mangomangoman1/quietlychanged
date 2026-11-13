@@ -1,0 +1,933 @@
+{
+ "date": "2026-11-13",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Wells Fargo",
+   "terms",
+   "https://www.wellsfargo.com/online-banking/online-access-agreement/"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ],
+  [
+   "AT&T",
+   "terms",
+   "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  ],
+  [
+   "Cricket Wireless",
+   "terms",
+   "https://www.cricketwireless.com/terms"
+  ],
+  [
+   "California",
+   "terms",
+   "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  ],
+  [
+   "Xero",
+   "terms",
+   "https://www.xero.com/us/legal/terms/"
+  ],
+  [
+   "Xero",
+   "privacy",
+   "https://www.xero.com/us/legal/privacy/"
+  ],
+  [
+   "Grindr",
+   "terms",
+   "https://trust.grindr.com/en-US/legal/2026-terms-of-service"
+  ],
+  [
+   "Grindr",
+   "privacy",
+   "https://trust.grindr.com/en-US/privacy"
+  ],
+  [
+   "Social Security",
+   "privacy",
+   "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest"
+  ],
+  [
+   "Toyota",
+   "privacy",
+   "https://www.toyota.com/support/privacy-notice/"
+  ],
+  [
+   "Tubi",
+   "privacy",
+   "https://tubitv.com/static/privacy"
+  ],
+  [
+   "Calm",
+   "terms",
+   "https://www.calm.com/terms"
+  ],
+  [
+   "Calm",
+   "privacy",
+   "https://www.calm.com/privacy-policy"
+  ],
+  [
+   "Stripe",
+   "privacy",
+   "https://stripe.com/privacy"
+  ],
+  [
+   "JetBlue",
+   "pricing",
+   "https://www.jetblue.com/legal/fees"
+  ],
+  [
+   "JetBlue",
+   "terms",
+   "https://www.jetblue.com/legal/flights-terms"
+  ],
+  [
+   "BeReal",
+   "privacy",
+   "https://bereal.com/privacy"
+  ],
+  [
+   "BeReal",
+   "terms",
+   "https://bereal.com/terms"
+  ],
+  [
+   "Booking.com",
+   "terms",
+   "https://www.booking.com/content/terms.html"
+  ],
+  [
+   "Netlify",
+   "terms",
+   "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/"
+  ],
+  [
+   "Netlify",
+   "privacy",
+   "https://www.netlify.com/privacy/"
+  ],
+  [
+   "Vrew",
+   "terms",
+   "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
+  ],
+  [
+   "Muse",
+   "privacy",
+   "https://choosemuse.com/pages/privacy"
+  ],
+  [
+   "Dave & Buster's",
+   "privacy",
+   "https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy"
+  ],
+  [
+   "Chase",
+   "terms",
+   "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf"
+  ]
+ ],
+ "failed": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Emotiv",
+   "privacy",
+   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
+   "too little text (0 chars; JS-rendered or bot wall)"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Spotify",
+   "page": "pricing",
+   "url": "https://www.spotify.com/us/premium/",
+   "diff": "@@ -40,3 +40,3 @@\n Audiobooks\n-Discover over 700,000 titles available in our audiobooks subscriber catalog.\n+Discover hundreds of thousands of titles available in our audiobooks subscriber catalog\n Premium",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Notion",
+   "page": "pricing",
+   "url": "https://www.notion.com/pricing",
+   "diff": "@@ -360,9 +360,8 @@\n How do refunds work?\n-Our refund policy is simple. If you believe you've made a mistake signing up for a paid Notion subscription online or in-app, please contact us inside the app or email\n-[email protected]\n-. We'll be happy to refund you the full amount (not pro-rated) if you downgrade your subscription within three days of signing up for monthly billing, or within 30 days of signing up for annual billing.\n+If you believe you've made a mistake signing up for a paid Notion subscription online or in-app, you can request a refund.\n+Message support\n+for more help with this.\n+We'll be happy to refund you the full amount (not pro-rated) if you downgrade your subscription within three days of signing up for monthly billing, or within 30 days of signing up for annual billing.\n If you have accidentally added members to your workspace, you can remove those members at any time. If you\u2019ve been charged for members who were accidentally added, we're happy to provide a refund of the prorated charges if you reach out within three days of the invoice date (please make sure the additional members have been removed from your workspace when writing in).\n-And if for any reason you're unhappy with Notion, please let us know at\n-[email protected]\n-\u2014 we'd love to hear your feedback, and will be happy to work with you to create the best experience possible.\n+If for any reason you're unhappy with Notion, get in touch with Notion support. We'd love to hear your feedback, and will be happy to work with you to create the best experience possible.\n What if I live in a region with a mandatory refund policy?",
+   "added": 5,
+   "removed": 6
+  },
+  {
+   "service": "Reddit",
+   "page": "terms",
+   "url": "https://redditinc.com/policies/user-agreement",
+   "diff": "@@ -1603,2 +1603,35 @@\n \u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82\u0cac\u0cb0\u0ccd 24, 2024\n+Transparency\n+Guidelines for Law Enforcement\n+Reddit's Anti-Slavery and Human Trafficking Statement\n+Developer Data Protection Addendum\n+Impressum\n+Responsible Builder Policy\n+Marathi\n+All\n+Reddit \u091a\u093e \u0935\u093e\u092a\u0930\u0915\u0930\u094d\u0924\u093e \u0915\u0930\u093e\u0930\n+1 \u091c\u0941\u0932\u0948 2026\n+Reddit \u0907\u0915\u0949\u0928 \u0905\u091f\u0940\n+24 \u0938\u092a\u094d\u091f\u0947\u0902\u092c\u0930 2024\n+\u092a\u094d\u0930\u0940\u0935\u094d\u0939\u094d\u092f\u0942 \u0935\u093e\u092a\u0930 \u0905\u091f\u0940\n+\u0915\u094d\u0930\u093f\u090f\u091f\u0930 \u0905\u091f\u0940\n+\u0921\u0947\u0935\u094d\u0939\u0932\u092a\u0930\u091a\u094d\u092f\u093e \u0905\u091f\u0940\n+\u0921\u0947\u091f\u093e API \u091a\u094d\u092f\u093e \u0905\u091f\u0940\n+Reddit \u090f\u0902\u092c\u0947\u0921 \u0905\u091f\u0940\n+Responsible Disclosure and Bug Bounty Program Terms\n+\u091f\u094d\u0930\u0947\u0921\u092e\u093e\u0930\u094d\u0915 \u0935\u093e\u092a\u0930 \u0927\u094b\u0930\u0923\n+Reddit \u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0927\u094b\u0930\u0923\n+Public Content Policy\n+Reddit Rules\n+\u092e\u0949\u0921\u0930\u0947\u091f\u0930 \u0906\u091a\u093e\u0930\u0938\u0902\u0939\u093f\u0924\u093e\n+Information for EU users\n+Information for UK users\n+Information for AU users\n+Advertising Platform Terms & Conditions\n+Brand Guidelines\n+Press & Broadcast Guidelines\n+\u0915\u092e\u093e\u0908\u091a\u094d\u092f\u093e \u0905\u091f\u0940\n+24 \u0938\u092a\u094d\u091f\u0947\u0902\u092c\u0930 2024\n+Reddit \u0915\u092e\u093e\u0908 \u0927\u094b\u0930\u0923\n+24 \u0938\u092a\u094d\u091f\u0947\u0902\u092c\u0930 2024\n Transparency\n@@ -1642,2 +1675,3 @@\n \u0627\u0644\u0639\u0631\u0628\u064a\u0629\n+\u092e\u0930\u093e\u0920\u0940\n \u0939\u093f\u0902\u0926\u0940 \u092d\u093e\u0930\u0924\n@@ -1687,2 +1721,3 @@\n \u0627\u0644\u0639\u0631\u0628\u064a\u0629\n+\u092e\u0930\u093e\u0920\u0940\n \u0939\u093f\u0902\u0926\u0940 \u092d\u093e\u0930\u0924",
+   "added": 35,
+   "removed": 0
+  },
+  {
+   "service": "DoorDash",
+   "page": "terms",
+   "url": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+   "diff": "@@ -408,3 +408,3 @@\n Related Third Parties.\n-This Arbitration Agreement extends to disputes between you and DoorDash\u2019s Related Third Parties, and to disputes between your Related Third Parties and DoorDash, that arise out of or relate to this Agreement, or your use of the Services. \u201cRelated Third Parties\u201d includes a party\u2019s affiliates, subsidiaries, successors, related entities, agents, employees, contractors, subcontractors, insurers, licensees, assignees, vendors, and suppliers. DoorDash\u2019s Related Third Parties include but are not limited to Amplitude, Persona, Checkr, Blue Star, Stripe, Payfare, and their respective affiliates. This Arbitration Agreement is expressly intended to inure to the benefit of, and be enforceable by and against, the Related Third Parties, such that either you or DoorDash may compel arbitration of disputes against the other party\u2019s Related Third Parties, to the maximum extent permitted by law and consistent with this Section 14 (including Section 14(f), where applicable).\n+This Arbitration Agreement extends to disputes between you and DoorDash\u2019s Related Third Parties, and to disputes between your Related Third Parties and DoorDash, that arise out of or relate to this Agreement, or your use of the Services. \u201cRelated Third Parties\u201d includes a party\u2019s affiliates, subsidiaries, successors, related entities, agents, employees, contractors, subcontractors, insurers, licensees, assignees, vendors, and suppliers. DoorDash\u2019s Related Third Parties include but are not limited to Persona, Checkr, Blue Star, Stripe, Payfare, and their respective affiliates. This Arbitration Agreement is expressly intended to inure to the benefit of, and be enforceable by and against, the Related Third Parties, such that either you or DoorDash may compel arbitration of disputes against the other party\u2019s Related Third Parties, to the maximum extent permitted by law and consistent with this Section 14 (including Section 14(f), where applicable).\n (b)",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Delta",
+   "page": "pricing",
+   "url": "https://www.delta.com/us/en/baggage/checked-baggage/overview",
+   "diff": "@@ -1,7 +1,7 @@\n-404 - PAGE NOT FOUND\n+404 - PAGE NOT FOUND - AWS\n Whoops! Looks Like This Page Had a Gate Change\n-We're sorry, it seems that this page has changed to something different than you were expecting due to a possible URL change or a promotion ending. Not to worry though, we'll do our best to get you where you need to be.\n+We're sorry, it seems that this page has changed to something different than you were expecting\u00c2 due to a possible URL change or a promotion ending.\u00c2 Not to worry though, we'll do our best to get you where you need to be.\u00c2\n To help you take off, you can choose from our most helpful pages below, use our\n search tool\n-to search for a specific topic or simply start again from our\n+to search for a specific topic or simply start again from our\u00e2\u0080\u00af\u00c2\n home page",
+   "added": 3,
+   "removed": 3
+  },
+  {
+   "service": "Venmo",
+   "page": "terms",
+   "url": "https://venmo.com/legal/us-user-agreement/",
+   "diff": "@@ -1,13 +1,2 @@\n Venmo Legal Agreements\n-Privacy Statement\n-User Agreement\n-Venmo Long Form Disclosure\n-Licenses\n-Consent\n-Helpful Information\n-Approved Business Account Addendum\n-Mastercard Cardholder Agreement\n-Venmo Mastercard Privacy Policy\n-Cryptocurrency Terms & Conditions\n-Open Source Attribution\n User Agreement",
+   "added": 0,
+   "removed": 11
+  },
+  {
+   "service": "Pinterest",
+   "page": "terms",
+   "url": "https://policy.pinterest.com/en/terms-of-service",
+   "diff": "@@ -16,4 +16,2 @@\n 13. General terms\n-We're updating our Terms of Service, effective <DATE>. You can preview the updated Terms of Service\n-here\n Thank you for using Pinterest!\n@@ -33,7 +31,13 @@\n Commercial and Branded Content Guidelines\n-, which explain additional policies that apply to sponsored, branded or otherwise commercial content; and\n+, which explain additional policies that apply to sponsored, branded or otherwise commercial content;\n Our\n Enforcement\n-practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest.\n+practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest; and\n+Our\n+GenAI Acceptable Use Guidelines\n+, which explain how you may and may not use Pinterest\u2019s generative AI tools.\n By accessing or using Pinterest, you agree to comply with and be bound by these Terms and you will not attempt to circumvent them. If you do not agree to our Terms, you must not access or use Pinterest.\n+If you reside outside of the EEA, Switzerland and the United Kingdom, your acceptance of these Terms constitutes your consent to the processing activities described in our\n+Privacy Policy\n+under the laws of your jurisdiction.\n More simply put\n@@ -121,5 +125,6 @@\n 6. Third party links, sites, and services\n-Pinterest may contain links to third party websites, advertisers, services, software components, special offers or other events or activities that are not owned or controlled by us. We don\u2019t endorse or assume any responsibility for any such third party websites, information, materials, products or services. If you access any third party website, service or content, etc. from Pinterest, you do so at your own risk and you agree that we have no liability arising from your use of, purchase from or access to any third party website, service, or content, etc.\n-More simply put\n-We allow users to include links to content outside of Pinterest. We're not responsible for any content you view on, or your use of, third party websites or services.\n+Pinterest may contain links to third party websites, advertisers, services, software components, special offers or other events or activities that are not owned or controlled by us. We don\u2019t endorse or assume any responsibility for any such third party websites, information, materials, products or services. If you access any third party website, service or content, etc. from Pinterest, you do so at your own risk and you agree that we have no liability arising from your use of, purchase from or access to any third party website, service, or content, etc. By accessing YouTube content on Pinterest, you also agree to be bound by YouTube\u2019s\n+Terms of Service\n+More simply put\n+We allow users to include links to content outside of Pinterest. We're not responsible for any content you view on, or your use of, third party websites or services, and you may be bound to a third-party site\u2019s Terms of Service for engaging with their content.\n 7. Termination\n@@ -155,19 +160,22 @@\n 11. Arbitration\n-If you are a consumer in the EEA, Switzerland, or the United Kingdom (UK), Section 11 doesn't apply to you.\n-For any dispute you have with us, you agree to first contact us and try to resolve the dispute informally. To the extent permitted by law, neither party may initiate any legal proceeding\u2014whether in court, arbitration, or any other forum\u2014until the Notice of Dispute and Informal Dispute Resolution processes described below are completed. Nothing in this Section, however, will prevent either you or us from seeking temporary injunctive relief in court (or in arbitration) to preserve the status quo or to help enforce this arbitration clause at the outset of any dispute.\n-A party with a dispute must first send us a Notice of Dispute, which must include your full name; your Pinterest profile name (which begins @); the email address associated with your Pinterest account; your country of residence and, if you are a U.S. resident, your state of residence; your counsel, if you are represented by counsel; a detailed description of both the dispute and the alleged harm; and your signature. That information should be emailed to\n+If you are a consumer in the EEA, Switzerland, or the United Kingdom (UK), Section 11 does not apply to you.\n+a. Mandatory Informal Resolution\n+Before starting arbitration or filing any claim, you and Pinterest must each send the other written notice of the claim, a description of the claim, and the relief sought (an individual claimant\u2019s notice must be personally signed). Your notice to Pinterest must be sent to\n litigation@pinterest.com\n-. The notice can only be sent on behalf of an individual party; a Notice of Dispute that asserts the rights of more than one party is ineffective. After receiving the Notice of Dispute, Pinterest will respond within 60 days to attempt to resolve the dispute amicably. After the 60-day period has elapsed, either party may initiate arbitration.\n-Arbitration\n-: If we haven\u2019t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court. The arbitrator will have authority to issue any remedies authorized by law.\n-Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. By accepting these Terms, you agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this Section, and that you and Pinterest are each waiving the right to a trial by jury or to participate in a class action. The arbitrator also has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement, including any dispute regarding arbitrability.\n-Any arbitration will be administered by the American Arbitration Association (\"AAA\") under the applicable rules then in effect for the AAA. If the AAA rules conflict in any way with these Terms, the Terms will govern. You can find AAA\u2019s forms at\n-www.adr.org\n-. The arbitrator shall issue a reasoned written decision explaining the essential findings and conclusions on which the award is based. A judgment on the arbitrator\u2019s award may be entered in any court of competent jurisdiction. Where the AAA\u2019s Consumer Arbitration Rules apply, if the arbitrator determines that a party\u2019s claim was frivolous or brought for an improper purpose, the arbitrator must assign all fees and costs associated with the arbitration to that party.\n-All disputes must be brought in the party's individual capacity, and not as a member in any class or representative proceeding. You agree that, by entering into these Terms, you are waiving the right to a trial by jury or to participate in a class action.\n-Nothing in these Terms shall affect any non-waivable statutory rights that apply to you. To the extent any dispute isn\u2019t arbitrable under applicable laws or otherwise, you agree that the dispute will be resolved exclusively in accordance with Section 12 of these Terms.\n-Batched Arbitration\n-: To provide a more efficient arbitration process, you and we each agree that if 25 or more similar arbitration demands are filed within a 60-day period or with the assistance of the same law firm or group of law firms, AAA will consolidate the arbitration demands. For each batch, AAA will administer one set of filing and administrative fees per side, per batch, and AAA will appoint one arbitrator to resolve each batch as a single consolidated arbitration. Arbitration demands are similar if they arise from similar facts and raise similar legal issues while seeking similar relief. Any dispute about similarity will be submitted to a single arbitrator, whose fees will be paid by us.\n-More simply put\n-You agree to notify us of any dispute and try to resolve it amicably. If that doesn\u2019t work, the dispute will be efficiently decided through arbitration, not in court.\n+and cover only one claimant. You and Pinterest agree to work together in good faith to resolve it for 60 days. This dispute resolution process is a mandatory requirement and a condition precedent. Neither party may file arbitration, or a court action, before completing this step. Notwithstanding the foregoing, either party may bring an action to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of a party\u2019s intellectual property rights.\n+b. Arbitration Agreement\n+If that doesn\u2019t resolve the dispute, you and we agree that any claim, dispute, or controversy arising out of or relating to these Terms or the Service (\u201cClaim\u201d) will be resolved through binding, individual arbitration administered by JAMS under its Comprehensive Arbitration Rules & Procedures (\"JAMS Rules\"), as modified by this Section 11, or in small claims court for qualifying claims. The Federal Arbitration Act applies to and governs this Arbitration Agreement and pre-empts all state laws to the fullest extent possible. This Arbitration Agreement applies to any Claim you have not filed in court or in arbitration before the date you agreed to these Terms, and supersedes and amends any prior arbitration agreement between you and Pinterest, including as to Claims that arose before this or any prior arbitration agreement.\n+You and Pinterest each waive the right to a jury trial. Except as set out in subsection (c) for Mass Filings, to the fullest extent permitted by law, you and Pinterest agree that each party can only bring Claims in an individual capacity and not as a plaintiff or class member in any class, consolidated, private attorney general, or representative proceeding. This waiver survives even if the rest of this Section 11 is found unenforceable or invalid. Except as set out in subsection (c) for Mass Filings, the arbitrator may not consolidate more than one person\u2019s Claims and may not otherwise preside over any class, collective, consolidated, or representative proceeding.\n+A court, not the arbitrator, decides whether a valid arbitration agreement exists but the arbitrator decides all issues relating to the interpretation, applicability, or enforceability of this arbitration agreement, including any dispute regarding arbitrability. A request for public injunctive relief will not be decided by or awarded by the arbitrator and must be decided by a court after the rest of the Claim is arbitrated. A single, confidential arbitration will be held before one arbitrator, whose decision binds only the parties involved. This Section 11 doesn\u2019t prevent either party from seeking relief from a government agency or provisional court relief (like a temporary injunction) and doing so will not waive the right to arbitrate. Claims that aren\u2019t arbitrable will be resolved under Section 12 (Governing Law). Payment of arbitration fees is governed by the JAMS Rules, except that the arbitrator may impose sanctions available under the JAMS Rules, Federal Rule of Civil Procedure 11, or any applicable law against any party or counsel who violates them, including assigning fees and costs to a party found to have brought a frivolous or improperly motivated claim or defense. Any party to the arbitration, more than ten (10) days before the arbitration hearing, may serve a written offer of compromise on the other party which will be interpreted and enforced in accordance with California Code of Civil Procedure section 998.\n+This Section 11 will survive the termination of your relationship with Pinterest. Except as set forth any part of this Section 11 is found unenforceable, unconscionable, or unlawful the rest remains in effect and Pinterest and you may still compel individual arbitration of the remaining Claims.\n+c. Mass Filing\n+If 25 or more claimants file similar Claims against Pinterest either within 90 days, or are represented by, assisted by, or otherwise coordinated with the same law firm, group of law firms, or other coordinated counsel or entities (a \u201cMass Filing\u201d), all of those Claims will be consolidated into one arbitration before one arbitrator with a single set of filing and administrative fees rather than separate fees per claimant or Claim. The JAMS Mass Arbitration Procedures and Guidelines and JAMS Mass Arbitration Fee Schedule will apply to your Claim and the claims of all other claimants that are part of the Mass Filing, as modified by this Section 11(c). Claims are similar if they arise from or are related to similar facts or circumstances and raise similar legal issues or causes of action. A Process Arbitrator will decide any dispute over similarity of Claims. If any of claimant\u2019s lawyers, law firms, group of law firms or their business partners or funders (\u201cfunder\u201d) is advancing that claimant\u2019s fees or costs, the Process Arbitrator may also divide all fees and costs (including all arbitrator\u2019s fees) between that funder and Pinterest as the Process Arbitrator deems fair. In the final decision, the arbitrator can reevaluate and divide the arbitration fees and costs among Pinterest, the claimants, and the claimants\u2019 lawyers, law firms, and group of law firms in amounts they see fit to ensure a fair division among the parties.\n+Pinterest and each claimant shall have the right to opt-out of arbitration if JAMS declines to enforce this subsection 11(c) of the arbitration agreement, refuses to administer any portion of a Mass Filing in accordance with this subsection 11(c), refuses to consolidate Claims into one arbitration before one arbitrator with a single set of filing and administrative fees as set forth in this subsection 11(c), or otherwise finds these any portion of this subsection 11(c) is unconscionable, unenforceable, or unlawful. If either party elects to opt-out of arbitration, then you and we agree that you may pursue your Claim in court subject to section 12.\n+Any applicable limitations period (including statutes of limitation) and any filing-fee deadlines shall be tolled beginning when the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures are initiated, so long as the Mandatory Pre-Arbitration Notice complies with the requirements in this Section 11, until a party\u2019s Claim or demand for arbitration claim is consolidated or a party opts-out of arbitration.\n+d. Right to Opt Out\n+You may opt out of this Section 11 within 30 days of first becoming subject to it by emailing\n+litigation@pinterest.com\n+with your name, account email, and a statement that you\u2019re opting out; otherwise you agree to be bound by it.\n+More simply put\n+Most disputes must be raised informally first, then resolved through individual arbitration rather than a lawsuit or class action \u2014 except for large groups of similar claims filed together, which are consolidated into a single arbitration under different rules.\n 12. Governing law and jurisdiction",
+   "added": 31,
+   "removed": 23
+  },
+  {
+   "service": "Pinterest",
+   "page": "privacy",
+   "url": "https://policy.pinterest.com/en/privacy-policy",
+   "diff": "@@ -16,4 +16,2 @@\n Contact us\n-We're updating our Privacy Policy, effective <DATE>. You can preview the updated Privacy Policy\n-here\n State Privacy Law Disclosure & Notice at Collection\n@@ -23,3 +21,3 @@\n Summary of changes\n-We work hard to make our use of personal data transparent and to make your rights and choices easy to understand. We added more details on how we train the models that support our products and services including those using generative artificial intelligence, how long we keep your information, and changes to our international data transfer mechanisms. If you are outside of the EEA, Switzerland, or the United Kingdom, we\u2019ve outlined how we may share data with partners to allow advertisers to reach you on other websites and apps.\n+We work hard to make our use of personal data transparent and to make your rights and choices easy to understand. We have updated this Privacy Policy to cover additional Pinterest services and provide more information on how we may use your data including to make and keep Pinterest safe.\n Thank you for using Pinterest!\n@@ -28,3 +26,5 @@\n Scope of the Privacy Policy\n-This is Pinterest\u2019s global Privacy Policy. We have highlighted below where a particular section applies to you based on where you live.\n+This is Pinterest\u2019s global Privacy Policy, and it covers Pinterest websites, apps, services (including our advertising technology services), technologies, APIs, widgets, or any other\n+products or services\n+, like Shuffles, or features we and our affiliated companies offer (collectively with our affiliates, \u201cPinterest\u201d and \u201cServices\u201d). We have highlighted below where a particular section applies to you based on where you live.\n For the purposes of the General Data Protection Regulation (\u201c\n@@ -35,9 +35,9 @@\n 1. When you give it to us or give us permission to obtain it\n-When you use Pinterest websites, apps, services, technologies, APIs, widgets, or any other\n-products\n-, like Shuffles, or features we offer (\u201cPinterest\u201d or the \u201cServices\u201d), you voluntarily share certain information.\n+When you use our Services, you voluntarily share certain information.\n Account Information\n-: When you join our Services, we collect information like your name, email address, birthday, gender, country of residence, your interests, and preferred language. If you have a business account, depending on where you live, you may also have the option to add race and ethnicity information to your profile.\n-Content\n-: We collect information when you save or upload Pins, photos, or other content, interact with Pins or other content (for example, commenting or adding a Pin), or where you send messages and interact with other users.\n+: When you join our Services, we collect information like your name, email address, birthday, gender, country of residence, your interests, and preferred language. Depending on where you live, you may also have the option to provide your\n+phone number\n+, and if you have a business account to add race and ethnicity information to your profile.\n+Content\n+: We collect information when you save or upload Pins, photos, or other content, interact with Pins or other content (for example, commenting or adding a Pin), or where you send messages and interact with other users or features that are supported by generative artificial intelligence technology.\n Precise location information\n@@ -48,11 +48,11 @@\n : If you previously chose to sync your contacts with your account, we will continue to process certain information about your contacts who are Pinterest users to help you find one another on our Services.\n-2. We also get technical information when you use Pinterest\n-When you use a website, mobile application or other internet service, certain internet and electronic network activity information gets created and logged automatically. This is also true when you use Pinterest. Here are some of the types of information we collect:\n-Device information\n-: We collect information about the device you use to access our Services, including the type of device, operating system, network service provider, settings, and unique device identifiers.\n-Log data\n-: When you use our Services, our servers record information (\u201clog data\u201d), including information that your browser automatically sends whenever you visit a website, or that your mobile app automatically sends when you\u2019re using it. This log data includes, for example, your Internet Protocol (IP) address, activity on websites you visit that incorporate Pinterest features (like the \u201cSave\u201d button) browser type and settings, and the date and time of when you accessed the Services. You can\n+2. We also get technical information through our Services\n+When you use a website, mobile application, connected TV, or other internet service, certain internet and electronic network activity information gets created and logged automatically. This is also true when you use Pinterest or other websites, apps, or devices that use our Services. Here are some of the types of information we collect:\n+Device information\n+: We collect information about the devices you use to access our Services, including the type of device, operating system, network service provider, settings, and unique device identifiers.\n+Log data\n+: Our servers record information (\u201clog data\u201d), including information that your browser automatically sends whenever you visit a website, or that your mobile app or device automatically sends when you\u2019re using it. This log data includes, for example, your Internet Protocol (IP) address, activity on websites or apps you visit that incorporate our Services (like the \u201cSave\u201d button) browser type and settings, and the date and time of when you accessed the Services. You can\n learn more about the log data we collect here\n Usage data and inferences\n-: When you\u2019re on our Services, we use your activity\u2014such as which Pins you click on, terms you search for, boards you create, and any text that you add in a comment or description\u2014along with other information you\u2019ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences. For example, if you create a board about travel, we may infer you are a travel enthusiast. We may also infer other information, such as your education or professional experience.\n+: We use your activity\u2014such as which Pins you click on, terms you search for, boards you create, voice transcripts and any text that you add in a comment or description\u2014along with other information you\u2019ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences. For example, if you create a board about travel, we may infer you are a travel enthusiast. We may also infer other information, such as your education or professional experience. We may also collect data about how you use and interact with our Services to detect suspicious behavior and prevent fraud.\n Location Information\n@@ -68,7 +68,8 @@\n Technical service partners\n-: We sometimes receive information about you from technical service partners, including from marketing firms.\n+: We sometimes receive information about you from technical service partners, including from marketing firms, as well as from partners that help us power the ads we show to you on and off Pinterest (learn more\n+here\n Advertisers or other partners\n-: Online advertisers or third parties provide information to us about you to measure, report on or improve the performance of ads on Pinterest, or to help us better understand what kinds of ads to show you on Pinterest. For example, we may receive information about your visits to an advertiser's site, or purchases you made from them, or information about your interests from a third-party service, which we might use to help show you ads on the Service. Sometimes we get this information through the Pinterest Tag (a piece of code an advertiser puts on their site), which delivers insights to us and our ad partners about actions that a person takes on their website after viewing an ad on our Services.\n-Learn more about the Pinterest Tag\n-and the types of information advertisers or other third parties share with us.\n+: Online advertisers and other third parties provide information to us about you to measure, report on or improve the performance of ads we show you on and off Pinterest, or to help us better understand what kinds of ads to show you. For example, we may receive information about your visits to an advertiser's site, or purchases you made from them, or information about your interests from a third-party service, which we might use to help show you ads on and off Pinterest. Sometimes we get this information through a tag (a piece of code an advertiser puts on their site) or similar technologies that may collect personal data, such as identifiers, as well as insights for us and our ad partners about activity on their website or app.\n+Learn more about these technologies\n+and the types of information advertisers or other third parties share with us. Depending on where you live, we may also receive information from data providers.\n You can control how we use this information to personalize your experience and the ads you see on Pinterest in your\n@@ -80,2 +81,4 @@\n Terms of Service\n+. We also use the YouTube API Services to serve content (governed by\n+Google\u2019s Privacy Policy\n Respond to your questions or comments.\n@@ -84,2 +87,7 @@\n Depending on where you live, and with your consent, identify your precise location and customize your experience on our Services. For example, if we know that you\u2019re near a retailer we may show you that retailer\u2019s Pins that may be of interest to you. You can opt in to (and out of) this in your device operating system settings.\n+Improve the products and services of our family of companies and offer new features. For example, using information (such as Pins, regardless of when they were posted) to train, develop and improve our technology such as our machine learning models and our generative artificial intelligence models. This includes, for example, Pinterest\u2019s\n+body type technology\n+, which is trained on images in Pins posted to our Services. Learn more about our features supported by our generative artificial intelligence technology\n+here\n+Create aggregated or de-identified information that cannot reasonably be used to identify you. Pinterest processes, maintains, and uses this information only in a de-identified fashion for the purposes set out in this Privacy Policy and will not attempt to re-identify such information.\n Send you updates, including by email, push notification, SMS, or phone. You can unsubscribe from our promotional emails at any time and decide to\n@@ -89,4 +97,4 @@\n We use your information in our efforts to improve our Services, keep our users and the public safe, and to protect legal interests. To do so, we:\n-Review your activity and messages on our Services to detect spam, enforce our Terms and policies, or activity that poses a risk to our community or the public. This can include working with law enforcement to keep Pinterest safe.\n-Analyze users\u2019 log data and device information to identify and investigate suspicious behavior or violations of our policies or Terms.\n+Monitor your activity and messages on our Services to detect spam, enforce our Terms and policies, such as removing you if you are underage, or activity that poses a risk to our community or the public. This can include working with law enforcement to keep Pinterest safe. We may also use, or work with vendors who use automated tools to scan and analyze your messages to detect harmful or unlawful content.\n+Analyze users\u2019 log data, device information, and usage data to identify and investigate suspicious behavior, fraudulent activity, or violations of our policies or Terms.\n Conduct\n@@ -94,9 +102,4 @@\n , as appropriate. This may include facial age estimation and matching your face against a government ID.\n-May access user information in relation to a legal claim, litigation, or regulatory proceeding.\n+May access and share user information in relation to a legal claim, litigation, regulatory proceeding or policy violation.\n Conduct analytics and research on who is using our Services and what they are doing. For example, by logging how often people use two different versions of a feature on Pinterest, we can understand which version is better.\n-Improve the products and services of our family of companies and offer new features. For example, using information to train, develop and improve our technology such as our machine learning models, regardless of when Pins were posted. This includes, for example, Pinterest\u2019s\n-body type technology\n-, which is trained on images in Pins posted to our Services. Pinterest also has features that are supported by generative artificial intelligence technology. Learn more\n-here\n-Create aggregated or de-identified information that cannot reasonably be used to identify you. Pinterest processes, maintains, and uses this information only in a de-identified fashion for the purposes of this Privacy Policy and will not attempt to re-identify such information.\n We also use your information to personalize the ads you see\n@@ -108,3 +111,3 @@\n about our marketing practices off Pinterest and how to opt-out.\n-Tell our ad partners how their Pinterest ads are doing, and how to make them better. We disclose information about the ads you see or interact with on Pinterest to our advertisers and third-party companies to improve the performance of the ads that we or they use to measure or improve the delivery and performance of ads or content on websites and apps. Some of this information is aggregated. For example, we would report to an advertiser that a certain percentage of people who viewed a Pin went on to visit that advertiser's site. Depending on where you live and your settings, we may also disclose this information at an individual level. For example, we would let an advertiser know that a particular Pin has been saved by certain people. To find out more about reporting on ads please\n+Tell our ad partners how their ads are doing, and how to make them better. We disclose information about the ads you see or interact with to our advertisers and third-party companies to improve the performance of the ads that we or they use to measure or improve the delivery and performance of ads or content on websites and apps. Some of this information is aggregated. For example, we would report to an advertiser that a certain percentage of people who viewed a Pin went on to visit that advertiser's site. Depending on where you live and your settings, we may also disclose this information at an individual level. For example, we would let an advertiser know that a particular Pin has been saved by certain people. To find out more about reporting on ads please\n visit the Help Center\n@@ -120,2 +123,3 @@\n Customize your Pinterest experience based on your offsite behavior. For example, if you visit websites that sell electric guitars, we may suggest guitar Pins to you.\n+Show you content that is relevant to you using machine learning and generative artificial intelligence.\n Legitimate interests relied on\n@@ -147,6 +151,6 @@\n To make and keep Pinterest safe, we:\n-Work with law enforcement and researchers. We may get requests for account information from law enforcement authorities like the police or courts, or from researchers to study activity on Pinterest. To find out more about how we respond to law enforcement requests, please see our\n+Work with law enforcement and researchers. We may get requests for user information from law enforcement authorities like the police or courts, or from researchers to study activity on Pinterest. To find out more about how we respond to law enforcement requests, please see our\n Law Enforcement Guidelines\n-Analyze users\u2019 log data and device information to identify and investigate suspicious behavior or violation of our policies or Terms.\n-Review your activity and messages on our Services to detect spam or activity that poses a risk to the safety of you, our community and/or members of the public.\n+Analyze users\u2019 log data, usage data, inferences and device information to identify and investigate suspicious behavior or violation of our policies or Terms.\n+Monitor your activity and messages on our Services to detect spam, enforce our Terms and policies, such as removing you if you are underage, or activity that poses a risk to the safety of you, our community and/or members of the public. We may also use, or work with vendors who use automated tools to scan and analyze your messages to detect harmful or unlawful content.\n Conduct age verification. This may include facial age estimation and matching your face against a government ID.\n@@ -188,2 +192,4 @@\n Preserve and share information when we seek legal advice or seek to protect ourselves in the context of litigation and other disputes. This includes violations of our Terms and policies.\n+Work with copyright owners on alleged copyright infringements. To find out more about the information we share when responding to claims of copyright infringement, please see our\n+Copyright Policy\n Legitimate interests relied on\n@@ -262,3 +268,3 @@\n To comply with legal and regulatory obligations\n-Accessing, storing, preserving, or sharing information when doing so in response to a court order, search warrant, production order, subpoena or similar legal request.\n+Accessing, storing, preserving, or sharing information when doing so in response to a court order, preservation order, search warrant, production order, subpoena or similar legal request.\n Accessing, storing, preserving, or sharing information when we think it is reasonably necessary to comply with legal or regulatory obligations, including sharing with researchers, law enforcement, or other authorities.\n@@ -267,3 +273,3 @@\n Regulatory matters: to comply with regulatory obligations like under privacy laws (GDPR) and the Digital Services Act (DSA).\n-Civil, commercial, criminal, or consumer protection matters: where we are in receipt of a court order to disclose information for the purposes of court proceedings or regulatory inquiries (e.g. orders or mandatory requests under the Irish Competition and Consumer Protection Act 2014, GDPR).\n+Civil, commercial, criminal, or consumer protection matters: where we are in receipt of a court order to disclose information for the purposes of court proceedings or regulatory inquiries (e.g. orders or mandatory requests under the Irish Competition and Consumer Protection Act 2014, GDPR) or in response to orders under EU law, including the e-Evidence Regulation.\n Corporate and taxation matters: obligations such as the Irish Companies Act 2014 and the Taxes Consolidation Act 1997.\n@@ -299,3 +305,4 @@\n : If you reside in the EEA, Switzerland, and UK, you have the right to lodge a complaint with the supervisory authority of your country.\n-In the UK, the relevant data protection authority is the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, +44 (0303) 123 1113, email: casework@ico.org.uk.\n+In the UK, the relevant data protection authority is the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, +44 (0303) 123 1113, email:\n+casework@ico.org.uk\n In Ireland, the relevant data protection authority is the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, +353 017650100 / + 353 1800437737, email: info@dataprotection.ie or by using the following online form:\n@@ -313,5 +320,6 @@\n . We also support settings such as tracking settings on iOS and Android devices.\n-You may also have choices available to you through the device or software you use to access Pinterest. For example:\n+You may also have choices available to you through your devices or software you use. For example:\n Your mobile device lets you choose how and whether your precise location, photos, and other data is shared with us.\n-For users who reside in certain U.S. states and have enabled an opt-out preferences signal (such as Global Privacy Control), we will respect this preference when you use Pinterest.\n+Your connected TV may allow you to manage or limit the use of data for advertising.\n+For users who reside in certain U.S. states and have enabled a legally recognized opt-out preferences signal (such as Global Privacy Control), we will respect this preference when you use Pinterest. Please log into your Pinterest account from a web browser with the Global Privacy Control enabled to link that opt-out choice to your account.\n How and when we share information\n@@ -321,9 +329,9 @@\n to third party services, or when you publish your content on Pinterest to such services, you direct disclosure of certain information to those services. Creators may direct us to share information with advertisers or other partners for paid engagements.\n-Depending on where you live, and your privacy settings, we share data for advertising and related purposes, including showing you ads about Pinterest on third-party services, enabling partners to show you ads both\n+Depending on where you live, and your privacy settings, we share data for advertising and related purposes, including showing you ads about our services on third-party services, enabling partners to show you ads both\n and\n off\n-Pinterest, and helping advertisers understand how ads on Pinterest perform. For example, when you fill out a lead ad form, or click on an ad on Pinterest, we\u2019ll share information related to that action with advertising partners. We may also provide partners with information about you so that advertisers can show you ads on or off of Pinterest. Learn more about how we support third-party advertising and the settings you have to manage it\n+Pinterest, and helping advertisers understand how their ads perform. For example, when you fill out a lead ad form, or click on an ad on Pinterest, we\u2019ll share information related to that action with advertising partners. We may also provide partners with information about you so that advertisers can show you ads on or off of Pinterest. Learn more about how we support third-party advertising and the settings you have to manage it\n here\n With vendors that we employ to process information on our behalf based on our instructions and for the purposes described in this Privacy Policy. For example, we share data with security consultants to help us get better at identifying spam. Some information we acquire may be collected by vendors on our behalf.\n-With law enforcement agencies, government agencies, researchers, or other parties in compliance with laws, rules, or regulations. For example, we may get requests for account information from law enforcement authorities like the police or courts. We only disclose information in response to such requests if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Pinterest; or to detect, prevent, or otherwise address fraud, security or technical issues. We may also share information if we believe it is necessary to prevent imminent and serious bodily harm to a person in emergency situations. To find out more about how we respond to law enforcement requests, please see our\n+With law enforcement agencies, government agencies, researchers, or other parties in compliance with laws, rules, or regulations. For example, we may get requests for user information from law enforcement authorities like the police or courts. We only disclose information in response to such requests if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Pinterest; or to detect, prevent, or otherwise address fraud, security or technical issues. We may also share information if we believe it is necessary to prevent imminent and serious bodily harm to a person in emergency situations. To find out more about how we respond to law enforcement requests, please see our\n Law Enforcement Guidelines\n@@ -334,3 +342,5 @@\n If you live in the EEA, Switzerland, or the UK, we take additional steps related to data transfers. Information controlled by Pinterest Europe Limited will be transferred or transmitted to, or stored and processed in, the United States or other countries outside of where you live for the purposes as described in this policy. Safeguards which we rely on in ensuring your information benefits from an adequate level of protection includes the following:\n-Adequacy decisions. These are decisions issued from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in \u201cHow we use the info we collect\u201d to some countries with such adequacy decisions, such as the countries listed here; or\n+Adequacy decisions. These are decisions issued from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in \u201cHow we use the info we collect\u201d to some countries with such adequacy decisions, such as the countries listed\n+here\n+; or\n Data Privacy Frameworks. For transfers of personal data of EEA, Switzerland, and UK (and Gibraltar) residents to the U.S., Pinterest relies on and has certified to the U.S. Department of Commerce that it adheres to: the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK (and Gibraltar) Extension to the EU-U.S. DPF (UK Extension), and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) (together the Data Privacy Frameworks). Pinterest, Inc. complies with Data Privacy Frameworks. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit",
+   "added": 52,
+   "removed": 42
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -17,2 +17,3 @@\n New Releases\n+Best of the Year\n Best of #BookTok\n@@ -27,3 +28,3 @@\n Accessibility\n-Choose the plan that's right for you\n+Choose how to listen\n Switch plans or cancel anytime.\n@@ -32,20 +33,19 @@\n Try for $0.00\n-Auto-renews at $8.99/mo after 30 days. Cancel anytime.\n-Standard 30-day free trial\n-$8.99/mo after free trial\n+Auto-renews at $8.99/mo after 30 days. Cancel anytime. Unused monthly audiobook selections don't roll over.\n+Standard\n+Listen while subscribed\n+$8.99/mo after 30 days\n Try for $0.00\n Auto-renews at $14.95/mo after 30 days. Cancel anytime.\n-Premium 30-day free trial\n-$14.95/mo after free trial\n+Premium\n+Keep your audiobooks\n+$14.95/mo after 30 days\n Sign up for Premium Annual\n Auto-renews at $149.50/yr. Cancel anytime.\n-Premium\n 12 audiobooks\n-$149.50 a year\n-Select this plan\n+$149.50/year\n+Sign up for Premium Annual\n Auto-renews at $229.50/yr. Cancel anytime.\n-Premium\n-12 creditos/a\u00f1o\n-$229.50/yr\n-Save 16%\n+24 audiobooks\n+$229.50/year\n LIMITED TIME OFFER | $99 for a year of Premium",
+   "added": 13,
+   "removed": 13
+  },
+  {
+   "service": "Figma",
+   "page": "pricing",
+   "url": "https://www.figma.com/pricing/",
+   "diff": "@@ -158,2 +158,3 @@\n Define color, number, and more to unlock design theming and more dynamic prototyping.\n+Design in 3D natively in Figma with depth, perspective, and CSS compatibility.\n Easily apply and switch between multiple design themes.\n@@ -172,2 +173,3 @@\n Generate high-quality images in Figma, backed by the power of Figma Weave.\n+Create or import code on the canvas to explore prototypes side by side and edit them as design layers or with Figma Make tools.\n Access your organization\u2019s shared fonts in Figma\u2014instantly available to all Editors.\n@@ -179,3 +181,2 @@\n Scale design systems across multiple brands and products with extended collections.\n-Create or import code on the canvas to explore prototypes side by side and edit them as design layers or with Figma Make tools.\n Generate a functional prototype or web app via prompt.",
+   "added": 2,
+   "removed": 1
+  },
+  {
+   "service": "Mailchimp",
+   "page": "pricing",
+   "url": "https://mailchimp.com/pricing/marketing/",
+   "diff": "@@ -64,2 +64,3 @@\n Then, starts at\n+$20\n /month\u2020",
+   "added": 1,
+   "removed": 0
+  },
+  {
+   "service": "Tubi",
+   "page": "privacy",
+   "url": "https://tubitv.com/static/privacy",
+   "diff": "@@ -577,3 +577,3 @@\n All rights reserved.\n-Device ID: 39cab07e-a193-4001-ad51-52f51316bc81\n+Device ID: 08927738-bc31-416f-9738-aaf4fca48380\n Made with",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "JetBlue",
+   "page": "pricing",
+   "url": "https://www.jetblue.com/legal/fees",
+   "diff": "@@ -220,3 +220,3 @@\n March 2027\n-N/A\n+3/18-3/31\n April 2027",
+   "added": 1,
+   "removed": 1
+  }
+ ]
+}
