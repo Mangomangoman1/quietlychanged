@@ -1928,3 +1928,7 @@ Reach per tier: 50K+ and ≤45 min with image: PS5 Pro re-test 26 (parent grew t
 ### Drafted (social/2026-11-12/pm/)
 - R1 Pirat_Nation Microsoft outage #2 (https://x.com/Pirat_Nation/status/2121021929800761764; 21.0K / 36 replies / ~55 min at 5:21 PM MT; tier 20-50K, >45 min with image): r1.txt (277 chars), images r1-01-microsoft-logo.png, r1-02-sla-card.png. Post only if before ~5:56 PM MT and still climbing.
 - No quote (no in-lane 500K+ parent). No original (Nov 12 slot used by Robinhood).
+
+### Posted (Nov 12 PM, box browser as @QuietlyChanged)
+- R1 Microsoft 365 outage SLA reply under Pirat_Nation (parent 22,075 views / 40 replies at post time), 5:26 PM MT: https://x.com/QuietlyChanged/status/2121036988593873390
+  - Both images in order (logo, SLA card). DEFECT: published text dropped the first paragraph; only "It isn't automatic. Your admin has to file a claim with the incident ID, by Dec 31 for this one." went live. Not deleted/reposted (needs Samuel's OK). Lesson: tell posting subagents to verify the published text matches and to paste multi-paragraph text carefully (line breaks may be swallowing the first paragraph).
