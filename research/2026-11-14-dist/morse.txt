@@ -1,0 +1,916 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Private AI for Dating: What Tinder, Hinge, and Bumble Read | Morse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morse
+
+
+
+
+
+Chat
+
+
+
+
+
+
+
+
+
+Inference
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+
+
+
+
+
+Plans
+
+
+Sign in
+
+Open Morse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morse
+
+
+
+
+
+Chat
+
+
+
+
+
+
+
+
+
+Inference
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+
+
+
+
+
+Plans
+
+
+Sign in
+
+Open Morse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chat
+
+
+
+
+
+
+Overview
+
+Studio
+
+Characters
+
+
+
+
+Inference
+
+
+
+
+
+
+Overview
+
+Models
+
+Docs
+
+
+
+
+
+
+
+Console
+
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+
+
+
+
+Overview
+
+Encryption
+
+Verify
+
+Subprocessors
+
+
+
+
+Plans
+
+
+
+
+
+
+
+Overview
+
+Private AI chat with every top model
+
+
+
+Studio
+
+Make any image you can describe
+
+
+
+Characters
+
+Role-play in worlds people build
+
+
+
+
+
+Overview
+
+Every model through one private API
+
+
+
+Models
+
+80+ models, their prices, and their tiers
+
+
+
+Docs
+
+
+
+
+
+
+
+Call it from the SDK you already use
+
+
+
+Console
+
+
+
+
+
+
+
+Keys, usage, and billing
+
+
+
+
+
+Overview
+
+Who can read your message, tier by tier
+
+
+
+Encryption
+
+How your messages and chats are encrypted
+
+
+
+Verify
+
+Check that Morse's enclaves run the published code
+
+
+
+Subprocessors
+
+Every company that handles your data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morse
+
+/
+
+Blog
+
+
+
+Private AI for dating: what Tinder, Hinge, Bumble, and Grindr's AI reads
+
+
+The Morse team
+
+Published 
+November 1, 2026
+
+
+7 min read
+
+
+Private AI for dating starts with the apps themselves: as of November 1, 2026, Tinder, Hinge, Bumble, and Grindr all run AI features that read your photos, your profile, or your messages, and Hinge and Bumble send profile content to OpenAI to do it. Pasting a match's messages into ChatGPT for advice adds one more company, which keeps the chat under your account and trains on it unless you turn that off.
+
+
+We read each app's own help center and privacy policy on November 1, 2026, plus Tinder's March 2026 product announcement and OpenAI's own data pages, and took each company at its word. The apps deserve some credit. Each one explains its AI features in plain language, and Hinge and Bumble both say their AI providers can't use your data for their own purposes. Apps where the partner is an AI are a different question, covered in our review of 
+AI companion app privacy
+.
+
+
+Dating app AI features compared, November 1, 2026
+
+
+
+
+
+
+App and feature
+
+What it reads
+
+Who processes it
+
+On by default?
+
+How to turn it off
+
+
+
+
+
+Tinder photo-based suggestions (camera roll scan)
+
+Your camera roll, scanned on the phone; "some of your photos" are uploaded
+
+Tinder and "our AI technology provider" (
+Tinder
+)
+
+No, you opt in
+
+Skip the scan, or remove camera roll access in your phone's settings
+
+
+
+Tinder "Are You Sure?" and "Does This Bother You?"
+
+Messages, now read for "tone and conversational nuance" by large language models
+
+Tinder (
+Tinder
+)
+
+Not stated
+
+Not stated
+
+
+
+Hinge Convo Starters
+
+Your public profile's prompt answers, photos, and pronouns
+
+OpenAI, deleted within 30 days (
+Hinge
+)
+
+Yes where it's offered, until you opt out
+
+The Convo Starters setting in the app
+
+
+
+Bumble profile text feedback
+
+Your bio, profile answers, and prompts
+
+OpenAI (
+Bumble
+)
+
+Yes, it's "automatic"
+
+Ask Bumble Support
+
+
+
+Bumble photo feedback
+
+The profile photos you submit
+
+Google Cloud Platform, which deletes them after the feedback (
+Bumble
+)
+
+No, you tap "Get feedback" each time
+
+Don't tap it
+
+
+
+Grindr AI training on "limited data"
+
+Age, taps, display name, and profile photos
+
+Grindr (
+Grindr
+)
+
+Yes
+
+
+Enable gAI Features
+ under 
+AI Technology Controls
+
+
+
+
+Grindr AI features
+
+Personal information, including chat content, for "summaries of previous interactions with other users" and chat suggestions
+
+Grindr (
+Grindr
+)
+
+Yes
+
+The same 
+Enable gAI Features
+ switch
+
+
+
+
+
+
+Does Tinder's AI scan your camera roll?
+
+
+Only if you let it, and less of it stays on your phone than the "on-device" label suggests. Tinder expanded Chemistry, its AI matching layer, to the US and Canada on March 12, 2026, with an opt-in Camera Roll Scan that looks for "interests, lifestyle, and personality themes" in your photos (
+Tinder
+).
+
+
+Tinder's help page, updated October 19, 2026, says the scan runs on your device, and then: "some of your photos are temporarily uploaded to Tinder's servers and shared with our AI technology provider to help identify themes and patterns in your photos." Uploaded photos are "promptly deleted unless you add any to your profile," but Tinder "may also analyze these insights to help us improve the feature" (
+Tinder
+).
+
+
+The same page warns that suggestions "may reference themes that relate to cultural, religious, political, lifestyle, or other potentially sensitive topics." Face matching does stay local, though. Tinder says no biometric data from the scan is "accessed by, shared with or otherwise processed by Tinder."
+
+
+Does Hinge send your profile to OpenAI?
+
+
+Yes, when Convo Starters is on, and it reaches people who never use the feature themselves. Hinge's help center says it "sends the prompt responses, photos, and pronouns from a dater's public profile to OpenAI" to write up to three opening tips, and those tips appear to other daters when they like a photo or prompt on your profile (
+Hinge
+).
+
+
+Hinge puts its limits on OpenAI in writing. OpenAI "cannot use the data to train its models, and deletes the data within 30 days of receipt," and the feature doesn't process "facial geometry, biometric data, or private messages." Hinge keeps the starters for the life of your account. Opting out in settings stops starters being generated on your photos and prompts, and stops you seeing them on other people's.
+
+
+What does Bumble's AI do with your profile?
+
+
+Bumble reads your profile text automatically and your photos only on request. Its help center says text feedback "is automatic, so you don't need to turn it on or request it," that OpenAI processes your bio and prompts for it, and that the only way out is to contact Support and type "Opt-me out of AI Text feedback" (
+Bumble
+).
+
+
+Photo feedback runs only when you tap "Get feedback," uses no facial recognition, and goes to Google Cloud Platform, which deletes "your images once feedback has been provided" (
+Bumble
+). Bumble's privacy policy adds that OpenAI "only retains inputs and prompts for 30 days" for its AI icebreakers, while Bumble keeps those prompts and inputs "for six years after account deletion" (
+Bumble
+).
+
+
+Does Grindr train AI on your chats?
+
+
+Only with your consent, but it trains on your photos and taps by default. Grindr's AI page, read November 1, 2026, treats "chat content, and precise location" as special-category data that it uses for training only if you agree, a choice it offers at sign-up. "Limited data," meaning "your age, taps, display name, and profile photos," trains Grindr's AI "by default" until you opt out (
+Grindr
+).
+
+
+To change both, open 
+Privacy Settings
+, then 
+AI Technology Controls
+: "AI Technology Training: Special Category Data" covers chats and location, and 
+Enable gAI Features
+ covers limited data and the AI features. The safety scanning of "text, media, and messages" can't be turned off.
+
+
+Do dating apps read your messages?
+
+
+Their automated systems do. Tinder upgraded "Are You Sure?" and "Does This Bother You?" with large language models that look past keywords at "tone and conversational nuance" (
+Tinder
+). Bumble says it reviews message content "to identify topics, sentiments, and trends across our Users," after taking "steps to remove personally identifying information" first (
+Bumble
+).
+
+
+Deleting your account doesn't delete everything straight away. Tinder keeps data for a "safety retention window of three months following account closure or one year following an account ban" (
+Tinder
+). Hinge has the same three-month window after closure, up to two years after a ban, and keeps profile data "for one year in anticipation of potential litigation" (
+Hinge
+).
+
+
+Is it safe to paste a match's messages into ChatGPT?
+
+
+You can, but your match gets no say in where their words go. On ChatGPT Free, Plus, and Pro, "data sharing is enabled by default," so the chat can train OpenAI's models until you turn off 
+Improve the model for everyone
+, and rating a reply can send "the entire conversation" to training anyway (
+OpenAI
+). Authorized OpenAI staff and service providers may read content to improve the model unless you've opted out, and OpenAI asks you not to "enter sensitive information that you would not want reviewed or used" (
+OpenAI
+). We cover 
+who reviews AI chats
+ in more depth.
+
+
+Don't upload a match's photos to work out who they are. OpenAI's usage policies say "people are entitled to privacy" and don't allow attempts "to aggregate, monitor, profile, or distribute individuals' private or sensitive information without their authorization" (
+OpenAI
+). For everything else, the advice in 
+is it safe to tell ChatGPT personal things
+ applies: the question works just as well without a name.
+
+
+How Morse keeps your dating questions to yourself
+
+
+In every row of the table, your photos, your words, or your match's words go to a company that also holds your name, your face, and your location, and that company's defaults decide whether they train a model or wait out a retention window. ChatGPT works the same way, with your account on one side and a 
+training setting on by default
+ on the other.
+
+
+Morse is built so your chats don't sit in an account on our servers. Morse doesn't train AI on your content, sell your data, or show ads. Your chat history is stored only in your browser, encrypted, not on our servers, and it locks when you sign out. Deleting a chat removes it for good, and we can't recover it either, so copy out anything you want to keep.
+
+
+Pick a privacy mode for each chat:
+
+
+
+
+
+E2EE, for a match's messages no one else should read.
+ Your browser checks the enclave's proof that it's genuine before anything leaves your device, then encrypts the message so only that enclave can read it. Morse's servers relay text they can't read. The guarantee rests on the enclave hardware and attestation working as designed. E2EE chats come with Pro, at $19 a month.
+
+
+
+Private, for advice from a model whose host keeps nothing.
+ Open-weight models like DeepSeek, Kimi, and GLM, plus xAI's Grok, run here, and Morse has zero data retention agreements with its inference, search, and other providers, so they agreed to keep nothing.
+
+
+
+Anonymous, to ask GPT, Claude, or Gemini without the company knowing it's you.
+ Our proxy removes your account, email, and IP address. The provider still sees the message without knowing it's you, and may keep it for a limited time to check for abuse, under its own policy.
+
+
+
+
+Morse strips who you are but not what you write, so leave your match's name, handle, and anything that identifies them out of the message. "She said she's not ready for anything serious, what does that usually mean?" gets the same answer with or without her name.
+
+
+So which settings should you change?
+
+
+
+
+
+Tinder:
+ skip Camera Roll Scan if you don't want photos uploaded, and delete the face reference under 
+Photo Suggestions
+ if you made one.
+
+
+
+Hinge:
+ turn off Convo Starters if you'd rather your photos and prompts didn't go to OpenAI when someone likes them.
+
+
+
+Bumble:
+ ask Support to opt you out of AI text feedback, and only tap "Get feedback" on photos you're happy to have analyzed.
+
+
+
+Grindr:
+ turn off 
+Enable gAI Features
+, and leave special-category training off.
+
+
+
+Asking an AI about a match:
+ in ChatGPT, turn off 
+Improve the model for everyone
+ and leave names out. On Morse, there's no training to turn off, and your history stays on your device.
+
+
+
+
+Try a chat from the 
+Morse home page
+ without an account, or 
+start free
+ with no card needed.
+
+
+Common questions
+
+
+Can other people see the AI feedback on my dating profile?
+
+Not the coaching tips. Bumble's help center says only you can see its photo feedback, and Hinge said when it launched Prompt Feedback on January 15, 2025 that the feedback is private. Hinge's Convo Starters are the exception, because they appear to the people who like your photos and prompts.
+
+
+
+How do I delete the face reference Tinder made from my camera roll?
+
+Tinder's help center says the face reference stays on your phone and is deleted when you log out. To remove it sooner, go to Settings, find Photo Suggestions, tap Stored Face Reference, and select Delete Face Reference.
+
+
+
+Can I see what Hinge's AI generated from my profile?
+
+Yes. Hinge says it keeps Convo Starters for the life of your account and that you can get the ones generated on your content through the in-app Download My Data tool. It deletes them under its privacy policy when you close the account.
+
+
+
+Does Grindr use my HIV status for AI?
+
+No. Grindr's AI help page, read November 1, 2026, says it doesn't use HIV status, last tested date, testing reminders, health practices, Poz and Sober tags and tribes, or vaccination status for AI training or AI-powered features.
+
+
+
+
+
+Ask what you actually want to ask.
+
+80+ models, characters, and images, with every chat encrypted and kept on your device. Free to start.
+
+Start a private chat
+
+
+
+Read next
+
+
+
+
+
+
+
+
+
+AI companion app privacy: what 14 apps' own policies say
+
+AI companion app privacy, app by app. We read 14 companion apps' policies on October 23, 2026 for training, retention, staff review, age checks, and ads.
+
+
+November 12, 2026
+
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Is it safe to tell ChatGPT personal things? What happens to each kind
+
+Is it safe to tell ChatGPT personal things? What OpenAI's own pages say happens to health, money, secrets, anger, and self-harm talk, as of October 2026.
+
+
+October 27, 2026
+
+9 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chat
+
+Overview
+
+Studio
+
+Characters
+
+Plans
+
+
+
+Inference
+
+Overview
+
+Models
+
+Docs
+
+
+
+
+
+
+
+
+
+Privacy
+
+Overview
+
+Encryption
+
+Verify
+
+Subprocessors
+
+
+
+Resources
+
+Changelog
+
+Blog
+
+
+
+
+
+
+
+Console
+
+
+
+
+
+
+
+Import
+
+Mobile
+
+
+
+Legal
+
+Privacy Policy
+
+Terms of Service
+
+Safety
+
+
+
+Connect
+
+Contact
+
+Email
+
+X
+
+
+
+
+© 2026 Morse
+
+
+Y
+Backed by Y Combinator
+
+
+
+
+
+
+
+

@@ -41,6 +41,18 @@ Hinge&#x27;s Privacy Policy (in effect since November 24, 2025, checked November
 
 The messages page lists uses of your chats that have no toggle: delivering them, &quot;Safety and moderation: detecting harassment, scams, and other violations of our guidelines, whether by automated systems or human review&quot;, security, debugging, and aggregate analytics using de-identified or aggregated data. &quot;If you object to Hinge&#x27;s use of your messages for these purposes, you may delete your account.&quot; The Chat Insights page says turning the feature off &quot;does not interfere with Hinge&#x27;s safety processes.&quot;
 
+## How other dating apps handle your messages
+
+We checked what the other big dating apps say about AI and your chats (pages fetched November 14, 2026).
+
+Grindr asks before training on chats. Its &quot;Your Privacy &amp; Artificial Intelligence at Grindr&quot; help page counts &quot;chat content&quot; as special-category data and says: &quot;You can choose whether or not to let Grindr use this type of data to train its AI technology. You&#x27;ll see this option when you create your account.&quot; Its AI features, which include &quot;summaries of previous interactions with other users&quot; and &quot;chat suggestions&quot;, are on &quot;By default&quot; until you opt out under &quot;Enable gAI™ Features&quot;.
+
+Bumble&#x27;s Privacy Policy says it reviews &quot;the content of messages sent in the App to identify topics, sentiments, and trends across our Users&quot; after it will &quot;take steps to remove personally identifying information from such messages, prior to reviewing them.&quot; It lists OpenAI as an AI provider for message prompts such as Icebreakers, noting OpenAI &quot;only retains inputs and prompts for 30 days&quot;.
+
+Tinder said in March 2026 that it gave its &quot;Are You Sure?&quot; and &quot;Does This Bother You?&quot; safety prompts &quot;Large Language Model-powered upgrades&quot; that read &quot;tone and conversational nuance&quot;.
+
+Hinge&#x27;s pages say messages may be used, &quot;With your permission&quot;, to train &quot;the specific models behind these features&quot;, and that some uses &quot;may require Hinge to process raw messages&quot;. Unlike Grindr&#x27;s page, they don&#x27;t say when or how that permission is asked. Unlike Hinge&#x27;s own Convo Starters page and Bumble&#x27;s policy, they don&#x27;t state how long OpenAI keeps the data.
+
 ## What stays the same
 
 Hinge says it &quot;will never voluntarily share your messages with daters other than the intended recipients, nor with advertisers or other third-party companies aside from the approved service providers we engage to help us operate and improve the Hinge Service.&quot; You can still use chat with Chat Insights off.
