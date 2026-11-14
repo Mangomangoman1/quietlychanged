@@ -554,5 +554,41 @@
    "note",
    "PayPal 403 and Xbox Game Pass SSLError are new today; Emotiv privacy returned an empty page (added Nov 9). Roblox/Shein ongoing."
   ]
+ ],
+ "flaky_2026-11-14": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/useragreement-full also 403; kept"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/privacy-full and /us/legalhub/privacy-full also 403; kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; www.roblox.com/info/terms also 403; kept"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars) continues; us.shein.com and www.shein.com variants also bot-walled (49 chars); kept"
+  ],
+  [
+   "Emotiv",
+   "privacy",
+   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
+   "0 chars continues: policy text is embedded in a JS string (htmlDoc), which the extractor strips; emotiv.com/consumer-health-data-privacy-policy loads but is a different document; kept"
+  ],
+  [
+   "note",
+   "Same 5 failures as Nov 10-13. No working same-document replacement found on Nov 14."
+  ]
  ]
 }

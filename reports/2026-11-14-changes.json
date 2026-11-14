@@ -1,0 +1,72 @@
+[
+  {
+    "service": "Verizon",
+    "page": "terms",
+    "headline": "Leaving Verizon Dollars forfeits your balance and fee-free upgrades",
+    "tldr": "Verizon's loyalty terms now spell out the cost of opting out: your Verizon Dollars are forfeited on the spot, and fee-free activations and upgrades end.",
+    "impact": 2,
+    "themes": [
+      "price-creep"
+    ],
+    "url": "https://www.verizon.com/support/verizon-dollars-legal/",
+    "who": "Verizon postpaid mobile, Home Internet and Fios customers enrolled in Verizon Dollars, Verizon's loyalty program, especially anyone who joined for the waived activation and upgrade fees or the Glance lock-screen rewards and is thinking of leaving",
+    "seo_title": "Opting out of Verizon Dollars: you forfeit your balance and lose waived activation and upgrade fees",
+    "seo_desc": "Verizon added section 7.4 to its Verizon Dollars terms: un-enrolling forfeits accumulated Dollars (except Verizon Visa Card earnings), voids refunds on items bought with Dollars and ends waived activation and upgrade fees.",
+    "redline": [
+      {
+        "before": "",
+        "after": "If you choose to opt out of Verizon Dollars, you agree: All accumulated Verizon Dollars will be immediately forfeited, with the exception of Verizon Dollars earned by Verizon Visa Card holders for eligible Verizon Visa Card spend.",
+        "label": "Verizon Dollars Terms · 7.4 Opt-Out",
+        "note": "Leaving the program now costs you whatever balance you haven't spent.",
+        "src": "raw"
+      },
+      {
+        "before": "",
+        "after": "You will lose access to waived fees for mobile device activations and/or upgrades.",
+        "label": "Verizon Dollars Terms · 7.4 Opt-Out",
+        "note": "Verizon's own newsroom puts those fees at up to $40 per device.",
+        "src": "raw"
+      },
+      {
+        "before": "",
+        "after": "Verizon purchases (e.g., accessories, devices) made with Verizon Dollars will be ineligible for a refund.",
+        "label": "Verizon Dollars Terms · 7.4 Opt-Out",
+        "src": "raw"
+      }
+    ],
+    "actions": [
+      "Before you opt out, spend your balance in the My Verizon app (Me tab, Verizon Dollars tile) on a gift card, accessory or device you want",
+      "If you bought something with Verizon Dollars and might return it, return it before you opt out: after that it can't be refunded",
+      "If you only want to stop the Glance lock-screen tracking, uninstall Glance instead of leaving Verizon Dollars; you keep your balance and the fee waivers"
+    ],
+    "what": "Verizon has added a new section 7.4, \"Opt-Out,\" to the Terms and Conditions of Verizon Dollars, the loyalty program that pays 3% of your monthly bill back in Verizon Dollars. It wasn't on the page on November 13; it is on November 14.\n\nThe section says you can unenroll \"at any time via the opt-out link in the Verizon Dollars dashboard in the My Verizon App,\" but that if you do, \"you agree\" to four things:\n\n- \"All accumulated Verizon Dollars will be immediately forfeited, with the exception of Verizon Dollars earned by Verizon Visa Card holders for eligible Verizon Visa Card spend.\"\n- \"You will no longer earn Verizon Dollars for Verizon bill payments or other eligible offers like Lock Screen Rewards through Glance, if applicable.\"\n- \"Verizon purchases (e.g., accessories, devices) made with Verizon Dollars will be ineligible for a refund.\"\n- \"You will lose access to waived fees for mobile device activations and/or upgrades.\"\n\nIt adds that leaving \"will not affect hotel or ticket rewards you have already redeemed\" and that you \"may re-enroll in the Program at any time via the My Verizon App.\" The terms don't say whether re-enrolling restores a forfeited balance.\n\n## Why it matters\n\nThe waived fees are the main reason many customers joined. Verizon's newsroom post launching the program called it \"the end of Device Upgrade and Activation fees\" and put them at \"up to $40 in fees per device,\" available only to customers who opt in. Section 7.4 makes clear the waiver lasts only as long as you stay enrolled. The terms already said Dollars are forfeited if you cancel Verizon service (7.3) or if Verizon ends your enrollment (7.2); now opting out of the program alone costs you the balance too.\n\nIt also matters for the Glance deal we covered on October 19: earning $5 a month in Lock Screen Rewards requires keeping \"Do not sell or share my personal information\" switched off. Customers who regret that and want out of Verizon Dollars entirely now see in writing that leaving forfeits what they earned. Uninstalling the Glance app ends Lock Screen Rewards without leaving Verizon Dollars, according to section 10.2.\n\nWhat stays the same: you earn 3% of eligible bill payments, Dollars earned without a Verizon Visa Card still expire 12 months after they're issued, and Visa cardholders keep card-earned Dollars after opting out.\n\nVerizon's Verizon Dollars FAQ (checked Nov 14) lists the same consequences under \"Can I un-enroll from Verizon Dollars?\" We don't know when that FAQ answer was added. The terms page still shows a placeholder, \"effective as of <DATE>,\" so there is no stated effective date.",
+    "sources": [
+      [
+        "Verizon Dollars Program: Terms and Conditions",
+        "https://www.verizon.com/support/verizon-dollars-legal/"
+      ],
+      [
+        "Verizon Dollars FAQs",
+        "https://www.verizon.com/support/verizon-dollars-faqs/"
+      ],
+      [
+        "About Verizon: Verizon breaks industry mold (loyalty program launch)",
+        "https://www.verizon.com/about/news/verizon-puts-customers-first"
+      ]
+    ],
+    "faq": [
+      [
+        "What happens to my Verizon Dollars if I opt out?",
+        "Under section 7.4 of the program terms, all accumulated Verizon Dollars are forfeited immediately, except Dollars earned by Verizon Visa Card holders on eligible card spending."
+      ],
+      [
+        "Do I lose free activations and upgrades if I leave Verizon Dollars?",
+        "Yes. Section 7.4 says you \"will lose access to waived fees for mobile device activations and/or upgrades.\" Verizon's launch announcement put those fees at up to $40 per device."
+      ],
+      [
+        "Can I rejoin later?",
+        "The terms say you may re-enroll at any time in the My Verizon app. They don't say a forfeited balance comes back."
+      ]
+    ]
+  }
+]

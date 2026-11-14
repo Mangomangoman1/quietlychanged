@@ -7,7 +7,7 @@ X-WR-CALNAME:remove.bg · QuietlyChanged
 BEGIN:VEVENT
 UID:2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-t
  ransfer@quietlychanged.com
-DTSTAMP:20261113T220553Z
+DTSTAMP:20261114T131952Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:remove.bg: Shuts down
