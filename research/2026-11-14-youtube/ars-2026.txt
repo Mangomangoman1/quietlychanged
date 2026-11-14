@@ -1,0 +1,173 @@
+
+  YouTube increases Premium price again, says 90-second unskippable ads are a bug - Ars Technica
+  Skip to content
+    Ars Technica home
+            Sections
+                Forum
+                  Subscribe
+                Search
+                    AI
+                    Biz & IT
+                    Cars
+                    Culture
+                    Gaming
+                    Health
+                    Policy
+                    Science
+                    Security
+                    Space
+                    Tech
+                  Feature
+                  Reviews
+            AI
+            Biz & IT
+            Cars
+            Culture
+            Gaming
+            Health
+            Policy
+            Science
+            Security
+            Space
+            Tech
+      Forum
+        Subscribe
+          Story text
+          Size
+  Small
+  Standard
+  Large
+Width
+      *
+  Standard
+  Wide
+Links
+  Standard
+  Orange
+    * Subscribers only
+      Learn more
+            Pin to story
+      Theme
+                HyperLight
+                Day & Night
+                Dark
+                System
+      Search
+    Sign In
+            Sign in dialog...
+      Sign in
+    The streaming squeeze
+        YouTube increases Premium price again, says 90-second unskippable ads are a bug
+        An individual plan now cost $15.99 per month, and the free tier comes with buggy ads.
+    Ryan Whitwam
+  –
+  Apr 10, 2026 1:08 pm
+    | 
+    191
+      ...
+      ...
+      ...
+          Credit:
+          Jericho / Ron Amadeo
+          Credit:
+          Jericho / Ron Amadeo
+      Text
+        settings
+            Story text
+          Size
+  Small
+  Standard
+  Large
+Width
+      *
+  Standard
+  Wide
+Links
+  Standard
+  Orange
+    * Subscribers only
+      Learn more
+            Minimize to nav
+Over the years, YouTube has evolved from a source of Rickrolls and cat videos to a platform for some of the Internet’s most popular streaming content. Today, it costs more than ever to see that content, as YouTube has announced another price increase for its Premium service. Viewers who can’t stomach the cost of Premium will be greeted by increasingly lengthy ad breaks, but YouTube says some of that is due to a bug it’s now addressing.
+YouTube has not posted a standalone blog announcing the change, but existing subscribers are getting email alerts. The higher pricing is also live for new sign-ups in the US as of this writing. Here’s the important part of YouTube’s email alerts:
+To continue delivering great service and features, we’re increasing your price to $15.99/month. We don’t make these decisions lightly, but this update will allow us to continue to improve Premium and support the creators and artists you watch on YouTube.
+You will see the change reflected on your June 7, 2026 billing date.
+The new $15.99 monthly price is a $2 increase, but if you’re on the family plan, the email looks a bit different. For those folks, the price is now $26.99, which is $4 higher. There’s also the base Premium Lite subscription that removes most YouTube ads and used to cost $7.99 per month. It’s now $1 more.
+YouTube’s subscription tier initially launched in 2015 as YouTube Red at $9.99 per month for the individual plan. In 2018, it morphed into YouTube Premium with a higher $11.99 cost. Then came the 2023 price hike to $13.99. This is the first US price increase for YouTube Premium since 2023, but many international viewers saw increases in 2024.
+YouTube isn’t alone—streaming prices continue their inexorable climb across the board. Netflix seemingly can’t go a year without boosting prices, with the most recent increase coming just last month. Meanwhile, Amazon Prime Video is raising prices and removing features from its lower-tier plans. In unrelated news, Internet piracy rates are rising worldwide.
+Pay with your wallet or your attention
+Unlike with most streaming services, those who can’t stomach YouTube’s latest price increase have an option. Free users can browse and stream as many YouTube videos as they want, but they’ll have to contend with ads. After earning more than $40 billion in ad revenue in 2025, the site expanded the use of unskippable 30-second ads in the TV app this year. Previously, the longest you’d have to wait before getting back to your video was 15 seconds.
+But viewers have increasingly pointed to even longer ad breaks. In recent days, reports of 90-second unskippable ads have proliferated. The company has responded to the kerfluffle, saying, “YouTube does not have a 90-second non-skippable ad format. This isn’t something we are testing right now.” The company’s post on X has since been “community noted” to reaffirm the existence of 90-second unskippable ads.
+                  Credit:
+                                      X
+          Credit:
+          X
+Despite YouTube’s assurances, many, many viewers report seeing these longer ads, and there are several images that appear to show unskippable 90-second ad breaks. YouTube users have accused the company of lying or using deceptive language in its denial.
+Some viewers report that these extra-long breaks are a mix of ad types. They begin with a 30-second unskippable ad, and the player then rolls into a few shorter skippable ads. However, the interface only shows the standard “Skip in” text with a countdown until all the ads are over. The good news is that this is an error, and YouTube is working on it.
+              The YouTube interface makes this look like an unskippable 90-second ad even if it’s not.
+                  Credit:
+                                      /u/Ok_Neat1652
+      The YouTube interface makes this look like an unskippable 90-second ad even if it’s not.
+          Credit:
+          /u/Ok_Neat1652
+YouTube now says it has determined these longer unskippable ads are an interface bug. “We’ve determined this was a result of a bug, which resulted in higher, inaccurate timers being shown for shorter ads,” a company spokesperson said. “We’re rolling out a fix now. As we’ve said, we don’t have a 90 second non-skippable ad format and this was not a test.”
+YouTube just isn’t the streaming video free-for-all it once was. You’ll have to pay in one way or another if you want to watch YouTube content. The site will either take an ever larger bite of your budget, or you’ll have to sit through more ads than ever before. There are alternative YouTube clients that can strip out ads, and ad-blockers can do the same on the web. However, it’s a cat-and-mouse game as YouTube works to block the blockers.
+                  Ryan Whitwam
+      Senior Technology Reporter
+                  Ryan Whitwam
+      Senior Technology Reporter
+      Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can follow him on Bluesky, where you will see photos of his dozens of mechanical keyboards.
+    191 Comments
+    Comments
+    Forum view
+      Loading comments...
+Prev story
+          Next story
+        Most Read
+                1.
+                FAA expands AI advice to manage air traffic congestion across entire US airspace
+                2.
+                Windows 0-day dropped by disgruntled researcher hands hackers System rights
+                3.
+                Starship flight 15 powers to orbit—setting up a possible catch on Saturday
+                4.
+                Ukraine says it can’t stop Russian strikes because Starshield is limited again
+                5.
+                It's the end of the world as we know it, per a physicist's 1960 prediction
+      Customize
+Ars Technica has been separating the signal from
+          the noise for over 25 years. With our unique combination of
+          technical savvy and wide-ranging interest in the technological arts
+          and sciences, Ars is the trusted source in a sea of information. After
+          all, you don’t need to know everything, only what’s important.
+        More
+          from Ars
+About Us
+Staff Directory
+Newsletters
+General FAQ
+Posting Guidelines
+AI Policy
+RSS Feeds
+        Contact
+Contact us
+Advertise with us
+Reprints
+            Manage Preferences
+      © 2026 Condé Nast. All rights reserved. Use of and/or
+      registration on any portion of this site constitutes acceptance of our User Agreement and
+      Privacy Policy and
+        Cookie Statement and Ars
+        Technica Addendum and Your
+        California Privacy Rights. Ars Technica may earn compensation on
+      sales from links on this site. Read our
+        affiliate link policy. The material on this site may not be
+      reproduced, distributed, transmitted, cached or otherwise used, except
+      with the prior written permission of Condé Nast. Ad
+        Choices
+Dashboard
+Edit Post
+Howdy, Account
+AccountEdit Profile
+Log Out
+Connecting…			
