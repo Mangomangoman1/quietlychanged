@@ -68,5 +68,92 @@
         "The terms say you may re-enroll at any time in the My Verizon app. They don't say a forfeited balance comes back."
       ]
     ]
+  },
+  {
+    "service": "Hinge",
+    "page": "privacy",
+    "headline": "Hinge now uses OpenAI to analyze your chats, and may train its own models on your messages",
+    "tldr": "Hinge's new Chat Insights runs your messages through OpenAI to make suggestions and personalize matches, and Hinge may train its models on them. There's a toggle in Settings.",
+    "impact": 3,
+    "themes": [
+      "ai-and-your-data"
+    ],
+    "url": "https://help.hinge.co/hc/en-us/articles/57319435073811-What-are-Chat-Insights",
+    "who": "Anyone who messages matches on Hinge, and the people they message, especially anyone who shares sensitive details (health, sexuality, location, plans to meet) in Hinge chat.",
+    "seo_title": "Hinge Chat Insights: Hinge uses OpenAI on your messages. How to turn it off",
+    "seo_desc": "Hinge's new help pages say Chat Insights uses OpenAI to look for patterns in your chats, and Hinge may use messages, sometimes raw, to train the models behind it. Settings > Chat Insights turns it off.",
+    "redline": [
+      {
+        "before": "",
+        "after": "Chat Insights helps us understand how your chats are going, so we can support you in the right moments. We use OpenAI to look for patterns and make suggestions that can help improve your experience.",
+        "label": "Help Center · What are Chat Insights? (new, Nov 9, 2026)",
+        "note": "Hinge's first OpenAI feature, Convo Starters, came with a promise that it does not process private messages. This one is built on them.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "This may include recommending other daters who we think better reflect your preferences, offering in-chat suggestions or feedback, tailoring features to your interests, or training the specific models behind these features.",
+        "label": "Help Center · How Does Hinge Use My Messages (new, Oct 28, 2026)",
+        "note": "Your messages can feed who Hinge shows you, and the models themselves.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "However, some use cases may require Hinge to process raw messages, which may include identifiable information or data considered sensitive under applicable law.",
+        "label": "Help Center · How Does Hinge Use My Messages",
+        "note": "Hinge says it will pseudonymize or de-identify \"where possible\", not always.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "To opt out, open Hinge, tap your photo icon, then Settings (the gear icon), scroll to Chat Insights and switch it off. Hinge's other page calls the same switch \"Chat Insights for Personalization\" in Account Settings",
+      "Check the switch even if you don't remember agreeing to anything: Hinge's pages don't say whether it starts on or off",
+      "Keep in mind that safety scanning and human review of chats aren't covered by the switch. Hinge says the only way to object to those is to delete your account"
+    ],
+    "what": "Hinge has published two new help-center articles that describe a new use for your messages. \"How Does Hinge Use My Messages\" was created on October 28, 2026 and \"What are Chat Insights?\" on November 9, 2026, according to the help center's own timestamps. Both were last edited on November 13. Neither page existed in the Wayback Machine when we checked on November 14, and we found no news coverage.\n\n## What Chat Insights does\n\nThe Chat Insights page says: \"Chat Insights helps us understand how your chats are going, so we can support you in the right moments. We use OpenAI to look for patterns and make suggestions that can help improve your experience.\" It adds: \"Hinge uses Chat Insights, but never shows them to other daters. Chat Insights improves Hinge over time. Patterns across conversations help us build features that make chatting feel easier.\"\n\nThe messages page explains what that personalization covers. \"With your permission, we may also use the messages you send on Hinge to develop and test features designed to enable a more personalized experience for you on the app. This may include recommending other daters who we think better reflect your preferences, offering in-chat suggestions or feedback, tailoring features to your interests, or training the specific models behind these features.\"\n\nIt promises to keep the data to \"the minimum necessary, including by pseudonymizing or de-identifying the messages where possible.\" Then it adds: \"However, some use cases may require Hinge to process raw messages, which may include identifiable information or data considered sensitive under applicable law. If you'd rather this type of content never be used to personalize your experience, opting out is the simplest way to ensure that.\"\n\n## Why it matters\n\nHinge's first OpenAI feature came with a different promise. When Convo Starters launched (Hinge newsroom, December 8, 2025), its help page said the feature uses only profile photos, Prompt answers and pronouns, and \"Convo Starters do not analyze or otherwise process facial geometry, biometric data, or private messages.\" It also said OpenAI \"cannot use the data to train its models, and deletes the data within 30 days of receipt.\" That page is still up. The Chat Insights pages name OpenAI, but they don't repeat those no-training and 30-day deletion terms or say whether they apply.\n\nThe pages also don't say whether Chat Insights starts switched on or off. \"With your permission\" suggests Hinge asks first, but neither page says how or when. Hinge's App Store release notes for its last two updates (10.12.1 and 10.12.2) only mention \"performance improvements.\"\n\nThere's a second person in every chat. The messages page says: \"Where and as legally required, Hinge will not process messages in a conversation unless all parties are opted in.\" That promise is limited to places where the law requires it. The page doesn't say what happens elsewhere when you have Chat Insights off and your match has it on.\n\nHinge's Privacy Policy (in effect since November 24, 2025, checked November 14) doesn't mention Chat Insights or OpenAI. It does already list \"Developing and improving new features and services, including through machine learning\" as a use of your data, and it counts \"your chats with other members\" among the content you share.\n\n## What you can't turn off\n\nThe messages page lists uses of your chats that have no toggle: delivering them, \"Safety and moderation: detecting harassment, scams, and other violations of our guidelines, whether by automated systems or human review\", security, debugging, and aggregate analytics using de-identified or aggregated data. \"If you object to Hinge's use of your messages for these purposes, you may delete your account.\" The Chat Insights page says turning the feature off \"does not interfere with Hinge's safety processes.\"\n\n## What stays the same\n\nHinge says it \"will never voluntarily share your messages with daters other than the intended recipients, nor with advertisers or other third-party companies aside from the approved service providers we engage to help us operate and improve the Hinge Service.\" You can still use chat with Chat Insights off.\n\nWhat you can do: open Hinge, tap your photo icon, then Settings (the gear icon), scroll down to Chat Insights and toggle it off. The messages page calls the same switch \"Chat Insights for Personalization\" in Account Settings.",
+    "sources": [
+      [
+        "Hinge Help Center: What are Chat Insights? (created Nov 9, 2026)",
+        "https://help.hinge.co/hc/en-us/articles/57319435073811-What-are-Chat-Insights"
+      ],
+      [
+        "Hinge Help Center: How Does Hinge Use My Messages (created Oct 28, 2026)",
+        "https://help.hinge.co/hc/en-us/articles/56915235993875-How-Does-Hinge-Use-My-Messages"
+      ],
+      [
+        "Hinge Help Center: What are Convo Starters?",
+        "https://help.hinge.co/hc/en-us/articles/46735258688659-What-are-Convo-Starters"
+      ],
+      [
+        "Hinge Newsroom: Hinge Launches Convo Starters (Dec 8, 2025)",
+        "https://hinge.co/newsroom/convo-starters"
+      ],
+      [
+        "Hinge Privacy Policy (applies from Nov 24, 2025)",
+        "https://hinge.co/privacy"
+      ],
+      [
+        "Hinge: AI Principles",
+        "https://hinge.co/ai-principles"
+      ]
+    ],
+    "faq": [
+      [
+        "Does Hinge use OpenAI on my messages?",
+        "For Chat Insights, yes. Hinge's help page says: \"We use OpenAI to look for patterns and make suggestions that can help improve your experience.\" Hinge says the insights are never shown to other daters."
+      ],
+      [
+        "How do I turn off Chat Insights on Hinge?",
+        "Tap your photo icon, then Settings (gear icon), scroll to Chat Insights and toggle it off. Hinge's messages page calls it \"Chat Insights for Personalization\" in Account Settings. You can still use chat with it off."
+      ],
+      [
+        "Can Hinge train AI on my messages?",
+        "Hinge's own models, yes, if Chat Insights is on: its help page lists \"training the specific models behind these features\" as a use. The Chat Insights pages don't say whether OpenAI may keep or train on the data. For the older Convo Starters feature, Hinge said OpenAI can't train on the data and deletes it within 30 days."
+      ],
+      [
+        "Does turning off Chat Insights stop Hinge from scanning my chats?",
+        "No. Safety and moderation (automated and human review), security, debugging and aggregate analytics have no toggle. Hinge says if you object to those, you can delete your account."
+      ]
+    ]
   }
 ]

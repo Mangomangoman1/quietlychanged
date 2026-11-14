@@ -1,0 +1,25 @@
+# How Does Hinge Use My Messages
+URL: https://help.hinge.co/hc/en-us/articles/56915235993875-How-Does-Hinge-Use-My-Messages
+created 2026-10-28T19:17:22Z edited 2026-11-13T15:21:09Z updated 2026-11-13T15:21:09Z
+
+ Your conversations on Hinge are personal. We want to be transparent about how Hinge uses them and give you as much control over this as possible.
+ Running and protecting Hinge 
+ Some ways we use chats on Hinge are integral to making Hinge work and helping to keep daters safe. These include:
+ Enabling chat functionality: delivering the messages that you exchange with other daters on the app.
+ Safety and moderation : detecting harassment, scams, and other violations of our guidelines, whether by automated systems or human review.
+ Security : detecting fraud, account takeovers, and abuse.
+ Debugging and reliability : diagnosing problems if something breaks and repairing the issue as quickly as possible.
+ Aggregate analytics : understanding app-wide trends (e.g., which features are used, general usage patterns), using de-identified or aggregated data in accordance with applicable law.
+ These purposes do not correspond to a toggle you can turn off, because Hinge can't operate without them. 
+ If you object to Hinge’s use of your messages for these purposes, you may delete your account . If you have concerns about a specific use, please feel free to contact us using the form linked below.
+ Personalizing your experience on Hinge 
+ With your permission, we may also use the messages you send on Hinge to develop and test features designed to enable a more personalized experience for you on the app. 
+ This may include recommending other daters who we think better reflect your preferences, offering in-chat suggestions or feedback, tailoring features to your interests, or training the specific models behind these features.
+ Hinge’s use of your chat data for these purposes is optional . You can check and modify your preferences at any time by navigating to your Account Settings , and setting the “ Chat Insights for Personalization ” toggle accordingly.
+ Hinge will also limit the message data it uses for these purposes to the minimum necessary, including by pseudonymizing or de-identifying the messages where possible. However, some use cases may require Hinge to process raw messages, which may include identifiable information or data considered sensitive under applicable law. If you'd rather this type of content never be used to personalize your experience, opting out is the simplest way to ensure that.
+ Where and as legally required, Hinge will not process messages in a conversation unless all parties are opted in. 
+ Your Privacy on Hinge 
+ Hinge will never voluntarily share your messages with daters other than the intended recipients, nor with advertisers or other third-party companies aside from the approved service providers we engage to help us operate and improve the Hinge Service. 
+ For additional information regarding Hinge’s collection and use of your personal data, please refer to our Privacy Policy . 
+ If you have any questions or concerns, please submit a request . We’re always happy to help.
+

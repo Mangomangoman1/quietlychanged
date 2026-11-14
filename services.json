@@ -349,5 +349,9 @@
  },
  "discovery+": {
   "pricing": "https://help.discoveryplus.com/hc/en-us/articles/44191391175703-discovery-plan-price-changes"
+ },
+ "Hinge": {
+  "terms": "https://hinge.co/terms",
+  "privacy": "https://hinge.co/privacy"
  }
 }

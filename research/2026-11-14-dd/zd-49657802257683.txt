@@ -1,0 +1,12 @@
+# Note on Third Party Automated Tools
+URL: https://help.hinge.co/hc/en-us/articles/49657802257683-Note-on-Third-Party-Automated-Tools
+created 2026-03-05T16:03:09Z edited 2026-06-30T09:33:13Z updated 2026-11-13T15:19:47Z
+
+ At Hinge, we want to help you find real, meaningful connections. Using third-party tools like autoswipers, bots, scrapers, or any kind of automation software on Hinge is a violation of our Terms of Use . These tools break the trust we’re trying to build with our community and go against the real, human-first experience we aim to create. 
+ What happens if I use an autoswiper or similar tool? 
+ If we detect that you’re using any kind of unauthorized tool or website to automate your actions on Hinge, your account may be banned. 
+ Using these types of tools to replace the process of making real connections is not aligned with our ethos around intentional dating and also violates our Terms of Service. We want every Hinge dater to know how highly we prioritize safety and security, which is why we take this seriously. 
+ What happens if I create and distribute an autoswiper or similar tool? 
+ If you’re creating or distributing autoswipers, bots, scrapers, or similar software, your account will be banned. 
+ Whether you're just starting out or deep into your dating journey, we're rooting for you to find success. The real you is what makes that possible. Not a bot. 
+

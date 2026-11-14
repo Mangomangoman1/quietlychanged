@@ -1,0 +1,55 @@
+# Discoverable Content on the Web
+URL: https://support.discord.com/hc/en-us/articles/44302319454359-Discoverable-Content-on-the-Web
+created 2026-10-16T16:50:44Z edited 2026-11-10T21:08:02Z updated 2026-11-14T19:52:37Z
+
+ Messages from public channels in Discoverable Servers can appear on the web through a server’s web pages, either as individual messages or as summaries of a channel's conversation. This article explains what that means for you as a member and how you can control your own content.
+ What this article covers: 
+ What Content Can Appear on the Web 
+ How will I know if I'm in a channel where this applies? 
+ Controlling Whether Your Messages Can Appear 
+ How to Turn This Setting On or Off 
+ What Happens When You Change This Setting 
+ Deleting Individual Messages 
+ Can my messages appear on the web by default? 
+ Frequently Asked Questions 
+ What Content Can Appear on the Web
+ A Server Web Page can show two different kinds of content pulled from public channels:
+ Channel Summaries on the web: A small slice of what's being talked about in your server, directly on your Server Web Page. These automated summaries only cover discussions from November 16, 2026 onward. Admins can change which channels they draw from, curate the summaries that are shown, or turn them off entirely. Usernames will not be shown in summaries.
+ Channel Messages on the web: From mid-December 2026, answers to questions your members sent in public channels can be found in a web search, in their own words. Server admins decide which channels take part, and server members can choose whether their own messages appear. Usernames and avatars will not be shown alongside these messages.
+ How will I know if I'm in a channel where this applies?
+ Discoverable content on the web can only appear from public channels in a Discoverable Server. Channels taking part in Channel Summaries or Channel Messages are labeled, with an icon in the channel header, so you know before you send a message. 
+ You'll also see a pop-up near the channel header letting you know before you post. This pop-up reappears any time a channel newly enables this feature. Your server's admins choose which channels take part in Channel Summaries and Channel Messages on the web, so you may see this in some channels and not others.
+ Channel Messages roll out gradually from mid-December 2026, so it may be a few weeks before messages from labeled channels appear on Server Web Pages.
+ Controlling Whether Your Messages Can Appear
+ The Show my message content from Discoverable channels on web pages setting controls whether your messages in eligible channels can be shown on the public web. It applies across all your servers, not per server.
+ Note: You can change this setting on desktop or in your browser. It applies to your whole account, including on mobile.
+ How to Turn This Setting On or Off
+ 1. Open User Settings .
+ 2. Select Data & Privacy .
+ 3. Turn Show my message content from Discoverable channels on web pages on or off.
+ Data & Privacy Setting for Web Pages 
+ What Happens When You Change This Setting
+ Whether a message can appear on the web depends on your Channel Messages setting when you send it. Messages you send while the setting is off won't appear on the web.
+ Turning the setting off doesn't change this for messages you sent while it was on. Those messages can still appear on the server’s web pages, even if they haven't appeared yet. To prevent one of those messages from appearing, or to remove one that's already on Discord's web pages, delete it from Discord.
+ While your setting is on: eligible messages you send can appear publicly. Messages may be displayed by search engines (including, but not limited to Google), which may be based outside your country.
+ When you turn it off: Discord stops displaying on web any new messages from you going forward.
+ Messages already shown on web before you turned it off can remain visible. Turning the setting off is not a bulk "remove my history" action.
+ Deleting Individual Messages
+ If you delete an individual message, that deletion applies on Discord and is reflected on the Server Web Page, so the message will be removed there too. Deleting a message removes its visibility on the Discord app and Discord web pages. While Discord has its own data retention policy , we do not control how long others may retain cached or indexed copies of content. Search engines have their own deletion processes and retention policies so it may take additional action or time for content to stop appearing in their results.
+ Can my messages appear on the web by default?
+ Yes, in most regions. Your Channel Messages setting is on by default, so messages you send in Discoverable channels can appear on the web unless you turn it off. It's off by default if your account is in the EU/EEA, UK, Canada, Brazil, Australia, or South Korea. If you're in the teen age group , your messages won't appear on the web and you can't turn this setting on.
+ Frequently Asked Questions
+ Q: Can I stop my messages from appearing on the web as Channel Messages? 
+ A: Yes. Turn off your Channel Messages setting in User Settings > Data & Privacy ( Show my message content from Discoverable channels on web pages ). This applies to messages you send from then on. Messages you sent while the setting was on can still appear on the web.
+ Q: If I delete a message, does it disappear from search results? 
+ A: Deleting a message removes it from Discord and from Discord’s web pages. Search engines keep their own copies of pages, so it may take some time, or an extra removal request, before it stops appearing in their results. Discord doesn’t control how long they keep cached copies. Learn more about how long Discord keeps your information in our data retention policy .
+ Q: What happens if I don't change anything? 
+ A: If you do nothing, eligible messages you send starting mid-December 2026 may appear on the web, unless your region or account defaults it off (default off in EU/EEA, UK, Canada, Brazil, Australia, or South Korea ).
+ It may be a few weeks before messages from labeled channels appear on a server’s web pages. Channel Messages on the web must also meet server, channel, and content requirements.
+ Q: Are messages in threads and forums included? 
+ A: Yes, if the parent channel is public, eligible, and Channel Summaries on web or Channel Messages on web is turned on for the channel. Private threads and private forums are never included, regardless of the parent channel’s settings.
+ Q: Are messages text only? 
+ A: Currently, Channel Messages on the web will show text only. A small number of existing partner communities have images and videos appearing on their Server Web Pages today as part of an earlier pilot. We’ll update this answer as that capability becomes more broadly available.
+ Q: Are you selling my messages to AI companies? 
+ A: No. Nothing has changed. We are making Discord content easier to find if admins and users choose to make their content available on the web.
+

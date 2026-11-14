@@ -1,0 +1,168 @@
+## en.help.roblox.com (385)
+  2026-11-12 Verified Badge FAQ https://en.help.roblox.com/hc/en-us/articles/7997207259156-Verified-Badge-FAQ
+  2026-11-12 Finding and Joining a Community https://en.help.roblox.com/hc/en-us/articles/203313490-Finding-and-Joining-a-Community
+  2026-11-12 Creator Wallet Fee Schedule https://en.help.roblox.com/hc/en-us/articles/54884041321364-Creator-Wallet-Fee-Schedule
+  2026-11-12 Creator Wallet Terms https://en.help.roblox.com/hc/en-us/articles/54883888109460-Creator-Wallet-Terms
+  2026-11-11 Creating with Build https://en.help.roblox.com/hc/en-us/articles/51824773718932-Creating-with-Build
+  2026-11-10 Developer Exchange Terms of Use https://en.help.roblox.com/hc/en-us/articles/115005718246-Developer-Exchange-Terms-of-Use
+  2026-11-10 ID Verification FAQs https://en.help.roblox.com/hc/en-us/articles/4407276151188-ID-Verification-FAQs
+  2026-11-10 ID Verification https://en.help.roblox.com/hc/en-us/articles/27984775142292-ID-Verification
+  2026-11-10 ID Verification https://en.help.roblox.com/hc/en-us/articles/4407282410644-ID-Verification
+  2026-11-10 Understanding Age Checks on Roblox https://en.help.roblox.com/hc/en-us/articles/39143693116052-Understanding-Age-Checks-on-Roblox
+  2026-11-10 How does Roblox estimate my age? https://en.help.roblox.com/hc/en-us/articles/42295385001236-How-does-Roblox-estimate-my-age
+  2026-11-10 Voice Chat Recording FAQs https://en.help.roblox.com/hc/en-us/articles/5704050147604-Voice-Chat-Recording-FAQs
+  2026-11-10 What happens as my child or teen gets older on Roblox? https://en.help.roblox.com/hc/en-us/articles/30428367965460-What-happens-as-my-child-or-teen-gets-older-on-Roblox
+  2026-11-10 Content Maturity FAQ https://en.help.roblox.com/hc/en-us/articles/8863284850196-Content-Maturity-FAQ
+  2026-11-10 What are Roblox Kids and Roblox Select? https://en.help.roblox.com/hc/en-us/articles/48163847200532-What-are-Roblox-Kids-and-Roblox-Select
+  2026-11-10 Content Maturity Ratings https://en.help.roblox.com/hc/en-us/articles/8862768451604-Content-Maturity-Ratings
+  2026-11-10 How to Publish Games on Roblox https://en.help.roblox.com/hc/en-us/articles/203313890-How-to-Publish-Games-on-Roblox
+  2026-11-09 Safety Features: Chat, Privacy & Filtering https://en.help.roblox.com/hc/en-us/articles/203313120-Safety-Features-Chat-Privacy-Filtering
+  2026-11-09 Retail Codes https://en.help.roblox.com/hc/en-us/articles/49188142080788-Retail-Codes
+  2026-11-09 How to redeem and spend your Gift Card https://en.help.roblox.com/hc/en-us/articles/115005566223-How-to-redeem-and-spend-your-Gift-Card
+  2026-11-05 Roblox Biometric and Facial Media Data Privacy Notice https://en.help.roblox.com/hc/en-us/articles/42152315498516-Roblox-Biometric-and-Facial-Media-Data-Privacy-Notice
+  2026-11-05 Roblox Facial Media Capture Privacy Notice https://en.help.roblox.com/hc/en-us/articles/4412863575316-Roblox-Facial-Media-Capture-Privacy-Notice
+  2026-11-05 How to Redeem Toy & Virtual Item Codes https://en.help.roblox.com/hc/en-us/articles/360000316606-How-to-Redeem-Toy-Virtual-Item-Codes
+  2026-11-02 Appeal Your Content or Account Moderation https://en.help.roblox.com/hc/en-us/articles/360000245263-Appeal-Your-Content-or-Account-Moderation
+  2026-11-02 Monthly Spending Limits https://en.help.roblox.com/hc/en-us/articles/55228551609620-Monthly-Spending-Limits
+  2026-11-02 Spending Notifications https://en.help.roblox.com/hc/en-us/articles/55228490267796-Spending-Notifications
+  2026-11-02 Monthly Spending Limits and Notifications FAQ https://en.help.roblox.com/hc/en-us/articles/55228388057876-Monthly-Spending-Limits-and-Notifications-FAQ
+  2026-11-01 Roblox Privacy and Cookie Policy https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy
+  2026-11-01 Roblox Terms of Use https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
+  2026-11-01 Roblox Extended Services Program Terms of Use https://en.help.roblox.com/hc/en-us/articles/37967848292500-Roblox-Extended-Services-Program-Terms-of-Use
+## support.discord.com (528)
+  2026-11-13 How to Manage Your Discord Profile Badges https://support.discord.com/hc/en-us/articles/44393096706583-How-to-Manage-Your-Discord-Profile-Badges
+  2026-11-13 Discord Profile Badges: What Each Badge Means https://support.discord.com/hc/en-us/articles/44369363856663-Discord-Profile-Badges-What-Each-Badge-Means
+  2026-11-13 Game Shops FAQ https://support.discord.com/hc/en-us/articles/40102783004311-Game-Shops-FAQ
+  2026-11-13 How to Access an Age-Restricted Server FAQ https://support.discord.com/hc/en-us/articles/1500005292701-How-to-Access-an-Age-Restricted-Server-FAQ
+  2026-11-12 Nitro Squad Experiment FAQ https://support.discord.com/hc/en-us/articles/36320645875479-Nitro-Squad-Experiment-FAQ
+  2026-11-11 Information for Users in India https://support.discord.com/hc/en-us/articles/44935051558679-Information-for-Users-in-India
+  2026-11-10 How can I manage my email notifications settings? https://support.discord.com/hc/en-us/articles/4408820335767-How-can-I-manage-my-email-notifications-settings
+  2026-11-10 Data Used for Sponsored Content on Discord https://support.discord.com/hc/en-us/articles/22225542459415-Data-Used-for-Sponsored-Content-on-Discord
+  2026-11-10 Discord Gift Cards https://support.discord.com/hc/en-us/articles/41159820367895-Discord-Gift-Cards
+  2026-11-10 Discord Server Web Pages https://support.discord.com/hc/en-us/articles/4673515000983-Discord-Server-Web-Pages
+  2026-11-10 Discoverable Server Web Presence https://support.discord.com/hc/en-us/articles/44049845164823-Discoverable-Server-Web-Presence
+  2026-11-10 Discoverable Content on the Web https://support.discord.com/hc/en-us/articles/44302319454359-Discoverable-Content-on-the-Web
+  2026-11-05 Call of Duty: Modern Warfare 4 x Nitro Promo FAQ https://support.discord.com/hc/en-us/articles/44574558431127-Call-of-Duty-Modern-Warfare-4-x-Nitro-Promo-FAQ
+  2026-11-05 How to Find User IDs for Law Enforcement https://support.discord.com/hc/en-us/articles/4407571667351-How-to-Find-User-IDs-for-Law-Enforcement
+  2026-11-05 Message Bookmarks and Reminders https://support.discord.com/hc/en-us/articles/26442819646999-Message-Bookmarks-and-Reminders
+  2026-11-04 Nitro Rewards https://support.discord.com/hc/en-us/articles/39188406147479-Nitro-Rewards
+  2026-11-04 How to Use Nitro Emoji Packs https://support.discord.com/hc/en-us/articles/43925773089175-How-to-Use-Nitro-Emoji-Packs
+  2026-11-03 Where Can I Buy a Discord Gift Card? https://support.discord.com/hc/en-us/articles/41159846304279-Where-Can-I-Buy-a-Discord-Gift-Card
+  2026-11-02 How to Cancel your Nitro Subscription https://support.discord.com/hc/en-us/articles/19580873036695-How-to-Cancel-your-Nitro-Subscription
+  2026-11-02 Nitro Gifting https://support.discord.com/hc/en-us/articles/360020877112-Nitro-Gifting
+  2026-11-02 Discord Sensitive Content Filters https://support.discord.com/hc/en-us/articles/18210995019671-Discord-Sensitive-Content-Filters
+## support.patreon.com (432)
+  2026-11-13 Earnings Insights https://support.patreon.com/hc/en-us/articles/47114923757197-Earnings-Insights
+  2026-11-13 Why is my payout less than I expected? https://support.patreon.com/hc/en-us/articles/204606105-Why-is-my-payout-less-than-I-expected
+  2026-11-12 Payouts Dashboard https://support.patreon.com/hc/en-us/articles/360058429051-Payouts-Dashboard
+  2026-11-12 Flexible previews (Draggable paywall) https://support.patreon.com/hc/en-us/articles/360004061452-Flexible-previews-Draggable-paywall
+  2026-11-12 I’m not getting emails from Patreon https://support.patreon.com/hc/en-us/articles/115003578386-I-m-not-getting-emails-from-Patreon
+  2026-11-12 Going Live on Patreon through OBS https://support.patreon.com/hc/en-us/articles/35597591801997-Going-Live-on-Patreon-through-OBS
+  2026-11-12 Going Live on Patreon through Zoom https://support.patreon.com/hc/en-us/articles/35590010671757-Going-Live-on-Patreon-through-Zoom
+  2026-11-11 Live notifications https://support.patreon.com/hc/en-us/articles/50328940810509-Live-notifications
+  2026-11-11 Downloading your earnings and payout reports https://support.patreon.com/hc/en-us/articles/50300672671245-Downloading-your-earnings-and-payout-reports
+  2026-11-10 Control download links for audio posts https://support.patreon.com/hc/en-us/articles/360033838071-Control-download-links-for-audio-posts
+  2026-11-10 Accidentally created a second Patreon account? How to fix it https://support.patreon.com/hc/en-us/articles/360007132571-Accidentally-created-a-second-Patreon-account-How-to-fix-it
+  2026-11-10 Are there any age restrictions? https://support.patreon.com/hc/en-us/articles/205458556-Are-there-any-age-restrictions
+  2026-11-10 How to duplicate a post https://support.patreon.com/hc/en-us/articles/44702613601805-How-to-duplicate-a-post
+  2026-11-10 What information do third-party apps receive about my Patreon account? https://support.patreon.com/hc/en-us/articles/115004061726-What-information-do-third-party-apps-receive-about-my-Patreon-account
+  2026-11-09 iOS In-app Purchases and Switching to Subscription Billing FAQ https://support.patreon.com/hc/en-us/articles/28801582599181-iOS-In-app-Purchases-and-Switching-to-Subscription-Billing-FAQ
+  2026-11-09 How to move from 1st-of-the-month to subscription billing https://support.patreon.com/hc/en-us/articles/27992332293517-How-to-move-from-1st-of-the-month-to-subscription-billing
+  2026-11-09 iOS in-app purchases and switching to subscription billing https://support.patreon.com/hc/en-us/articles/27992299290637-iOS-in-app-purchases-and-switching-to-subscription-billing
+  2026-11-09 Subscription Billing FAQ https://support.patreon.com/hc/en-us/articles/8779192853261-Subscription-Billing-FAQ
+  2026-11-09 How membership billing works https://support.patreon.com/hc/en-us/articles/360002355991-How-membership-billing-works
+  2026-11-09 How per-creation billing works https://support.patreon.com/hc/en-us/articles/360002137871-How-per-creation-billing-works
+  2026-11-09 How to pause billing for your members https://support.patreon.com/hc/en-us/articles/214013323-How-to-pause-billing-for-your-members
+  2026-11-09 How does charge upfront billing work? https://support.patreon.com/hc/en-us/articles/210291283-How-does-charge-upfront-billing-work
+  2026-11-09 How to move from per-creation to subscription billing https://support.patreon.com/hc/en-us/articles/27992352573069-How-to-move-from-per-creation-to-subscription-billing
+  2026-11-09 A standard platform fee for new creators — effective after August 4, 2025 https://support.patreon.com/hc/en-us/articles/36426991446797-A-standard-platform-fee-for-new-creators-effective-after-August-4-2025
+  2026-11-09 What to expect with iOS in-app purchases https://support.patreon.com/hc/en-us/articles/31147260274957-What-to-expect-with-iOS-in-app-purchases
+  2026-11-09 How iOS in-app purchases work for fans https://support.patreon.com/hc/en-us/articles/27992185537037-How-iOS-in-app-purchases-work-for-fans
+  2026-11-09 iOS in-app purchases FAQ https://support.patreon.com/hc/en-us/articles/27992151772813-iOS-in-app-purchases-FAQ
+  2026-11-09 How iOS in-app purchases work on Patreon https://support.patreon.com/hc/en-us/articles/27991664769677-How-iOS-in-app-purchases-work-on-Patreon
+  2026-11-09 Track delivery with Benefits features https://support.patreon.com/hc/en-us/articles/360004710212-Track-delivery-with-Benefits-features
+  2026-11-09 How to adjust your membership tier prices https://support.patreon.com/hc/en-us/articles/24879210577165-How-to-adjust-your-membership-tier-prices
+## help.headspace.com (613)
+  2026-11-09 Does Headspace still feature a Star Wars collection? https://help.headspace.com/hc/en-us/articles/58432336298395-Does-Headspace-still-feature-a-Star-Wars-collection
+## support.calm.com (239)
+  2026-11-13 Calm App Refund Policy: How to Get Your Money Back https://support.calm.com/hc/en-us/articles/360008240974-Calm-App-Refund-Policy-How-to-Get-Your-Money-Back
+  2026-11-12 Calm with PlayStation Plus https://support.calm.com/hc/en-us/articles/58572779277339-Calm-with-PlayStation-Plus
+## help.hinge.co (131)
+  2026-11-13 How Does Hinge Use My Messages https://help.hinge.co/hc/en-us/articles/56915235993875-How-Does-Hinge-Use-My-Messages
+  2026-11-13 What are Chat Insights? https://help.hinge.co/hc/en-us/articles/57319435073811-What-are-Chat-Insights
+  2026-11-12 How can I appeal my ban? https://help.hinge.co/hc/en-us/articles/360061998734-How-can-I-appeal-my-ban
+  2026-11-02 Age Checks at Hinge https://help.hinge.co/hc/en-us/articles/42464185429651-Age-Checks-at-Hinge
+## support.pokemon.com (331)
+  2026-11-11 Pokémon TCG Pocket Gameplay FAQ https://support.pokemon.com/hc/en-us/articles/30330309361172-Pok%C3%A9mon-TCG-Pocket-Gameplay-FAQ
+  2026-11-11 Pokémon TCG Pocket Trading FAQ https://support.pokemon.com/hc/en-us/articles/34322874608660-Pok%C3%A9mon-TCG-Pocket-Trading-FAQ
+## support.fubo.tv (167)
+  2026-11-10 What devices can I watch Fubo on? https://support.fubo.tv/hc/en-us/articles/115002183228-What-devices-can-I-watch-Fubo-on
+  2026-11-09 Can I Watch Pay-Per-View Events on Fubo? https://support.fubo.tv/hc/en-us/articles/36676716172173-Can-I-Watch-Pay-Per-View-Events-on-Fubo
+  2026-11-09 What Big Events are on Fubo This Week? https://support.fubo.tv/hc/en-us/articles/37139557688205-What-Big-Events-are-on-Fubo-This-Week
+## help.snapchat.com (667)
+  2026-11-13 How do I mute notifications from My AI? https://help.snapchat.com/hc/en-us/articles/26890345383316-How-do-I-mute-notifications-from-My-AI
+  2026-11-13 How do I turn off message or call notifications from someone on Snapchat? https://help.snapchat.com/hc/en-us/articles/7012355955988-How-do-I-turn-off-message-or-call-notifications-from-someone-on-Snapchat
+  2026-11-13 How do I turn off Group Chat message notifications on Snapchat? https://help.snapchat.com/hc/en-us/articles/7012320219924-How-do-I-turn-off-Group-Chat-message-notifications-on-Snapchat
+  2026-11-13 How do I remove a Group Chat from my Chat feed on Snapchat? https://help.snapchat.com/hc/en-us/articles/7012363047700-How-do-I-remove-a-Group-Chat-from-my-Chat-feed-on-Snapchat
+  2026-11-13 How to Pin a Conversation on the Chat Screen on Snapchat https://help.snapchat.com/hc/en-us/articles/7012372091924-How-to-Pin-a-Conversation-on-the-Chat-Screen-on-Snapchat
+  2026-11-13 How do I post Snaps to Spotlight? https://help.snapchat.com/hc/en-us/articles/7012288096532-How-do-I-post-Snaps-to-Spotlight
+  2026-11-13 Generative AI on Snapchat https://help.snapchat.com/hc/en-us/articles/25494876770580-Generative-AI-on-Snapchat
+  2026-11-13 What can My AI do? https://help.snapchat.com/hc/en-us/articles/18530011213332-What-can-My-AI-do
+  2026-11-13 How do I use My AI quizzes and flashcards? https://help.snapchat.com/hc/en-us/articles/55604055803668-How-do-I-use-My-AI-quizzes-and-flashcards
+  2026-11-13 How do I view the status of my content that’s been reported? https://help.snapchat.com/hc/en-us/articles/41615150438420-How-do-I-view-the-status-of-my-content-that-s-been-reported
+  2026-11-13 How to Start a Video Chat on Snapchat https://help.snapchat.com/hc/en-us/articles/7012304163988-How-to-Start-a-Video-Chat-on-Snapchat
+  2026-11-13 How to Make a Voice Call on Snapchat https://help.snapchat.com/hc/en-us/articles/7012378465172-How-to-Make-a-Voice-Call-on-Snapchat
+  2026-11-13 What is the Snapchat+ Imagine Lens? https://help.snapchat.com/hc/en-us/articles/41681335401108-What-is-the-Snapchat-Imagine-Lens
+  2026-11-13 How do I use AI Lenses on Snapchat? https://help.snapchat.com/hc/en-us/articles/13965361050388-How-do-I-use-AI-Lenses-on-Snapchat
+  2026-11-13 How do I play games on Snapchat? https://help.snapchat.com/hc/en-us/articles/46189352630804-How-do-I-play-games-on-Snapchat
+  2026-11-13 What is a Topic Chat on Snapchat and how do I join? https://help.snapchat.com/hc/en-us/articles/41839956323860-What-is-a-Topic-Chat-on-Snapchat-and-how-do-I-join
+  2026-11-09 How do I see mutual friends on Snapchat? https://help.snapchat.com/hc/en-us/articles/45494078314388-How-do-I-see-mutual-friends-on-Snapchat
+  2026-11-09 How do I add a Snap to a high school or college community Story? https://help.snapchat.com/hc/en-us/articles/8116910542356-How-do-I-add-a-Snap-to-a-high-school-or-college-community-Story
+  2026-11-09 What are high school and college communities on Snapchat? https://help.snapchat.com/hc/en-us/articles/7121615525524-What-are-high-school-and-college-communities-on-Snapchat
+  2026-11-09 How to Update a Shared Story on Snapchat https://help.snapchat.com/hc/en-us/articles/7012344508948-How-to-Update-a-Shared-Story-on-Snapchat
+  2026-11-09 How do Shared Stories on Snapchat work? https://help.snapchat.com/hc/en-us/articles/7012312875412-How-do-Shared-Stories-on-Snapchat-work
+  2026-11-09 How do I use Passkeys on Snapchat? https://help.snapchat.com/hc/en-us/articles/27317385968532-How-do-I-use-Passkeys-on-Snapchat
+  2026-11-05 How to Add Friends on Snapchat https://help.snapchat.com/hc/en-us/articles/7012328615828-How-to-Add-Friends-on-Snapchat
+  2026-11-05 What is Find Friends? https://help.snapchat.com/hc/en-us/articles/35382503314580-What-is-Find-Friends
+  2026-11-05 Safety Updates for UK Users https://help.snapchat.com/hc/en-us/articles/49263748819860-Safety-Updates-for-UK-Users
+  2026-11-05 Safety Updates for UK Users https://help.snapchat.com/hc/en-us/articles/43285920298004-Safety-Updates-for-UK-Users
+  2026-11-04 What are Brand Partnerships Settings? https://help.snapchat.com/hc/en-us/articles/37758724413716-What-are-Brand-Partnerships-Settings
+  2026-11-04 How is eligibility for Brand Partnerships settings determined? https://help.snapchat.com/hc/en-us/articles/37758427650836-How-is-eligibility-for-Brand-Partnerships-settings-determined
+  2026-11-04 How Snapchat Uses Google Safe Browsing https://help.snapchat.com/hc/en-us/articles/7012345182356-How-Snapchat-Uses-Google-Safe-Browsing
+  2026-11-04 How do I set up Two-Factor Authentication (2FA) on Snapchat with an authentication app? https://help.snapchat.com/hc/en-us/articles/7012345351700-How-do-I-set-up-Two-Factor-Authentication-2FA-on-Snapchat-with-an-authentication-app
+## help.ticketmaster.com (424)
+  2026-11-13 P!NK Live at Sphere https://help.ticketmaster.com/hc/en-us/articles/53002796326929-P-NK-Live-at-Sphere
+  2026-11-13 KPop Demon Hunters Golden World Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/53001858501649-KPop-Demon-Hunters-Golden-World-Tour-Ticket-Help
+  2026-11-13 Alex Warren - Finding (More) Family On The Road - Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/53001584501009-Alex-Warren-Finding-More-Family-On-The-Road-Tour-Ticket-Help
+  2026-11-13 FEID - FERXXO - THE GREEN STAR Tour - 2027 Ticket Help https://help.ticketmaster.com/hc/en-us/articles/48718174067729-FEID-FERXXO-THE-GREEN-STAR-Tour-2027-Ticket-Help
+  2026-11-13 Grace Potter & The Trespassers - Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52884689038353-Grace-Potter-The-Trespassers-Tour-Ticket-Help
+  2026-11-13 Fall Out Boy: Twilight Of The Punks - Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52834086635025-Fall-Out-Boy-Twilight-Of-The-Punks-Tour-Ticket-Help
+  2026-11-13 Noah Kahan: The Last Of The Bugs World Tour 2027 https://help.ticketmaster.com/hc/en-us/articles/52254593220241-Noah-Kahan-The-Last-Of-The-Bugs-World-Tour-2027
+  2026-11-13 How do I sign into my Ticketmaster Account in other countries? https://help.ticketmaster.com/hc/en-us/articles/13734656419473-How-do-I-sign-into-my-Ticketmaster-Account-in-other-countries
+  2026-11-12 JON PARDI THE CHRISTMAS SHOW – ONE NIGHT ONLY https://help.ticketmaster.com/hc/en-us/articles/52956109518993-JON-PARDI-THE-CHRISTMAS-SHOW-ONE-NIGHT-ONLY
+  2026-11-12 Phoebe Bridgers: The Lost Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52953255532177-Phoebe-Bridgers-The-Lost-Tour-Ticket-Help
+  2026-11-12 Deftones - North American Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52953171394961-Deftones-North-American-Tour-Ticket-Help
+  2026-11-12 Morgan Wallen: The Last Time I Checked Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52953337993233-Morgan-Wallen-The-Last-Time-I-Checked-Tour-Ticket-Help
+  2026-11-11 How do I use Apple or Google Wallet? https://help.ticketmaster.com/hc/en-us/articles/9612381551761-How-do-I-use-Apple-or-Google-Wallet
+  2026-11-11 Why can't I access my mobile tickets yet? https://help.ticketmaster.com/hc/en-us/articles/18357208731153-Why-can-t-I-access-my-mobile-tickets-yet
+  2026-11-11 How do I update my bank information or credit card details in my account? https://help.ticketmaster.com/hc/en-us/articles/9698220569745-How-do-I-update-my-bank-information-or-credit-card-details-in-my-account
+  2026-11-11 How does Ticket Transfer work? https://help.ticketmaster.com/hc/en-us/articles/9786975926673-How-does-Ticket-Transfer-work
+  2026-11-11 Ticket Transfer Troubleshooting https://help.ticketmaster.com/hc/en-us/articles/37438737355537-Ticket-Transfer-Troubleshooting
+  2026-11-10 How can I tell if my seats are next to each other? https://help.ticketmaster.com/hc/en-us/articles/52893751491601-How-can-I-tell-if-my-seats-are-next-to-each-other
+  2026-11-10 How do I buy resale tickets? https://help.ticketmaster.com/hc/en-us/articles/52892690089617-How-do-I-buy-resale-tickets
+  2026-11-10 What is the All In Price? https://help.ticketmaster.com/hc/en-us/articles/35127799858193-What-is-the-All-In-Price
+  2026-11-10 How do I confirm if my tickets are valid or authentic? https://help.ticketmaster.com/hc/en-us/articles/9670365865873-How-do-I-confirm-if-my-tickets-are-valid-or-authentic
+  2026-11-10 How do I purchase and use a parking pass? https://help.ticketmaster.com/hc/en-us/articles/30203989908113-How-do-I-purchase-and-use-a-parking-pass
+  2026-11-10 How do I find my receipt or order confirmation number? https://help.ticketmaster.com/hc/en-us/articles/9757577622417-How-do-I-find-my-receipt-or-order-confirmation-number
+  2026-11-10 How do I sell tickets? https://help.ticketmaster.com/hc/en-us/articles/9672915828881-How-do-I-sell-tickets
+  2026-11-10 RUSH: ELEVATE FROM THE NORM - TOUR TICKET HELP https://help.ticketmaster.com/hc/en-us/articles/52752415403921-RUSH-ELEVATE-FROM-THE-NORM-TOUR-TICKET-HELP
+  2026-11-10 Ricky Montgomery: The Monty Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52714188769809-Ricky-Montgomery-The-Monty-Tour-Ticket-Help
+  2026-11-10 Breaking Benjamin - 2027 Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52674308578065-Breaking-Benjamin-2027-Tour-Ticket-Help
+  2026-11-10 Ron White - 2027 Tour Ticket Help https://help.ticketmaster.com/hc/en-us/articles/52593227084817-Ron-White-2027-Tour-Ticket-Help
+  2026-11-10 Gracie Abrams: The Look at My Life Tour https://help.ticketmaster.com/hc/en-us/articles/47148809686289-Gracie-Abrams-The-Look-at-My-Life-Tour
+  2026-11-10 NURSE JOHN: AGAINST MEDICAL ADVICE: READMITTED - TOUR TICKET HELP https://help.ticketmaster.com/hc/en-us/articles/52884462920849-NURSE-JOHN-AGAINST-MEDICAL-ADVICE-READMITTED-TOUR-TICKET-HELP
+## support.seatgeek.com (610)
+  2026-11-03 Why hasn’t my payout arrived yet? https://support.seatgeek.com/hc/en-us/articles/51407990878739-Why-hasn-t-my-payout-arrived-yet
+  2026-11-03 How do I add a payout method on SeatGeek? https://support.seatgeek.com/hc/en-us/articles/51404724587923-How-do-I-add-a-payout-method-on-SeatGeek
+  2026-11-03 What's a payout method? https://support.seatgeek.com/hc/en-us/articles/51331261710483-What-s-a-payout-method
+  2026-11-02 Does SeatGeek charge a fee to buy tickets? (All-In Pricing Explained) https://support.seatgeek.com/hc/en-us/articles/360036685293-Does-SeatGeek-charge-a-fee-to-buy-tickets-All-In-Pricing-Explained

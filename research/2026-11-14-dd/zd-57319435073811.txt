@@ -1,0 +1,18 @@
+# What are Chat Insights?
+URL: https://help.hinge.co/hc/en-us/articles/57319435073811-What-are-Chat-Insights
+created 2026-11-09T21:53:11Z edited 2026-11-13T15:09:20Z updated 2026-11-13T15:19:07Z
+
+ How Does Chat Insights Work? 
+ Chat Insights helps us understand how your chats are going, so we can support you in the right moments. We use OpenAI to look for patterns and make suggestions that can help improve your experience. 
+ Hinge uses Chat Insights, but never shows them to other daters. Chat Insights improves Hinge over time. Patterns across conversations help us build features that make chatting feel easier.
+ Can I change my Chat Insights setting? 
+ Yes. You can turn Chat Insights on or off at any time. You can still use chat if you turn it off.
+ To adjust your Chat Insights setting:
+ Tap the Photo Icon 
+ Tap Settings (Gear Icon)
+ Scroll down to Chat Insights and toggle the setting On or Off
+ Does turning off Chat Insights affect Hinge’s safety processes? 
+ No, Chat Insights is a separate setting, and toggling off this experience does not interfere with Hinge’s safety processes. 
+ Hinge uses automated tools to scan interactions for harmful or illegal behavior. Members can also always report concerns, and trained moderators may review interactions when an issue is flagged. 
+ Learn more in Safe Message Filters , How Does Hinge Use My Messages , and how to report something on Hinge . For more about how Hinge handles personal information, see our Privacy Policy .
+
