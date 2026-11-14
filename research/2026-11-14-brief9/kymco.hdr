@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Sat, 14 Nov 2026 22:11:31 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+vary: Accept-Encoding,Cookie
+link: <https://kymcousa.com/wp-json/>; rel="https://api.w.org/"
+link: <https://kymcousa.com/wp-json/wp/v2/posts/812>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://kymcousa.com/?p=812>; rel=shortlink
+x-pingback: https://kymcousa.com/xmlrpc.php
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, stale-if-error=86400
+x-cache: HIT: 1
+x-cache-group: normal
+last-modified: Sat, 14 Nov 2026 22:11:31 GMT
+cf-cache-status: HIT
+set-cookie: __cf_bm=NhInPjBUMmxtUItjCiTO0uhN0xfzzoCDz8vL1BxFkLA-1794694291.0509596-1.0.1.1-ElAb6KkcaQzIQ6D37wR9LD7SOI77nYMrZ1aCf1.ZqhTZfcSc8X8sZLNbZX7caVL_K_Dre5vmyk0hKsNIqbTB3DoeCuQgL9_2.OTXDm0yV9NuvcUUMQS5LDHNxFDwxzfj; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=kymcousa.com; Expires=Sat, 14 Nov 2026 22:41:31 GMT
+cf-ray: a5a95a370c1b2d05-IAD
+alt-svc: h3=":443"; ma=86400
+

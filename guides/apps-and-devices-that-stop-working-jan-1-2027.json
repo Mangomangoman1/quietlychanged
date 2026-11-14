@@ -1,0 +1,198 @@
+{
+  "title": "Apps and devices that stop working Jan 1, 2027",
+  "desc": "A dated list of apps and devices that lose cloud or app features around January 1, 2027: what stops, what still works, what to save, and a calendar file for each deadline.",
+  "dek": "HunterSMART's Google Home and Alexa link, KYMCO's Noodoe dash, the ZWILLING Fresh & Save app and Nedap's MyPowerRouter portal all lose cloud features at the turn of the year. This table also includes the December shutdowns already on our site: remove.bg on December 1 and IKEA's gift registry after December 27. Each row has a calendar file.",
+  "published": "2026-11-14",
+  "modified": "2026-11-14",
+  "services": [
+    "Hunter",
+    "KYMCO",
+    "ZWILLING",
+    "Nedap PowerRouter",
+    "remove.bg"
+  ],
+  "changes": [
+    "2026-11-14-hunter-huntersmart-google-home-and-alexa-cloud-link-ends-jan-1-2027",
+    "2026-11-14-kymco-noodoe-app-and-cloud-shut-down-worldwide-on-jan-1-2027",
+    "2026-11-14-zwilling-fresh-save-app-shuts-dec-31-2026-save-your-data-first",
+    "2026-11-14-nedap-powerrouter-mypowerrouter-com-and-support-end-dec-31-2026",
+    "2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer",
+    "2026-10-20-ikea-gift-registry-shuts-down-after-dec-27-2026-and-saved-registries-will-be-de"
+  ],
+  "body": [
+    {
+      "h": "What this list covers"
+    },
+    {
+      "p": "These are cloud and app cut-offs with a hard date, not products being taken off sale. In each case the company has said, in its own words, that an app, a portal or a cloud link ends on a set day. Some hardware still works without that link; some features do not. The table is ordered by the date you have to act."
+    },
+    {
+      "p": "Every row links to our sourced write-up and to a calendar file for that deadline. Things can still change: check the official page before you act."
+    },
+    {
+      "h": "The deadlines, in one table"
+    },
+    {
+      "table": {
+        "headers": [
+          "App or device",
+          "Date",
+          "What stops working",
+          "What keeps working",
+          "What to save or do",
+          "Calendar"
+        ],
+        "rows": [
+          [
+            "[remove.bg](../../changes/2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer/)",
+            "Dec 1, 2026",
+            "The standalone website, accounts and self-service API close at 9:00 a.m. CET. Unused credits expire and do not transfer.",
+            "Canva is the suggested replacement for everyday use; Leonardo.Ai for the self-service API. Enterprise API contracts continue.",
+            "Use remaining credits and export invoices and usage reports before December 1. Unused credits are non-refundable; annual plans get a pro-rata refund.",
+            "[Add to calendar](../../due-soon/2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer.ics)"
+          ],
+          [
+            "[IKEA Gift Registry](../../changes/2026-10-20-ikea-gift-registry-shuts-down-after-dec-27-2026-and-saved-registries-will-be-de/)",
+            "Dec 27, 2026",
+            "The U.S. gift registry is no longer available. Registry accounts cannot be accessed, and saved items are deleted, not moved.",
+            "Purchases already made are not affected. Returns follow IKEA's standard policy. The rest of the IKEA site stays open.",
+            "Move each item to an IKEA Favorites list, share that link, update wedding-site and invitation links, and screenshot the registry before December 27.",
+            "[Add to calendar](../../due-soon/2026-10-20-ikea-gift-registry-shuts-down-after-dec-27-2026-and-saved-registries-will-be-de.ics)"
+          ],
+          [
+            "[ZWILLING Fresh & Save app](../../changes/2026-11-14-zwilling-fresh-save-app-shuts-dec-31-2026-save-your-data-first/)",
+            "Dec 31, 2026",
+            "The ZWILLING app shuts. From January 2027 you cannot log in. Storage tracking, expiry notifications, shopping lists and other app-only features stop.",
+            "Fresh & Save vacuum boxes and other products still work. Your zwilling.com account, shopping and warranties are unchanged.",
+            "Screenshot or write down box contents, estimated expiration dates and any shopping list before December 31. There is no substitute app for managing box contents.",
+            "[Add to calendar](../../due-soon/2026-11-14-zwilling-fresh-save-app-shuts-dec-31-2026-save-your-data-first.ics)"
+          ],
+          [
+            "[Nedap MyPowerRouter.com](../../changes/2026-11-14-nedap-powerrouter-mypowerrouter-com-and-support-end-dec-31-2026/)",
+            "Dec 31, 2026",
+            "The portal ends. You cannot log in, see energy data online, or run remote software updates. Remaining technical support and new warranty claims also end.",
+            "The PowerRouter unit's local functions, including the integrated screen, remain unchanged.",
+            "Save any energy data or records you still need, and submit warranty claims in writing before December 31.",
+            "[Add to calendar](../../due-soon/2026-11-14-nedap-powerrouter-mypowerrouter-com-and-support-end-dec-31-2026.ics)"
+          ],
+          [
+            "[HunterSMART fans](../../changes/2026-11-14-hunter-huntersmart-google-home-and-alexa-cloud-link-ends-jan-1-2027/)",
+            "Jan 1, 2027",
+            "The legacy cloud-to-cloud link between the HunterSMART app and Google Home or Alexa ends. Voice commands, scenes and automations that used that link stop.",
+            "The fan, the included remote and the HunterSMART app still work. Matter is available only on eligible models, sometimes after a firmware or hardware upgrade.",
+            "Check Hunter's Matter page for your model. If it is eligible, finish the upgrade and re-pair in Google Home or Alexa, then recreate scenes. If it is not, plan to use the app and remote.",
+            "[Add to calendar](../../due-soon/2026-11-14-hunter-huntersmart-google-home-and-alexa-cloud-link-ends-jan-1-2027.ics)"
+          ],
+          [
+            "[KYMCO Noodoe](../../changes/2026-11-14-kymco-noodoe-app-and-cloud-shut-down-worldwide-on-jan-1-2027/)",
+            "Jan 1, 2027",
+            "The Noodoe app will not launch, and the cloud shuts down worldwide. In-dash navigation, messages, weather and the gallery stop. Map updates end.",
+            "The speed reading keeps working as normal (it comes from the instrument panel). The clock still shows the time but cannot be adjusted. The scooter itself is not being discontinued.",
+            "Copy any routes or other app data you still need before January 1, and plan to navigate with a phone or another GPS after that.",
+            "[Add to calendar](../../due-soon/2026-11-14-kymco-noodoe-app-and-cloud-shut-down-worldwide-on-jan-1-2027.ics)"
+          ]
+        ]
+      }
+    },
+    {
+      "h": "remove.bg — December 1, 2026"
+    },
+    {
+      "p": "remove.bg's standalone site, accounts and self-service API close on December 1, 2026 at 9:00 a.m. CET. Unused credits expire that day and are non-refundable; nothing transfers to Canva or Leonardo.Ai. Export invoices and usage reports from your account first. Our full write-up is [remove.bg: Dec 1 shutdown](../../changes/2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer/)."
+    },
+    {
+      "h": "IKEA Gift Registry — December 27, 2026"
+    },
+    {
+      "p": "After December 27, 2026, IKEA's U.S. gift registry is no longer available. \"Items saved in your registry will be fully deleted. Items will not be automatically transferred or saved elsewhere.\" Move items to a Favorites list, re-share the link, and take a screenshot. Our full write-up is [IKEA Gift Registry shuts down](../../changes/2026-10-20-ikea-gift-registry-shuts-down-after-dec-27-2026-and-saved-registries-will-be-de/)."
+    },
+    {
+      "h": "ZWILLING Fresh & Save app — December 31, 2026"
+    },
+    {
+      "p": "ZWILLING is discontinuing its app by December 31, 2026. \"From January 2027, you will no longer be able to log in or use the app,\" even if it is still installed. Fresh & Save products continue to work; storage tracking and expiry notifications do not. Save box contents and lists first. Our full write-up is [ZWILLING Fresh & Save app shuts Dec 31](../../changes/2026-11-14-zwilling-fresh-save-app-shuts-dec-31-2026-save-your-data-first/)."
+    },
+    {
+      "h": "Nedap MyPowerRouter.com — December 31, 2026"
+    },
+    {
+      "p": "Nedap, which stopped selling the PowerRouter in 2016, will \"terminate the MyPowerRouter.com environment as of 31 December 2026.\" Online logins, energy data, remote updates and remaining support end that day. The integrated screen still works. Save your data, and file any warranty claim in writing before the deadline. Our full write-up is [MyPowerRouter.com and support end Dec 31](../../changes/2026-11-14-nedap-powerrouter-mypowerrouter-com-and-support-end-dec-31-2026/)."
+    },
+    {
+      "h": "HunterSMART Google Home and Alexa — January 1, 2027"
+    },
+    {
+      "p": "Hunter's November 5, 2026 announcement says that beginning January 1, 2027 it will \"discontinue the legacy cloud-based connections\" between HunterSMART app accounts and Google Home and Amazon Alexa, including \"voice commands, scenes, and automations.\" The remote and the HunterSMART app still work. Matter is only for eligible models, and you have to set the fan up again in Google Home or Alexa. Check the [Matter compatibility page](https://www.hunterfan.com/pages/matter). Our full write-up is [HunterSMART cloud link ends Jan 1](../../changes/2026-11-14-hunter-huntersmart-google-home-and-alexa-cloud-link-ends-jan-1-2027/)."
+    },
+    {
+      "h": "KYMCO Noodoe — January 1, 2027"
+    },
+    {
+      "p": "KYMCO's official notice says that effective January 1, 2027, \"all services, functions, and technical support will be terminated worldwide.\" The Noodoe app \"will no longer launch,\" and the cloud is shut down. Navigation, messages, weather and the gallery stop. \"Speed Display: This function will continue to operate normally.\" Our full write-up is [KYMCO Noodoe shuts down Jan 1](../../changes/2026-11-14-kymco-noodoe-app-and-cloud-shut-down-worldwide-on-jan-1-2027/)."
+    },
+    {
+      "h": "A note on prices"
+    },
+    {
+      "p": "This page is only for apps and devices that lose features. A related deadline in the same window, but not a shutdown, is [Runna's UK price rise](../../changes/2026-11-14-runna-uk-prices-rise-from-first-renewal-on-or-after-dec-10/), which applies from the first renewal on or after December 10, 2026."
+    }
+  ],
+  "sources": [
+    [
+      "Hunter: Important Update to HunterSMART Google Home and Amazon Alexa Connectivity (Nov 5, 2026)",
+      "https://www.hunterfan.com/blogs/hunter-blog/important-update-to-huntersmart%E2%84%A2-google-home-and-amazon-alexa-connectivity-via-app-to-app-linking"
+    ],
+    [
+      "Hunter: Matter Compatibility Updates for HunterSMART Fans",
+      "https://www.hunterfan.com/pages/matter"
+    ],
+    [
+      "9to5Google: Hunter is killing Google Home, Alexa controls for its smart ceiling fans (Nov 9, 2026)",
+      "https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/"
+    ],
+    [
+      "KYMCO USA: KYMCO Noodoe System Discontinuation Notice (bulletin PU-2025-1219)",
+      "https://kymcousa.com/kymco-noodoe-system-discontinuation/"
+    ],
+    [
+      "ZWILLING: Frequently asked questions — App Discontinuation",
+      "https://www.zwilling.com/us/magazine/faqs-app-exit.html"
+    ],
+    [
+      "Nedap: Termination of MyPowerRouter.com and PowerRouter Services as of 31 December 2026",
+      "https://www.powerrouter.com/en/discontinuation-mypowerrouter-com/"
+    ],
+    [
+      "IKEA U.S. Gift Registry",
+      "https://www.ikea.com/us/en/gift-registry/"
+    ],
+    [
+      "remove.bg FAQ",
+      "https://www.remove.bg/faq"
+    ],
+    [
+      "QuietlyChanged: HunterSMART Google Home and Alexa cloud link ends Jan 1, 2027",
+      "https://quietlychanged.com/changes/2026-11-14-hunter-huntersmart-google-home-and-alexa-cloud-link-ends-jan-1-2027/"
+    ],
+    [
+      "QuietlyChanged: KYMCO Noodoe app and cloud shut down worldwide on Jan 1, 2027",
+      "https://quietlychanged.com/changes/2026-11-14-kymco-noodoe-app-and-cloud-shut-down-worldwide-on-jan-1-2027/"
+    ],
+    [
+      "QuietlyChanged: Fresh & Save app shuts Dec 31, 2026; save your data first",
+      "https://quietlychanged.com/changes/2026-11-14-zwilling-fresh-save-app-shuts-dec-31-2026-save-your-data-first/"
+    ],
+    [
+      "QuietlyChanged: MyPowerRouter.com and support end Dec 31, 2026",
+      "https://quietlychanged.com/changes/2026-11-14-nedap-powerrouter-mypowerrouter-com-and-support-end-dec-31-2026/"
+    ],
+    [
+      "QuietlyChanged: remove.bg Dec 1 shutdown",
+      "https://quietlychanged.com/changes/2026-11-13-remove-bg-dec-1-shutdown-unused-credits-expire-and-do-not-transfer/"
+    ],
+    [
+      "QuietlyChanged: IKEA Gift Registry shuts down after Dec 27, 2026",
+      "https://quietlychanged.com/changes/2026-10-20-ikea-gift-registry-shuts-down-after-dec-27-2026-and-saved-registries-will-be-de/"
+    ]
+  ]
+}

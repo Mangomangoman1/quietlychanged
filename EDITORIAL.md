@@ -28,7 +28,7 @@ Still supported, unchanged: `faq`, `note`, `sources`, `seo_title`, `seo_desc`, `
 
 ## Guides (`guides/<slug>.json`)
 
-Evergreen how-to pages at `/guides/<slug>/`, built only from changes we've already sourced and the official pages they cite. Keys: `title`, `desc`, `dek`, `published`, `modified`, `services` (names from `services.json`; those service pages link the guide), `changes` (article slugs, shown as "Our coverage"), `body` (blocks: `{"h"}`, `{"p"}`, `{"ol": [...]}`, `{"ul": [...]}`, `{"quote", "cite", "url"}`; text allows `**bold**` and `[label](url)`), `sources` (`[[name, url], ...]`). If a step isn't in the sources, say to check the official page; don't write one from memory.
+Evergreen how-to pages at `/guides/<slug>/`, built only from changes we've already sourced and the official pages they cite. Keys: `title`, `desc`, `dek`, `published`, `modified`, `services` (names from `services.json`; those service pages link the guide), `changes` (article slugs, shown as "Our coverage"), `body` (blocks: `{"h"}`, `{"p"}`, `{"ol": [...]}`, `{"ul": [...]}`, `{"table": {"headers": [...], "rows": [[...], ...]}}`, `{"quote", "cite", "url"}`; text allows `**bold**` and `[label](url)`), `sources` (`[[name, url], ...]`). If a step isn't in the sources, say to check the official page; don't write one from memory.
 
 ## Indexing rules (in `qc/build.py`)
 

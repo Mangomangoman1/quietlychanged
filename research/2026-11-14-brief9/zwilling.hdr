@@ -1,0 +1,24 @@
+HTTP/2 200 
+date: Sat, 14 Nov 2026 22:11:31 GMT
+content-type: text/html;charset=UTF-8
+server: cloudflare
+x-dw-request-base-id: XE97eJPc-GoBAAB_
+content-security-policy: frame-ancestors 'self' *.kameleoon.eu *.kameleoon.com *.kameleoon.io zwilling--stage.sandbox.my.site.com https://*.experimentation.dev
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+vary: accept-encoding
+cf-cache-status: DYNAMIC
+set-cookie: dwac_05f97884127525a3af460f9bff=GiSV22vPjCv-PIqggqh1LrZwIJbqGjflFvs%3D|dw-only|||USD|false|US%2FEastern|true; Path=/; Secure; SameSite=None
+set-cookie: cqcid=abc959BAoS4DcE8ZPdxiB6J87X; Path=/; Secure; SameSite=None
+set-cookie: cquid=||; Path=/; Secure; SameSite=None
+set-cookie: sid=GiSV22vPjCv-PIqggqh1LrZwIJbqGjflFvs; Path=/; Secure; SameSite=None
+set-cookie: minicartSidebarEnabled_US=true; Path=/; Secure; SameSite=None
+set-cookie: dwanonymous_4ef5bbe5470d3868cdd073916ba47e87=abc959BAoS4DcE8ZPdxiB6J87X; Max-Age=15552000; Expires=Thu, 13 May 2027 22:11:31 GMT; Path=/; Secure; SameSite=None
+set-cookie: _userContrySelectionCookie=true; Max-Age=2592000; Expires=Mon, 14 Dec 2026 22:11:31 GMT; Path=/us; Secure; SameSite=None
+set-cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
+set-cookie: dw_dnt=0; Path=/; Secure; SameSite=None
+set-cookie: dwsid=5muAS79i1ppLBYlxqtsIhUo_NQY-t21Uo8Lb77zXDszq2kKrO0mj9G1XELFIqR39XtByPv0cqREeGi2LIMfplQ==; path=/; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=OZDlQKBpHJvRFO9lNTfpTf3Tsh13X0XULcUHFycRy8Q-1794694291.1618686-1.0.1.1-RG__9pbrlikVSCaE01.hJGLrJKr_crETXpP3EVh1W5s; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.zwilling.com
+cf-ray: a5a95a37cc5ca9c4-IAD
+

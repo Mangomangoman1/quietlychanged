@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nedap PowerRouter · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-14-nedap-powerrouter-mypowerrouter-com-and-support-end-dec-31-
+ 2026@quietlychanged.com
+DTSTAMP:20261114T221421Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Nedap PowerRouter: Service ends
+DESCRIPTION:Nedap shuts MyPowerRouter.com on December 31\, 2026\, along wi
+ th online monitoring\, energy data\, remote updates and all remaining sup
+ port. The device's local screen still works\; save your data first.\n\nht
+ tps://quietlychanged.com/changes/2026-11-14-nedap-powerrouter-mypowerrout
+ er-com-and-support-end-dec-31-2026/
+URL:https://quietlychanged.com/changes/2026-11-14-nedap-powerrouter-mypowe
+ rrouter-com-and-support-end-dec-31-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Nedap PowerRouter — Service ends
+END:VALARM
+END:VEVENT
+END:VCALENDAR

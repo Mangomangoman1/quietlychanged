@@ -1,0 +1,39 @@
+HTTP/2 200 
+date: Sat, 14 Nov 2026 22:11:30 GMT
+content-type: text/html; charset=utf-8
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://cozycountryredirectii.addons.business>; rel="preconnect", <https://cdn.cookielaw.org>; rel="preconnect", <//www.hunterfan.com/cdn/shop/t/188/assets/onetrust_nosto_consent.js?v=97253101334681573201791313154>; as="script"; rel="preload", <//www.hunterfan.com/cdn/shop/t/188/assets/base.css?v=113462253107477589691791230454>; as="style"; rel="preload", <https://cozycountryredirectii.addons.business/js/eggbox/5431/script_011a878adb29ea6c044b195d1ffc9a6a.js?v=1&sign=011a878adb29ea6c044b195d1ffc9a6a&shop=hunterfanglobal.myshopify.com>; as="script"; rel="preload", <//www.hunterfan.com/cdn/shop/t/188/assets/jquery.min.js?v=125460993922723132401790111426>; as="script"; rel="preload", <https://cdn.shopify.com/extensions/01a061ba-09b8-7f28-a51f-be55b3ced758/onetrust-consent-management-67/assets/storefront-consent.js>; as="script"; rel="preload", <https://cdn.cookielaw.org/scripttemplates/otSDKStub.js>; as="script"; rel="preload", <https://www.hunterfan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css>; as="style"; rel="preload"; crossorigin, </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+x-permitted-cross-domain-policies: none
+etag: W/"sfr:computation:v2:b3470000dbd55c14928af31632d1f4ba07bb27df7d82b719f1a354a55db7dccc:66deffa3f71cd1169ee9493fa4c0ab88"
+x-xss-protection: 1; mode=block
+set-cookie: _shopify_essential=:AaHcHZ1pAAEAt3nBQQLwLYIhuqakRSxrN85m4Lq4pyorHpE2IR5CMgYLH_fnlNFYtpk-nKWWUGjcNEwhMY5ZWsCC9_c:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaHcHZ2DAAEAXuVvcTVdXXvEtScLvt7VKsMUth9aPcOHyUISO1txEknK8FDIVh2m6vm3fnlPd45mCaJdkmO9AGjW4Qc:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaHcHZ2DAAEAhWqlyPeoucoosFvmNDZERk6oE2xx2GUsCNT9XFbwdTeX7b4ETbPpGXz3UABaFEjGACEXG-4o6aLj5Zc:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: localization=US; path=/; expires=Sun, 14 Nov 2027 22:11:30 GMT; SameSite=Lax
+set-cookie: cart_currency=USD; path=/; expires=Sat, 28 Nov 2026 22:11:30 GMT; SameSite=Lax
+set-cookie: _shopify_cmp=3.AMPS_USID_f_f_ddjAO46JS9WYRcyLSahvsA%23ba2bcbe6-93a7-4b83-af18-9fb3a9df7ba8-1794694290; domain=hunterfan.com; path=/; expires=Mon, 15 Nov 2027 04:11:30 GMT; secure; SameSite=Lax
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+shopify-complexity-score: 127
+shopify-complexity-score-v2: 127
+content-language: en-US
+accept-ch: Sec-CH-Viewport-Width
+powered-by: Shopify
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+cache-control: private, max-age=0, must-revalidate
+x-download-options: noopen
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZZ7iWkEH0koTS2zR%2BO%2FGTAwN%2BziEJ7Pb4SkGfcN3FBz5w8ZVBwJfbv8usRBYImjQidcTEUZu3%2FaRhnkHOX5R8alQeqSJ9Qb9qYZFFY8WEDsnAZCyjKEUnGR5SjmgmnFiTB2BIwwVQ2582EnJvwCT"}]}
+cdn-cache-control: no-cache, no-store
+vary: Accept
+vary: accept-encoding
+server-timing: processing;dur=129, db;dur=58, render;dur=29, asn;desc="13335", edge;desc="IAD", country;desc="US", theme;desc="195702358148", pageType;desc="page", servedBy;desc="mnwf", requestID;desc="ba2bcbe6-93a7-4b83-af18-9fb3a9df7ba8-1794694290", _y;desc="fbc01d6b-361f-4ceb-8513-7f80374a48a1", _s;desc="88140d7d-b9ce-4a43-9bfe-63daf7360b53", _cmp;desc="3.AMPS_USID_f_f_ddjAO46JS9WYRcyLSahvsA", _ye;desc="1826251890", _se;desc="1794696090", compressionLevel;desc="5", compressionTime;dur=20.717
+server-timing: ipv6
+x-request-id: ba2bcbe6-93a7-4b83-af18-9fb3a9df7ba8-1794694290
+x-content-type-options: nosniff
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+x-dc: gcp-us-east1,gcp-us-east1,gcp-us-east1
+server: cloudflare
+cf-ray: a5a95a3548940630-IAD
+

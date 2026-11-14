@@ -353,5 +353,21 @@
  "Hinge": {
   "terms": "https://hinge.co/terms",
   "privacy": "https://hinge.co/privacy"
+ },
+ "Hunter": {
+  "terms": "https://www.hunterfan.com/blogs/hunter-blog/important-update-to-huntersmart%E2%84%A2-google-home-and-amazon-alexa-connectivity-via-app-to-app-linking"
+ },
+ "KYMCO": {
+  "terms": "https://kymcousa.com/kymco-noodoe-system-discontinuation/"
+ },
+ "ZWILLING": {
+  "terms": "https://www.zwilling.com/us/magazine/faqs-app-exit.html"
+ },
+ "Nedap PowerRouter": {
+  "terms": "https://www.powerrouter.com/en/discontinuation-mypowerrouter-com/"
+ },
+ "Runna": {
+  "pricing": "https://www.runna.com/en-gb/pricing",
+  "terms": "https://support.runna.com/en/articles/18298149-changes-to-our-uk-subscription"
  }
 }

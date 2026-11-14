@@ -171,5 +171,342 @@
         "Yes, in different ways. Grindr says you choose at sign-up whether it can train AI on chat content, but its AI features (including chat summaries) are on by default. Bumble reviews message content for topics and trends after removing personal details, and uses OpenAI for Icebreakers with 30-day retention. Tinder uses large language models in its \"Are You Sure?\" safety prompts."
       ]
     ]
+  },
+  {
+    "service": "Hunter",
+    "page": "terms",
+    "headline": "HunterSMART Google Home and Alexa cloud link ends Jan 1, 2027",
+    "tldr": "From Jan 1, 2027, HunterSMART's legacy cloud link to Google Home and Alexa stops. The app and remote still work; Matter is only for eligible models.",
+    "impact": 3,
+    "effective": "2027-01-01",
+    "deadline": "Cloud link ends",
+    "themes": [
+      "shutdowns"
+    ],
+    "url": "https://www.hunterfan.com/blogs/hunter-blog/important-update-to-huntersmart%E2%84%A2-google-home-and-amazon-alexa-connectivity-via-app-to-app-linking",
+    "who": "Anyone who controls a HunterSMART ceiling fan through Google Home or Amazon Alexa by linking their HunterSMART account, especially owners of models that are not eligible for Matter",
+    "seo_title": "HunterSMART Google Home and Alexa cloud link ends January 1, 2027",
+    "seo_desc": "From January 1, 2027, Hunter ends the legacy cloud-to-cloud link between HunterSMART apps and Google Home or Alexa. Voice commands, scenes and automations that use that link stop. The app and remote still work; Matter is only for eligible models.",
+    "redline": [
+      {
+        "before": "",
+        "after": "Beginning January 1, 2027, Hunter will discontinue the legacy cloud-based connections that currently enable cloud-to-cloud linking between HunterSMART™ app accounts and Google Home and Amazon Alexa.",
+        "label": "Hunter blog · What Is Changing? (Nov 5, 2026)",
+        "note": "This is the official announcement, not only the customer email quoted in the press.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "After this date, Google Home and Alexa functionality that relies on this legacy cloud connection will no longer work for HunterSMART™ fans, including voice commands, scenes, and automations.",
+        "label": "Hunter blog · What Is Changing?",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "Your fan's core operation will continue as designed, including fan and lighting control through the included remote control, other installed controls, and smart controls via the HunterSMART™ app, as applicable.",
+        "label": "Hunter blog · What Does This Mean for My HunterSMART™ Fan Controls?",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Check whether your fan is eligible for Matter on Hunter's Matter compatibility page, and complete any firmware or hardware upgrade and re-pairing before January 1, 2027",
+      "If your model is not eligible, plan to use the HunterSMART app and the included remote after that date: Google Home and Alexa voice commands, scenes and automations that used the old account link will stop",
+      "If you migrate to Matter, add the fan directly in the Google Home or Alexa app and recreate scenes and automations; the old HunterSMART account link will not carry them over"
+    ],
+    "what": "Hunter, the ceiling-fan maker, is ending the legacy cloud link that connects HunterSMART fans to Google Home and Amazon Alexa. The official announcement, posted November 5, 2026 and fetched November 14, 2026, is clear about the date: \"Beginning January 1, 2027, Hunter will discontinue the legacy cloud-based connections that currently enable cloud-to-cloud linking between HunterSMART™ app accounts and Google Home and Amazon Alexa.\" \"After this date, Google Home and Alexa functionality that relies on this legacy cloud connection will no longer work for HunterSMART™ fans, including voice commands, scenes, and automations.\"\n\n## What stays the same\n\nThe fan itself does not shut off. Hunter says: \"Your fan's core operation will continue as designed, including fan and lighting control through the included remote control, other installed controls, and smart controls via the HunterSMART™ app, as applicable.\" If you already control the fan from the HunterSMART app or the remote in the box, that path is not what is being discontinued.\n\n## Matter is only for eligible models\n\nHunter is moving eligible HunterSMART products to Matter. \"If your fan is eligible for Matter compatibility, you will be able to continue using supported smart functionality within the Google Home and/or Alexa ecosystems after completing the applicable Matter migration and setup.\" After that, you no longer link your HunterSMART account to Google Home or Alexa. You add the fan directly in those apps using their Matter setup. \"Matter-enabled devices do not use the legacy cloud-linking service for smart controls that is being discontinued.\"\n\nEligibility is not universal. Hunter's [Matter compatibility page](https://www.hunterfan.com/pages/matter) says the path \"will vary depending on your fan model and hardware configuration\" and that Matter \"may require a firmware update or updated hardware components.\" Customers who do not complete an available migration \"will no longer be able to use certain HunterSMART™ cloud-based smart-home features after the transition,\" though core operation through the remote or other installed controls continues. After a Matter migration you may need to add the fan as a new device and \"recreate scenes, routines, automations, schedules, or other customized settings.\"\n\n## What you can do\n\nLook up your model on the Matter page and, if an upgrade is offered, finish it and re-pair the fan before January 1, 2027. If your fan is not eligible, treat the HunterSMART app and the included remote as the controls that will still work.\n\nCoverage (checked November 14, 2026): [9to5Google](https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/) reported the change on November 9, quoting a Hunter customer email that matches the official blog. Android Authority also noted the November 5 announcement.\n\nRelated: [Apps and devices that stop working Jan 1, 2027](../../guides/apps-and-devices-that-stop-working-jan-1-2027/).",
+    "sources": [
+      [
+        "Hunter: Important Update to HunterSMART Google Home and Amazon Alexa Connectivity via App-to-App Linking (Nov 5, 2026)",
+        "https://www.hunterfan.com/blogs/hunter-blog/important-update-to-huntersmart%E2%84%A2-google-home-and-amazon-alexa-connectivity-via-app-to-app-linking"
+      ],
+      [
+        "Hunter: Matter Compatibility Updates for HunterSMART Fans",
+        "https://www.hunterfan.com/pages/matter"
+      ],
+      [
+        "9to5Google: Hunter is killing Google Home, Alexa controls for its smart ceiling fans (Nov 9, 2026)",
+        "https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/"
+      ]
+    ],
+    "faq": [
+      [
+        "When do HunterSMART Google Home and Alexa controls stop?",
+        "The legacy cloud-to-cloud account link ends January 1, 2027. Voice commands, scenes and automations that depend on that link stop on that date. Hunter's official blog, fetched November 14, 2026, is the source."
+      ],
+      [
+        "Will my Hunter ceiling fan still work?",
+        "Yes. Hunter says core operation continues, including the included remote, other installed controls, and the HunterSMART app."
+      ],
+      [
+        "Can I keep using Google Home or Alexa after January 1?",
+        "Only if your fan is eligible for Matter and you complete the migration and set the fan up directly in the Google Home or Alexa app. Matter is not offered for every model; check Hunter's Matter compatibility page."
+      ]
+    ]
+  },
+  {
+    "service": "KYMCO",
+    "page": "terms",
+    "headline": "Noodoe app and cloud shut down worldwide on Jan 1, 2027",
+    "tldr": "From Jan 1, 2027 the KYMCO Noodoe app will not launch and the cloud shuts down worldwide. On the dash, only the speed reading keeps working as normal.",
+    "impact": 3,
+    "effective": "2027-01-01",
+    "deadline": "Shuts down",
+    "themes": [
+      "shutdowns"
+    ],
+    "url": "https://kymcousa.com/kymco-noodoe-system-discontinuation/",
+    "who": "Anyone who uses the KYMCO Noodoe app or the Noodoe-connected dash features on a KYMCO scooter, anywhere in the world",
+    "seo_title": "KYMCO Noodoe app and cloud shut down worldwide January 1, 2027",
+    "seo_desc": "KYMCO is discontinuing the Noodoe app and all associated cloud services on January 1, 2027, worldwide. The app will not launch. Navigation, messages, weather and gallery stop; only the speed reading keeps working as normal.",
+    "redline": [
+      {
+        "before": "",
+        "after": "Effective January 1, 2027, all services, functions, and technical support will be terminated worldwide.",
+        "label": "KYMCO USA · Noodoe System Discontinuation Notice (bulletin PU-2025-1219)",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "The KYMCO Noodoe Application will no longer launch. Regardless of login status, users will be unable to access the App.",
+        "label": "KYMCO USA · Scope of impact",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "Speed Display: This function will continue to operate normally (data comes directly from instrument panel).",
+        "label": "KYMCO USA · Scope of impact",
+        "note": "Clock time will still be shown but cannot be adjusted, because that calibration went through the app.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Do not count on the Noodoe app, in-dash navigation, messages, weather or the gallery after January 1, 2027; the app will not launch and the cloud is shut down worldwide",
+      "If you still use in-dash navigation, save any routes or map details you need before that date; KYMCO already shortened map-data validity from three years to two, and map updates end when the app stops launching",
+      "Plan to use a phone or other GPS for navigation, and remember that the clock on the dash will still show the time but can no longer be adjusted through the app"
+    ],
+    "what": "KYMCO is shutting down the Noodoe app and its cloud. In a notice on [kymcousa.com](https://kymcousa.com/kymco-noodoe-system-discontinuation/), marked as official product update bulletin PU-2025-1219 and dated December 19, 2025 (fetched November 14, 2026), the company says: \"Effective January 1, 2027, all services, functions, and technical support will be terminated worldwide.\"\n\n## What stops\n\nThe impact list is specific:\n\n- \"The KYMCO Noodoe Application will no longer launch. Regardless of login status, users will be unable to access the App.\"\n- \"The KYMCO Noodoe cloud services and servers will be permanently shut down.\"\n- Navigation pages will not display.\n- Message pages will not display.\n- Weather data will no longer be displayed (it was \"previously calibrated via the KYMCO App\").\n- Photos cannot be added or deleted in the gallery.\n\nA separate map-policy note says that on February 27, 2025, KYMCO shortened the validity of navigation map data from three years to two, and that starting January 1, 2027, \"the KYMCO App will no longer launch, and users will be unable to use navigation functions or update map data.\"\n\n## What keeps working\n\n\"Speed Display: This function will continue to operate normally (data comes directly from instrument panel).\" The clock will still show the time, but \"cannot be adjusted (previously calibrated via the KYMCO App).\" The scooter itself is not being discontinued; this notice is about the Noodoe application and cloud services.\n\n## What you can do\n\nIf you rely on the in-dash navigation or anything stored in the app, copy it before January 1, 2027. After that date there is no app to open and no cloud to reach. Questions, the notice says, go to your designated KYMCO USA sales representative.\n\nCoverage (checked November 14, 2026): we are citing KYMCO USA's own discontinuation page.\n\nRelated: [Apps and devices that stop working Jan 1, 2027](../../guides/apps-and-devices-that-stop-working-jan-1-2027/).",
+    "sources": [
+      [
+        "KYMCO USA: KYMCO Noodoe System Discontinuation Notice (bulletin PU-2025-1219)",
+        "https://kymcousa.com/kymco-noodoe-system-discontinuation/"
+      ]
+    ],
+    "faq": [
+      [
+        "When does KYMCO Noodoe shut down?",
+        "January 1, 2027, worldwide. That date is in KYMCO USA's discontinuation notice (bulletin PU-2025-1219), fetched November 14, 2026."
+      ],
+      [
+        "Will the scooter still show my speed?",
+        "Yes. KYMCO says the speed display will continue to operate normally because the data comes directly from the instrument panel. The clock will still show the time but cannot be adjusted."
+      ],
+      [
+        "Can I still open the Noodoe app after January 1, 2027?",
+        "No. The notice says the application will no longer launch, regardless of login status, and the cloud services and servers will be permanently shut down."
+      ]
+    ]
+  },
+  {
+    "service": "ZWILLING",
+    "page": "terms",
+    "headline": "Fresh & Save app shuts Dec 31, 2026; save your data first",
+    "tldr": "The ZWILLING app, used with Fresh & Save, shuts December 31, 2026. After that you cannot log in. Vacuum boxes still work; save box contents, expiry dates and lists first.",
+    "impact": 2,
+    "effective": "2026-12-31",
+    "deadline": "App shuts down",
+    "themes": [
+      "shutdowns"
+    ],
+    "url": "https://www.zwilling.com/us/magazine/faqs-app-exit.html",
+    "who": "Anyone who uses the ZWILLING app to track Fresh & Save boxes, expiry dates, shopping lists or other app-only features",
+    "seo_title": "ZWILLING Fresh & Save app shuts December 31, 2026: save your data first",
+    "seo_desc": "ZWILLING is discontinuing its app on December 31, 2026. From January 2027 you cannot log in. Fresh & Save products still work. Save box contents, expiry dates and shopping lists before the shutdown.",
+    "redline": [
+      {
+        "before": "",
+        "after": "we have made the strategic decision to discontinue the ZWILLING app by December 31, 2026.",
+        "label": "ZWILLING · FAQ App Discontinuation",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "From January 2027, you will no longer be able to log in or use the app, so the app will not be usable.",
+        "label": "ZWILLING FAQ · Will I still be able to log in and use the app?",
+        "note": "That is true even if the app is still installed, and even offline.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "Customers should save or copy any information they still need before December 31, 2026.",
+        "label": "ZWILLING FAQ · Will the app continue to work if I already have it installed",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Before December 31, 2026, write down or screenshot the contents of your Fresh & Save boxes, estimated expiration dates, and any shopping list you still need; there is no substitute app for managing box contents",
+      "Keep proof of purchase and product identifiers for warranty or support questions; those are unchanged, and your zwilling.com account still works for shopping",
+      "Recipes and articles in the app move off the phone: use the Inspiration area on zwilling.com if you still want them"
+    ],
+    "what": "ZWILLING is discontinuing its mobile app, which is the app Fresh & Save owners use for storage tracking and expiry reminders. In a [FAQ on zwilling.com](https://www.zwilling.com/us/magazine/faqs-app-exit.html), fetched November 14, 2026, the company says it has \"made the strategic decision to discontinue the ZWILLING app by December 31, 2026.\" \"Customers can continue using the app until December 31, 2026. From January 2027, the app will no longer be available, and app-based features and services will be deactivated.\"\n\n## You will not be able to log in\n\n\"From January 2027, you will no longer be able to log in or use the app, so the app will not be usable.\" That is true even if the app is still on your phone, and even if you try to use it offline. It also leaves the App Store and Google Play: \"From January 2027, the app will no longer be available for download or re-download from app stores.\" Scanning a QR or NFC code on a product or its packaging will no longer open the app or its features.\n\n## What to save first\n\nZWILLING's own advice is to copy anything you still need before December 31, 2026. From January 2027 you will not see saved Fresh & Save boxes in the app, and you will not get expiry notifications. \"We recommend writing down or taking a screenshot of the contents of your boxes and their estimated expiration dates before the app is discontinued.\" Shopping lists disappear too, so copy those as well. There is \"currently no substitute solution for managing the content of the boxes or fridge.\"\n\nOther app-only features that stop: shopping inside the app, product registration through the app, recipes and content articles in the app (recipes remain on zwilling.com in the Inspiration area), and push notifications.\n\n## What stays the same\n\nFresh & Save is not being discontinued. \"Your Fresh & Save products will continue to work as normal. All functions that do not rely on the app remain fully intact.\" Your customer account \"will still be available for login and shopping on zwilling.com.\" Warranties and product support are unchanged.\n\nCoverage (checked November 14, 2026): we are citing ZWILLING's official app-discontinuation FAQ.\n\nRelated: [Apps and devices that stop working Jan 1, 2027](../../guides/apps-and-devices-that-stop-working-jan-1-2027/).",
+    "sources": [
+      [
+        "ZWILLING: Frequently asked questions — App Discontinuation",
+        "https://www.zwilling.com/us/magazine/faqs-app-exit.html"
+      ]
+    ],
+    "faq": [
+      [
+        "When does the ZWILLING Fresh & Save app shut down?",
+        "You can use it through December 31, 2026. From January 2027 you cannot log in, even if the app is still installed. That is from ZWILLING's official FAQ, fetched November 14, 2026."
+      ],
+      [
+        "Will my Fresh & Save vacuum boxes still work?",
+        "Yes. ZWILLING says Fresh & Save remains in its portfolio and that all functions that do not rely on the app stay intact. Storage tracking, expiry notifications and shopping lists in the app are what go away."
+      ],
+      [
+        "What should I save before December 31?",
+        "ZWILLING recommends writing down or screenshotting the contents of your boxes and their estimated expiration dates, and copying your shopping list. There is currently no substitute app for managing box contents."
+      ]
+    ]
+  },
+  {
+    "service": "Nedap PowerRouter",
+    "page": "terms",
+    "headline": "MyPowerRouter.com and support end Dec 31, 2026",
+    "tldr": "Nedap shuts MyPowerRouter.com on December 31, 2026, along with online monitoring, energy data, remote updates and all remaining support. The device's local screen still works; save your data first.",
+    "impact": 3,
+    "effective": "2026-12-31",
+    "deadline": "Service ends",
+    "themes": [
+      "shutdowns"
+    ],
+    "url": "https://www.powerrouter.com/en/discontinuation-mypowerrouter-com/",
+    "who": "Anyone who still monitors a Nedap PowerRouter through MyPowerRouter.com, or who may need firmware updates, remote assistance or a new warranty claim after 2016 sales ended",
+    "seo_title": "Nedap MyPowerRouter.com shuts December 31, 2026: monitoring, data and support end",
+    "seo_desc": "Nedap will terminate MyPowerRouter.com on December 31, 2026. Online logins, energy data, remote software updates and remaining PowerRouter support end that day. The device's local screen still works. Save your data first.",
+    "redline": [
+      {
+        "before": "",
+        "after": "Nedap will terminate the MyPowerRouter.com environment as of 31 December 2026.",
+        "label": "Nedap · Termination of MyPowerRouter.com and PowerRouter Services as of 31 December 2026",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "From that date onward, it will no longer be possible via MyPowerRouter.com to: log in; access system or energy data online; perform remote software updates; use any other online functionalities.",
+        "label": "Nedap · 1. Termination of the Online Service",
+        "note": "The notice lists those four items as bullets; the wording here is the notice's own phrases, joined for the redline.",
+        "src": "quoted"
+      },
+      {
+        "before": "",
+        "after": "The local functionalities of the PowerRouter device itself, including the display of data via the integrated screen, will remain unchanged.",
+        "label": "Nedap · 1. Termination of the Online Service",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "Download or otherwise save any system status, energy data or account records you still need from MyPowerRouter.com before December 31, 2026; Nedap advises users to secure required data by then, and accounts will later be deactivated and personal data deleted or anonymized",
+      "If you have a warranty issue, submit the claim in writing before December 31, 2026; Nedap will not accept new warranty claims after that date",
+      "After December 31, plan to read the unit from its integrated screen only: online monitoring, remote updates, technical support and remote assistance all end"
+    ],
+    "what": "Nedap is closing the online portal for its PowerRouter energy system. On [powerrouter.com](https://www.powerrouter.com/en/discontinuation-mypowerrouter-com/), fetched November 14, 2026, the company says: \"Nedap will terminate the MyPowerRouter.com environment as of 31 December 2026.\"\n\nNedap stopped selling the PowerRouter line in 2016 and kept the portal running for existing users. That extended period is now ending.\n\n## What stops on December 31, 2026\n\nFrom that date, it will no longer be possible via MyPowerRouter.com to:\n\n- log in;\n- access system or energy data online;\n- perform remote software updates;\n- use any other online functionalities.\n\nThe same date ends remaining service and support for the product line, including technical support, remote assistance, and firmware- or software-related support and updates. \"After this date, Nedap will no longer provide any support or services relating to the PowerRouter or the MyPowerRouter environment.\"\n\nWarranty claims \"submitted in writing before 31 December 2026 will be handled in accordance with the applicable warranty terms.\" \"No new warranty claims can be submitted after 31 December 2026.\"\n\n## What stays the same\n\n\"This termination relates exclusively to the online services provided via MyPowerRouter.com. The local functionalities of the PowerRouter device itself, including the display of data via the integrated screen, will remain unchanged.\"\n\n## What happens to your data\n\n\"Following termination of the service, user accounts will be deactivated. Any personal data processed within the framework of MyPowerRouter.com will be deleted or anonymized once it is no longer necessary for the purpose for which it was collected,\" in line with GDPR and applicable retention periods. \"We advise users to secure any required data before 31 December 2026.\"\n\nCoverage (checked November 14, 2026): we are citing Nedap's official discontinuation page.\n\nRelated: [Apps and devices that stop working Jan 1, 2027](../../guides/apps-and-devices-that-stop-working-jan-1-2027/).",
+    "sources": [
+      [
+        "Nedap: Termination of MyPowerRouter.com and PowerRouter Services as of 31 December 2026",
+        "https://www.powerrouter.com/en/discontinuation-mypowerrouter-com/"
+      ]
+    ],
+    "faq": [
+      [
+        "When does MyPowerRouter.com shut down?",
+        "December 31, 2026. From that date you cannot log in, see energy data online, or run remote software updates. Nedap's official notice, fetched November 14, 2026, is the source."
+      ],
+      [
+        "Will the PowerRouter unit itself still work?",
+        "The local functions, including the integrated screen, remain unchanged. What ends is the website, remote updates, and all remaining Nedap support for the product line."
+      ],
+      [
+        "What should I do before December 31?",
+        "Save any energy data or records you still need. If you have a warranty issue, submit it in writing before that date; new claims will not be accepted afterward."
+      ]
+    ]
+  },
+  {
+    "service": "Runna",
+    "page": "pricing",
+    "headline": "UK prices rise from first renewal on or after Dec 10",
+    "tldr": "Runna's UK annual plan rises from £99.99 to £109.99, and monthly from £15.99 to £17.99, at the first renewal on or after Dec 10, 2026. The Strava + Runna bundle goes to £124.99. US prices are unchanged.",
+    "impact": 2,
+    "effective": "2026-12-10",
+    "deadline": "New prices start",
+    "themes": [
+      "price-creep"
+    ],
+    "url": "https://support.runna.com/en/articles/18298149-changes-to-our-uk-subscription",
+    "who": "UK Runna subscribers, including people on the Strava + Runna annual bundle; new UK subscribers have already been paying the new prices since November 10, 2026",
+    "seo_title": "Runna UK price increase Dec 10, 2026: annual £99.99 to £109.99, monthly £17.99",
+    "seo_desc": "Runna is raising UK prices from the first renewal on or after December 10, 2026: annual £99.99 to £109.99, monthly £15.99 to £17.99, and the Strava + Runna bundle £119.99 to £124.99. New UK sign-ups already pay the new rates. US prices are unchanged.",
+    "redline": [
+      {
+        "before": "£15.99",
+        "after": "£17.99",
+        "label": "Runna Support · Changes to our UK subscription · monthly price",
+        "note": "The support page writes this as \"Monthly subscription price: £15.99 > £17.99\".",
+        "src": "quoted"
+      },
+      {
+        "before": "£99.99",
+        "after": "£109.99",
+        "label": "Runna Support · Changes to our UK subscription · annual price",
+        "note": "The support page writes this as \"Annual subscription price: £99.99 > £109.99\".",
+        "src": "quoted"
+      },
+      {
+        "before": "£119.99",
+        "after": "£124.99",
+        "label": "Runna Support · Changes to our UK subscription · Strava + Runna annual bundle",
+        "note": "A footnote says this increase reflects Runna's new price; the Strava price within the combined subscription stays the same.",
+        "src": "quoted"
+      }
+    ],
+    "actions": [
+      "If you are a UK subscriber, check your next renewal date: the new price applies at the first renewal on or after December 10, 2026, and what you have already paid stays at the old rate until then",
+      "If you were thinking of switching from monthly to annual to dodge the rise, don't count on it: new UK subscribers, and anyone who changes plan, have already been paying the new prices since November 10, 2026",
+      "US subscribers can treat this as a UK-only change for now: Runna's notice is titled \"Changes to our UK subscription,\" and its pricing pages still list $19.99 a month and $119.99 a year"
+    ],
+    "what": "Runna, the running-coaching app owned by Strava, is raising its UK prices. The company's own support page, [Changes to our UK subscription](https://support.runna.com/en/articles/18298149-changes-to-our-uk-subscription), fetched November 14, 2026, lists the new rates and when they apply.\n\n## The new UK prices\n\nThe support page says:\n\n- \"Monthly subscription price: £15.99 > £17.99\"\n- \"Annual subscription price: £99.99 > £109.99\"\n- \"Strava + Runna annual subscription price: £119.99 > £124.99*\"\n\nThe footnote on the bundle is: \"This increase reflects Runna’s new price. The Strava price within the combined subscription remains the same.\" The annual plan is still the cheaper way to pay: twelve months at £17.99 comes to £215.88, against £109.99 paid upfront.\n\nRunna's [UK pricing page](https://www.runna.com/en-gb/pricing), also fetched November 14, 2026, already shows the new UK rates of £17.99 a month and £109.99 a year, which matches the support page's rule for new subscribers.\n\n## When you pay the new price\n\n\"For existing Runna subscribers: the new prices apply from your first renewal on or after 10 December, 2026. We’ll email you on 10 November to let you know.\" \"For new Runna subscribers: the new prices apply from 10 November, 2026.\" What you have already paid stays at the old price until that renewal. The support page does not say you can avoid the rise by switching plan; new sign-ups and plan changes have already been on the new rates since November 10.\n\n## US and other countries\n\nThe notice is titled \"Changes to our UK subscription\" and talks only about \"users in the UK.\" Runna has not published a matching notice for other countries. The same pricing pages still list $19.99 a month and $119.99 a year among their currency prices (the default US dollar pair on [runna.com/pricing](https://www.runna.com/pricing) and the UK page, fetched November 14, 2026). We found no official US price change.\n\nCoverage (checked November 14, 2026): [the5krunner](https://the5krunner.com/2026/11/10/quick-read-runna-price-rise/) reported the rise on November 10, including the bundle figure, which Runna's support page now confirms.",
+    "sources": [
+      [
+        "Runna Support: Changes to our UK subscription",
+        "https://support.runna.com/en/articles/18298149-changes-to-our-uk-subscription"
+      ],
+      [
+        "Runna UK pricing page",
+        "https://www.runna.com/en-gb/pricing"
+      ],
+      [
+        "Runna pricing page",
+        "https://www.runna.com/pricing"
+      ],
+      [
+        "the5krunner: QUICK READ: Runna UK prices rise 10% from 10 December (Nov 10, 2026)",
+        "https://the5krunner.com/2026/11/10/quick-read-runna-price-rise/"
+      ]
+    ],
+    "faq": [
+      [
+        "When do Runna's UK prices go up?",
+        "For existing subscribers, at the first renewal on or after December 10, 2026. New UK subscribers have already been paying the new prices since November 10, 2026. That is from Runna's official support page, fetched November 14, 2026."
+      ],
+      [
+        "How much does Runna cost in the UK now?",
+        "£17.99 a month or £109.99 a year for new subscribers and anyone changing plan, up from £15.99 and £99.99. The Strava + Runna annual bundle goes from £119.99 to £124.99."
+      ],
+      [
+        "Is Runna going up in the US too?",
+        "Not that Runna has announced. The official notice is UK-only, and its pricing pages still list $19.99 a month and $119.99 a year."
+      ]
+    ]
   }
 ]

@@ -82,7 +82,7 @@ def main():
 
     # ---------- evergreen guides (guides/<slug>.json): loaded first so articles and service pages can link them ----------
     # Keys: title, desc, dek, published, modified (YYYY-MM-DD), services [names], changes [article slugs],
-    #       body [{"h": ..} | {"p": ..} | {"ol": [..]} | {"ul": [..]} | {"quote": .., "cite": name, "url": ..}], sources [[name, url]].
+    #       body [{"h": ..} | {"p": ..} | {"ol": [..]} | {"ul": [..]} | {"table": {"headers": [..], "rows": [[..], ..]}} | {"quote": .., "cite": name, "url": ..}], sources [[name, url]].
     # Text allows [label](url) and **bold**. Build fails if a listed change or service doesn't exist.
     ART = {c["_art"]: (d, c) for d, c in ALL}
     GUIDES = {}
@@ -584,6 +584,11 @@ def main():
         if "p" in b: return f'<p>{inline(b["p"])}</p>'
         if "ol" in b or "ul" in b:
             tg = "ol" if "ol" in b else "ul"; return f'<{tg}>' + "".join(f"<li>{inline(x)}</li>" for x in b[tg]) + f"</{tg}>"
+        if "table" in b:
+            tb = b["table"]; heads = tb["headers"]; rows = tb["rows"]
+            thead = "<tr>" + "".join(f'<th scope="col">{inline(h)}</th>' for h in heads) + "</tr>"
+            tbody = "".join("<tr>" + "".join(f"<td>{inline(c)}</td>" for c in row) + "</tr>" for row in rows)
+            return f'<div class="tablewrap"><table><thead>{thead}</thead><tbody>{tbody}</tbody></table></div>'
         if "quote" in b: return f'<blockquote><p>{E(b["quote"])}</p><footer>— <a href="{E(b["url"])}">{E(b["cite"])}</a></footer></blockquote>'
         raise ValueError(f"unknown guide block {b}")
     for gs_, g in GUIDES.items():

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hunter · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-14-hunter-huntersmart-google-home-and-alexa-cloud-link-ends-ja
+ n-1-2027@quietlychanged.com
+DTSTAMP:20261114T221421Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Hunter: Cloud link ends
+DESCRIPTION:From Jan 1\, 2027\, HunterSMART's legacy cloud link to Google 
+ Home and Alexa stops. The app and remote still work\; Matter is only for 
+ eligible models.\n\nhttps://quietlychanged.com/changes/2026-11-14-hunter-
+ huntersmart-google-home-and-alexa-cloud-link-ends-jan-1-2027/
+URL:https://quietlychanged.com/changes/2026-11-14-hunter-huntersmart-googl
+ e-home-and-alexa-cloud-link-ends-jan-1-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Hunter — Cloud link ends
+END:VALARM
+END:VEVENT
+END:VCALENDAR

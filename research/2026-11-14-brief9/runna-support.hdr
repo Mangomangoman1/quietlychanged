@@ -1,0 +1,25 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 112049
+date: Sat, 14 Nov 2026 22:11:32 GMT
+x-ami-version: ami-058db8fd246c323c5
+vary: Accept-Encoding
+vary: Sec-Fetch-Site
+x-request-queueing: 0
+etag: W/"416cf8e4d9f09f92236399b641f5b8d6"
+cache-control: max-age=0, private, must-revalidate
+set-cookie: recent_write=e232f723-4328-4b89-8475-ef25b5443490; path=/; max-age=1; httponly
+x-request-id: 000p7105knangs3hles0
+x-runtime: 0.174863
+x-intercom-version: a00230e688fd8cacf7b5a98534086f192fc838f7
+x-frame-options: DENY
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: default-src 'self'; base-uri 'self'; connect-src https://consent.cookiebot.com https://consentcdn.cookiebot.com 'self' wss://*.intercom.io https://*.intercom.io https://*.intercom.com https://*.fin.ai https://*.intercom-messenger.com wss://*.intercom-messenger.com https://*.intercom-chat.com wss://*.intercom-chat.com https://uploads.intercomcdn.com https://uploads.intercomcdn.eu https://uploads.au.intercomcdn.com https://uploads.intercomusercontent.com https://*.google-analytics.com https://*.analytics.google.com https://analytics.google.com https://stats.g.doubleclick.net https://cdn.cookielaw.org https://*.onetrust.com; font-src data: https:; frame-ancestors 'self' https://intercomrades.support https://intercom.skilljar.com https://academy.fin.ai https://academy.intercom.com https://academy.guests.intercom.com https://app.intercom.com https://app.eu.intercom.com https://app.au.intercom.com https://intercomrades.intercom.com https://intercomrades.eu.intercom.com https://intercomrades.au.intercom.com https://fin.ai https://app.fin.ai https://app.eu.fin.ai https://app.au.fin.ai; frame-src https://consent.cookiebot.com https://consentcdn.cookiebot.com 'self' https://platform.twitter.com https://staticxx.facebook.com https://fast.wistia.net https://fast.wistia.com https://www.useloom.com https://www.loom.com https://play.vidyard.com https://player.vimeo.com https://web.microsoftstream.com https://share.synthesia.io https://embed.app.guidde.com https://embed.eu.guidde.com https://share.descript.com https://app.guideflow.com https://app.supademo.com https://supercut.ai https://demo.arcade.software https://arcade.software https://www.arcade.software https://watchclueso.com https://www.tella.tv https://www.tella.com https://help.trainn.co https://*.portal.trainn.co https://app.storylane.io https://js.storylane.io https://app.storylane.com https://js.storylane.com https://capture.navattic.com https://share.zight.com https://guideless.ai https://scribehow.com https://scribe.com https://zoom.us https://*.zoom.us https://player.mux.com https://www.facebook.com https://www.youtube.com https://www.youtube-nocookie.com https://content.jwplatform.com https://cdn.jwplayer.com https://players.brightcove.net https://intercom-sheets.com https://www.intercom-reporting.com https://*.sharepoint.com https://www.googletagmanager.com; img-src data: blob: https: http:; manifest-src 'self'; media-src data: blob: https:; object-src 'self' https://static.intercomassets.com; script-src https://consent.cookiebot.com https://consentcdn.cookiebot.com sha256-BQ5wBwjhvuu9VvJ39Pll9pICiaIRG1/zsFkx/ZfD23w= 'self' https://connect.facebook.net https://platform.twitter.com https://static.intercomassets.com https://googleadservices.com https://googletagmanager.com https://google-analytics.com https://widget.intercom.io https://js.intercomcdn.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://intercom.help https://intercom-help.eu https://au.intercom.help https://cdn.cookielaw.org 'nonce-sZEWlIe69hNScXK0wsUL8r8EI-8ndolhmxvFVXwblPc'; style-src 'self' 'unsafe-inline' https://fonts.intercomcdn.com https://static.intercomassets.com https://static.intercomcdn.com https://marketing.intercomassets.com https://marketing.intercomcdn.com https://intercom.help https://intercom-help.eu https://au.intercom.help https://static.intercomassets.eu https://static.au.intercomassets.com
+server: nginx
+x-cache: Miss from cloudfront
+via: 1.1 9c8544e991dd5d4ceb7b80db32a66436.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD61-P15
+x-amz-cf-id: SD_oyTzQR9AmLD0THu18TuD9tcBFl2gGvgluB9W7Z1eYeUsMSiokQQ==
+

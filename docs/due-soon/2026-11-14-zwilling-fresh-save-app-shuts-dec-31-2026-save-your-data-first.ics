@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ZWILLING · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-14-zwilling-fresh-save-app-shuts-dec-31-2026-save-your-data-fi
+ rst@quietlychanged.com
+DTSTAMP:20261114T221421Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:ZWILLING: App shuts down
+DESCRIPTION:The ZWILLING app\, used with Fresh & Save\, shuts December 31\
+ , 2026. After that you cannot log in. Vacuum boxes still work\; save box 
+ contents\, expiry dates and lists first.\n\nhttps://quietlychanged.com/ch
+ anges/2026-11-14-zwilling-fresh-save-app-shuts-dec-31-2026-save-your-data
+ -first/
+URL:https://quietlychanged.com/changes/2026-11-14-zwilling-fresh-save-app-
+ shuts-dec-31-2026-save-your-data-first/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: ZWILLING — App shuts down
+END:VALARM
+END:VEVENT
+END:VCALENDAR

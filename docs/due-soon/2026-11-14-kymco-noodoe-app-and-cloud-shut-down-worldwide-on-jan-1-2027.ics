@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KYMCO · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-14-kymco-noodoe-app-and-cloud-shut-down-worldwide-on-jan-1-202
+ 7@quietlychanged.com
+DTSTAMP:20261114T221421Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:KYMCO: Shuts down
+DESCRIPTION:From Jan 1\, 2027 the KYMCO Noodoe app will not launch and the
+  cloud shuts down worldwide. On the dash\, only the speed reading keeps w
+ orking as normal.\n\nhttps://quietlychanged.com/changes/2026-11-14-kymco-
+ noodoe-app-and-cloud-shut-down-worldwide-on-jan-1-2027/
+URL:https://quietlychanged.com/changes/2026-11-14-kymco-noodoe-app-and-clo
+ ud-shut-down-worldwide-on-jan-1-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: KYMCO — Shuts down
+END:VALARM
+END:VEVENT
+END:VCALENDAR
