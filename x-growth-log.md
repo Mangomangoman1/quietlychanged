@@ -1971,3 +1971,114 @@ Reach per tier: 20-50K at post (grew to 74K), >45 min, with image: MS365 SLA 250
 - R2 MS365 SLA reply under Dexerto (20.7K, ~1 h old), ~9:40 AM MT: https://x.com/QuietlyChanged/status/2121280812070936876
 - R3 Game Pass price-history reply under Pirat_Nation (20.1K, ~59 min old), ~10:02 AM MT: https://x.com/QuietlyChanged/status/2121287610098503968
 - Skipped r1 (Costco reply under jaxoncoder): parent ~5.5 h old, outside 90-min reply window.
+
+## Session 2026-11-13 ~5:15 PM MT (Friday PM)
+Account (public X read 5:12 PM MT): **24 followers** (flat), 14 following, 250 posts, 125 media. pinned_tweet_id still 2119832006922215798 (Monday re-pin).
+
+| When (MT) | Post | Type | Mins after parent | Parent imp (now) | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|---|
+| Nov 13 10:02 AM | Game Pass price-history reply under Pirat_Nation 2121287610098503968 | reply | ~59 | 50.8K | 220 | 1 | 0 | 0 | 0 |
+| Nov 13 9:35 AM | MS365 SLA reply under Dexerto 2121280812070936876 | reply | ~65 | 64.2K | **326** | 2 | 0 | 0 | 0 |
+| Nov 13 9:20 AM | Costco quote of jaxoncoder 2121277053274391017 | parent-quote | ~5.5 h | 2.11M | **198** | 0 | 0 | 0 | 0 |
+| Nov 13 6:21 AM | Pinterest original | original | – | – | 13 | 0 | 0 | 1 | 0 |
+| Nov 12 5:26 PM | MS365 SLA reply under Pirat_Nation | reply | ~60 | 77.0K | 252 | 0 | 0 | 0 | 0 |
+
+Reach per tier: 20-50K at post, >45 min, with image: Dexerto 326 and Pirat_Nation Game Pass 220 (both parents grew to 50-65K). Parent-quote: Costco 198 on a 2.1M parent, far above the ~1-3%-of-reply rule of thumb from Nov 1; quotes of 1M+ parents are worth doing even hours late.
+
+### What we learned
+1. Morning trio all landed 200-330: "you may be owed money / here's the real number" replies under 20K-at-post parents that kept climbing are now the reliable format (4 in a row 220-366).
+2. Quote of a 2M parent with a policy receipt = 198 even at 5.5 h: keep 1 quote per session on 1M+ parents.
+3. Originals at 6:20 AM still dead (Pinterest 13). Move originals to ~9-10 AM.
+
+### Topic log
+- FAA nationwide ground stop (3:54 PM ET Nov 13, telecom outage at ARTCCs; ~7,000 delays/cancellations). Consumer angle verified on eCFR: 14 CFR 260.6 full refund of fare + taxes + ancillary fees for cancelled or significantly delayed flights if consumer declines rebooking/voucher; 260.2 significant delay = 3+ h domestic / 6+ h international; prompt = 7 business days (card) / 20 calendar days (other). No cause exception in the rule. Did NOT claim meals/hotels (not required for non-controllable causes).
+- Microsoft "deeply sorry" for outage (Kalshi 13.8K at ~11 min).
+- TikTok Shop testing $9.99/mo Prime-style sub (Dexerto 21K); Instagram AI age detection worldwide (Dexerto); jaxoncoder Marriott resort-fee bait thread (8.9K).
+
+### Drafted (social/2026-11-13/pm/)
+- R1 FoxNews ground stop https://x.com/FoxNews/status/2121377615042826573 (221K / 87 replies / ~75 min): r1.txt + r1-refund-rule-card.png. Post by 5:30 PM MT.
+- R2 MarioNawfal stranded travelers https://x.com/MarioNawfal/status/2121378046666031257 (49.8K / 22 replies / ~73 min): r2.txt + same card. Post by ~5:32 PM MT.
+- Q1 quote of PopBase https://x.com/PopBase/status/2121355447852843038 (3.02M / 640 replies / ~2.7 h): q1.txt + card.
+- R3 Kalshi Microsoft "deeply sorry" https://x.com/Kalshi/status/2121392919676354593 (13.8K / 32 replies / ~11 min): r3.txt + ../am/r2-01-microsoft-logo.png, ../am/r2-02-sla-card.png. Only if past ~20K.
+- No original: Nov 13 slot used (Pinterest).
+
+## Session 2026-11-14 ~9:35 AM MT (Saturday AM)
+Account (public X read ~9:35 AM MT): **24 followers** (flat), 14 following, 250 posts, 125 media. Nov 13 PM drafts (FoxNews/MarioNawfal ground stop, PopBase quote, Kalshi MS) were NOT posted (no new posts since Nov 13 10:02 AM).
+
+| When (MT) | Post | Type | Mins after parent | Impressions | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|
+| Nov 13 10:02 AM | Game Pass price-history reply under Pirat_Nation | reply | ~59 | 276 | 1 | 0 | 0 | 0 |
+| Nov 13 9:35 AM | MS365 SLA reply under Dexerto | reply | ~65 | **365** | 2 | 0 | 0 | 0 |
+| Nov 13 9:20 AM | Costco quote of jaxoncoder | parent-quote | ~5.5 h | 214 | 0 | 0 | 0 | 0 |
+| Nov 13 6:21 AM | Pinterest original (+ self-reply 12) | original | – | 15 | 0 | 0 | 1 | 0 |
+
+Reach per tier (matured ~24 h): 20-50K at post, >45 min, with image: 365 and 276. Parent-quote (2.1M parent, 5.5 h late): 214.
+
+### What we learned
+1. Day-old replies keep growing ~10-25% after the evening check; 20K-at-post tier with images is reliably 250-370.
+2. Saturday morning is thin: no in-lane price/fee/terms post past 20K and fresh. Meta EUR805M Italy fine (Kalshi 39K) was already ~4 h old. Best options are a "before you buy/set up" fact on a fast Wario64 deal post and a cost-math line on a GTA VI revenue post.
+3. Unposted PM drafts = lost reply slots; flag to parent that evening drafts need posting within their window.
+
+### Topic log
+- VIZIO (Walmart-owned): new VIZIO TVs require a Walmart account for apps/smart features; HDMI + antenna work without (vizio.com/en/overview-account FAQ). Viewing Data (ACR) off: All Settings > Privacy & Legal > Viewing Data; older: Admin & Privacy > Viewing Data (vizio.com "Combine VIZIO OS Data with your Walmart Account Data"). Turning it off deletes historical Viewing Data logs (Viewing Data Supplement).
+- GTA VI: 12.1M pre-orders / $1.18B per Sensor Tower (charlieINTEL) = ~$97.52 avg; US PS Store Standard $79.99, Ultimate $99.99 (store.playstation.com listings).
+- Meta fined EUR805M by Italy's privacy authority over Facebook accessing Android photos/videos (Kalshi 39K at 4 h, many copies, all small).
+- Original today: Verizon Dollars section 7.4 (from daily report), posted ~9:45-10 AM to test the new slot; link moved to self-reply per algo change (no link in parent, no @mentions, no share asks).
+
+### Drafted (social/2026-11-14/am/)
+- O1 Verizon original: o1.txt (275 chars); images o1-01-verizon-logo.png, o1-02-verizon-terms-card.png; self-reply o1-selfreply.txt.
+- R1 Wario64 VIZIO $198 TV https://x.com/Wario64/status/2121640905157365777 (31.7K / 7 replies / ~11 min at draft, climbing): r1.txt (261); images r1-01-vizio-logo.png, r1-02-vizio-card.png. Best target; land by ~10:30 AM MT.
+- R2 charlieINTEL GTA VI 12.1M pre-orders / $1.18B https://x.com/charlieINTEL/status/2121625739560903016 (157K / 70 replies / ~71 min at draft): r2.txt (243); images r2-01-rockstar-logo.png, r2-02-gta-math-card.png. Post only by ~10:20 AM MT (90-min image window).
+- No parent-quote: no in-lane 500K+ parent (PopBase GTA album 811K, Kalshi Google Maps 543K are off-lane).
+
+
+## Session 2026-11-14 ~5:35 PM MT (Saturday PM)
+Account (public X read ~5:33 PM MT): **24 followers** (flat), 14 following, 250 posts. Still NO posts since Nov 13 10:02 AM: the AM drafts (Verizon original, VIZIO/Wario64, GTA/charlieINTEL) never went out. Publishing remains blocked (box browser not signed in to @QuietlyChanged; Samuel told 6:23 AM, no answer yet).
+
+| When (MT) | Post | Type | Mins after parent | Impressions (~31-56 h) | Likes | BM |
+|---|---|---|---|---|---|---|
+| Nov 13 10:02 AM | Game Pass reply under Pirat_Nation | reply | ~59 | 285 | 1 | 0 |
+| Nov 13 9:35 AM | MS365 SLA reply under Dexerto | reply | ~65 | 367 | 2 | 0 |
+| Nov 13 9:20 AM | Costco quote of jaxoncoder | parent-quote | ~5.5 h | 214 | 0 | 0 |
+| Nov 13 6:21 AM | Pinterest original | original | – | 15 | 0 | 0 |
+
+Growth after the AM check is now tiny (+2 to +9): replies are essentially done by ~24 h.
+
+### What we learned
+1. Two straight days with zero posts = zero growth; the bottleneck is publishing access, not targets.
+2. Saturday evening scan (last 4 h, priority accounts + price/fee/terms queries) found no in-lane price/fee/terms parent past 20K and fresh. Biggest: Kalshi pilotless planes 472K/409 replies (crowded, nothing sourced), charlieINTEL EA Madden "Don't Delete!" 368K/174 replies/101 min (too late). Trending news on price hikes (Starlink demand pricing, Samsung Galaxy AI Premium) are 5 days old.
+
+### Drafted (social/2026-11-14/pm/)
+- R1 charlieINTEL GTA VI NPCs https://x.com/charlieINTEL/status/2121759019748544763 (49.5K / 14 replies / ~17 min at draft): r1.txt (257 chars), reusing AM images ../am/r2-01-rockstar-logo.png, ../am/r2-02-gta-math-card.png. Adjacent-lane cost math; post only by ~6:45 PM MT (90-min image window).
+- No parent-quote (no in-lane 500K+ parent). No original: today's slot is held by the unposted Verizon original (../am/o1*), move it to Sunday ~9:45 AM if publishing is restored.
+
+## Session 2026-11-15 ~5:30 PM MT (Sunday PM)
+Account (public X read ~5:29 PM MT): **24 followers** (flat), 14 following, **251 posts** (+1), 125 media, likes given 52. pinned_tweet_id still 2119832006922215798. One new post since Nov 13 10:02 AM: an off-lane text reply to @Fort about its logo/branding (Nov 14 ~8:36 PM MT, https://x.com/QuietlyChanged/status/2121809373039386873, 10 imp), not from our drafts, so someone posted from the account by hand. None of the Nov 13 PM / Nov 14 AM / Nov 14 PM drafts went out. No Nov 15 AM session was logged.
+
+| When (MT) | Post | Type | Mins after parent | Impressions (~2-3 days) | Likes | RT | Replies | BM |
+|---|---|---|---|---|---|---|---|---|
+| Nov 14 8:36 PM | Fort branding reply 2121809373039386873 (manual, off-lane) | reply | ~24 days | 10 | 0 | 0 | 0 | 0 |
+| Nov 13 10:02 AM | Game Pass reply under Pirat_Nation | reply | ~59 | 288 | 1 | 0 | 0 | 0 |
+| Nov 13 9:35 AM | MS365 SLA reply under Dexerto | reply | ~65 | 367 | 2 | 0 | 0 | 0 |
+| Nov 13 9:20 AM | Costco quote of jaxoncoder | parent-quote | ~5.5 h | 215 | 0 | 0 | 0 | 0 |
+| Nov 13 6:21 AM | Pinterest original (+ self-reply 13) | original | – | 18 | 0 | 0 | 1 | 0 |
+| Nov 12 5:26 PM | MS365 SLA reply under Pirat_Nation | reply | ~60 | 257 | 0 | 0 | 0 | 0 |
+
+Replies are done growing (+0 to +3 since Saturday). Parent-quotes (tracked apart from replies): only Costco, 215. 
+
+### What we learned
+1. Three days with no posts from our drafts. Publishing access is still the only blocker, and someone can clearly post by hand (the Fort reply), so the drafts need to go out in their windows.
+2. Sunday evening is thin in our lane again. The one strong cost-of-living parent is unusual_whales' BLS spending post (77K at ~34 min). Our priority accounts posted only gaming deals, GTA and Nvidia items.
+3. Hinge Chat Insights has zero X coverage (search Nov 13 to now: nothing about OpenAI or Chat Insights above about 1.7K imp). We'd be first, and press pitches went out today, so it beats the narrower Verizon Dollars original for today's slot.
+
+### Topic log
+- BLS Consumer Expenditures 2025 (USDL-26-1619, Oct 29, 2026; bls.gov/news.release/cesan.nr0.htm): spending $81,905 (+4.3%); income $110,847 (+6.4%); CPI-U +2.6%. Housing $27,790 (+5.8%), shelter +8.0%, rented dwellings $5,660 to $6,272 (+10.8%). Food $10,633 (+4.6%), meats/poultry/fish/eggs $1,414 to $1,579 (+11.7%). Health insurance +6.3%; gasoline -5.4%. The $1,988 checks (1,524 + 464); 46.9% checks ((27,790+10,633)/81,905). "Highest share in 15 years" is Fortune's claim, not checked.
+- AAA (gasprices.aaa.com, Nov 15): regular $3.824 (week ago $4.020, year ago $3.076); diesel $6.020 (year ago $3.770, +60%); record diesel $6.528 on 9/22/26.
+- Hinge help pages re-fetched live 5:3x PM: Chat Insights "We use OpenAI to look for patterns" (updated Nov 13 15:19Z); How Does Hinge Use My Messages: training "the specific models behind these features", "some use cases may require Hinge to process raw messages"; Convo Starters page still says it doesn't process "private messages" and OpenAI "cannot use the data to train its models". Article URL returns 200.
+- Off-lane / too late: Dexerto "Wallet, Please Wait" app (30.9K, ~95 min); Pirat_Nation CivIdle Steam malware (17.7K, 108 min); IGN GTA 6 60fps; Polymarket Amazon satellites lost; jaxoncoder DoorDash markup thread (1.25K at 55 min, watch because his Costco thread hit 2M late).
+
+### Drafted (social/2026-11-15/pm/)
+- R1 (best) unusual_whales BLS spending https://x.com/unusual_whales/status/2122117695370084736 (77.3K / 56 replies / ~34 min at draft, posted 5:01 PM MT): r1.txt (241); images r1-01-bls-logo.png, r1-02-bls-card.png. Post by 6:31 PM MT with images (5:46 PM text-only).
+- O1 Hinge Chat Insights original: o1.txt (279) + o1-selfreply.txt (link); images ../../2026-11-14/deepdive/01-04. Today's slot (nothing of ours posted today); post ~6:45-7:30 PM MT tonight, or Mon ~9:45 AM. The Verizon original (2026-11-14/am/o1*) stays on hold.
+- R2 MarioNawfal diesel https://x.com/MarioNawfal/status/2122119960197583076 (15.8K / 14 replies / ~25 min at draft, posted 5:10 PM MT, slow): r2.txt (200), text-only. Post only if it passes ~20K by 5:55 PM MT.
+- No parent-quote: no in-lane parent at 500K+.
