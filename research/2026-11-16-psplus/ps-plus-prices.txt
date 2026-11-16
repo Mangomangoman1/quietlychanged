@@ -1,0 +1,13 @@
+Extracted from embedded JSON in ps-plus.html (playstation.com PS Plus page) fetched 2026-11-16
+Essential 1-month: $10.99 (USD)
+Essential 3-month: $27.99 (USD)
+Essential 12-month: $79.99 (USD)
+Extra 1-month: $16.99 (USD)
+Extra 3-month: $43.99 (USD)
+Extra 12-month: $134.99 (USD)
+Premium/Deluxe 1-month: $19.99 (USD)
+Premium/Deluxe 3-month: $54.99 (USD)
+Premium/Deluxe 12-month: $159.99 (USD)
+Plan names: PlayStation Plus Extra; PlayStation Plus Essential; PlayStation Plus Premium
+Offers: Save 20% | Offer ends 11/30/2026 ; Save 25% | Offer ends 11/30/2026 ; Save 33% | Offer ends 11/30/2026
+Discounted: $134.99 -> $101.24 ; $159.99 -> $107.19 ; $79.99 -> $63.99

@@ -1,0 +1,13 @@
+Extracted from embedded JSON in ps-plus-au.html (playstation.com PS Plus page) fetched 2026-11-16
+Essential 1-month: $14.95 (AUD)
+Essential 3-month: $43.95 (AUD)
+Essential 12-month: $112.95 (AUD)
+Extra 1-month: $24.95 (AUD)
+Extra 3-month: $68.95 (AUD)
+Extra 12-month: $196.95 (AUD)
+Premium/Deluxe 1-month: $26.95 (AUD)
+Premium/Deluxe 3-month: $79.95 (AUD)
+Premium/Deluxe 12-month: $225.95 (AUD)
+Plan names: PlayStation Plus Deluxe; PlayStation Plus Essential; PlayStation Plus Extra
+Offers: Save 20% | Offer ends 30/11/2026 ; Save 25% | Offer ends 30/11/2026 ; Save 33% | Offer ends 30/11/2026
+Discounted: $112.95 -> $90.36 ; $196.95 -> $147.71 ; $225.95 -> $151.38
