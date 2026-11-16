@@ -2068,7 +2068,7 @@ Replies are done growing (+0 to +3 since Saturday). Parent-quotes (tracked apart
 
 ### What we learned
 1. Three days with no posts from our drafts. Publishing access is still the only blocker, and someone can clearly post by hand (the Fort reply), so the drafts need to go out in their windows.
-2. Sunday evening is thin in our lane again. The one strong cost-of-living parent is unusual_whales' BLS spending post (77K at ~34 min). Our priority accounts posted only gaming deals, GTA and Nvidia items.
+2. Sunday evening is thin in our lane again. The one strong cost-of-living parent is unusual_whales' BLS spending post (77K at ~31 min). Our priority accounts posted only gaming deals, GTA and Nvidia items.
 3. Hinge Chat Insights has zero X coverage (search Nov 13 to now: nothing about OpenAI or Chat Insights above about 1.7K imp). We'd be first, and press pitches went out today, so it beats the narrower Verizon Dollars original for today's slot.
 
 ### Topic log
@@ -2078,7 +2078,7 @@ Replies are done growing (+0 to +3 since Saturday). Parent-quotes (tracked apart
 - Off-lane / too late: Dexerto "Wallet, Please Wait" app (30.9K, ~95 min); Pirat_Nation CivIdle Steam malware (17.7K, 108 min); IGN GTA 6 60fps; Polymarket Amazon satellites lost; jaxoncoder DoorDash markup thread (1.25K at 55 min, watch because his Costco thread hit 2M late).
 
 ### Drafted (social/2026-11-15/pm/)
-- R1 (best) unusual_whales BLS spending https://x.com/unusual_whales/status/2122117695370084736 (77.3K / 56 replies / ~34 min at draft, posted 5:01 PM MT): r1.txt (241); images r1-01-bls-logo.png, r1-02-bls-card.png. Post by 6:31 PM MT with images (5:46 PM text-only).
+- R1 (best) unusual_whales BLS spending https://x.com/unusual_whales/status/2122117695370084736 (77.3K / 56 replies / ~31 min at draft, posted 5:01 PM MT): r1.txt (241); images r1-01-bls-logo.png, r1-02-bls-card.png. Post by 6:31 PM MT with images (5:46 PM text-only).
 - O1 Hinge Chat Insights original: o1.txt (279) + o1-selfreply.txt (link); images ../../2026-11-14/deepdive/01-04. Today's slot (nothing of ours posted today); post ~6:45-7:30 PM MT tonight, or Mon ~9:45 AM. The Verizon original (2026-11-14/am/o1*) stays on hold.
-- R2 MarioNawfal diesel https://x.com/MarioNawfal/status/2122119960197583076 (15.8K / 14 replies / ~25 min at draft, posted 5:10 PM MT, slow): r2.txt (200), text-only. Post only if it passes ~20K by 5:55 PM MT.
+- R2 MarioNawfal diesel https://x.com/MarioNawfal/status/2122119960197583076 (15.8K / 14 replies / ~22 min at draft, posted 5:10 PM MT, slow): r2.txt (200), text-only. Post only if it passes ~20K by 5:55 PM MT.
 - No parent-quote: no in-lane parent at 500K+.
