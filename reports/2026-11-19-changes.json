@@ -1,0 +1,300 @@
+[
+ {
+  "service": "Canva",
+  "page": "terms",
+  "headline": "Canva now bills Teams for a new seat the moment it's invited, even before anyone accepts",
+  "tldr": "Canva's Nov 16 terms charge Teams for an added seat right away, prorated, and count a seat as soon as an invite goes out, accepted or not.",
+  "impact": 2,
+  "effective": "2026-11-16",
+  "deadline": "Took effect",
+  "themes": [
+   "price-creep"
+  ],
+  "url": "https://www.canva.com/policies/terms-of-use/",
+  "who": "Canva customers on plans with a Team (multi-seat plans), especially Team Owners and Administrators who invite people",
+  "seo_title": "Canva Terms Nov 16, 2026: Teams seats now charged when invited, Pay as You Grow dropped",
+  "seo_desc": "Canva's Terms of Use effective Nov 16, 2026 end 'Pay as You Grow' seat billing. A Team seat is charged immediately (prorated) when it's added, and an invite counts as a seat whether or not it's accepted.",
+  "redline": [
+   {
+    "before": "When you add seats to a Team, you will be billed for them on your next Billing Date (as defined below) unless they are removed from your Team by the Team Owner or an Administrator prior to the Billing Date.",
+    "after": "When a seat is added part-way through a billing period, we’ll charge you for it at the time it’s added.",
+    "label": "Terms of Use · 7b Pricing for Additional Seats",
+    "note": "No more grace period to remove a seat before the bill: you pay as soon as it's added.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "A seat is added when a Team Owner invites a person to your Team or adds a seat, whether or not the invitation has been accepted.",
+    "label": "Terms of Use · 7b Pricing for Additional Seats",
+    "note": "An invite nobody accepts can still cost you.",
+    "src": "raw"
+   },
+   {
+    "before": "Three (3) days prior to the Billing Date, Canva will notify via email the billing contact associated with your Canva Team account of the number of additional seats and the associated subscription fees.",
+    "after": "",
+    "label": "Terms of Use · 7b Pricing for Additional Seats",
+    "note": "The 3-day email warning before seat charges is gone.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "Before inviting someone to your Canva Team, decide you want to pay for the seat: the charge happens when the invite is sent",
+   "Check pending invites in your Team settings and revoke any you no longer need",
+   "Look at your billing history after adding people; the charge now appears right away, not at your next Billing Date"
+  ],
+  "what": "Canva updated its Terms of Use, now \"effective as of 16 November 2026\" (the previous version was dated 30 October 2026). The change is in section 7b, Pricing for Additional Seats on your Team.\n\nChange 1: seats are charged when they're added. The old terms used Canva's \"Pay as You Grow\" model: seats you added were billed on your next Billing Date (your monthly renewal, or every 3 months on an annual plan) \"unless they are removed from your Team by the Team Owner or an Administrator prior to the Billing Date.\" The new terms say: \"When a seat is added part-way through a billing period, we’ll charge you for it at the time it’s added. The charge is prorated so you only pay for the remainder of your current billing period.\" The Pay as You Grow paragraph, which said the model let you \"reconcile costs for anyone who has joined your Team but will no longer need access to the Service before you are billed for them\", is gone.\n\nChange 2: an invite counts as a seat. New wording: \"A seat is added when a Team Owner invites a person to your Team or adds a seat, whether or not the invitation has been accepted.\" The Team Owner \"authorises Canva to charge the payment method nominated for your Team for any seats they add.\"\n\nChange 3: the warning email is gone. The old terms promised that \"Three (3) days prior to the Billing Date, Canva will notify via email the billing contact\" of the number of extra seats and fees. That sentence was removed. So was the line \"You will not receive a refund or credit for removing seats from your Team that have already been paid for\"; the new section doesn't say what happens when you remove a seat mid-period. The general cancellation clause still says you \"will not be entitled to a refund of any fees already paid (except where required by law).\"\n\nWhat you can do: treat every Team invite as a purchase. Remove stale pending invites, and check your billing history after adding people."
+ },
+ {
+  "service": "Grammarly",
+  "page": "privacy",
+  "headline": "Grammarly's owner Superhuman adds GPTZero to its privacy policy and may license your social media profiles",
+  "tldr": "Superhuman's privacy policy now covers GPTZero and your prompts to its AI agents, and says it may license social media profile info about users and non-users from third parties.",
+  "impact": 2,
+  "themes": [
+   "ai-and-your-data",
+   "ads-and-tracking"
+  ],
+  "url": "https://www.grammarly.com/privacy-policy",
+  "who": "Grammarly, Superhuman Mail, Superhuman Go, Docs (Coda) and GPTZero users, and people who aren't users but whose details could be licensed from data providers",
+  "seo_title": "Grammarly / Superhuman privacy policy update Nov 2026: GPTZero, agent prompts, licensed social profiles",
+  "seo_desc": "Superhuman (formerly Grammarly) updated its privacy policy: GPTZero is now covered, prompts to its agents count as user content, and it may license social media profile info about users and non-users and show some of it to other users.",
+  "redline": [
+   {
+    "before": "We may collect information about users and non-users that’s publicly available, and we may license data such as your contact info or information about your company or job function from third parties.",
+    "after": "We may collect or license information about users and non-users from third parties, such as contact information, information about company or job function, or links to social media and online profiles.",
+    "label": "Privacy Policy · Information from other sources",
+    "note": "Social media and online profile links join the data it may buy about people, users or not.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "As described above, we may collect or license information about users and non-users. For certain products, some of this information may be visible to other users of that product.",
+    "label": "Privacy Policy · When We Disclose Information · Other users of our products",
+    "note": "Licensed data about you can be shown to other customers.",
+    "src": "raw"
+   },
+   {
+    "before": "text, screen content, web pages, documents, files, calendars, images, data, and any other content you allow our products to access.",
+    "after": "text, screen content, web pages, documents, files, calendars, images, data, prompts, or instructions to our agents, and any other content you allow our products to access.",
+    "label": "Privacy Policy · User content",
+    "note": "What you tell its AI agents is now named as collected content.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you use GPTZero, read Superhuman's privacy policy: GPTZero, LLC is now listed as a Superhuman subsidiary covered by it",
+   "US residents: to opt out of targeted advertising, sharing or sales, use the control in your account settings or email privacy@superhuman.com with \"Opt Out\" in the subject line"
+  ],
+  "what": "Superhuman Platform Inc. (formerly Grammarly) published a revised privacy policy covering Grammarly, Docs (formerly Coda), Superhuman Go, Superhuman Mail and now GPTZero.\n\nChange 1: GPTZero joins. GPTZero, LLC is added to the list of subsidiaries, and \"GPTZero\" to the products the policy covers.\n\nChange 2: licensed profile data. The old policy said Superhuman may collect publicly available information and \"license data such as your contact info or information about your company or job function from third parties.\" The new one says it \"may collect or license information about users and non-users from third parties, such as contact information, information about company or job function, or links to social media and online profiles.\" The California disclosure table now lists professional information as including \"social media profile information, which we may license from others\", and account information now includes \"general location\".\n\nChange 3: other users can see some of it. A new disclosure category, \"Other users of our products\", says: \"For certain products, some of this information may be visible to other users of that product.\" It's also added to the list of recipients in the state-law section.\n\nChange 4: AI agents. User content now includes \"prompts, or instructions to our agents\", and a new example says \"if you use our agent products, we process your prompts and usage data to provide you personalized responses and take the actions you request.\"\n\nOther changes: a new line says that if you're under the age of consent and use the products through an Organization, \"your Organization is responsible for providing consent\"; the opt-out instructions now say to use the account-settings control or email privacy@superhuman.com with \"Opt Out\" in the subject line; the European legitimate-interest basis now covers providing the service \"to you and/or to our other users\". What stays the same: \"we restrict our AI service providers from training their models on user content of Superhuman customers.\""
+ },
+ {
+  "service": "Notion",
+  "page": "pricing",
+  "headline": "Notion's pricing FAQ drops the promise of unlimited blocks for solo Free users",
+  "tldr": "Notion's FAQ used to say a solo Free workspace gets unlimited pages and blocks. Now it says any Free workspace gets a limited number, though the plan table still says 'Limited for 2+ members'.",
+  "impact": 2,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://www.notion.com/pricing",
+  "who": "People using Notion's Free plan on their own",
+  "seo_title": "Notion Free plan block limit: pricing FAQ no longer promises unlimited blocks for individuals (Nov 2026)",
+  "seo_desc": "Notion's pricing FAQ changed between Nov 16 and Nov 19, 2026: 'If you're using a Free Plan workspace, you'll be able to add a limited number of blocks before you have to upgrade.' The solo unlimited line is gone.",
+  "redline": [
+   {
+    "before": "If you’re using a Free Plan workspace by yourself, you’ll be able to add as many pages and blocks as you like.",
+    "after": "If you’re using a Free Plan workspace, you’ll be able to add a limited number of blocks before you have to upgrade.",
+    "label": "Pricing FAQ · Block storage limit on a Free Plan",
+    "note": "The solo exemption is no longer stated.",
+    "src": "raw"
+   },
+   {
+    "before": "Your Notion subscription, annual or monthly, will automatically renew until you cancel it.",
+    "after": "Your paid subscription renews automatically until you cancel it. If you subscribed through Notion on desktop or web, go to",
+    "label": "Pricing FAQ · How do I cancel my paid plan?",
+    "note": "App Store and Google Play subscribers are now told to cancel through the store.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you rely on a solo Free workspace, watch for a block-limit warning; when you hit it you can still read and edit, but not add new blocks",
+   "Export a backup (Settings, then Export all workspace content) if you want a copy outside Notion"
+  ],
+  "what": "Between our November 16 and November 19 snapshots, Notion rewrote the FAQ answer \"What happens when I go over the block storage limit on a Free Plan?\" It used to give two answers: \"If you’re using a Free Plan workspace by yourself, you’ll be able to add as many pages and blocks as you like\", and with multiple members \"a limited number of blocks before you have to upgrade.\" Now there's one: \"If you’re using a Free Plan workspace, you’ll be able to add a limited number of blocks before you have to upgrade.\" The next line is unchanged: at the limit \"you can still read, edit, and organize existing content blocks as usual, but you won’t be able to add new content blocks.\"\n\nThe page isn't consistent yet. The plan comparison table still lists \"Pages & blocks\" on Free as \"Limited for 2+ members\", and the tooltip still says teams \"can use the Free Plan with up to certain number of blocks before upgrading.\" Notion doesn't give a block number on the page, and we haven't seen an announcement, so it's not clear whether solo accounts are actually being limited or the FAQ was shortened.\n\nOther changes: the cancellation answer now says that if you subscribed through the Apple App Store or Google Play, you cancel through that store, and that \"You'll keep access to your paid features until the end of your current billing period.\""
+ },
+ {
+  "service": "Shopify",
+  "page": "pricing",
+  "headline": "Shopify's pricing page adds a 0.35% tax calculation fee with 'Tax managed by Shopify'",
+  "tldr": "Shopify's plan table now lists 'Tax managed by Shopify' and a tax calculation fee of 0.35% on Basic, Grow and Advanced (0.25% on Plus) after an introductory discount.",
+  "impact": 2,
+  "themes": [
+   "price-creep"
+  ],
+  "url": "https://www.shopify.com/pricing",
+  "who": "Shopify merchants on Basic, Grow, Advanced and Plus who use Shopify's built-in tax calculation",
+  "seo_title": "Shopify tax calculation fee 0.35% (0.25% on Plus): what the Nov 2026 pricing page shows",
+  "seo_desc": "Shopify's pricing page now lists 'Tax managed by Shopify', a 'Self-managed tax mode', and a tax calculation fee (after introductory discount) of 0.35% on Basic, Grow and Advanced and 0.25% on Plus.",
+  "redline": [
+   {
+    "before": "",
+    "after": "Tax managed by Shopify",
+    "label": "Pricing · Compare features · Tax",
+    "note": "A new tax service row.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "Self-managed tax mode Tax calculation fee (after introductory discount) 0.35%",
+    "label": "Pricing · Compare features · Tax (Basic, Grow, Advanced; Plus 0.25%)",
+    "note": "A percentage fee now sits on the tax line of the plan table.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "Open Settings, then Taxes and duties in your Shopify admin to see which tax mode your store uses and any fee shown there",
+   "Check your Shopify bill for a tax calculation charge once any introductory discount ends"
+  ],
+  "what": "Between our November 16 and November 19 snapshots, the Tax section of Shopify's plan comparison table gained three rows: \"Tax managed by Shopify\", \"Self-managed tax mode\" and \"Tax calculation fee (after introductory discount)\". The fee is listed as 0.35% on Basic, Grow and Advanced and 0.25% on Plus. The rows \"Automated sales tax calculations\", \"Tax liability tracking\" and \"VAT validation, exemptions, and invoicing\" are unchanged, and the \"Advanced tax platform\" is still an add-on.\n\nThe pricing page doesn't say what the percentage is charged on, how long the introductory discount lasts, or whether the fee applies in self-managed mode or only when Shopify manages tax. Check the Taxes and duties settings in your admin for the terms that apply to your store. Plan prices are unchanged: Basic $29, Grow $79, Advanced $299 a month billed yearly; Plus from $2,300 a month.\n\nCoverage (checked November 19): PricingSaaS Pulse and Rewindex logged the same rows on November 17-18."
+ },
+ {
+  "service": "Google Play",
+  "page": "terms",
+  "headline": "Google Play's new terms are now in force: broken purchases go to the developer",
+  "tldr": "The Google Play Terms of Service previewed in October took effect Nov 17. You're now told to report defective purchases to the developer, not Google.",
+  "impact": 1,
+  "effective": "2026-11-17",
+  "deadline": "Took effect",
+  "themes": [
+   "not-our-problem"
+  ],
+  "url": "https://play.google.com/intl/en_us/about/play-terms/index.html",
+  "who": "Everyone who uses the Google Play Store or an Android device with Google Play services",
+  "seo_title": "Google Play Terms of Service took effect Nov 17, 2026: defective purchases, Play services, trials",
+  "seo_desc": "Google Play's updated Terms of Service are live as of Nov 17, 2026: report defective Content to the Provider, Google Play services count as Content, and reduced-price offers are no longer described as trials.",
+  "redline": [
+   {
+    "before": "and notify us or the Provider as soon as reasonably possible if you find any errors or defect.",
+    "after": "and notify the Provider as soon as reasonably possible if you find any errors or defect.",
+    "label": "Play Terms · Defective purchases",
+    "note": "Google drops itself as a contact; now live.",
+    "src": "raw"
+   },
+   {
+    "before": "(for example where Content is defective)",
+    "after": "",
+    "label": "Play Terms · Cancellations",
+    "note": "The defective-Content refund example is gone.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "If something you bought on Google Play doesn't work, report it to the developer and also request a refund through Google Play, and keep records of both"
+  ],
+  "what": "The Google Play Terms of Service we covered on October 20 are now the live version. Our November 16 snapshot of the US terms page still showed \"We’re updating our Play Terms of Service on November 17, 2026. Until then, the Terms below continue to apply\" and a link to the preview; by November 19 that notice was gone and the page carries the new text.\n\nThe live terms match the preview. On defective purchases you're told to check Content and \"notify the Provider as soon as reasonably possible if you find any errors or defect\" (it used to say \"notify us or the Provider\"). The cancellation clause no longer gives \"(for example where Content is defective)\" as an example of when the Refund Policy allows a refund. \"Content\" now includes \"system services (including, but not limited to, those provided by Google Play services)\", and the trial clause no longer mentions access \"at a reduced price\". The Google ToS quote on third-party rights is updated to the current Google Terms wording.\n\nWhat stays the same: at least 30 days' notice of terms changes and before a subscription price increase applies."
+ },
+ {
+  "service": "Slack",
+  "page": "pricing",
+  "headline": "Slack swaps 'Unlimited Slackbot' for 'no weekly message limits, subject to our usage guidelines' on Enterprise+",
+  "tldr": "Slack's Enterprise+ plan no longer advertises 'Unlimited Slackbot'. It now promises no weekly message limits, subject to usage guidelines and 'advanced feature limits'.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://slack.com/pricing",
+  "who": "Slack Enterprise+ customers and teams comparing Slack plans for its AI assistant",
+  "redline": [
+   {
+    "before": "Unlimited Slackbot Find answers, summarize channels, and work across your apps. It’s unlimited for your whole team.",
+    "after": "Slackbot with no weekly message limits No weekly message limits for your whole team, subject to our usage guidelines. Inclusion of advanced capabilities may be subject to advanced feature limits.",
+    "label": "Pricing · Enterprise+",
+    "note": "'Unlimited' becomes 'no weekly limits', with guidelines and feature caps attached.",
+    "src": "raw"
+   }
+  ],
+  "what": "On Slack's pricing page, the Enterprise+ feature list changed from \"Unlimited Slackbot ... It’s unlimited for your whole team\" to \"Slackbot with no weekly message limits\": \"No weekly message limits for your whole team, subject to our usage guidelines. Inclusion of advanced capabilities may be subject to advanced feature limits.\" In the comparison table, the \"Usage limits\" row that showed \"Consumption based\" for two plans and \"Unlimited\" for Enterprise+ was removed. The Slackbot description for other plans still says \"Limits vary by plan. Contact sales to add more.\" The Enterprise+ price shown flipped back from \"Contact sales for pricing\" to \"$45 USD per user / month, when paying annually\", a rotation we've seen before."
+ },
+ {
+  "service": "Todoist",
+  "page": "pricing",
+  "headline": "Todoist caps Ramble on the free plan at 10 sessions a month and adds Automations (beta) to paid plans",
+  "tldr": "Todoist's free Beginner plan now lists 10 Ramble voice-capture sessions a month. Pro and Business get Todoist Automations in beta; Task Assist is gone from the table.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://todoist.com/pricing",
+  "who": "Todoist users, especially free Beginner users of Ramble voice task capture",
+  "redline": [
+   {
+    "before": "Ramble Limited sessions",
+    "after": "AI-powered task capture, including Ramble 10 sessions/month",
+    "label": "Pricing · Compare plans · Beginner",
+    "note": "'Limited' now has a number.",
+    "src": "raw"
+   },
+   {
+    "before": "Task Assist",
+    "after": "Todoist Automations Beta",
+    "label": "Pricing · Pro",
+    "note": "Task Assist drops out; Automations arrive in beta.",
+    "src": "raw"
+   }
+  ],
+  "what": "Todoist reworked its plan table. The free Beginner plan's Ramble line, which said \"Limited sessions\", is now \"AI-powered task capture, including Ramble\" with \"10 sessions/month\" (paid plans: \"Unlimited sessions\"). \"Task Assist\" is gone from the Pro list and comparison table, replaced by \"Todoist Automations\" (Beta), available on Pro and Business with an Automations MCP server, run history, approval steps and AI steps; automations in a team workspace are Business-only. Other changes: \"1 week activity history\" on Beginner is now \"1 week reporting history\", team activity logs become \"activity reports\" plus \"Advanced project insights\" on Business, integrations go from \"90+\" to \"120+\", and \"Themes\" was removed from the comparison table."
+ },
+ {
+  "service": "Social Security",
+  "page": "privacy",
+  "headline": "Social Security will get federal workers' comp payment data from Labor every 28 days to offset disability benefits",
+  "tldr": "A new SSA–Labor matching program sends FECA workers' comp payment data to SSA every 28 days to reduce disability benefits. Comments close Dec 21.",
+  "impact": 1,
+  "effective": "2026-12-21",
+  "deadline": "Comments close",
+  "themes": [],
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23591/privacy-act-of-1974-matching-program",
+  "who": "About 40,000 people getting Social Security Disability Insurance (and their auxiliaries) who also receive Federal Employees' Compensation Act benefits",
+  "redline": [
+   {
+    "before": "",
+    "after": "DOL will provide the data to SSA every 28 days, consistent with its FECA benefit payment cycle. Each data transmission is expected to include payment information for approximately 40,000 FECA beneficiaries.",
+    "label": "Federal Register 2026-23591 · Summary",
+    "note": "A recurring data feed used to offset disability benefits.",
+    "src": "quoted"
+   }
+  ],
+  "actions": [
+   "Comment by Dec 21, 2026 at regulations.gov, docket SSA-2026-0100 (or fax 833-410-1631)",
+   "If you get both SSDI and FECA payments, report FECA changes to SSA promptly so offsets are calculated correctly"
+  ],
+  "what": "The Social Security Administration published a notice in the November 19, 2026 Federal Register (FR Doc. 2026-23591, docket SSA-2026-0100) announcing a new matching program with the Department of Labor. Under it, \"DOL, as the source agency, will disclose Federal Employees' Compensation Act (FECA) payment data to SSA.\" SSA says it will use the data \"to improve SSA's ability to accurately offset Title II DI benefits\" (section 224 of the Social Security Act reduces disability benefits for people also receiving workers' compensation). \"DOL will provide the data to SSA every 28 days, consistent with its FECA benefit payment cycle. Each data transmission is expected to include payment information for approximately 40,000 FECA beneficiaries.\" The people covered are \"DI beneficiaries and their auxiliaries who are concurrently receiving FECA benefit payments.\"\n\nDates: comments are due \"no later than December 21, 2026.\" The program \"will be applicable on December 28, 2026, or once a minimum of 30 days after publication of this notice has elapsed, whichever is later,\" and runs for 18 months."
+ },
+ {
+  "service": "Spotify",
+  "page": "pricing",
+  "headline": "Spotify Premium free trial is now 3 months for new users, until December 31",
+  "tldr": "New Spotify Premium Individual subscribers get 3 months for $0, then $12.99 a month. The offer ends December 31, 2026.",
+  "impact": 1,
+  "effective": "2026-12-31",
+  "deadline": "Offer ends",
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://www.spotify.com/us/premium/",
+  "who": "People in the US who have never tried Spotify Premium",
+  "redline": [
+   {
+    "before": "Premium Individual only. $0 for 1 month, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
+    "after": "Premium Individual only. $0 for 3 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.",
+    "label": "Premium page · Individual offer",
+    "note": "Trial triples; price after is unchanged.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you take the offer, set a reminder before the 3 months end; it renews at $12.99 a month unless you cancel"
+  ],
+  "what": "Spotify's US Premium page changed its new-subscriber offer from \"Try 1 month for $0\" to \"Try 3 months for $0\": \"Premium Individual only. $0 for 3 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.\" A new line says the offer ends; the live page (checked November 19) reads \"Offer ends December 31, 2026.\" The price after the trial, $12.99 a month, is unchanged. The plan comparison card further down still shows \"$0 for 1 month\" in one spot. In October Spotify ran a 2-month offer that ended November 1."
+ }
+]

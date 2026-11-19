@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canva · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-19-canva-canva-now-bills-teams-for-a-new-seat-the-moment-it-s-
+ invited-even-before@quietlychanged.com
+DTSTAMP:20261119T132319Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Canva: Took effect
+DESCRIPTION:Canva's Nov 16 terms charge Teams for an added seat right away
+ \, prorated\, and count a seat as soon as an invite goes out\, accepted o
+ r not.\n\nhttps://quietlychanged.com/changes/2026-11-19-canva-canva-now-b
+ ills-teams-for-a-new-seat-the-moment-it-s-invited-even-before/
+URL:https://quietlychanged.com/changes/2026-11-19-canva-canva-now-bills-te
+ ams-for-a-new-seat-the-moment-it-s-invited-even-before/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Canva — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

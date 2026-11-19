@@ -638,5 +638,35 @@
    "note",
    "Emotiv privacy fetched again today (first since Nov 9): page re-templated so the extractor now sees the text. Diff vs Nov 9 is formatting plus the removed 'Effective Date: August 6, 2026' line; the GPC/opt-out and Log Data text the diff shows as removed is still in the live HTML (extraction artifact). Emotiv removed from failures."
   ]
+ ],
+ "flaky_2026-11-19": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403 continues (since Nov 10); kept"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403 continues (since Nov 10); kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; kept"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars) continues; kept"
+  ],
+  [
+   "note",
+   "No SSL/transient failures on Nov 19 (single pass 173 ok / 4 failed). Nov 17 and Nov 18 runs did not happen (account usage ran out); diff is Nov 16 -> Nov 19."
+  ]
  ]
 }

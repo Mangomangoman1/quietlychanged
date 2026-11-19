@@ -106,21 +106,6 @@
       "statusCode": 301
     },
     {
-      "source": "/services/grammarly",
-      "destination": "/services.html#grammarly",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/grammarly/",
-      "destination": "/services.html#grammarly",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/grammarly/index.html",
-      "destination": "/services.html#grammarly",
-      "statusCode": 301
-    },
-    {
       "source": "/services/linkedin",
       "destination": "/services.html#linkedin",
       "statusCode": 301
