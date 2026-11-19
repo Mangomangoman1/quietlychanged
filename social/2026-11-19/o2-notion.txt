@@ -1,0 +1,7 @@
+Notion deleted this line from its pricing FAQ:
+
+"If you're using a Free Plan workspace by yourself, you'll be able to add as many pages and blocks as you like."
+
+Now: Free workspaces get "a limited number of blocks." The plan table hasn't caught up.
+
+https://quietlychanged.com/changes/2026-11-19-notion-notion-s-pricing-faq-drops-the-promise-of-unlimited-blocks-for-solo-free/
