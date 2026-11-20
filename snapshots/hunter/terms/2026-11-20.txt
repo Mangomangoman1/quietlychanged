@@ -1,0 +1,71 @@
+BLOG CATEGORIES
+Ceiling Light
+Blog Category
+Design Inspiration
+Blog Category
+How To
+Blog Category
+Huntervention
+Blog Category
+Ideas
+Blog Category
+Indoor Ceiling Fan
+Blog Category
+Newsroom
+Blog Category
+Outdoor Ceiling Fans
+Blog Category
+Press Release
+Blog Category
+Smart Home
+Blog Category
+Ceiling Fan Tips
+Blog Category
+Important Update to HunterSMART™ Google Home and Amazon Alexa Connectivity via App-to-App Linking
+Hunter is making an upcoming change to certain legacy smart-home connections with Google Home and Amazon Alexa used by HunterSMART™ fans.
+We want to help you understand what is changing, what will continue to work, and what steps you may need to take to make the most of your HunterSMART™ products.
+What Is Changing?
+Beginning
+<DATE>
+, Hunter will discontinue the legacy cloud-based connections that currently enable cloud-to-cloud linking between HunterSMART™ app accounts and Google Home and Amazon Alexa.
+After this date, Google Home and Alexa functionality that relies on this legacy cloud connection will no longer work for HunterSMART™ fans, including voice commands, scenes, and automations.
+Why Is This Changing?
+Hunter is transitioning away from its legacy cloud-based smart-home platform as part of its move toward Matter, an industry standard designed to support connectivity across compatible smart-home platforms.
+Visit our
+Matter Compatibility Page
+to search for your fan and review available options for migrating to Matter.
+Matter migration options vary by product and may require a firmware update or updated hardware components.
+When Will This Change Happen?
+The legacy Google Home and Alexa cloud-based connections and linking via these third-party apps and the HunterSMART™ app will no longer be supported effective
+<DATE>
+We are providing advance notice so affected customers have time to review their available options and complete any applicable setup before the change.
+What Does This Mean for My HunterSMART™ Fan Controls?
+Your fan's core operation will continue as designed, including fan and lighting control through the included remote control, other installed controls, and smart controls via the HunterSMART™ app, as applicable.
+If you currently use Google Home or Amazon Alexa through HunterSMART™ app account linking, that legacy connection will no longer work effective
+<DATE>
+Any smart controls via the Google Home and/or Alexa assistants and apps that rely on this legacy connection will no longer function, including fan smart controls, voice commands, scenes, and automations.
+How Can I Continue Using Google Home or Alexa for Fan Controls?
+If your fan is eligible for Matter compatibility, you will be able to continue using supported smart functionality within the Google Home and/or Alexa ecosystems
+after completing the applicable Matter migration and setup.
+Once your HunterSMART™ fan is Matter-enabled, connecting your fan to Google Home and Alexa will work differently than it does today.
+Instead of linking your HunterSMART™ account to Google Home or Alexa, you will need to set up your Matter-enabled fan
+directly
+in these compatible ecosystems using the Matter setup available through the Google Home and/or Alexa apps.
+Matter-enabled devices do not use the legacy cloud-linking service for smart controls that is being discontinued.
+We appreciate your understanding as we make this transition.
+Enhance Your Outdoor Space with Smart Fans
+arrow button
+More Newsroom Stories
+An Original in Every Detail: Inside Hunter's 140th Anniversary Collector's Edition
+<DATE>
+Celebrating 140 Years: The Hunter Original® Collector’s Edition Ceiling Fan
+<DATE>
+Important Update to HunterSMART™ Google Home and Amazon Alexa Connectivity via App-to-App Linking
+<DATE>
+Continue Reading
+Newsroom
+Hunter ZenTech Ceiling Fans | Smart Design & Innovation
+Newsroom
+Hunter Fan Company Expands Outdoor Cooling Solutions
+Newsroom
+Jasmine Roth + Hunter Lighting Collection Expands | Hunter

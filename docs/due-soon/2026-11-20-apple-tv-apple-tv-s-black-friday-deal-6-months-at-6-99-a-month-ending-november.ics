@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Apple TV · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-20-apple-tv-apple-tv-s-black-friday-deal-6-months-at-6-99-a-mo
+ nth-ending-november@quietlychanged.com
+DTSTAMP:20261120T132122Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Apple TV: Offer ends
+DESCRIPTION:Apple TV is $6.99 a month for 6 months (normally $14.99) for n
+ ew and qualified returning subscribers until Nov 30\, then renews at $14.
+ 99. The 7-day trial card is gone from the page.\n\nhttps://quietlychanged
+ .com/changes/2026-11-20-apple-tv-apple-tv-s-black-friday-deal-6-months-at
+ -6-99-a-month-ending-november/
+URL:https://quietlychanged.com/changes/2026-11-20-apple-tv-apple-tv-s-blac
+ k-friday-deal-6-months-at-6-99-a-month-ending-november/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Apple TV — Offer ends
+END:VALARM
+END:VEVENT
+END:VCALENDAR

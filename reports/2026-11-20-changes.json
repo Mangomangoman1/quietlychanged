@@ -1,0 +1,123 @@
+[
+ {
+  "service": "Apple TV",
+  "page": "pricing",
+  "headline": "Apple TV's Black Friday deal: 6 months at $6.99 a month, ending November 30",
+  "tldr": "Apple TV is $6.99 a month for 6 months (normally $14.99) for new and qualified returning subscribers until Nov 30, then renews at $14.99. The 7-day trial card is gone from the page.",
+  "impact": 1,
+  "effective": "2026-11-30",
+  "deadline": "Offer ends",
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://www.apple.com/apple-tv-plus/",
+  "who": "People in the US thinking about subscribing to Apple TV, including former subscribers who might qualify as returning subscribers",
+  "seo_title": "Apple TV $6.99 a month for 6 months: Black Friday 2026 offer ends Nov 30",
+  "seo_desc": "Apple's Apple TV page (Nov 20, 2026) offers 6 months at $6.99/mo for new and qualified returning subscribers until Nov 30, 8 p.m. PT, then $14.99/mo. The '1 week free' card was removed from the page.",
+  "redline": [
+   {
+    "before": "",
+    "after": "Get 6 months of Apple TV for just $6.99 per month and save over 50%. Offer ends November 30.",
+    "label": "Apple TV page · Subscribe and save",
+    "note": "A limited-time price cut replaces the trial card at the top of the offers.",
+    "src": "raw"
+   },
+   {
+    "before": "New Subscriber 1 week free Get Apple TV for just $14.99 per month after a free 7-day trial.",
+    "after": "",
+    "label": "Apple TV page · New Subscriber offer",
+    "note": "The '1 week free' card is gone; the fine print says other new subscribers 'may' still get a 7-day trial.",
+    "src": "raw"
+   },
+   {
+    "before": "$14.99 per month after a free 7-day trial.",
+    "after": "$14.99 per month.",
+    "label": "Apple TV page · FAQ · How much does Apple TV cost?",
+    "note": "The FAQ no longer mentions a free trial.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you want the deal, subscribe through Apple (not a carrier or third party) before 8 p.m. PT on November 30, 2026",
+   "Set a reminder for 6 months out: the plan renews at $14.99 a month until you cancel",
+   "If you just bought an Apple device, check for the 3-months-free offer first; the fine print says the $6.99 deal isn't available if you're eligible for it"
+  ],
+  "what": "Between November 19 and 20, Apple's Apple TV page swapped its standing new-subscriber card (\"New Subscriber\", \"1 week free\", \"Get Apple TV for just $14.99 per month after a free 7-day trial.\") for a limited-time offer: \"Get 6 months of Apple TV for just $6.99 per month and save over 50%. Offer ends November 30.\" A banner at the top of the page says the same, and the FAQ answer on price now reads \"A monthly subscription is just $14.99 per month.\" without the trial.\n\n## The fine print\n\nThe live page (checked November 20) says: \"Offer expires on November 30, 2026, at 8:00 p.m. PT. Offer for eligible new and qualified returning subscribers redeeming on eligible Apple devices or where a subscription to Apple TV is billed directly through Apple.\" It is \"not available if (i) you are eligible for a three months free Apple TV offer or (ii) your subscription to Apple TV is billed through a third party or your mobile wireless provider. Other new subscribers may receive a 7-day free trial. Plan automatically renews at $14.99/mo. after offer period until cancelled.\"\n\nOur arithmetic: 6 months at $6.99 is $41.94, versus $89.94 at $14.99, a saving of $48.\n\nWhat stays the same: the $14.99 monthly price, the 3-months-free offer with a new Apple device, the Apple TV and Peacock bundle at $17.99 a month, and Apple One from $21.95 a month.",
+  "sources": [
+   [
+    "Apple TV",
+    "https://www.apple.com/apple-tv-plus/"
+   ]
+  ]
+ },
+ {
+  "service": "Todoist",
+  "page": "pricing",
+  "headline": "Todoist adds Comms team chat (beta), with 1 month of message history on Beginner and Pro",
+  "tldr": "Todoist's plan table adds Todoist Comms (beta) on every plan. Beginner and Pro keep 1 month of message history; Business keeps it all. Free and Pro teams are capped at 5 guests.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://todoist.com/pricing",
+  "who": "Todoist users who work in teams, on the free Beginner, Pro and Business plans",
+  "redline": [
+   {
+    "before": "",
+    "after": "Todoist Comms Available Available Available Todoist Comms MCP server Available Available Available Message history 1 month 1 month Full",
+    "label": "Pricing · Compare plans · Todoist Comms (Beta)",
+    "note": "Chat is on every plan, but only Business keeps messages past a month.",
+    "src": "raw"
+   },
+   {
+    "before": "A shared team workspace",
+    "after": "Unlimited message history in Todoist Comms Beta",
+    "label": "Pricing · Business, everything in Pro plus",
+    "note": "Message history is now a Business selling point.",
+    "src": "raw"
+   },
+   {
+    "before": "Team members Not available Not available 1,000 Team guests Not available Not available 1,000",
+    "after": "People per team 1,000, max 5 guests 1,000, max 5 guests 1,000, guests included",
+    "label": "Pricing · Compare plans · Collaboration",
+    "note": "Teams now appear on Beginner and Pro, with a 5-guest cap.",
+    "src": "raw"
+   }
+  ],
+  "what": "Todoist reworked its plan comparison table again (we covered the Ramble cap and Automations on November 19). A new \"Todoist Comms\" section, marked Beta, lists Todoist Comms and a \"Todoist Comms MCP server\" as available on Beginner, Pro and Business, with \"Message history\" of \"1 month\" on Beginner and Pro and \"Full\" on Business. The Business card's \"A shared team workspace\" line is now \"Unlimited message history in Todoist Comms\".\n\nOther changes: the separate \"Team members\" and \"Team guests\" rows (1,000 each, Business only) became one \"People per team\" row: \"1,000, max 5 guests\" on Beginner and Pro and \"1,000, guests included\" on Business. The \"People per team project\" row (250 on Business) was removed. \"Due dates & times\" is now \"Dates & times\", and a new \"Task deadlines\" row shows deadlines aren't available on Beginner. Board, calendar and table layouts are now described as \"In label, filter, and personal project views\" on Pro and \"In team projects, too\" on Business. What stays the same: Pro at $60 billed yearly and Business at $96 per user billed yearly ($10 monthly)."
+ },
+ {
+  "service": "JetBlue",
+  "page": "pricing",
+  "headline": "JetBlue sets November and December 2027 peak dates for checked bags, including all of December",
+  "tldr": "JetBlue's peak bag calendar now runs through 2027: Nov 4–10, Nov 18–30 and all of December 2027 cost $5 to $10 more per checked bag.",
+  "impact": 1,
+  "effective": "2027-11-04",
+  "deadline": "Peak bag fees start",
+  "themes": [
+   "price-creep"
+  ],
+  "url": "https://www.jetblue.com/legal/fees",
+  "who": "JetBlue customers who check paid bags on Thanksgiving and December 2027 flights",
+  "redline": [
+   {
+    "before": "",
+    "after": "November 2027 11/4-11/10, 11/18-11/30 December 2027 12/1-12/31",
+    "label": "Optional Services and Fees · Peak Travel Dates",
+    "note": "Holiday 2027 is peak, matching this year's calendar.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you're flying JetBlue Nov 4–10, Nov 18–30 or in December 2027, prepay checked bags at least 24 hours before departure to get the lower prepaid price",
+   "Off-peak bag pricing applies Nov 1–3 and Nov 11–17, 2027, if your dates are flexible"
+  ],
+  "what": "JetBlue extended the \"Peak Travel Dates\" table on its fees page by two months. New rows read \"November 2027: 11/4-11/10, 11/18-11/30\" and \"December 2027: 12/1-12/31\", mirroring this year's November 2026 (11/5-11/11, 11/19-11/30) and December 2026 (all month) entries. Off-peak pricing still \"applies to all other travel dates.\"\n\n## What that costs\n\nWithin the U.S., Latin America, the Caribbean and Canada, the page lists a prepaid first bag at $50 off-peak and $55 peak, and a second bag at $70 off-peak and $75 peak; paid within 24 hours of departure, the first bag is $60 vs $70 and the second $75 vs $85. What stays the same: the fees themselves, set for bookings made from November 3, 2026, which we covered on November 7.",
+  "sources": [
+   [
+    "JetBlue Optional Services and Fees",
+    "https://www.jetblue.com/legal/fees"
+   ]
+  ]
+ }
+]

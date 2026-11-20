@@ -668,5 +668,35 @@
    "note",
    "No SSL/transient failures on Nov 19 (single pass 173 ok / 4 failed). Nov 17 and Nov 18 runs did not happen (account usage ran out); diff is Nov 16 -> Nov 19."
   ]
+ ],
+ "flaky_2026-11-20": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403 continues (since Nov 10); kept. Tried /us/webapps/mpp/ua/useragreement-full and /us/legalhub/useragreement-full: also 403"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403 continues (since Nov 10); kept. Tried /us/webapps/mpp/ua/privacy-full and /us/legalhub/privacy-full: also 403"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; kept. Tried https://www.roblox.com/info/terms: also 403"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars) continues; kept. Tried us.shein.com and www.shein.com paths: 49 chars (bot wall)"
+  ],
+  [
+   "note",
+   "Single pass 173 ok / 4 failed; no SSL/transient failures. No working replacement URL found for any of the 4."
+  ]
  ]
 }
