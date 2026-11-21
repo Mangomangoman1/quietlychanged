@@ -1,0 +1,851 @@
+We've updated our Privacy Policy.
+We didn’t make any material changes — this was a routine cleanup to improve clarity and readability.
+2026 Privacy Policy
+PERSONAL INFORMATION WE COLLECT
+WHAT WE DO WITH YOUR PERSONAL INFORMATION
+HOW WE SHARE YOUR PERSONAL INFORMATION
+HOW LONG WE KEEP YOUR PERSONAL INFORMATION
+DATA TRANSFERS
+YOUR CHOICES AND RIGHTS
+HOW WE PROTECT YOUR PERSONAL INFORMATION
+HOW TO CONTACT US OR FILE COMPLAINTS
+POLICY CHANGES
+LEGAL BASES FOR PROCESSING
+YOUR U.S. STATE PRIVACY RIGHTS
+Additional California Disclosures
+GRINDR EMPLOYEE, CONTRACTOR, VENDOR AND APPLICANT PRIVACY POLICY
+PERSONAL INFORMATION WE COLLECT
+SOURCES OF PERSONAL INFORMATION
+WHAT WE DO WITH YOUR PERSONAL INFORMATION
+EMPLOYEE MONITORING
+GRINDR EMPLOYEE USE OF GRINDR PRODUCTS AND SERVICES
+HOW WE SHARE YOUR PERSONAL INFORMATION
+HOW LONG WE KEEP YOUR PERSONAL INFORMATION
+YOUR CHOICES AND RIGHTS
+PRIVACY OFFICE CONTACT
+YOUR CALIFORNIA PRIVACY RIGHTS
+PRIVACY METRICS
+SOUTH KOREAN PRIVACY RIGHTS 개인정보 처리방침
+개인정보 처리방침
+GRINDR CONSUMER HEALTH DATA PRIVACY POLICIES
+Washington Consumer Health Data Privacy Policy
+Nevada Consumer Health Data Privacy Policy
+2026 Privacy Policy
+2026年7月6日
+GRINDR PRIVACY POLICY
+This Privacy Policy (“Policy”)
+explains how Grindr LLC, its parent companies, and subsidiaries (such as Grindr
+Canada Inc.) (collectively “Grindr”) process your personal information. This
+policy applies to the websites, online services, and other Grindr properties
+that link to this Privacy Policy (the “Services”), including the Grindr mobile
+app, web app,
+website
+, and related services.
+For
+information on the processing of personal information of Grindr employees,
+contractors, and job applicants, please click
+here
+For U.S. residents,
+see the
+Your
+U.S. State Privacy Rights
+section below.
+For information on the processing of Consumer Health Data
+of Grindr users who are Washington or Nevada residents and individuals whose
+data is collected in Washington or Nevada, please click
+here
+Our
+Commitment to Privacy.
+As a global social networking application primarily serving the
+GBTQ+ community, Grindr is committed to being transparent about how we collect
+and process your information, enabling you to control how your information is
+used, and protecting the privacy and security of the information we collect. We
+recommend you read this Policy and our
+Terms and Conditions of
+Service
+carefully. In addition to regular updates to this Policy, you may see
+occasional pop-up privacy notices on the Services providing further information
+on our practices.
+Permissible Age
+. The Grindr properties are only for
+adults at least eighteen (18) years of age. If you are aware that a minor has
+submitted personal information on the Services, please contact us by either
+using the in-app reporting tool discussed <
+here
+> or submitting a request
+here
+, so that we can take
+appropriate action.
+PERSONAL INFORMATION WE COLLECT
+When you use the Services, we collect personal
+information that you choose to provide directly to us or that we collect
+automatically, such as data about your interactions with and use of the
+Services. We may also receive information about you from third parties.
+Information you
+provide directly to us:
+Account Information:
+When you set up an account, we require that you provide
+certain personal information such as email or phone number and date of birth to
+validate that you are an adult. In certain jurisdictions, we may require you to
+provide a video selfie or pair a video selfie with an official photo ID to
+confirm you are 18 years of age or older. This will involve processing your
+biometric information.
+Profile Information.
+You choose what personal
+information you provide as part of your public profile. For example, you may
+share or not share health information like HIV and vaccination status, or
+sensitive data like racial or ethnic origin, or photos and videos.
+Your
+profile is public, so you should not include information that you want to keep
+private
+Messages.
+You also have a choice about
+what personal information you provide when you send a message to other users of
+the Services (which could include content such as photos, location, audio,
+video, emojis, gifs, reactions, etc.). If you send messages, you will be
+providing the user who views your message (and Grindr) with your personal
+information.
+Photos, Videos, and Audio.
+Consistent with your permissions
+and if you enable video or photo features, we may collect audio, visual, or
+similar information.
+Customer Support and Feedback.
+You may provide personal
+information to us for feedback and customer support services or when you agree
+to participate in surveys.
+Location Information.
+Consistent with your
+permissions, we may collect your location information, including your precise
+geolocation, for purposes like determining your distance from other users
+(“Distance Information”) and displaying your location on our maps features.
+If you choose to display your Distance
+Information in your profile, it could be used by some users to determine your
+exact location and to determine your identity. You can choose to hide your
+Distance Information, but the Services will continue to sort and display your
+profile based on your relative distance from other users. You may disable
+location services at any time on your device through your device settings or on
+your browser through your browser settings.
+Purchase & Subscription Information
+. We may collect personal information
+about your purchases and subscriptions you make through the Services, including
+financial account and payment details, billing address, subscription tier, and
+renewal date.
+Information
+we collect automatically.
+We collect internet, electronic
+activity, and other information automatically from the devices and browsers
+that you use, such as user activity and how you interact with the Services, as
+well as hardware and software information like your device model, device IDs,
+browser type, advertising identifiers, and IP address. Some of this information
+For more information on how we
+section below. We and our partners also scan, analyze, and collect information
+from the videos, images, audio, messages, and other content and metadata that
+you upload, such as content characteristics and attributes, used for purposes
+of recommendations, to provide the Services, and other operations that do not
+identify you but may be associated with your profile consistent with your
+choices. We may also make inferences about you from the information we collect,
+such as inferences based on your activity and usage within the app.
+Information
+we receive from other sources.
+Grindr collects some personal information from other sources,
+such as through payment processors (where we receive Purchase Information and
+Account Information), other users of our Services (where the information we
+receive depends on the nature of their request to us) and, authentication
+partners like Apple, Google and Meta (such as if you link your Instagram
+account to your Grindr profile) where we receive an authentication token.
+Note that some of the information you
+may choose to provide us (e.g., profile fields such as ethnicity, looking for
+and position) may be considered “sensitive”, “special category” under
+applicable privacy laws. We use this information to provide the Services as
+described in this Policy.
+For
+information on how to exercise rights that may relate to your sensitive
+information please see the
+Your Choices and Rights
+section below.
+WHAT WE DO WITH YOUR PERSONAL INFORMATION
+We process your personal information for specific
+processing purposes and, where required by law, under applicable legal bases.
+We use your personal information to
+provide and support features of the Services and support platform safety,
+including to:
+Provide the Services with
+artificial intelligence-driven features (“gAI
+”) and improve and develop such features, including by using
+your sensitive personal information, for personalization, recommendations, and
+other enhancements, and to support platform and user safety. For more
+information about our use of gAI
+please see
+Your Privacy & Artificial Intelligence at Grindr.
+Answer your inquiries and
+provide you with support.
+Administer the Services,
+including troubleshooting, data analytics, and research.
+Protect our interests as a
+company and enforce our
+Terms and Conditions of
+Service
+and
+Community
+Guidelines
+Communicate with you, such as to
+notify you about changes to the Services.
+Improve our marketing and
+advertising efforts, such as through third-party
+free users of the Services.
+Conduct surveys or obtain your
+voluntary feedback about the Services.
+Comply with our legal
+obligations (as defined below).
+For other purposes disclosed to you at the time we collect your
+information or pursuant to your consent, as permitted under applicable law.
+We may anonymize or deidentify
+information so it is no longer considered personal information under applicable
+law. Where we deidentify information, we commit to maintain and use it in
+deidentified form and to not attempt to reidentify it. We may use non-personal
+information for any purpose permitted by law. This Policy does not apply to
+information that has been anonymized or, to the extent permitted by law,
+de-identified.
+HOW WE SHARE YOUR PERSONAL INFORMATION
+Depending on your use of the Services, we may share your
+personal information in the following ways:
+The Grindr Community.
+As part of the Services, Grindr enables you to share
+your Profile Information, location, and other information with other Grindr
+users;
+Service Providers and
+Third-Party Partners.
+Grindr may share your personal information with service
+providers and third-party partners to provide you the Services, such as with
+parties that act on our behalf for purposes of fraud prevention and customer
+support. We also may share your personal information with advertising and
+marketing partners to help facilitate advertising experiences, and with other
+partners that support the Services or with whom you provide personal
+information to directly (such as our payment processors).
+Business Transactions.
+If another company acquires, or
+plans to acquire, our company, business, or assets, that company may possess
+the personal information collected by us.
+Legal Obligations.
+We may disclose personal
+information to investigate, prevent, or take action in connection with: (i)
+enforcement of the Grindr
+Terms and Conditions of
+Service
+(ii) claims that any content or behavior violates our policies or the rights of
+third parties; (iii) requests for customer service; (iv) technical issues; (v)
+protecting the rights, property, or personal safety of Grindr, its users, or
+the public; (vi) legal requests including subpoenas, warrants, or court orders
+or in connection with any legal process; (vii) establishing or exercising our
+legal rights or defending against legal claims; (viii) tax and accounting
+purposes; or (ix) as otherwise required by law (collectively "legal
+obligations").
+With your consent or at your direction.
+may disclose your personal information to other third parties with your consent
+or at your direction, as permitted under applicable laws.
+purposes, including to conduct essential functions, collect statistical data,
+certain advertising purposes, including collecting information about your use
+of other sites and services to provide advertising (either on or off the
+Services) about products and services tailored to your interests.
+There are several mechanisms through
+including:
+Grindr's Consent Management Platform.
+You may adjust the information-sharing
+controls anytime via the Consent Preference Center within the Services, such as
+by clicking on the Your Privacy Choices link in the footer of our website. For
+non-EEA/EU/UK users, this includes opting-out of behavioral advertising or
+other non-essential tracking technologies. For EEA/EU/UK users, other than
+Services, we will only use these technologies with your consent.
+Browser settings.
+visit:
+Apple
+Safari
+Google
+Chrome
+Microsoft
+Edge
+Mozilla
+Firefox
+Brave
+DuckDuckGo
+Device identifier settings.
+You may also be able to reset
+device identifiers through settings on your mobile device. The procedure for
+managing device identifiers (e.g., IDFA and GAID) is different for each device.
+You can check the specific steps in the help or settings menu of your
+particular device.
+Device advertising settings
+. For users who would like to
+control their choices at the device level on the Grindr app, you can opt-out of
+certain advertising on your device.
+LEARN
+MORE
+Third-party opt-outs.
+You can opt-out from some
+third-party behavioral advertising at the
+Digital
+Advertising Alliance
+Digital
+Advertising Alliance of Canada
+, or
+the European Digital
+Advertising Alliance
+Choices during account creation.
+When
+creating your Grindr account, you may also be presented with consent preference
+screens where you can control if your personal information can be used by
+advertising and marketing partners for purposes of serving you certain
+advertising on or off the Services.
+For
+users in the EEA/UK, Grindr participates in the IAB Europe Transparency &
+Consent Framework ("TCF") and complies with its specifications and
+policies. Grindr currently utilizes Ketch as our consent management platform
+("CMP"). Ketch operates its CMP under the TCF with the CMP ID #340.
+Please note that some of these
+mechanisms are specific to the particular browser or device or apply only when
+you are logged in to your account. You may need to opt out again if you delete
+HOW LONG WE KEEP YOUR PERSONAL INFORMATION
+We retain your personal information for no longer than is
+necessary to fulfill the purposes for which the information was collected or as
+otherwise permitted or pursuant to legal obligations, the Grindr
+Terms and Conditions of
+Service
+and
+Community
+Guidelines
+Retention periods differ depending on criteria such as the sensitivity of the
+personal information, the duration of our relationship with you, or if
+retention is required for legal or security purposes. For example, Grindr
+generally retains data provided by users (such as account registration
+information, profile information, and message content) and data generated from
+users (such as activities of users on the Services) for as long as your account
+is active. We also retain a device identifier (i.e., IDFV and Android ID) and
+limited log information for a period of up to two years following account
+deletion to support internal reporting, metrics, and statistics.
+If you decide to delete your Profile, it will
+no longer be visible to other Grindr users and your personal information will
+generally be deleted within 28 days. In limited circumstances, we may retain
+certain information for purposes including safety, security, fraud prevention,
+and compliance with our legal obligations. For example, Grindr may retain some
+account information, a device identifier (i.e., IDFV and Android ID), and
+limited log information associated with accounts or devices that have been
+banned or found to violate the Grindr
+Terms
+and Conditions of Service
+Community
+Guidelines
+and where relevant, may also retain chat messages used to report and assess the
+violative behavior that resulted in the ban.
+[LEARN
+MORE]
+DATA TRANSFERS
+Grindr is a U.S.-based company
+with no EEA/EU/UK/Swiss establishments at this time.
+When you use the Services, your personal
+information will be processed by Grindr and its service providers in countries
+outside the EEA, UK and Switzerland, including in the United States. The United
+States and other third countries may not afford the same privacy protections as
+your country of residence. We will take steps to ensure that transfers of
+personal information are in accordance with applicable law, carefully managed
+to protect your rights, and are either:
+limited to recipients in countries that are recognized as
+providing an adequate level of protection by the European Commission or under
+UK or Swiss data protection laws (as applicable), including recipients in the
+U.S. that are certified to the EU-U.S. Data Privacy Framework and UK or Swiss Extension;
+governed by agreements that incorporate standard contractual
+clauses approved for the transfer of personal information to recipients in
+third countries by the European Commission or under UK or Swiss data protection
+laws (as applicable)
+YOUR CHOICES AND RIGHTS
+Where your jurisdiction's law provides, you can make the
+following choices and request to exercise the following rights regarding your
+personal information held by Grindr.
+Access & Portability.
+You may request that we provide
+you with confirmation that we process your personal information, a
+machine-readable copy of your personal information (including the categories of
+such personal information), and other information about our data processing
+practices (such as to whom we disclose personal information). For more
+information on how to download your personal information from Grindr, click
+here
+. If you have questions
+regarding your Access & Portability output, reach out to us
+here
+Deletion.
+You may request that we delete the personal information we have
+collected from or about you. You may also delete your profile and related
+information by following the steps outlined
+here
+Correction.
+You may request that we correct your personal information. You
+may also use the “Edit Profile” section of the Services to review and change
+your Profile Information.
+Restrict Processing.
+Under certain circumstances, you may request that we
+limit the way we process your personal information (e.g., through controls
+provided by your device's operating system).
+Withdraw Consent.
+Where we process personal
+information based on your consent, you may withdraw that consent at any time.
+Withdrawing your consent will only apply to future processing activities and
+will not affect the lawfulness of any processing carried out before you withdrew
+your consent. For example, you may be able to withdraw your consent or opt out
+of certain uses of your “sensitive” or “special category” data by going to your
+in-app Settings and then tapping Privacy Settings. Note that if you opt out,
+your data may continue to be processed where permitted under applicable law.
+Object to Processing.
+You may object to us processing your personal
+information, including for relevant AI-related processing of personal
+information,
+here
+Automated decision making.
+Grindr does not use AI for decisions
+that produce legal or similarly significant effects, like those related to
+employment, credit, or housing. Where we do use AI in other ways, you may have
+choices over certain AI-related processing in your app Privacy Settings.
+Advertising.
+For information about how to opt-out or opt-in to the sharing
+of your personal information with our advertising and marketing partners for
+Technologies> above.
+Promotional Emails.
+You can opt out of receiving
+promotional emails, like newsletters, surveys, and offers, by following the
+unsubscribe instructions in emails you receive. If you unsubscribe from
+receiving such promotional emails, we may still send you service-related communications,
+and the Services may continue to deliver you in-app messages.
+The
+easiest way to exercise your rights while protecting your privacy and security
+is by logging into your account to validate that you are the account holder, so
+we can verify your identity associated with your Grindr account. You can also
+make a request outside of your Grindr account by clicking
+here
+, but then we'll require some
+additional information to authenticate your identity associated with your
+account.
+To exercise your choices and
+rights or to make a request outside of your Grindr account, click
+here
+. You may also request to
+exercise these rights by emailing us at
+privacy@grindr.com
+Statistics
+pertaining to Grindr's processing of access, erasure and opt-out requests can
+be found
+here
+HOW WE PROTECT YOUR PERSONAL INFORMATION
+At Grindr, we work hard
+to maintain the integrity, confidentiality, and availability of the
+Services and to protect your personal information. We consistently strive to
+improve our defenses in the ongoing battle against threat actors. That said, no
+method of transmission over the Internet, or method of electronic storage, is
+fully secure, and Grindr cannot guarantee the security of your personal
+information.
+HOW TO CONTACT US OR FILE COMPLAINTS
+Contact Information.
+Grindr welcomes your comments
+personal information. You can contact us or submit a complaint by email at
+privacy@grindr.com
+or by postal mail at: Grindr
+LLC, Attn: Privacy Office, PO Box 69176, West Hollywood, CA 90069.
+POLICY CHANGES
+The latest version of the policy available at
+https://trust.grindr.com/en-US/privacy
+will govern our use of your
+personal information. Grindr may revise this policy from time to time. If
+Grindr determines, in its sole discretion, that the changes we make to this
+policy are material, we will notify you in advance (e.g., within the Services).
+LEGAL BASES FOR PROCESSING
+The
+table below describes all the purposes for which we collect, use, share, and
+otherwise process personal information of our users through the Services, the
+categories of personal information, the lawful basis under which we process
+personal information (where required by law), the source of the personal
+information, and the categories of recipients of personal information.
+Note: Legal bases apply only as required
+under applicable law to individuals in certain jurisdictions such as Brazil,
+EEA/EU, and UK. The legal basis for processing may differ in other
+jurisdictions, such as the US. The processing purposes listed below are
+applicable regardless of your jurisdiction.
+Processing Purpose
+Categories of
+personal information
+Legal Basis
+Data Source
+Shared With
+Provide
+you with the Services associated with your Grindr account
+, which may include:
+Facilitating communications between users of
+the Services, including messages, photos, audio calls, video calls, videos,
+or audio at your request.
+Troubleshooting,
+testing, data analysis, system maintenance, support, reporting, and hosting
+of data to provide the Services.
+Processing
+your location to allow you to use our Services.
+Sending
+service notifications.
+Processing your purchases and transactions.
+Account information,
+such as your email, phone number and password. If you are registering for an
+account through Facebook or Google log-in, those respective credentials will
+be required when utilizing those methods.
+Other information you provide to us, like your location information
+facilitate communications between you and other users of the Services.
+Information we collect automatically, such as device hardware and software
+information (e.g., device make, model, and carrier), user activity data (e.g.,
+user profiles you have viewed, products and services purchased), and
+Information we receive from other sources, such as information about your
+purchases (e.g., from our payments service providers).
+Performance of
+Contract
+Legitimate Interest
+in undertaking processing
+which is necessary to ensure a good service experience but which is not
+necessary to perform the contract.
+You
+Your Device or Browser
+Other
+Partners
+Service
+Providers
+Other
+Partners
+2. Answer your
+inquiries and provide you with support.
+In addition to the
+categories of data mentioned above, we may need to process other personal
+information you provide to usfor the purposes of answering your
+requests (e.g., you may want to disclose some of your messages with other
+users when reporting inappropriate behavior or disclose additional
+information about you to support the report).
+Performance of
+Contract
+Legitimate Interest
+in undertaking processing
+which is necessary to respond to your query or provide support but which is
+not necessary to perform the contract.
+You
+Your Device
+Other
+Partners
+Service Providers
+3. Ensure safety of
+the Services
+(including using
+machine learning/AI), which may include:
+Providing or enhancing our safety and security
+features, including authentication, age assurance, anti-spam, fraud
+protection, brand safety, quality assurance, abuse prevention controls, and
+investigating, preventing, or responding to suspected illicit activities.
+Collecting statistical information about the
+use of the Services and properties
+Identifying,
+blocking, and/or removing illicit content or activity through AI algorithms
+We may need to process
+personal information that you provide directly to us, that we collect
+automatically, or that we collect from other sources.
+Legitimate Interest
+- It is in our interests to analyze the ways
+Users access and use our Services so that we can continually enhance our
+security features and accurately generate and maintain internal user counts
+and metrics.
+Comply with Legal
+Obligations
+for age assurance
+purposes.
+You
+Your Device or Browser
+Other
+Partners
+Service Providers
+Improve our Services
+, which may include:
+Collecti
+on of
+statistical information, data analysis
+and reporting about the use of the Services to identify and fix errors, and
+identify ways in which we can improve the Services;
+Using
+machine learning and AI to provide you with personalization, recommendations,
+and other features of the Services, and to support platform and user safety.
+We may need to process personal information that you provide
+directly to us, that we collect automatically, or that we collect from other
+sources.
+Your
+onsent
+, in relation to personal information we
+receive from your device and any sensitive personal information and message
+content
+- where required under
+applicable law
+Where applicable, you can withdraw
+your consent for
+certain
+AI-related uses of your
+sensitive data by going to your in-app Settings and then tapping Privacy
+Settings.
+Note that if you opt out, your sensitive data may
+continue to be processed where permitted under applicable law.
+Legitimate
+Interest
+. It is in our interests to develop and
+improve our services.
+You
+Your Device or Browser
+Other
+Partners
+Service providers
+5. Protect our
+interests as a company
+for
+different purposes, such as:
+Enforcing the Grindr Terms of Service
+Assessing claims that any content violates the
+rights of third parties
+Answering customer requests
+Protecting the rights, property or personal
+safety of Grindr, its users or the public
+Establishing
+or exercising our legal rights or defending against legal claims
+We may need to process
+personal information that you
+provide directly to us, that we collect automatically, or that we collect
+from other sources.
+Legitimate Interest
+- it is in our interests to protect our legal
+rights, defend legal claims and to protect our Users and third parties from
+harm.
+You
+Your Device or Browser
+Other
+Partners
+Service Providers
+Other Partners
+6. Allow you to
+enjoy and power certain Service features
+such as:
+Enabling you to make any information that you
+choose to provide in your Profile ("About Me") or in your post
+associated with a Right Now session visible and available to other Grindr
+users
+Sending you notifications and reminders based
+on the data you have voluntarily provided to us (e.g., testing reminders)
+Displaying first party ads and presenting
+public service messaging or similar communications based on your personal
+information (e.g., profile information or use of the Grindr Services)
+Facilitating communications between users of
+the Services, including messages, photos, calls, video calls, videos or audio
+at your request, where such communications include special categories of
+data.
+Accessing your camera, photo roll, and
+microphone to allow you to include photos in your public profile, and photos,
+audio, and live video messages in your private and group messages at your
+request.
+Accessing your location to allow you to share
+your current location in your private and group messages at your request.
+Personalizing and customizing your experience
+on the Grindr Services by providing tailored content, recommendations, and
+insights through AI-powered features, such as reconnection reminders,
+behavior-based profile insights, personalized chat prompts or compatibility-based
+profile recommendations.
+We may need to process
+personal information that you provide directly to us, that we collect
+automatically, or that we collect from other sources.
+Consent
+- where required under applicable law.
+Where applicable, you can withdraw your consent
+or opt out of certain AI-related uses of your sensitive data by going to your
+in-app Settings and then tapping Privacy Settings. Note that if you opt out,
+your sensitive data may continue to be processed where permitted under
+applicable law.
+Legitimate Interest
+- it is in our interests to provide and
+improve our services and test new technologies to continually enhance the
+Grindr Services for our users.
+You
+Your Device or Browser
+Other Partners
+Service Providers
+Other
+Partners
+7. Allow
+the Grindr Services for the purposes of serving ads.
+In order to serve ads
+(i.e., displaying ads, personalizing ads, measuring ad performance, etc.), we
+may need to process personal information we collect automatically, such as
+your advertising ID and IP address, as well as
+personal information we
+receive from other sources
+(e.g., consent preferences).
+Consent
+You
+Your Device
+Other
+Partners
+Ad /
+Marketing Partners
+8. Conduct surveys
+or obtain your feedback about our Services.
+We may invite you to
+participate, on a voluntary basis, in surveys about our Services. Such
+surveys allow us, for example, to research your behaviors to improve our
+properties.
+If you choose to participate in surveys, we may need to process personal
+information you provide to us directly,
+including sensitive personal
+information,
+such as your answers to our questions and testimonials.
+Consent
+You
+Your
+Device
+Service Providers
+9. Respond to legal
+requests from law enforcement agencies, regulators, and other third parties
+to comply with legal obligations.
+We may need to process
+personal information that you provide directly to us, that we collect
+automatically, or that we collect from other sources.
+Comply with Legal
+Obligations
+- in response to
+requests from EEA member states the UK or Switzerland in respect of users in
+the applicable country.
+Legitimate Interest
+- it is in our interests to comply with the laws
+to which we are subject other than those described above.
+You
+Your Device
+Other
+Partners
+Requestor related to Legal Obligations
+Controller:
+Grindr LLC
+Controller and Data Protection
+Officer Contact Information:
+PO Box 69176, West Hollywood, CA 90069. You can also submit a
+request to contact Grindr's EEA/UK Data Protection Officer (DPO) through our
+website
+here
+and Grindr's Brazil DPO
+here
+Individuals in the EEA/UK/Switzerland also
+have the right to complain to a supervisory authority
+about our collection and use of your personal information. For more
+information, please contact your local supervisory authority. Contact details
+for supervisory authorities in the EEA, Switzerland and the UK are
+available
+here
+ico.org.uk
+, and
+edoeb.admin.ch
+Under the Data Use and Access Act (DUAA), you
+have the right to contact us with any concerns or requests relating to your
+personal data. To do so, please reach out to us at privacy@grindr.com. While
+you are not required to contact us, we encourage you to get in touch so we can
+address your concerns directly. You also retain the right to escalate any
+unresolved concerns to the Information Commissioner's Office.
+EU Representative -
+Grindr LLC has appointed European Data Protection
+Office (EDPO) as its General Data Protection Regulation (GDPR) Representative
+in the EU. You can contact EDPO regarding matters pertaining to the GDPR by
+using EDPO’s online request form (
+https://edpo.com/gdpr-data-request/
+) or by writing to EDPO at Avenue Huart Hamoir
+71, 1030 Brussels, Belgium.
+UK Representative -
+Grindr LLC has appointed EDPO UK Ltd as its UK GDPR
+representative in the UK. You can contact EDPO UK regarding matters pertaining
+to the UK GDPR by using EDPO’s online request form (
+https://edpo.com/uk-gdpr-data-request/
+) or by writing to EDPO UK Ltd at Unit 33,
+Waterside, Schooner Court, 44-48 Wharf Road, London, N1 7UX, United Kingdom.
+Swiss Representative -
+Grindr LLC has appointed EDPO Switzerland as
+its Representative in Switzerland. You can contact EDPO Switzerland regarding
+matters pertaining to the Swiss Federal Act on Data Protection (FADP) by using
+EDPO Switzerland's online request form (
+https://edpo.com/swiss-data-request/
+) or by writing to EDPO Switzerland at Rue de
+Lausanne 37, 1201 Geneva, Switzerland.
+Please ensure your request is addressed to
+EDPO and not Grindr LLC. Please
+do not
+use this for general support
+inquiries. General support inquiries can be submitted
+here
+or via the support link within the App.
+YOUR U.S. STATE PRIVACY RIGHTS
+If you are a resident of the U.S., and depending on the state in
+which you reside, you may be entitled to other rights in addition to those
+described above, such as the right to:
+Opt out of “sale/sharing” or processing for targeted
+advertising:
+You
+may have the right to opt out of the sale/sharing (as those terms are defined
+under applicable law) or processing of your personal information for purposes
+of serving you ads based on your activity across other services (“targeted
+advertising”). You may exercise this right
+here
+by clicking the “Do Not Sell or
+Share My Personal Information” link in the footer of our site and choosing
+“Opt-out / Do not sell or share my personal info” from the relevant drop-down
+menu, or by adjusting the sharing controls via the in-app Consent Preference
+Center (accessible from Settings within the App). Please note that each of
+these mechanisms apply only to the browser or device where you opt out, except
+where you are logged into your account. Depending on your jurisdiction, we also
+honor the
+Global
+Privacy Control
+("GPC"), a universal
+opt-out preference signal that communicates your privacy preferences to the
+website you visit. Some of these choices apply only to the website and device
+you used to exercise the choice, so you may need to opt out on each browser and
+device you use to access the Services. Only adults may use Grindr, so Grindr
+does not sell, share, or process for targeted advertising purposes the personal
+information of consumers it knows are minors.
+Appeals.
+You may be able to appeal a
+decision made regarding your privacy request by submitting a request
+here
+. In the event we deny your
+appeal, we will provide a written explanation of the decision, and instructions
+on how to contact your local Attorney General, or relevant
+authority, for further review where permitted
+under certain U.S. state privacy laws.
+No retaliation:
+You may have the right to not
+be retaliated against for exercising any of your rights.
+Authorized agents.
+You may have the right to make a
+request through an authorized agent. If you are an authorized agent for an
+individual who resides in a state that allows requests through an authorized
+agent, please click
+here
+to submit a request and
+attach a written permission form signed by the individual that you represent,
+authorizing you to serve as the individual's agent.
+To verify your identity, we may require
+you to confirm receipt of an email to the email address that matches our
+records, provide us with details relating to your history with us, or provide
+us with some additional information to authenticate your identity
+If we cannot verify your identity, we may deny your
+request in accordance with applicable law.
+Your
+rights are subject to exceptions, and, to the extent permitted by law, requests
+must be exercised through the applicable designated method specified herein.
+Additional California Disclosures
+Do Not Track.
+Some web browser settings may
+allow you to automatically transmit a "Do Not Track" signal to online
+services you visit. Note, however, there is no consensus as to what "Do
+Not Track" means in this context. Like many online services, Grindr
+currently does not recognize automated browser signals regarding tracking
+mechanisms, which may include "Do Not Track" instructions.
+Metrics Report.
+In accordance with California law, we
+have prepared a report of the status of privacy requests for the previous year.
+See
+Privacy
+Rights Requests

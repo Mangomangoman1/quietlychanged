@@ -1,0 +1,90 @@
+[
+ {
+  "service": "Stripe",
+  "page": "privacy",
+  "headline": "Stripe's rewritten privacy policy is now in force: AI voice agents, data to your card's bank, AI-agent payments",
+  "tldr": "The Stripe Privacy Policy we previewed on Nov 3 is now the live version, dated Nov 20. It covers AI voice-agent calls, data sent to your card's bank and payments made by AI agents.",
+  "impact": 1,
+  "effective": "2026-11-20",
+  "deadline": "Took effect",
+  "themes": [
+   "ai-and-your-data"
+  ],
+  "url": "https://stripe.com/privacy",
+  "who": "Anyone who has paid through a Stripe-powered checkout or has a Link account, plus businesses and sales leads Stripe contacts",
+  "seo_title": "Stripe privacy policy took effect Nov 20, 2026: AI voice agents, card-issuer data sharing, agentic payments",
+  "seo_desc": "Stripe's rewritten Privacy Policy is live, last updated November 20, 2026: AI voice agents and transcripts, fraud signals sent to your card-issuing bank, a new Agentic Payments section and Link moved to its own policy.",
+  "redline": [
+   {
+    "before": "This Privacy Policy will be updated on <DATE>. Please review the upcoming changes",
+    "after": "",
+    "label": "Privacy Policy · Top-of-page notice",
+    "note": "The advance notice is gone; the new text is the policy in force.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "Stripe offers services that allow you to authorize an AI agent, AI platform, or other automated software program (“agent operator”) to initiate purchases and payments on your behalf within the scope of the authorization you provide (\"agentic payments\").",
+    "label": "Privacy Policy · End Users · Agentic Payments",
+    "note": "A new section for purchases an AI agent makes for you.",
+    "src": "raw"
+   },
+   {
+    "before": "As a Representative, we may collect your Personal Data from third parties, including data providers, to advertise, market, and communicate with you",
+    "after": "As a Representative, we may collect your Personal Data from third parties, including data providers and enrichment services, to supplement your profile and ensure the accuracy of the information we hold, as well as to advertise, market, and communicate with you",
+    "label": "Privacy Policy · Representatives · Registration and contact information",
+    "note": "Business contacts' profiles can now be filled in from enrichment services.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If a Stripe call is recorded and you object, opt out when prompted at the start of the call.",
+   "Link users: review agent authorizations and data-sharing settings in your Link account settings.",
+   "Turn on Global Privacy Control in your browser, and re-send it if you clear cookies."
+  ],
+  "what": "The rewritten Stripe Privacy Policy we covered on November 3 is now the live version. Our November 20 snapshot of stripe.com/privacy still opened with \"This Privacy Policy will be updated on November 20, 2026. Please review the upcoming changes here\"; by November 21 that notice was gone and the page reads \"Last updated: November 20, 2026\" above the new text.\n\nThe live policy carries the changes we reported from the preview. It says Stripe \"may leverage automated dialing systems and AI technologies, such as AI-powered voice agents and AI transcription, chat, and email tools, to initiate and conduct communications with you for operational, support, sales, marketing, and lead qualification purposes.\" During payment authorization Stripe \"may also share fraud risk signals—including Stripe's risk assessment, and your IP address, email address, phone number, and shipping address—with your card-issuing bank.\" Stripe's fraud tools \"may collect device and behavioral signals at the time of account registration and login on platforms that have enabled Stripe's risk API services.\" The Global Privacy Control section now applies \"for the device and associated browser that transmits the signal.\"\n\nOther changes: the old Link section is replaced by a Financial Connections section and a new \"Agentic Payments\" section: \"Stripe offers services that allow you to authorize an AI agent, AI platform, or other automated software program (“agent operator”) to initiate purchases and payments on your behalf.\" Stripe \"may share your payment credential and/or the associated token, and relevant transaction data, with the agent operator, merchant, payment networks, financial institutions\" and others, and \"For Link connected agents, you can view, modify, and revoke the scope of agent authorizations at any time through your Link account settings.\" Link itself is now covered by a separate Link Privacy Policy. For business contacts, a new \"Business Lead and Prospect Information\" paragraph says Stripe \"may collect information about you and your business from third-party enrichment services and publicly available sources,\" including \"your organization’s current payment service and billing providers.\" A new \"Stripe profile\" lets businesses be \"discoverable to other merchants on Stripe.\"\n\nWhat you can do: say so at the start of a Stripe call if you don't want it recorded, review agent authorizations and data-sharing settings in your Link account, and turn on Global Privacy Control in your browser (re-send it after clearing cookies).",
+  "sources": [
+   [
+    "Stripe Privacy Policy (last updated November 20, 2026)",
+    "https://stripe.com/privacy"
+   ],
+   [
+    "QuietlyChanged, Nov 3: Stripe's Nov 20 privacy rewrite",
+    "https://quietlychanged.com/changes/2026-11-03-stripe-stripe-s-nov-20-privacy-rewrite-ai-voice-agents-your-data-to-your-bank-a/"
+   ]
+  ],
+  "modified": "2026-11-21"
+ },
+ {
+  "service": "Dropbox",
+  "page": "pricing",
+  "headline": "Dropbox's team plans now list 'AI in Dropbox' with 250 AI credits per person a month",
+  "tldr": "Dropbox's plans page now lists \"AI in Dropbox\" on Standard ($15/user) and Advanced ($24/user), with a stated allowance of 250 AI credits per person, per month.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://www.dropbox.com/plans",
+  "who": "Dropbox Standard and Advanced team customers and anyone comparing Dropbox plans",
+  "redline": [
+   {
+    "before": "",
+    "after": "AI in Dropbox Organize and rename files in bulk Transform existing content into new work Approve AI actions and undo changes Get answers grounded in your files 250 AI credits per person, per month",
+    "label": "Plans · Standard and Advanced",
+    "note": "The first time the plans page puts a number on AI use.",
+    "src": "raw"
+   },
+   {
+    "before": "Integrate with leading AI tools",
+    "after": "Work with your files in AI tools",
+    "label": "Plans · Plus, Standard and Advanced",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you rely on Dropbox's AI features, check how many AI credits you use each month against the 250-per-person allowance."
+  ],
+  "what": "Dropbox's plans page added an \"AI in Dropbox\" block to its Standard ($15 per user per month) and Advanced ($24 per user per month) cards: \"Organize and rename files in bulk\", \"Transform existing content into new work\", \"Approve AI actions and undo changes\", \"Get answers grounded in your files\" and \"250 AI credits per person, per month\". Our snapshots of the page had never shown an AI credit allowance before.\n\nOther changes: the Standard plan now has its own card marked \"Recommended\", showing \"Starts at 3 TB for the team\", \"180 days to restore deleted files\" and transfers up to 100 GB. \"Integrate with leading AI tools\" became \"Work with your files in AI tools\", and \"Stay connected across all devices\" became \"Access from anywhere\" and \"Sync files across unlimited devices\". The \"New AI features\" tags were removed. What stays the same: Plus at $9.99 a month with 2 TB and 30-day restore, Advanced starting at 15 TB with 1-year restore. The page doesn't say what a credit buys or what happens after 250.",
+  "modified": "2026-11-21"
+ }
+]

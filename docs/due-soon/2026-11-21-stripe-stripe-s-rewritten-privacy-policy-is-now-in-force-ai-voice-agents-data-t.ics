@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stripe · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-21-stripe-stripe-s-rewritten-privacy-policy-is-now-in-force-ai
+ -voice-agents-data-t@quietlychanged.com
+DTSTAMP:20261121T131946Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Stripe: Took effect
+DESCRIPTION:The Stripe Privacy Policy we previewed on Nov 3 is now the liv
+ e version\, dated Nov 20. It covers AI voice-agent calls\, data sent to y
+ our card's bank and payments made by AI agents.\n\nhttps://quietlychanged
+ .com/changes/2026-11-21-stripe-stripe-s-rewritten-privacy-policy-is-now-i
+ n-force-ai-voice-agents-data-t/
+URL:https://quietlychanged.com/changes/2026-11-21-stripe-stripe-s-rewritte
+ n-privacy-policy-is-now-in-force-ai-voice-agents-data-t/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Stripe — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR
