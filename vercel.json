@@ -16,21 +16,6 @@
       "statusCode": 301
     },
     {
-      "source": "/services/bitwarden",
-      "destination": "/services.html#bitwarden",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/bitwarden/",
-      "destination": "/services.html#bitwarden",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/bitwarden/index.html",
-      "destination": "/services.html#bitwarden",
-      "statusCode": 301
-    },
-    {
       "source": "/services/calendly",
       "destination": "/services.html#calendly",
       "statusCode": 301
