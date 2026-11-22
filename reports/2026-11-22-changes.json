@@ -1,0 +1,52 @@
+[
+ {
+  "service": "Bitwarden",
+  "page": "pricing",
+  "headline": "Bitwarden renames Collections to 'shared folders' and lets Premium and Families send any vault item by link",
+  "tldr": "Bitwarden's pricing page now says \"shared folders\" and \"shared vault\" instead of collections and organizations, and Send now covers \"Text, files, and vault items\" on Premium and Families.",
+  "impact": 1,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://bitwarden.com/pricing/",
+  "who": "Bitwarden Premium and Families users, and anyone comparing password managers",
+  "redline": [
+   {
+    "before": "Unlimited sharing Unlimited collections Organization storage",
+    "after": "Unlimited sharing Unlimited shared folders Organization storage",
+    "label": "Pricing \u00b7 Families plan",
+    "note": "Same feature, new name: Bitwarden says shared folders work the same as collections did.",
+    "src": "raw"
+   },
+   {
+    "before": "Text and files",
+    "after": "Text, files, and vault items",
+    "label": "Pricing \u00b7 Bitwarden Send, Premium and Families",
+    "note": "Send, which shares with anyone, even non-users, now covers whole vault items, not just text and files.",
+    "src": "raw"
+   },
+   {
+    "before": "Create an Organization and invite users for secure sharing.",
+    "after": "Create a shared vault and invite users for secure sharing.",
+    "label": "Pricing \u00b7 Sharing vault items with other users",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If your notes, scripts or onboarding docs say \"collections\" or \"organization vault\", update them to \"shared folders\" and \"shared vault\".",
+   "Before sharing a password by Send link, set an expiration and view limit and require email verification for the recipient."
+  ],
+  "what": "Bitwarden's pricing page changed its sharing vocabulary. The Families plan now lists \"Unlimited shared folders\" where it said \"Unlimited collections\", and the sharing row now reads \"Create a shared vault and invite users for secure sharing.\" instead of \"Create an Organization and invite users for secure sharing.\" The Bitwarden Send row (\"Transmit data securely to anyone, even non-users, with end-to-end encryption.\") now lists \"Text, files, and vault items\" for both Premium and Families, where it said \"Text and files\".\n\nWhat it replaces: Bitwarden's November 19, 2026 design update says \"collections are now shared folders, and the organization vault is now referred to as the shared vault\", and that shared folders work the same as before. Its November 2026 business update describes the new item sharing: a vault item can be shared with anyone through a link built on Bitwarden Send, end-to-end encrypted, with timed deletion and view limits, and requiring email verification of recipients.\n\nWhat stays the same: Premium is still $1.65 a month billed annually at $19.80, Families $3.99 a month for up to 6 users billed annually at $47.88. The new apps roll out gradually to cloud users over the next few weeks; self-hosted users get them in a future server release.",
+  "sources": [
+   [
+    "Bitwarden: A fresh look for Bitwarden (Nov 19, 2026)",
+    "https://bitwarden.com/en-gb/blog/2026-design-update/"
+   ],
+   [
+    "Bitwarden: November 2026 product update for Business plans",
+    "https://bitwarden.com/blog/november-2026-product-update-for-bitwarden-business-plans/"
+   ]
+  ],
+  "modified": "2026-11-22"
+ }
+]

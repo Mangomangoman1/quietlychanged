@@ -734,5 +734,41 @@
    "note",
    "Single pass 172 ok / 5 failed. No working replacement URL found for PayPal/Roblox/Shein (alternates tried Nov 20)."
   ]
+ ],
+ "flaky_2026-11-22": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403 continues (since Nov 10); kept"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403 continues (since Nov 10); kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; kept. Slug-less URL /hc/en-us/articles/115004647846 returned 200 once then 403 on 6 retries (not a reliable swap)"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars) continues; kept. us.shein.com still 49 chars (bot wall)"
+  ],
+  [
+   "Calm",
+   "terms",
+   "https://www.calm.com/terms",
+   "HTTP 403 to the Chrome/128 UA for the 2nd day; plain 'Mozilla/5.0' UA got 200, text identical to Nov 21, saved as Nov 22 snapshot. Fixed: tracker.py fetch() now retries any 403 once with a plain 'Mozilla/5.0' UA."
+  ],
+  [
+   "note",
+   "Single pass 173 ok / 5 failed (4 after the Calm retry). No working replacement for PayPal/Roblox/Shein."
+  ]
  ]
 }

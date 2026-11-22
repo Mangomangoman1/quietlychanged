@@ -43,6 +43,8 @@ def fetch(job):
     svc, kind, url = job
     try:
         r = requests.get(url, headers=UA, timeout=25)
+        if r.status_code == 403:  # some sites (e.g. Calm terms, Nov 21-22) 403 the Chrome UA but serve a plain one
+            r = requests.get(url, headers={**UA, "User-Agent": "Mozilla/5.0"}, timeout=25)
         if r.status_code != 200: return job, None, f"HTTP {r.status_code}"
         is_pdf = "pdf" in r.headers.get("content-type","") or r.content[:5] == b"%PDF-"
         txt = extract_pdf(r.content) if is_pdf else extract(r.text)
