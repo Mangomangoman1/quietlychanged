@@ -25,6 +25,9 @@
  "YouTube": {
   "terms": "https://www.youtube.com/t/terms"
  },
+ "YouTube TV": {
+  "pricing": "https://tv.youtube.com/learn/explore-plans/"
+ },
  "Google": {
   "terms": "https://policies.google.com/terms?hl=en",
   "privacy": "https://policies.google.com/privacy?hl=en"

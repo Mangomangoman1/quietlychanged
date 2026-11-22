@@ -1,0 +1,134 @@
+Watching local channels with Sling TV | Sling TV Help
+Sling TV Help Center
+","size":"small","subHeading":"
+","altImg":"Sling Help Center","backgroundColor":"#001e60","contentImgAlt":"Sling TV Help Center","objectFit":"cover","objectPosition":"center","applyGradient":true,"gradientType":"custom","ctaAnalyticsParent":"Banner","ctaAnalyticsTarget":"cart-account","ctaAnalyticsComponent":"link","offerDetailsContent":" Monthly Offer Details
+Updated April 13, 2026
+Billing
+Your credit card will be charged monthly for applicable subscription until you cancel your service.
+Cancellation
+Cancel on Sling.com
+or visit our Help Center
+to contact us. Programming fees are charged monthly in advance and no credits or refunds will be issued for partial or prepaid months after cancellation.
+Streaming limitations
+The number of devices on which Sling content can be watched at the same time varies based on the Sling service. If you subscribe to our Sling Latino core services, you can enjoy three streams at a time. If you subscribe to our Sling International core services, you can enjoy three streams at a time. If you subscribe to our Sling Orange service, you can enjoy one stream at a time. Any extras you add to your Sling Orange service will be included in your single stream. If you subscribe to our Sling Blue service, you can enjoy up to three streams of these channels at the same time. Any extras you add to your Sling Blue service will be included in your three streams. If you subscribe to both services in Sling Orange + Sling Blue, you can enjoy up to four streams at the same time. Because you are purchasing two separate services in Sling Orange + Sling Blue, you can get the total number of streams included on each separate service—one stream for any channel on the single-stream Sling Orange service and three streams for channels on the multi-stream Sling Blue service. If you subscribe to our Sling Essentials service, you can enjoy one stream at a time. Any extras you add to your Sling Essentials service will be included in your single stream. If you subscribe to our Sling Select service, you can enjoy up to three streams of these channels at the same time. Any extras you add to your Sling Select service will be included in your three streams. If you subscribe to both services in Sling Essentials + Sling Select, you can enjoy up to four streams at the same time. Because you are purchasing two separate services in Sling Essentials + Sling Select, you can get the total number of streams included on each separate service—one stream for any channel on the single-stream Sling Essentials service and three streams for channels on the multi-stream Sling Select service.
+Miscellaneous
+Certain programs may be unavailable due to programmer restrictions or blackouts. Only available within the United States. State and local taxes apply. All prices, fees, charges, services, programming, features, functionality and offers subject to change without notice.
+Channels Offered in Select Markets
+Some local channels including ABC, FOX and NBC are only available in select markets. See which local channels are available in your area here
+.
+","themeName":"dark","minHeightRequired":false,"ctaType":"link"}">
+Watching local channels on Sling
+","sectionId":null,"testId":null}">
+Sling Blue
+, Sling Select
+, Sling Essentials & Select
+, and Sling Orange & Blue
+include live streaming of some local channels, but access depends on where you live.
+Local channels are not included with Sling Orange.
+Enter your ZIP below to see which local channels are available
+FOX DMA(s)
+FOX DMA
+CHANNEL CALL SIGN
+Atlanta
+WAGA
+Austin
+KTBC
+Chicago
+WFLD
+Dallas/Fort Worth
+KDFW
+Detroit
+WJBK
+Gainesville
+WOGX
+Houston
+KRIV
+Los Angeles
+KTTV
+Milwaukee
+WITI
+Minneapolis/St. Paul
+KMSP
+New York
+WNYW
+Orlando/Daytona/Melbourne
+WOFL
+Philadelphia
+WTXF
+Phoenix
+KSAZ
+San Francisco/Oakland/San Jose
+KTVU
+Seattle
+KCPQ
+Tampa/St. Petersburg
+WTVT
+Washington, DC
+WTTG
+Local programming is not available with Sling in your area
+","localsFoundText":" Local programming available with Sling in your area:
+","highlightLocalWarningMessage":null,"highlightLocalSuccessMessage":" FOX is available with Sling in your area
+","localChannelCallSignForMessageDisplay":null,"showMessageForHighlightChannelAvailable":true,"showMessageForNoHighlightChannelAvailable":true,"localsNotAvailableMessageType":"information","localsAvailableMessageType":"information","invalidZipText":"Invalid ZIP Code"}">
+Missing local channels?
+If you’re not able to see the local channels that are listed for your zip code, try:
+In your Sling app, visit Settings
+then select Location
+Select Current location
+then follow the instructions on screen to confirm or update your location.
+If you don’t see the option to edit your location, you can try restarting your router.
+Get local channels for free with an Over the Air antenna
+Using an over the air (OTA) antenna, most people can watch live local channels on their TV for free.
+Adding an OTA antenna can help you add local channels to Sling for free no matter what your base plan is.
+Before you buy an OTA antenna, confirm that the signal in your area is strong enough.
+Check if an OTA will work in your area.
+You can find OTA antennas at any big box store or major online retailer.
+You'll complete the OTA setup through your TV's settings.
+LG and Vizio TV's made in 2020 or later can use an OTA antenna to add local channels directly to your Sling guide.
+Any local channels available by OTA antenna in your area, including channels not available with any Sling subscription, will show up in your Sling guide.
+Learn how to watch local channels for free on LG TV's:
+&amp;amp;amp;amp;amp;amp;nbsp;
+Please note:
+For some customers, local channels won't automatically show up in your Sling guide, but you can change the input of your TV to find them outside of Sling. On other
+devices local channels won't be available in your Sling guide.
+Frequently asked questions
+Why don't I see local channels in my Sling guide?
+The local channels available on Sling vary by location. Depending on where you live, you may have limited access to local channels through Sling.
+Most people can get access to live local programming for free using an over-the-air antenna.
+What if I need help installing an indoor OTA antenna?
+If you need help installing an indoor OTA antenna, you can schedule an appointment with OnTech services
+. They will send a technician to install and teach you how to use your antenna.
+My area doesn't receive strong OTA signal, what now?
+For some customers, an outdoor antenna can improve signal enough to receive local channels.
+You can get help installing and learning to use an outdoor antenna with our OnTech service.
+Where can I find local channels in my guide?
+If local channels are included with your Sling plan
+you'll see a Locals tab in your guide, and local programming will be integrated across your Sling experience.
+If you’re using an OTA antenna with a 2020 or newer LG or Vizio TV
+, local channels will be integrated into your Sling guide on that device.
+If you've used an OTA antenna to add local channels
+and aren't seeing them in your Sling guide, try switching your TV to a different input.
+If you’re watching from a mobile device or location away from home
+, channels may vary.
+Why can't I record local channels?
+Sling subscribers can record local channels that come with their Sling subscription, but not those channels that are added to your guide using an OTA antenna.
+Use the chart above to see which channels are included with Sling in your area - those channels can be recorded!
+Why don't I see all my local channels on my mobile device?
+Channels you're getting by over the air antenna will only appear on the device that's directly connected to the antenna.
+Not finding what you're after?
+Our Chatbot
+can solve many problems 24/7
+. Click the Chat
+icon on your screen to begin.
+Visit our Troubleshooting & Technical Issues
+page to find answers to FAQs and solutions to common problems.
+For even more comprehensive viewing guides and sports schedules head over to sling.com/whatson
+Was this article helpful?
+","confirmationText":" Thanks for your feedback!
+","ctaText":"Submit","verticalCheckBox":true,"surveyType":"generic-survey","options":[{"label":"Yes","value":"help-feedback-yes"},{"label":"No","value":"help-feedback-no"}]}">
+Terms of Use
+"},{"legalLink":" Privacy Notice
+"},{"legalLink":" Your Privacy Choices
+"},{"legalLink":" Legal Notices
+"},{"legalLink":" Do Not Contact
+"},{"legalLink":" Vulnerability Disclosure
+"}],"copyrightText":"© 2026 Sling TV L.L.C.","xtwitterLink":"https://x.com/sling","xtwitterAria":"Sling TV on X","instagramLink":"https://bit.ly/3GFcO9E","instagramAria":"Sling TV on Instagram","facebookLink":"https://bit.ly/3QuSeP1","facebookAria":"Sling TV on Facebook","youtubeLink":"https://www.youtube.com/user/slingtelevision","youtubeAria":"Sling TV on YouTube"}">

@@ -1,0 +1,11 @@
+404 Not Found
+404 Not Found
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: stream/plans/index.html
+RequestId: PS632XD0DPYZXBGS
+HostId: b96aGn1xpBMsS9LgtaVEz7qHe/P7NR25xGMWE/zZINFsrBLlBta6FzmyYVbClMd1IKcgNYpwiJkXiCtOvo/739UznP/mUPWm
+An Error Occurred While Attempting to Retrieve a Custom Error Document
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: index.html
