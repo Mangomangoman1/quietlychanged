@@ -3,7 +3,7 @@
  "desc": "HBO Max costs $10.99 a month with ads, $18.49 for Standard and $22.99 for Premium (US, Nov 2026). Plans, yearly prices and every increase since 2020.",
  "dek": "Short answer: HBO Max has three US plans as of our November 5, 2026 check: Basic with Ads at $10.99 a month, Standard at $18.49 and Premium at $22.99. All three went up on October 21, 2025, and Standard has risen three times since HBO Max launched at $14.99 in May 2020.",
  "published": "2026-11-05",
- "modified": "2026-11-05",
+ "modified": "2026-11-23",
  "services": [
   "HBO Max"
  ],
@@ -24,6 +24,9 @@
   },
   {
    "p": "HBO Max labels each yearly price \"(16% savings).\" The page also mentions a Disney+, Hulu, HBO Max Bundle at \"a discounted price\" but gives no price for it on that page, so check the bundle's own page if you are interested. On Disney's own site the bundle was $21.99 a month with ads and $34.99 without when we checked on November 21, 2026; see our [Disney+ price guide](../disney-plus-plans-and-prices-2026-every-price-increase/) for every Disney+ bundle price."
+  },
+  {
+   "p": "**Black Friday 2026:** from November 23 through November 30, HBO Max's site offers new and returning customers Basic With Ads at \"$5.49 per month (plus applicable taxes) for the first 12 months\", then the regular $10.99. Switching plans during the discount ends it. Details and every other verified subscription deal: [Subscription Black Friday deals 2026](../subscription-black-friday-deals-2026-when-prices-go-back-up/)."
   },
   {
    "h": "What each HBO Max plan includes"
@@ -223,6 +226,10 @@
   [
    "TheStreet: HBO Max, Paramount+ subscribers after the merger (HBO Max FAQ: no immediate pricing changes)",
    "https://www.thestreet.com/latest-news/hbo-max-paramount-merger-streaming-subscription-prices"
+  ],
+  [
+   "HBO Max: Black Friday 2026 terms (checked Nov 23, 2026)",
+   "https://www.hbomax.com/a/black-friday-2026-terms"
   ]
  ]
 }

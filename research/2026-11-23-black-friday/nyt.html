@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html  class=" tpl-always-light"  xmlns:og="http://opengraphprotocol.org/schema/">
+  <head>
+    
+    
+    <meta charset="utf-8" />
+    <title data-rh="true"></title>
+    
+    
+    
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="fb:app_id" content="9869919170" />
+<meta name="twitter:site" content="@nytimes" />
+<meta name="slack-app-id" content="A0121HXPPTQ" />
+    
+<meta name="color-scheme" content="light" />
+
+    <script>(function sentryLoader(sampleRate) {
+	if (new URL(window.location).searchParams.get("sentryOverride") || Math.floor(Math.random() * 100) <= sampleRate) {
+		const script = document.createElement("script");
+		script.src = "https://js.sentry-cdn.com/7bc8bccf5c254286a99b11c68f6bf4ce.min.js";
+		script.crossOrigin = "anonymous";
+		script.async = true;
+		document.head.appendChild(script);
+	}
+})(1);</script><script>(function sentrySetup({ release, env, routeName }) {
+	const webviewEnvironment = window.vi && window.vi.webviewEnvironment || {};
+	const { isPreloaded = false } = webviewEnvironment;
+	const isIOS = webviewEnvironment.deviceType === "IOS";
+	if (window.Sentry) {
+		const MAX_BREADCRUMS = 70;
+		let ignoreErrors = [
+			"2mdn",
+			"ads-us",
+			"amazon-adsystem",
+			"amp4ads",
+			"ampproject",
+			"bk_addPageCtx",
+			"boomerang",
+			"BOOMR",
+			"cb is not a function",
+			"chartbeat",
+			"google_tag_manager",
+			"gsi",
+			"gtm",
+			"prebid",
+			"pubads",
+			"scorecardresearch",
+			"setConfig is not a function",
+			"webkitExitFullScreen",
+			"yimg",
+			"reading 'campaign'",
+			"Object.fromEntries is not a function",
+			"Message Selection Error. status=499"
+		];
+		if (isPreloaded) ignoreErrors = ignoreErrors.concat([
+			"Failed to fetch",
+			"Load failed",
+			"Something went wrong",
+			"Unexpected EOF",
+			"The request is not allowed by the user agent",
+			"scrollIntoView",
+			"No weather-bot homepage data available",
+			"UnhandledRejection: Non-Error promise rejection captured with value: false",
+			"VHS is currently showing this error message on-screen.",
+			"useMessageSelection",
+			"messageComponentLibrary"
+		]);
+		const allowUrls = [/^https?:\/\/(vi-pr-.*|www|vi|local|alpha|alpha-preview|static01)\.(stg\.|dev\.)?(nytimes\.com|nyt\.net)/];
+		function sentryOnload() {
+			window.Sentry.init({
+				maxBreadcrumbs: MAX_BREADCRUMS,
+				release,
+				environment: env,
+				allowUrls,
+				ignoreErrors,
+				beforeSend(event, hint) {
+					const error = hint.originalException;
+					if (error && error.stack && error.stack.includes("datadog-rum")) return null;
+					return event;
+				},
+				initialScope: (scope) => {
+					scope.setTags({ "nyt.route": routeName });
+					const id = /nyt-a=(.*?)(;|$)/.exec(document.cookie);
+					if (id !== null) scope.setUser({ id: id[1] });
+					try {
+						if (isPreloaded) {
+							const { eventId = "", uri = "", url = "", sourceType = "", sourceId = "" } = window.asset || {};
+							if (eventId) scope.setTag("eventId", eventId);
+							if (uri) scope.setTag("uri", uri);
+							if (url) scope.setTag("url", url);
+							if (sourceType) scope.setTag("sourceType", sourceType);
+							if (sourceId) scope.setTag("sourceId", sourceId);
+							scope.setExtra("visibilityState", document.visibilityState);
+							if (window?.performance?.timeOrigin) scope.setExtra("timeOrigin", window.performance.timeOrigin);
+							scope.setTag("type", "preloaded-webview");
+						} else scope.setTag("type", "browser");
+						const configureConfigScope = () => {
+							const { AppVersion = "", ConnectionStatus = 3, LoggedIn = false, Subscriber = false } = window.config || {};
+							scope?.setTag("AppVersion", AppVersion);
+							scope?.setTag("ConnectionStatus", ConnectionStatus);
+							scope?.setTag("LoggedIn", LoggedIn);
+							scope?.setTag("Subscriber", Subscriber);
+						};
+						if (isIOS) window.addEventListener("initWebview:ios", configureConfigScope);
+						else configureConfigScope();
+					} catch (err) {
+						console.error(err);
+					}
+					return scope;
+				},
+				replaysSessionSampleRate: 0,
+				replaysOnErrorSampleRate: .01,
+				integrations: [window.Sentry.browserTracingIntegration({
+					enableInp: true,
+					instrumentNavigation: false,
+					instrumentPageLoad: false
+				})]
+			});
+			const client = window.Sentry.getClient();
+			const attributes = {};
+			attributes[window.Sentry.SEMANTIC_ATTRIBUTE_SENTRY_SOURCE] = "url";
+			window.Sentry.startBrowserTracingPageLoadSpan(client, {
+				name: routeName,
+				attributes
+			});
+		}
+		window.Sentry.onLoad(sentryOnload);
+		if (window.__isUnitTestEnv) window.__testSentryOnload = sentryOnload;
+	}
+})({"release":"40f6af981c04eecd6fe7691decd737ab75368447","env":"prd","routeName":"subscription-all-access","allowUrls":[{}]});</script>
+    
+    <script>
+      
+      (function ddLoader() {
+	(function(h, o, u, n, d) {
+		h = h[d] = h[d] || {
+			q: [],
+			onReady(c) {
+				h.q.push(c);
+			}
+		};
+		d = o.createElement(u);
+		d.async = 1;
+		d.src = n;
+		n = o.getElementsByTagName(u)[0];
+		n.parentNode.insertBefore(d, n);
+	})(window, document, "script", "https://www.datadoghq-browser-agent.com/us1/v7/datadog-rum.js", "DD_RUM");
+})();
+      (function ddSetup(params) {
+	const { service, env: rawEnv, version, sessionSampleRate, deploymentId, routeName, tenant, renderStack = "legacy" } = params;
+	function normalizeEnv(value) {
+		const aliases = {
+			prod: "prd",
+			production: "prd",
+			stage: "stg",
+			staging: "stg"
+		};
+		const key = String(value || "").toLowerCase();
+		return aliases[key] || key;
+	}
+	const env = normalizeEnv(rawEnv);
+	const billingEnv = env === "pr" ? "dev" : env;
+	/**
+	* Validates if a user ID is a real user ID and not a placeholder/default value
+	* @param {string} userId - The user ID to validate
+	* @return {boolean} - True if the user ID is valid, false if it's a placeholder
+	*/
+	function isValidUserId(userId) {
+		if (!userId || typeof userId !== "string") return false;
+		return ![/^00000000-0000-0000-0000-000000000000$/, /^0000-0000$/].some((pattern) => pattern.test(userId));
+	}
+	function isAndroid() {
+		if (window.config && window.config.OS) return window.config.OS.toUpperCase() === "ANDROID";
+		return false;
+	}
+	function isBotUserAgent() {
+		const ua = (navigator.userAgent || "").toLowerCase();
+		return /(ads|google|bing|msn|yandex|baidu|ro|career|)(bot|-inspectiontool|other)|(baidu|jike|symantec)spider|scanner|(web)crawler|mediapartners-google|facebookexternalhit|meta-externalads/i.test(ua);
+	}
+	const THIRD_PARTY_ERROR_STACK = /chartbeat\.com|doubleclick\.net|googlesyndication\.com|google-analytics\.com|googletagmanager\.com|googletagservices\.com|adservice\.google|scorecardresearch\.com|moatads\.com|amazon-adsystem\.com|permutive\.(?:app|com)|taboola\.com|criteo\.(?:com|net)|(?:moz|chrome|safari|safari-web)-extension:\/\/|\binjectedScript\b/i;
+	const THIRD_PARTY_ERROR_MESSAGE = /Object Not Found Matching Id:\d+, ?MethodName:\w+, ?ParamCount:\d+|Could not load Google Tag Manager|Can't find variable: _AutofillCallbackHandler|window\.webkit\.messageHandlers|^Uncaught "Script error\."$|^csp_violation: '[\w-]+-extension(?::\/\/\S*)?' blocked by/;
+	function isThirdPartyError(error) {
+		return THIRD_PARTY_ERROR_STACK.test(error && error.stack || "") || THIRD_PARTY_ERROR_MESSAGE.test(error && error.message || "");
+	}
+	if (window.DD_RUM) {
+		const id = /nyt-a=(.*?)(;|$)/.exec(document.cookie);
+		const cookieUserId = id ? id[1] : null;
+		const { isPreloaded = false, isInWebview = false } = window.vi && window.vi.webviewEnvironment || {};
+		let nativeBridgeUserId = null;
+		if (isPreloaded && window.getNativeBridgeCookie) nativeBridgeUserId = window.getNativeBridgeCookie("nyt-a");
+		if ((cookieUserId || nativeBridgeUserId) && (!cookieUserId || !isValidUserId(cookieUserId)) && (!nativeBridgeUserId || !isValidUserId(nativeBridgeUserId))) {
+			console.debug("Skipping Datadog RUM initialization due to invalid user IDs");
+			return;
+		}
+		function onReady() {
+			let ignoreErrors = [
+				"2mdn",
+				"ads-us",
+				"amazon-adsystem",
+				"amp4ads",
+				"ampproject",
+				"bk_addPageCtx",
+				"boomerang",
+				"BOOMR",
+				"cb is not a function",
+				"chartbeat",
+				"google_tag_manager",
+				"gsi",
+				"gtm",
+				"prebid",
+				"pubads",
+				"scorecardresearch",
+				"setConfig is not a function",
+				"webkitExitFullScreen",
+				"yimg",
+				"reading 'campaign'",
+				"Object.fromEntries is not a function",
+				"Message Selection Error. status=499",
+				"Skipping view transition because skipTransition() was called"
+			];
+			if (isPreloaded) ignoreErrors = ignoreErrors.concat([
+				"Failed to fetch",
+				"Load failed",
+				"Something went wrong",
+				"Unexpected EOF",
+				"The request is not allowed by the user agent",
+				"scrollIntoView",
+				"No weather-bot homepage data available",
+				"UnhandledRejection: Non-Error promise rejection captured with value: false",
+				"VHS is currently showing this error message on-screen.",
+				"useMessageSelection",
+				"messageComponentLibrary"
+			]);
+			function isIgnoredError(message) {
+				if (typeof message !== "string") return false;
+				const lowerMessage = message.toLowerCase();
+				return ignoreErrors.some((pattern) => lowerMessage.includes(pattern.toLowerCase()));
+			}
+			const isBot = isBotUserAgent();
+			const globalContextProps = {
+				billing: {
+					environment: billingEnv,
+					deployment: { id: deploymentId }
+				},
+				dvsp: { tenant },
+				route: { name: routeName },
+				render: { stack: renderStack },
+				webview: isInWebview,
+				preloaded: isPreloaded,
+				appType: "web"
+			};
+			if (isPreloaded) Object.assign(globalContextProps, {
+				team: "web-platforms",
+				appType: isAndroid() ? "android" : "ios"
+			});
+			const initOptions = {
+				clientToken: "pube5bf68ea68edb54c35106f34e32ff07c",
+				applicationId: "7d0602a0-8ef8-4d39-985b-c3188887e5b3",
+				site: "datadoghq.com",
+				service: `${service}-client`,
+				env,
+				version,
+				sessionSampleRate: isBot ? 0 : parseInt(sessionSampleRate, 10),
+				sessionReplaySampleRate: isBot ? 0 : 10,
+				trackViewsManually: true,
+				defaultPrivacyLevel: "mask-user-input",
+				beforeSend(event) {
+					if (event.type === "error") {
+						if (isIgnoredError(event.error && event.error.message)) return false;
+						if (isThirdPartyError(event.error)) event.context = Object.assign({}, event.context, { error_origin: "third_party" });
+					}
+					if (event.type === "view") {
+						const eventNyt = event.context && event.context.nyt || {};
+						const eventBilling = eventNyt.billing || {};
+						const nyt = Object.assign({}, globalContextProps, eventNyt, { billing: Object.assign({}, globalContextProps.billing, eventBilling, { deployment: Object.assign({}, globalContextProps.billing.deployment, eventBilling.deployment) }) });
+						event.context = Object.assign({}, event.context, { nyt });
+					}
+					return true;
+				},
+				allowedTracingUrls: [
+					/https:\/\/samizdat-graphql.*\.nytimes\.com/,
+					/https:\/\/alpha\.nytimes\.com/,
+					/https:\/\/www\.nytimes\.com/,
+					/https:\/\/www\.stg\.nytimes\.com/,
+					/https:\/\/cooking\.nytimes\.com/,
+					/https:\/\/myaccount\.nytimes\.com/
+				],
+				traceSampleRate: isBot ? 0 : 10,
+				propagateTraceBaggage: false,
+				usePartitionedCrossSiteSessionCookie: true,
+				useSecureSessionCookie: true
+			};
+			if (isPreloaded) Object.assign(initOptions, {
+				sessionReplaySampleRate: 0,
+				sessionPersistence: ["cookie", "local-storage"]
+			});
+			window.DD_RUM.init(initOptions);
+			window.DD_RUM.setGlobalContextProperty("nyt", globalContextProps);
+			window.DD_RUM.startView({ name: routeName });
+			if (cookieUserId && isValidUserId(cookieUserId)) window.DD_RUM.setUser({ id: cookieUserId });
+			if (isPreloaded) {
+				const { url = "" } = window.asset || {};
+				window.DD_RUM.setGlobalContextProperty("url", url);
+				if (nativeBridgeUserId && isValidUserId(nativeBridgeUserId)) window.DD_RUM.setUser({ id: nativeBridgeUserId });
+			}
+		}
+		window.DD_RUM.onReady(onReady);
+		if (window.__isUnitTestEnv) window.__testDataDogOnReady = onReady;
+	}
+})({"service":"vi","env":"prd","version":"v12152-40f6af9","sessionSampleRate":"10","deploymentId":"aws-491988406224","routeName":"subscription-all-access","tenant":"web-platforms"});
+    </script>
+  
+
+    
+    
+  <script>
+    (function() {
+      try {
+        sessionStorage.removeItem('sveltekit:scroll');
+        history.scrollRestoration = 'auto';
+        addEventListener('popstate', function () { history.scrollRestoration = 'auto'; });
+        addEventListener('pageshow', function () { history.scrollRestoration = 'auto'; });
+      } catch (e) {}
+    })();
+  </script>
+    <link rel="preconnect" href="https://g1.nyt.com" crossorigin="anonymous"/>
+    <link href="https://g1.nyt.com/fonts/css/web-fonts.c851560786173ad206e1f76c1901be7e096e8f8b.css" rel="stylesheet" type="text/css" crossorigin />
+    
+    <link rel="stylesheet" href="/vi-assets/static-assets/assets/global-BkpZ1gXh.css" />
+    <style>[data-timezone] { display: none }</style>
+    <style data-lights-css="o78f7n 151x441 61rp44 1gow62b siijln rint5k">@-webkit-keyframes animation-siijln{0%{opacity:0;visibility:hidden;}50%{opacity:0;}100%{opacity:1;visibility:visible;}}@keyframes animation-siijln{0%{opacity:0;visibility:hidden;}50%{opacity:0;}100%{opacity:1;visibility:visible;}}@-webkit-keyframes animation-rint5k{0%{opacity:1;visibility:visible;}50%{opacity:0;}100%{opacity:0;visibility:hidden;}}@keyframes animation-rint5k{0%{opacity:1;visibility:visible;}50%{opacity:0;}100%{opacity:0;visibility:hidden;}}.css-o78f7n{height:100%;padding:12px 15px 14px;}@media (min-width:600px){.css-o78f7n{padding:14px 20px 15px;}}.css-151x441{font-family:nyt-franklin,helvetica,arial,sans-serif;font-size:0.9375rem;line-height:1.1875rem;color:#fff;font-weight:300;text-align:left;}.css-61rp44{max-width:600px;background:#333;box-shadow:0 1px 2px rgba(0,0,0,0.25);border-radius:2px;max-width:600px;background:#333;}.css-1gow62b{position:fixed;right:0;bottom:-50px;padding:0 10px;box-sizing:border-box;visibility:hidden;z-index:1000000110;-webkit-transition:-webkit-transform 500ms ease-out,opacity 500ms;-webkit-transition:transform 500ms ease-out,opacity 500ms;transition:transform 500ms ease-out,opacity 500ms;}.css-1gow62b.fadeIn{-webkit-animation:animation-siijln 500ms;animation:animation-siijln 500ms;-webkit-transform:translateY(-70px);-ms-transform:translateY(-70px);transform:translateY(-70px);visibility:visible;}.css-1gow62b.fadeOut{-webkit-animation:animation-rint5k 500ms;animation:animation-rint5k 500ms;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);visibility:hidden;}</style>
+    
+    
+    
+    
+    <!-- The fidesEmbed script must load before the getFidesSnippet script to prevent blank screen issues on privacy pages. subscription-all-access -->
+    
+    <script type="text/javascript">
+    (function fidesScript(a, b, c, d) {
+	/**
+	* Loads Fides TCF and/or GPP scripts based on cookie values and configuration.
+	*
+	* This function handles both offline webviews (which use NativeBridge for cookie access)
+	* and regular web environments (which use document.cookie). It conditionally loads:
+	* - TCF (Transparency & Consent Framework) script when shouldLoadTCF returns true
+	* - GPP (Global Privacy Platform) script when shouldLoadGPP returns true and GPP strings are available
+	*
+	* @param purrCacheRefreshedEvent - Set to true when called from a 'purrCacheRefreshed' event.
+	*   This indicates the purr-cache cookie has been updated and GPP scripts should be reloaded even
+	*   if already present. Also enables Sentry alerting for missing GPP strings since this
+	*   represents a final attempt after cache refresh.
+	* @param initWebviewIosEvent - Set to true when called from an 'initWebview:ios' event.
+	*   This handles the iOS webview initialization race condition where the config may not
+	*   be available initially. Enables Sentry alerting for missing GPP strings since this
+	*   represents the final initialization attempt.
+	*/ function e() {
+		var e, f, g, h = !!(0 < arguments.length && void 0 !== arguments[0]) && arguments[0], i = !!(1 < arguments.length && void 0 !== arguments[1]) && arguments[1], j = null === (e = d.vi) || void 0 === e || null === (f = e.webviewEnvironment) || void 0 === f ? void 0 : f.isPreloaded;
+		if (void 0 === d.fides_overrides && (d.fides_overrides = {}), j && "function" == typeof (null === (g = d.NativeBridge) || void 0 === g ? void 0 : g.getAllCookies)) d.NativeBridge.getAllCookies().then(function(e) {
+			var g = e.values.cookies;
+			q = g;
+			var h = void 0 !== d.config, j = !1;
+			if (!u("nyt-fides-tcf") && h && p(g) && (j = !0, n("nyt-fides-tcf", a, r, s)), !u("nyt-fides-gpp") && o(g)) {
+				j = !0, u("iab-gpp-stub") || n("iab-gpp-stub", c, r, s);
+				var k = !1;
+				i && (k = !0), t(g, k), n("nyt-fides-gpp", b, r, s);
+			}
+			j || r();
+		})["catch"](function(a) {
+			console.log(a);
+		});
+		else {
+			var k = d.document.cookie;
+			q = k;
+			var l = !1;
+			if (!u("nyt-fides-tcf") && p(k) && (l = !0, n("nyt-fides-tcf", a, r, s)), !u("nyt-fides-gpp") && o(k)) try {
+				l = !0, u("iab-gpp-stub") || n("iab-gpp-stub", c, r, s);
+				var m = !1;
+				h && (m = !0), t(k, m), n("nyt-fides-gpp", b, r, s);
+			} catch (a) {
+				console.log(a);
+			}
+			l || r();
+		}
+	}
+	var f, g = 16, h = 21, i = "nyt-purr=", j = "override-purr=", k = new URLSearchParams(d.location.search), l = function c(a, b) {
+		return (a.split(";").find(function(a) {
+			return a.includes(b);
+		}) || "").replace(b, "").trim();
+	}, m = function d(a, b, c) {
+		return l(a, b).charAt(c);
+	}, n = function f(a, b, c, e) {
+		var g = document.createElement("script");
+		g.id = a, c && g.addEventListener("load", c, { once: !0 }), e && g.addEventListener("error", e, { once: !0 }), g.src = b;
+		var h = document.getElementById(a);
+		h && h.parentNode && h.parentNode.removeChild(h), d.document.head.appendChild(g);
+	}, o = function b(a) {
+		var c = k.get("load-gpp"), d = m(a, i, h);
+		return "t" === m(a, j, h) || "t" === d || "true" === c;
+	}, p = function b(a) {
+		var c = k.get("fides-override"), d = m(a, i, g);
+		return "s" === m(a, j, g) || "s" === d || "true" === c;
+	}, q = "", r = function a() {
+		f = {
+			gppApplies: o(q),
+			tcfApplies: p(q)
+		}, d.dispatchEvent(new CustomEvent("FIDES_CMP_RESOLVED", { detail: f }));
+	}, s = function b(a) {
+		f = { error: a };
+		var c = new Error(a.message);
+		d.Sentry && d.Sentry.captureException && d.Sentry.captureException(c), d.dispatchEvent(new CustomEvent("FIDES_CMP_RESOLVED", { detail: f }));
+	}, t = function c(a, b) {
+		var e, f, g, h = l(a, "gpp-string-override="), i = l(a, "gpp-string="), j = k.get("load-gpp"), m = k.get("gpp-string");
+		if ("true" === j && null !== m) g = m;
+		else if (null !== (e = d.config) && void 0 !== e && null !== (f = e.gppData) && void 0 !== f && f.encodedString) g = d.config.gppData.encodedString;
+		else if (h) g = h;
+		else if (i) g = i;
+		else {
+			var n = /* @__PURE__ */ new Error("Fides Wrapper: No valid GPP string value was found. GPP CMP will not be loaded.");
+			throw d.Sentry && d.Sentry.captureException && b && d.Sentry.captureException(n), n;
+		}
+		g && g.startsWith("\"") && g.endsWith("\"") && (g = g.slice(1, -1)), d.fides_overrides.fides_string = g;
+	}, u = function b(a) {
+		return null !== d.document.getElementById(a);
+	};
+	/**
+	* Subscriber API for the Fides CMP-applicability resolution. Invokes
+	* `callback` exactly once with `{ gppApplies, tcfApplies }` describing which CMPs
+	* (TCF, GPP) apply to the current user.
+	*
+	* Exposed publicly on `window.fidesUtils.onCmpResolved` so any code on the page
+	* can subscribe regardless of when it loads relative to `fidesScript`.
+	*
+	* The two branches handle a timing problem inherent to fire-and-forget
+	* browser events: `window.dispatchEvent` only delivers to listeners
+	* registered *before* the dispatch — there is no buffering or replay for
+	* late subscribers. Without explicit handling, any consumer that called
+	* `onCmpResolved` after the publisher (`conveyFidesCmpResolution`) had already dispatched the
+	* `FIDES_CMP_RESOLVED` event would hang forever waiting for an event
+	* that already happened.
+	*
+	*   - **Late subscriber** (`lastCmpResolution !== undefined`): the resolution
+	*     has already been published. Invoke `callback` synchronously with
+	*     the captured `lastCmpResolution` payload.
+	*
+	*   - **On-time subscriber** (`lastCmpResolution === undefined`): the
+	*     resolution has not yet been published. Register a one-time
+	*     (`{ once: true }`) listener for `FIDES_CMP_RESOLVED`; when the
+	*     event fires, forward `event.detail` to `callback`.
+	*
+	* `{ once: true }` matters because the publisher can dispatch
+	* `FIDES_CMP_RESOLVED` more than once per page load — once per loaded
+	* `<script>` tag's `onload` (TCF, GPP stub, GPP), and again on each
+	* `loadFides` re-run (`initWebview:ios`, `purrCacheRefreshed`). Without
+	* `{ once: true }` an on-time subscriber would have its callback invoked
+	* multiple times for what is conceptually a single resolution event.
+	*
+	* Note: the two branches return data from different sources. The on-time
+	* path replays `event.detail` (the original dispatched payload). The
+	* late path *recomputes* the payload from `pageCookies`. These produce
+	* the same result today only because `pageCookies` happens not to change
+	* between dispatch and replay — a future change that updates
+	* `pageCookies` outside `loadFides` would create a real divergence.
+	*
+	* @param callback - Invoked once with `{ gppApplies, tcfApplies }` indicating
+	*   which CMPs apply to this user, or `undefined` if a custom
+	*   `FIDES_CMP_RESOLVED` event was dispatched without `detail`.
+	*/ /**
+	* Reads the GPP (Global Privacy Platform) string from various sources and writes it to the fides_overrides object.
+	*
+	* The function attempts to retrieve the GPP string in the following priority order:
+	* 1. Query parameter (gpp-string) when load-gpp=true is also present
+	* 2. Window config (win.config.gppData.encodedString)
+	* 3. Override cookie (gpp-string-override)
+	* 4. Standard GPP cookie (gpp-string)
+	*
+	* @param cookieStr - The document cookie string to parse
+	* @param shouldAlertOnMissingGppString - Whether to send a Sentry alert if no GPP string is found.
+	*   Set to `true` only when this is expected to be the final attempt to retrieve the GPP string
+	*   (e.g., during initWebview:ios or purrCacheRefreshed events). Set to `false` during initial
+	*   page load or other scenarios where the GPP string might legitimately not be available yet
+	*   and additional calls are expected.
+	*
+	* @throws {Error} When no valid GPP string is found from any source
+	*/ e(), d.addEventListener("initWebview:ios", function() {
+		return e(!1, !0);
+	}, { once: !0 }), document.addEventListener("purrCacheRefreshed", function() {
+		return e(!0, !1);
+	}, { once: !0 }), d.fidesUtils = {
+		shouldLoadTCF: p,
+		shouldLoadGPP: o,
+		onCmpResolved: function b(a) {
+			f ? a(f) : d.addEventListener("FIDES_CMP_RESOLVED", function(b) {
+				a(b.detail);
+			}, { once: !0 });
+		}
+	};
+})('https://static01.nyt.com/vi-assets/static-assets/fides-ffeeec6bc4efda2c53511fd1e2e8ff9a.js', 'https://static01.nyt.com/vi-assets/static-assets/fides-gpp-532b3abd08f853139eec6cb7880e922f.js', 'https://static01.nyt.com/vi-assets/static-assets/iab-gpp-stub-02a14dbfddf7bec445adfaeef0a17830.js', window);
+    (function fidesTracking(a) {
+	function b(a) {
+		var b = a.layerType;
+		return {
+			event: "impression",
+			priority: !0,
+			module: {
+				name: b,
+				label: b,
+				region: "bottom"
+			}
+		};
+	}
+	function c(a) {
+		var b = a.actionType, c = void 0 === b ? "" : b, d = a.layerType, e = void 0 === d ? "" : d;
+		return {
+			event: "moduleInteraction",
+			eventData: {
+				trigger: "module",
+				type: "click"
+			},
+			module: {
+				name: e,
+				label: e,
+				element: {
+					name: c,
+					label: c
+				}
+			}
+		};
+	}
+	function d(a) {
+		var b = a.actionType, c = void 0 === b ? "" : b, d = a.layerType, e = void 0 === d ? "" : d;
+		return {
+			subject: "interaction",
+			data: {
+				name: e,
+				label: e,
+				element: {
+					name: c,
+					label: c
+				}
+			}
+		};
+	}
+	function e(b) {
+		(a.dataLayer || (a.dataLayer = [])).push(b);
+	}
+	function f(b) {
+		var c = a.document.getElementById("fides-banner"), d = a.document.getElementById("fides-modal"), e = a.document.getElementById("fides-embed-container"), f = "true" === (null === d || void 0 === d ? void 0 : d.getAttribute("aria-hidden"));
+		if (e) return "cmp_layer_2";
+		if (null !== b) {
+			if (!c || !d) return "";
+			if (c.contains(b)) return "cmp_layer_1";
+			if (d.contains(b)) return "cmp_layer_2";
+		}
+		return f ? "cmp_layer_1" : "cmp_layer_2";
+	}
+	function g(a) {
+		return {
+			"accept all": "accept_all",
+			"reject all": "reject_all",
+			"manage preferences": "manage_prefs",
+			"cookie policy": "cookie_policy",
+			"privacy policy": "privacy_policy",
+			purposes: "purposes",
+			features: "features",
+			vendors: "vendors",
+			save: "save"
+		}[a.textContent.toLowerCase()] || "";
+	}
+	function h(b) {
+		var c = new CustomEvent("NYTFidesUpdated", { detail: b });
+		a.dispatchEvent(c);
+	}
+	var i;
+	!0 === (null === (i = a.fidesUtils) || void 0 === i ? void 0 : i.shouldLoadTCF(a.document.cookie)) && (a.addEventListener("FidesUIShown", function(a) {
+		var c, f = (null === a || void 0 === a || null === (c = a.detail) || void 0 === c ? void 0 : c.extraDetails).servingComponent;
+		if ("tcf_banner" === (void 0 === f ? "" : f)) e(b({ layerType: "cmp_layer_1" }));
+	}), a.addEventListener("click", function(a) {
+		var b = a.target, i = "button" === b.type, j = "a" === b.nodeName.toLowerCase();
+		if (i || j) {
+			var k = g(b), l = f(b);
+			if (k) {
+				e(c({
+					actionType: k,
+					layerType: l
+				}));
+				h(d({
+					actionType: k,
+					layerType: l
+				})), a.stopPropagation();
+			}
+		}
+	}), a.addEventListener("beforeunload", function() {
+		var a = f(null);
+		e(b({ layerType: "".concat(a, "_exit") }));
+	}));
+})(window);
+  </script>
+    
+    <script type="text/javascript">
+      // 53.116kB
+      window.viHeadScriptSize = 53.116;
+      window.NYTD = {};
+      window.vi = window.vi || {};
+      window.vi.pageType = { type: '', edge: ''};
+      (function () { var userAgent=window.navigator.userAgent||window.navigator.vendor||window.opera||"",inNewsreaderApp=userAgent.includes("nytios")||userAgent.includes("nyt_android"),inXWordsApp=userAgent.includes("nyt_xwords_ios")||userAgent.includes("Crosswords"),inAndroid=userAgent.includes("nyt_android")||userAgent.includes("Crosswords"),iniOS=userAgent.includes("nytios")||userAgent.includes("nyt_xwords_ios"),isInWebviewByUserAgent=(inAndroid||iniOS)&&(inNewsreaderApp||inXWordsApp);function appType(){return inNewsreaderApp?"newsreader":inXWordsApp?"crosswords":""}function deviceType(){return inAndroid?"ANDROID":iniOS?"IOS":""}var _f=function(e){window.vi.webviewEnvironment={appType:appType(),deviceType:deviceType(),isInWebview:e.webviewEnvironment.isInWebview||isInWebviewByUserAgent,isPreloaded:e.webviewEnvironment.isPreloaded}};;_f.apply(null, [{"gqlUrlClient":"https://samizdat-graphql.nytimes.com/graphql/v2","gqlRequestHeaders":{"nyt-app-type":"project-vi","nyt-app-version":"0.0.5","nyt-token":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+/oUCTBmD/cLdmcecrnBMHiU/pxQCn2DDyaPKUOXxi4p0uUSZQzsuq1pJ1m5z1i0YGPd1U1OeGHAChWtqoxC7bFMCXcwnE1oyui9G1uobgpm1GdhtwkR7ta7akVTcsF8zxiXx7DNXIPd2nIJFH83rmkZueKrC4JVaNzjvD+Z03piLn5bHWU6+w+rA+kyJtGgZNTXKyPh6EC6o5N+rknNMG5+CdTq35p8f99WjFawSvYgP9V64kgckbTbtdJ6YhVP58TnuYgr12urtwnIqWP9KSJ1e5vmgf3tunMqWNm6+AnsqNj8mCLdCuc5cEB74CwUeQcP2HQQmbCddBy2y0mEwIDAQAB"},"gqlFetchTimeout":1500,"disablePersistedQueries":false,"initialDeviceType":"desktop","fastlyAbraConfig":{".ver":"29820.000"},"fastlyEntitlements":[],"targetingDimensionsConfig":{"agent_id":"BbFil21aef9g1OWoBroIht","newsTenure":"anon_user","nyt-s-present":"0"},"internalPreviewConfig":{},"webviewEnvironment":{"isInWebview":false,"isPreloaded":false,"colorBehaviorConfig":{"colorBehavior":"alwaysLight","colorBehaviorClassName":"tpl-always-light","colorScheme":"light","dataAttributes":{}}},"isOptimisticallyTruncated":false,"optimisticTruncationDropzone":6,"requestPath":"/subscription","routeName":"subscription-all-access","pageVariant":"tristate","adReserveHeights":{"smallVp":280,"largeVp":280},"adFormatRulesByPosition":{},"fastlyStatsigUsedAssignments":{"gates":{},"configs":{"vi_samizdat_server_identity":{"value":{"enabled":true,"operations":["TrendingQuery","SitemapDayQuery","SitemapDaysQuery","SitemapMonthsQuery","SitemapYearQuery","ProgrammingHomeQuery","ProgrammedFeedQuery","CommunityCommentsSummaries","ScoopNewsArticleQuery"]}}},"layers":{}},"sendAvoPageViewedDualSend":false,"useSubscriberSubscriptionsQuery":false,"serviceWorkerFile":"sw.js"}]); })();;(function () { var _f=function(i,w){window.vi=window.vi||{},window.vi.env=Object.freeze(i),window.hybrid=w};;_f.apply(null, [{"JKIDD_PATH":"https://a.nytimes.com/svc/nyt/data-layer","ET2_URL":"https://a.et.nytimes.com","EVENTGATE_BASE_URL":"https://eg.nytimes.com","ALS_URL":"https://als-svc.nytimes.com","WEDDINGS_PATH":"https://content.api.nytimes.com","GDPR_PATH":"https://us-central1-nyt-dsra-prd.cloudfunctions.net/datagov-dsr-formhandler","RECAPTCHA_SITEKEY":"6LevSGcUAAAAAF-7fVZF05VTRiXvBDAY4vBSPaTF","ABRA_ET_URL":"//et.nytimes.com","NODE_ENV":"production","EXPERIMENTAL_ROUTE_PREFIX":"","ENVIRONMENT":"prd","RELEASE":"40f6af981c04eecd6fe7691decd737ab75368447","RELEASE_TAG":"","AUTH_HOST":"https://myaccount.nytimes.com","METER_HOST":"https://meter-svc.nytimes.com","MESSAGING_LANDING_PAGE_HOST":"https://www.nytimes.com","CAPI_HOST":"https://mwcm.nytimes.com","SWG_PUBLICATION_ID":"nytimes.com","GQL_FETCH_TIMEOUT":"1500","GOOGLE_CLIENT_ID":"1005640118348-amh5tgkq641oru4fbhr3psm3gt2tcc94.apps.googleusercontent.com","STORY_SURROGATE_CONTROL":"max-age=300, stale-if-error=259200, stale-while-revalidate=259200","ONBOARDING_API_KEY":"","PURR_ENV":"prd"},false]); })();;(function () { var _f=function(){var e=window;e.initWebview=function(e){var t=document.documentElement;if(e.OS){var i=e.OS.toUpperCase();t.classList.add(i)}if(e.BaseFontSize&&(t.dataset.baseFontSize=e.BaseFontSize),e.trackingSensitive&&(t.dataset.trackingSensitive=!0),e.hasOptedOutOfTracking&&(t.dataset.hasOptedOutOfTracking=!0),e.PurrDirectives){var a=e.PurrDirectives.PURR_AdConfiguration_v3||e.PurrDirectives.PURR_AdConfiguration_v2;a&&(t.dataset.optedOutOfAds=["adluce","adluce-socrates"].includes(a))}e.OS&&"IOS"===e.OS.toUpperCase()&&window.dispatchEvent(new CustomEvent("initWebview:ios",{detail:e}))};var t=e.navigator.userAgent.toLowerCase();/iphone|ipod|ipad/.test(t)||void 0===e.config||e.initWebview(e.config)};;_f.apply(null, []); })();;
+(()=>{var Je=[];function V(){var e,t,i=window.crypto||window.msCrypto;if(i)t=i.getRandomValues(new Uint8Array(18));else for(t=[];t.length<18;)t.push(Math.random()*256^(e=e||+new Date)&255),e=Math.floor(e/256);return btoa(String.fromCharCode.apply(String,t)).replace(/\+/g,"-").replace(/\//g,"_")}function Ye(e,t){let i=!1,s=!1,u=!1,_=!1,c="",l="",p=[];return""+e+JSON.stringify(t),typeof e=="string"&&e==="init"&&((!t||typeof t=="object"&&t.subject)&&(t={}),i=!!t.intranet,u=!!t.store_last_response,_=!!t.enable_native_bridge_transmit,s=!!t.force_xhr,l="",c="",typeof t.ctx_id_override=="string"&&(t.ctx_id_override.length>=24?l=t.ctx_id_override:p.push("ctx_id_override must be a string and >= 24 chars long")),typeof t.pv_id_override=="string"&&(t.pv_id_override.length>=24?c=t.pv_id_override:p.push("pv_id_override must be a string and >= 24 chars long"))),e==="pageinit"&&(c=""),{intranet:i,store_last_response:u,enable_native_bridge_transmit:_,force_xhr:s,pv_id:c,ctx_id:l,errors:p}}function Ke(e){let t=null,i=null,s="et_server",u=!0,_=[],c=[];if(e&&typeof e=="object"){t=e.hostname||null;var l=e.event_gate;i=l&&l.hostname||null,l&&l.nest_session_payload===!1&&(u=!1),Array.isArray(e.dual_send_subjects)&&(_=e.dual_send_subjects.filter(p=>typeof p=="string")),e.default_host!=null&&(e.default_host==="et_server"||e.default_host==="event_gate"?s=e.default_host:c.push("default_host must be 'et_server' or 'event_gate'"))}else typeof e=="string"&&(t=e);return typeof t=="string"&&/^https/.test(t)?t=String(t).replace(/([^/])$/,"$1/"):(c.push("hostname must be a valid URL"),t=null),i!==null&&(typeof i=="string"&&/^http/.test(i)?i=String(i).replace(/([^/])$/,"$1/"):(c.push("event_gate_hostname must be a valid URL"),i=null)),s==="event_gate"&&i===null&&(c.push("default_host 'event_gate' requires event_gate.hostname"),s="et_server"),{et2hostname:t,event_gate_hostname:i,default_host:s,nest_session_payload:u,dual_send_subjects:_,errors:c}}function ve(e){let t=e[0],i=null,s=null,u="et_server",_=!0,c=[],l=null,p=null,a=[],f=e.length-1,o=null;if(""+JSON.stringify(e),typeof t=="string"&&t==="init"){let d=Ke(e[1]);i=d.et2hostname,s=d.event_gate_hostname,u=d.default_host,_=d.nest_session_payload,c=d.dual_send_subjects,a.push(...d.errors),typeof e[2]=="string"?l=e[2]:(a.push("source app must be a string"),l=null),p=Ye(t,e[3]),a.push(...p.errors)}if(typeof e[f]=="object"){o=e[f],!o.subject&&N(o.legacy)&&(o={...o,subject:o.legacy.subject});let d=C(o)=="dp2_only"&&o.payload.event_name;!o.subject&&!(typeof d=="string"&&d)&&(a.push("event data {} must include a subject or payload.event_name"),o=null)}return""+t+JSON.stringify(a)+i+s+u+l+JSON.stringify(p)+JSON.stringify(o),{action:t,hostname:i,event_gate_hostname:s,default_host:u,nest_session_payload:_,dual_send_subjects:c,source_app:l,overrides:p,data:o,errors:a}}function N(e){return e!=null&&typeof e=="object"&&!Array.isArray(e)}function C(e){if(!N(e))return"et2_flat";let t=N(e.legacy),i=N(e.payload);return t&&i?"both":i?"dp2_only":t?"et2_legacy":"et2_flat"}function $e(e,t){return t==="et2_flat"?{legacy:N(e)?e:null,payload:null}:t==="et2_legacy"?{legacy:e.legacy,payload:null}:t==="dp2_only"?{legacy:null,payload:e.payload}:t==="both"?{legacy:e.legacy,payload:e.payload}:{legacy:null,payload:null}}function be(e,t,i){let s=i.force_beacon,u=i.force_xhr,_=i.is_exit,c=i.store_last_response,l=i.sendIgnoreSessionHeader,p=i.how,a=i.can_beacon;if(""+e+JSON.stringify(t)+JSON.stringify(i),!u&&(p==="beacon"||a&&(s||p==="nativebridge"||_))){""+e+JSON.stringify(t);var f=window.navigator.sendBeacon(e,t);return c&&(last_send_response=f),f}else{var o=typeof XMLHttpRequest<"u"?new XMLHttpRequest:new ActiveXObject("Microsoft.XMLHTTP");return""+e+JSON.stringify(t),o.open("POST",e),o.withCredentials=!0,o.setRequestHeader("Accept","*/*"),typeof t=="string"?o.setRequestHeader("Content-Type","text/plain;charset=UTF-8"):{}.toString.call(t)==="[object Blob]"&&t.type&&o.setRequestHeader("Content-Type",t.type),l&&o.setRequestHeader("ETJS-Ignore-Session-Info","true"),c&&!o.onload&&(o.onload=function(){last_send_response=o.response},o.onerror=function(d){last_send_response=!1}),o.send(t),!0}}function ye(e,t){let i=3735928559^t,s=1103547991^t;for(let u=0,_;u<e.length;u++)_=e.charCodeAt(u),i=Math.imul(i^_,2654435761),s=Math.imul(s^_,1597334677);return i=Math.imul(i^i>>>16,2246822507),i^=Math.imul(s^s>>>13,3266489909),s=Math.imul(s^s>>>16,2246822507),s^=Math.imul(i^i>>>13,3266489909),4294967296*(2097151&s)+(i>>>0)}function Qe(e){let t=ye(e,64).toString();return t.length<22&&(t=parseInt(t).toString(36)+ye(e,32).toString(36)+ye(e,16).toString(36)),t}function Ze(){let e="(?:^|;)\\s*nyt-a=([^;]*)",t=window.document.cookie.match(new RegExp(e));return t?t[1]:null}function Pe(e){let t="(?:^|;)\\s*"+e+"=([^;]*)",i=window.document.cookie.match(new RegExp(t));return i?i[1]:null}function he(e){return new URLSearchParams(window?.location?.search).get(e)}function Ce(){var e=Ze();return e?Qe(e,64).toString():null}function K(){return window.location&&window.location.hostname&&(window.location.hostname==="nytimes.com"||window.location.hostname.endsWith(".nytimes.com"))}function ze(){if(typeof window>"u"||typeof window.matchMedia!="function")return"desktop";try{if(window.matchMedia("(max-width: 739px)").matches)return"smartphone";if(window.matchMedia("(max-width: 1149px)").matches)return"tablet"}catch{}return"desktop"}function me(e,t){return e.config&&e.config.userInfo&&e.config.userInfo.publisherProvidedID?e.config.userInfo.publisherProvidedID:e.localStorage&&e.localStorage.getItem("advertisingId")?e.localStorage.getItem("advertisingId"):t}function et(e,t){if(!Array.isArray(e)||t<=0)return console.error("chunkArray: Invalid array or chunk size"),[];let i=[];for(let s=0;s<e.length;s+=t)i.push(e.slice(s,s+t));return i}function Ue(){let e="nyt-b-sid",t="nyt-b-n-sid",i="nativesession",u=null;function _(){let a=Pe(t);return a||(a=he(i)),a||null}function c(a,f){let o=new Date;o.setTime(o.getTime()+18e5);let d=a+"="+f+"; expires="+o.toUTCString()+"; path=/; domain=.nytimes.com; samesite=Strict; secure";try{window.document.cookie=d}catch(n){console.error("createSessionManager: Failed to set "+a+" cookie:",n)}}function l(){let a=Pe(e),f=_(),o=!1;return a||(a=V(),o=!0,c(e,a)),(!u||u.sessionID!==a)&&(u={sessionID:a,nativeSessionID:f,isNewSession:o}),f&&c(t,f),u.nativeSessionID!==f&&(u.nativeSessionID=f),u}function p(a=!1){return a?u?u.nativeSessionID:null:u?u.sessionID:null}return{getSession:l,getSessionId:p}}function Ge(e){return{...e.url&&{url:e.url},...e.canonicalUrl&&{canonical_url:e.canonicalUrl},...e.nyt_uri&&{nyt_uri:e.nyt_uri},...e.referrer&&{referrer:e.referrer}}}var tt=()=>{},nt=()=>({}),Me={session_start:{event_type:"session",event_subtype:"start",event_key:e=>e.session_id,payload:Ge},session_update:{event_type:"session",event_subtype:"update",event_key:e=>e.session_id,payload:Ge}};function it({event:e,legacy:t}){return{...e,...t!=null&&{data:t}}}function st({event:e,device_type:t,gtm:i,tid:s,legacy:u,payload:_,nest_session_payload:c}){let l=Me[e.subject]||{event_type:"legacy",event_subtype:void 0,event_key:tt,payload:nt},p=l.event_type==="session";_==null&&(_=l.payload(e));let{ingest_options:a,tid:f,...o}=_,d=p?{}:a||{};_=o,typeof s!="number"&&(s=d.tid),typeof s!="number"&&(s=f),typeof s!="number"&&(s=1e3),u==null&&(u={});let n=l.event_subtype,y=typeof d.event_type=="string"&&d.event_type||typeof _.event_name=="string"&&_.event_name||l.event_type;(p||y==="session")&&(y=l.event_type);let S={client_type:"web",client_timestamp:e.client_ts,event_type:y,source_app:e.sourceApp,event_key:l.event_key(e),tid:s},E={session_id:e.session_id,context_id:e.context_id,pageview_id:e.pageview_id,event_id:e.event_id,library:e.client_lib,how:e.how,web:{metadata:{device_type:t},...i&&!p&&{gtm:i},...e.native_session_id!=null&&{native_session_id:e.native_session_id},...e.user_nyt_ad_id&&{user_nyt_ad_id:e.user_nyt_ad_id}}};if(!p)return{eg_metadata:S,client_metadata:E,payload:_,legacy:u};let b=c!==!1;return{eg_metadata:S,event_data:{...n!==void 0&&{event_subtype:n},client_sdk:E,...b&&{payload:_}},...!b&&{payload:_},legacy:u}}function rt(e,t){return t==="dp2_only"||t==="both"?{format:"combined",destination:"event_gate"}:e==="event_gate"?{format:"combined",destination:"event_gate"}:{format:"legacy",destination:"et_server"}}function Le(e,t,i="et_server",s=!0,u=[]){function _(a){return t?rt(i,C(a&&a.data)).destination:"et_server"}function c(a){return a&&u.indexOf(a.subject)!==-1}function l(a){return N(a.data)&&N(a.data.payload)||!!Me[a.subject]}let p=[{url:e,transform:function(a){return a.map(function(f){var{gtm:o,data:d,...n}=f;return it({event:n,legacy:N(d)&&N(d.legacy)?d.legacy:d})})},filter:function(a){return a.filter(f=>f?C(f.data)==="dp2_only"?(t||console.warn("payload event dropped: no Event Gate host"),!1):_(f)==="et_server"||c(f):!1)}}];if(t){let a=t.endsWith("/")?t+"api/v1/events":t+"/api/v1/events";p.push({url:a,isEventGate:!0,transform:function(f){let o=ze();return{events:f.map(d=>{let{data:n,gtm:y,...S}=d,E=C(n),b=$e(n,E),x=st({event:S,device_type:o,gtm:y,legacy:b.legacy,payload:b.payload,nest_session_payload:s});return(c(d)||x.eg_metadata.event_type==="session"&&Object.keys(x.legacy).length===0)&&delete x.legacy,x})}},filter:function(f){return f.filter(o=>o&&(c(o)?l(o):_(o)==="event_gate"))}})}return""+JSON.stringify(p),p}function Se(e,t,i,s){""+JSON.stringify(e)+JSON.stringify(t)+JSON.stringify(s);var{how:u,can_beacon:_,is_exit:c,force_xhr:l,store_last_response:p}=s;if(!(!e||e.length===0)){var a=JSON.stringify(e),f=JSON.parse(a);t.forEach(function(o){var d=o.filter(f);if(""+d.length+o.url,d.length>0){var n=o.isEventGate,y=n?30:d.length,S=et(d,y);S.forEach(function(E){if(""+E.length+o.url+JSON.stringify(E),E.length>0){var b=JSON.stringify(o.transform(E));i(o.url,b,{is_exit:c,force_xhr:l,store_last_response:p,how:u,can_beacon:_})}})}})}}var at=1e3,U="pageViewID",ut="getPageViewID",M="contextID",_t="getContextID",$="sourceApp",ct="getSourceApp",Q="NativeBridge",Ie="UserInfoAgentID",lt="NativeBridge unavailable.",ft="UserInfoAgentID unavailable.";async function ke(e){try{await W(Q);let t={};return await Promise.all([Ee(U,ut,e),Ee(M,_t,e)]).then(i=>{i.forEach(s=>{s.name==U?t[U]=s.id:s.name==M&&(t[M]=s.id)})}),Promise.resolve(t)}catch(t){return Promise.reject(t)}}async function Be(){try{await W(Q);let e=await Ee($,ct,()=>{});return{[$]:e.id}}catch(e){return""+e,{}}}function Ve(){return!!(window&&(window.vi?.webviewEnvironment&&window.vi.webviewEnvironment.isInWebview||/^\/athletic\//.test(window.location.pathname)&&he("embed")==1||/nytios|nyt_android|crosswords|nyt_xwords_ios|nyt_crossplay_(?:ios|android)/i.test(window.navigator?.userAgent)||typeof window.NYTG?.enqueue=="function"))}var dt="__nyt_et_native_bridge__";function q(){return window.NativeBridge||window[dt]}function pt(e,t){q().addEventListener(e+"DidChange",function(i){t(e,i)})}async function Ee(e,t,i){""+e+t;var s,u,_;return u=new Promise(function(c,l){s=setTimeout(function(){l(new Error("NativeBridge didn't respond after 5 seconds."))},5e3)}),_=q().callNativeBridgeCommand(t).then(function(c){clearTimeout(s),""+JSON.stringify(c);var l=c.values[e];return pt(e,i),{name:e,id:l}}),Promise.race([_,u])}async function W(e,t=0){return t%100===0&&(""+e+t,void 0),e===Q&&q()||e===Ie&&window.config?.userInfo?.agentID?Promise.resolve():t>=at?Promise.reject(e===Q?lt:ft):new Promise((i,s)=>{setTimeout(function(){return W(e,t+1).then(i).catch(s)},10)})}function qe(e){return!!(Object.keys(e).length===2&&Object.prototype.hasOwnProperty.call(e,"gtm")&&Object.prototype.hasOwnProperty.call(e,"activeTime")||Object.prototype.hasOwnProperty.call(e,"eventData")&&Object.keys(e.eventData).length===2&&Object.prototype.hasOwnProperty.call(e.eventData,"gtm")&&Object.prototype.hasOwnProperty.call(e.eventData,"activeTime"))}(function(e,t){if(e.nyt_et){console.warn("et2 snippet should only load once per page");return}let i="pending",s="ready",u="blocked",_="no_bridge",c="failed",l="xhr_ios",p="beacon",a="xhr",f="nativebridge",o="beacon_ios",d=Ce(),n={status:i,ctxid:"",pvid:"",agtid:e?.config?.userInfo?.agentID,source_app:"",isDisabled:function(){return[_,u,c].indexOf(this.status)!==-1}},y={init:null,events:[]};var S,E,b,x="",A="",H=[],L,xe,Z,Te=!!e?.navigator?.userAgent?.match(/iP(ad|hone|od)/),F=!!e?.navigator?.sendBeacon,T=F?Te?l:p:a,z=0,v,j=void 0,k=!1,O=!1,ee=!1,te=!1,Ne=null,ne="et_server",Ae=!0,Oe=[],De=!1,ie="",we="",se=null,re=null,oe=null,X;let ae=Ue();v=ae.getSession();function He(r,g){if(r!==U&&r!==M){console.warn("syncID got unknown id="+r);return}if(""+r,""+JSON.stringify(g),!(!g||!g.detail||!g.detail[r]))if(r===U){let h=n.pvid;n.pvid=g.detail[r],n.status===s&&X&&h!==n.pvid&&B(["send",{...X,subject:"page_update"}])}else r===M&&(n.ctxid=g.detail[r])}Ve()?(Be().then(r=>{n.source_app=r[$]}),n.status=i,ke(He).then(r=>{n.ctxid=r[M],n.pvid=r[U],""+n.ctxid+n.pvid,n.status!==u&&(n.status=s,Y())}).catch(()=>{n.status===i&&(n.status=c,Y())}).finally((""+n.status,void 0))):n.status=_,[s,i].indexOf(n.status)!==-1&&!n.agtid&&async function(){try{await W(Ie),""+e?.config?.userInfo?.agentID,n.agtid=e?.config?.userInfo?.agentID}catch(r){console.error(r)}}();function ue(){if(H.length!==0){var r=[...H];H.length=0,Se(r,Z,be,{how:T,can_beacon:F,is_exit:k,force_xhr:te,store_last_response:ee}),clearTimeout(L),L=null}}function _e(r){!y.init&&typeof r[0]=="string"&&r[0]==="init"?(""+JSON.stringify(r),y.init=r):(""+JSON.stringify(r),y.events.push(r))}function B(r){if(n.status===i){if(!y.init&&typeof r[0]=="string"&&r[0]==="init"&&!ve(r).overrides.enable_native_bridge_transmit){n.status=u,_e(r),Y();return}""+JSON.stringify(r),_e(r);return}""+JSON.stringify(r);let g=ve(r),h=g.action,I=g.data||{},m=I.subject,P,Re=!1,G=me(e,d);if(""+JSON.stringify(g),g.errors?.length>0&&g.errors.forEach(w=>console.warn(w)),h==="init"&&b&&(h="soon",g={}),h==="init"&&(S=g.hostname,Ne=g.event_gate_hostname,ne=g.default_host,Ae=g.nest_session_payload,Oe=g.dual_send_subjects,b=g.source_app,ie=g.overrides.pv_id,we=g.overrides.ctx_id,O=g.overrides.intranet,ee=g.overrides.store_last_response,te=g.overrides.force_xhr,De=g.overrides.enable_native_bridge_transmit,!De&&n.status!==_?n.status=u:n.status===_?void 0:n.status===c?void 0:(""+n.status,void 0)),h==="pageinit"&&(ie="",X=null),G=me(e,d),/^(init|pageinit)$/i.test(h)&&(""+JSON.stringify(g),A=ie||V(),h=="init"&&!x))if(n.status===s&&(T=f),x=we||V(),S)E=S+"track",Z=Le(E,Ne,ne,Ae,Oe);else throw new Error("init must include an et host url");if(n.isDisabled()&&(v=ae.getSession(),v.isNewSession&&(j=void 0)),!S){console.log("ERROR: et_base_url must be set");return}!I&&!/^(init|pageinit)$/i.test(h)&&console.warn("when invoked without 'init' or 'pageinit', nyt_et() must include a event data");function Fe(w,Xe){""+w;let R=Xe||{},J=R.legacy||{},je={...n.agtid&&{agent:{id:n.agtid}},...n.isDisabled()&&!O&&K()&&{session_id:v.sessionID,...v.nativeSessionID!=null&&{native_session_id:v.nativeSessionID}},context_id:x,pageview_id:A,event_id:V(),...G&&{user_nyt_ad_id:G},client_lib:t,sourceApp:b,intranet:O?1:void 0,subject:w,how:T,client_ts:+new Date,gtm:ce(),url:R.url||J.url||e.location.href,...(R.canonicalUrl||J.canonicalUrl)&&{canonicalUrl:R.canonicalUrl||J.canonicalUrl},...(R.nyt_uri||J.nyt_uri)&&{nyt_uri:R.nyt_uri||J.nyt_uri},...(R.referrer||J.referrer||e.document.referrer)&&{referrer:R.referrer||J.referrer||e.document.referrer}};""+JSON.stringify(je),Se([je],Z,be,{how:T,can_beacon:F,is_exit:k,force_xhr:te,store_last_response:ee}),j=w}if(""+JSON.stringify(v),""+j,""+O,""+n.status,v&&!j&&!O&&n.isDisabled()&&K()&&Fe(v.isNewSession?"session_start":"session_update",I),v.isNewSession=!1,!m&&C(I)!=="dp2_only")return;""+I.subject,m=I.subject,""+m,delete I.subject;let le=C(I),fe=le==="both"||le==="et2_legacy",de={...fe?I.legacy:I};if(delete de.subject,(m=="page"||m=="page_soft")&&(P=A,X=JSON.parse(JSON.stringify(I))),k=m=="page_exit"||(de.eventData||{}).type=="ob_click",n.status===s&&(m=="page"||m=="page_exit")&&(""+m,k=!1,m="page_update"),Re=m=="page_update",n.status===s&&Re&&qe(de)){z+=1;return}P===void 0&&(P=V());let pe=A,ge=x;n.status,n.status===s&&(pe=n.pvid,ge=n.ctxid);let D=JSON.parse(JSON.stringify(I));if((fe?D.legacy:D).nb_status=n.status,le!=="dp2_only"&&T===f&&q()){fe&&(D=D.legacy),delete D.subject;let w=+new Date;D.wv_meta={event_id:P,source_app:b,client_lib:t,client_ts:w},q().sendAnalytic(m,D),H.push({...n.agtid&&{agent:{id:n.agtid}},context_id:ge,pageview_id:pe,event_id:P,...G&&{user_nyt_ad_id:G},client_lib:t,sourceApp:b,subject:"wv_debug",how:p,client_ts:w,gtm:ce(),data:{wv_subject:m}})}else H.push({...n.agtid&&{agent:{id:n.agtid}},...n.isDisabled()&&!O&&K()&&{session_id:v.sessionID,...v.nativeSessionID!=null&&{native_session_id:v.nativeSessionID}},context_id:ge,pageview_id:pe,event_id:P,...G&&{user_nyt_ad_id:G},client_lib:t,sourceApp:b,intranet:O?1:void 0,subject:m,how:k&&Te&&F?o:T,client_ts:+new Date,gtm:ce(),data:D});h=="send"||P==A||k?ue():(h=="soon"&&(clearTimeout(L),L=setTimeout(ue,200)),L||(L=setTimeout(ue,5500)))}e.nyt_et=function(){var r=arguments;B(r)};function Y(){if(n.status===i){return}n.agtid=e?.config?.userInfo?.agentID,We()}Y();function We(){if(y.init&&!b&&(B(y.init),y.init=null),b)for(;y.events.length>0;)B(y.events.shift())}e.nyt_et_buffer=e.nyt_et_buffer||[],function(){for(;e.nyt_et_buffer.length>0;)B(e.nyt_et_buffer.shift())}(),e.nyt_et_buffer.push=new Proxy(e.nyt_et_buffer.push,{apply:function(r,g,h){""+JSON.stringify(h[0]),B(h[0])}});function ce(){return se==null?null:{container_id:se,...re!=null&&{version:re},...oe!=null&&{environment:oe}}}e.nyt_et.get_pageview_id=function(){return""+n.status,""+n.pvid,""+A,n.status===s&&T==f?n.pvid:A},e.nyt_et.get_js_pageview_id=function(){return A},e.nyt_et.get_context_id=function(){return""+n.status,""+n.ctxid,""+x,n.status===s&&T==f?n.ctxid:x},e.nyt_et.get_session=function(){if(n.isDisabled()&&!O&&(v=ae.getSession(),v.isNewSession&&(j=void 0)),!!v)return{sessionID:v.sessionID,isNewSession:j===void 0?v.isNewSession:j==="session_start"}},e.nyt_et.get_source_app=function(){return n.status===s&&T==f?n.source_app:b},e.nyt_et.get_host=function(){return S},e.nyt_et.get_native_bridge_status=function(){return n.status},e.nyt_et.get_native_pageview_id=function(){return n.pvid},e.nyt_et.get_native_context_id=function(){return n.ctxid},e.nyt_et.get_native_agent_id=function(){return n.agtid},e.nyt_et.get_queue_len=function(){return y.events.length},e.nyt_et.enqueue_event=function(r){_e(r)},e.nyt_et.get_queue=function(){return y},e.nyt_et.get_debug_log_history=function(){return Je},e.nyt_et.get_native_source_app=function(){return n.source_app},e.nyt_et.get_last_send_response=function(){var r=xe;return r&&(xe=null),r},e.nyt_et.get_num_blocked_heartbeats=function(){return z},e.nyt_et.reset_blocked_heartbeat_counts=function(){z=0},e.nyt_et.set_gtm_data=function(r){r=r||{},r.container_id!=null&&(se=r.container_id),r.version!=null&&(re=r.version),r.environment!=null&&(oe=r.environment)},e.nyt_et.get_default_host=function(){return ne},e.nyt_et.get_version=function(){return t}})(window,"v2.0.11");})();
+
+;(function initWebUnifiedTracking(root) {
+	var _root;
+	root = root || (typeof window !== "undefined" ? window : void 0);
+	var UnifiedTracking = ((_root = root) === null || _root === void 0 ? void 0 : _root.UnifiedTracking) || {};
+	UnifiedTracking.context = "web";
+	if (!root) return UnifiedTracking;
+	root.UnifiedTracking = UnifiedTracking;
+	UnifiedTracking.sendAnalytic = function sendAnalytic(eventName, dataBlob) {
+		root.dataLayer = root.dataLayer || [];
+		if (Array.isArray(root.dataLayer)) {
+			dataBlob.event = dataBlob.event || eventName;
+			root.dataLayer.push(dataBlob);
+		}
+		return Promise.resolve({ success: true });
+	};
+	return UnifiedTracking;
+})(window);!function(r){var n,t;r=r||self,n=r.Abra,(t=r.Abra=function(){"use strict";var r=Array.isArray,n=function(r,n,t){var e=r(t,n),u=e[0],o=e[1];if(null==u||""===u)return n;for(var i=String(u).split("."),a=0;a<i.length&&(n=n[i[a]]);a++);return null==n&&(n=o),null!=n?n:null},t=function(r,n,t){return r(t,n).reduce((function(r,n){return parseFloat(r)+parseFloat(n)}),0)},e=function(r,n,t){var e=r(t,n);return e[0]/e[1]},u=function(r,n,t){var e=r(t,n);return e[0]%e[1]},o=function(r,n,t){return r(t,n).reduce((function(r,n){return parseFloat(r)*parseFloat(n)}),1)},i=function(r,n,t){var e=r(t,n),u=e[0],o=e[1];return void 0===o?-u:u-o};function a(n){return!(r(n)&&0===n.length||!n)}var f=function(r,n,t){for(var e,u=0;u<t.length;u++)if(!a(e=r(t[u],n)))return e;return e},c=function(r,n,t){var e;for(e=0;e<t.length-1;e+=2)if(a(r(t[e],n)))return r(t[e+1],n);return t.length===e+1?r(t[e],n):null},l=function(r,n,t){return!a(r(t,n)[0])},v=function(r,n,t){for(var e,u=0;u<t.length;u++)if(a(e=r(t[u],n)))return e;return e},d=function(r,n,t){var e=r(t,n);return e[0]===e[1]},s=function(r,n,t){var e=r(t,n);return e[0]!==e[1]},h=function(r,n,t){var e=r(t,n),u=e[0],o=e[1];return!(!o||void 0===o.indexOf)&&-1!==o.indexOf(u)},g=function(r,n,t){var e=r(t,n);return e[0]>e[1]},p=function(r,n,t){var e=r(t,n);return e[0]>=e[1]},b=function(r,n,t){var e=r(t,n),u=e[0],o=e[1],i=e[2];return void 0===i?u<o:u<o&&o<i},w=function(r,n,t){var e=r(t,n),u=e[0],o=e[1],i=e[2];return void 0===i?u<=o:u<=o&&o<=i},y=function(r,n,t){var e=t[0],u=t[1],o=t.slice(2),i=r(e,n);if(!i)return null;if(0===o.length)return null;if(1===o.length)return r(o[0],n);if(4294967295===o[0])return r(o[1],n);for(var a=function(r){var n,t,e,u,o,i=[],a=[t=1732584193,e=4023233417,~t,~e,3285377520],f=[],c=unescape(encodeURI(r))+"\x80",l=c.length;for(f[r=--l/4+2|15]=8*l;~l;)f[l>>2]|=c.charCodeAt(l)<<8*~l--;for(n=l=0;n<r;n+=16){for(t=a;l<80;t=[t[4]+(i[l]=l<16?~~f[n+l]:2*c|c<0)+1518500249+[e&u|~e&o,c=341275144+(e^u^o),882459459+(e&u|e&o|u&o),c+1535694389][l++/5>>2]+((c=t[0])<<5|c>>>27),c,e<<30|e>>>2,u,o])c=i[l-3]^i[l-8]^i[l-14]^i[l-16],e=t[1],u=t[2],o=t[3];for(l=5;l;)a[--l]+=t[l]}return a[0]>>>0}(i+" "+r(u,n));o.length>1;){var f=o.splice(0,2),c=f[0],l=f[1];if(a<=r(c,n))return r(l,n)}return 0===o.length?null:r(o[0],n)},k=function(r,n,t){var e=t[0],u=t[1],o=r(e,n);return null==o?null:new RegExp(u).test(o)};return function(a,m,O,A){void 0===a&&(a={}),void 0===m&&(m={}),void 0===O&&(O={}),void 0===A&&(A=!1);var j=function(){var r={},n=function(n){if(n)for(var t,e=decodeURIComponent(n[1]),u=/(?:^|,)([^,=]+)=([^,]*)/g;t=u.exec(e);){var o=t,i=o[1],a=o[2];r[i]=a||null}};n(document.cookie.match(/(?:^|;) *abra-overrides=([^;]+)/)),n(window.location.search.match(/(?:\?|&)abra-overrides=([^&]+)/));var t=/(?:^|;) *abra-nuke=true(?:;|$)/.test(document.cookie)||/(?:\?|&)abra-nuke=true(?:&|$)/.test(window.location.search);return[r,t]}(),x=j[0],E=j[1];Object.keys(O).forEach((function(r){x[r]=O[r]}));var F,C=A||E,R=(F={var:n,if:c,"===":d,"!==":s,and:f,or:v,"!":l,">":g,">=":p,"<":b,"<=":w,"+":t,"-":i,"*":o,"/":e,"%":u,in:h,abtest_partition:y,regex_match:k,ref:function(r,n,t){var e=r(t,n)[0];return U(e)}},function n(t,e){if(e||(e={}),r(t))return t.map((function(r){return n(r,e)}));if(!function(n){return"object"==typeof n&&null!==n&&!r(n)&&1===Object.keys(n).length}(t))return t;var u=function(r){return Object.keys(r)[0]}(t),o=t[u];r(o)||(o=[o]);var i=F[u];if(!i)throw new Error("Unrecognized operation "+u);return i(n,e,o)}),U=function(r){if(!r)return null;var n=x[r];if(void 0===n){if(!C){if(Object.prototype.hasOwnProperty.call(x,r))throw new Error("circular logic");x[r]=void 0,n=R(a[r],m)}void 0===n&&(n=null),x[r]=n}return n};return U}}()).noConflict=function(){return r.Abra=n,t}}(this);
+;/**
+ * Built by `pnpm build:global` (vite.config.mjs) from tools/avoGlobalEntry.ts.
+ * Not touched by `avo pull` — do not hand-edit; re-run `pnpm build:global` instead.
+ */
+var Avo=function(l){Object.defineProperty(l,Symbol.toStringTag,{value:"Module"});var v=function(o){return o.Prod="prod",o.Dev="dev",o}({}),g={invoke(o,e,i,t,r){if(!(r.rate<=0)&&!(Math.random()>=r.rate))try{fetch("https://api.avo.app/i",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({ac:t.actionId,br:t.branchId,sc:t.schemaId,so:t.sourceId,en:t.env,ev:o,ha:e,se:new Date().toISOString(),va:i.length===0,me:i,or:"library-interface"})}).then(n=>n.json()).then(n=>{const a=n?.sa;typeof a=="number"&&Number.isFinite(a)&&a>=0&&a<=1&&(r.rate=a)}).catch(()=>{})}catch{}},invokeMeta(o,e,i,t){if(!(t.rate<=0)&&!(Math.random()>=t.rate))try{fetch("https://api.avo.app/i",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({ac:i.actionId,br:i.branchId,sc:i.schemaId,so:i.sourceId,en:i.env,ty:o,se:new Date().toISOString(),va:e.length===0,me:e,or:"library-interface"})}).then(r=>r.json()).then(r=>{const n=r?.sa;typeof n=="number"&&Number.isFinite(n)&&n>=0&&n<=1&&(t.rate=n)}).catch(()=>{})}catch{}}},h=class u extends Error{constructor(e){super(e.join("; ")),Object.setPrototypeOf(this,u.prototype),this.name="AvoVerificationError",this.messages=e,Error.captureStackTrace&&Error.captureStackTrace(this,u)}},y=class{get userId(){}get revenueAmount(){}get pageName(){}get canonicalProperties(){return this.buildBaseProperties()}runValidation(){return[]}verify(){const o=this.runValidation();if(o.length>0)throw new h(o.map(e=>e.getMessage()))}},m=class f{constructor(e,i,t){this.samplingState={rate:1},this.env=e.env,this.strict=e.strict??!1,this.noop=e.noop??!1,this.inspector=e.inspector,this.destinations=t,this.invokeConfig=i,e.noop===!0&&e.env==="prod"&&(console.warn("[avo] WARNING: Avo cannot be initialized in noop mode in production. Overwriting with noop=false."),this.noop=!1),this.noop===!0&&console.warn("[avo] noop mode is active — all track() calls will be no-ops."),!this.noop&&this.env!=="prod"&&g.invokeMeta("init",[],this.invokeConfig,this.samplingState)}static init(e,i){const t=i.requiredDestinationKeys,r=e.destinations??{},n=Object.keys(r);let a;if(t.length===0)a={};else if(n.length===0)a={};else{const s=t.filter(p=>r[p]==null);if(s.length>0)throw new Error(`[avo] Avo.init: custom destinations must cover all DestinationKeys (all-or-nothing). Missing: [${s.join(", ")}]. Provide implementations for all DestinationKeys.`);a=Object.fromEntries(t.map(p=>[p,r[p]]))}for(const[s,p]of Object.entries(a))try{const c=i.destinationApiKeys[s],w=c?e.env==="prod"?c.prod:e.env===v.Staging?c.staging??c.dev:c.dev:void 0;p.make?.(e.env,w??void 0)}catch(c){console.warn("[avo] Destination "+s+" make() threw, continuing",c)}const d={...i.invokeConfig,env:e.env};return new f(e,d,a)}track(e){if(this.noop)return e.properties;const i=e.properties;if(this.env!=="prod"){let t;try{t=e.runValidation()}catch(r){if(r instanceof h){if(this.strict)throw r;for(const n of r.messages)console.error("[avo] Pre-validation check failed: "+n);return i}throw r}if(g.invoke(e.eventId,e.eventHash,t,this.invokeConfig,this.samplingState),t.length>0){if(this.strict)throw new h(t.map(r=>r.getMessage()));for(const r of t)console.error("[avo] Verification failed: "+r.getMessage())}}if(this.inspector!=null)try{const t={...e.canonicalProperties};t.avoFunctionEventId=e.eventId,t.avoFunctionEventHash=e.eventHash,this.inspector.avoFunctionTrackSchemaFromEvent(e.eventName,t)}catch(t){console.error("[avo] Inspector call failed: "+t)}if(Object.keys(this.destinations).length>0)for(const[t,r]of Object.entries(this.destinations)){const n=i[t];if(!n)continue;const a=e.eventTypes,d=n.properties;if(a.includes("updateGroups")&&console.warn(`[Avo] event "${e.eventName}" has type 'updateGroups' — group analytics not implemented in lib-interface mode (destination: ${t}).`),a.includes("alias")&&console.warn(`[Avo] event "${e.eventName}" has type 'alias' — alias not implemented in lib-interface mode (destination: ${t}).`),a.includes("identify"))if(e.userId!==void 0)try{r.identify(e.userId)}catch(s){console.error(`[avo] ${t}.identify failed:`,s)}else console.warn(`[Avo] event "${e.eventName}" is identify-typed but has no user-id enriched property — dest.identify(${t}) skipped.`);if(a.includes("unidentify"))try{r.unidentify()}catch(s){console.error(`[avo] ${t}.unidentify failed:`,s)}if(a.includes("page"))try{r.logPage(e.pageName??e.eventName,d)}catch(s){console.error(`[avo] ${t}.logPage failed:`,s)}if(a.includes("revenue"))if(e.revenueAmount!==void 0)try{r.revenue(e.revenueAmount,d)}catch(s){console.error(`[avo] ${t}.revenue failed:`,s)}else console.warn(`[Avo] event "${e.eventName}" is revenue-typed but has no revenue-amount enriched property — dest.revenue(${t}) skipped.`);if(!a.includes("skipLogEvent"))try{r.logEvent(n.name,d)}catch(s){console.error(`[avo] ${t}.logEvent failed:`,s)}}return i}setUserProperties(e,i){if(!this.noop&&Object.keys(this.destinations).length!==0)for(const[t,r]of Object.entries(this.destinations))try{r.setUserProperties(e,{...i})}catch(n){console.warn("[avo] Destination "+t+" setUserProperties threw, continuing",n)}}},b=class extends y{constructor(o){super(),this.eventId="n4cjC7KLSwIcMo1k8Vp36",this.eventHash="9ebcf4719d323eddc6bf2c7193e8a6e748f111735afd38c34b5beaa677fd5e96",this.eventName="page_viewed",this.eventTypes=[],this.pageUrl=o.pageUrl,this.pageCanonicalUrl=o.pageCanonicalUrl,this.pageUri=o.pageUri,this.pageTitle=o.pageTitle,this.pageCategory=o.pageCategory,this.pageSubcategory=o.pageSubcategory,this.product=o.product,this.referrerUrl=o.referrerUrl}get properties(){return{NYTEventTracker:{name:"page_viewed",properties:{page_url:this.pageUrl,page_canonical_url:this.pageCanonicalUrl,page_uri:this.pageUri,page_title:this.pageTitle,page_category:this.pageCategory,page_subcategory:this.pageSubcategory,product:this.product,referrer_url:this.referrerUrl}}}}buildBaseProperties(){return{page_url:this.pageUrl,page_canonical_url:this.pageCanonicalUrl,page_uri:this.pageUri,page_title:this.pageTitle,page_category:this.pageCategory,page_subcategory:this.pageSubcategory,product:this.product,referrer_url:this.referrerUrl}}runValidation(){return[]}},k={invokeConfig:{schemaId:"70I21oTxX1LQEMSnuMmm",actionId:"YedKunbVjSU90dpja0aw",branchId:"master",sourceId:"uTGEPm95wIQe0X_e0FDHG",inspectorApiKey:"GGuRklTqheplqQE3yiPN"},requiredDestinationKeys:["NYTEventTracker"],destinationApiKeys:{NYTEventTracker:{prod:null,dev:null}}};return l.Avo=m,l.AvoEnv=v,l.PageViewedEvent=b,l.codegenConfig=k,l}({});
+;(function () { var NYTD="undefined"!=typeof window&&window.NYTD?window.NYTD:{};function setupTimeZone(){var e='[data-timezone][data-timezone~="'+(new Date).getHours()+'"] { display: block }',i=document.createElement("style");i.innerHTML=e,document.head.appendChild(i)}function addNYTAppClass(){var e=window.vi&&window.vi.webviewEnvironment||{};e&&e.isInWebview&&document.documentElement.classList.add("NYTApp"),e&&e.isPreloaded&&document.documentElement.classList.add("NYTAppPreloaded"),e&&e.deviceType&&document.documentElement.classList.add(window.vi.webviewEnvironment.deviceType)}var PAGE_TYPE_EDGE_TO_CATEGORY={"vi-homepage":{category:"feed",subcategory:"home"},"vi-story":{category:"content",subcategory:"story"},"vi-video":{category:"content",subcategory:"media"},"vi-collection":{category:"feed",subcategory:"discovery"},"vi-interactive":{category:"content",subcategory:"story"}};function getPageCategoryInfo(e){return PAGE_TYPE_EDGE_TO_CATEGORY[e]||{category:"other",subcategory:"other"}}function addLiquidGlassClass(){navigator.userAgent.includes("isLiquidGlass")&&document.documentElement.classList.add("isLiquidGlass")}function addNYTPageTypeClass(){var e=window.vi.pageType.edge;e&&document.documentElement.classList.add("nytapp-"+e)}function isIOSNewsreaderWebview(){return void 0!==window.vi&&void 0!==window.vi.webviewEnvironment&&"IOS"===window.vi.webviewEnvironment.deviceType&&"newsreader"===window.vi.webviewEnvironment.appType}function shouldUseNativePvid(){return void 0!==window.vi&&void 0!==window.vi.webviewEnvironment&&window.vi.webviewEnvironment.isPreloaded||isIOSNewsreaderWebview()}function setNativePageViewId(e){return e?NYTD.PageViewId.current=e:isIOSNewsreaderWebview()&&window.NativeBridge?window.NativeBridge.getPageViewID().then((function(e){window.NYTD=window.NYTD||{},window.NYTD.PageViewId=window.NYTD.PageViewId||{},e&&e.values&&e.values.pageViewID?NYTD.PageViewId.current=e.values.pageViewID:NYTD.PageViewId.current="native-bridge-pageview_id-undefined"})).catch((function(){NYTD.PageViewId.current="native-bridge-getpageviewid-catch"})):window.config&&window.config.AdRequirements&&window.config.AdRequirements.page_view_id?NYTD.PageViewId.current=window.config.AdRequirements.page_view_id:NYTD.PageViewId.current="native-pageview_id-unavailable",NYTD.PageViewId.current}function forceNativePageViewIdUpdate(e){var i=NYTD.PageViewId&&NYTD.PageViewId.current;setNativePageViewId(e),window.AdSlot4&&window.AdSlot4.updateAdReq&&window.AdSlot4.updateAdReq({page_view_id:e}),NYTD.PageViewId&&NYTD.PageViewId.current!==i&&window.dispatchEvent(new CustomEvent("nyt:pvid-changed"))}function handlePvidDidChange(e){forceNativePageViewIdUpdate(e&&e.detail&&(e.detail.pageViewID||e.detail.newID))}function setupPageViewId(){NYTD.PageViewId={},NYTD.PageViewId.update=function(e){return e?NYTD.PageViewId.current=e:shouldUseNativePvid()?setNativePageViewId():"undefined"!=typeof nyt_et&&"function"==typeof window.nyt_et.get_pageview_id?(window.nyt_et("pageinit"),NYTD.PageViewId.current=window.nyt_et.get_pageview_id()):NYTD.PageViewId.current="no-native-bridge-nor-nyt_et",NYTD.PageViewId.current},shouldUseNativePvid()&&(isIOSNewsreaderWebview()&&window.NativeBridge?window.NativeBridge.addEventListener("pageViewIDDidChange",handlePvidDidChange):window.updatePageViewID=forceNativePageViewIdUpdate)}function getPageDomMetadata(){return{canonicalUrl:(document.querySelector("link[rel=canonical]")||{}).href,articleId:(document.querySelector("meta[name=articleid]")||{}).content,nytUri:(document.querySelector("meta[name=nyt_uri]")||{}).content,pubpEventId:(document.querySelector("meta[name=pubp_event_id]")||{}).content,url:location.href,referrer:document.referrer||void 0}}function buildLegacyPagePayload(e){return{subject:"page",canonicalUrl:e.canonicalUrl,articleId:e.articleId,nyt_uri:e.nytUri,pubpEventId:e.pubpEventId,url:e.url,referrer:e.referrer,client_tz_offset:(new Date).getTimezoneOffset()}}function buildEventgatePageViewedPayload(e){var i=vi.env&&"prd"===vi.env.ENVIRONMENT?window.Avo.AvoEnv.Prod:window.Avo.AvoEnv.Dev,n=window.Avo.Avo.init({env:i,strict:!0},window.Avo.codegenConfig),t=getPageCategoryInfo(window.vi&&window.vi.pageType&&window.vi.pageType.edge||""),a=(document.title||"").slice(0,100),d=new window.Avo.PageViewedEvent({pageUrl:e.url,pageCanonicalUrl:e.canonicalUrl||null,pageUri:e.nytUri,pageTitle:a,pageCategory:t.category,pageSubcategory:t.subcategory,product:"news",referrerUrl:e.referrer||""});return n.track(d).NYTEventTracker||null}function triggerETOnlyInit(e,i){window.nyt_et("init",{hostname:vi.env.ET2_URL,event_gate:{hostname:vi.env.EVENTGATE_BASE_URL},dual_send_subjects:["session_start","session_update"]},"nyt-vi",{enable_native_bridge_transmit:i},e)}function triggerDualInit(e,i){var n=buildLegacyPagePayload(e),t=null,a=!window.Avo;if(window.Avo)try{t=buildEventgatePageViewedPayload(e).properties}catch(e){console.error("Avo pageViewed tracking failed",e),a=!0}if(a)triggerETOnlyInit(n,i);else{t.event_name="page_viewed";var d={subject:"page",legacy:n,payload:t};window.nyt_et("init",{hostname:vi.env.ET2_URL,event_gate:{hostname:vi.env.EVENTGATE_BASE_URL},dual_send_subjects:["page","session_start","session_update"]},"nyt-vi",{enable_native_bridge_transmit:i},d)}}function reRenderEvent(){window.dispatchEvent(new CustomEvent("rerender-programming",{detail:{viewport:window.innerWidth}}))}function setupResizeListeners(){var e=window.vi&&window.vi.webviewEnvironment||{},i=window.vi&&window.vi.pageType&&window.vi.pageType.edge;e&&e.isPreloaded&&"vi-homepage"===i&&(window.addEventListener("resize",(function(){reRenderEvent("window.onresize callback")})),window.addEventListener("rerender-ready",(function(){reRenderEvent("rerender-ready Custom Event callback")})))}var _f=function(e){var i=!1;if((window.vi&&window.vi.webviewEnvironment||{}).isInWebview)try{i="1"===new URLSearchParams(window.location.search).get("use_nativebridge")}catch(e){}try{document.domain="nytimes.com"}catch(e){}if(window.swgUserInfoXhrObject=new XMLHttpRequest,setupPageViewId(),setupTimeZone(),addNYTAppClass(),addLiquidGlassClass(),addNYTPageTypeClass(),setupResizeListeners(),window.nyt_et&&"function"==typeof window.nyt_et){var n=getPageDomMetadata(),t=!(e&&e.sendAvoPageViewedDualSend);window.dataLayer=window.dataLayer||[],window.dataLayer&&window.dataLayer.push({sendNewPageEvents:!t}),t?triggerETOnlyInit(buildLegacyPagePayload(n),i):triggerDualInit(n,i)}shouldUseNativePvid()?setNativePageViewId():"undefined"!=typeof nyt_et&&"function"==typeof window.nyt_et.get_pageview_id?NYTD.PageViewId.current=window.nyt_et.get_pageview_id()||"nyt_et-pageview_id-undefined":NYTD.PageViewId.update(),window.queue=[];var a=window.reportError;window.reportError=function(){var e=Array.prototype.slice.call(arguments),i=e[0];(i.message.includes("Hydration failed because the server rendered")||i.message.includes("Minified React error #423")||i.message.includes("Minified React error #418"))&&(window.hasHydrationError=!0),a.apply(null,e)},window.NYTD=NYTD||{}};;_f.apply(null, [{"sendAvoPageViewedDualSend":false}]); })();;(function () { var NYTD="undefined"!=typeof window&&window.NYTD?window.NYTD:{};var _f=function(n){var e=window.vi&&window.vi.webviewEnvironment&&window.vi.webviewEnvironment.isPreloaded;function i(){if(window.Abra&&"function"==typeof window.Abra){NYTD.Abra=function(){var i=e?window.getNativeBridgeCookie("nyt-a"):(window.document.cookie.match(/(?:^|;) *nyt-a=([^;]*)/)||[])[1],t=[];window.dataLayer=window.dataLayer||[],c.config=n.abraConfig||{},c.reportedAllocations={},c.reportedExposures={};var o=(n.abraURL||"").match(/current[/]([a-zA-Z-]+)\.json/i);c.integration=o&&o.length>1?o[1]:"";try{c.version=window.Abra(c.config)(".ver")}catch(n){c.version=0}var r=c.config,a={agent_id:i},d=window.Abra(r,a);function c(n){return c.getAbraSync(n).variant}return c.getAbraSync=function(n){var e=c.reportedAllocations[n];if(void 0!==e)return{variant:e,allocated:!0};var i=null,t=!1;try{i=d(n),t=!0}catch(n){}return{variant:i,allocated:t}},c.reportExposure=function(n){var e=c.getAbraSync(n).variant;if(null!=e&&(void 0===c.reportedExposures[n]||e!==c.reportedExposures[n])){c.reportedExposures[n]=e;var i={event:"ab-expose",abtest:{test:n,variant:e,config_ver:c.version,integration:c.integration}};window.UnifiedTracking.sendAnalytic(i.event,i)}},c.alloc=function(){Object.keys(c.config).filter((function(n){return!n.includes(".")})).forEach((function(n){var e=c.getAbraSync(n);e.allocated&&(c.reportedAllocations[n]=e.variant,t.push({test:n,variant:e.variant}))}));var n={event:"ab-alloc",abtest:{batch:t}};window.UnifiedTracking.sendAnalytic(n.event,n)},c.alloc(),c}();var i="SHA_opinionPrompt_0325",t=window.NYTD.Abra.getAbraSync(i).variant;t&&document.documentElement.classList.add(i+"_"+t),window.NYTD=NYTD||{}}}e&&!window.nativeBridgeCookies?window.initNativeBridgeCookies(i):i()};;_f.apply(null, [{"abraConfig":{".ver":29900,"UJ_user_settings_target_newsletter":{"abtest_partition":[{"var":"agent_id"},"79dec949-9025-48f1-ac0f-beb9f03f4a1b",858993458,"1_active",4294967295,"1_active"]},"SUBX_regi_traffic_controller":{"abtest_partition":[{"var":"regi_id"},"3a3bea42-2670-4870-9e65-0fc74bc7396b",1717986917,"1_fdh",4294967295,"2_no_fdh"]},"SUBCON_RES_AIG_SURVEY_228":{"abtest_partition":[{"var":"agent_id"},"SUBCON_RES_AIG_SURVEY_228",4080218930,"0_Control",4294967295,"1_Variant"]},"SP_ReqToComRollout_Web":{"abtest_partition":[{"var":"agent_id"},"SP_ReqToComRollout_Web",214748364,"0_Off",236223200,"0_Off",3242700307,"0_Off",3435973836,"0_Off",4101693767,"0_Off",4294967295,"0_Off"]},"SP_commentsThreading_0425":{"abtest_partition":[{"var":"regi_id"},"SP_commentsThreading_0425",2147483647,"1_Threading",4080218930,"1_Threading",4294967295,"1_Threading"]},"OMA_TIMEOUTROLLOUT_062024":{"abtest_partition":[{"var":"agent_id"},"OMA_TIMEOUTROLLOUT_062024",4294967295,"on"]},"OMA_SAMIZDAT_SELECTION_KILL_SWITCH":{"abtest_partition":[{"var":"agent_id"},"OMA_SAMIZDAT_SELECTION_KILL_SWITCH"]},"OMA_SAMIZDAT_OPS_KILL_SWITCH":{"abtest_partition":[{"var":"agent_id"},"OMA_SAMIZDAT_OPS_KILL_SWITCH"]},"OMA_OPS_DEDUP":{"abtest_partition":[{"var":"agent_id"},"OMA_OPS_DEDUP",4294967295,"1_Variant"]},"OMA_FASTLY_ROLLOUT_09_24":{"abtest_partition":[{"var":"agent_id"},"OMA_FASTLY_ROLLOUT_09_24",214748364,"1_fastly",429496729,"1_fastly",644245093,"1_fastly",858993458,"1_fastly",1288490188,"1_fastly",1717986917,"1_fastly",2576980377,"1_fastly",3435973836,"1_fastly",3865470565,"1_fastly",4294967295,"1_fastly"]},"OMA_DISABLE_USER_STATE_HYBRID":{"abtest_partition":[{"var":"agent_id"},"OMA_DISABLE_USER_STATE_HYBRID",1073741823,"enabled",4294967295,"enabled"]},"OMA_ALGO_POWERED_UPGRADE_CAMPAIGN":{"abtest_partition":[{"var":"regi_id"},"OMA_ALGO_POWERED_UPGRADE_CAMPAIGN_v6",214748364,"1_Variant",429496729,"1_Variant",644245093,"1_Variant",858993458,"1_Variant",1503238553,"1_Variant",1932735282,"1_Variant",2147483647,"1_Variant",2576980377,"1_Variant",2791728741,"1_Variant",3221225471,"1_Variant",4294967295,"1_Variant"]},"OFFERS_STRATEGY_PRESENTATION_ROLLOUT_06_2025":{"abtest_partition":[{"var":"agent_id"},"OFFERS_STRATEGY_PRESENTATION_ROLLOUT_06_2025",2147483647,"on",4294967295,"on"]},"MX_OMA_DOCK_INTERNAL_TEST":{"abtest_partition":[{"var":"agent_id"},"MX_OMA_DOCK_INTERNAL_TEST",4080218930,"0_Control",4294967295,"0_Control"]},"MX_NewArchitecture_gateway":{"if":[{"and":[{"===":[{"ref":"MX_NewArchitecture_MeterReal"},"1_variant"]}]},{"abtest_partition":[{"var":"agent_id"},"MX_NewArchitecture_gateway",21474835,"1_variant",107374181,"1_variant",1073741823,"1_variant",1116691496,"1_variant",1159641169,"1_variant",1267015351,"1_variant",1503238553,"1_variant",1717986917,"1_variant",1932735282,"1_variant",2126008811,"1_variant",4294967295,"1_variant"]}]},"MKT_first_party_data_survey_subs_dock":{"abtest_partition":[{"var":"regi_id"},"MKT_first_party_data_survey_subs_dock",2748779068,"0_control",2963527433,"1_survey",4294967295,"0_control"]},"MKT_first_party_data_survey_regi_dock":{"abtest_partition":[{"var":"regi_id"},"MKT_first_party_data_survey_regi_dock",3822520892,"0_control",3908420238,"1_survey",4294967295,"0_control"]},"MKT_first_party_data_survey":{"abtest_partition":[{"var":"agent_id"},"MKT_first_party_data_survey",2061584301,"0_control",2276332666,"1_survey",3650722201,"0_control",4294967295,"1_survey"]},"GUAC_GROWTH_EXISTING_SUBS_BAR1_SPLIT":{"abtest_partition":[{"var":"agent_id"},"84bd05a9-a853-4748-90ac-cefc321921e3",858993458,"v7",1288490188,"v7",4294967295,"v7"]},"CONV_GUAC_PLOPRO_SLAYER_0224":{"abtest_partition":[{"var":"agent_id"},"CONV_GUAC_PLOPRO_SLAYER_0224",4294967295,"1_slayer"]},"CONV_GUAC_CKLP_ExpressCheckOut_RollOut_0124":{"abtest_partition":[{"var":"agent_id"},"CONV_GUAC_CKLP_ExpressCheckOut_RollOut_0124",4294967295,"1_expresscheckout"]},"CONV_GUAC_AALP_HDAnchor_Test_0424":{"abtest_partition":[{"var":"agent_id"},"CONV_GUAC_AALP_HDAnchor_Test_0424",1417339207,"1_anchor",4294967295,"1_anchor"]},"conv_applepay_express_for_canada_rollout_gateway":{"abtest_partition":[{"var":"agent_id"},"1c770b0b-2e59-4e11-b0be-18ce3d7bbb10"]},"BETAMAX_watch_feed_on_media":{"abtest_partition":[{"var":"agent_id"},"BETAMAX_watch_feed_on_media",4294967295,"1_Disabled"]}},"abraURL":"https://a1.nyt.com/abra-config/current/vi-prd.json"}]); })();;false;false;false;(function () { var _f=function(e,t){var n=window.vi&&window.vi.webviewEnvironment&&window.vi.webviewEnvironment.isPreloaded,r=JSON.stringify({data:{user:{__typename:"User",profile:null,newsletterSubscriptions:{newsletters:[]},userInfo:null,protectedIds:null,subscriptionDetails:null}}});function s(){var r,s,o=e.url;try{r=JSON.parse(e.body)}catch(e){return void console.error("Error parsing body:",e)}try{var i=window.location.search;if(i){var a=i.slice(1).split("&").reduce((function(e,t){return"ip-override"===t.split("=")[0]?"?"+t:e}),"");o+=a}}catch(e){console.warn(e)}function u(t,r,s,o){var i=new XMLHttpRequest;if(i.withCredentials=!0,i.open(t,r,!0),i.setRequestHeader("Content-Type","application/json"),i.setRequestHeader("Accept","application/json"),n){var a=window.getNativeBridgeCookie("NYT-S"),u=window.getNativeBridgeCookie("nyt-a");i.setRequestHeader("NYT-User-Token",a),i.setRequestHeader("NYT-Agent-ID",u)}for(var d in e.headers)i.setRequestHeader(d,e.headers[d]);i.onreadystatechange=function(){i.readyState===XMLHttpRequest.DONE&&o(i)},i.send(s?JSON.stringify(s):null),window.userXhrObject=i}function d(e){var n;if(200===e.status)try{var s=JSON.parse(e.responseText);!s.data&&s.errors&&s.errors.length>0&&"PersistedQueryNotFound"===s.errors[0].message&&(console.warn("Persisted query not found for GET request."),n={operationName:r.operationName,query:r.query,extensions:{persistedQuery:{version:1,sha256Hash:t}},variables:r.variables},u("POST",o,n,(function(e){200!==e.status&&console.warn("POST request failed:",e.status,e.statusText)})))}catch(e){console.warn("Error processing response:",e)}else console.warn("Request failed:",e.status,e.statusText)}s="extensions="+encodeURIComponent(JSON.stringify({persistedQuery:{version:1,sha256Hash:t}}))+"&operationName="+r.operationName+"&variables="+encodeURIComponent(JSON.stringify(r.variables)),u("GET",o+"?"+s,null,d)}function o(){(n?!!window.getNativeBridgeCookie("NYT-S"):!/(^|;\s*)nyt-s-present=0(?:;|$)/.test(document.cookie))?s():window.userXhrObject={readyState:4,status:200,statusText:"OK",responseText:r,response:r,getResponseHeader:function(e){return{"content-type":"application/json","content-length":String(this.responseText.length)}[e.toLowerCase()]||null},addEventListener:function(){},removeEventListener:function(){},withCredentials:!1}}!n||window.nativeBridgeCookies&&"function"==typeof window.getNativeBridgeCookie?o():window.initNativeBridgeCookies(o),window.userXhrRefresh=function(){return s(),window.userXhrObject}};;_f.apply(null, [{"url":"https://samizdat-graphql.nytimes.com/graphql/v2","body":"{\"operationName\":\"UserQuery\",\"variables\":{},\"query\":\"   query UserQuery {     user {       __typename       profile {         displayName         email         givenName       }       newsletterSubscriptions {         newsletters {           productCode           isFreeTrial           freeTrialSignupTime         }       }       userInfo {         regiId         entitlements       }       protectedIds {         experimentationId         advertisingId       }       subscriptionDetails {         bundleType         cancellationDate         graceStartDate         graceEndDate         isFreeTrial         hasQueuedSub         startDate         endDate         status         hasActiveEntitlements         entitlements         billingSource         promotionTierType         subscriptionName         subscriptionProducts         subscriptionLabels       }     }   } \"}","headers":{"nyt-app-type":"project-vi","nyt-app-version":"0.0.5","nyt-token":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+/oUCTBmD/cLdmcecrnBMHiU/pxQCn2DDyaPKUOXxi4p0uUSZQzsuq1pJ1m5z1i0YGPd1U1OeGHAChWtqoxC7bFMCXcwnE1oyui9G1uobgpm1GdhtwkR7ta7akVTcsF8zxiXx7DNXIPd2nIJFH83rmkZueKrC4JVaNzjvD+Z03piLn5bHWU6+w+rA+kyJtGgZNTXKyPh6EC6o5N+rknNMG5+CdTq35p8f99WjFawSvYgP9V64kgckbTbtdJ6YhVP58TnuYgr12urtwnIqWP9KSJ1e5vmgf3tunMqWNm6+AnsqNj8mCLdCuc5cEB74CwUeQcP2HQQmbCddBy2y0mEwIDAQAB","nyt-gql-req-msg":"shed-priority=1"}},"79a96127e043d767420d83f37f8d909dd3507bba7bbdd038a657ffed73df5aad"]); })();;(function () { var _f=function(){var e=window._interactiveRegistry={};window.registerInteractive=function(t){var r={_subs:{cleanup:[],remount:[]},id:t,on:function(e,t){return this._subs[e].push(t),r},errorFound:!1},n=document.getElementById("embed-id-"+t),i=new MutationObserver((function(){(n.textContent.includes("500 Internal Error")||n.textContent.includes("200 undefined"))&&(r.errorFound||(window.dispatchEvent(new CustomEvent("trigger-embed-hydration-"+t)),window.Sentry&&window.Sentry.captureException&&window.Sentry.captureException(new Error("Embed load error, triggered manual rehydration: "+t)),r.errorFound=!0))}));n&&i.observe(n,{characterData:!0,attributes:!1,childList:!0,subtree:!0}),e[t]=r},window.getInteractiveBridge=function(t){var r="string"==typeof t?t:function(e){for(;(e=e.parentElement)&&!e.matches("[data-sourceid].interactive-body"););return e?e.getAttribute("data-sourceid"):null}(t);return e[r]}};;_f.apply(null, []); })();;(function () { var _f=function(){"function"!=typeof window.onInitNativeAds&&(window.onInitNativeAds=function(){})};;_f.apply(null, []); })();;false
+    </script>
+    
+    
+
+    
+    
+    
+    
+    
+  </head>
+  <body>
+    
+    <div id="app"><div class="css-1gow62b ezd49050"><div class="css-61rp44" role="status"><div class="css-o78f7n" data-testid="response-snackbar"><p class="css-151x441">An error occurred, please try again.</p></div></div></div></div>
+    <script>window.__preloadedData = {"loaderData":null,"initialState":{},"config":{"gqlUrlClient":"https:\u002F\u002Fsamizdat-graphql.nytimes.com\u002Fgraphql\u002Fv2","gqlRequestHeaders":{"nyt-app-type":"project-vi","nyt-app-version":"0.0.5","nyt-token":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+\u002FoUCTBmD\u002FcLdmcecrnBMHiU\u002FpxQCn2DDyaPKUOXxi4p0uUSZQzsuq1pJ1m5z1i0YGPd1U1OeGHAChWtqoxC7bFMCXcwnE1oyui9G1uobgpm1GdhtwkR7ta7akVTcsF8zxiXx7DNXIPd2nIJFH83rmkZueKrC4JVaNzjvD+Z03piLn5bHWU6+w+rA+kyJtGgZNTXKyPh6EC6o5N+rknNMG5+CdTq35p8f99WjFawSvYgP9V64kgckbTbtdJ6YhVP58TnuYgr12urtwnIqWP9KSJ1e5vmgf3tunMqWNm6+AnsqNj8mCLdCuc5cEB74CwUeQcP2HQQmbCddBy2y0mEwIDAQAB","x-nyt-internal-meter-override":undefined},"gqlFetchTimeout":1500,"disablePersistedQueries":false,"initialDeviceType":"desktop","fastlyAbraConfig":{".ver":"29820.000"},"fastlyEntitlements":[],"targetingDimensionsConfig":{"agent_id":"BbFil21aef9g1OWoBroIht","newsTenure":"anon_user","nyt-s-present":"0"},"platform":undefined,"internalPreviewConfig":{"meter":undefined,"swg":undefined},"webviewEnvironment":{"isInWebview":false,"isPreloaded":false,"colorBehaviorConfig":{"colorBehavior":"alwaysLight","colorBehaviorClassName":"tpl-always-light","colorScheme":"light","dataAttributes":{}}},"isOptimisticallyTruncated":false,"optimisticTruncationDropzone":6,"requestPath":"\u002Fsubscription","routeName":"subscription-all-access","pageVariant":"tristate","adReserveHeights":{"smallVp":280,"largeVp":280},"adFormatRulesByPosition":{"smallVp":undefined,"largeVp":undefined},"fastlyStatsigUsedAssignments":{"gates":{},"configs":{"vi_samizdat_server_identity":{"value":{"enabled":true,"operations":["TrendingQuery","SitemapDayQuery","SitemapDaysQuery","SitemapMonthsQuery","SitemapYearQuery","ProgrammingHomeQuery","ProgrammedFeedQuery","CommunityCommentsSummaries","ScoopNewsArticleQuery"]}}},"layers":{}},"sendAvoPageViewedDualSend":false,"useSubscriberSubscriptionsQuery":false,"serviceWorkerFile":"sw.js"},"ssrQuery":{},"initialLocation":{"pathname":"\u002Fsubscription","search":""}};</script>
+    
+    
+    
+    <script type="module" src="/vi-assets/static-assets/main-BkIzjPek.js"></script>
+    <script type="module" src="/vi-assets/static-assets/adslot-BJFeX-XC.js"></script>
+    <script>(function () { var _f=function(){try{var e=["first-paint","first-contentful-paint","userBtnRender","appRenderTime"];new window.PerformanceObserver((function(r){for(var n=r.getEntries(),a=0;a<n.length;a+=1){var t=n[a];if(e.indexOf(t.name)>-1){var i={};i[t.name]=Math.round(t.duration||t.startTime),(window.dataLayer=window.dataLayer||[]).push({event:"performance",pageview:{performance:i}})}}})).observe({entryTypes:["mark","measure","paint"]})}catch(e){}};;_f.apply(null, []); })();(function () { var _f=function(){!function(){if(1===Math.floor(20*Math.random())&&(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted)){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url="https://s.go-mpulse.net/boomerang/ATH8A-MAMN8-XPXCH-N5KAX-8D239";var e=(document.currentScript||document.getElementsByTagName("script")[0]).parentNode,n=!1,t=document.createElement("link");t.relList&&"function"==typeof t.relList.supports&&t.relList.supports("preload")&&"as"in t?(window.BOOMR.snippetMethod="p",t.href=window.BOOMR.url,t.rel="preload",t.as="script",t.addEventListener("load",(function(){if(!n){var t=document.createElement("script");t.id="boomr-scr-as",t.src=window.BOOMR.url,t.async=!0,e.appendChild(t),n=!0}})),t.addEventListener("error",(function(){o(!0)})),setTimeout((function(){n||o(!0)}),3e3),BOOMR_lstart=(new Date).getTime(),e.appendChild(t)):o(!1),window.addEventListener?window.addEventListener("load",i,!1):window.attachEvent&&window.attachEvent("onload",i)}function o(t){n=!0;var o,i,d,a,r=document,s=window;if(window.BOOMR.snippetMethod=t?"if":"i",i=function(e,n){var t=r.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),(e=e||r.body).appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void i(e,"boomr-async");(d=document.createElement("IFRAME")).src="about:blank",d.title="",d.role="presentation",d.loading="eager",(a=(d.frameElement||d).style).width=0,a.height=0,a.border=0,a.display="none",e.appendChild(d);try{s=d.contentWindow,r=s.document.open()}catch(e){o=document.domain,d.src="javascript:var d=document.open();d.domain='"+o+"';void 0;",s=d.contentWindow,r=s.document.open()}o?(r._boomrl=function(){this.domain=o,i()},r.write("<body onload='document._boomrl();'>")):(s._boomrl=function(){i()},s.addEventListener?s.addEventListener("load",s._boomrl,!1):s.attachEvent&&s.attachEvent("onload",s._boomrl)),r.close()}function i(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}}()};;_f.apply(null, []); })();</script>
+    
+    <script>
+(function(w, l) {
+  w[l] = w[l] || [];
+  w[l].push({
+    'gtm.start': new Date().getTime(),
+    event: 'gtm.js'
+  });
+})(window, 'dataLayer');
+</script>
+<script defer src="https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x"></script>
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+    <!-- RELEASE 40f6af981c04eecd6fe7691decd737ab75368447 -->
+    
+
+  </body>
+</html>

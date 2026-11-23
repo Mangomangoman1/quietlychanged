@@ -1,0 +1,112 @@
+import json
+G = "../"  # relative from /guides/<slug>/
+C = "../../changes/"
+slug = "subscription-black-friday-deals-2026-when-prices-go-back-up"
+d = {
+"title": "Subscription Black Friday deals 2026: what's actually on sale, the price after, and when each deal ends",
+"desc": "Every subscription Black Friday deal we could verify on official pages on Nov 23, 2026: HBO Max $5.49 for 12 months, Peacock from $2.99, Paramount+ $2.99, Apple TV $6.99, YouTube TV, PS Plus, Microsoft 365, Spotify, Audible, cPanel. Real prices after, end dates, and who qualifies.",
+"dek": "Short answer: as of November 23, 2026 the biggest subscription Black Friday deals on official pages are HBO Max Basic With Ads at $5.49 a month for 12 months (then $10.99), Peacock Select at $29.99 for a year or $2.99 a month for 3 months, Paramount+ at $2.99 a month for 2 months, Apple TV at $6.99 a month for 6 months (then $14.99) and PlayStation Plus 12-month plans at 20% to 33% off. Most end November 30. Almost all are for new or lapsed subscribers only, and every one renews at full price unless you cancel. Amazon Prime, Disney+ and Hulu showed no Black Friday discount on their own sites when we checked.",
+"published": "2026-11-23",
+"modified": "2026-11-23",
+"services": ["HBO Max", "Peacock", "Paramount+", "Apple TV", "YouTube TV", "PlayStation Plus", "Microsoft 365", "Spotify", "Audible", "Amazon Prime", "Disney+", "cPanel"],
+"changes": [
+ "2026-11-20-apple-tv-apple-tv-s-black-friday-deal-6-months-at-6-99-a-month-ending-november",
+ "2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-dec-7-nine-days-before-its-dec-16",
+ "2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-dec-16",
+ "2026-11-19-spotify-spotify-premium-free-trial-is-now-3-months-for-new-users-until-december",
+ "2026-11-11-microsoft-365-microsoft-365-runs-a-30-off-first-term-on-personal-and-premium",
+ "2026-10-16-audible-limited-time-offer-99-for-a-year-of-premium",
+ "2026-11-13-logos-logos-and-verbum-raise-prices-dec-7-plus-1-to-2-a-month-for-most-plans"
+],
+"body": [
+{"p": "Every price below was on the company's own website when we checked on November 23, 2026 (US prices, before tax), unless we say otherwise. We left out deals we could only find on third-party sites. \"Our math\" marks totals and savings we calculated ourselves. Deals can change or end early, so check the linked page before you pay; we'll update this page as offers change through Cyber Monday."},
+{"h": "Every verified subscription Black Friday deal, in one table"},
+{"table": {"headers": ["Service", "Deal price", "Price after the deal", "Deal ends", "Who gets it"], "rows": [
+ ["**HBO Max** Basic With Ads", "$5.49/mo for 12 months", "$10.99/mo", "Nov 30", "New and returning"],
+ ["**Peacock Select**", "$2.99/mo for 3 months, or $29.99 for 1 year", "$8.99/mo or $89.99/yr", "Nov 30", "Not current paying subscribers"],
+ ["**Peacock Premium**", "$8.99/mo for 3 months, or $89.99 for 1 year", "$12.99/mo or $129.99/yr", "Nov 30", "Not current paying subscribers"],
+ ["**Paramount+** (any monthly plan)", "$2.99/mo for 2 months", "$8.99 (Essential) or $13.99 (Premium)", "Nov 30", "New and eligible former subscribers"],
+ ["**Apple TV**", "$6.99/mo for 6 months", "$14.99/mo", "Nov 30, 8 p.m. PT", "New and qualified returning"],
+ ["**PlayStation Plus** 12 months", "Essential $63.99, Extra $101.24, Premium $107.19", "$79.99 / $134.99 / $159.99 a year", "Nov 30", "\"Qualifying users only\""],
+ ["**YouTube TV** main plan", "$59.99/mo for 2 months", "$82.99/mo", "Dec 2", "New users"],
+ ["**YouTube TV** Sports + News", "$49.99/mo for 6 months", "$71.99/mo", "Dec 2", "New users"],
+ ["**Microsoft 365** Personal / Premium", "30% off the first month or year ($69.99 / $139.99 a year)", "$99.99 / $199.99 a year", "No date given", "Not past Microsoft 365 trial users"],
+ ["**Spotify Premium** Individual", "$0 for 3 months", "$12.99/mo", "Dec 31", "Never tried Premium"],
+ ["**Audible**", "$0.99/mo for 3 months + $20 bonus; or $99 for a year of Premium", "$8.99/mo; Premium $14.95/mo", "No date given", "See Audible's terms"],
+ ["**cPanel** licenses", "50% off new licenses", "Prices rise Dec 16", "Dec 7", "New licenses"]
+]}},
+{"p": "Our math for what each deal is worth over its whole promo period, compared with paying the regular price for the same months: HBO Max saves $66.00 ($65.88 instead of $131.88 for a year), Peacock Select's annual offer saves $60.00 and Premium's $40.00, Apple TV saves $48.00 ($41.94 instead of $89.94 for six months), Paramount+ Premium saves $22.00 and Essential $12.00, YouTube TV Sports + News saves $132 and the main plan $46 (YouTube's own figures), PlayStation Plus Premium saves $52.80 on a year, and Spotify's three free months are worth $38.97."},
+{"h": "When does the price go back up?"},
+{"p": "This is the part the deal headlines leave out. Every offer here is an auto-renewing subscription: when the promo period ends, you are charged the regular price unless you cancel first. If you sign up on Black Friday, November 27, the full price kicks in around these dates (our math; the exact day depends on your billing date):"},
+{"ul": [
+ "**Late January 2027:** Paramount+ (after 2 months) and the YouTube TV main-plan offer (after 2 months).",
+ "**Late February 2027:** Peacock's 3-month offers, Audible's $0.99 months and Spotify's 3 free months.",
+ "**Late May 2027:** Apple TV (after 6 months) and the YouTube TV Sports + News offer (after 6 months).",
+ "**Late November 2027:** HBO Max (after 12 months), Peacock's 1-year offers, PlayStation Plus 12-month plans and Microsoft 365's discounted first year."
+]},
+{"p": "Put a reminder in your calendar a few days before each date. Several services say up front that you won't get money back once you've been charged: HBO Max says \"Subscription fees are non-refundable.\", Peacock says \"no credits or refunds will be provided for subscription fees already paid.\" and YouTube TV's offers say \"No refunds. Cancel anytime.\""},
+{"h": "Streaming deals"},
+{"h": "HBO Max: $5.49 a month for 12 months"},
+{"p": "HBO Max's offer is the longest monthly discount on this list. The terms: \"Offer valid from November 23, 2026, through November 30, 2026.\" It is for new and returning customers on hbomax.com and through Apple, Google Play, Roku, Samsung and Xumo, but only new customers through Amazon Fire. You get \"the HBO Max Basic With Ads monthly plan at a discounted rate of $5.49 per month (plus applicable taxes) for the first 12 months.\" After that it renews at \"the then-current subscription price (now, $10.99/mo. plus applicable taxes)\"."},
+{"p": "Two catches: \"If you switch plans during your discount period, you will lose the benefit of this offer.\" So upgrading to ad-free Standard or Premium ends the discount. And it only covers Basic With Ads, which streams on 2 devices in 1080p. Plans and regular prices: [our HBO Max price guide](" + G + "hbo-max-plans-and-prices-2026-every-price-increase/)."},
+{"h": "Peacock: up to 66% off, monthly or annual"},
+{"p": "Peacock's Black Friday code is valid \"November 23, 2026 – November 30, 2026\" and gives four choices: Select for \"3 months at $2.99/month\" or \"1 year for $29.99\", and Premium for \"3 months at $8.99/month\" or \"1 year for $89.99\". The \"up to 66% off\" headline is the Select annual deal: $29.99 instead of $89.99. Our math: the annual deals beat the monthly ones by far. Select annual costs $29.99 for 12 months; Select monthly costs $8.97 for 3 months and then $8.99 a month."},
+{"p": "Who can't get it: you must not be \"a current paying Peacock subscriber\", and the offer \"Cannot be combined with any other offer, including any offer redeemed in the past 12 months.\" Select doesn't include sports, movies or live events: Peacock says it \"does not include Sports, Movies, Live Programming (including the Macy’s Thanksgiving Day Parade) or Peacock Original series.\" If you want live sports or the parade, take the Premium deal. More: [our Peacock price guide](" + G + "peacock-plans-and-prices-2026-every-price-increase/)."},
+{"h": "Paramount+: $2.99 a month for 2 months"},
+{"p": "Paramount+ calls it a \"Limited-time Black Friday offer! Get any monthly plan for $2.99/month for your first 2 months.\" The small print: \"Ends 11/30/26. New & eligible former subscribers. Monthly plans only.\" The deal applies to both Essential ($8.99 a month, with ads) and Premium ($13.99), so Premium is the better pick: you save $22.00 over two months instead of $12.00 (our math). After two months it \"auto-renews at then-current full price of your plan unless canceled.\" Annual plans aren't included. More: [our Paramount+ price guide](" + G + "paramount-plus-plans-and-prices-2026-every-price-increase/)."},
+{"h": "Apple TV: $6.99 a month for 6 months"},
+{"p": "Apple's page says: \"Get 6 months of Apple TV for just $6.99 per month and save over 50%. Offer ends November 30.\" The fine print is precise: \"Offer expires on November 30, 2026, at 8:00 p.m. PT.\" It is for \"eligible new and qualified returning subscribers\", and only if you're billed by Apple: it is \"not available if (i) you are eligible for a three months free Apple TV offer or (ii) your subscription to Apple TV is billed through a third party or your mobile wireless provider.\" Then it \"automatically renews at $14.99/mo.\" We logged the deal the day it appeared: [Apple TV's Black Friday deal](" + C + "2026-11-20-apple-tv-apple-tv-s-black-friday-deal-6-months-at-6-99-a-month-ending-november/). More: [our Apple TV price guide](" + G + "apple-tv-plans-and-prices-2026-every-price-increase/)."},
+{"h": "YouTube TV: new-user offers until December 2"},
+{"p": "YouTube TV's deals run two days past the others. From its welcome page: \"New YouTube TV users pay $59.99/mo for 2 months of the main YouTube TV plan (save $46), then $82.99/mo thereafter. Ends 12/2/2026.\" and \"New YouTube TV users pay $49.99/mo for 6 months of Sports + News Plan (save $132), then $71.99/mo thereafter.\" Existing members get nothing. Switching plans during the promo loses it; the rules, add-on prices and NFL Sunday Ticket are in [our YouTube TV price guide](" + G + "youtube-tv-plans-and-prices-2026-every-price-increase/)."},
+{"h": "No Black Friday discount (yet): Disney+, Hulu, Amazon Prime, Netflix"},
+{"ul": [
+ "**Disney+ and Hulu:** disneyplus.com, hulu.com/welcome and hulu.com/start showed no Black Friday price on November 23. What they do show is a standing option, not a sale: the Disney+, Hulu Bundle with ads at \"$11.99 / mo for 6 months\" (\"Cost for 6 months: $71.94, then renews to monthly plan at $12.99/month\"). Details in [our Disney+ guide](" + G + "disney-plus-plans-and-prices-2026-every-price-increase/) and [Hulu guide](" + G + "hulu-plans-and-prices-2026-every-price-increase/). If Disney or Hulu add a Black Friday offer this week, we'll add it here.",
+ "**Amazon Prime:** Amazon's Black Friday Week \"kicked off at 12:01 a.m. PST on November 19 and will run through November 30\", but Prime itself isn't discounted. Amazon's own answer to \"How do I join Prime before Black Friday?\" is that anyone can join \"for $14.99 a month or $139 a year, or start a\" free 30-day trial if eligible. See [our Amazon Prime guide](" + G + "amazon-prime-plans-and-prices-2026-every-price-increase/) for the trial timing.",
+ "**Netflix:** its plans help page says \"We do not offer annual, multi-month, or lifetime membership plans.\" and lists no promotion. Prices: [our Netflix guide](" + G + "netflix-plans-and-prices-2026-every-price-increase/)."
+]},
+{"h": "Gaming, music, audiobooks and software"},
+{"h": "PlayStation Plus: 12-month plans 20% to 33% off"},
+{"p": "PlayStation's page says \"Join PlayStation Plus Premium before November 30 and get a special Black Friday discount.*\" and the asterisk means \"Qualifying users only.\" The 12-month prices in the page data on November 23 (the same as on November 16): Essential $63.99 instead of $79.99 (20% off), Extra $101.24 instead of $134.99 (25%) and Premium $107.19 instead of $159.99 (33%). Our math: discounted Premium costs $27.80 less than a regular year of Extra. The page asks you to \"Sign in to see offer\", so your account may see a different price. Stacking, renewal price and history: [our PS Plus guide](" + G + "playstation-plus-plans-and-prices-2026-every-price-increase/)."},
+{"h": "Microsoft 365: 30% off the first month or year"},
+{"p": "Microsoft's compare page leads with \"Save 30% and get more from Microsoft 365\". Personal is $6.99 for the first month (regularly $9.99) or $69.99 for the first year ($99.99); Premium is $13.99 for the first month ($19.99) or $139.99 for the first year ($199.99). Family isn't discounted ($12.99 a month or $129.99 a year). The fine print: \"Offer available while advertised. Discount on first billing period.\" and \"Customers who have redeemed a Microsoft 365 trial offer are not eligible.\" The offer isn't new for Black Friday: [we first logged it on November 11](" + C + "2026-11-11-microsoft-365-microsoft-365-runs-a-30-off-first-term-on-personal-and-premium/)."},
+{"h": "Spotify Premium: 3 months free until December 31"},
+{"p": "Spotify's US Premium page: \"$0 for 3 months, then $12.99 per month after. Offer only available if you haven't tried Premium before.\" and \"Offer ends December 31, 2026.\" It's Premium Individual only. This is the longest window on the list, so there's no need to rush on Black Friday. [We logged the switch from a 1-month trial on November 19](" + C + "2026-11-19-spotify-spotify-premium-free-trial-is-now-3-months-for-new-users-until-december/); prices for every plan are in [our Spotify guide](" + G + "spotify-premium-plans-and-prices-2026-every-price-increase/)."},
+{"h": "Audible: $0.99 a month for 3 months, or $99 for a year of Premium"},
+{"p": "Audible's plans page has two offers. The banner: \"This Season's Biggest Deal | $0.99/mo for 3 months + $20 Audible bonus\", then \"$8.99/mo thereafter—terms apply.\" ($8.99 is Standard, which lets you pick 1 audiobook a month and listen while subscribed.) Further down: \"LIMITED TIME OFFER | $99 for a year of Premium\" (\"That's like $8.25/mo.\"). Our math: that's $50.50 less than Audible's regular Premium Annual at $149.50 (12 audiobooks) and $80.40 less than 12 months of Premium at $14.95. Audible doesn't say how many credits the $99 year includes, or when either offer ends, so check the checkout page. [We first logged the $99 offer on October 16](" + C + "2026-10-16-audible-limited-time-offer-99-for-a-year-of-premium/)."},
+{"h": "cPanel: 50% off new licenses until December 7, then a price increase"},
+{"p": "For web hosts and freelancers: cPanel's pricing page says \"Black Friday: 50% off new licenses. Till December 7.\" Solo shows $13.73 a month billed annually instead of $27.46, Admin $16.48 instead of $32.96, Pro $24.73 instead of $49.46, and Premier $34.99 a month instead of $69.99. The same page still carries this notice: \"effective December 16, 2026, cPanel license pricing will be adjusted, affecting new orders and all renewals on or after that date.\" So the sale ends nine days before every renewal gets more expensive. Details: [cPanel's 50% off sale](" + C + "2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-dec-7-nine-days-before-its-dec-16/) and [the Dec 16 increase](" + C + "2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-dec-16/)."},
+{"h": "Price increases arriving right after the sales"},
+{"p": "Black Friday banners sit next to price notices. Three we're tracking: [Logos and Verbum subscriptions go up $1 to $2 a month on December 7](" + C + "2026-11-13-logos-logos-and-verbum-raise-prices-dec-7-plus-1-to-2-a-month-for-most-plans/) (Logos's site meanwhile advertises \"Black Friday Starts Now: Up to 75% Off. More Deals Drop Nov. 27.\", which doesn't change the subscription increase), [Runna's UK prices rise from the first renewal on or after December 10](" + C + "2026-11-14-runna-uk-prices-rise-from-first-renewal-on-or-after-dec-10/), and cPanel on December 16. Every price change we've logged is on [our subscription price history page](../../subscription-price-history/)."},
+{"h": "How to get a Black Friday subscription deal without overpaying later"},
+{"ol": [
+ "**Check eligibility first.** Most of these are for new or lapsed subscribers. If you're paying now, you usually can't switch to the deal; Peacock also excludes anyone who used an offer in the past 12 months.",
+ "**Prefer the longest discount.** HBO Max's 12 months and Peacock's annual codes lock the price for a year; 2- and 3-month deals end before spring.",
+ "**Pick the plan before you sign up.** HBO Max and YouTube TV both drop the promo if you switch plans mid-offer.",
+ "**Sign up directly when it matters.** Apple TV's deal is not available if you're billed through a carrier or third party; HBO Max's only covers new customers via Amazon Fire.",
+ "**Set a reminder before each renewal date** (see the dates above). Refunds after a renewal charge are unlikely: HBO Max, Peacock and YouTube TV all say so.",
+ "**Watch for price notices.** Companies can raise the regular price your deal renews into. We check these pages every morning and publish each change the same day."
+]}
+],
+"sources": [
+ ["HBO Max: Black Friday deal and terms (checked Nov 23, 2026)", "https://www.hbomax.com/"],
+ ["HBO Max: Black Friday 2026 terms", "https://www.hbomax.com/a/black-friday-2026-terms"],
+ ["Peacock: Black Friday offers (checked Nov 23, 2026)", "https://www.peacocktv.com/offer/blackfriday"],
+ ["Peacock: Black Friday offer terms", "https://www.peacocktv.com/offer-terms/blackfriday"],
+ ["Paramount+: home page, Black Friday offer and plan prices (checked Nov 23, 2026)", "https://www.paramountplus.com/"],
+ ["Apple: Apple TV page, Black Friday offer and fine print (checked Nov 23, 2026)", "https://www.apple.com/apple-tv/"],
+ ["YouTube TV: welcome page, new-user offers ending Dec 2, 2026 (checked Nov 23, 2026)", "https://tv.youtube.com/welcome/"],
+ ["PlayStation: PlayStation Plus page and 12-month offer prices (checked Nov 23, 2026)", "https://www.playstation.com/en-us/ps-plus/"],
+ ["Microsoft: Compare all Microsoft 365 plans (checked Nov 23, 2026)", "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"],
+ ["Spotify: Premium plans (US) (checked Nov 23, 2026)", "https://www.spotify.com/us/premium/"],
+ ["Audible: Membership plans and pricing (checked Nov 23, 2026)", "https://www.audible.com/ep/memberbenefits"],
+ ["cPanel: Pricing, Black Friday sale and Dec 16 notice (checked Nov 23, 2026)", "https://www.cpanel.net/pricing/"],
+ ["Disney+: plans and bundles (checked Nov 23, 2026)", "https://www.disneyplus.com/"],
+ ["Hulu: welcome page (checked Nov 23, 2026)", "https://www.hulu.com/welcome"],
+ ["Hulu: start page and bundle offers (checked Nov 23, 2026)", "https://www.hulu.com/start"],
+ ["About Amazon: Black Friday Week and Cyber Monday 2026 (checked Nov 23, 2026)", "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026"],
+ ["Netflix Help Center: Plans and Pricing (checked Nov 23, 2026)", "https://help.netflix.com/en/node/24926"],
+ ["Logos: Subscription FAQ and Black Friday banner (checked Nov 23, 2026)", "https://www.logos.com/subscription-faq"]
+]
+}
+json.dump(d, open(f"../../guides/{slug}.json", "w"), indent=1, ensure_ascii=False)
+print("wrote", slug)

@@ -3,7 +3,7 @@
  "desc": "Peacock costs $8.99 a month for Select, $12.99 for Premium (with ads) and $19.99 for Premium Plus in the US (Nov 2026), or $89.99, $129.99 and $199.99 a year. What each plan includes, the Apple TV bundle, the student deal and every price increase since 2020.",
  "dek": "Short answer: when we checked peacocktv.com on November 12, 2026, Peacock Select was $8.99 a month, Premium (with ads) $12.99 and Premium Plus $19.99, or $89.99, $129.99 and $199.99 a year. Those prices took effect on August 18, 2026. Peacock has raised prices every summer since 2023, and Premium now costs more than two and a half times its 2020 launch price.",
  "published": "2026-11-12",
- "modified": "2026-11-12",
+ "modified": "2026-11-23",
  "services": [
   "Peacock"
  ],
@@ -26,6 +26,9 @@
   },
   {
    "p": "All six plan prices took effect on August 18, 2026 for new and returning subscribers, and they match Peacock's own price-increase help page. People who already subscribed moved to them at their next billing date on or after September 17, 2026."
+  },
+  {
+   "p": "**Black Friday 2026:** until November 30, people who aren't current paying subscribers can get Select for $2.99 a month for 3 months or $29.99 for a year, or Premium for $8.99 a month for 3 months or $89.99 for a year (checked November 23, 2026). Details and every other verified subscription deal: [Subscription Black Friday deals 2026](../subscription-black-friday-deals-2026-when-prices-go-back-up/)."
   },
   {
    "h": "What each Peacock plan includes"
@@ -237,6 +240,10 @@
   [
    "Apple TV page on apple.com ($14.99 a month; our daily snapshot, Nov 12, 2026)",
    "https://www.apple.com/apple-tv/"
+  ],
+  [
+   "Peacock: Black Friday offer terms (checked Nov 23, 2026)",
+   "https://www.peacocktv.com/offer-terms/blackfriday"
   ]
  ]
 }
