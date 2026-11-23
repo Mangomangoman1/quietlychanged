@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:cPanel · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-dec-7-nine-da
+ ys-before-its-dec-16@quietlychanged.com
+DTSTAMP:20261123T132047Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:cPanel: Offer ends
+DESCRIPTION:cPanel's Black Friday sale halves new license prices until Dec
+ ember 7: Solo is $13.73 a month billed annually\, down from $27.46. Price
+ s rise for new orders and renewals on December 16.\n\nhttps://quietlychan
+ ged.com/changes/2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-
+ dec-7-nine-days-before-its-dec-16/
+URL:https://quietlychanged.com/changes/2026-11-23-cpanel-cpanel-takes-50-o
+ ff-new-licenses-until-dec-7-nine-days-before-its-dec-16/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: cPanel — Offer ends
+END:VALARM
+END:VEVENT
+END:VCALENDAR

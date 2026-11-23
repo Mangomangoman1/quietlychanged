@@ -1,0 +1,57 @@
+[
+ {
+  "service": "cPanel",
+  "page": "pricing",
+  "headline": "cPanel takes 50% off new licenses until Dec 7, nine days before its Dec 16 price increase",
+  "tldr": "cPanel's Black Friday sale halves new license prices until December 7: Solo is $13.73 a month billed annually, down from $27.46. Prices rise for new orders and renewals on December 16.",
+  "impact": 2,
+  "effective": "2026-12-07",
+  "deadline": "Offer ends",
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://www.cpanel.net/pricing/",
+  "who": "Anyone buying a new cPanel Solo, Admin, Pro, Premier or WP Squared license from the cPanel Store, especially those weighing a purchase before the December 16, 2026 price increase",
+  "seo_title": "cPanel Black Friday 2026: 50% off new licenses until Dec 7 (Solo $13.73/mo annual)",
+  "seo_desc": "cPanel's pricing page now shows 50% off new licenses until December 7, 2026: Solo $13.73, Admin $16.48, Pro $24.73 a month billed annually; Premier $34.99 and WP Squared $42.49 monthly. Prices rise December 16.",
+  "redline": [
+   {
+    "before": "Save 8.4% with annual billing $ 29.99/mo",
+    "after": "Annual billing 50% OFF $ 27.46/mo",
+    "label": "Pricing \u00b7 Solo, Admin and Pro cards",
+    "note": "The old 8.4% annual-billing discount badge is replaced by a 50% off badge, and the struck-through price is now the regular annual rate.",
+    "src": "raw"
+   },
+   {
+    "before": "$27.46 /mo",
+    "after": "$13.73 /mo",
+    "label": "Pricing \u00b7 cPanel Solo, billed annually",
+    "note": "Admin goes from $32.96 to $16.48 and Pro from $49.46 to $24.73 a month, billed annually.",
+    "src": "raw"
+   },
+   {
+    "before": "$69.99 /mo",
+    "after": "50% OFF $ 69.99/mo 34.99 /mo",
+    "label": "Pricing \u00b7 cPanel Premier, billed monthly",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you were going to buy a new cPanel license from the cPanel Store anyway, compare the sale price before December 7, 2026 with the higher prices that start December 16",
+   "Check the cart for whether the 50% applies only to the first billing term; cPanel's banner says only \"50% off new licenses\"",
+   "Existing licenses: the banner covers new licenses only, and renewals on or after December 16, 2026 move to the new prices"
+  ],
+  "what": "cPanel's [pricing page](https://www.cpanel.net/pricing/) now carries a Black Friday banner: \"Black Friday: 50% off new licenses. Till December 7.\" (fetched November 23, 2026; the page's product data also lists the prices as valid until 2026-12-07). The Solo, Admin and Pro cards swapped their \"Save 8.4% with annual billing\" badge for \"50% OFF\", and the annual prices were halved. Premier and WP Squared, which are sold monthly, show \"50% OFF\" too.\n\n## The sale prices (cPanel Store, excluding VAT)\n\n| Plan | Accounts | Before (Nov 22) | Sale (Nov 23) |\n|---|---|---|---|\n| Solo, billed annually | 1 | $27.46/mo | $13.73/mo |\n| Admin, billed annually | Up to 5 | $32.96/mo | $16.48/mo |\n| Pro, billed annually | Up to 30 | $49.46/mo | $24.73/mo |\n| Premier, billed monthly | Up to 100 | $69.99/mo | $34.99/mo |\n| WP Squared, billed monthly | 10 WordPress sites | $84.99/mo | $42.49/mo |\n\nOur math: Solo billed annually works out to $164.76 for the year at the sale price, against $329.52 at the regular annual rate.\n\nWhat it replaces: The same page still says \"effective December 16, 2026, cPanel license pricing will be adjusted, affecting new orders and all renewals on or after that date.\" We covered that increase on November 13 (Solo goes from $29.99 to $32.99 a month billed monthly). The sale ends nine days before the new prices start.\n\nWhat stays the same: The plan line-up, account limits and features are unchanged. The banner speaks of new licenses only; it does not say whether the discount repeats at renewal, so check the cart. Prices from hosting partners may differ from the cPanel Store.",
+  "sources": [
+   [
+    "cPanel pricing page (fetched Nov 23, 2026)",
+    "https://www.cpanel.net/pricing/"
+   ],
+   [
+    "QuietlyChanged: cPanel raises Solo from $29.99 to $32.99 a month on Dec 16 (Nov 13, 2026)",
+    "https://quietlychanged.com/changes/2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-dec-16/"
+   ]
+  ],
+  "modified": "2026-11-23"
+ }
+]
