@@ -1,0 +1,221 @@
+{
+ "title": "Discord terms update (Dec 15, 2026): your messages in Google search, how to turn it off, and the new arbitration opt-out",
+ "desc": "Discord's Dec 15, 2026 terms let Discoverable servers put public-channel messages in web search, on by default in the US. The setting to turn off, what it can't undo, and the new arbitration opt-out window. Sourced.",
+ "dek": "From mid-December, messages you post in public channels of Discoverable servers can show up on the web and in search engines, and in the US the setting is on unless you turn it off. The same update reopens Discord's 30-day arbitration opt-out. What changed, quoted from Discord's own pages, and what to do before Dec 15.",
+ "published": "2026-11-24",
+ "modified": "2026-11-24",
+ "services": [
+  "Discord"
+ ],
+ "changes": [
+  "2026-11-24-discord-discord-s-dec-15-terms-let-server-admins-show-server-content-in-search",
+  "2026-11-24-discord-discord-s-dec-15-privacy-policy-adds-advertising-ids-for-sponsored-cont"
+ ],
+ "body": [
+  {
+   "h": "The short version"
+  },
+  {
+   "ul": [
+    "**What:** Discord's Terms of Service, Privacy Policy and Paid Services Terms all read \"Effective: December 15, 2026\" and \"Last Updated: November 23, 2026\" (checked November 24). We logged both the terms and privacy changes in [today's report](../../changes/2026-11-24-discord-discord-s-dec-15-terms-let-server-admins-show-server-content-in-search/).",
+    "**Search engines:** server admins can now \"have certain content from the server appear off of Discord (such as in search engine results).\" In practice that's Discord's new Channel Messages feature: messages from public channels in Discoverable servers can appear on the web from mid-December 2026.",
+    "**Your setting:** in most regions it's on by default. Turn off **Show my message content from Discoverable channels on web pages** in User Settings > Data & Privacy before you post anything you wouldn't want indexed.",
+    "**Arbitration:** if you're in the US or Canada you're bound by arbitration unless you opt out. The new terms reopen the opt-out: email arbitration-opt-out@discord.com \"within 30 days of December 22, 2026\".",
+    "**Also new:** Discord may remove content \"for any reason\", disputes now start with a form at dis.gd/disputes instead of an email, and the privacy policy adds advertising IDs for sponsored content."
+   ]
+  },
+  {
+   "h": "Which servers this affects"
+  },
+  {
+   "p": "Only Discoverable servers. Discord's October 27, 2026 blog post describes them as \"the most public spaces on Discord\": \"To qualify, a server needs at least 1,000 members, has to be at least eight weeks old, and must meet activity and safety requirements.\" It says \"there are more than 63,000 Discoverable Servers\" and that \"Private servers, DMs, and GDMs are always private and not included in these changes.\" Invite-only Community servers and small friend servers aren't part of it."
+  },
+  {
+   "p": "Within a Discoverable server, only public channels count. Discord's admin help page says \"Private and role-restricted channels are not included\" and \"Public channels in Discoverable Servers are included by default.\" Threads and forums are included \"if the parent channel is public, eligible\" and the feature is on for that channel; \"Private threads and private forums are never included.\""
+  },
+  {
+   "h": "What will actually show up on the web"
+  },
+  {
+   "p": "There are two features, and they behave differently:"
+  },
+  {
+   "table": {
+    "headers": [
+     "Feature",
+     "What appears",
+     "From",
+     "Can you, as a member, keep your posts out?"
+    ],
+    "rows": [
+     [
+      "**Channel Summaries**",
+      "AI-written summaries of active conversations on the server's web page; no usernames",
+      "November 16, 2026 (already live)",
+      "No dedicated switch. Discord says turning off **Data Used to Improve Discord** keeps your messages out, with side effects"
+     ],
+     [
+      "**Channel Messages**",
+      "Individual messages \"in their own words\", text only, without usernames or avatars, on the server's web page and in web search",
+      "Mid-December 2026, rolling out gradually after the Dec 15 terms take effect",
+      "Yes: **Show my message content from Discoverable channels on web pages** (account-wide)"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Discord's member help page is explicit: \"Messages may be displayed by search engines (including, but not limited to Google), which may be based outside your country.\" Usernames and avatars are hidden, but anything you typed into the message itself (a name, a city, a screenshot description) is still part of the text. On summaries, Discord's admin help page says: \"Discord creates Channel Summaries using AI, based on recent discussions in your server's public channels. Summaries may not always be accurate.\""
+  },
+  {
+   "h": "Is it on by default for you?"
+  },
+  {
+   "quote": "Yes, in most regions. Your Channel Messages setting is on by default, so messages you send in Discoverable channels can appear on the web unless you turn it off. It's off by default if your account is in the EU/EEA, UK, Canada, Brazil, Australia, or South Korea. If you're in the teen age group, your messages won't appear on the web and you can't turn this setting on.",
+   "cite": "Discord Help Center, Discoverable Content on the Web (updated November 16, 2026), checked November 24, 2026",
+   "url": "https://support.discord.com/hc/en-us/articles/44302319454359-Discoverable-Content-on-the-Web"
+  },
+  {
+   "p": "So in the US the answer is yes unless you've changed it. Only messages sent from mid-December 2026 onward are eligible: Discord's policy-update page says \"Only messages from mid-December 2026 onward are eligible to appear on the web, regardless of your setting.\" Your back catalogue isn't being published, but the setting matters for everything you post from now on."
+  },
+  {
+   "h": "How to turn it off (members)"
+  },
+  {
+   "ol": [
+    "Open **User Settings** (desktop app or browser; Discord says the setting applies to your whole account, \"including on mobile\").",
+    "Select **Data & Privacy**.",
+    "Turn off **Show my message content from Discoverable channels on web pages**.",
+    "Optional, for summaries: turn off **Data Used to Improve Discord** in the same menu. Discord's help page says this \"keeps your messages out of Channel Summaries, but could affect other features and analytics that use data to improve your Discord experience.\"",
+    "Look for the label. Channels that take part carry a \"Discoverable\" label in the channel header, and Discord shows a pop-up before you post that reappears when a channel newly enables the feature."
+   ]
+  },
+  {
+   "p": "Timing matters. The setting is judged per message, at the moment you send it: \"Whether a message can appear on the web depends on your Channel Messages setting when you send it.\" Turning it off later doesn't pull back what you posted while it was on: Discord says turning it off \"is not a bulk\" removal of your history. That's why it's worth switching off now, before Channel Messages starts rolling out after December 15, if you don't want your posts indexed."
+  },
+  {
+   "h": "Deleting a message after it's in Google"
+  },
+  {
+   "p": "Deleting a message on Discord removes it from Discord's own web pages. Search engines are another matter. Discord's help page: \"Search engines keep their own copies of pages, so it may take some time, or an extra removal request, before it stops appearing in their results. Discord doesn't control how long they keep cached copies.\" If something you posted turns up in search after you delete it, you may need to ask the search engine to refresh or remove the outdated result."
+  },
+  {
+   "h": "For server admins"
+  },
+  {
+   "ul": [
+    "**Where the switches are:** Server Settings > Community > **Web Presence** (desktop and browser only; owner or members with the Administrator permission).",
+    "**Defaults:** Channel Summaries and Channel Messages each have their own toggle and channel list, and \"Both toggles are under Discoverable Content on Web Pages and are on by default.\"",
+    "**Per channel:** new public channels get a Discoverable section where you choose \"All Content, Summaries Only, Messages Only, or None.\"",
+    "**Turning it off isn't a cleanup:** \"Toggling off Channel Summaries or Channel Messages stops new content from being generated or shown going forward, but content already published may remain visible until individually removed.\" You can remove individual summaries under Web Presence > Review content shown on the web.",
+    "**Leaving entirely:** Discord says \"Your Server Web Page stays live while your server is Discoverable.\" To take it down, turn off Discoverability, which turns the server back into a Community server."
+   ]
+  },
+  {
+   "h": "The arbitration opt-out window reopens"
+  },
+  {
+   "p": "Discord's terms have long included an arbitration clause and class-action waiver for \"all U.S. or Canada-based Discord users,\" with a 30-day opt-out by email. The previous version (effective September 29, 2025, per an Internet Archive copy from November 2, 2026) tied that window to September 29, 2025. The new version sets a new date:"
+  },
+  {
+   "quote": "You can decline this Agreement to Arbitrate –and no other provision of these terms–by emailing an opt-out notice to arbitration-opt-out@discord.com within 30 days of December 22, 2026 or when you first register your Discord account, whichever is later",
+   "cite": "Discord Terms of Service (effective December 15, 2026), checked November 24, 2026",
+   "url": "https://discord.com/terms"
+  },
+  {
+   "p": "Our reading, not legal advice: December 22, 2026 is the 30th day counting from November 23, the day the update was posted, which matches the terms' rule that changes to the arbitration agreement \"will become effective on the 30th day.\" Thirty days after December 22 is January 21, 2027 (our math). An email sent between December 22, 2026 and January 21, 2027 fits the plain wording; the same clause says that for a change you don't agree to, you can email \"before the 30 day period expires,\" so an email sent now should also count. If you want both covered, send it now and keep a copy."
+  },
+  {
+   "p": "What opting out does, in Discord's words: \"there shall be no arbitration agreement existing between you and Discord, whether under these or prior arbitration provisions,\" and you \"may exercise your right to a trial by jury or judge.\" It covers only the arbitration agreement: \"you will not be opting out of any other provision of these terms.\" The terms don't prescribe a format; a short email from the address on your account, giving your username and saying you decline the Agreement to Arbitrate, is the practical version. Our [forced-arbitration opt-out guide](../how-to-opt-out-of-forced-arbitration-2026/) covers other services with similar windows."
+  },
+  {
+   "h": "Other dispute changes"
+  },
+  {
+   "ul": [
+    "**Arbitrator decides arbitrability:** a new \"Delegation of Arbitrability\" paragraph says the arbitrator, not a court, decides \"whether any particular claim or dispute is subject to arbitration and whether all or any part of this Agreement to Arbitrate is void or voidable.\"",
+    "**A form instead of an email:** informal dispute resolution, required before any lawsuit or arbitration, now \"requires submitting Discord's Dispute Resolution Form available at dis.gd/disputes\". The old terms said to email disputes@discordapp.com.",
+    "**Users outside the US and Canada:** the arbitration heading now says that if you're not a U.S. or Canadian resident \"BUT CHOOSE TO INITIATE ARBITRATION, YOU ALSO AGREE TO THE FOLLOWING “AGREEMENT TO ARBITRATE” AND AGREE TO THE APPOINTMENT OF A US ARBITRATOR\". Discord's summary calls this giving those users \"the option to choose arbitration.\"",
+    "**Still there:** small claims court is still an exception (\"You or Discord may still pursue claims, if they qualify, exclusively in a small claims court in the United States on an individual basis\"), as are intellectual-property claims."
+   ]
+  },
+  {
+   "h": "Content removal and account changes"
+  },
+  {
+   "p": "The content section used to say Discord could remove your content if it breached the rules. It now reads: \"We reserve the right to block, remove, and/or permanently delete your content for any reason,\" and adds that \"we make no promises or guarantees to you or others that we will or will not block, remove and/or permanently delete content from the services, or suspend or terminate any accounts.\" The termination clause changes \"or for the following reasons\" to \"including but not limited to the following reasons.\" The update clause now begins \"We may decide to update these terms for any reason\". A new disclaimer says Discord does not \"warrant that the services will always be secure or error-free\" (it's in capitals in the terms)."
+  },
+  {
+   "h": "Privacy policy: ad IDs and default ad personalization"
+  },
+  {
+   "ul": [
+    "**Advertising IDs:** \"If you interact with sponsored content, this may also include, consistent with your settings, information like device ID, advertising ID (such as IDFA or Android Ad ID), or similar unique IDs\". Sponsored content includes Discord's Quests.",
+    "**Personalized by default in some places:** \"in other regions, sponsored content may be personalized by default (and you can disable it).\" The policy lists a \"Limit how we deliver sponsored content\" setting.",
+    "**Age checks:** a new \"Age information\" section says Discord collects \"your IP address and limited device information to help us determine the region you’re in\" and that, with its verification providers, \"Discord only collects, processes, or stores age signals (such as your age or age category).\"",
+    "**Machine learning:** Discord's summary says the policy adds \"more detail about how we use data to build and improve the machine learning models behind safety, personalization and other Discord features.\" To limit that, use the \"Limit our ability to use your data to improve our services\" settings (the same Data Used to Improve Discord toggle that keeps you out of Channel Summaries).",
+    "**Nitro perks:** the Paid Services Terms update makes clear \"that third-party partner perks are limited-time offers, not permanent benefits.\""
+   ]
+  },
+  {
+   "h": "Is Discord selling messages to AI companies?"
+  },
+  {
+   "p": "Discord's own answer, on both help pages: \"No. Nothing has changed.\" We have no independent way to check that. What the documents do say is that public content can be used for Discord's own features and models: the privacy policy says Discord may use content \"posted in larger spaces to help us develop, improve, and power our services,\" and that \"other Discord users with access to your content may use it.\" Once a message is on a public web page, anyone who can read the page can copy it."
+  },
+  {
+   "h": "Checklist before December 15"
+  },
+  {
+   "ol": [
+    "Turn off **Show my message content from Discoverable channels on web pages** (User Settings > Data & Privacy) unless you want your public-channel posts searchable.",
+    "Optionally turn off **Data Used to Improve Discord** to stay out of AI Channel Summaries.",
+    "Check **Limit how we deliver sponsored content** if you don't want personalized Quests and ads.",
+    "If you're in the US or Canada and want to keep the right to sue, email arbitration-opt-out@discord.com (now, and/or between Dec 22, 2026 and Jan 21, 2027) and keep a copy.",
+    "If you run a Discoverable server: review Server Settings > Community > Web Presence and set each channel to All Content, Summaries Only, Messages Only or None. Tell your members.",
+    "Remember the label: a \"Discoverable\" tag in a channel header means what you post there can end up on the web."
+   ]
+  }
+ ],
+ "sources": [
+  [
+   "Discord Terms of Service (effective December 15, 2026, last updated November 23, 2026)",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord Terms of Service, previous version (effective September 29, 2025), Internet Archive copy of November 2, 2026",
+   "https://web.archive.org/web/20261102012147/https://discord.com/terms"
+  ],
+  [
+   "Discord Privacy Policy (effective December 15, 2026)",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Discord: Important Policy Updates (November 23, 2026)",
+   "https://discord.com/safety/important-policy-updates"
+  ],
+  [
+   "Discord blog: Making Content from Discoverable Servers Easier to Discover (October 27, 2026)",
+   "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover"
+  ],
+  [
+   "Discord Help Center: Discoverable Content on the Web (updated November 16, 2026)",
+   "https://support.discord.com/hc/en-us/articles/44302319454359-Discoverable-Content-on-the-Web"
+  ],
+  [
+   "Discord Help Center: Discoverable Server Web Presence (updated November 16, 2026)",
+   "https://support.discord.com/hc/en-us/articles/44049845164823-Discoverable-Server-Web-Presence"
+  ],
+  [
+   "Discord Paid Services Terms (effective December 15, 2026)",
+   "https://discord.com/terms/paid-services-terms"
+  ],
+  [
+   "QuietlyChanged: Discord's Dec 15 terms let server admins show server content in search results (Nov 24, 2026)",
+   "https://quietlychanged.com/changes/2026-11-24-discord-discord-s-dec-15-terms-let-server-admins-show-server-content-in-search/"
+  ],
+  [
+   "QuietlyChanged: Discord's Dec 15 privacy policy adds advertising IDs for sponsored content (Nov 24, 2026)",
+   "https://quietlychanged.com/changes/2026-11-24-discord-discord-s-dec-15-privacy-policy-adds-advertising-ids-for-sponsored-cont/"
+  ]
+ ]
+}

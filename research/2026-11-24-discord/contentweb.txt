@@ -1,0 +1,16 @@
+(saved from WebFetch of https://support.discord.com/hc/en-us/articles/44302319454359-Discoverable-Content-on-the-Web on 2026-11-24; curl gets 403)
+Discoverable Content on the Web. November 16, 2026 17:07 Updated
+Messages from public channels in Discoverable Servers can appear on the web through a server's web pages, either as individual messages or as summaries of a channel's conversation.
+The Show my message content from Discoverable channels on web pages setting controls whether your messages in eligible channels can be shown on the public web. It applies across all your servers, not per server.
+Note: You can change this setting on desktop or in your browser. It applies to your whole account, including on mobile.
+1. Open User Settings. 2. Select Data & Privacy. 3. Turn Show my message content from Discoverable channels on web pages on or off.
+Whether a message can appear on the web depends on your Channel Messages setting when you send it. Messages you send while the setting is off won't appear on the web.
+Turning the setting off doesn't change this for messages you sent while it was on. Those messages can still appear on the server's web pages, even if they haven't appeared yet. To prevent one of those messages from appearing, or to remove one that's already on Discord's web pages, delete it from Discord.
+While your setting is on: eligible messages you send can appear publicly. Messages may be displayed by search engines (including, but not limited to Google), which may be based outside your country.
+Messages already shown on web before you turned it off can remain visible. Turning the setting off is not a bulk "remove my history" action.
+Can my messages appear on the web by default? Yes, in most regions. Your Channel Messages setting is on by default, so messages you send in Discoverable channels can appear on the web unless you turn it off. It's off by default if your account is in the EU/EEA, UK, Canada, Brazil, Australia, or South Korea. If you're in the teen age group, your messages won't appear on the web and you can't turn this setting on.
+A: There's currently no dedicated Channel Summaries opt-out. Turning off Data Used to Improve Discord keeps your messages out of Channel Summaries, but could affect other features and analytics that use data to improve your Discord experience. These changes affect content going forward.
+A: Deleting a message removes it from Discord and from Discord's web pages. Search engines keep their own copies of pages, so it may take some time, or an extra removal request, before it stops appearing in their results. Discord doesn't control how long they keep cached copies.
+Q: Are messages in threads and forums included? A: Yes, if the parent channel is public, eligible, and Channel Summaries on web or Channel Messages on web is turned on for the channel. Private threads and private forums are never included, regardless of the parent channel's settings.
+Q: Are messages text only? A: Currently, Channel Messages on the web will show text only.
+Q: Are you selling my messages to AI companies? A: No. Nothing has changed.

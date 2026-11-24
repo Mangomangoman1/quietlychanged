@@ -1,0 +1,495 @@
+Making Content from Discoverable Servers Easier to Discover
+Skip to main content
+Download 1 of 9
+Nitro 2 of 9
+Discover
+3 of 9
+Resources
+Server Directory 1 of 2
+Trending Games 2 of 2
+Discover 3 of 9
+Safety
+4 of 9
+Resources
+Family Center 1 of 10
+Safety Library 2 of 10
+Safety News 3 of 10
+Teen Charter 4 of 10
+Discord Player's Guide 5 of 10
+Hubs
+Parent Hub 6 of 10
+Policy Hub 7 of 10
+Privacy Hub 8 of 10
+Transparency Hub 9 of 10
+Wellbeing Hub 10 of 10
+Quests
+5 of 9
+Resources
+Advertising 1 of 3
+Success Stories 2 of 3
+Quests FAQ 3 of 3
+Support
+6 of 9
+Resources
+Help Center 1 of 3
+Feedback 2 of 3
+Submit a Request 3 of 3
+Blog
+7 of 9
+Collections
+Featured 1 of 7
+Community 2 of 7
+Discord HQ 3 of 7
+Engineering & Developers 4 of 7
+How to Discord 5 of 7
+Policy & Safety 6 of 7
+Product & Features 7 of 7
+Developers
+8 of 9
+Learn
+Discord for Game Developers 1 of 10
+Integration 2 of 10
+Social Commerce 3 of 10
+Apps & Activities 4 of 10
+Developer Newsletter 5 of 10
+Developer Case Studies 6 of 10
+Build
+Official Game Communities 7 of 10
+Developer Portal 8 of 10
+Documentation 9 of 10
+Developer Help Center 10 of 10
+Careers 9 of 9
+Log In
+Log in
+Download
+Nitro
+Discover
+Discover
+Resources
+Server Directory
+Trending Games
+Safety
+Safety
+Resources
+Family Center
+Safety Library
+Safety News
+Teen Charter
+Discord Player's Guide
+Hubs
+Parent Hub
+Policy Hub
+Privacy Hub
+Transparency Hub
+Wellbeing Hub
+Quests
+Quests
+Resources
+Advertising
+Success Stories
+Quests FAQ
+Support
+Support
+Resources
+Help Center
+Feedback
+Submit a Request
+Blog
+Blog
+Collections
+Featured
+Community
+Discord HQ
+Engineering & Developers
+How to Discord
+Policy & Safety
+Product & Features
+Developers
+Developers
+Learn
+Discord for Game Developers
+Integration
+Social Commerce
+Apps and Activities
+Developer Newsletter
+Developer Case Studies
+Documentation
+Official Game Communities
+Developer Portal
+Documentation
+Developer Help Center
+Careers
+Log In
+App Store
+Lorem ipsum dolor sit
+>
+Mi neque maecenas
+Product & Features
+Making Content from Discoverable Servers Easier to Discover
+Kelsey Duncombe-Smith
+October 27, 2026
+Discoverable Servers
+are the most public spaces on Discord, with at least 1,000 members. Their admins chose to list them in Server Discovery so anyone can join them, no invite link needed.
+Discussions in Discoverable Servers will soon be easier to find when you search the web, so you can find the answer you’re looking for and step straight into the conversation on Discord. Admins and members can decide if and how their content is shared, and those controls start rolling out today, ahead of any changes.
+TL;DR:
+Help people find your community with Server Web Pages. A Server Web Page is a page on the web that describes a Discoverable Server, so people can decide whether they want to join. Starting November 16, 2026, all Discoverable Servers will have a Server Web Page. These pages may also display summaries of discussions happening in public channels (those visible to everyone in the server), to give a better sense of what people are talking about. Some messages from public channels may show on Server Web Pages and in web search beginning in mid-December 2026. The rollout is gradual, so it may be a few weeks before the first messages start appearing on the web.
+Server admins can opt channels out starting today, before anything goes live on November 16, 2026. Controls for admins are in Server Settings > Web Presence. You can choose which channels take part, or opt all channels out. If you don’t change anything, public channels stay on, and your Server Web Page goes live on November 16, 2026, if you don't already have one.
+Users have control over whether their messages are shown. If you'd rather your messages weren't shown, you can turn that off starting today in User Settings > Data and Privacy
+, before messages start rolling out in mid-December 2026 (or anytime after). One setting covers Channel Messages in every Discoverable Server. Channel Summaries are generated separately, from broader channel topics, and will still appear on Server Web Pages unless admins choose to turn them off. Usernames and avatars won't be shown alongside messages on Server Web Pages
+Private servers, DMs, and GDMs are always private and not included in these changes. These changes are limited to Discoverable Servers.
+How servers work today
+Over the years, Discord has built different kinds of spaces, so every group can decide how big the party gets and who can find it:
+Most servers are small, private spaces. They're meant for you, your friends, and nobody else.
+Community Servers are for bigger groups , with the tools to handle a crowd. Though someone still has to send you an invite link.
+Discoverable Servers are the most public spaces on Discord . To qualify, a server needs at least 1,000 members, has to be at least eight weeks old, and must meet activity and safety requirements
+. Anyone can find and join them, no invite link needed. Today’s announced features only apply to this type of server.
+Today, there are more than 63,000 Discoverable Servers, spanning communities from speedrunning to language learning to niche corners of every fandom. People find their way into communities they'd never have stumbled across otherwise. Until now, that's all being Discoverable meant.
+Why this matters
+Server Discovery was built for finding servers, not answers. Ever wanted to look up tricks for a faster speedrun? Or whether a powerful item is worth grabbing, or if it will completely ruin your build? Someone has almost certainly already answered it in a channel somewhere, in one of 63,000 Discoverable Servers. It can just be hard to find.
+Prior to Discord's launch, message boards were common, ranging from community-driven forums to official ones run by game studios. These message boards excelled at hosting long-form, structured conversations about helping people, theory crafting, and more. While they still exist today, many have moved into Discord servers. This has led to valuable information being locked in Discord conversations, inaccessible to the wider internet. We want to fix this.
+By giving admins the option to make certain channels discoverable from the web, we can help more people find and benefit from the knowledge shared in Discord communities.
+We expect this to help different types of communities in various ways:
+For fandoms, you can make specific channels an easy-to-find resource that answers the top questions new players ask.
+For content creators, you can more easily promote events and new content drops.
+For indie game developers, you can use public channels, including forums, to share updates and wiki-style information about your games.
+What's new for Discoverable Servers?
+Server Web Pages live on the open web and give people a glimpse of what a Discord community is about before they join. They’ve been available to Discoverable Servers for some time, but setup takes a few steps, so not every Discoverable Server has created one. Learn more about Server Web Pages
+.
+Starting from November 16, 2026, every Discoverable Server will have a Server Web Page. If you’re an admin and have already set one up, you don't need to do anything. If you don’t have one and want to get a head start on how your community shows up to the rest of the internet, you can go through the setup process today and publish it in a few clicks. If your moderation team doesn't set one up beforehand, a default page goes live for you on November 16, 2026, using details from your Server Profile. You can edit it whenever you like. Having a Server Web Page is a core part of being a Discoverable Server. If you don't want one, you can always switch back to being a Community Server
+.
+Server Web Pages are also getting more useful. Until now, your Server Web Page has shown a small description of what your community is about. From November 16, 2026, it may also start showing what your community is talking about. Including this helps someone with a question find their way to your community if it already has the answer.
+Channel Summaries. These show a small slice of what's being talked about in your server, directly on your Server Web Page. These automated summaries focus on active conversations from November 16, 2026, onwards. Admins can change which channels they draw from, curate the summaries that are shown, or turn them off entirely. Usernames and avatars will not be shown in summaries.
+Channel Messages. From mid-December 2026, answers to questions your members sent in public channels can be found in a web search, in their own words. Server admins decide which channels take part, and server members can choose whether their own messages appear. Usernames and avatars will not be shown alongside these messages.
+You can already see an early version of this on a few Server Web Pages. We’ve been piloting Channel Messages with Discoverable game communities, including NBA 2K
+, Rust
+, and Dead by Daylight
+. (During this pilot, all posts were from admins and moderators, not members.)
+If you're running a community, useful answers to common community questions can show up in web search: how to unlock an easter egg, new builds or strategies, or a boss guide. Someone looking for help will be able to find a real answer from a real person, and can step straight into the conversation that it came from by clicking through and opening Discord.
+What does this mean for Discoverable Server members?
+Starting mid-December 2026, if a server’s admins allow it, messages from public channels can appear on Server Web Pages and in search results, without usernames and avatars. Messages you sent before then won’t be shown. Channels where content may appear on the web will be labeled, so you know before you send a message.
+If you'd rather your messages weren't shown, you can turn that off today in User Settings > Data and Privacy
+. One switch covers every Discoverable Server you're a part of.
+We're rolling this out gradually, so it may be a few weeks before the first messages from those channels go live. Learn more
+.
+What can admins do now?
+Your server controls start rolling out today , in Server Settings > Web Presence. You can choose which channels take part, or turn them all off.
+If you don’t change anything, public channels stay on, your Server Web Page goes live on November 16, 2026 (if it's not already published), and Channel Summaries can start the same day. Channel Messages start rolling out in mid-December 2026. You can adjust your Channel Summaries and Channel Messages settings before they roll out. And if you'd rather publish your Server Web Page yourself, you can do that today.
+See the full details in our Help Center
+.
+However you set things up, we hope this is a step toward bringing back what made forums great: answers anyone can find, and an open door to the community that wrote them.
+Frequently Asked Questions
+How will I know if I am in a server that allows content to appear on the web?
+Discoverable Server admins choose which channels to make available on the web.Those channels will be labeled, so you’ll know before you send a message. As always, you can customize your own privacy choices in your user settings under Data & Privacy.
+What if I decide later that I don’t want my messages shown on the web?
+You can turn off your Channel Messages setting anytime in User Settings > Data and Privacy
+. Messages you send after that won’t appear on the web. Messages you sent while it was on stay up unless you delete them from Discord. Messages from before mid-December 2026 aren’t included, regardless of your setting. Learn more
+.
+Does this work the same way in every region or for every user? ‍
+In the EU, UK, Canada, Brazil, Australia, and South Korea, the member setting for Channel Messages is off by default given legal restrictions, so members’ messages won’t appear on the web unless they turn it on. Users in the teen age group are excluded completely and cannot enable Channel Messages until they’re an adult. Everywhere else, it’s on unless members turn it off. Other than that default, everything works the same way in every region. Learn more
+.
+Tags
+No items found.
+Kelsey Duncombe-Smith
+Group Product Manager
+related articles
+Product & Features
+Introducing Auto Clips: Just Play the Game, We’ll Save the Clip
+Product & Features
+Discord Update: November 19, 2026
+Product & Features
+Give Discord a Vice City Makeover
+Product & Features
+Discord Patch Notes: November 9, 2026
+Product & Features
+Unlock, Level Up, Flex: Discord Profile Badges Got an Upgrade
+Product & Features
+Nitro’s Biggest Year Yet: A Look Back at 2026
+Product & Features
+Discord Gift Cards: The Easiest Holiday Gift on Your List
+Product & Features
+Making Content from Discoverable Servers Easier to Discover
+Product & Features
+Discord Update: October 22, 2026
+Product & Features
+Discord Patch Notes: October 6, 2026
+Product & Features
+Cauldron Bubble w/o the Trouble? It’s Discord Halloween, Witches
+Product & Features
+Discord Update: September 25, 2026
+Product & Features
+Adding the Discord Updates YOU Want to See
+Product & Features
+Discord Patch Notes: September 8, 2026
+Product & Features
+Link Discord and WoW to Keep the Guild Chatting Wherever You Are
+Product & Features
+Discord Update: August 11, 2026 Changelog
+Product & Features
+Discord Patch Notes: August 4, 2026
+Product & Features
+Squircles, Styles, and Spacing: How Your Feedback is Helping Improve Mobile
+Product & Features
+Introducing Profile Frames: Decorative Borders to Make Your Discord Profile Museum-Worthy
+Product & Features
+Discord Patch Notes: July 7, 2026
+Product & Features
+Discord is Now on Meta Quest: Reach Out to Your Servers While in VR
+Product & Features
+Discord Update: June 25, 2026 Changelog
+Product & Features
+Introducing: You Bar
+Product & Features
+Discord Patch Notes: June 4, 2026
+Product & Features
+Official Discord Integrations for Steal a Brainrot, Grow a Garden, Brookhaven RP, and more
+Product & Features
+Making It Easier Than Ever to Connect with Friends in League & VAL!
+Product & Features
+Every Voice and Video Call on Discord Is Now End-to-End Encrypted
+Product & Features
+Nitro Now Comes with Xbox Game Pass and New Benefits. Welcome to Nitro Rewards.
+Product & Features
+Stock Up in the New Rust Shop! Enjoy a Discord-Only 20% Sale on Most Items until 5/21
+Product & Features
+Discord Patch Notes: April 6, 2026
+Product & Features
+Discord Update: March 24, 2026 Changelog
+Product & Features
+Discord Patch Notes: March 6, 2026
+Product & Features
+How to Change Your Theme to Bring Your Vibe to Discord
+Product & Features
+Discord Patch Notes: February 4, 2026
+Product & Features
+Gift Ideas for the Dedicated Discord User in Your Life
+Product & Features
+Your Discord Checkpoint is Rolling Out! Celebrate What You Did in 2025
+Product & Features
+Save and Display Your Faves: Add Discord Shop & Marvel Rivals Items to Your Profile’s Wishlist
+Product & Features
+Bringing In-Game Commerce to Discord Communities
+Product & Features
+Discord Update: November 6, 2025 Changelog
+Product & Features
+A Cornucopia of Updates Make Discord on Desktop Fresher Than a Crisp Fall Breeze
+Product & Features
+Discord Patch Notes: November 4, 2025
+Product & Features
+Discord Patch Notes: October 7, 2025
+Product & Features
+Discord Update: September 25, 2025 Changelog
+Product & Features
+New Looks for Nitro, New Looks for You. Get Yourself a Nitro-exclusive Profile Bundle!
+Product & Features
+Transforming Game Discovery with Instant Play Experiences on Discord
+Product & Features
+Reward Your Play: Complete Quests. Earn Orbs. Get Sweet Stuff.
+Product & Features
+Discord Update: June 30, 2025 Changelog
+Product & Features
+Get More From Your Boosts With New Server Perks
+Product & Features
+Gift Nitro and Earn A Flavorful Splash for your Avatar
+Product & Features
+Discord Social SDK Updates & Integrations
+Product & Features
+Discord Patch Notes: June 3, 2025
+Product & Features
+Go Beyond, Plus Ultra! with the My Hero Academia Collection
+Product & Features
+STAR WARS™ Makes Its Way to Discord
+Product & Features
+Discord Patch Notes: May 1, 2025
+Product & Features
+Worthy of a Plaque: Nameplates Land in the Shop
+Product & Features
+Make More Closet Space! Nitro Members Can Now Keep Avatar Decoration Quest Rewards for Longer
+Product & Features
+Discord Patch Notes: April 3, 2025
+Product & Features
+Discord Update: March 25, 2025 Changelog
+Product & Features
+Revamped Overlay & Refreshed Desktop Give Game Time a Boost
+Product & Features
+Discord Patch Notes: March 11, 2025
+Product & Features
+Discord Patch Notes: February 3, 2025
+Product & Features
+Discord Update: December 19, 2024 Changelog
+Product & Features
+Discord Patch Notes: December 5, 2024
+Product & Features
+Discord Update: November 18, 2024 Changelog
+Product & Features
+Celebrate Arcane’s Second Season with a new Shop Collection
+Product & Features
+Discord Patch Notes: November 1, 2024
+Product & Features
+Set Out for a Discord Adventure! Check Out Our Roll20 Adventure & D&D Shop Collection
+Product & Features
+Discord Patch Notes: October 1, 2024
+Product & Features
+Discord Update: September 26, 2024 Changelog
+Product & Features
+Discover More Ways to Play with Apps – Now Anywhere on Discord!
+Product & Features
+Legacy Shop Favorites Emerge from The Vault for a First Anniversary Encore!
+Product & Features
+Discord Patch Notes: August 30, 2024
+Product & Features
+Discord Update: August 28, 2024 Changelog
+Product & Features
+Queue Up Your Playlists on Discord with the Amazon Music Listening Party Activity!
+Product & Features
+Discord Patch Notes: August 1, 2024
+Product & Features
+Now Available: See What’s Happening on Discord, Directly from your Xbox console
+Product & Features
+Discord Update: July 26, 2024 Changelog
+Product & Features
+WHO LIVES ON YOUR PROFILE FOR ALL TO SEE? 🎶 SPONGEBOB, IN THE SHOP!
+Product & Features
+Discord Patch Notes: July 1, 2024
+Product & Features
+Discord Update: June 20, 2024 Changelog
+Product & Features
+How to Join Discord Calls Directly From Your PS5® — No Phone Needed!
+Product & Features
+Feast Your Monit-eyes on Today's Exciting Developer Updates!
+Product & Features
+Discord Patch Notes: May 2024
+Product & Features
+Refining Discord’s Mobile Experience With Your Feedback
+Product & Features
+Discord Update: May 13, 2024 Changelog
+Product & Features
+Discord Patch Notes: April 2024
+Product & Features
+Discord Update: April 3, 2024 Changelog
+Product & Features
+Lock in. Stand out. VALORANT arrives in the Shop.
+Product & Features
+Discord Update: March 5, 2024 Changelog
+Product & Features
+Discord Update: December 13, 2023 Changelog
+Product & Features
+Improving Our Mobile Experience
+Product & Features
+Discord Update: October 19, 2023 Changelog
+Product & Features
+Avatar Decorations & Profile Effects: Collect and Keep the Newest Styles
+Product & Features
+Discord Update: September 13, 2023 Changelog
+Product & Features
+Now Available: Stream Your Xbox Games Directly to Discord
+Product & Features
+Discord Update: July 29, 2023 Changelog
+Product & Features
+Meme Up Some Fun with Remix
+Product & Features
+Discord Update: June 22, 2023 Changelog
+Product & Features
+Server Subscriptions Just Got Super Powered: Introducing Media Channels, Tier Templates and more!
+Product & Features
+Discord Update: May 22, 2023 Changelog
+.
+Making Content from Discoverable Servers Easier to Discover
+How servers work today
+Why this matters
+What's new for Discoverable Servers?
+What does this mean for Discoverable Server members?
+What can admins do now?
+Frequently Asked Questions
+Making Content from Discoverable Servers Easier to Discover
+How servers work today
+Why this matters
+What's new for Discoverable Servers?
+What does this mean for Discoverable Server members?
+What can admins do now?
+Frequently Asked Questions
+Search
+/* For Chrome and Safari */
+.dropdown-language-list-wr::-webkit-scrollbar {
+width: 5px;
+}
+.dropdown-language-list-wr::-webkit-scrollbar-thumb {
+background-color: white;
+border-radius: 3px;
+}
+.dropdown-language-list-wr::-webkit-scrollbar-track {
+margin-top:1.75rem;
+margin-bottom:1.75rem;
+}
+.dropdown-language-list-wr::-webkit-scrollbar-button {
+display:none;
+}
+Language
+English (US)
+Čeština
+Dansk
+Deutsch
+English
+English (UK)
+Español
+Español (América Latina)
+Français
+Hrvatski
+Italiano
+lietuvių kalba
+Magyar
+Nederlands
+Norsk
+Polski
+Português (Brasil)
+Română
+Suomi
+Svenska
+Tiếng Việt
+Türkçe
+Ελληνικά
+български
+Русский
+Українська
+हिंदी
+ไทย
+한국어
+中文
+中文(繁體)
+日本語
+Social
+Menu
+Product
+Product
+Download
+Nitro
+Status
+App Directory
+Gift Cards
+Company
+Company
+About
+Jobs
+Brand
+Newsroom
+Resources
+Resources
+Support
+Safety
+Blog
+Creators
+Community
+Developers
+Quests
+Official 3rd Party Merch
+Feedback
+Policies
+Policies
+Terms
+Privacy
+Cookie Settings
+Guidelines
+Acknowledgements
+Licenses
+Company Information
+Social
+(()=>{"use strict";function t(t,e,n=365){const o=new Date;o.setDate(o.getDate()+n);const s=encodeURIComponent(e)+"; expires="+o.toUTCString()+"; path=/";document.cookie=t+"="+s}function e(t){const e=t+"=",n=document.cookie.split(";").find((t=>t.trim().startsWith(e)));return n?decodeURIComponent(n.trim().substring(e.length)):null}function n(){const t=document.querySelector(".body-article"),n=e("theme");if(t)if(null!=n)t?.classList.toggle("contrast","contrast"==n);else{const e=window.matchMedia("(prefers-color-scheme: dark)").matches;t?.classList.toggle("contrast",!e)}}n(),window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",(()=>{n()})),function(){const n=document.getElementById("contrast"),o=document.querySelector(".body-article");o&&"contrast"===e("theme")&&o.classList.add("contrast"),n&&n.addEventListener("click",(()=>{o&&(o.classList.toggle("contrast"),o.classList.contains("contrast")?t("theme","contrast"):t("theme","dark"))})),document.querySelectorAll(".discord-2022--nav_menu_wr .discord-2022--nav_dd .discord-2022--nav_dd_trigger").forEach((t=>{const e=document.querySelector(".discord-2022--nav_wrapper");new MutationObserver((()=>{let t=!1;document.querySelectorAll(".discord-2022--nav_menu_wr .discord-2022--nav_dd .discord-2022--nav_dd_trigger").forEach((e=>{e.classList.contains("w--open")&&(t=!0)})),e&&e.classList.toggle("submenu-open",t)})).observe(t,{attributes:!0,subtree:!1,attributeFilter:["class"]})}))}()})();

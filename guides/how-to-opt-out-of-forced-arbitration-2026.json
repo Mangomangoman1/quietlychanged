@@ -3,7 +3,7 @@
  "desc": "Arbitration opt-out windows and addresses at Pinterest, Grindr, DoorDash, Evernote, Shein, AT&T, Cricket, Roblox, Oura and Xero, from the companies' terms.",
  "dek": "Short answer: many companies give you 30 or 31 days to opt out of arbitration, usually by email or mail, starting when you sign up or when you're notified of new terms. Some offer none. Here is what each company's terms say, with the dates that matter now.",
  "published": "2026-10-30",
- "modified": "2026-10-30",
+ "modified": "2026-11-24",
  "services": [
   "Pinterest",
   "Grindr",
@@ -73,7 +73,7 @@
   },
   {
    "ul": [
-    "**Discord:** its terms let you decline arbitration by \"emailing an opt-out notice to arbitration-opt-out@discord.com within 30 days\" of its September 29, 2025 terms or of registering, whichever is later. For later changes to the arbitration agreement, the email must go before the 30-day period after the change expires (Discord terms, our October 30 snapshot).",
+    "**Discord:** its terms let you decline arbitration by \"emailing an opt-out notice to arbitration-opt-out@discord.com\". The terms effective December 15, 2026 reopen the window: \"within 30 days of December 22, 2026 or when you first register your Discord account, whichever is later\" (the previous version used September 29, 2025). For later changes to the arbitration agreement, the email must go before the 30-day period after the change expires. Details, plus the new search-engine setting, in our [Discord Dec 15 terms guide](../discord-terms-update-december-2026-search-engines-arbitration-opt-out/).",
     "**WHOOP and Eight Sleep:** both offered 30-day arbitration opt-outs when we compared them on October 17. WHOOP's terms say \"unless you opt out of the agreement to arbitrate within 30 days\" and let members reject an updated agreement by emailing support@whoop.com within 30 days; Eight Sleep says you may opt out \"within 30 days of first agreeing\" to its terms, by writing to legal@eightsleep.com.",
     "**Robinhood** isn't an arbitration opt-out, but it's similar: from November 18, 2026, accounts are auto-enrolled in a Class Action Service that keeps 20% of payouts and stops you suing the defendants in cases where it files a claim for you. You can unenroll in the app or through Customer Service. [Our article](../../changes/2026-10-16-robinhood-auto-enrolls-accounts-in-class-action-claims-keeps-20-of-payouts/)"
    ]
