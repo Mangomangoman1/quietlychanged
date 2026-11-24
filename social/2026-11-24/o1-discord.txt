@@ -1,0 +1,7 @@
+Discord's new terms: server content can show up in search engines.
+
+Admins can "have certain content from the server appear off of Discord (such as in search engine results)".
+
+Takes effect Dec 15. Post in a public server? Assume it's public.
+
+https://quietlychanged.com/changes/2026-11-24-discord-discord-s-dec-15-terms-let-server-admins-show-server-content-in-search/
