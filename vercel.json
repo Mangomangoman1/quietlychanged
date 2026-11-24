@@ -46,21 +46,6 @@
       "statusCode": 301
     },
     {
-      "source": "/services/discord",
-      "destination": "/services.html#discord",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/discord/",
-      "destination": "/services.html#discord",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/discord/index.html",
-      "destination": "/services.html#discord",
-      "statusCode": 301
-    },
-    {
       "source": "/services/emotiv",
       "destination": "/services.html#emotiv",
       "statusCode": 301

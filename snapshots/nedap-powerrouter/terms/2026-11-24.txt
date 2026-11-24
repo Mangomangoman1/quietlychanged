@@ -1,0 +1,28 @@
+Termination of MyPowerRouter.com and PowerRouter Services as of 31 December 2026
+Since the introduction of the PowerRouter,
+www.mypowerrouter.com
+has enabled users to monitor the performance and activity of their system online.
+Through this portal, users could access system status, energy data, and other performance information, as well as make use of online functionalities such as monitoring and remote software updates.
+Following the discontinuation of the sale of the PowerRouter product line in 2016, Nedap has continued to make this online service available for existing users for an extended period of time.
+1. Termination of the Online Service
+As part of the definitive phase-out of this legacy service, Nedap will terminate the MyPowerRouter.com environment as of 31 December 2026.
+From that date onward, it will no longer be possible via MyPowerRouter.com to:
+log in;
+access system or energy data online;
+perform remote software updates;
+use any other online functionalities.
+This termination relates exclusively to the online services provided via MyPowerRouter.com. The local functionalities of the PowerRouter device itself, including the display of data via the integrated screen, will remain unchanged.
+2. Service & Support
+As of 31 December 2026, the remaining service and support activities relating to the PowerRouter product line will also be definitively terminated.
+This includes, among other things:
+technical support;
+remote assistance;
+firmware- or software-related support and updates.
+After this date, Nedap will no longer provide any support or services relating to the PowerRouter or the MyPowerRouter environment.
+3. Warranty
+Warranty claims submitted in writing before 31 December 2026 will be handled in accordance with the applicable warranty terms.
+No new warranty claims can be submitted after 31 December 2026.
+4. Data Processing (GDPR)
+Following termination of the service, user accounts will be deactivated. Any personal data processed within the framework of MyPowerRouter.com will be deleted or anonymized once it is no longer necessary for the purpose for which it was collected, in accordance with applicable laws and regulations, including the General Data Protection Regulation (GDPR), and applicable retention periods.
+We advise users to secure any required data before 31 December 2026.
+Nedap would like to thank all PowerRouter users for their long-standing trust and engagement with this product.

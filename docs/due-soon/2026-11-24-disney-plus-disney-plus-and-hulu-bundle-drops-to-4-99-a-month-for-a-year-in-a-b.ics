@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Disney+ · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-24-disney-plus-disney-plus-and-hulu-bundle-drops-to-4-99-a-mon
+ th-for-a-year-in-a-b@quietlychanged.com
+DTSTAMP:20261124T132154Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Disney+: Offer ends
+DESCRIPTION:Disney+'s Black Friday offer cuts the ad-supported Disney+\, H
+ ulu Bundle from $12.99 to $4.99 a month for 12 months (Premium: $14.99\, 
+ from $21.99). New and eligible returning subscribers only\; ends Nov 30.\
+ n\nhttps://quietlychanged.com/changes/2026-11-24-disney-plus-disney-plus-
+ and-hulu-bundle-drops-to-4-99-a-month-for-a-year-in-a-b/
+URL:https://quietlychanged.com/changes/2026-11-24-disney-plus-disney-plus-
+ and-hulu-bundle-drops-to-4-99-a-month-for-a-year-in-a-b/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Disney+ — Offer ends
+END:VALARM
+END:VEVENT
+END:VCALENDAR

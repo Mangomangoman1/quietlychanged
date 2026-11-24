@@ -1,0 +1,24 @@
+<DATE>
+KYMCO Noodoe System Discontinuation Notice
+After a comprehensive and careful evaluation, KYMCO has decided to discontinue the KYMCO Noodoe Application and all associated cloud services. Effective <DATE>, all services, functions, and technical support will be terminated worldwide. This notice provides complete information regarding the phase-out plan and requests all partners to promptly communicate this message to end users.
+Key Points of KYMCO Noodoe System Discontinuation
+1. Effective Date: <DATE> (global implementation)
+2. Scope of impact:
+a. The KYMCO Noodoe Application will no longer launch. Regardless of login status, users will be unable to access the App.
+b. The KYMCO Noodoe cloud services and servers will be permanently shut down.
+c. All functions provided through the KYMCO Application will be fully disabled:
+i. Navigation: Navigation pages will not display.
+ii. Messages: Message pages will not display.
+iii. Weather: Weather data will no longer be displayed (previously calibrated via the KYMCO App).
+iv. Gallery: Photos cannot be added or deleted.
+v. Clock: Time will be displayed but cannot be adjusted (previously calibrated via the KYMCO App).
+vi. Speed Display: This function will continue to operate normally (data comes directly from instrument panel).
+Map Policy Data Update
+1. On <DATE>, KYMCO announced that the validity period of navigation map data would be adjusted from three years to two years, and all users were notified via email
+2. Starting <DATE>, the KYMCO App will no longer launch, and users will be unable to use navigation functions or update map data.
+Contact Information
+If you have any questions regarding the discontinuation of KYMCO Noodoe, please contact your designated KYMCO USA sales representative or further assistance. Thank you for your support and understanding.
+The KYMCO USA Team
+KYMCO USA Official Product Update Bulletin:
+PU-2025-1219
+Check Availability & Get Your Price

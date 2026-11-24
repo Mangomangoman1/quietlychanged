@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Discord · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-24-discord-discord-s-dec-15-privacy-policy-adds-advertising-id
+ s-for-sponsored-cont@quietlychanged.com
+DTSTAMP:20261124T132154Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Discord: Takes effect
+DESCRIPTION:From December 15\, Discord's privacy policy says sponsored con
+ tent can use your device or advertising ID\, and that in some regions it 
+ "may be personalized by default (and you can disable it)".\n\nhttps://qui
+ etlychanged.com/changes/2026-11-24-discord-discord-s-dec-15-privacy-polic
+ y-adds-advertising-ids-for-sponsored-cont/
+URL:https://quietlychanged.com/changes/2026-11-24-discord-discord-s-dec-15
+ -privacy-policy-adds-advertising-ids-for-sponsored-cont/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Discord — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

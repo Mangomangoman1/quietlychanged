@@ -1,9 +1,9 @@
 {
  "title": "Subscription Black Friday deals 2026: what's actually on sale, the price after, and when each deal ends",
- "desc": "Every subscription Black Friday deal we could verify on official pages on Nov 23, 2026: HBO Max $5.49 for 12 months, Peacock from $2.99, Paramount+ $2.99, Apple TV $6.99, YouTube TV, PS Plus, Microsoft 365, Spotify, Audible, cPanel. Real prices after, end dates, and who qualifies.",
- "dek": "Short answer: as of November 23, 2026 the biggest subscription Black Friday deals on official pages are HBO Max Basic With Ads at $5.49 a month for 12 months (then $10.99), Peacock Select at $29.99 for a year or $2.99 a month for 3 months, Paramount+ at $2.99 a month for 2 months, Apple TV at $6.99 a month for 6 months (then $14.99) and PlayStation Plus 12-month plans at 20% to 33% off. Most end November 30. Almost all are for new or lapsed subscribers only, and every one renews at full price unless you cancel. Amazon Prime, Disney+ and Hulu showed no Black Friday discount on their own sites when we checked.",
+ "desc": "Every subscription Black Friday deal we could verify on official pages on Nov 23, 2026: HBO Max $5.49 for 12 months, Disney+, Hulu Bundle $4.99 for 12 months, Peacock from $2.99, Paramount+ $2.99, Apple TV $6.99, YouTube TV, PS Plus, Microsoft 365, Spotify, Audible, cPanel. Real prices after, end dates, and who qualifies.",
+ "dek": "Short answer: as of November 23, 2026 the biggest subscription Black Friday deals on official pages are HBO Max Basic With Ads at $5.49 a month for 12 months (then $10.99), Peacock Select at $29.99 for a year or $2.99 a month for 3 months, Paramount+ at $2.99 a month for 2 months, Apple TV at $6.99 a month for 6 months (then $14.99) and PlayStation Plus 12-month plans at 20% to 33% off. Most end November 30. Almost all are for new or lapsed subscribers only, and every one renews at full price unless you cancel. Disney+ added the Disney+, Hulu Bundle at $4.99 a month for 12 months on November 24. Amazon Prime and Netflix showed no Black Friday discount on their own sites when we checked.",
  "published": "2026-11-23",
- "modified": "2026-11-23",
+ "modified": "2026-11-24",
  "services": [
   "HBO Max",
   "Peacock",
@@ -19,6 +19,7 @@
   "cPanel"
  ],
  "changes": [
+  "2026-11-24-disney-plus-disney-plus-and-hulu-bundle-drops-to-4-99-a-month-for-a-year-in-a-b",
   "2026-11-20-apple-tv-apple-tv-s-black-friday-deal-6-months-at-6-99-a-month-ending-november",
   "2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-dec-7-nine-days-before-its-dec-16",
   "2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-dec-16",
@@ -50,6 +51,20 @@
       "$10.99/mo",
       "Nov 30",
       "New and returning"
+     ],
+     [
+      "**Disney+, Hulu Bundle** (with ads)",
+      "$4.99/mo for 12 months",
+      "$12.99/mo",
+      "Nov 30, 11:59 PM PST",
+      "New and eligible returning (not current Disney+, Hulu, ESPN or bundle subscribers)"
+     ],
+     [
+      "**Disney+, Hulu Bundle Premium** (no ads)",
+      "$14.99/mo for 12 months",
+      "$21.99/mo",
+      "Nov 30, 11:59 PM PST",
+      "New and eligible returning (not current Disney+, Hulu, ESPN or bundle subscribers)"
      ],
      [
       "**Peacock Select**",
@@ -132,7 +147,7 @@
    }
   },
   {
-   "p": "Our math for what each deal is worth over its whole promo period, compared with paying the regular price for the same months: HBO Max saves $66.00 ($65.88 instead of $131.88 for a year), Peacock Select's annual offer saves $60.00 and Premium's $40.00, Apple TV saves $48.00 ($41.94 instead of $89.94 for six months), Paramount+ Premium saves $22.00 and Essential $12.00, YouTube TV Sports + News saves $132 and the main plan $46 (YouTube's own figures), PlayStation Plus Premium saves $52.80 on a year, and Spotify's three free months are worth $38.97."
+   "p": "Our math for what each deal is worth over its whole promo period, compared with paying the regular price for the same months: HBO Max saves $66.00 ($65.88 instead of $131.88 for a year), the Disney+, Hulu Bundle saves $96.00 ($59.88 instead of $155.88 for a year; Premium saves $84.00), Peacock Select's annual offer saves $60.00 and Premium's $40.00, Apple TV saves $48.00 ($41.94 instead of $89.94 for six months), Paramount+ Premium saves $22.00 and Essential $12.00, YouTube TV Sports + News saves $132 and the main plan $46 (YouTube's own figures), PlayStation Plus Premium saves $52.80 on a year, and Spotify's three free months are worth $38.97."
   },
   {
    "h": "When does the price go back up?"
@@ -145,7 +160,7 @@
     "**Late January 2027:** Paramount+ (after 2 months) and the YouTube TV main-plan offer (after 2 months).",
     "**Late February 2027:** Peacock's 3-month offers, Audible's $0.99 months and Spotify's 3 free months.",
     "**Late May 2027:** Apple TV (after 6 months) and the YouTube TV Sports + News offer (after 6 months).",
-    "**Late November 2027:** HBO Max (after 12 months), Peacock's 1-year offers, PlayStation Plus 12-month plans and Microsoft 365's discounted first year."
+    "**Late November 2027:** HBO Max and the Disney+, Hulu Bundle (after 12 months), Peacock's 1-year offers, PlayStation Plus 12-month plans and Microsoft 365's discounted first year."
    ]
   },
   {
@@ -191,11 +206,17 @@
    "p": "YouTube TV's deals run two days past the others. From its welcome page: \"New YouTube TV users pay $59.99/mo for 2 months of the main YouTube TV plan (save $46), then $82.99/mo thereafter. Ends 12/2/2026.\" and \"New YouTube TV users pay $49.99/mo for 6 months of Sports + News Plan (save $132), then $71.99/mo thereafter.\" Existing members get nothing. Switching plans during the promo loses it; the rules, add-on prices and NFL Sunday Ticket are in [our YouTube TV price guide](../youtube-tv-plans-and-prices-2026-every-price-increase/)."
   },
   {
-   "h": "No Black Friday discount (yet): Disney+, Hulu, Amazon Prime, Netflix"
+   "h": "Disney+, Hulu Bundle: $4.99 a month for 12 months (added Nov 24)"
+  },
+  {
+   "p": "Disney added a Black Friday offer on November 24: the Disney+, Hulu Bundle with ads \"is $12.99/mo $4.99/mo for a year this Black Friday. Offer ends November 30\", and the no-ads Premium bundle is $14.99 a month for a year instead of $21.99. The terms: \"$4.99/mo. for 12 mos., then auto-renews at $12.99/mo. or then-current regular monthly price\" (Premium \"then auto-renews at $21.99/mo.\"), \"Ends 11:59 PM PST on 11/30/26. U.S. only, 18+.\" Current customers are out: \"Disney+, ESPN, Hulu, and bundle subscribers are not eligible.\" And like HBO Max, \"Any plan switch after redemption of this offer will result in forfeiture of the discount pricing.\" The 6-month $11.99 option we saw on November 23 is no longer shown. [Our write-up of the change](../../changes/2026-11-24-disney-plus-disney-plus-and-hulu-bundle-drops-to-4-99-a-month-for-a-year-in-a-b/)."
+  },
+  {
+   "h": "No Black Friday discount (yet): Amazon Prime, Netflix"
   },
   {
    "ul": [
-    "**Disney+ and Hulu:** disneyplus.com, hulu.com/welcome and hulu.com/start showed no Black Friday price on November 23. What they do show is a standing option, not a sale: the Disney+, Hulu Bundle with ads at \"$11.99 / mo for 6 months\" (\"Cost for 6 months: $71.94, then renews to monthly plan at $12.99/month\"). Details in [our Disney+ guide](../disney-plus-plans-and-prices-2026-every-price-increase/) and [Hulu guide](../hulu-plans-and-prices-2026-every-price-increase/). If Disney or Hulu add a Black Friday offer this week, we'll add it here.",
+    "**Hulu on its own:** we found Disney's offer on disneyplus.com (above); we haven't re-checked hulu.com/welcome or hulu.com/start since November 23, when neither showed a Black Friday price. Details in [our Disney+ guide](../disney-plus-plans-and-prices-2026-every-price-increase/) and [Hulu guide](../hulu-plans-and-prices-2026-every-price-increase/).",
     "**Amazon Prime:** Amazon's Black Friday Week \"kicked off at 12:01 a.m. PST on November 19 and will run through November 30\", but Prime itself isn't discounted. Amazon's own answer to \"How do I join Prime before Black Friday?\" is that anyone can join \"for $14.99 a month or $139 a year, or start a\" free 30-day trial if eligible. See [our Amazon Prime guide](../amazon-prime-plans-and-prices-2026-every-price-increase/) for the trial timing.",
     "**Netflix:** its plans help page says \"We do not offer annual, multi-month, or lifetime membership plans.\" and lists no promotion. Prices: [our Netflix guide](../netflix-plans-and-prices-2026-every-price-increase/)."
    ]
@@ -257,6 +278,10 @@
   [
    "HBO Max: Black Friday deal and terms (checked Nov 23, 2026)",
    "https://www.hbomax.com/"
+  ],
+  [
+   "Disney+: Black Friday offer and terms (checked Nov 24, 2026)",
+   "https://www.disneyplus.com/"
   ],
   [
    "HBO Max: Black Friday 2026 terms",

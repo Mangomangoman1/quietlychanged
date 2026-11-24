@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Discord · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-24-discord-discord-s-dec-15-terms-let-server-admins-show-serve
+ r-content-in-search@quietlychanged.com
+DTSTAMP:20261124T132154Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Discord: Takes effect
+DESCRIPTION:Discord's updated terms\, in force December 15\, say admins ca
+ n have server content "appear off of Discord (such as in search engine re
+ sults)"\, and hand all arbitrability questions to the arbitrator.\n\nhttp
+ s://quietlychanged.com/changes/2026-11-24-discord-discord-s-dec-15-terms-
+ let-server-admins-show-server-content-in-search/
+URL:https://quietlychanged.com/changes/2026-11-24-discord-discord-s-dec-15
+ -terms-let-server-admins-show-server-content-in-search/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Discord — Takes effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

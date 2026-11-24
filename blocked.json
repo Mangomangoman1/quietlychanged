@@ -800,5 +800,35 @@
    "note",
    "Single pass 175 ok / 4 failed (Calm terms OK via the plain-UA 403 retry). No working replacement for PayPal/Roblox/Shein."
   ]
+ ],
+ "flaky_2026-11-24": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/useragreement-full also 403; kept"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403 continues (since Nov 10), also with plain UA; kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; kept. Slug-less help URL and www.roblox.com/info/terms also 403"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars) continues; kept. www.shein.com redirects to us.shein.com (200) but extracts to 49 chars (bot wall)"
+  ],
+  [
+   "note",
+   "Single pass 175 ok / 4 failed. No working replacement for PayPal/Roblox/Shein."
+  ]
  ]
 }
