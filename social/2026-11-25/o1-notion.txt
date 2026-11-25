@@ -1,0 +1,7 @@
+Notion's Free plan now has a storage cap: 512 MB per workspace.
+
+Hit it and "new uploads pause at the next daily check." Images, PDFs and video count; pages and text don't.
+
+Notion says the limits may apply to workspaces created after Nov 23.
+
+https://quietlychanged.com/changes/2026-11-25-notion-notion-s-free-plan-now-has-a-512-mb-storage-cap-and-uploads-pause-when-y/
