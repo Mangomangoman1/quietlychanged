@@ -1,0 +1,175 @@
+Understanding block usage in Notion | Notion Help
+ProductFeatures
+See all features
+Capture
+Bring everything into one system of record.
+Find
+Get answers, instantly—with citations.
+Automate
+Keep work moving 24/7 with agents.
+. See what’s new
+Download the Notion App
+ResourcesNotion for
+Enterprise
+Small businesses
+Startups
+Developers
+Discover
+What's New
+Customer stories
+Webinars
+Templates
+Consultants
+Learn
+Academy
+Product tours
+Help Center
+EnterprisePricingRequest a demo
+Log inGet Notion free
+Search help center
+Help CenterGet startedNotion basics
+Sidebar navigation
+Workspace basicsWorkspace settings
+Settings & preferences
+Create & format pagesPages & blocks
+Build databasesDatabases
+Database views
+Share & collaborateSharing & permissions
+Notion Sites
+Automation & connectionsImport & export your data
+Connections
+Automations
+Work with Notion AINotion AI
+Notion AI Connectors
+AI Meeting Notes
+Agents in NotionCustom Agents
+External Agents
+Admin & securityAdminister your workspace
+Privacy & security
+Notion AI security
+Calendar & AppsNotion on desktop, web, & mobile
+Notion Calendar
+Get started on marketplaceMarketplace & templates
+Manage your planNotion credits
+Plans & billing
+Fix a problemTroubleshoot
+Developer PlatformExplore developer tools
+Learn by doing
+Guides & tutorials
+Get certified
+Notion Academy
+Support
+Chat with us
+Join our community
+Find a consultant
+Help Center
+Plans & billing
+← Plans & billing
+Understanding block usage
+In this help docLearn more about block usage depending on your plan and how many people are in your workspace.
+Jump to FAQsWhat is a block?
+In Notion, the pages you create can contain much more than plain text. Every page you create can be composed of many blocks — from lines of text to table rows, images, videos, and more. Every piece of content you add is counted as a new block. Learn more about blocks here →
+Block usage
+Block usage limits apply to workspaces on the Free Plan. How many blocks you can add depends on how many people are in the workspace. A workspace with just one person can add up to 5,000 blocks. A workspace with two or more people can add up to 1,000 blocks. Paid plans include blocks, so these limits don't apply.
+Plan
+Workspace size
+Block usage
+Free
+Just you (one person)
+Up to 5,000 blocks. After that, you can still view and edit your content, but you'll need to upgrade to a paid plan to add new content.
+Free
+Two or more people*
+1,000 blocks per workspace. After this, your workspace will need to upgrade to a paid Notion plan in order to continue creating content.
+Plus, Business, Enterprise
+1+ workspace owners and/or members
+Included 
+*People added to workspaces on a Free Plan can only join as workspace owners.
+Note: Content added through the API and connected tools (like MCP) counts toward your block limit too, even when you don't have Notion open.
+We count blocks based on the amount of content created in your workspace since signing up — deleting blocks, or emptying the trash, will not reduce your block count.
+Upgrade to another plan
+If you're getting close to your workspace's block limit, it might be worth upgrading to a paid plan. Paid plans don’t have block limits and include additional features for teams collaborating in Notion. Visit our pricing page for more details.
+FAQs
+Can I delete blocks to avoid these restrictions?
+No, deleting content does not reduce your block count or free up additional blocks. Once your workspace has reached its block limit, it will experience restrictions — regardless of subsequent deletions.
+If I’m subject to these restrictions, what happens to my existing content?
+You can continue to view, edit, move, export, and delete existing content even if your workspace has reached its block limit. 
+How can I check how many blocks I've used?
+You can see how many blocks you’ve used by going to Settings → Upgrade plan. You’ll also see a notification in your workspace’s sidebar when you’ve used a majority of your blocks so you can plan ahead.
+I'm the only person in my workspace. Do block limits apply to me?
+Yes. A Free workspace with just one person can add up to 5,000 blocks. You can still view, edit, move, export, and delete everything you've already made. To get unlimited blocks, upgrade to a paid plan.
+How can I check if I have other members or workspace owners in my workspace?
+You can confirm if your workspace has multiple workspace owners by going to Settings → People. The number of people in your workspace sets which limit applies: up to 5,000 blocks for one person, or 1,000 blocks for two or more.
+Can I archive my teamspaces to avoid block usage restrictions?
+No. Teamspaces are not considered blocks, so they don’t count towards block usage.
+What if I need more time to figure out if I want to or can upgrade to a paid plan?
+Don't worry! When your workspace reaches its block limit (5,000 blocks for one person, or 1,000 for two or more) we automatically give you a three-day grace period.
+What are my options if I don't want to upgrade to a paid plan?
+Every Free workspace has a block limit, so removing people won't give you unlimited blocks. If you prefer not to upgrade right now, you can keep viewing, editing, and organizing the content you already have. To get unlimited blocks, upgrade to a paid plan. You can also add collaborators as guests to keep working with them in a more limited way.
+What happens if I add a second member to a one-person workspace, or vice versa?
+Your block limit depends on how many people are in your Free workspace.
+If you add a second person to a one-person workspace, the limit changes from 5,000 blocks to 1,000 blocks. You can still view and edit your existing content, but you can’t add new blocks after reaching the limit.
+If you remove people until only one person remains, the limit changes from 1,000 blocks to 5,000 blocks. You can add blocks until you reach the new limit.
+Contents
+What is a block?
+Block usage
+Upgrade to another plan
+Give FeedbackWas this resource helpful?
+👍👎
+Up nextWhat happens when I downgrade my plan?
+When you downgrade your Notion plan, some of the features available with your previous plan may be affected. Here’s what to expect.
+Read more→
+We shape our tools,
+ and thereafter our tools shape us.Marshall McLuhan
+Product
+Features
+What's New
+Notion AI
+Pricing
+Request a demo
+Download
+Explore more
+Resources
+Customer stories
+Connections
+Marketplace
+Help Center
+Academy
+Community
+Company
+About us
+Careers
+Security
+Status
+Terms & privacy
+Your privacy rights
+Notion for
+Enterprise
+Small businesses
+Startups
+Developers
+Explore more
+English (US)
+English (US)
+Bahasa Indonesia
+Dansk
+Deutsch
+English (UK)
+Español (España)
+Español (Latinoamérica)
+Français (France)
+Italiano
+Nederlands
+Norsk
+Português (Brasil)
+Suomi
+Svenska
+Tiếng Việt
+עברית
+العربية
+ภาษาไทย
+한국어
+日本語
+简体中文
+繁體中文
+Cookie settings
+© 2026 Notion Labs, Inc.

@@ -1,0 +1,195 @@
+File storage limits in Notion | Notion Help 
+ProductFeatures
+See all features
+Capture
+Bring everything into one system of record.
+Find
+Get answers, instantly—with citations.
+Automate
+Keep work moving 24/7 with agents.
+. See what’s new
+Download the Notion App
+ResourcesNotion for
+Enterprise
+Small businesses
+Startups
+Developers
+Discover
+What's New
+Customer stories
+Webinars
+Templates
+Consultants
+Learn
+Academy
+Product tours
+Help Center
+EnterprisePricingRequest a demo
+Log inGet Notion free
+Search help center
+Help CenterGet startedNotion basics
+Sidebar navigation
+Workspace basicsWorkspace settings
+Settings & preferences
+Create & format pagesPages & blocks
+Build databasesDatabases
+Database views
+Share & collaborateSharing & permissions
+Notion Sites
+Automation & connectionsImport & export your data
+Connections
+Automations
+Work with Notion AINotion AI
+Notion AI Connectors
+AI Meeting Notes
+Agents in NotionCustom Agents
+External Agents
+Admin & securityAdminister your workspace
+Privacy & security
+Notion AI security
+Calendar & AppsNotion on desktop, web, & mobile
+Notion Calendar
+Get started on marketplaceMarketplace & templates
+Manage your planNotion credits
+Plans & billing
+Fix a problemTroubleshoot
+Developer PlatformExplore developer tools
+Learn by doing
+Guides & tutorials
+Get certified
+Notion Academy
+Support
+Chat with us
+Join our community
+Find a consultant
+Help Center
+Plans & billing
+← Plans & billing
+File storage limits in Notion
+In this help docEvery Notion plan includes file storage. Free workspaces come with 512 MB. Here's how to see what you've used, what counts, and how to keep uploading if you run low.
+How much storage your workspace has
+Every Notion plan includes file storage for your workspace, shared across everyone in it no matter how many people there are.
+Plan
+File storage included
+Free
+512 MB total
+Plus
+256 GB, plus 5 GB for each member you add
+Business
+512 GB, plus 10 GB for each member you add
+Enterprise
+1 TB, plus 20 GB for each member you add
+This limit covers all the files in your workspace added together.
+The 5 MB limit on each single file is separate, and it applies on the Free plan.
+Note: If you created your Notion workspace after November 23, 2026, free plan limits may apply.
+What counts toward your storage
+Your storage is the total size of the files people have uploaded and can still see in your workspace.
+What counts:
+Files you add to a page: file, image, PDF, video, and audio blocks.
+Files you add to a database (in a Files & media property).
+Pages you save with Web Clipper.
+Files you bring in through an import.
+Images Notion AI makes and saves to a page.
+If the same file is used twice in one workspace, it only counts once.
+What doesn't count:
+Your pages, blocks, and databases.
+A file you replaced with a new one.
+Older files that only show up in a page's version history.
+Anything in Trash, or on pages you've deleted or archived.
+Files you share with Notion AI as context.
+Behind-the-scenes files, like the small preview image for an embed.
+Where to check your usage
+There are two places to look:
+Open the workspace switcher at the bottom left. Once you've used 80% or more of your storage, a storage meter shows up there. Below 80%, the meter stays hidden.
+Go to Settings → Usage. Your usage is listed on this page.
+Notion adds up your storage once a day, so both spots show your usage from the most recent daily check, not from this exact second.
+Warnings before uploads pause
+If you're close to reaching your plan limit, you'll get a heads-up before uploads stop.
+When you reach 80% of your storage, you'll see a warning banner and the storage meter, and workspace owners and admins get an email.
+If you reach 512 MB, new uploads pause at the next daily check.
+What happens when uploads pause
+When your workspace is out of storage, only new uploads stop. Everything you've already uploaded keeps working.
+You can still view, edit, download, and delete your files. When you try to upload, you'll see a message about getting more storage.
+What each person sees:
+Owners and admins can upgrade or free up space.
+Members see an option to ask an admin, which sends the admins a note.
+Guests see a general message about upgrading.
+If someone fills out a public form, they'll see an error and can still submit without the file when that question is optional.
+Imports and Web Clipper list any files they skipped, so nothing disappears quietly.
+How to start uploading again
+You have two options:
+Move to a paid plan. Uploads turn back on right away.
+Delete files you don't need, then wait for the next daily check. Once Notion sees you're back under 512 MB, uploads turn back on.
+There's no single screen that lists your files, so to delete a file, open the page where it lives and delete it there.
+Note: Deleting files doesn't free up space right away. It takes effect at the next daily check. Moving to a paid plan is the only way to get back right away.
+Related articles
+Images, files & media
+Understanding block usage
+Change your plan
+Contents
+How much storage your workspace has
+What counts toward your storage
+Where to check your usage
+Warnings before uploads pause
+What happens when uploads pause
+How to start uploading again
+Related articles
+Give FeedbackWas this resource helpful?
+👍👎
+Up nextReset Notion
+Read more→
+We shape our tools,
+ and thereafter our tools shape us.Marshall McLuhan
+Product
+Features
+What's New
+Notion AI
+Pricing
+Request a demo
+Download
+Explore more
+Resources
+Customer stories
+Connections
+Marketplace
+Help Center
+Academy
+Community
+Company
+About us
+Careers
+Security
+Status
+Terms & privacy
+Your privacy rights
+Notion for
+Enterprise
+Small businesses
+Startups
+Developers
+Explore more
+English (US)
+English (US)
+Bahasa Indonesia
+Dansk
+Deutsch
+English (UK)
+Español (España)
+Español (Latinoamérica)
+Français (France)
+Italiano
+Nederlands
+Norsk
+Português (Brasil)
+Suomi
+Svenska
+Tiếng Việt
+עברית
+العربية
+ภาษาไทย
+한국어
+日本語
+简体中文
+繁體中文
+Cookie settings
+© 2026 Notion Labs, Inc.
