@@ -1,9 +1,9 @@
 {
  "title": "Subscription Black Friday deals 2026: what's actually on sale, the price after, and when each deal ends",
  "desc": "Every subscription Black Friday deal we could verify on official pages on Nov 23, 2026: HBO Max $5.49 for 12 months, Disney+, Hulu Bundle $4.99 for 12 months, Peacock from $2.99, Paramount+ $2.99, Apple TV $6.99, YouTube TV, PS Plus, Microsoft 365, Spotify, Audible, cPanel. Real prices after, end dates, and who qualifies.",
- "dek": "Short answer: as of November 23, 2026 the biggest subscription Black Friday deals on official pages are HBO Max Basic With Ads at $5.49 a month for 12 months (then $10.99), Peacock Select at $29.99 for a year or $2.99 a month for 3 months, Paramount+ at $2.99 a month for 2 months, Apple TV at $6.99 a month for 6 months (then $14.99) and PlayStation Plus 12-month plans at 20% to 33% off. Most end November 30. Almost all are for new or lapsed subscribers only, and every one renews at full price unless you cancel. Disney+ added the Disney+, Hulu Bundle at $4.99 a month for 12 months on November 24. Amazon Prime and Netflix showed no Black Friday discount on their own sites when we checked.",
+ "dek": "Short answer: as of November 23, 2026 the biggest subscription Black Friday deals on official pages are HBO Max Basic With Ads at $5.49 a month for 12 months (then $10.99), Peacock Select at $29.99 for a year or $2.99 a month for 3 months, Paramount+ at $2.99 a month for 2 months, Apple TV at $6.99 a month for 6 months (then $14.99) and PlayStation Plus 12-month plans at 20% to 33% off. Most end November 30. Almost all are for new or lapsed subscribers only, and every one renews at full price unless you cancel. Disney+ added the Disney+, Hulu Bundle at $4.99 a month for 12 months on November 24, and Dropbox added 3 free months on yearly plans until December 1 on November 25. Amazon Prime and Netflix showed no Black Friday discount on their own sites when we checked.",
  "published": "2026-11-23",
- "modified": "2026-11-24",
+ "modified": "2026-11-25",
  "services": [
   "HBO Max",
   "Peacock",
@@ -16,9 +16,11 @@
   "Audible",
   "Amazon Prime",
   "Disney+",
-  "cPanel"
+  "cPanel",
+  "Dropbox"
  ],
  "changes": [
+  "2026-11-25-dropbox-dropbox-s-black-friday-deal-3-free-months-on-yearly-plans-until-dec-1",
   "2026-11-24-disney-plus-disney-plus-and-hulu-bundle-drops-to-4-99-a-month-for-a-year-in-a-b",
   "2026-11-20-apple-tv-apple-tv-s-black-friday-deal-6-months-at-6-99-a-month-ending-november",
   "2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-dec-7-nine-days-before-its-dec-16",
@@ -137,6 +139,13 @@
       "See Audible's terms"
      ],
      [
+      "**Dropbox** Plus / Standard / Advanced (yearly)",
+      "3 free months (15 months for the price of 12); Plus works out to $7.99/mo",
+      "Annual renewal price shown at checkout",
+      "Dec 1",
+      "New subscriptions only"
+     ],
+     [
       "**cPanel** licenses",
       "50% off new licenses",
       "Prices rise Dec 16",
@@ -160,7 +169,8 @@
     "**Late January 2027:** Paramount+ (after 2 months) and the YouTube TV main-plan offer (after 2 months).",
     "**Late February 2027:** Peacock's 3-month offers, Audible's $0.99 months and Spotify's 3 free months.",
     "**Late May 2027:** Apple TV (after 6 months) and the YouTube TV Sports + News offer (after 6 months).",
-    "**Late November 2027:** HBO Max and the Disney+, Hulu Bundle (after 12 months), Peacock's 1-year offers, PlayStation Plus 12-month plans and Microsoft 365's discounted first year."
+    "**Late November 2027:** HBO Max and the Disney+, Hulu Bundle (after 12 months), Peacock's 1-year offers, PlayStation Plus 12-month plans and Microsoft 365's discounted first year.",
+    "**Late February 2028:** Dropbox's yearly plans bought with 3 free months (after 15 months)."
    ]
   },
   {
@@ -255,6 +265,12 @@
    "p": "For web hosts and freelancers: cPanel's pricing page says \"Black Friday: 50% off new licenses. Till December 7.\" Solo shows $13.73 a month billed annually instead of $27.46, Admin $16.48 instead of $32.96, Pro $24.73 instead of $49.46, and Premier $34.99 a month instead of $69.99. The same page still carries this notice: \"effective December 16, 2026, cPanel license pricing will be adjusted, affecting new orders and all renewals on or after that date.\" So the sale ends nine days before every renewal gets more expensive. Details: [cPanel's 50% off sale](../../changes/2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-dec-7-nine-days-before-its-dec-16/) and [the Dec 16 increase](../../changes/2026-11-13-cpanel-cpanel-raises-solo-from-29-99-to-32-99-a-month-on-dec-16/)."
   },
   {
+   "h": "Dropbox: 3 free months on yearly plans until December 1 (added Nov 25)"
+  },
+  {
+   "p": "Dropbox's plans page added \"Get 3 free months. Offer ends December 1.\" on November 25. It isn't a price cut: \"The displayed monthly price for each plan is its annual purchase price divided by 15 months, which includes the 3 free months offered through this promotion.\" So Plus (2 TB) shows $7.99 a month instead of $9.99, Standard $12 per user instead of $15, and Advanced $19.20 per user instead of $24. Our math: Plus costs $119.88 for 15 months, $29.97 less than paying the yearly rate for those extra 3 months. The catch: \"After the first 15 months, your subscription renews every 12 months at the annual renewal price shown at checkout until you cancel. Offer valid for new subscriptions only.\" Details: [Dropbox's Black Friday deal](../../changes/2026-11-25-dropbox-dropbox-s-black-friday-deal-3-free-months-on-yearly-plans-until-dec-1/)."
+  },
+  {
    "h": "Price increases arriving right after the sales"
   },
   {
@@ -282,6 +298,10 @@
   [
    "Disney+: Black Friday offer and terms (checked Nov 24, 2026)",
    "https://www.disneyplus.com/"
+  ],
+  [
+   "Dropbox: plans page and Black Friday offer (checked Nov 25, 2026)",
+   "https://www.dropbox.com/plans"
   ],
   [
    "HBO Max: Black Friday 2026 terms",

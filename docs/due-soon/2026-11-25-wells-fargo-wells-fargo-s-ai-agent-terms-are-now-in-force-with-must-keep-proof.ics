@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wells Fargo · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-25-wells-fargo-wells-fargo-s-ai-agent-terms-are-now-in-force-w
+ ith-must-keep-proof@quietlychanged.com
+DTSTAMP:20261125T131519Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Wells Fargo: Took effect
+DESCRIPTION:Wells Fargo's Online Access Agreement with the AI-agent sectio
+ n took effect Nov 24. One change from the preview: you now "should" keep 
+ proof you revoked an agent\, not "must".\n\nhttps://quietlychanged.com/ch
+ anges/2026-11-25-wells-fargo-wells-fargo-s-ai-agent-terms-are-now-in-forc
+ e-with-must-keep-proof/
+URL:https://quietlychanged.com/changes/2026-11-25-wells-fargo-wells-fargo-
+ s-ai-agent-terms-are-now-in-force-with-must-keep-proof/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Wells Fargo — Took effect
+END:VALARM
+END:VEVENT
+END:VCALENDAR

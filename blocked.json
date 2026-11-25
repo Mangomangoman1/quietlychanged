@@ -830,5 +830,41 @@
    "note",
    "Single pass 175 ok / 4 failed. No working replacement for PayPal/Roblox/Shein."
   ]
+ ],
+ "flaky_2026-11-25": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403 continues (since Nov 10); retry with browser UA timed out, /us/legalhub/useragreement-full 403; kept"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403 continues (since Nov 10); kept"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403 continues; kept. The public Zendesk API URL https://en.help.roblox.com/api/v2/help_center/en-us/articles/115004647846.json returns 200 (body HTML inside JSON) and would work as a replacement once tracker.extract() can read a JSON 'body' field"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars) continues; kept. us.shein.com/Terms-and-Conditions-a-399.html is 200 but extracts to ~480 chars (bot wall)"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service",
+   "ReadTimeout in the tracker run (first time); manual retry at ~6:30 AM MT returned 200, treated as transient; kept"
+  ],
+  [
+   "note",
+   "Single pass 174 ok / 5 failed. No swap today: the only working alternative (Roblox Zendesk API) needs a tracker JSON fallback."
+  ]
  ]
 }

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dropbox · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-25-dropbox-dropbox-s-black-friday-deal-3-free-months-on-yearly
+ -plans-until-dec-1@quietlychanged.com
+DTSTAMP:20261125T131519Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Dropbox: Offer ends
+DESCRIPTION:Dropbox gives new yearly subscribers 15 months for the price o
+ f 12 until Dec 1: Plus shows as $7.99 a month instead of $9.99. Then it r
+ enews yearly at the regular annual price.\n\nhttps://quietlychanged.com/c
+ hanges/2026-11-25-dropbox-dropbox-s-black-friday-deal-3-free-months-on-ye
+ arly-plans-until-dec-1/
+URL:https://quietlychanged.com/changes/2026-11-25-dropbox-dropbox-s-black-
+ friday-deal-3-free-months-on-yearly-plans-until-dec-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Dropbox — Offer ends
+END:VALARM
+END:VEVENT
+END:VCALENDAR

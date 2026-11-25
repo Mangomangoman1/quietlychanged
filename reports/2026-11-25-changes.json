@@ -1,0 +1,188 @@
+[
+ {
+  "service": "Notion",
+  "page": "pricing",
+  "headline": "Notion's Free plan now has a 512 MB storage cap, and uploads pause when you hit it",
+  "tldr": "Notion's pricing page now lists total file storage per workspace: 512 MB on Free. Notion's help center says new uploads pause once a Free workspace reaches 512 MB.",
+  "impact": 2,
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://www.notion.com/pricing",
+  "who": "People and teams on Notion's Free plan who upload images, PDFs, videos or other files (especially workspaces created after November 23, 2026), plus Plus and Business workspaces with lots of files",
+  "seo_title": "Notion Free plan storage limit 512 MB (Nov 2026): what counts and what happens",
+  "seo_desc": "Notion's pricing page now caps total file storage: Free 512 MB, Plus 256 GB + 5 GB per added seat, Business 512 GB + 10 GB per seat. At 512 MB, uploads pause on Free. What counts and how to check.",
+  "redline": [
+   {
+    "before": "",
+    "after": "Total file storage space used by your workspace including blocks, files, images and videos. File storage 512 MB 256 GB + 5 GB / added seat 512 GB + 10 GB / added seat",
+    "label": "Pricing · Plans and features · File storage (Free, Plus, Business)",
+    "note": "A new row: Free workspaces get 512 MB in total, shared by everyone in them.",
+    "src": "raw"
+   },
+   {
+    "before": "Teams who want to try collaborating in Notion can use the Free Plan with up to certain number of blocks before upgrading. Pages & blocks Limited for 2+ members",
+    "after": "Block storage Limited",
+    "label": "Pricing · Plans and features · Content",
+    "note": "The old limit applied to Free workspaces with two or more members; the new one says only \"Limited\".",
+    "src": "raw"
+   },
+   {
+    "before": "Custom Agents AI agents handle repetitive tasks autonomously, so your team doesn’t have to. Free to try, then $10 per 1,000 monthly Notion credits.",
+    "after": "1,500 Standard credits / month 500 Select credits / month",
+    "label": "Pricing · Business plan · Notion AI credits",
+    "note": "Business now lists a monthly credit allowance per seat instead of a per-1,000-credit price.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "Check your workspace's usage in Notion under Settings → Usage (Notion says it updates once a day)",
+   "If you're on Free and near 512 MB, delete files you don't need or export them before uploads pause; deleted files only free space at the next daily check",
+   "Know what counts: Notion says uploaded files, images, PDFs, video and audio, Web Clipper pages and imports count, while pages, blocks, databases and Trash don't"
+  ],
+  "what": "Notion's [pricing page](https://www.notion.com/pricing) has a new row in its plan comparison: \"Total file storage space used by your workspace including blocks, files, images and videos.\" File storage is listed as 512 MB on Free, 256 GB \"+ 5 GB / added seat\" on Plus, 512 GB \"+ 10 GB / added seat\" on Business and Custom on Enterprise. The Free plan's feature list now starts with \"Limited storage\". The old content row, \"Pages & blocks: Limited for 2+ members\", is replaced by \"Block storage: Limited\" (fetched November 25, 2026; the November 24 page had no storage row).\n\n## What Notion's help center says (checked Nov 25)\n\nNotion's help article [File storage limits in Notion](https://www.notion.com/help/file-storage-limits-in-notion) gives the same numbers and adds Enterprise: \"1 TB, plus 20 GB for each member you add\". It says the limit \"covers all the files in your workspace added together\" and that \"The 5 MB limit on each single file is separate, and it applies on the Free plan.\" It also says: \"If you created your Notion workspace after November 23, 2026, free plan limits may apply.\" Notion doesn't say on the page when or whether older Free workspaces are moved to the limit.\n\nWhat happens at the limit: \"When you reach 80% of your storage, you'll see a warning banner and the storage meter, and workspace owners and admins get an email.\" Then: \"If you reach 512 MB, new uploads pause at the next daily check.\" Notion says \"only new uploads stop. Everything you've already uploaded keeps working.\" To upload again you either move to a paid plan (\"Uploads turn back on right away\") or delete files and wait for the next daily check. \"There's no single screen that lists your files\", so you delete each file on the page where it lives.\n\nWhat counts: files, images, PDFs, video and audio blocks, Files & media database properties, Web Clipper pages, imports and \"Images Notion AI makes and saves to a page.\" What doesn't: \"Your pages, blocks, and databases\", replaced files, old versions in page history, \"Anything in Trash, or on pages you've deleted or archived\" and files shared with Notion AI as context.\n\nOther changes: the Plus and Enterprise plans now carry an asterisk: \"* Plans may not be available for every workspace.\" Business now lists \"1,500 Standard credits / month\" and \"500 Select credits / month\" per seat for Notion AI (Standard credits are for \"work where Notion picks the model, like Notion Agent on Auto, AI Meeting Notes, and Database Autofill\"; Select credits for \"work where you pick the model, plus Custom Agents you own\"). The line pricing Custom Agents at \"$10 per 1,000 monthly Notion credits\" after a free trial is gone; Free and Plus still show AI as \"Limited Trial\". The pricing page also drops the \"Research mode\" row and adds \"Advanced MCP tools\" on Enterprise.\n\nWhat stays the same: Plus is still $10 and Business $20 per seat a month on this page, and the Free plan's 5 MB per-file upload limit is unchanged.",
+  "faq": [
+   [
+    "How much storage does Notion's Free plan have?",
+    "Notion's pricing page lists 512 MB of total file storage for a Free workspace, shared by everyone in it. Single files are also capped at 5 MB each on Free."
+   ],
+   [
+    "What happens when a Free Notion workspace reaches 512 MB?",
+    "Notion's help center says \"new uploads pause at the next daily check.\" Files you've already uploaded keep working; to upload again you upgrade or delete files and wait for the next daily check."
+   ],
+   [
+    "Do pages and text count toward Notion's storage limit?",
+    "No. Notion says \"Your pages, blocks, and databases\" don't count; uploaded files, images, PDFs, video, audio, imports and Web Clipper pages do."
+   ]
+  ],
+  "sources": [
+   [
+    "Notion pricing page (fetched Nov 25, 2026)",
+    "https://www.notion.com/pricing"
+   ],
+   [
+    "Notion Help: File storage limits in Notion (checked Nov 25, 2026)",
+    "https://www.notion.com/help/file-storage-limits-in-notion"
+   ]
+  ]
+ },
+ {
+  "service": "Wells Fargo",
+  "page": "terms",
+  "headline": "Wells Fargo's AI agent terms are now in force, with 'must' keep proof softened to 'should'",
+  "tldr": "Wells Fargo's Online Access Agreement with the AI-agent section took effect Nov 24. One change from the preview: you now \"should\" keep proof you revoked an agent, not \"must\".",
+  "impact": 2,
+  "effective": "2026-11-24",
+  "deadline": "Took effect",
+  "themes": [
+   "ai-and-your-data",
+   "accept-or-else"
+  ],
+  "url": "https://www.wellsfargo.com/online-banking/online-access-agreement/",
+  "who": "Wells Fargo online and mobile banking customers, especially anyone who lets an AI assistant, budgeting app, script or Delegate act in their accounts",
+  "seo_title": "Wells Fargo Online Access Agreement in effect Nov 24, 2026: AI agents section live",
+  "seo_desc": "Wells Fargo's Nov 24, 2026 Online Access Agreement is now live: AI agent actions count as yours, Delegates' AI agents included. The final text softens 'must retain evidence' of revocation to 'should'.",
+  "redline": [
+   {
+    "before": "You must retain evidence of such revocation and must provide such evidence to us, at our request.",
+    "after": "You should retain evidence of such revocation and provide such evidence to us, at our request.",
+    "label": "Online Access Agreement · Section 15(f) Revocation of authorization",
+    "note": "The preview we covered on Nov 6 said \"must\"; the version in force says \"should\".",
+    "src": "quoted"
+   },
+   {
+    "before": "An Authorized Representative or Delegate's transactions are considered authorized, unless (1) you tell us that they are no longer authorized as an Authorized Representative or Delegate,",
+    "after": "Unless otherwise provided by law or regulation, an Authorized Representative or Delegate's transactions (including the transactions of their AI Agents) are considered authorized, unless (1) you tell us that they are no longer authorized as an Authorized Representative or Delegate,",
+    "label": "Online Access Agreement · Delegates",
+    "note": "Now live: a Delegate's AI agents count as the Delegate.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "Any instructions, actions, or transactions initiated by the AI Agent are deemed to have been initiated and authorized directly by you, without further verification, and we have no obligation to investigate the validity or scope of such authority;",
+    "label": "Online Access Agreement · Section 15 Reliance on AI Agent instructions",
+    "note": "Unchanged from the preview, and now in force.",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "Don't give your Wells Fargo username and password to an AI tool, script or app you aren't watching: its actions are \"deemed to have been initiated and authorized directly by you\"",
+   "To cut an agent off: revoke it at the provider, change your password, keep dated proof, and notify Wells Fargo per Section 17(d) (the agreement's notice section)",
+   "If you've given someone Delegate access, remember their AI tools now count as them; review Delegates in your Wells Fargo settings"
+  ],
+  "what": "The Wells Fargo [Online Access Agreement](https://www.wellsfargo.com/online-banking/online-access-agreement/) marked \"Version Effective November 24, 2026\" is now the live version. Our November 24 snapshot still showed the May 21, 2026 version with an \"Upcoming\" link; by November 25 the main page carries the new text, including Section 15, \"Third-Party Artificial Intelligence Agents or Agentic AI\". We [covered that section on November 6](../2026-11-06-wells-fargo-wells-fargo-s-nov-24-online-access-agreement-ai-agents-act-as-you-a/) from the preview.\n\n## One change from the preview\n\nWe compared the live text (fetched November 25) with the preview we saved on November 6. Apart from page navigation, one sentence differs. The preview said: \"You must retain evidence of such revocation and must provide such evidence to us, at our request.\" The live version says: \"You should retain evidence of such revocation and provide such evidence to us, at our request.\" Keeping proof is now advice rather than a requirement, but the next sentence is unchanged: \"Until you notify us of such revocation pursuant to Section 17(d), you remain responsible for all the AI Agent’s activities, to the extent permitted by law or regulation.\"\n\n## What is now in force\n\nThe agreement's summary lists \"Your responsibilities for artificial intelligence agents, if and when we permit the use of such agents.\" Section 15 defines an AI Agent as technology that \"takes autonomous, semi-autonomous, or non-autonomous action on behalf of any person or entity\" and says \"Any instructions, actions, or transactions initiated by the AI Agent are deemed to have been initiated and authorized directly by you, without further verification, and we have no obligation to investigate the validity or scope of such authority\". Delegates are covered too: \"Unless otherwise provided by law or regulation, an Authorized Representative or Delegate's transactions (including the transactions of their AI Agents) are considered authorized\", and \"You are solely responsible for supervising all of your Authorized Representatives and Delegates (including their AI Agents)\".\n\nOther changes: sections are renumbered (the security section is now 17 and privacy 18); Bill Pay now says Wells Fargo \"may decline to make the payment\" from a credit line without enough available credit (it said \"we don't have to make a payment\"); the privacy section now says marketing use is \"in accordance with your privacy preferences\"; \"Private Wealth experience\" is renamed \"Private Wealth offering\".",
+  "faq": [
+   [
+    "Is Wells Fargo's AI agent section in effect?",
+    "Yes. The Online Access Agreement marked \"Version Effective November 24, 2026\", including Section 15 on AI agents, is the live version on wellsfargo.com as of November 25, 2026."
+   ],
+   [
+    "Do I have to keep proof that I revoked an AI agent's access to Wells Fargo?",
+    "The final text says you \"should retain evidence of such revocation and provide such evidence to us, at our request\" (the preview said \"must\"). You stay responsible for the agent's activity until you notify Wells Fargo under Section 17(d)."
+   ]
+  ],
+  "sources": [
+   [
+    "Wells Fargo Online Access Agreement, Version Effective November 24, 2026 (fetched Nov 25, 2026)",
+    "https://www.wellsfargo.com/online-banking/online-access-agreement/"
+   ],
+   [
+    "Wells Fargo upcoming Online Access Agreement (preview saved Nov 6, 2026)",
+    "https://www.wellsfargo.com/online-banking/online-access-agreement/upcoming/"
+   ]
+  ]
+ },
+ {
+  "service": "Dropbox",
+  "page": "pricing",
+  "headline": "Dropbox's Black Friday deal: 3 free months on yearly plans until Dec 1",
+  "tldr": "Dropbox gives new yearly subscribers 15 months for the price of 12 until Dec 1: Plus shows as $7.99 a month instead of $9.99. Then it renews yearly at the regular annual price.",
+  "impact": 2,
+  "effective": "2026-12-01",
+  "deadline": "Offer ends",
+  "themes": [
+   "plan-shuffles"
+  ],
+  "url": "https://www.dropbox.com/plans",
+  "who": "People and teams thinking about a new yearly Dropbox Plus, Standard or Advanced subscription; existing subscriptions don't qualify",
+  "seo_title": "Dropbox Black Friday 2026: 3 free months on yearly plans (ends Dec 1)",
+  "seo_desc": "Dropbox's Black Friday 2026 offer: 3 free months on new yearly plans until Dec 1. Plus shows $7.99/mo (was $9.99), Standard $12/user, Advanced $19.20/user. 15 months, then yearly renewal.",
+  "redline": [
+   {
+    "before": "$9.99 / month",
+    "after": "$7.99 / month Get 3 free months. Offer ends December 1.",
+    "label": "Plans · Plus, billed yearly",
+    "note": "The yearly Plus price is spread over 15 months instead of 12.",
+    "src": "raw"
+   },
+   {
+    "before": "",
+    "after": "*The displayed monthly price for each plan is its annual purchase price divided by 15 months, which includes the 3 free months offered through this promotion. After the first 15 months, your subscription renews every 12 months at the annual renewal price shown at checkout until you cancel. Offer valid for new subscriptions only.",
+    "label": "Plans · Offer fine print",
+    "src": "raw"
+   }
+  ],
+  "actions": [
+   "If you want Dropbox anyway, buy a yearly plan on dropbox.com/plans before the offer ends December 1",
+   "Set a reminder for about 15 months after you buy: it \"renews every 12 months at the annual renewal price shown at checkout until you cancel\"",
+   "Already subscribed? The offer is \"valid for new subscriptions only\", so it won't lower your current plan"
+  ],
+  "what": "Dropbox's [plans page](https://www.dropbox.com/plans) now shows \"Get 3 free months. Offer ends December 1.\" on its yearly plans (fetched November 25, 2026). The displayed monthly prices drop because of how the deal is counted: \"The displayed monthly price for each plan is its annual purchase price divided by 15 months, which includes the 3 free months offered through this promotion.\"\n\n## The prices\n\nPlus (1 person, 2 TB) shows \"$9.99\" struck through and \"$7.99 / month\". Standard shows $15 and \"$12 / user / month\", and Advanced $24 and \"$19.20 / user / month\". Our math: you pay the regular annual price once (for Plus, 12 × $9.99 = $119.88) and get 15 months, a saving of $29.97 against paying the yearly rate for those 3 extra months. Standard saves $45 per user and Advanced $72 per user on the same basis.\n\n## The fine print\n\n\"After the first 15 months, your subscription renews every 12 months at the annual renewal price shown at checkout until you cancel. Offer valid for new subscriptions only.\" Dropbox doesn't state a time of day for the December 1 end date on the plans page.\n\nWhat stays the same: storage, restore windows (30 days on Plus, 180 days on Standard, 1 year on Advanced) and transfer limits are unchanged; the rest of the diff is layout (\"30 days to restore deleted files\" now on one line).",
+  "faq": [
+   [
+    "What is Dropbox's Black Friday 2026 deal?",
+    "3 free months on new yearly plans until December 1: you pay the annual price and get 15 months. Plus works out to $7.99 a month instead of $9.99."
+   ],
+   [
+    "What does Dropbox charge after the free months?",
+    "Dropbox says that \"After the first 15 months, your subscription renews every 12 months at the annual renewal price shown at checkout until you cancel.\""
+   ]
+  ],
+  "sources": [
+   [
+    "Dropbox plans page (fetched Nov 25, 2026)",
+    "https://www.dropbox.com/plans"
+   ]
+  ]
+ }
+]
