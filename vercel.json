@@ -314,6 +314,11 @@
       "source": "/services/zoom/index.html",
       "destination": "/services.html#zoom",
       "statusCode": 301
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "statusCode": 301
     }
   ]
 }

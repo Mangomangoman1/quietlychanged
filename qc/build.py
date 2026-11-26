@@ -550,6 +550,7 @@ def main():
         body = x["body"](build_out(k, PH[k], svc_stats[k]) if k in PH else "", guide_box(k))
         write(D / "services" / x["sl"] / "index.html", page(f"services/{x['sl']}/index.html", x["title"], body, TODAY, desc=x["desc"], depth=2, ld=([x["ld"], x["phld"]] if x["phld"] else x["ld"]), lastmod=x["svc_mod"], crumbs=[("Home", SITE + "/"), ("What we track", SITE + "/services.html")]))
     vercel = [{"source": f"/services/{sl_}{tail}", "destination": f"/services.html#{sl_}", "statusCode": 301} for sl_ in sorted(THIN_SL) for tail in ("", "/", "/index.html")]
+    vercel.append({"source": "/index.html", "destination": "/", "statusCode": 301})  # one home URL: Google was crawling /index.html as an alternate of /
     write(R / "vercel.json", json.dumps({"redirects": vercel}, indent=2) + "\n")
 
     # ---------- services index ----------

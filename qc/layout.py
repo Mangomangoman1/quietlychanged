@@ -23,13 +23,13 @@ def _current(fn, h):
     return False
 
 def page(fn, title, body=None, today=None, desc=TAG, depth=0, ld=None, otype="website", lastmod=None, crumbs=None, image=None, front=False, noindex=False):
-    p = "../" * depth; url = f"{SITE}/{fn}".replace("/index.html", "/")
+    p = "../" * depth; home = p or "./"; url = f"{SITE}/{fn}".replace("/index.html", "/")
     if noindex: NOINDEX.append(url)
     else: PAGES.append((url, lastmod))
     lds = [ORG] + (ld if isinstance(ld, list) else [ld] if ld else [])
     if crumbs: lds.append({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": u} for i, (n, u) in enumerate(crumbs + [(title, url)])]})
     ldh = "".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)
-    nav = "".join(f'<a href="{p}{h}"{" aria-current=page" if _current(fn, h) else ""}>{t}</a>' for h, t in NAV)
+    nav = "".join(f'<a href="{(home if h == "index.html" else p + h)}"{" aria-current=page" if _current(fn, h) else ""}>{t}</a>' for h, t in NAV)
     full = "QuietlyChanged: daily pricing, terms & privacy policy changes" if fn == "index.html" else f"{title} · QuietlyChanged"
     robots = '<meta name="robots" content="noindex, follow">' if noindex else ""
     img = image or f"{SITE}/og.png"
@@ -37,7 +37,7 @@ def page(fn, title, body=None, today=None, desc=TAG, depth=0, ld=None, otype="we
     if crumbs and not front:
         parts = []
         for n, u in crumbs:
-            rel = p + (u.replace(SITE + "/", "") or "index.html")
+            rel = (p + u.replace(SITE + "/", "")) if u.replace(SITE + "/", "") else home
             parts.append(f'<a href="{E(rel)}">{E(n)}</a><span aria-hidden="true">/</span>')
         vis_crumbs = f'<nav class="crumbs wide" aria-label="Breadcrumb" style="padding-top:1.2rem">{"".join(parts)}<span>{E(title if len(title) < 48 else title[:46].rsplit(" ",1)[0] + "…")}</span></nav>'
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -48,13 +48,13 @@ def page(fn, title, body=None, today=None, desc=TAG, depth=0, ld=None, otype="we
 <script>try{{var t=localStorage.getItem("qc-theme");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <link rel="stylesheet" href="{p}style.css"><link rel="alternate" type="application/atom+xml" href="{p}feed.xml" title="QuietlyChanged"><script src="{p}app.js" defer></script></head>
 <body data-root="{p}"><a class="skip" href="#main">Skip to content</a>
-<header class="site-head"><div class="wide bar"><a class="brand" href="{p}index.html" aria-label="QuietlyChanged home">Quietly<i>Changed</i></a>
+<header class="site-head"><div class="wide bar"><a class="brand" href="{home}" aria-label="QuietlyChanged home">Quietly<i>Changed</i></a>
 <nav class="nav" aria-label="Main">{nav}</nav>
 <div class="tools"><button class="iconbtn" type="button" data-search aria-label="Search">{ICON_SEARCH}<span class="t">Search</span><kbd>/</kbd></button><button class="iconbtn theme-btn" type="button" data-theme-toggle aria-label="Switch light or dark theme">{ICON_THEME}</button></div></div></header>
 {vis_crumbs}<main id="main">{body}</main>
 <footer class="site-foot"><div class="wide cols">
-<div><a class="brand" href="{p}index.html">Quietly<i>Changed</i></a><p style="margin-top:.8rem">An independent record of what popular services change in their prices, terms and privacy policies. We snapshot public pages every morning, compare them automatically, and a person reviews each change before it is published. Always check the linked source; summaries are not legal advice.</p></div>
-<div><h2>Read</h2><ul><li><a href="{p}index.html">Today</a></li><li><a href="{p}due-soon/">Due soon</a></li><li><a href="{p}threads/">Threads</a></li><li><a href="{p}guides/">Guides</a></li><li><a href="{p}archive.html">Archive</a></li></ul></div>
+<div><a class="brand" href="{home}">Quietly<i>Changed</i></a><p style="margin-top:.8rem">An independent record of what popular services change in their prices, terms and privacy policies. We snapshot public pages every morning, compare them automatically, and a person reviews each change before it is published. Always check the linked source; summaries are not legal advice.</p></div>
+<div><h2>Read</h2><ul><li><a href="{home}">Today</a></li><li><a href="{p}due-soon/">Due soon</a></li><li><a href="{p}threads/">Threads</a></li><li><a href="{p}guides/">Guides</a></li><li><a href="{p}archive.html">Archive</a></li></ul></div>
 <div><h2>Trackers</h2><ul><li><a href="{p}price-changes/">Price changes</a></li><li><a href="{p}subscription-price-history/">Price history</a></li><li><a href="{p}terms-of-service-changes/">Terms changes</a></li><li><a href="{p}privacy-policy-changes/">Privacy changes</a></li></ul></div>
 <div><h2>About</h2><ul><li><a href="{p}about.html">About &amp; how it works</a></li><li><a href="{p}contact.html">Contact &amp; corrections</a></li><li><a href="{p}services.html">Tracked services</a></li><li><a href="{p}feed.xml">Feed</a></li><li><a href="{p}due-soon/calendar.ics">Deadline calendar</a></li></ul></div>
 </div><div class="wide fine"><span>© {today[:4]} QuietlyChanged</span><span>Last checked {nice(today)}</span></div></footer></body></html>'''
