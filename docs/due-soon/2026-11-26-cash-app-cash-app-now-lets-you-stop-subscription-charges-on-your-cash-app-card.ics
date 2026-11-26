@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuietlyChanged//Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cash App · QuietlyChanged
+BEGIN:VEVENT
+UID:2026-11-26-cash-app-cash-app-now-lets-you-stop-subscription-charges-on
+ -your-cash-app-card@quietlychanged.com
+DTSTAMP:20261126T131730Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Cash App: Last updated
+DESCRIPTION:Cash App's terms dropped "No Right to Stop Payment": you can n
+ ow block recurring card charges 3 business days ahead. A new Bills and Su
+ bscriptions tool can act for you with power of attorney.\n\nhttps://quiet
+ lychanged.com/changes/2026-11-26-cash-app-cash-app-now-lets-you-stop-subs
+ cription-charges-on-your-cash-app-card/
+URL:https://quietlychanged.com/changes/2026-11-26-cash-app-cash-app-now-le
+ ts-you-stop-subscription-charges-on-your-cash-app-card/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Cash App — Last updated
+END:VALARM
+END:VEVENT
+END:VCALENDAR

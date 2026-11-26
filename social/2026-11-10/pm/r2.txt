@@ -1,0 +1,3 @@
+Apple's status page lists iCloud sign-in, Mail, Calendar, Contacts, Photos, iWork and Game Center as down since 2:49 PM PT, with Find My slow.
+
+Sign-in itself is affected, so hold off on signing out of iCloud to "fix" it. You may not get back in until Apple clears it.

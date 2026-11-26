@@ -301,21 +301,6 @@
       "statusCode": 301
     },
     {
-      "source": "/services/youtube-tv",
-      "destination": "/services.html#youtube-tv",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/youtube-tv/",
-      "destination": "/services.html#youtube-tv",
-      "statusCode": 301
-    },
-    {
-      "source": "/services/youtube-tv/index.html",
-      "destination": "/services.html#youtube-tv",
-      "statusCode": 301
-    },
-    {
       "source": "/services/zoom",
       "destination": "/services.html#zoom",
       "statusCode": 301

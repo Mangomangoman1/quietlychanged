@@ -1,0 +1,1002 @@
+{
+ "date": "2026-11-26",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "pricing",
+   "https://www.disneyplus.com/"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "YouTube TV",
+   "pricing",
+   "https://tv.youtube.com/learn/explore-plans/"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Wells Fargo",
+   "terms",
+   "https://www.wellsfargo.com/online-banking/online-access-agreement/"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ],
+  [
+   "AT&T",
+   "terms",
+   "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  ],
+  [
+   "Cricket Wireless",
+   "terms",
+   "https://www.cricketwireless.com/terms"
+  ],
+  [
+   "California",
+   "terms",
+   "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  ],
+  [
+   "Xero",
+   "terms",
+   "https://www.xero.com/us/legal/terms/"
+  ],
+  [
+   "Xero",
+   "privacy",
+   "https://www.xero.com/us/legal/privacy/"
+  ],
+  [
+   "Grindr",
+   "terms",
+   "https://trust.grindr.com/en-US/legal/2026-terms-of-service"
+  ],
+  [
+   "Grindr",
+   "privacy",
+   "https://trust.grindr.com/en-US/privacy"
+  ],
+  [
+   "Social Security",
+   "privacy",
+   "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest"
+  ],
+  [
+   "Toyota",
+   "privacy",
+   "https://www.toyota.com/support/privacy-notice/"
+  ],
+  [
+   "Tubi",
+   "privacy",
+   "https://tubitv.com/static/privacy"
+  ],
+  [
+   "Calm",
+   "terms",
+   "https://www.calm.com/terms"
+  ],
+  [
+   "Calm",
+   "privacy",
+   "https://www.calm.com/privacy-policy"
+  ],
+  [
+   "Stripe",
+   "privacy",
+   "https://stripe.com/privacy"
+  ],
+  [
+   "JetBlue",
+   "pricing",
+   "https://www.jetblue.com/legal/fees"
+  ],
+  [
+   "JetBlue",
+   "terms",
+   "https://www.jetblue.com/legal/flights-terms"
+  ],
+  [
+   "BeReal",
+   "privacy",
+   "https://bereal.com/privacy"
+  ],
+  [
+   "BeReal",
+   "terms",
+   "https://bereal.com/terms"
+  ],
+  [
+   "Booking.com",
+   "terms",
+   "https://www.booking.com/content/terms.html"
+  ],
+  [
+   "Netlify",
+   "terms",
+   "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/"
+  ],
+  [
+   "Netlify",
+   "privacy",
+   "https://www.netlify.com/privacy/"
+  ],
+  [
+   "Vrew",
+   "terms",
+   "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
+  ],
+  [
+   "Muse",
+   "privacy",
+   "https://choosemuse.com/pages/privacy"
+  ],
+  [
+   "Emotiv",
+   "privacy",
+   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/"
+  ],
+  [
+   "Dave & Buster's",
+   "privacy",
+   "https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy"
+  ],
+  [
+   "Chase",
+   "terms",
+   "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf"
+  ],
+  [
+   "Temu",
+   "terms",
+   "https://www.temu.com/terms-of-use.html"
+  ],
+  [
+   "Temu",
+   "privacy",
+   "https://www.temu.com/privacy-and-cookie-policy.html"
+  ],
+  [
+   "remove.bg",
+   "terms",
+   "https://www.remove.bg/gtc"
+  ],
+  [
+   "cPanel",
+   "pricing",
+   "https://www.cpanel.net/pricing/"
+  ],
+  [
+   "Logos",
+   "pricing",
+   "https://www.logos.com/subscription-faq"
+  ],
+  [
+   "discovery+",
+   "pricing",
+   "https://help.discoveryplus.com/hc/en-us/articles/44191391175703-discovery-plan-price-changes"
+  ],
+  [
+   "Hinge",
+   "terms",
+   "https://hinge.co/terms"
+  ],
+  [
+   "Hinge",
+   "privacy",
+   "https://hinge.co/privacy"
+  ],
+  [
+   "Hunter",
+   "terms",
+   "https://www.hunterfan.com/blogs/hunter-blog/important-update-to-huntersmart%E2%84%A2-google-home-and-amazon-alexa-connectivity-via-app-to-app-linking"
+  ],
+  [
+   "KYMCO",
+   "terms",
+   "https://kymcousa.com/kymco-noodoe-system-discontinuation/"
+  ],
+  [
+   "ZWILLING",
+   "terms",
+   "https://www.zwilling.com/us/magazine/faqs-app-exit.html"
+  ],
+  [
+   "Nedap PowerRouter",
+   "terms",
+   "https://www.powerrouter.com/en/discontinuation-mypowerrouter-com/"
+  ],
+  [
+   "Runna",
+   "pricing",
+   "https://www.runna.com/en-gb/pricing"
+  ],
+  [
+   "Runna",
+   "terms",
+   "https://support.runna.com/en/articles/18298149-changes-to-our-uk-subscription"
+  ]
+ ],
+ "failed": [
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "HTTP 403"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars; JS-rendered or bot wall)"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Disney+",
+   "page": "pricing",
+   "url": "https://www.disneyplus.com/",
+   "diff": "@@ -1,2 +1,2 @@\n-Save on Disney+ and Hulu!\n+Black Friday: Save on Disney+ and Hulu!\n Starting at\n@@ -11,3 +11,3 @@\n View Plan Options\n-Save on Disney+ and Hulu!\n+Black Friday: Save on Disney+ and Hulu!\n Starting at\n@@ -25,9 +25,9 @@\n Finale\n-New\n-New\n-New\n-New\n-New\n-New\n Finale\n+Finale\n+Finale\n+New\n+New\n+New\n+New\n Top 10 Series in the US today\n@@ -35,11 +35,11 @@\n Dance, Reality, Game Shows\n+Drama, Romance, Fantasy\n Action and Adventure, Fantasy\n Drama, Super Heroes, Science Fiction\n+Action and Adventure, Comedy, Animation, Family\n+Drama, Legal, Comedy, Soap Operas\n+Super Heroes, Action and Adventure, Science Fiction, Fantasy\n Drama, Coming of Age, Mystery, Comedy, Teen\n-Super Heroes, Action and Adventure, Science Fiction, Fantasy\n-Drama, Coming of Age, Comedy, Horror, Fantasy\n Action and Adventure, Heroes, Animation, Romance, Fantasy\n-Drama, Romance, Fantasy\n-Comedy, Fantasy\n-Animation\n+Drama\n Top 10 Movies in the US today\n@@ -49,8 +49,8 @@\n Super Heroes, Action and Adventure, Science Fiction, Fantasy\n+Comedy, Fantasy\n Action and Adventure, Comedy, Animation\n-Comedy, Fantasy\n Animation, Musicals, Fantasy\n Comedy\n+Comedy, Fantasy\n Action and Adventure, Musicals, Fantasy\n-Comedy, Fantasy\n Anthology, Comedy, Animation\n@@ -173,4 +173,4 @@\n Total monthly price\n-$45.99 / month\n-$54.99 / month\n+$45.99 / mo\n+$54.99 / mo\n Services included",
+   "added": 17,
+   "removed": 17
+  },
+  {
+   "service": "YouTube TV",
+   "page": "pricing",
+   "url": "https://tv.youtube.com/learn/explore-plans/",
+   "diff": "@@ -11,3 +11,3 @@\n 50+ channels\n-5-day free trial\n+2-day free trial\n $71.99/mo\n@@ -20,3 +20,3 @@\n 70+ channels\n-5-day free trial\n+2-day free trial\n $62.99/mo\n@@ -29,3 +29,3 @@\n 100+ channels\n-5-day free trial\n+2-day free trial\n $82.99/mo\n@@ -39,3 +39,3 @@\n 50+ channels\n-5-day free trial\n+2-day free trial\n $71.99/mo\n@@ -48,3 +48,3 @@\n 100+ channels\n-5-day free trial\n+2-day free trial\n $82.99/mo\n@@ -65,3 +65,3 @@\n 50+ channels\n-5-day free trial\n+2-day free trial\n $71.99/mo\n@@ -74,3 +74,3 @@\n 80+ channels\n-5-day free trial\n+2-day free trial\n $69.99/mo\n@@ -83,3 +83,3 @@\n 100+ channels\n-5-day free trial\n+2-day free trial\n $82.99/mo\n@@ -92,3 +92,3 @@\n 50+ channels\n-5-day free trial\n+2-day free trial\n $54.99/mo\n@@ -101,3 +101,3 @@\n 70+ channels\n-5-day free trial\n+2-day free trial\n $62.99/mo\n@@ -110,3 +110,3 @@\n 100+ channels\n-5-day free trial\n+2-day free trial\n $82.99/mo\n@@ -119,3 +119,3 @@\n 80+ channels\n-5-day free trial\n+2-day free trial\n $69.99/mo\n@@ -128,3 +128,3 @@\n 100+ channels\n-5-day free trial\n+2-day free trial\n $82.99/mo\n@@ -137,3 +137,3 @@\n 90+ channels\n-5-day free trial\n+2-day free trial\n $77.99/mo",
+   "added": 14,
+   "removed": 14
+  },
+  {
+   "service": "Dropbox",
+   "page": "pricing",
+   "url": "https://www.dropbox.com/plans",
+   "diff": "@@ -5,14 +5,12 @@\n Billed yearly\n+For personal use\n+For teams and professionals\n+New AI features\n+For teams and professionals\n+For teams and professionals\n+New AI features\n Plus\n Standard\n-Recommended\n-For personal use\n-For teams and professionals\n-For teams and professionals\n-For teams and professionals\n-$9.99\n-$7.99 / month\n-$19.20 / user / month\n-Get 3 free months. Offer ends December 1.\n-Get 3 free months. Offer ends December 1.\n+$9.99 / month\n+$15 / user / month\n Buy now\n@@ -21,62 +19,20 @@\n of storage\n-Access from anywhere\n-Work with your files in AI tools\n-Sync files across unlimited devices\n-30 days to restore deleted files\n-Flexible sharing\n-Transfer files up to 50 GB\n+Stay connected across all devices\n+30 days\n+to restore deleted files\n+Transfer files up to\n+50 GB\n+Integrate with leading AI tools\n Edit PDFs and get signatures\n View all features\n-Standard\n-Recommended\n-Standard\n-Recommended\n+For companies\n+For teams and professionals\n+New AI features\n For teams and professionals\n For teams and professionals\n-For teams and professionals\n-For teams and professionals\n-$15\n-$12 / user / month\n-$19.20 / user / month\n-Get 3 free months. Offer ends December 1.\n-Get 3 free months. Offer ends December 1.\n-Try for free\n-or buy now\n-For 1 person or more\n-Starts at\n-3 TB\n-for the team\n-AI in Dropbox\n-Organize and rename files in bulk\n-Transform existing content into new work\n-Approve AI actions and undo changes\n-Get answers grounded in your files\n-250 AI credits per person, per month\n-Access from anywhere\n-Work with your files in AI tools\n-Sync files across unlimited devices\n-180 days to restore deleted files\n-Flexible sharing\n-Password protect files\n-Transfer files up to 100 GB\n-Edit PDFs and get signatures\n-Brand your files to share\n-Teamwork and advanced security\n-Get team folders for organization\n-Manage team sharing\n-Create groups and roles\n-Admin control\n-View all features\n+New AI features\n Advanced\n Standard\n-Recommended\n-For companies\n-For teams and professionals\n-For teams and professionals\n-For teams and professionals\n-$24\n-$19.20 / user / month\n-$19.20 / user / month\n-Get 3 free months. Offer ends December 1.\n-Get 3 free months. Offer ends December 1.\n+$24 / user / month\n+$15 / user / month\n Try for free\n@@ -87,18 +43,11 @@\n for the team\n-AI in Dropbox\n-Organize and rename files in bulk\n-Transform existing content into new work\n-Approve AI actions and undo changes\n-Get answers grounded in your files\n-250 AI credits per person, per month\n-Access from anywhere\n-Work with your files in AI tools\n-Sync files across unlimited devices\n-1 year to restore deleted files\n-Flexible sharing\n-Password protect files\n-Transfer files up to 100 GB\n+Stay connected across all devices\n+1 year\n+to restore deleted files\n+Transfer files up to\n+100 GB\n+Integrate with leading AI tools\n Edit PDFs and get signatures\n Brand your files to share\n-Teamwork and advanced security\n+Password protect files\n Get team folders for organization\n@@ -112,3 +61,2 @@\n View all features\n-*The displayed monthly price for each plan is its annual purchase price divided by 15 months, which includes the 3 free months offered through this promotion. After the first 15 months, your subscription renews every 12 months at the annual renewal price shown at checkout until you cancel. Offer valid for new subscriptions only.\n Basic\n@@ -134,3 +82,2 @@\n Plus\n-Best Value\n Standard\n@@ -139,8 +86,5 @@\n Price\n-$9.99\n-$7.99 / month\n-$15\n-$12 / user / month\n-$24\n-$19.20 / user / month\n+$9.99 / month\n+$15 / user / month\n+$24 / user / month\n Billing structure",
+   "added": 30,
+   "removed": 86
+  },
+  {
+   "service": "Slack",
+   "page": "pricing",
+   "url": "https://slack.com/pricing",
+   "diff": "@@ -99,3 +99,5 @@\n Maximize performance on the most comprehensive work OS\n-Contact sales for pricing\n+$45\n+USD\n+per user / month, when paying annually\n Contact Sales",
+   "added": 3,
+   "removed": 1
+  },
+  {
+   "service": "Delta",
+   "page": "pricing",
+   "url": "https://www.delta.com/us/en/baggage/checked-baggage/overview",
+   "diff": "@@ -2,6 +2,6 @@\n Whoops! Looks Like This Page Had a Gate Change\n-We're sorry, it seems that this page has changed to something different than you were expecting\u00c2 due to a possible URL change or a promotion ending.\u00c2 Not to worry though, we'll do our best to get you where you need to be.\u00c2\n+We're sorry, it seems that this page has changed to something different than you were expecting due to a possible URL change or a promotion ending. Not to worry though, we'll do our best to get you where you need to be.\n To help you take off, you can choose from our most helpful pages below, use our\n search tool\n-to search for a specific topic or simply start again from our\u00e2\u0080\u00af\u00c2\n+to search for a specific topic or simply start again from our\u00e2\u0080\u00af\n home page",
+   "added": 2,
+   "removed": 2
+  },
+  {
+   "service": "Grammarly",
+   "page": "pricing",
+   "url": "https://www.grammarly.com/plans",
+   "diff": "@@ -1,2 +1,2 @@\n-Try Pro for $0 today\n+Great Writing Starts With a Plan\n Trusted by over 40 million people and 50,000 organizations",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Venmo",
+   "page": "terms",
+   "url": "https://venmo.com/legal/us-user-agreement/",
+   "diff": "@@ -1,13 +1,2 @@\n Venmo Legal Agreements\n-Privacy Statement\n-User Agreement\n-Venmo Long Form Disclosure\n-Licenses\n-Consent\n-Helpful Information\n-Approved Business Account Addendum\n-Mastercard Cardholder Agreement\n-Venmo Mastercard Privacy Policy\n-Cryptocurrency Terms & Conditions\n-Open Source Attribution\n User Agreement",
+   "added": 0,
+   "removed": 11
+  },
+  {
+   "service": "Cash App",
+   "page": "terms",
+   "url": "https://cash.app/legal/us/en-us/tos",
+   "diff": "@@ -1,3 +1,2 @@\n Cash App Terms of Service\n-<DATE>\n <DATE>\n@@ -53,3 +52,3 @@\n XXI.\n-Cash App Credit Score\n+Cash App Score\n XXII.\n@@ -61,2 +60,4 @@\n XXV.\n+Bills & Subscriptions\n+XXVI.\n Contact Us\n@@ -578,6 +579,3 @@\n 2. Issuance of the Cash App Card\n-The Company may arrange for an issuing bank to provide you with access to a Cash App Card. By ordering and/or using the Cash App Card, you agree to the issuing bank\u2019s terms and conditions, as applicable (each the \u201cCash App Card Terms\u201d), which may be updated from time to time. For avoidance of doubt, the applicable Cash App Card Terms are between you and the issuing bank of your card program, not the Company, and in the event of any inconsistency between these Cash App Terms and the applicable Cash App Card Terms, the applicable Cash App Card Terms shall govern your use of the Cash App Card and your relationship with the issuing bank.\n-Your Cash App Card may be virtual and/or physical. If you receive a physical Cash App Card, you will need to follow the directions provided by the Company to activate your card prior to use.\n-You may have the option to design your own card. If you choose to redesign your card, we may charge an additional fee. We reserve the right to reject designs or signatures and card applications for any reason. Prohibited designs or signatures include, but are not limited to, designs or signatures that depict inappropriate subject matter, the intellectual property rights of others, or an ink-intensive design.\n-Your personal identification number (\u201cPIN\u201d) will be the code you set as your Cash PIN, and you may reset the PIN in the Cash App. Your card may be canceled, repossessed, or revoked at any time without prior notice at our discretion (including for depicting a prohibited signature) subject to applicable law.\n+The Company may arrange for an issuing bank to provide you with access to a Cash App Card. By ordering and/or using the Cash App Card, you agree to the issuing bank\u2019s terms and conditions, as applicable (each the \u201cCash App Card Terms\u201d), which may be updated from time to time. For avoidance of doubt, the applicable Cash App Card Terms are between you and the issuing bank of your card program, not the Company, and in the event of any inconsistency between these Cash App Terms and the applicable Cash App Card Terms, the applicable Cash App Card Terms shall govern your use of the Cash App Card and your relationship with the issuing bank.Your Cash App Card may be virtual and/or physical. If you receive a physical Cash App Card, you will need to follow the directions provided by the Company to activate your card prior to use.You may have the option to design your own card. If you choose to redesign your card, we may charge an additional fee. We reserve the right to reject designs or signatures and card applications for any reason. Prohibited designs or signatures include, but are not limited to, designs or signatures that depict inappropriate subject matter, the intellectual property rights of others, or an ink-intensive design.Your personal identification number (\u201cPIN\u201d) will be the code you set as your Cash PIN, and you may reset the PIN in the Cash App. Your card may be canceled, repossessed, or revoked at any time without prior notice at our discretion (including for depicting a prohibited signature) subject to applicable law.\n 3. Using the Cash App Card\n@@ -585,20 +583,22 @@\n 4. Sponsored Accounts\n-By authorizing a Sponsored Account for a Teen, you expressly authorize the Teen to request, receive, activate, and use a Cash App Card, including adding the Teen\u2019s Cash App Card to a Cash App Tag, in connection with the Sponsored Account for the Teen without additional approval from you. Any such request, receipt, activation or use by the Teen will be deemed to have been made at your direction and with your consent.\n-By authorizing a Sponsored Account for a Child and ordering a Cash App Card, you authorize the Child to conduct transactions with the Cash App Card, including through the use of a Cash App Tag, subject in each case to limitations described in Section III (Sponsored Accounts). The Child may have limited or no independent ability to request or activate a Cash App Card, including adding the Child\u2019s Cash App Card to a Cash App Tag. Any such actions may require your direction or approval. The Child\u2019s use of the Sponsored Account is subject to the feature access requirements and limitations described in Section III.6.d (Feature Access).\n+By authorizing a Sponsored Account for a Teen, you expressly authorize the Teen to request, receive, activate, and use a Cash App Card, including adding the Teen\u2019s Cash App Card to a Cash App Tag, in connection with the Sponsored Account for the Teen without additional approval from you. Any such request, receipt, activation or use by the Teen will be deemed to have been made at your direction and with your consent.By authorizing a Sponsored Account for a Child and ordering a Cash App Card, you authorize the Child to conduct transactions with the Cash App Card, including through the use of a Cash App Tag, subject in each case to limitations described in Section III (Sponsored Accounts). The Child may have limited or no independent ability to request or activate a Cash App Card, including adding the Child\u2019s Cash App Card to a Cash App Tag. Any such actions may require your direction or approval. The Child\u2019s use of the Sponsored Account is subject to the feature access requirements and limitations described in Section III.6.d (Feature Access).\n 5. Payment Transaction Limits\n-You agree that you won\u2019t make a purchase or transaction in excess of the funds available in your balance and if you do, you agree that we can recover any negative balance.\n-Except for Afterpay on Cash App Card Transactions, you can only make transactions using your Cash App Card to the extent that you have funds in your Cash App Balance to support those transactions. You agree not to make a purchase or other transaction in excess of the funds available in your Cash App Balance. If you do make a purchase or other transaction that exceeds the funds available in your Cash App Balance, you agree that we can recover any negative balance incurred.\n-There are limits associated with your Cash App Card, which are available\n+Except for Afterpay on Cash App Card Transactions, you can only make transactions using your Cash App Card to the extent that you have funds in your Cash App Balance to support those transactions. You agree not to make a purchase or other transaction in excess of the funds available in your Cash App Balance. If you do make a purchase or other transaction that exceeds the funds available in your Cash App Balance, you agree that we can recover any negative balance incurred.There are limits associated with your Cash App Card, which are available\n here\n . To the extent permitted by applicable law, Cash App may impose limits on the number or dollar amount of your spending or withdrawals that can be made on the Cash App Card; limit, block, or place a hold on certain types of transactions; and limit, suspend, or block transactions with particular merchants or other entities. ATM, POS, and other electronic terminal operators may impose their own lower limits. In order to protect your Cash App Card, Cash App may temporarily impose limits on the dollar amount, number, and type of transactions performed on your card. If you have more than one Cash App Card, the transaction limits linked above will be calculated across all of your Cash App Cards, regardless of the card issuer, with the exception of Cash App Cards you authorize for a Sponsored Person.\n-6. No Right to Stop Payment\n-You do not have the right to stop payment on a transaction originated with your Cash App Card.\n+6. Right to Stop Payment\n+Some merchants may allow you to store a payment method and authorize the merchant to charge that stored payment method for preauthorized transfers (i.e., automatic payments, subscriptions, or recurring payments).\n+You have the right to stop payment on preauthorized transfers originated with your Cash App Card. To stop payment on a preauthorized transfer, we must receive your request at least three (3) Business Days before the scheduled date of the transfer.\n+To request a stop payment by blocking a merchant, you have a few options. You can:\n+Open Cash App, go to the Activity tab, and block the merchant,\n+Write us using the Cash App Support feature available in Cash App, or\n+Call us at (800) 969-1940 for assistance.\n+If you call, we may also require you to put your request in writing and if you fail to do so within 14 days, the stop payment may be removed. Please note, we will attempt to stop or cancel any preauthorized transfer ahead of the scheduled date of transfer, but we are not responsible for any failure to honor such a request if it is received within three (3) Business Days of the scheduled date of transfer.\n+Please also note, blocking a merchant will result in blocking all future Cash App Card transactions from that merchant. Blocking a merchant does not automatically cancel underlying subscriptions or agreements with the merchant. If you have questions about your subscriptions with any blocked merchant, contact the merchant directly.\n+If you request us to stop a preauthorized transfer through merchant blocking three (3) Business Days or more before the scheduled date of transfer, and we do not do so, we will be liable for your unrecoverable losses.\n 7. \u201cLock Card\u201d Feature\n-To prevent future transactions from your Cash App Card, you may disable your Cash App Card using Cash App\u2019s \u201cLock Card\u201d feature within the Cash App. Use of this feature will not prevent processing of pending transactions initiated prior to disabling your Cash App Card. In the event you want to enable a locked Cash App Card, you must select the \u201cUnlock Card\u201d option within the Cash App before your \u201clocked\u201d Cash App Card can be used for transactions. You are responsible for preventing unauthorized disabling and enabling activity on your device relating to your Cash App Card. Such activity, when not authorized, may be deemed invalid in the Company's sole discretion.\n-The \u201cLock Card\u201d feature operates independently of the \u201cLock Tag\u201d feature applicable to your Cash App Tag (as defined in Section VIII.b (\u201cCash App Tag\u201d) below. Locking your Cash App Card does not lock your Cash App Tag. If you wish to prevent transactions using a Cash App Card, you must use the separate \u201cLock Card\u201d feature.\n+To prevent future transactions from your Cash App Card, you may disable your Cash App Card using Cash App\u2019s \u201cLock Card\u201d feature within the Cash App. Use of this feature will not prevent processing of pending transactions initiated prior to disabling your Cash App Card. In the event you want to enable a locked Cash App Card, you must select the \u201cUnlock Card\u201d option within the Cash App before your \u201clocked\u201d Cash App Card can be used for transactions. You are responsible for preventing unauthorized disabling and enabling activity on your device relating to your Cash App Card. Such activity, when not authorized, may be deemed invalid in the Company's sole discretion.The \u201cLock Card\u201d feature operates independently of the \u201cLock Tag\u201d feature applicable to your Cash App Tag (as defined in Section VIII.b (\u201cCash App Tag\u201d) below. Locking your Cash App Card does not lock your Cash App Tag. If you wish to prevent transactions using a Cash App Card, you must use the separate \u201cLock Card\u201d feature.\n 8. Card Cancelation\n-If we determine that you are no longer eligible for a Cash App Card, we will let the issuing bank know and your Cash App Card may be canceled without notice.\n We may suspend access to or cancel your Cash App Card at our sole discretion. We will inform your issuing bank if we determine that you are no longer eligible for your Cash App Card. If you are no longer eligible for your Cash App Card it may be canceled at any time without notice as detailed in the applicable Cash App Card Terms and your funds will be returned to you unless they are the subject of an investigation into suspected unlawful activity, or if the Company is otherwise required by law to withhold your funds.\n 9. Disclaimer\n-We make no guarantees regarding your Cash App Card and we are not responsible if it gets stolen, lost, destroyed, or used without your permission, except as otherwise described in these Cash App Terms.\n Except as otherwise set forth herein or required by applicable law, the Company is not responsible if your Cash App Card is lost, stolen, destroyed, or used without your permission.\n@@ -638,2 +638,4 @@\n Your receipt of an electronic or other form of order confirmation does not signify the Company\u2019s acceptance of your order. We reserve the right at any time after receipt of your order to accept or decline your order for any reason. Your order will be deemed accepted by the Company upon delivery of the Cash App Tag. We may require additional verifications or information before accepting any order. Title and risk of loss of each shipment of products will pass to you upon delivery to the address provided to the Company.\n+12. Afterpay on Cash App Card Transactions\n+For eligible customers with a Debit Flex Card, we may arrange for a lending partner to provide you with access to loans that will allow you to pay for certain Cash App Card transactions in installments (each, an \u201cAfterpay Loan\u201d). Each Debit Flex Card transaction made with the Afterpay toggle on is an \u201cAfterpay on Cash App Card Transaction.\u201d By applying for or taking out an Afterpay Loan, you agree to the lending partner\u2019s terms (\u201cAfterpay Loan Agreements\u201d), which may be updated from time to time. For avoidance of doubt, the applicable Afterpay Loan Agreements are between you and the lending partner, not the Company, and in the event of any inconsistency between these Cash App Terms or Cash App Card Terms and the applicable Afterpay Loan Agreements, the applicable Afterpay Loan Agreements shall govern the Afterpay Loan. To qualify for Afterpay Loans, you must (a) be a resident of the United States (b) be at least 18 years and the age of majority in your State of residence, and (c) meet any other eligibility criteria set forth in the Afterpay Loan Agreement. Qualification for Afterpay Loans will be determined solely by criteria set by the lending partner. Among other actions, failure to repay prior Afterpay Loans or other adverse activity on your Cash App account may impact your eligibility for an Afterpay Loan.We or the lending partner may limit the types of Cash App Card transactions that qualify for an Afterpay Loan. At any time, the Company may in its sole discretion change the existing requirements or add additional requirements that you must meet in order to be eligible for or continue to use Afterpay on Cash App Card Transactions.We may suspend, restrict or terminate your use of Afterpay on Cash App Card Transactions at any time for any reason in our discretion, including failure to repay an Afterpay Loan.\n 12. Afterpay on Cash App Card Transactions\n@@ -1296,2 +1298,28 @@\n Your use of Cash App Beta, or the removal of your access to Cash App Beta, has no impact on your Cash App account(s) or the funds you hold within Cash App. Your financial data remains secure and continues to follow our standard privacy and identity management protocols.\n+XXV. Bills and Subscriptions\n+1. The Bills and Subscriptions Service\n+We offer an optional service that allows you to view and manage recurring third-party merchant bills and subscriptions connected to your Cash App Card (\u201cBills and Subscriptions Service\u201d). Linking your Cash App Card to an external merchant account may be done directly through us, or by a third-party service provider engaged by us (\u201cBills and Subscriptions Vendor\u201d).\n+We do not represent or warrant any third-party merchant subscriptions or other services provided by them.\n+The Bills and Subscriptions Service is provided to you as a convenience to connect and manage your Cash App Card as a payment method for merchant bills and subscriptions. It is not a substitute or replacement for any communications or other documentation provided to you as part of your bills and subscriptions services with third-party merchants (collectively, \u201cLinked Subscriptions\u201d). You acknowledge and agree that your use of each Linked Subscription is subject to that merchant\u2019s own terms of service, privacy notices, and any other policies. We are not party to, nor are we responsible for, the terms, practices or content of any third-party merchant providing Linked Subscriptions.\n+2. Authority to Link Bills and Subscriptions\n+To enable us to provide the Bills and Subscriptions Service, you authorize us and any Bills and Subscriptions Vendor to provide authorizations on your behalf with Linked Subscriptions including, but not limited to: (1) adding, updating, or blocking your Cash App Card for payment of Linked Subscriptions; and (2) viewing transactions, managing, making changes, and canceling Linked Subscriptions.\n+You represent and warrant that you are the account owner of each Linked Subscription, who is legally authorized to manage the Linked Subscription including making changes to the subscription services and associated payment methods. In order for us to retrieve your Linked Subscriptions information, you may be required to create an account with the Bills and Subscriptions Vendor and supply the Bills and Subscriptions Vendor with your credentials including, but not limited to, usernames, passwords, PIN numbers, and other related information necessary to log into the online portals for your Linked Subscriptions (\u201cSubscription Credentials\u201d). You understand and agree that collection and use of your Subscription Credentials are governed by the Bills and Subscriptions Vendor\u2019s terms of use and privacy policy.\n+You grant us and the Bills and Subscriptions Vendor a limited power of attorney and appoint us and the Bills and Subscriptions Vendor as your lawful attorneys-in-fact and agents, each with the authority to act independently or jointly, to access your Linked Subscriptions in order to retrieve and display information in the Bills and Subscriptions Service, and facilitate actions on your behalf.\n+YOU UNDERSTAND, ACKNOWLEDGE, AND AGREE THAT WHEN WE OR THE BILLS AND SUBSCRIPTIONS VENDOR ARE PROVIDING SUCH AUTHORIZATIONS, AND REQUESTING INFORMATION FROM LINKED SUBSCRIPTIONS, WE OR THE BILLS AND SUBSCRIPTIONS VENDOR ARE ACTING AS YOUR AGENT AND NOT THE AGENT OF OR ON BEHALF OF THE MERCHANT HOLDING THE LINKED SUBSCRIPTION. You agree that each third-party merchant providing the Linked Subscription shall be entitled to rely on the foregoing authorizations, agency appointment, and limited power-of-attorney granted by you to us and the Bills and Subscriptions Vendor for all purposes hereunder.\n+3. Eligible Bills and Subscriptions\n+You understand and acknowledge that the Bills and Subscriptions Service may not support all external subscriptions with third-party merchants. We and/or the Bills and Subscriptions Vendor may, in our sole discretion, add or remove external subscriptions from the Bills and Subscriptions Service at any time and for any reason, and we have no obligation to provide notice to you of any such change. You understand and acknowledge that connections to Linked Subscriptions may be lost and that it is solely your responsibility to update such connections and take any actions necessary to manage your subscriptions in the event of lost connections.\n+4. Use of Linked Subscriptions Data\n+You acknowledge and agree that we may use the data from your Linked Subscriptions and the Bills and Subscriptions Service for all purposes necessary and appropriate in connection with providing the services under this Section XXV to you and for any other purposes disclosed in the\n+Cash App Privacy Notice\n+5. Cash App Card as Payment Method for Linked Subscriptions\n+Through the Bills and Subscriptions Service, you may be able to designate your Cash App Card as the preauthorized payment method for your Linked Subscriptions. You acknowledge and agree that the specific terms of that Linked Subscription service\u2013including pricing and pricing changes, cancellation policies, billing cycles and refund rights\u2013are strictly between you and the third-party merchant. To help you manage your upcoming bills and subscriptions payable with your Cash App Card, we may provide you with estimated amounts of bills and subscriptions, due dates and statuses. Please note that estimated amounts, including balances left to pay, may not take into account other Cash App transactions initiated outside of the Bills and Subscriptions Service (e.g., Auto Reload, Afterpay, etc.).\n+To cancel authorizations or to request stop payment for Linked Subscriptions, you can block a merchant as described in Section VIII.a.6.\n+6. Participation in Bills and Subscriptions Service\n+We may suspend, restrict or cancel your participation in the Bills and Subscriptions Service at our sole discretion, including if your linked Cash App Card is suspended, canceled or no longer in good standing.\n+You can cancel your participation in the Bills and Subscriptions Service by unlinking your Cash App Card from all of your Linked Subscriptions at the merchant website or mobile app.\n+7. No Charge for this Service\n+We do not charge a fee for your use of the Bills and Subscriptions Service.\n+8. Disclaimers\n+The Bills and Subscriptions Service is provided \u201cas is\u201d and \u201cas available\u201d for your convenience, and is not intended to replace official records or documentation related to your Linked Subscriptions. You should always verify the accuracy of Linked Subscription information with the merchant offering the Linked Subscription. Information will be effective as of the most recent transmission from your Linked Subscription and may not be accurate if that transmission was not successfully completed or the information from the Linked Subscription is not otherwise accurate or current. We will not be liable for any errors or delays in the Linked Subscription content. The Bills and Subscriptions Service is not intended to provide legal, tax, investment or insurance advice.\n+We expressly disclaim all warranties of any kind as to the Bills and Subscriptions Service, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, functionality, title, and non-infringement, and any warranties implied by a course of dealing, course of performance, or usage of trade, and we specifically disclaim any and all other implied warranties. The foregoing warranty disclaimers will apply to you notwithstanding anything to the contrary in these Cash App Terms but subject to applicable law in those jurisdictions that do not allow for exclusion of certain warranties.\n XXV. Contact Us",
+   "added": 45,
+   "removed": 17
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -30,2 +30,3 @@\n Switch plans or cancel anytime.\n+Compare plans\n Monthly\n@@ -45,3 +46,3 @@\n 12 audiobooks\n-$149.50/year\n+$149.50 a year\n Sign up for Premium Annual\n@@ -49,3 +50,26 @@\n 24 audiobooks\n-$229.50/year\n+$229.50 a year\n+Compare plans\n+CASUAL LISTENER\n+Standard\n+$8.99/mo after 30 days\n+AVID LISTENER\n+Premium\n+$14.95/mo after 30 days\n+Pick 1 audiobook a month from our 1M+ catalog\n+Premium members get 1 credit a month to buy and keep any audiobook of their choice.\n+Standard members can pick 1 audiobook each month and listen to it while subscribed.\n+Keep monthly audiobook picks\n+Premium members can keep their monthly audiobook picks, even if they cancel.\n+Standard members don't keep their monthly audiobook picks, but can listen to them anytime while subscribed.\n+Unused monthly picks roll over\n+Premium members get credits that roll over up to 12 months from issue if unused.\n+Standard member benefits reset each month--so if you miss a month, it doesn't roll over.\n+Unlimited access to included titles\n+Premium members get unlimited access to a collection of 150k+ audiobooks and Originals.\n+You can add these to your Library and listen anytime while subscribed--no credits needed.\n+Unlimited listening to podcasts\n+Standard and Premium members can enjoy unlimited access to podcasts.\n+Exclusive sales & discounts\n+Premium members get access to member-only discounts on extra audiobook purchases and sales.\n LIMITED TIME OFFER | $99 for a year of Premium",
+   "added": 26,
+   "removed": 2
+  },
+  {
+   "service": "Tubi",
+   "page": "privacy",
+   "url": "https://tubitv.com/static/privacy",
+   "diff": "@@ -578,3 +578,3 @@\n All rights reserved.\n-Device ID: 546b0d87-12f7-4e7f-9df1-7005ccd2c4c1\n+Device ID: f196a01a-c03c-4ed3-990e-062e4814a0c6\n Made with",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Booking.com",
+   "page": "terms",
+   "url": "https://www.booking.com/content/terms.html",
+   "diff": "@@ -1529,2 +1529,2 @@\n Close calendar\n-2657560\n+2699580,2657560",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Hunter",
+   "page": "terms",
+   "url": "https://www.hunterfan.com/blogs/hunter-blog/important-update-to-huntersmart%E2%84%A2-google-home-and-amazon-alexa-connectivity-via-app-to-app-linking",
+   "diff": "@@ -36,2 +36,4 @@\n More Newsroom Stories\n+Hunter Fan Company Selected as a Good Housekeeping 2027 Home Reno Awards Winner\n+<DATE>\n A Little Holiday Magic, Made Easier with HunterSMART\u2122\n@@ -39,4 +41,2 @@\n An Original in Every Detail: Inside Hunter's 140th Anniversary Collector's Edition\n-<DATE>\n-Celebrating 140 Years: The Hunter Original\u00ae Collector\u2019s Edition Ceiling Fan\n <DATE>",
+   "added": 2,
+   "removed": 2
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+Worth knowing on an OLED this cheap: MSI says its QD-OLED monitors carry a 3-year panel warranty that includes burn-in, the usual OLED worry (terms vary by region).
+
+Let it run its pixel refresh. It kicks in on standby or power-off, so leave it plugged in when it's off.

@@ -3,7 +3,7 @@
  "desc": "YouTube TV costs $82.99 a month in the US (Nov 2026). Sports Plan $64.99, Sports + News $71.99, Entertainment $54.99, Spanish Plan $24.99. The Dec 2 new-user offers, the $48 rest-of-season Sunday Ticket sale, add-on prices, pause and cancel rules and every increase since $35 in 2017.",
  "dek": "Short answer: when we checked YouTube TV's plans page on November 20, 2026, the main YouTube TV plan (formerly the Base Plan) was $82.99 a month plus tax. Since February 2026 there are cheaper genre plans: Sports $64.99, Sports + News $71.99, News + Entertainment + Family $69.99, Entertainment $54.99 and more. New users can get the main plan for $59.99 a month for 2 months, or Sports + News for $49.99 for 6 months, until December 2, 2026. The main plan's price has risen from $35 at launch in 2017; the last increase was in January 2025.",
  "published": "2026-11-20",
- "modified": "2026-11-20",
+ "modified": "2026-11-26",
  "services": [
   "YouTube",
   "YouTube TV"
@@ -105,7 +105,7 @@
     "**Main plan:** \"New YouTube TV users pay $59.99/mo for 2 months of the main YouTube TV plan (save $46), then $82.99/mo thereafter.\" Our math: 2 x $23 off = $46, so your first year would cost $949.88 instead of $995.88.",
     "**Sports + News:** \"New YouTube TV users pay $49.99/mo for 6 months of Sports + News Plan (save $132), then $71.99/mo thereafter.\" Our math: $22 off for 6 months = $132; first-year total $731.88.",
     "**Cheaper genre plans:** Entertainment ($44.99), News + Entertainment ($52.99) and News + Entertainment + Family ($59.99) are each \"Save $30 total on your first 3 months\"; Sports + Entertainment + Family is $62.99 for 3 months (\"Save $45 total on your first 3 months\").",
-    "**Free trial:** most plans show a \"10-day free trial\"; the Sports Plan shows a \"2-day free trial\"."
+    "**Free trial:** as of November 26, 2026 every plan shows a \"2-day free trial\". On November 20 most plans showed a \"10-day free trial\" and on November 22 to 25 a \"5-day free trial\" (the Sports Plan was already 2 days). [Details](../../changes/2026-11-26-youtube-tv-youtube-tv-s-free-trial-is-now-2-days-on-every-plan-down-from-5-and/)."
    ]
   },
   {
