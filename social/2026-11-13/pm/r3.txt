@@ -1,1 +1,0 @@
-"Deeply sorry" is free. The credit isn't automatic: Microsoft 365 business plans promise 99.9% monthly uptime, and Exchange Online owes a 25% service credit below that (50% under 99%), but only if your admin files a claim with the incident ID.

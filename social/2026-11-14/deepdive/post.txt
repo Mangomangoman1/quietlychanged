@@ -1,7 +1,0 @@
-Hinge has a new setting: Chat Insights.
-
-Its help page: "We use OpenAI to look for patterns" in your chats. Hinge may also train its own models on your messages, sometimes raw.
-
-Its first OpenAI feature said it didn't process private messages.
-
-Turn off: Settings › Chat Insights

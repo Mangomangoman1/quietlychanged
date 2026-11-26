@@ -1,9 +1,0 @@
-cPanel just halved its license prices, for two weeks.
-
-"Black Friday: 50% off new licenses. Till December 7."
-
-Solo: $13.73/mo billed annually (was $27.46).
-
-Then on Dec 16 prices go up for new orders and all renewals.
-
-https://quietlychanged.com/changes/2026-11-23-cpanel-cpanel-takes-50-off-new-licenses-until-dec-7-nine-days-before-its-dec-16/

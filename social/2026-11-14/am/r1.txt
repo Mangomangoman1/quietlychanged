@@ -1,3 +1,0 @@
-Before you set it up: new VIZIO TVs need a Walmart account for apps and smart features. HDMI and antenna work without one, per VIZIO.
-
-To stop it logging what's on screen (ACR): All Settings > Privacy & Legal > Viewing Data > Off. Older models: Admin & Privacy.

@@ -1,7 +1,0 @@
-Stripe's rewritten privacy policy is now live (dated Nov 20).
-
-New: you can authorize an AI agent to buy "on your behalf," and Stripe may share your card credential or a token with the agent and the merchant.
-
-Still in: AI voice agents that may call you.
-
-https://quietlychanged.com/changes/2026-11-21-stripe-stripe-s-rewritten-privacy-policy-is-now-in-force-ai-voice-agents-data-t/
