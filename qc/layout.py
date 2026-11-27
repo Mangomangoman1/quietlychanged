@@ -10,6 +10,7 @@ ORG = {"@context": "https://schema.org", "@type": "Organization", "name": "Quiet
 NAV = [("index.html", "Today"), ("due-soon/", "Due soon"), ("threads/", "Threads"), ("services.html", "Services"), ("archive.html", "Archive"), ("about.html", "About")]
 PAGES = []   # (url, lastmod) for the sitemap; noindex pages are left out
 NOINDEX = []  # urls built with <meta name="robots" content="noindex, follow">
+FOOT_GUIDES = []  # (guide slug, short label), newest first; filled by build.py so every page links every guide (crawl discovery)
 
 ICON_SEARCH = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="7" cy="7" r="4.6"/><path d="m10.4 10.4 3.6 3.6" stroke-linecap="round"/></svg>'
 ICON_THEME = '<svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1.8a6.2 6.2 0 0 1 0 12.4z" fill="currentColor"/></svg>'
@@ -21,6 +22,10 @@ def _current(fn, h):
     if h == "archive.html" and fn.startswith("reports/"): return True
     if h.endswith("/") and fn.startswith(h): return True
     return False
+
+def _foot_guides(p):
+    if not FOOT_GUIDES: return ""
+    return '<nav class="wide foot-guides" aria-label="Guides"><h2>Guides</h2><ul>' + "".join(f'<li><a href="{p}guides/{s}/">{E(l)}</a></li>' for s, l in FOOT_GUIDES) + f'<li><a href="{p}guides/">All guides →</a></li></ul></nav>'
 
 def page(fn, title, body=None, today=None, desc=TAG, depth=0, ld=None, otype="website", lastmod=None, crumbs=None, image=None, front=False, noindex=False):
     p = "../" * depth; home = p or "./"; url = f"{SITE}/{fn}".replace("/index.html", "/")
@@ -57,4 +62,4 @@ def page(fn, title, body=None, today=None, desc=TAG, depth=0, ld=None, otype="we
 <div><h2>Read</h2><ul><li><a href="{home}">Today</a></li><li><a href="{p}due-soon/">Due soon</a></li><li><a href="{p}threads/">Threads</a></li><li><a href="{p}guides/">Guides</a></li><li><a href="{p}archive.html">Archive</a></li></ul></div>
 <div><h2>Trackers</h2><ul><li><a href="{p}price-changes/">Price changes</a></li><li><a href="{p}subscription-price-history/">Price history</a></li><li><a href="{p}terms-of-service-changes/">Terms changes</a></li><li><a href="{p}privacy-policy-changes/">Privacy changes</a></li></ul></div>
 <div><h2>About</h2><ul><li><a href="{p}about.html">About &amp; how it works</a></li><li><a href="{p}contact.html">Contact &amp; corrections</a></li><li><a href="{p}services.html">Tracked services</a></li><li><a href="{p}feed.xml">Feed</a></li><li><a href="{p}due-soon/calendar.ics">Deadline calendar</a></li></ul></div>
-</div><div class="wide fine"><span>© {today[:4]} QuietlyChanged</span><span>Last checked {nice(today)}</span></div></footer></body></html>'''
+</div>{_foot_guides(p)}<div class="wide fine"><span>© {today[:4]} QuietlyChanged</span><span>Last checked {nice(today)}</span></div></footer></body></html>'''

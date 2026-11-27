@@ -1,9 +1,9 @@
 {
  "title": "Subscription Black Friday deals 2026: what's actually on sale, the price after, and when each deal ends",
- "desc": "Every subscription Black Friday deal we could verify on official pages on Nov 23, 2026: HBO Max $5.49 for 12 months, Disney+, Hulu Bundle $4.99 for 12 months, Peacock from $2.99, Paramount+ $2.99, Apple TV $6.99, YouTube TV, PS Plus, Microsoft 365, Spotify, Audible, cPanel. Real prices after, end dates, and who qualifies.",
- "dek": "Short answer: as of November 23, 2026 the biggest subscription Black Friday deals on official pages are HBO Max Basic With Ads at $5.49 a month for 12 months (then $10.99), Peacock Select at $29.99 for a year or $2.99 a month for 3 months, Paramount+ at $2.99 a month for 2 months, Apple TV at $6.99 a month for 6 months (then $14.99) and PlayStation Plus 12-month plans at 20% to 33% off. Most end November 30. Almost all are for new or lapsed subscribers only, and every one renews at full price unless you cancel. Disney+ added the Disney+, Hulu Bundle at $4.99 a month for 12 months on November 24, and Dropbox added 3 free months on yearly plans until December 1 on November 25. Amazon Prime and Netflix showed no Black Friday discount on their own sites when we checked.",
+ "desc": "Every subscription Black Friday deal we could verify on official pages on Nov 23, 2026: HBO Max $5.49 for 12 months, Disney+, Hulu Bundle $4.99 for 12 months, Peacock from $2.99, Paramount+ $2.99, Apple TV $6.99, STARZ $12 a year, YouTube TV, PS Plus, Microsoft 365, Spotify, Audible, cPanel. Real prices after, end dates, and who qualifies.",
+ "dek": "Short answer: as of November 23, 2026 the biggest subscription Black Friday deals on official pages are HBO Max Basic With Ads at $5.49 a month for 12 months (then $10.99), Peacock Select at $29.99 for a year or $2.99 a month for 3 months, Paramount+ at $2.99 a month for 2 months, Apple TV at $6.99 a month for 6 months (then $14.99) and PlayStation Plus 12-month plans at 20% to 33% off. Most end November 30. Almost all are for new or lapsed subscribers only, and every one renews at full price unless you cancel. Disney+ added the Disney+, Hulu Bundle at $4.99 a month for 12 months on November 24, and Dropbox added 3 free months on yearly plans until December 1 on November 25. STARZ was offering a year for $11.99 (then $69.99 a year) when we checked on November 27. Amazon Prime and Netflix showed no Black Friday discount on their own sites when we checked.",
  "published": "2026-11-23",
- "modified": "2026-11-26",
+ "modified": "2026-11-27",
  "services": [
   "HBO Max",
   "Peacock",
@@ -97,6 +97,13 @@
       "New and qualified returning"
      ],
      [
+      "**STARZ** (yearly)",
+      "$11.99 for 12 months (\"$12 for 1 year\")",
+      "$69.99 per 12 months",
+      "No date given",
+      "New subscribers who sign up on starz.com"
+     ],
+     [
       "**PlayStation Plus** 12 months",
       "Essential $63.99, Extra $101.24, Premium $107.19",
       "$79.99 / $134.99 / $159.99 a year",
@@ -156,7 +163,7 @@
    }
   },
   {
-   "p": "Our math for what each deal is worth over its whole promo period, compared with paying the regular price for the same months: HBO Max saves $66.00 ($65.88 instead of $131.88 for a year), the Disney+, Hulu Bundle saves $96.00 ($59.88 instead of $155.88 for a year; Premium saves $84.00), Peacock Select's annual offer saves $60.00 and Premium's $40.00, Apple TV saves $48.00 ($41.94 instead of $89.94 for six months), Paramount+ Premium saves $22.00 and Essential $12.00, YouTube TV Sports + News saves $132 and the main plan $46 (YouTube's own figures), PlayStation Plus Premium saves $52.80 on a year, and Spotify's three free months are worth $38.97."
+   "p": "Our math for what each deal is worth over its whole promo period, compared with paying the regular price for the same months: HBO Max saves $66.00 ($65.88 instead of $131.88 for a year), the Disney+, Hulu Bundle saves $96.00 ($59.88 instead of $155.88 for a year; Premium saves $84.00), Peacock Select's annual offer saves $60.00 and Premium's $40.00, Apple TV saves $48.00 ($41.94 instead of $89.94 for six months), STARZ's yearly offer saves $58.00 ($11.99 instead of $69.99), Paramount+ Premium saves $22.00 and Essential $12.00, YouTube TV Sports + News saves $132 and the main plan $46 (YouTube's own figures), PlayStation Plus Premium saves $52.80 on a year, and Spotify's three free months are worth $38.97."
   },
   {
    "h": "When does the price go back up?"
@@ -208,6 +215,12 @@
   },
   {
    "p": "Apple's page says: \"Get 6 months of Apple TV for just $6.99 per month and save over 50%. Offer ends November 30.\" The fine print is precise: \"Offer expires on November 30, 2026, at 8:00 p.m. PT.\" It is for \"eligible new and qualified returning subscribers\", and only if you're billed by Apple: it is \"not available if (i) you are eligible for a three months free Apple TV offer or (ii) your subscription to Apple TV is billed through a third party or your mobile wireless provider.\" Then it \"automatically renews at $14.99/mo.\" We logged the deal the day it appeared: [Apple TV's Black Friday deal](../../changes/2026-11-20-apple-tv-apple-tv-s-black-friday-deal-6-months-at-6-99-a-month-ending-november/). More: [our Apple TV price guide](../apple-tv-plans-and-prices-2026-every-price-increase/)."
+  },
+  {
+   "h": "STARZ: $12 for a year (added Nov 27)"
+  },
+  {
+   "p": "When we checked on November 27, STARZ's home page was headlined \"BEST DEAL OF THE YEAR\" with \"Only $12 for 1 year\"; the offer itself is $11.99 for 12 months. The fine print: \"Limited time offer. Offer available to new STARZ App subscribers who subscribe via starz.com. Offer does not include free trial. After completion of 12 month offer, service automatically renews for additional 12 month terms at the then current price (currently $69.99 per 12 month term plus applicable taxes) unless cancelled. Subscription fee is non-refundable.\" STARZ doesn't give an end date. Our math: $58.00 less than the $69.99 yearly price for the first year. The catch is the renewal: it rolls into another full year at $69.99, not a monthly plan, so if you only want the cheap year, turn off auto-renew before the 12 months are up. Because the fee is non-refundable, cancelling partway through won't get money back."
   },
   {
    "h": "YouTube TV: new-user offers until December 2"
@@ -370,6 +383,10 @@
   [
    "Logos: Subscription FAQ and Black Friday banner (checked Nov 23, 2026)",
    "https://www.logos.com/subscription-faq"
+  ],
+  [
+   "STARZ: home page offer and offer terms (checked Nov 27, 2026)",
+   "https://www.starz.com/us/en/"
   ]
  ]
 }

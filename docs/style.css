@@ -456,6 +456,8 @@ dialog.search::backdrop{background:rgba(15,17,20,.45);backdrop-filter:blur(2px)}
 .site-foot a:hover{color:var(--ink)}
 .site-foot p{font:400 .85rem/1.55 var(--ui);color:var(--ink-3);max-width:24rem}
 .site-foot .fine{border-top:1px solid var(--rule);padding-block:1rem 1.4rem;font:500 .7rem/1.5 var(--mono);color:var(--ink-3);display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+.site-foot .foot-guides{border-top:1px solid var(--rule);padding-block:1.2rem}
+.site-foot .foot-guides ul{display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;font:400 .8rem/1.35 var(--ui)}
 @media (max-width:760px){.site-foot .cols{grid-template-columns:repeat(2,minmax(0,1fr))}.site-foot .cols>div:first-child{grid-column:1/-1}}
 
 /* page head (non-article) */

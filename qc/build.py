@@ -91,6 +91,12 @@ def main():
         for a_ in g.get("changes", []): assert a_ in ART, f"{f.name}: unknown change {a_}"
         for n_ in g.get("services", []): assert n_ in s, f"{f.name}: unknown service {n_}"
         GUIDES[f.stem] = g
+    def _short(g):
+        t_ = g.get("short") or re.split(r":| \(|\?", g["title"])[0].strip()
+        if t_.endswith(" price"): t_ += "s"
+        return t_ if len(t_) <= 48 else t_[:46].rsplit(" ", 1)[0] + "…"
+    import qc.layout as _layout
+    _layout.FOOT_GUIDES[:] = [(gs_, _short(g)) for gs_, g in sorted(GUIDES.items(), key=lambda kv: (kv[1].get("modified", kv[1]["published"]), kv[1]["published"]), reverse=True)]
     def guide_box(k, root="../../"):
         gs = [(gs_, g) for gs_, g in GUIDES.items() if k in g.get("services", [])]
         if not gs: return ""
