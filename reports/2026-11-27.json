@@ -1,0 +1,1009 @@
+{
+ "date": "2026-11-27",
+ "ok": [
+  [
+   "Netflix",
+   "pricing",
+   "https://help.netflix.com/en/node/24926"
+  ],
+  [
+   "Netflix",
+   "terms",
+   "https://help.netflix.com/legal/termsofuse"
+  ],
+  [
+   "Netflix",
+   "privacy",
+   "https://help.netflix.com/legal/privacy"
+  ],
+  [
+   "Spotify",
+   "pricing",
+   "https://www.spotify.com/us/premium/"
+  ],
+  [
+   "Spotify",
+   "terms",
+   "https://www.spotify.com/us/legal/end-user-agreement/"
+  ],
+  [
+   "Spotify",
+   "privacy",
+   "https://www.spotify.com/us/legal/privacy-policy/"
+  ],
+  [
+   "Anthropic Claude",
+   "pricing",
+   "https://www.anthropic.com/pricing"
+  ],
+  [
+   "Anthropic Claude",
+   "terms",
+   "https://www.anthropic.com/legal/consumer-terms"
+  ],
+  [
+   "Anthropic Claude",
+   "privacy",
+   "https://www.anthropic.com/legal/privacy"
+  ],
+  [
+   "Disney+",
+   "pricing",
+   "https://www.disneyplus.com/"
+  ],
+  [
+   "Disney+",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "Hulu",
+   "terms",
+   "https://www.hulu.com/terms"
+  ],
+  [
+   "Hulu",
+   "privacy",
+   "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
+  ],
+  [
+   "YouTube",
+   "terms",
+   "https://www.youtube.com/t/terms"
+  ],
+  [
+   "YouTube TV",
+   "pricing",
+   "https://tv.youtube.com/learn/explore-plans/"
+  ],
+  [
+   "Google",
+   "terms",
+   "https://policies.google.com/terms?hl=en"
+  ],
+  [
+   "Google",
+   "privacy",
+   "https://policies.google.com/privacy?hl=en"
+  ],
+  [
+   "Google One",
+   "pricing",
+   "https://one.google.com/about/plans"
+  ],
+  [
+   "Apple",
+   "pricing",
+   "https://www.apple.com/apple-one/"
+  ],
+  [
+   "Apple",
+   "terms",
+   "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  ],
+  [
+   "Apple",
+   "privacy",
+   "https://www.apple.com/legal/privacy/en-ww/"
+  ],
+  [
+   "Microsoft 365",
+   "pricing",
+   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+  ],
+  [
+   "Microsoft 365",
+   "terms",
+   "https://www.microsoft.com/en-us/servicesagreement"
+  ],
+  [
+   "Microsoft 365",
+   "privacy",
+   "https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  [
+   "Amazon Prime",
+   "terms",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP"
+  ],
+  [
+   "Amazon Prime",
+   "privacy",
+   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+  ],
+  [
+   "Dropbox",
+   "pricing",
+   "https://www.dropbox.com/plans"
+  ],
+  [
+   "Dropbox",
+   "terms",
+   "https://www.dropbox.com/terms"
+  ],
+  [
+   "Dropbox",
+   "privacy",
+   "https://www.dropbox.com/privacy"
+  ],
+  [
+   "Zoom",
+   "pricing",
+   "https://zoom.us/pricing"
+  ],
+  [
+   "Zoom",
+   "terms",
+   "https://www.zoom.com/en/trust/terms/"
+  ],
+  [
+   "Zoom",
+   "privacy",
+   "https://www.zoom.com/en/trust/privacy/privacy-statement/"
+  ],
+  [
+   "Slack",
+   "pricing",
+   "https://slack.com/pricing"
+  ],
+  [
+   "Slack",
+   "terms",
+   "https://slack.com/terms-of-service/user"
+  ],
+  [
+   "Slack",
+   "privacy",
+   "https://slack.com/trust/privacy/privacy-policy"
+  ],
+  [
+   "Notion",
+   "pricing",
+   "https://www.notion.com/pricing"
+  ],
+  [
+   "GitHub",
+   "pricing",
+   "https://github.com/pricing"
+  ],
+  [
+   "GitHub",
+   "terms",
+   "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  ],
+  [
+   "GitHub",
+   "privacy",
+   "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+  ],
+  [
+   "Canva",
+   "terms",
+   "https://www.canva.com/policies/terms-of-use/"
+  ],
+  [
+   "Canva",
+   "privacy",
+   "https://www.canva.com/policies/privacy-policy/"
+  ],
+  [
+   "Reddit",
+   "terms",
+   "https://redditinc.com/policies/user-agreement"
+  ],
+  [
+   "X",
+   "terms",
+   "https://x.com/en/tos"
+  ],
+  [
+   "X",
+   "privacy",
+   "https://x.com/en/privacy"
+  ],
+  [
+   "TikTok",
+   "terms",
+   "https://www.tiktok.com/legal/page/us/terms-of-service/en"
+  ],
+  [
+   "TikTok",
+   "privacy",
+   "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+  ],
+  [
+   "Discord",
+   "pricing",
+   "https://discord.com/nitro"
+  ],
+  [
+   "Discord",
+   "terms",
+   "https://discord.com/terms"
+  ],
+  [
+   "Discord",
+   "privacy",
+   "https://discord.com/privacy"
+  ],
+  [
+   "Lyft",
+   "terms",
+   "https://www.lyft.com/terms"
+  ],
+  [
+   "Lyft",
+   "privacy",
+   "https://www.lyft.com/privacy"
+  ],
+  [
+   "DoorDash",
+   "terms",
+   "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+  ],
+  [
+   "DoorDash",
+   "privacy",
+   "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+  ],
+  [
+   "Airbnb",
+   "terms",
+   "https://www.airbnb.com/help/article/2908"
+  ],
+  [
+   "Airbnb",
+   "privacy",
+   "https://www.airbnb.com/help/article/3175"
+  ],
+  [
+   "Delta",
+   "pricing",
+   "https://www.delta.com/us/en/baggage/checked-baggage/overview"
+  ],
+  [
+   "Delta",
+   "terms",
+   "https://www.delta.com/us/en/legal/contract-of-carriage-dgr"
+  ],
+  [
+   "Peacock",
+   "terms",
+   "https://www.peacocktv.com/terms"
+  ],
+  [
+   "Peacock",
+   "privacy",
+   "https://www.nbcuniversal.com/privacy"
+  ],
+  [
+   "Grammarly",
+   "pricing",
+   "https://www.grammarly.com/plans"
+  ],
+  [
+   "Grammarly",
+   "terms",
+   "https://www.grammarly.com/terms"
+  ],
+  [
+   "Grammarly",
+   "privacy",
+   "https://www.grammarly.com/privacy-policy"
+  ],
+  [
+   "1Password",
+   "pricing",
+   "https://1password.com/pricing"
+  ],
+  [
+   "1Password",
+   "terms",
+   "https://1password.com/legal/terms-of-service"
+  ],
+  [
+   "1Password",
+   "privacy",
+   "https://1password.com/legal/privacy"
+  ],
+  [
+   "Proton",
+   "pricing",
+   "https://proton.me/pricing"
+  ],
+  [
+   "Proton",
+   "terms",
+   "https://proton.me/legal/terms"
+  ],
+  [
+   "Proton",
+   "privacy",
+   "https://proton.me/legal/privacy"
+  ],
+  [
+   "Cloudflare",
+   "pricing",
+   "https://www.cloudflare.com/plans/"
+  ],
+  [
+   "Cloudflare",
+   "terms",
+   "https://www.cloudflare.com/website-terms/"
+  ],
+  [
+   "Cloudflare",
+   "privacy",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  [
+   "Squarespace",
+   "pricing",
+   "https://www.squarespace.com/pricing"
+  ],
+  [
+   "Squarespace",
+   "terms",
+   "https://www.squarespace.com/terms-of-service"
+  ],
+  [
+   "Squarespace",
+   "privacy",
+   "https://www.squarespace.com/privacy"
+  ],
+  [
+   "Shopify",
+   "pricing",
+   "https://www.shopify.com/pricing"
+  ],
+  [
+   "Shopify",
+   "terms",
+   "https://www.shopify.com/legal/terms"
+  ],
+  [
+   "Shopify",
+   "privacy",
+   "https://www.shopify.com/legal/privacy"
+  ],
+  [
+   "Patreon",
+   "pricing",
+   "https://www.patreon.com/pricing"
+  ],
+  [
+   "Patreon",
+   "terms",
+   "https://www.patreon.com/policy/legal"
+  ],
+  [
+   "Venmo",
+   "terms",
+   "https://venmo.com/legal/us-user-agreement/"
+  ],
+  [
+   "Cash App",
+   "terms",
+   "https://cash.app/legal/us/en-us/tos"
+  ],
+  [
+   "Cash App",
+   "privacy",
+   "https://cash.app/legal/us/en-us/privacy"
+  ],
+  [
+   "Strava",
+   "pricing",
+   "https://www.strava.com/subscribe"
+  ],
+  [
+   "Strava",
+   "terms",
+   "https://www.strava.com/legal/terms"
+  ],
+  [
+   "Strava",
+   "privacy",
+   "https://www.strava.com/legal/privacy"
+  ],
+  [
+   "Tinder",
+   "terms",
+   "https://policies.tinder.com/terms/us/en"
+  ],
+  [
+   "LinkedIn",
+   "terms",
+   "https://www.linkedin.com/legal/user-agreement"
+  ],
+  [
+   "LinkedIn",
+   "privacy",
+   "https://www.linkedin.com/legal/privacy-policy"
+  ],
+  [
+   "Pinterest",
+   "terms",
+   "https://policy.pinterest.com/en/terms-of-service"
+  ],
+  [
+   "Pinterest",
+   "privacy",
+   "https://policy.pinterest.com/en/privacy-policy"
+  ],
+  [
+   "Steam",
+   "terms",
+   "https://store.steampowered.com/subscriber_agreement/"
+  ],
+  [
+   "Steam",
+   "privacy",
+   "https://store.steampowered.com/privacy_agreement/"
+  ],
+  [
+   "Xbox Game Pass",
+   "pricing",
+   "https://www.xbox.com/en-US/xbox-game-pass"
+  ],
+  [
+   "PlayStation Plus",
+   "terms",
+   "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+  ],
+  [
+   "Audible",
+   "pricing",
+   "https://www.audible.com/ep/memberbenefits"
+  ],
+  [
+   "Evernote",
+   "pricing",
+   "https://evernote.com/compare-plans"
+  ],
+  [
+   "Evernote",
+   "terms",
+   "https://evernote.com/legal/terms-of-service"
+  ],
+  [
+   "Evernote",
+   "privacy",
+   "https://evernote.com/privacy/policy"
+  ],
+  [
+   "Figma",
+   "pricing",
+   "https://www.figma.com/pricing/"
+  ],
+  [
+   "Figma",
+   "terms",
+   "https://www.figma.com/legal/tos/"
+  ],
+  [
+   "Figma",
+   "privacy",
+   "https://www.figma.com/legal/privacy/"
+  ],
+  [
+   "Wix",
+   "pricing",
+   "https://www.wix.com/plans"
+  ],
+  [
+   "Wix",
+   "terms",
+   "https://www.wix.com/about/terms-of-use"
+  ],
+  [
+   "Wix",
+   "privacy",
+   "https://www.wix.com/about/privacy"
+  ],
+  [
+   "Bitwarden",
+   "pricing",
+   "https://bitwarden.com/pricing/"
+  ],
+  [
+   "Bitwarden",
+   "terms",
+   "https://bitwarden.com/terms/"
+  ],
+  [
+   "Bitwarden",
+   "privacy",
+   "https://bitwarden.com/privacy/"
+  ],
+  [
+   "Mailchimp",
+   "pricing",
+   "https://mailchimp.com/pricing/marketing/"
+  ],
+  [
+   "Mailchimp",
+   "privacy",
+   "https://www.intuit.com/privacy/statement/"
+  ],
+  [
+   "Calendly",
+   "pricing",
+   "https://calendly.com/pricing"
+  ],
+  [
+   "Calendly",
+   "privacy",
+   "https://calendly.com/legal/privacy-notice"
+  ],
+  [
+   "Todoist",
+   "pricing",
+   "https://todoist.com/pricing"
+  ],
+  [
+   "Todoist",
+   "terms",
+   "https://doist.com/terms-of-service"
+  ],
+  [
+   "Todoist",
+   "privacy",
+   "https://doist.com/privacy"
+  ],
+  [
+   "Signal",
+   "terms",
+   "https://signal.org/legal/"
+  ],
+  [
+   "Vimeo",
+   "terms",
+   "https://vimeo.com/terms"
+  ],
+  [
+   "Vimeo",
+   "privacy",
+   "https://vimeo.com/privacy"
+  ],
+  [
+   "Mozilla",
+   "pricing",
+   "https://www.mozilla.org/en-US/products/vpn/pricing/"
+  ],
+  [
+   "Mozilla",
+   "terms",
+   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/"
+  ],
+  [
+   "Mozilla",
+   "privacy",
+   "https://www.mozilla.org/en-US/privacy/firefox/"
+  ],
+  [
+   "Bank of America",
+   "terms",
+   "https://www.bankofamerica.com/online-banking/service-agreement.go"
+  ],
+  [
+   "Wells Fargo",
+   "terms",
+   "https://www.wellsfargo.com/online-banking/online-access-agreement/"
+  ],
+  [
+   "Verizon",
+   "pricing",
+   "https://www.verizon.com/support/surcharges/"
+  ],
+  [
+   "Verizon",
+   "terms",
+   "https://www.verizon.com/support/verizon-dollars-legal/"
+  ],
+  [
+   "Verizon",
+   "privacy",
+   "https://www.verizon.com/about/privacy/full-privacy-policy"
+  ],
+  [
+   "Robinhood",
+   "terms",
+   "https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf"
+  ],
+  [
+   "Robinhood",
+   "pricing",
+   "https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Fee%20Schedule.pdf"
+  ],
+  [
+   "Oura",
+   "terms",
+   "https://ouraring.com/terms-and-conditions"
+  ],
+  [
+   "Rocket Money",
+   "terms",
+   "https://www.rocketmoney.com/terms"
+  ],
+  [
+   "Roblox",
+   "terms",
+   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use"
+  ],
+  [
+   "HBO Max",
+   "pricing",
+   "https://help.hbomax.com/plans"
+  ],
+  [
+   "Paramount+",
+   "pricing",
+   "https://www.paramountplus.com/"
+  ],
+  [
+   "Apple TV",
+   "pricing",
+   "https://www.apple.com/apple-tv-plus/"
+  ],
+  [
+   "Google Play",
+   "terms",
+   "https://play.google.com/intl/en_us/about/play-terms/index.html"
+  ],
+  [
+   "Fitbit",
+   "privacy",
+   "https://support.google.com/product-documentation/answer/14815921?hl=en"
+  ],
+  [
+   "AT&T",
+   "terms",
+   "https://www.att.com/legal/terms.consumerServiceAgreement.html"
+  ],
+  [
+   "Cricket Wireless",
+   "terms",
+   "https://www.cricketwireless.com/terms"
+  ],
+  [
+   "California",
+   "terms",
+   "https://cdtfa.ca.gov/industry/retailers-and-purchasers-of-digital-products/"
+  ],
+  [
+   "Xero",
+   "terms",
+   "https://www.xero.com/us/legal/terms/"
+  ],
+  [
+   "Xero",
+   "privacy",
+   "https://www.xero.com/us/legal/privacy/"
+  ],
+  [
+   "Grindr",
+   "terms",
+   "https://trust.grindr.com/en-US/legal/2026-terms-of-service"
+  ],
+  [
+   "Grindr",
+   "privacy",
+   "https://trust.grindr.com/en-US/privacy"
+  ],
+  [
+   "Social Security",
+   "privacy",
+   "https://www.federalregister.gov/documents/search?conditions%5Bagencies%5D%5B%5D=social-security-administration&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22system+of+records%22&order=newest"
+  ],
+  [
+   "Toyota",
+   "privacy",
+   "https://www.toyota.com/support/privacy-notice/"
+  ],
+  [
+   "Tubi",
+   "privacy",
+   "https://tubitv.com/static/privacy"
+  ],
+  [
+   "Calm",
+   "terms",
+   "https://www.calm.com/terms"
+  ],
+  [
+   "Calm",
+   "privacy",
+   "https://www.calm.com/privacy-policy"
+  ],
+  [
+   "JetBlue",
+   "pricing",
+   "https://www.jetblue.com/legal/fees"
+  ],
+  [
+   "BeReal",
+   "privacy",
+   "https://bereal.com/privacy"
+  ],
+  [
+   "BeReal",
+   "terms",
+   "https://bereal.com/terms"
+  ],
+  [
+   "Booking.com",
+   "terms",
+   "https://www.booking.com/content/terms.html"
+  ],
+  [
+   "Netlify",
+   "terms",
+   "https://www.netlify.com/pdf/self-serve-subscription-agreement.pdf/"
+  ],
+  [
+   "Netlify",
+   "privacy",
+   "https://www.netlify.com/privacy/"
+  ],
+  [
+   "Vrew",
+   "terms",
+   "https://docs.channel.io/vrew-us/en/articles/Changes-to-the-Terms-of-Service-and-Privacy-Policy-on-December-1-2026-1da280cc"
+  ],
+  [
+   "Muse",
+   "privacy",
+   "https://choosemuse.com/pages/privacy"
+  ],
+  [
+   "Emotiv",
+   "privacy",
+   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/"
+  ],
+  [
+   "Dave & Buster's",
+   "privacy",
+   "https://www.daveandbusters.com/us/en/terms-of-use/privacy-policy"
+  ],
+  [
+   "Chase",
+   "terms",
+   "https://static.chasecdn.com/content/dam/legal-agreements/library/en/dsa1_la/versions/dsa1_la.pdf"
+  ],
+  [
+   "remove.bg",
+   "terms",
+   "https://www.remove.bg/gtc"
+  ],
+  [
+   "cPanel",
+   "pricing",
+   "https://www.cpanel.net/pricing/"
+  ],
+  [
+   "Logos",
+   "pricing",
+   "https://www.logos.com/subscription-faq"
+  ],
+  [
+   "discovery+",
+   "pricing",
+   "https://help.discoveryplus.com/hc/en-us/articles/44191391175703-discovery-plan-price-changes"
+  ],
+  [
+   "Hinge",
+   "terms",
+   "https://hinge.co/terms"
+  ],
+  [
+   "Hinge",
+   "privacy",
+   "https://hinge.co/privacy"
+  ],
+  [
+   "Hunter",
+   "terms",
+   "https://www.hunterfan.com/blogs/hunter-blog/important-update-to-huntersmart%E2%84%A2-google-home-and-amazon-alexa-connectivity-via-app-to-app-linking"
+  ],
+  [
+   "KYMCO",
+   "terms",
+   "https://kymcousa.com/kymco-noodoe-system-discontinuation/"
+  ],
+  [
+   "ZWILLING",
+   "terms",
+   "https://www.zwilling.com/us/magazine/faqs-app-exit.html"
+  ],
+  [
+   "Nedap PowerRouter",
+   "terms",
+   "https://www.powerrouter.com/en/discontinuation-mypowerrouter-com/"
+  ],
+  [
+   "Runna",
+   "pricing",
+   "https://www.runna.com/en-gb/pricing"
+  ],
+  [
+   "Runna",
+   "terms",
+   "https://support.runna.com/en/articles/18298149-changes-to-our-uk-subscription"
+  ]
+ ],
+ "failed": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403"
+  ],
+  [
+   "Venmo",
+   "privacy",
+   "https://venmo.com/legal/us-privacy-policy/",
+   "SSLError"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars; JS-rendered or bot wall)"
+  ],
+  [
+   "Fitbit",
+   "terms",
+   "https://support.google.com/product-documentation/answer/14816019?hl=en",
+   "HTTP 429"
+  ],
+  [
+   "Stripe",
+   "privacy",
+   "https://stripe.com/privacy",
+   "SSLError"
+  ],
+  [
+   "JetBlue",
+   "terms",
+   "https://www.jetblue.com/legal/flights-terms",
+   "SSLError"
+  ],
+  [
+   "Temu",
+   "terms",
+   "https://www.temu.com/terms-of-use.html",
+   "SSLError"
+  ],
+  [
+   "Temu",
+   "privacy",
+   "https://www.temu.com/privacy-and-cookie-policy.html",
+   "SSLError"
+  ]
+ ],
+ "changes": [
+  {
+   "service": "Disney+",
+   "page": "pricing",
+   "url": "https://www.disneyplus.com/",
+   "diff": "@@ -24,7 +24,7 @@\n New\n+New\n+New\n+New\n+New\n Finale\n-Finale\n-Finale\n-Finale\n-New\n New\n@@ -34,12 +34,12 @@\n Top 10 Series in the US Today\n+Action and Adventure, Fantasy\n Dance, Reality, Game Shows\n Drama, Romance, Fantasy\n-Action and Adventure, Fantasy\n Drama, Super Heroes, Science Fiction\n Action and Adventure, Comedy, Animation, Family\n+Comedy, Fantasy\n+Super Heroes, Action and Adventure, Science Fiction, Fantasy\n+Reality\n Drama, Legal, Comedy, Soap Operas\n-Super Heroes, Action and Adventure, Science Fiction, Fantasy\n-Drama, Coming of Age, Mystery, Comedy, Teen\n-Action and Adventure, Heroes, Animation, Romance, Fantasy\n-Drama\n+Drama, Coming of Age, Comedy, Horror, Fantasy\n Top 10 Movies in the US today\n@@ -48,7 +48,7 @@\n Comedy\n+Comedy, Fantasy\n Super Heroes, Action and Adventure, Science Fiction, Fantasy\n-Comedy, Fantasy\n Action and Adventure, Comedy, Animation\n+Comedy\n Animation, Musicals, Fantasy\n-Comedy\n Comedy, Fantasy",
+   "added": 11,
+   "removed": 11
+  },
+  {
+   "service": "Dropbox",
+   "page": "pricing",
+   "url": "https://www.dropbox.com/plans",
+   "diff": "@@ -5,12 +5,14 @@\n Billed yearly\n+Plus\n+Standard\n+Recommended\n For personal use\n For teams and professionals\n-New AI features\n-For teams and professionals\n-For teams and professionals\n-New AI features\n-Plus\n-Standard\n-$9.99 / month\n-$15 / user / month\n+For teams and professionals\n+For teams and professionals\n+$9.99\n+$7.99 / month\n+$19.20 / user / month\n+Get 3 free months. Offer ends December 1.\n+Get 3 free months. Offer ends December 1.\n Buy now\n@@ -19,20 +21,62 @@\n of storage\n-Stay connected across all devices\n-30 days\n-to restore deleted files\n-Transfer files up to\n-50 GB\n-Integrate with leading AI tools\n+Access from anywhere\n+Work with your files in AI tools\n+Sync files across unlimited devices\n+30 days to restore deleted files\n+Flexible sharing\n+Transfer files up to 50 GB\n Edit PDFs and get signatures\n View all features\n+Standard\n+Recommended\n+Standard\n+Recommended\n+For teams and professionals\n+For teams and professionals\n+For teams and professionals\n+For teams and professionals\n+$15\n+$12 / user / month\n+$19.20 / user / month\n+Get 3 free months. Offer ends December 1.\n+Get 3 free months. Offer ends December 1.\n+Try for free\n+or buy now\n+For 1 person or more\n+Starts at\n+3 TB\n+for the team\n+AI in Dropbox\n+Organize and rename files in bulk\n+Transform existing content into new work\n+Approve AI actions and undo changes\n+Get answers grounded in your files\n+250 AI credits per person, per month\n+Access from anywhere\n+Work with your files in AI tools\n+Sync files across unlimited devices\n+180 days to restore deleted files\n+Flexible sharing\n+Password protect files\n+Transfer files up to 100 GB\n+Edit PDFs and get signatures\n+Brand your files to share\n+Teamwork and advanced security\n+Get team folders for organization\n+Manage team sharing\n+Create groups and roles\n+Admin control\n+View all features\n+Advanced\n+Standard\n+Recommended\n For companies\n For teams and professionals\n-New AI features\n-For teams and professionals\n-For teams and professionals\n-New AI features\n-Advanced\n-Standard\n-$24 / user / month\n-$15 / user / month\n+For teams and professionals\n+For teams and professionals\n+$24\n+$19.20 / user / month\n+$19.20 / user / month\n+Get 3 free months. Offer ends December 1.\n+Get 3 free months. Offer ends December 1.\n Try for free\n@@ -43,11 +87,18 @@\n for the team\n-Stay connected across all devices\n-1 year\n-to restore deleted files\n-Transfer files up to\n-100 GB\n-Integrate with leading AI tools\n+AI in Dropbox\n+Organize and rename files in bulk\n+Transform existing content into new work\n+Approve AI actions and undo changes\n+Get answers grounded in your files\n+250 AI credits per person, per month\n+Access from anywhere\n+Work with your files in AI tools\n+Sync files across unlimited devices\n+1 year to restore deleted files\n+Flexible sharing\n+Password protect files\n+Transfer files up to 100 GB\n Edit PDFs and get signatures\n Brand your files to share\n-Password protect files\n+Teamwork and advanced security\n Get team folders for organization\n@@ -61,2 +112,3 @@\n View all features\n+*The displayed monthly price for each plan is its annual purchase price divided by 15 months, which includes the 3 free months offered through this promotion. After the first 15 months, your subscription renews every 12 months at the annual renewal price shown at checkout until you cancel. Offer valid for new subscriptions only.\n Basic\n@@ -82,2 +134,3 @@\n Plus\n+Best Value\n Standard\n@@ -86,5 +139,8 @@\n Price\n-$9.99 / month\n-$15 / user / month\n-$24 / user / month\n+$9.99\n+$7.99 / month\n+$15\n+$12 / user / month\n+$24\n+$19.20 / user / month\n Billing structure",
+   "added": 88,
+   "removed": 32
+  },
+  {
+   "service": "Slack",
+   "page": "pricing",
+   "url": "https://slack.com/pricing",
+   "diff": "@@ -99,5 +99,3 @@\n Maximize performance on the most comprehensive work OS\n-$45\n-USD\n-per user / month, when paying annually\n+Contact sales for pricing\n Contact Sales",
+   "added": 1,
+   "removed": 3
+  },
+  {
+   "service": "Grammarly",
+   "page": "pricing",
+   "url": "https://www.grammarly.com/plans",
+   "diff": "@@ -1,2 +1,2 @@\n-Great Writing Starts With a Plan\n+Try Pro for $0 today\n Trusted by over 40 million people and 50,000 organizations",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Audible",
+   "page": "pricing",
+   "url": "https://www.audible.com/ep/memberbenefits",
+   "diff": "@@ -30,3 +30,2 @@\n Switch plans or cancel anytime.\n-Compare plans\n Monthly\n@@ -46,3 +45,3 @@\n 12 audiobooks\n-$149.50 a year\n+$149.50/year\n Sign up for Premium Annual\n@@ -50,26 +49,3 @@\n 24 audiobooks\n-$229.50 a year\n-Compare plans\n-CASUAL LISTENER\n-Standard\n-$8.99/mo after 30 days\n-AVID LISTENER\n-Premium\n-$14.95/mo after 30 days\n-Pick 1 audiobook a month from our 1M+ catalog\n-Premium members get 1 credit a month to buy and keep any audiobook of their choice.\n-Standard members can pick 1 audiobook each month and listen to it while subscribed.\n-Keep monthly audiobook picks\n-Premium members can keep their monthly audiobook picks, even if they cancel.\n-Standard members don't keep their monthly audiobook picks, but can listen to them anytime while subscribed.\n-Unused monthly picks roll over\n-Premium members get credits that roll over up to 12 months from issue if unused.\n-Standard member benefits reset each month--so if you miss a month, it doesn't roll over.\n-Unlimited access to included titles\n-Premium members get unlimited access to a collection of 150k+ audiobooks and Originals.\n-You can add these to your Library and listen anytime while subscribed--no credits needed.\n-Unlimited listening to podcasts\n-Standard and Premium members can enjoy unlimited access to podcasts.\n-Exclusive sales & discounts\n-Premium members get access to member-only discounts on extra audiobook purchases and sales.\n+$229.50/year\n LIMITED TIME OFFER | $99 for a year of Premium",
+   "added": 2,
+   "removed": 26
+  },
+  {
+   "service": "Roblox",
+   "page": "terms",
+   "url": "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+   "diff": "@@ -11,8 +11,2 @@\n See more\n-We are updating our\n-Terms of Use\n-to make them clearer and to better explain how Roblox works. Here\u2019s a high-level summary of the changes:\n-We have tried to simplify the language and reorganize sections of the Terms of Use, including the User Terms and Creator Terms.\n-We are clarifying Roblox\u2019s role on how user generated content (UGC) is provided to you on the platform. In general, Roblox acts as the principal distributor and merchant of record for purchases made through Roblox. This means that when you access or purchase any content on the Roblox Platform, you are obtaining the content from Roblox. Users and Creators do not enter into a direct transaction with each other for those purchases. We are also clarifying related sections on Robux, payments, tax, and Creator payment.\n-For Users in the EEA only, we added the right of withdrawal for consumers.\n USER TERMS\n@@ -3120,73 +3114,67 @@\n Roblox Terms\n-TE - Roblox \u0c09\u0c2a\u0c2f\u0c4b\u0c17 \u0c28\u0c3f\u0c2c\u0c02\u0c27\u0c28\u0c32\u0c41 20260519.pdf\n+TE - Roblox \u0c09\u0c2a\u0c2f\u0c4b\u0c17 \u0c28\u0c3f\u0c2c\u0c02\u0c27\u0c28\u0c32\u0c41 20261101.pdf\n+900 KB\n+Download\n+HI - Roblox \u092a\u094d\u0932\u0948\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u0915\u0947 \u0909\u092a\u092f\u094b\u0917 \u0915\u0940 \u0936\u0930\u094d\u0924\u0947\u0902 20261101.pdf\n+900 KB\n+Download\n+AR - \u0634\u0631\u0648\u0637 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 Roblox 20261101.pdf\n 1 MB\n Download\n-HI - Roblox \u092a\u094d\u0932\u0948\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u0915\u0947 \u0909\u092a\u092f\u094b\u0917 \u0915\u0940 \u0936\u0930\u094d\u0924\u0947\u0902 20260519.pdf\n+ZH-TW - Roblox \u4f7f\u7528\u689d\u6b3e 20261101.pdf\n 1 MB\n Download\n-AR - \u0634\u0631\u0648\u0637 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 Roblox 20260519.pdf\n-2 MB\n+VI - \u0110ie\u0302\u0300u khoa\u0309n Su\u031b\u0309 du\u0323ng cu\u0309a Roblox 20261101.pdf\n+900 KB\n Download\n-ZH-TW - Roblox \u4f7f\u7528\u689d\u6b3e 20260519.pdf\n+ZH-CN - Roblox\u4f7f\u7528\u6761\u6b3e 20261101.pdf\n+1000 KB\n+Download\n+TR - Roblox Kullan\u0131m Kos\u0327ullar\u0131 20261101.pdf\n+500 KB\n+Download\n+ES - Te\u0301rminos de uso de Roblox 20261101.pdf\n+400 KB\n+Download\n+EN-US Roblox Terms of Use 20261101.pdf\n+400 KB\n+Download\n+TA - Roblox \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd 20261101.pdf\n+900 KB\n+Download\n+PL - Warunki korzystania z Roblox 20261101.pdf\n+600 KB\n+Download\n+TH - \u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e02\u0e2d\u0e07 Roblox 20261101.pdf\n+700 KB\n+Download\n+ID - Roblox Ketentuan Penggunaan 20261101.pdf\n+400 KB\n+Download\n+IT - Condizioni di utilizzo di Roblox 20261101.pdf\n+400 KB\n+Download\n+DE - Nutzungsbedingungen von Roblox 20261101.pdf\n+400 KB\n+Download\n+KO - Roblox \u110b\u1175\u110b\u116d\u11bc \u110b\u1163\u11a8\u1100\u116a\u11ab 20261101.pdf\n 1 MB\n Download\n-VI - \u0110ie\u0302\u0300u khoa\u0309n Su\u031b\u0309 du\u0323ng cu\u0309a Roblox 20260519.pdf\n+MR - Roblox \u0935\u093e\u092a\u0930\u093e\u091a\u094d\u092f\u093e \u0905\u091f\u0940 20261101.pdf\n+800 KB\n+Download\n+JA - Roblox\u5229\u7528\u898f\u7d04 20261101.pdf\n 1 MB\n Download\n-ZH-CN - Roblox\u4f7f\u7528\u6761\u6b3e 20260519.pdf\n-1 MB\n+NL - Roblox past het gebruiksvoorwaarden 20261101.pdf\n+400 KB\n Download\n-TR - Roblox Kullan\u0131m Kos\u0327ullar\u0131 20260519.pdf\n-1 MB\n+FR - Conditions d'utilisation de Roblox 20261101.pdf\n+400 KB\n Download\n-ES - Te\u0301rminos de uso de Roblox 20260519.pdf\n-2 MB\n+PT-BR - Termos de Uso da Roblox 20261101.pdf\n+400 KB\n Download\n-EN - Roblox Terms of Use 20260519.pdf\n-2 MB\n-Download\n-TA - Roblox \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd 20260519.pdf\n-1 MB\n-Download\n-PL - Warunki korzystania z Roblox 20260519.pdf\n-900 KB\n-Download\n-TH - \u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e02\u0e2d\u0e07 Roblox 20260519.pdf\n-900 KB\n-Download\n-ID - Roblox Ketentuan Penggunaan 20260519.pdf\n-500 KB\n-Download\n-IT - Condizioni di utilizzo di Roblox 20260519.pdf\n-600 KB\n-Download\n-DE - Nutzungsbedingungen von Roblox 20260519.pdf\n-2 MB\n-Download\n-KO - Roblox \u110b\u1175\u110b\u116d\u11bc \u110b\u1163\u11a8\u1100\u116a\u11ab 20260519.pdf\n-1000 KB\n-Download\n-MR - Roblox \u0935\u093e\u092a\u0930\u093e\u091a\u094d\u092f\u093e \u0905\u091f\u0940 20260519.pdf\n-1 MB\n-Download\n-JA - Roblox\u5229\u7528\u898f\u7d04 20260519.pdf\n-3 MB\n-Download\n-NL - Roblox past het gebruiksvoorwaarden 20260519.pdf\n-600 KB\n-Download\n-FR - Conditions d'utilisation de Roblox 20260519.pdf\n-2 MB\n-Download\n-PT-BR - Termos de Uso da Roblox 20260519.pdf\n-2 MB\n-Download\n-BN-IN - Roblox \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u09b6\u09b0\u09cd\u09a4\u09be\u09ac\u09b2\u09c0 20260519.pdf\n-1 MB\n-Download\n-KN - Roblox \u0cac\u0cb3\u0c95\u0cc6\u0caf \u0ca8\u0cbf\u0caf\u0cae\u0c97\u0cb3\u0cc1 20260519.pdf\n-2 MB\n-Download\n-ML - Roblox \u0d09\u0d2a\u0d2f\u0d47\u0d3e\u0d17 \u0d28\u0d3f\u0d2c\u0d28\u0d4d\u0d27\u0d28\u0d15\u0d7e 20260519.pdf\n-2 MB\n+BN-IN - Roblox \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u09b6\u09b0\u09cd\u09a4\u09be\u09ac\u09b2\u09c0 20261101.pdf\n+800 KB\n Download",
+   "added": 53,
+   "removed": 65
+  },
+  {
+   "service": "Paramount+",
+   "page": "pricing",
+   "url": "https://www.paramountplus.com/",
+   "diff": "@@ -35,3 +35,3 @@\n LIVE SPORTS\n-Stream the NFL on CBS, UFC, UEFA Champions League, and Zuffa Boxing. Upgrade to the Premium plan to watch even more sports on your local CBS station. Don't miss a Thanksgiving showdown between the Bears and Lions Thursday at 1PM ET.\n+Stream the NFL on CBS, UFC, UEFA Champions League, and Zuffa Boxing. Upgrade to the Premium plan to watch even more sports on your local CBS station.\n GET STARTED",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Apple TV",
+   "page": "pricing",
+   "url": "https://www.apple.com/apple-tv-plus/",
+   "diff": "@@ -1,2 +1,2 @@\n-Limited-time offer:\n+Last-chance offer:\n Get 6 months of Apple TV for $6.99/mo.\n@@ -19,3 +19,3 @@\n Subscribe and save.\n-Limited-Time Offer\n+Last Chance Offer\n $6.99 per month",
+   "added": 2,
+   "removed": 2
+  },
+  {
+   "service": "Tubi",
+   "page": "privacy",
+   "url": "https://tubitv.com/static/privacy",
+   "diff": "@@ -578,3 +578,3 @@\n All rights reserved.\n-Device ID: f196a01a-c03c-4ed3-990e-062e4814a0c6\n+Device ID: cebb8565-acfb-41eb-9524-6dbaa2a125da\n Made with",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Booking.com",
+   "page": "terms",
+   "url": "https://www.booking.com/content/terms.html",
+   "diff": "@@ -1529,2 +1529,2 @@\n Close calendar\n-2699580,2657560\n+2657560,2699580",
+   "added": 1,
+   "removed": 1
+  },
+  {
+   "service": "Logos",
+   "page": "pricing",
+   "url": "https://www.logos.com/subscription-faq",
+   "diff": "@@ -157,5 +157,6 @@\n Start a free trial\n-Black Friday Starts Now: Up to 75% Off. More Deals Drop Nov. 27.\n+Black Friday Weekend | New Deals & Up to 75% Off Through Sunday.\n Shop now\n-or call 888-398-9481\n+or call\n+888-398-9481\n Your Subscription Questions, Answered",
+   "added": 3,
+   "removed": 2
+  },
+  {
+   "service": "ZWILLING",
+   "page": "terms",
+   "url": "https://www.zwilling.com/us/magazine/faqs-app-exit.html",
+   "diff": "@@ -1,5 +1,4 @@\n SKIP TO MAIN CONTENT\n-Black Friday Offers\u2014Shop our lowest prices of the season.\n-Free shipping above $79\n-Quality since 1731\n+New Black Friday Offers Added\u2014Shop our lowest prices of the season.\n+\u2714\ufe0e\ufe0eFree shipping above $79 \u2714\ufe0e\ufe0eQuality since 1731\n Popular Searches",
+   "added": 2,
+   "removed": 3
+  }
+ ]
+}

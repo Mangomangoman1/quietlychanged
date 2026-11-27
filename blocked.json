@@ -884,5 +884,29 @@
    "note",
    "Single pass 177 ok / 2 failed. PayPal terms and privacy fetched OK today for the first time since Nov 10 (no diff); Todoist OK. No swap."
   ]
+ ],
+ "flaky_2026-11-27": [
+  [
+   "PayPal",
+   "terms",
+   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+   "HTTP 403 (retry SSLError, then 403) after fetching OK on Nov 26; kept"
+  ],
+  [
+   "PayPal",
+   "privacy",
+   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+   "HTTP 403 on first pass and two retries after fetching OK on Nov 26; kept"
+  ],
+  [
+   "Shein",
+   "terms",
+   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+   "too little text (23 chars) continues; kept"
+  ],
+  [
+   "note",
+   "First pass 170 ok / 9 failed. Venmo privacy, Stripe privacy, JetBlue terms, Temu terms/privacy (SSLError) and Fitbit terms (HTTP 429) fetched OK and unchanged on retry (snapshots saved). Roblox terms fetched OK again (first since Nov 5). No swap."
+  ]
  ]
 }
