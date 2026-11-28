@@ -1,912 +1,948 @@
 {
- "failed_2026-10-13": [
-  [
-   "OpenAI ChatGPT",
-   "pricing",
-   "https://openai.com/chatgpt/pricing/",
-   "HTTP 403"
+  "failed_2026-10-13": [
+    [
+      "OpenAI ChatGPT",
+      "pricing",
+      "https://openai.com/chatgpt/pricing/",
+      "HTTP 403"
+    ],
+    [
+      "OpenAI ChatGPT",
+      "terms",
+      "https://openai.com/policies/terms-of-use/",
+      "HTTP 403"
+    ],
+    [
+      "OpenAI ChatGPT",
+      "privacy",
+      "https://openai.com/policies/privacy-policy/",
+      "HTTP 403"
+    ],
+    [
+      "Adobe",
+      "pricing",
+      "https://www.adobe.com/creativecloud/plans.html",
+      "HTTP 403"
+    ],
+    [
+      "Adobe",
+      "terms",
+      "https://www.adobe.com/legal/terms.html",
+      "HTTP 403"
+    ],
+    [
+      "Adobe",
+      "privacy",
+      "https://www.adobe.com/privacy/policy.html",
+      "HTTP 403"
+    ],
+    [
+      "Disney+",
+      "pricing",
+      "https://help.disneyplus.com/article/disneyplus-price",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Disney+",
+      "terms",
+      "https://www.disneyplus.com/legal/subscriber-agreement",
+      "too little text (5 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "YouTube",
+      "pricing",
+      "https://www.youtube.com/premium",
+      "too little text (162 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Notion",
+      "terms",
+      "https://www.notion.com/notion/Personal-Terms-of-Use-3db3d3d5b7c7488f8e3f1a2e3e9e7ccc",
+      "HTTP 404"
+    ],
+    [
+      "Notion",
+      "privacy",
+      "https://www.notion.com/notion/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091",
+      "HTTP 404"
+    ],
+    [
+      "Canva",
+      "pricing",
+      "https://www.canva.com/pricing/",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Duolingo",
+      "terms",
+      "https://www.duolingo.com/terms",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Duolingo",
+      "privacy",
+      "https://www.duolingo.com/privacy",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Reddit",
+      "privacy",
+      "https://www.reddit.com/policies/privacy-policy",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "X",
+      "pricing",
+      "https://help.x.com/en/using-x/x-premium",
+      "HTTP 403"
+    ],
+    [
+      "Meta",
+      "terms",
+      "https://www.facebook.com/legal/terms",
+      "HTTP 400"
+    ],
+    [
+      "Meta",
+      "privacy",
+      "https://www.facebook.com/privacy/policy/",
+      "HTTP 400"
+    ],
+    [
+      "Uber",
+      "terms",
+      "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+      "HTTP 406"
+    ],
+    [
+      "Uber",
+      "privacy",
+      "https://www.uber.com/legal/en/document/?name=privacy-notice&country=united-states&lang=en",
+      "HTTP 406"
+    ],
+    [
+      "DoorDash",
+      "pricing",
+      "https://www.doordash.com/dashpass/",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "United",
+      "pricing",
+      "https://www.united.com/en/us/fly/baggage/checked-bags.html",
+      "ReadTimeout"
+    ],
+    [
+      "United",
+      "terms",
+      "https://www.united.com/en/us/fly/contract-of-carriage.html",
+      "ReadTimeout"
+    ],
+    [
+      "Southwest",
+      "pricing",
+      "https://www.southwest.com/help/baggage/checked-bags",
+      "HTTP 404"
+    ],
+    [
+      "Southwest",
+      "terms",
+      "https://www.southwest.com/assets/pdfs/corporate-commitments/contract-of-carriage.pdf",
+      "PDF (unsupported)"
+    ],
+    [
+      "American Airlines",
+      "pricing",
+      "https://www.aa.com/i18n/travel-info/baggage/checked-baggage-policy.jsp",
+      "HTTP 403"
+    ],
+    [
+      "American Airlines",
+      "terms",
+      "https://www.aa.com/i18n/customer-service/support/conditions-of-carriage.jsp",
+      "HTTP 403"
+    ],
+    [
+      "Max (HBO)",
+      "terms",
+      "https://www.max.com/terms-of-use/en-us",
+      "too little text (24 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Max (HBO)",
+      "privacy",
+      "https://www.max.com/privacy-policy/en-us",
+      "HTTP 404"
+    ],
+    [
+      "Paramount+",
+      "terms",
+      "https://legal.paramount.com/us/en/pplus/terms-of-use",
+      "too little text (136 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Paramount+",
+      "privacy",
+      "https://privacy.paramount.com/policy",
+      "too little text (136 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Patreon",
+      "privacy",
+      "https://privacy.patreon.com/policies",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Tinder",
+      "privacy",
+      "https://policies.tinder.com/privacy/us/en",
+      "HTTP 404"
+    ],
+    [
+      "Twitch",
+      "terms",
+      "https://www.twitch.tv/p/en/legal/terms-of-service/",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Twitch",
+      "privacy",
+      "https://www.twitch.tv/p/en/legal/privacy-notice/",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "PlayStation Plus",
+      "pricing",
+      "https://www.playstation.com/en-us/ps-plus/",
+      "too little text (198 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Mailchimp",
+      "terms",
+      "https://www.intuit.com/legal/terms/en-us/mailchimp/",
+      "HTTP 429"
+    ],
+    [
+      "Calendly",
+      "terms",
+      "https://calendly.com/legal/terms",
+      "HTTP 404"
+    ],
+    [
+      "WhatsApp",
+      "terms",
+      "https://www.whatsapp.com/legal/terms-of-service",
+      "HTTP 400"
+    ],
+    [
+      "WhatsApp",
+      "privacy",
+      "https://www.whatsapp.com/legal/privacy-policy",
+      "HTTP 400"
+    ],
+    [
+      "Vimeo",
+      "pricing",
+      "https://vimeo.com/upgrade",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Alaska Airlines",
+      "pricing",
+      "https://www.alaskaair.com/content/travel-info/baggage/checked-bags",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Alaska Airlines",
+      "terms",
+      "https://www.alaskaair.com/content/legal/contract-of-carriage",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ]
   ],
-  [
-   "OpenAI ChatGPT",
-   "terms",
-   "https://openai.com/policies/terms-of-use/",
-   "HTTP 403"
+  "flaky_2026-10-15": [
+    [
+      "Tinder",
+      "terms",
+      "https://policies.tinder.com/terms/us/en",
+      "served a Dutch-language version despite en-US Accept-Language; diff ignored as locale noise, watch for flip-back"
+    ]
   ],
-  [
-   "OpenAI ChatGPT",
-   "privacy",
-   "https://openai.com/policies/privacy-policy/",
-   "HTTP 403"
+  "flaky_2026-10-16": [
+    [
+      "TikTok",
+      "terms",
+      "https://www.tiktok.com/legal/page/us/terms-of-service/en",
+      "too little text (0 chars; JS-rendered or bot wall); first failure, fetched fine Oct 14-15, keep watching"
+    ]
   ],
-  [
-   "Adobe",
-   "pricing",
-   "https://www.adobe.com/creativecloud/plans.html",
-   "HTTP 403"
+  "flaky_2026-10-19": [
+    [
+      "Tinder",
+      "terms",
+      "https://policies.tinder.com/terms/us/en",
+      "served a Spanish-language version despite the en-US URL (Dutch on Oct 15); diff ignored as locale noise"
+    ],
+    [
+      "Slack",
+      "pricing",
+      "https://slack.com/pricing",
+      "Enterprise+ alternates between $45 and 'Contact sales for pricing' across requests; treat flips as page testing"
+    ],
+    [
+      "Shopify",
+      "pricing",
+      "https://www.shopify.com/pricing",
+      "yearly Grow/Advanced prices rotate between $79/$299 and $89/$359 across requests (6/4 split in 10 checks Oct 19)"
+    ]
   ],
-  [
-   "Adobe",
-   "terms",
-   "https://www.adobe.com/legal/terms.html",
-   "HTTP 403"
+  "failed_2026-10-20": [
+    [
+      "Amazon Prime",
+      "terms",
+      "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP",
+      "SSLError"
+    ],
+    [
+      "Amazon Prime",
+      "privacy",
+      "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+      "SSLError"
+    ]
   ],
-  [
-   "Adobe",
-   "privacy",
-   "https://www.adobe.com/privacy/policy.html",
-   "HTTP 403"
+  "flaky_2026-10-21": [
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 (first failure, kept)"
+    ]
   ],
-  [
-   "Disney+",
-   "pricing",
-   "https://help.disneyplus.com/article/disneyplus-price",
-   "too little text (0 chars; JS-rendered or bot wall)"
+  "flaky_2026-10-22": [
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 for a second day; roblox.com/info/terms also 403s, so no working replacement yet; kept"
+    ],
+    [
+      "Canva",
+      "terms",
+      "https://www.canva.com/policies/terms-of-use/",
+      "HTTP 403 during the run, but a retry minutes later returned 200; transient, kept"
+    ],
+    [
+      "Wix",
+      "terms",
+      "https://www.wix.com/about/terms-of-use",
+      "first full capture (549 lines vs 53 before); the +496 diff is a capture improvement, not a terms change"
+    ]
   ],
-  [
-   "Disney+",
-   "terms",
-   "https://www.disneyplus.com/legal/subscriber-agreement",
-   "too little text (5 chars; JS-rendered or bot wall)"
+  "flaky_2026-10-24": [
+    [
+      "Delta",
+      "pricing+terms",
+      "delta.com",
+      "ReadTimeout during run; retry returned 200; transient, kept"
+    ],
+    [
+      "Pinterest",
+      "terms+privacy",
+      "policy.pinterest.com",
+      "SSLError during run; retry returned 200; transient, kept"
+    ],
+    [
+      "Verizon",
+      "pricing+terms+privacy",
+      "verizon.com",
+      "SSLError during run; retry returned 200; transient, kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; no working replacement yet; kept"
+    ]
   ],
-  [
-   "YouTube",
-   "pricing",
-   "https://www.youtube.com/premium",
-   "too little text (162 chars; JS-rendered or bot wall)"
+  "flaky_2026-10-28": [
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 for a week; roblox.com/info/terms redirects and the help-center API 404s, so still no working replacement; kept"
+    ]
   ],
-  [
-   "Notion",
-   "terms",
-   "https://www.notion.com/notion/Personal-Terms-of-Use-3db3d3d5b7c7488f8e3f1a2e3e9e7ccc",
-   "HTTP 404"
+  "flaky_2026-10-31": [
+    [
+      "Pinterest",
+      "terms+privacy",
+      "https://policy.pinterest.com/en/",
+      "SSLError in tracker; curl got 200 minutes later, transient"
+    ],
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError Oct 30 and Oct 31 (curl TLS error 35 too); watch, swap if it persists"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 again; no working replacement known; kept"
+    ]
   ],
-  [
-   "Notion",
-   "privacy",
-   "https://www.notion.com/notion/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091",
-   "HTTP 404"
+  "flaky_2026-11-01": [
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError for a 3rd day (Oct 30-Nov 1); curl to any playstation.com URL (en-us, en-gb, homepage) fails to connect, so no same-site replacement; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; no working replacement known; kept"
+    ],
+    [
+      "Microsoft 365",
+      "pricing",
+      "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
+      "first failure: too little text in tracker, curl gets HTTP 403 (bot wall); watch"
+    ],
+    [
+      "Fitbit",
+      "privacy",
+      "https://support.google.com/product-documentation/answer/14815921?hl=en",
+      "first failure: HTTP 429 rate limit (curl gets a 302); transient, watch"
+    ]
   ],
-  [
-   "Canva",
-   "pricing",
-   "https://www.canva.com/pricing/",
-   "too little text (0 chars; JS-rendered or bot wall)"
+  "flaky_2026-11-02": [
+    [
+      "Delta/Pinterest/Verizon/Xero",
+      "pricing+terms+privacy",
+      "various",
+      "SSLError burst on first tracker pass at 6:16 AM; rerun minutes later fetched all of them, transient"
+    ],
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError for a 4th day (Oct 30-Nov 2); playstation.com still unreachable, no same-site replacement; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; no working replacement known; kept"
+    ]
   ],
-  [
-   "Duolingo",
-   "terms",
-   "https://www.duolingo.com/terms",
-   "too little text (0 chars; JS-rendered or bot wall)"
+  "flaky_2026-11-05": [
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError (SSLEOFError) for a 5th check day (Oct 30-Nov 5, no Nov 4 run); curl also fails; no same-site replacement; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 on first tries, 200 on later retries; snapshot saved by hand after the tracker run; last snapshot before it was Oct 30 so today's diff spans the Nov 1 go-live of the rewritten terms; keep"
+    ]
   ],
-  [
-   "Duolingo",
-   "privacy",
-   "https://www.duolingo.com/privacy",
-   "too little text (0 chars; JS-rendered or bot wall)"
+  "flaky_2026-11-06": [
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError continues (6th+ check day since Oct 30; no Nov 4 run). curl/TLS still fails on playstation.com; no same-site replacement; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 again after Nov 5's intermittent 200; no working replacement known; kept"
+    ]
   ],
-  [
-   "Reddit",
-   "privacy",
-   "https://www.reddit.com/policies/privacy-policy",
-   "too little text (0 chars; JS-rendered or bot wall)"
+  "flaky_2026-11-07": [
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError continues (7th+ check day since Oct 30; no Nov 4 run). curl/TLS still fails on playstation.com; no same-site replacement; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; roblox.com/info/terms is 404 and help-center stays CF-challenged; no working replacement known; kept"
+    ]
   ],
-  [
-   "X",
-   "pricing",
-   "https://help.x.com/en/using-x/x-premium",
-   "HTTP 403"
+  "flaky_2026-11-08": [
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError continues (8th+ check day since Oct 30); no same-site replacement; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; no working replacement known; kept"
+    ]
   ],
-  [
-   "Meta",
-   "terms",
-   "https://www.facebook.com/legal/terms",
-   "HTTP 400"
+  "flaky_2026-11-09": [
+    [
+      "PlayStation Plus",
+      "terms",
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
+      "SSLError continues (9th+ check day since Oct 30); no same-site replacement; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; no working replacement known; kept"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "First failure: 23 chars (bot wall) in tracker run; manual curl minutes later returned 200 with full page; one-off, kept"
+    ]
   ],
-  [
-   "Meta",
-   "privacy",
-   "https://www.facebook.com/privacy/policy/",
-   "HTTP 400"
+  "flaky_2026-11-10": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403"
+    ],
+    [
+      "Xbox Game Pass",
+      "pricing",
+      "https://www.xbox.com/en-US/xbox-game-pass",
+      "SSLError"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "Emotiv",
+      "privacy",
+      "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
+      "too little text (0 chars; JS-rendered or bot wall)"
+    ],
+    [
+      "note",
+      "PayPal 403 and Xbox Game Pass SSLError are new today; Emotiv privacy returned an empty page (added Nov 9). Roblox/Shein ongoing."
+    ]
   ],
-  [
-   "Uber",
-   "terms",
-   "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
-   "HTTP 406"
+  "flaky_2026-11-14": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/useragreement-full also 403; kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/privacy-full and /us/legalhub/privacy-full also 403; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; www.roblox.com/info/terms also 403; kept"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; us.shein.com and www.shein.com variants also bot-walled (49 chars); kept"
+    ],
+    [
+      "Emotiv",
+      "privacy",
+      "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
+      "0 chars continues: policy text is embedded in a JS string (htmlDoc), which the extractor strips; emotiv.com/consumer-health-data-privacy-policy loads but is a different document; kept"
+    ],
+    [
+      "note",
+      "Same 5 failures as Nov 10-13. No working same-document replacement found on Nov 14."
+    ]
   ],
-  [
-   "Uber",
-   "privacy",
-   "https://www.uber.com/legal/en/document/?name=privacy-notice&country=united-states&lang=en",
-   "HTTP 406"
+  "flaky_2026-11-16": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept"
+    ],
+    [
+      "Apple",
+      "pricing",
+      "https://www.apple.com/apple-one/",
+      "SSLError on first pass only; retry fetched OK, unchanged"
+    ],
+    [
+      "Apple",
+      "terms",
+      "https://www.apple.com/legal/internet-services/itunes/us/terms.html",
+      "SSLError on first pass only; retry fetched OK, unchanged"
+    ],
+    [
+      "Amazon Prime",
+      "privacy",
+      "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+      "SSLError on first pass only; retry fetched OK, unchanged"
+    ],
+    [
+      "note",
+      "Emotiv privacy fetched again today (first since Nov 9): page re-templated so the extractor now sees the text. Diff vs Nov 9 is formatting plus the removed 'Effective Date: August 6, 2026' line; the GPC/opt-out and Log Data text the diff shows as removed is still in the live HTML (extraction artifact). Emotiv removed from failures."
+    ]
   ],
-  [
-   "DoorDash",
-   "pricing",
-   "https://www.doordash.com/dashpass/",
-   "too little text (0 chars; JS-rendered or bot wall)"
+  "flaky_2026-11-19": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept"
+    ],
+    [
+      "note",
+      "No SSL/transient failures on Nov 19 (single pass 173 ok / 4 failed). Nov 17 and Nov 18 runs did not happen (account usage ran out); diff is Nov 16 -> Nov 19."
+    ]
   ],
-  [
-   "United",
-   "pricing",
-   "https://www.united.com/en/us/fly/baggage/checked-bags.html",
-   "ReadTimeout"
+  "flaky_2026-11-20": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); kept. Tried /us/webapps/mpp/ua/useragreement-full and /us/legalhub/useragreement-full: also 403"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10); kept. Tried /us/webapps/mpp/ua/privacy-full and /us/legalhub/privacy-full: also 403"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept. Tried https://www.roblox.com/info/terms: also 403"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept. Tried us.shein.com and www.shein.com paths: 49 chars (bot wall)"
+    ],
+    [
+      "note",
+      "Single pass 173 ok / 4 failed; no SSL/transient failures. No working replacement URL found for any of the 4."
+    ]
   ],
-  [
-   "United",
-   "terms",
-   "https://www.united.com/en/us/fly/contract-of-carriage.html",
-   "ReadTimeout"
+  "flaky_2026-11-21": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept"
+    ],
+    [
+      "Calm",
+      "terms",
+      "https://www.calm.com/terms",
+      "New: HTTP 403 to the tracker's Chrome/128 UA (twice); a plain 'Mozilla/5.0' UA got 200. Retried that way, extracted text identical to Nov 20, saved as the Nov 21 snapshot. Watch: if it repeats, consider a per-service UA override in tracker.py."
+    ],
+    [
+      "note",
+      "Single pass 172 ok / 5 failed. No working replacement URL found for PayPal/Roblox/Shein (alternates tried Nov 20)."
+    ]
   ],
-  [
-   "Southwest",
-   "pricing",
-   "https://www.southwest.com/help/baggage/checked-bags",
-   "HTTP 404"
+  "flaky_2026-11-22": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept. Slug-less URL /hc/en-us/articles/115004647846 returned 200 once then 403 on 6 retries (not a reliable swap)"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept. us.shein.com still 49 chars (bot wall)"
+    ],
+    [
+      "Calm",
+      "terms",
+      "https://www.calm.com/terms",
+      "HTTP 403 to the Chrome/128 UA for the 2nd day; plain 'Mozilla/5.0' UA got 200, text identical to Nov 21, saved as Nov 22 snapshot. Fixed: tracker.py fetch() now retries any 403 once with a plain 'Mozilla/5.0' UA."
+    ],
+    [
+      "note",
+      "Single pass 173 ok / 5 failed (4 after the Calm retry). No working replacement for PayPal/Roblox/Shein."
+    ]
   ],
-  [
-   "Southwest",
-   "terms",
-   "https://www.southwest.com/assets/pdfs/corporate-commitments/contract-of-carriage.pdf",
-   "PDF (unsupported)"
+  "flaky_2026-11-23": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10), also with plain UA; kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10), also with plain UA; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept. Slug-less help URL and www.roblox.com/info/terms also 403 (Chrome and plain UA)"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept. us.shein.com returns 200 but extracts to 49 chars (bot wall)"
+    ],
+    [
+      "note",
+      "Single pass 175 ok / 4 failed (Calm terms OK via the plain-UA 403 retry). No working replacement for PayPal/Roblox/Shein."
+    ]
   ],
-  [
-   "American Airlines",
-   "pricing",
-   "https://www.aa.com/i18n/travel-info/baggage/checked-baggage-policy.jsp",
-   "HTTP 403"
+  "flaky_2026-11-24": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/useragreement-full also 403; kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10), also with plain UA; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept. Slug-less help URL and www.roblox.com/info/terms also 403"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept. www.shein.com redirects to us.shein.com (200) but extracts to 49 chars (bot wall)"
+    ],
+    [
+      "note",
+      "Single pass 175 ok / 4 failed. No working replacement for PayPal/Roblox/Shein."
+    ]
   ],
-  [
-   "American Airlines",
-   "terms",
-   "https://www.aa.com/i18n/customer-service/support/conditions-of-carriage.jsp",
-   "HTTP 403"
+  "flaky_2026-11-25": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues (since Nov 10); retry with browser UA timed out, /us/legalhub/useragreement-full 403; kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues (since Nov 10); kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept. The public Zendesk API URL https://en.help.roblox.com/api/v2/help_center/en-us/articles/115004647846.json returns 200 (body HTML inside JSON) and would work as a replacement once tracker.extract() can read a JSON 'body' field"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept. us.shein.com/Terms-and-Conditions-a-399.html is 200 but extracts to ~480 chars (bot wall)"
+    ],
+    [
+      "Todoist",
+      "terms",
+      "https://doist.com/terms-of-service",
+      "ReadTimeout in the tracker run (first time); manual retry at ~6:30 AM MT returned 200, treated as transient; kept"
+    ],
+    [
+      "note",
+      "Single pass 174 ok / 5 failed. No swap today: the only working alternative (Roblox Zendesk API) needs a tracker JSON fallback."
+    ]
   ],
-  [
-   "Max (HBO)",
-   "terms",
-   "https://www.max.com/terms-of-use/en-us",
-   "too little text (24 chars; JS-rendered or bot wall)"
+  "flaky_2026-11-26": [
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 continues; kept. Zendesk API JSON alternative still needs a tracker JSON 'body' fallback before a swap"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept (us.shein.com variant is also bot-walled)"
+    ],
+    [
+      "note",
+      "Single pass 177 ok / 2 failed. PayPal terms and privacy fetched OK today for the first time since Nov 10 (no diff); Todoist OK. No swap."
+    ]
   ],
-  [
-   "Max (HBO)",
-   "privacy",
-   "https://www.max.com/privacy-policy/en-us",
-   "HTTP 404"
+  "flaky_2026-11-27": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 (retry SSLError, then 403) after fetching OK on Nov 26; kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 on first pass and two retries after fetching OK on Nov 26; kept"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept"
+    ],
+    [
+      "note",
+      "First pass 170 ok / 9 failed. Venmo privacy, Stripe privacy, JetBlue terms, Temu terms/privacy (SSLError) and Fitbit terms (HTTP 429) fetched OK and unchanged on retry (snapshots saved). Roblox terms fetched OK again (first since Nov 5). No swap."
+    ]
   ],
-  [
-   "Paramount+",
-   "terms",
-   "https://legal.paramount.com/us/en/pplus/terms-of-use",
-   "too little text (136 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Paramount+",
-   "privacy",
-   "https://privacy.paramount.com/policy",
-   "too little text (136 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Patreon",
-   "privacy",
-   "https://privacy.patreon.com/policies",
-   "too little text (0 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Tinder",
-   "privacy",
-   "https://policies.tinder.com/privacy/us/en",
-   "HTTP 404"
-  ],
-  [
-   "Twitch",
-   "terms",
-   "https://www.twitch.tv/p/en/legal/terms-of-service/",
-   "too little text (0 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Twitch",
-   "privacy",
-   "https://www.twitch.tv/p/en/legal/privacy-notice/",
-   "too little text (0 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "PlayStation Plus",
-   "pricing",
-   "https://www.playstation.com/en-us/ps-plus/",
-   "too little text (198 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Mailchimp",
-   "terms",
-   "https://www.intuit.com/legal/terms/en-us/mailchimp/",
-   "HTTP 429"
-  ],
-  [
-   "Calendly",
-   "terms",
-   "https://calendly.com/legal/terms",
-   "HTTP 404"
-  ],
-  [
-   "WhatsApp",
-   "terms",
-   "https://www.whatsapp.com/legal/terms-of-service",
-   "HTTP 400"
-  ],
-  [
-   "WhatsApp",
-   "privacy",
-   "https://www.whatsapp.com/legal/privacy-policy",
-   "HTTP 400"
-  ],
-  [
-   "Vimeo",
-   "pricing",
-   "https://vimeo.com/upgrade",
-   "too little text (0 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Alaska Airlines",
-   "pricing",
-   "https://www.alaskaair.com/content/travel-info/baggage/checked-bags",
-   "too little text (0 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Alaska Airlines",
-   "terms",
-   "https://www.alaskaair.com/content/legal/contract-of-carriage",
-   "too little text (0 chars; JS-rendered or bot wall)"
+  "flaky_2026-11-28": [
+    [
+      "PayPal",
+      "terms",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
+      "HTTP 403 continues; kept"
+    ],
+    [
+      "PayPal",
+      "privacy",
+      "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+      "HTTP 403 continues; kept"
+    ],
+    [
+      "Roblox",
+      "terms",
+      "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
+      "HTTP 403 again after fetching OK on Nov 27 (plain-UA curl also 403); kept"
+    ],
+    [
+      "Shein",
+      "terms",
+      "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
+      "too little text (23 chars) continues; kept"
+    ],
+    [
+      "Grindr",
+      "privacy",
+      "https://trust.grindr.com/en-US/privacy",
+      "too little text (66 chars) to tracker, first failure; page returns 200 (643 KB) to plain curl, likely JS-rendered variant; kept, watch"
+    ],
+    [
+      "note",
+      "174 ok / 5 failed, 6 changed, all noise. No swap."
+    ]
   ]
- ],
- "flaky_2026-10-15": [
-  [
-   "Tinder",
-   "terms",
-   "https://policies.tinder.com/terms/us/en",
-   "served a Dutch-language version despite en-US Accept-Language; diff ignored as locale noise, watch for flip-back"
-  ]
- ],
- "flaky_2026-10-16": [
-  [
-   "TikTok",
-   "terms",
-   "https://www.tiktok.com/legal/page/us/terms-of-service/en",
-   "too little text (0 chars; JS-rendered or bot wall); first failure, fetched fine Oct 14-15, keep watching"
-  ]
- ],
- "flaky_2026-10-19": [
-  [
-   "Tinder",
-   "terms",
-   "https://policies.tinder.com/terms/us/en",
-   "served a Spanish-language version despite the en-US URL (Dutch on Oct 15); diff ignored as locale noise"
-  ],
-  [
-   "Slack",
-   "pricing",
-   "https://slack.com/pricing",
-   "Enterprise+ alternates between $45 and 'Contact sales for pricing' across requests; treat flips as page testing"
-  ],
-  [
-   "Shopify",
-   "pricing",
-   "https://www.shopify.com/pricing",
-   "yearly Grow/Advanced prices rotate between $79/$299 and $89/$359 across requests (6/4 split in 10 checks Oct 19)"
-  ]
- ],
- "failed_2026-10-20": [
-  [
-   "Amazon Prime",
-   "terms",
-   "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP",
-   "SSLError"
-  ],
-  [
-   "Amazon Prime",
-   "privacy",
-   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
-   "SSLError"
-  ]
- ],
- "flaky_2026-10-21": [
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 (first failure, kept)"
-  ]
- ],
- "flaky_2026-10-22": [
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 for a second day; roblox.com/info/terms also 403s, so no working replacement yet; kept"
-  ],
-  [
-   "Canva",
-   "terms",
-   "https://www.canva.com/policies/terms-of-use/",
-   "HTTP 403 during the run, but a retry minutes later returned 200; transient, kept"
-  ],
-  [
-   "Wix",
-   "terms",
-   "https://www.wix.com/about/terms-of-use",
-   "first full capture (549 lines vs 53 before); the +496 diff is a capture improvement, not a terms change"
-  ]
- ],
- "flaky_2026-10-24": [
-  [
-   "Delta",
-   "pricing+terms",
-   "delta.com",
-   "ReadTimeout during run; retry returned 200; transient, kept"
-  ],
-  [
-   "Pinterest",
-   "terms+privacy",
-   "policy.pinterest.com",
-   "SSLError during run; retry returned 200; transient, kept"
-  ],
-  [
-   "Verizon",
-   "pricing+terms+privacy",
-   "verizon.com",
-   "SSLError during run; retry returned 200; transient, kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; no working replacement yet; kept"
-  ]
- ],
- "flaky_2026-10-28": [
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 for a week; roblox.com/info/terms redirects and the help-center API 404s, so still no working replacement; kept"
-  ]
- ],
- "flaky_2026-10-31": [
-  [
-   "Pinterest",
-   "terms+privacy",
-   "https://policy.pinterest.com/en/",
-   "SSLError in tracker; curl got 200 minutes later, transient"
-  ],
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError Oct 30 and Oct 31 (curl TLS error 35 too); watch, swap if it persists"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 again; no working replacement known; kept"
-  ]
- ],
- "flaky_2026-11-01": [
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError for a 3rd day (Oct 30-Nov 1); curl to any playstation.com URL (en-us, en-gb, homepage) fails to connect, so no same-site replacement; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; no working replacement known; kept"
-  ],
-  [
-   "Microsoft 365",
-   "pricing",
-   "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
-   "first failure: too little text in tracker, curl gets HTTP 403 (bot wall); watch"
-  ],
-  [
-   "Fitbit",
-   "privacy",
-   "https://support.google.com/product-documentation/answer/14815921?hl=en",
-   "first failure: HTTP 429 rate limit (curl gets a 302); transient, watch"
-  ]
- ],
- "flaky_2026-11-02": [
-  [
-   "Delta/Pinterest/Verizon/Xero",
-   "pricing+terms+privacy",
-   "various",
-   "SSLError burst on first tracker pass at 6:16 AM; rerun minutes later fetched all of them, transient"
-  ],
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError for a 4th day (Oct 30-Nov 2); playstation.com still unreachable, no same-site replacement; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; no working replacement known; kept"
-  ]
- ],
- "flaky_2026-11-05": [
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError (SSLEOFError) for a 5th check day (Oct 30-Nov 5, no Nov 4 run); curl also fails; no same-site replacement; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 on first tries, 200 on later retries; snapshot saved by hand after the tracker run; last snapshot before it was Oct 30 so today's diff spans the Nov 1 go-live of the rewritten terms; keep"
-  ]
- ],
- "flaky_2026-11-06": [
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError continues (6th+ check day since Oct 30; no Nov 4 run). curl/TLS still fails on playstation.com; no same-site replacement; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 again after Nov 5's intermittent 200; no working replacement known; kept"
-  ]
- ],
- "flaky_2026-11-07": [
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError continues (7th+ check day since Oct 30; no Nov 4 run). curl/TLS still fails on playstation.com; no same-site replacement; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; roblox.com/info/terms is 404 and help-center stays CF-challenged; no working replacement known; kept"
-  ]
- ],
- "flaky_2026-11-08": [
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError continues (8th+ check day since Oct 30); no same-site replacement; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; no working replacement known; kept"
-  ]
- ],
- "flaky_2026-11-09": [
-  [
-   "PlayStation Plus",
-   "terms",
-   "https://www.playstation.com/en-us/legal/psn-terms-of-service/",
-   "SSLError continues (9th+ check day since Oct 30); no same-site replacement; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; no working replacement known; kept"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "First failure: 23 chars (bot wall) in tracker run; manual curl minutes later returned 200 with full page; one-off, kept"
-  ]
- ],
- "flaky_2026-11-10": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403"
-  ],
-  [
-   "Xbox Game Pass",
-   "pricing",
-   "https://www.xbox.com/en-US/xbox-game-pass",
-   "SSLError"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "Emotiv",
-   "privacy",
-   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
-   "too little text (0 chars; JS-rendered or bot wall)"
-  ],
-  [
-   "note",
-   "PayPal 403 and Xbox Game Pass SSLError are new today; Emotiv privacy returned an empty page (added Nov 9). Roblox/Shein ongoing."
-  ]
- ],
- "flaky_2026-11-14": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/useragreement-full also 403; kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/privacy-full and /us/legalhub/privacy-full also 403; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; www.roblox.com/info/terms also 403; kept"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; us.shein.com and www.shein.com variants also bot-walled (49 chars); kept"
-  ],
-  [
-   "Emotiv",
-   "privacy",
-   "https://id.emotivcloud.com/eoidc/privacy/privacy_policy/",
-   "0 chars continues: policy text is embedded in a JS string (htmlDoc), which the extractor strips; emotiv.com/consumer-health-data-privacy-policy loads but is a different document; kept"
-  ],
-  [
-   "note",
-   "Same 5 failures as Nov 10-13. No working same-document replacement found on Nov 14."
-  ]
- ],
- "flaky_2026-11-16": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept"
-  ],
-  [
-   "Apple",
-   "pricing",
-   "https://www.apple.com/apple-one/",
-   "SSLError on first pass only; retry fetched OK, unchanged"
-  ],
-  [
-   "Apple",
-   "terms",
-   "https://www.apple.com/legal/internet-services/itunes/us/terms.html",
-   "SSLError on first pass only; retry fetched OK, unchanged"
-  ],
-  [
-   "Amazon Prime",
-   "privacy",
-   "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
-   "SSLError on first pass only; retry fetched OK, unchanged"
-  ],
-  [
-   "note",
-   "Emotiv privacy fetched again today (first since Nov 9): page re-templated so the extractor now sees the text. Diff vs Nov 9 is formatting plus the removed 'Effective Date: August 6, 2026' line; the GPC/opt-out and Log Data text the diff shows as removed is still in the live HTML (extraction artifact). Emotiv removed from failures."
-  ]
- ],
- "flaky_2026-11-19": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept"
-  ],
-  [
-   "note",
-   "No SSL/transient failures on Nov 19 (single pass 173 ok / 4 failed). Nov 17 and Nov 18 runs did not happen (account usage ran out); diff is Nov 16 -> Nov 19."
-  ]
- ],
- "flaky_2026-11-20": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); kept. Tried /us/webapps/mpp/ua/useragreement-full and /us/legalhub/useragreement-full: also 403"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10); kept. Tried /us/webapps/mpp/ua/privacy-full and /us/legalhub/privacy-full: also 403"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept. Tried https://www.roblox.com/info/terms: also 403"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept. Tried us.shein.com and www.shein.com paths: 49 chars (bot wall)"
-  ],
-  [
-   "note",
-   "Single pass 173 ok / 4 failed; no SSL/transient failures. No working replacement URL found for any of the 4."
-  ]
- ],
- "flaky_2026-11-21": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept"
-  ],
-  [
-   "Calm",
-   "terms",
-   "https://www.calm.com/terms",
-   "New: HTTP 403 to the tracker's Chrome/128 UA (twice); a plain 'Mozilla/5.0' UA got 200. Retried that way, extracted text identical to Nov 20, saved as the Nov 21 snapshot. Watch: if it repeats, consider a per-service UA override in tracker.py."
-  ],
-  [
-   "note",
-   "Single pass 172 ok / 5 failed. No working replacement URL found for PayPal/Roblox/Shein (alternates tried Nov 20)."
-  ]
- ],
- "flaky_2026-11-22": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept. Slug-less URL /hc/en-us/articles/115004647846 returned 200 once then 403 on 6 retries (not a reliable swap)"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept. us.shein.com still 49 chars (bot wall)"
-  ],
-  [
-   "Calm",
-   "terms",
-   "https://www.calm.com/terms",
-   "HTTP 403 to the Chrome/128 UA for the 2nd day; plain 'Mozilla/5.0' UA got 200, text identical to Nov 21, saved as Nov 22 snapshot. Fixed: tracker.py fetch() now retries any 403 once with a plain 'Mozilla/5.0' UA."
-  ],
-  [
-   "note",
-   "Single pass 173 ok / 5 failed (4 after the Calm retry). No working replacement for PayPal/Roblox/Shein."
-  ]
- ],
- "flaky_2026-11-23": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10), also with plain UA; kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10), also with plain UA; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept. Slug-less help URL and www.roblox.com/info/terms also 403 (Chrome and plain UA)"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept. us.shein.com returns 200 but extracts to 49 chars (bot wall)"
-  ],
-  [
-   "note",
-   "Single pass 175 ok / 4 failed (Calm terms OK via the plain-UA 403 retry). No working replacement for PayPal/Roblox/Shein."
-  ]
- ],
- "flaky_2026-11-24": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); /us/webapps/mpp/ua/useragreement-full also 403; kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10), also with plain UA; kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept. Slug-less help URL and www.roblox.com/info/terms also 403"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept. www.shein.com redirects to us.shein.com (200) but extracts to 49 chars (bot wall)"
-  ],
-  [
-   "note",
-   "Single pass 175 ok / 4 failed. No working replacement for PayPal/Roblox/Shein."
-  ]
- ],
- "flaky_2026-11-25": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 continues (since Nov 10); retry with browser UA timed out, /us/legalhub/useragreement-full 403; kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 continues (since Nov 10); kept"
-  ],
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept. The public Zendesk API URL https://en.help.roblox.com/api/v2/help_center/en-us/articles/115004647846.json returns 200 (body HTML inside JSON) and would work as a replacement once tracker.extract() can read a JSON 'body' field"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept. us.shein.com/Terms-and-Conditions-a-399.html is 200 but extracts to ~480 chars (bot wall)"
-  ],
-  [
-   "Todoist",
-   "terms",
-   "https://doist.com/terms-of-service",
-   "ReadTimeout in the tracker run (first time); manual retry at ~6:30 AM MT returned 200, treated as transient; kept"
-  ],
-  [
-   "note",
-   "Single pass 174 ok / 5 failed. No swap today: the only working alternative (Roblox Zendesk API) needs a tracker JSON fallback."
-  ]
- ],
- "flaky_2026-11-26": [
-  [
-   "Roblox",
-   "terms",
-   "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use",
-   "HTTP 403 continues; kept. Zendesk API JSON alternative still needs a tracker JSON 'body' fallback before a swap"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept (us.shein.com variant is also bot-walled)"
-  ],
-  [
-   "note",
-   "Single pass 177 ok / 2 failed. PayPal terms and privacy fetched OK today for the first time since Nov 10 (no diff); Todoist OK. No swap."
-  ]
- ],
- "flaky_2026-11-27": [
-  [
-   "PayPal",
-   "terms",
-   "https://www.paypal.com/us/legalhub/paypal/useragreement-full",
-   "HTTP 403 (retry SSLError, then 403) after fetching OK on Nov 26; kept"
-  ],
-  [
-   "PayPal",
-   "privacy",
-   "https://www.paypal.com/us/legalhub/paypal/privacy-full",
-   "HTTP 403 on first pass and two retries after fetching OK on Nov 26; kept"
-  ],
-  [
-   "Shein",
-   "terms",
-   "https://m.shein.com/us/Terms-and-Conditions-a-399.html",
-   "too little text (23 chars) continues; kept"
-  ],
-  [
-   "note",
-   "First pass 170 ok / 9 failed. Venmo privacy, Stripe privacy, JetBlue terms, Temu terms/privacy (SSLError) and Fitbit terms (HTTP 429) fetched OK and unchanged on retry (snapshots saved). Roblox terms fetched OK again (first since Nov 5). No swap."
-  ]
- ]
 }
